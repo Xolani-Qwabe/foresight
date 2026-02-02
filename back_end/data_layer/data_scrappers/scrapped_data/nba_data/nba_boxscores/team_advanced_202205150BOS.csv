@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-05-15,202205150BOS,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202205150BOS.html,43:09,.436,.404,.154,.231,6.5,35.7,21.4,45.8,2.3,3.4,14.9,34.0,88,103,9.8
+2022-05-15,202205150BOS,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202205150BOS.html,40:57,.461,.429,.286,.190,2.3,8.8,5.6,41.8,2.4,0.0,4.2,25.3,103,112,4.9
+2022-05-15,202205150BOS,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202205150BOS.html,37:09,.582,.542,.500,.167,10.1,14.6,12.4,0.0,0.0,11.7,13.4,17.5,106,109,1.4
+2022-05-15,202205150BOS,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202205150BOS.html,21:41,.255,.200,.600,.400,4.3,4.2,4.3,0.0,0.0,0.0,14.5,13.8,53,119,-12.2
+2022-05-15,202205150BOS,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202205150BOS.html,21:38,.073,.000,.667,.333,0.0,12.6,6.4,0.0,0.0,0.0,0.0,13.9,17,117,-15.5
+2022-05-15,202205150BOS,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202205150BOS.html,32:02,.167,.167,.833,.000,0.0,17.0,8.6,9.5,0.0,0.0,0.0,8.2,50,116,-7.9
+2022-05-15,202205150BOS,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202205150BOS.html,21:54,.556,.556,.333,.000,0.0,24.8,12.6,0.0,2.2,6.6,25.0,23.9,75,104,-1.5
+2022-05-15,202205150BOS,MIL,George Hill,https://www.basketball-reference.com/boxscores/202205150BOS.html,11:15,,,,,0.0,16.1,8.2,0.0,0.0,0.0,100.0,3.9,0,116,-13.4
+2022-05-15,202205150BOS,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,,,,,45.9,0.0,22.5,0.0,0.0,0.0,,0.0,209,120,-0.6
+2022-05-15,202205150BOS,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-10.4
+2022-05-15,202205150BOS,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.6,95,120,4.9
+2022-05-15,202205150BOS,MIL,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.6,0,120,-35.1
+2022-05-15,202205150BOS,MIL,Luca Vildoza,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,1.000,1.000,.000,.000,45.9,0.0,22.5,100.0,0.0,0.0,0.0,21.3,203,120,46.3
+2022-05-15,202205150BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202205150BOS.html,39:39,.381,.286,.286,.286,2.3,21.4,11.6,21.0,0.0,2.1,0.0,8.8,120,84,2.5
+2022-05-15,202205150BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202205150BOS.html,39:20,.614,.614,.818,.000,2.3,12.0,7.0,0.0,0.0,4.3,4.3,26.0,105,86,5.8
+2022-05-15,202205150BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202205150BOS.html,37:05,.455,.278,.667,.778,2.4,15.2,8.7,37.6,1.3,2.3,14.2,16.9,117,83,2.6
+2022-05-15,202205150BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202205150BOS.html,36:46,.535,.563,.313,.250,2.5,17.9,10.0,0.0,2.7,0.0,10.1,23.9,88,81,0.5
+2022-05-15,202205150BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202205150BOS.html,36:30,.710,.679,.643,.357,2.5,12.9,7.6,37.9,0.0,2.3,30.2,28.3,106,87,7.4
+2022-05-15,202205150BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202205150BOS.html,18:13,.150,.150,.600,.000,0.0,10.3,5.1,7.7,2.7,0.0,0.0,24.4,39,84,-12.6
+2022-05-15,202205150BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202205150BOS.html,17:01,1.000,1.000,.857,.000,10.6,16.6,13.6,37.0,0.0,0.0,0.0,18.3,191,87,27.8
+2022-05-15,202205150BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202205150BOS.html,6:18,.000,.000,1.000,.000,14.4,29.9,22.0,0.0,7.8,26.7,0.0,7.1,70,49,14.4
+2022-05-15,202205150BOS,BOS,Malik Fitts,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.7,300,93,47.2
+2022-05-15,202205150BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,93,-4.1
+2022-05-15,202205150BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,1.500,1.500,1.000,.000,0.0,45.9,22.5,0.0,0.0,0.0,0.0,21.7,300,77,50.9
+2022-05-15,202205150BOS,BOS,Nik Stauskas,https://www.basketball-reference.com/boxscores/202205150BOS.html,2:03,,,,,0.0,0.0,0.0,63.3,0.0,0.0,,0.0,259,93,12.2
+2022-05-15,202205150BOS,BOS,Juwan Morgan,https://www.basketball-reference.com/boxscores/202205150BOS.html,0:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,93,-3.5

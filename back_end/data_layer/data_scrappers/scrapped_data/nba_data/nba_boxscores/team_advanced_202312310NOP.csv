@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-31,202312310NOP,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202312310NOP.html,36:41,.618,.563,.292,.333,0.0,15.2,8.0,44.9,0.0,2.5,12.7,38.9,113,136,3.6
+2023-12-31,202312310NOP,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202312310NOP.html,35:29,.540,.467,.133,.533,6.9,25.2,16.5,13.7,0.0,12.8,13.9,27.5,102,126,-3.6
+2023-12-31,202312310NOP,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202312310NOP.html,34:19,.794,.778,.778,.111,0.0,3.3,1.7,17.5,2.8,5.3,17.5,15.1,126,131,5.6
+2023-12-31,202312310NOP,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202312310NOP.html,20:36,.500,.500,.250,.000,0.0,10.8,5.7,0.0,2.4,0.0,20.0,11.0,72,134,-9.2
+2023-12-31,202312310NOP,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202312310NOP.html,7:36,1.064,1.000,.000,2.000,0.0,14.7,7.7,19.3,6.4,0.0,34.7,17.2,143,123,8.3
+2023-12-31,202312310NOP,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202312310NOP.html,36:11,.683,.625,.417,.500,3.4,3.1,3.2,40.2,1.3,2.5,0.0,18.3,153,136,6.3
+2023-12-31,202312310NOP,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202312310NOP.html,29:15,.318,.318,.545,.000,4.2,22.9,14.0,0.0,3.3,0.0,15.4,20.1,57,128,-13.5
+2023-12-31,202312310NOP,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202312310NOP.html,25:15,.375,.375,1.000,.000,0.0,22.1,11.6,5.1,0.0,3.6,0.0,7.2,82,134,-7.1
+2023-12-31,202312310NOP,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202312310NOP.html,9:54,.000,.000,.000,.000,0.0,22.6,11.8,0.0,0.0,0.0,0.0,4.6,0,135,-17.0
+2023-12-31,202312310NOP,LAL,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202312310NOP.html,4:44,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,10.3,0.0,0.0,9.6,200,118,11.4
+2023-12-31,202312310NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202312310NOP.html,37:54,.644,.667,.389,.278,2.9,13.0,7.7,31.3,3.9,5.1,12.9,26.7,124,104,8.9
+2023-12-31,202312310NOP,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202312310NOP.html,35:44,.579,.579,.579,.000,0.0,17.2,8.2,35.3,1.4,2.7,5.0,24.5,130,112,6.6
+2023-12-31,202312310NOP,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202312310NOP.html,31:38,.752,.667,.000,1.000,7.1,7.8,7.4,27.7,0.0,0.0,18.8,29.4,136,118,0.9
+2023-12-31,202312310NOP,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202312310NOP.html,29:19,.722,.722,.556,.000,11.4,4.2,8.0,4.4,0.0,0.0,0.0,13.4,157,118,-0.4
+2023-12-31,202312310NOP,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202312310NOP.html,24:51,.707,.571,.000,.714,9.0,29.7,18.8,5.2,2.0,3.9,0.0,16.2,162,108,3.6
+2023-12-31,202312310NOP,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202312310NOP.html,23:09,.955,.875,.250,1.000,9.6,42.5,25.3,16.0,0.0,0.0,14.8,12.8,178,114,6.2
+2023-12-31,202312310NOP,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202312310NOP.html,21:17,.375,.375,.375,.000,10.5,17.3,13.8,17.7,0.0,0.0,0.0,16.4,115,117,-7.4
+2023-12-31,202312310NOP,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202312310NOP.html,20:27,.500,.500,.625,.000,0.0,18.1,8.6,6.2,9.6,9.4,11.1,19.2,94,88,8.4
+2023-12-31,202312310NOP,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202312310NOP.html,7:56,.347,.000,1.000,1.000,0.0,31.0,14.8,13.4,0.0,0.0,0.0,7.9,118,115,-6.7
+2023-12-31,202312310NOP,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202312310NOP.html,7:45,1.500,1.500,1.000,.000,0.0,15.9,7.6,0.0,0.0,0.0,50.0,11.3,75,117,-2.9

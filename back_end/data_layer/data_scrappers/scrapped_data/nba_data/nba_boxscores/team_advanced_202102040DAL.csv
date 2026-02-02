@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-04,202102040DAL,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202102040DAL.html,39:37,.875,.875,.500,.000,0.0,19.0,11.1,13.9,0.0,5.8,20.0,11.1,142,115,2.3
+2021-02-04,202102040DAL,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202102040DAL.html,36:12,.846,.833,.476,.286,3.7,18.2,12.2,8.2,1.3,3.2,7.8,31.2,145,114,10.3
+2021-02-04,202102040DAL,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202102040DAL.html,29:56,.713,.647,.588,.353,0.0,9.4,5.5,26.3,0.0,0.0,9.2,31.9,135,122,3.0
+2021-02-04,202102040DAL,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202102040DAL.html,29:30,.446,.417,.278,.278,0.0,9.6,5.6,8.2,0.0,3.9,0.0,30.2,93,119,-13.8
+2021-02-04,202102040DAL,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202102040DAL.html,28:45,.764,.600,.000,1.000,4.6,16.4,11.5,54.5,0.0,0.0,12.2,12.6,184,119,11.9
+2021-02-04,202102040DAL,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202102040DAL.html,24:44,1.142,1.143,.714,.143,0.0,19.0,11.2,4.9,1.9,0.0,0.0,13.3,212,114,12.7
+2021-02-04,202102040DAL,GSW,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202102040DAL.html,20:08,.532,.000,.000,2.000,6.6,9.3,8.2,14.0,7.0,0.0,0.0,4.1,177,104,4.7
+2021-02-04,202102040DAL,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202102040DAL.html,16:49,.500,.500,.600,.000,7.9,33.6,23.0,18.9,2.8,6.8,16.7,15.7,114,103,2.6
+2021-02-04,202102040DAL,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202102040DAL.html,14:19,.761,.786,.857,.286,0.0,13.1,7.7,0.0,0.0,8.0,0.0,24.3,131,116,5.4
+2021-02-04,202102040DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202102040DAL.html,32:26,.563,.475,.350,.450,5.8,16.4,10.2,33.9,1.5,0.0,17.3,38.2,106,143,-1.0
+2021-02-04,202102040DAL,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202102040DAL.html,31:03,.333,.333,.778,.000,3.0,0.0,1.8,22.1,1.5,0.0,10.0,13.8,92,144,-7.3
+2021-02-04,202102040DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202102040DAL.html,26:38,.644,.500,1.000,.667,3.5,15.0,8.3,10.0,0.0,0.0,0.0,6.2,159,146,-6.0
+2021-02-04,202102040DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202102040DAL.html,25:12,.741,.719,.500,.125,3.7,21.2,10.9,27.4,0.0,8.3,5.6,30.4,137,139,13.2
+2021-02-04,202102040DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202102040DAL.html,20:22,.500,.500,.000,.000,0.0,45.8,19.0,6.6,0.0,5.1,33.3,6.3,77,140,-8.9
+2021-02-04,202102040DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202102040DAL.html,23:40,.638,.607,.786,.143,0.0,16.9,7.0,7.9,0.0,0.0,0.0,26.9,124,146,3.1
+2021-02-04,202102040DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202102040DAL.html,22:26,.836,.833,.556,.444,8.4,5.9,7.4,34.0,0.0,0.0,8.5,22.4,160,147,10.5
+2021-02-04,202102040DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202102040DAL.html,14:30,.568,,,,6.5,46.0,22.8,8.7,0.0,0.0,0.0,2.6,176,144,-9.0
+2021-02-04,202102040DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202102040DAL.html,13:40,.286,.286,.429,.000,0.0,9.8,4.0,22.7,0.0,0.0,0.0,21.9,76,147,-14.6
+2021-02-04,202102040DAL,DAL,James Johnson,https://www.basketball-reference.com/boxscores/202102040DAL.html,7:43,.250,.250,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.2,52,148,-22.5
+2021-02-04,202102040DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202102040DAL.html,5:35,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,23.0,78,148,-7.5
+2021-02-04,202102040DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202102040DAL.html,5:35,,,,,0.0,0.0,0.0,22.6,0.0,0.0,,0.0,253,148,-3.1
+2021-02-04,202102040DAL,DAL,Wes Iwundu,https://www.basketball-reference.com/boxscores/202102040DAL.html,5:35,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.3,0,148,-27.1
+2021-02-04,202102040DAL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202102040DAL.html,5:35,.410,.250,.000,.500,33.7,95.5,59.3,0.0,0.0,0.0,0.0,37.4,111,141,-6.1

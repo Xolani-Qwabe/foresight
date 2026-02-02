@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-06,201911060DAL,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/201911060DAL.html,37:19,.643,.618,.294,.118,9.4,2.8,5.9,4.9,2.6,0.0,18.3,25.5,107,115,-3.1
+2019-11-06,201911060DAL,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/201911060DAL.html,33:22,.552,.500,.200,.333,3.5,31.3,18.2,34.8,1.5,2.7,10.4,25.0,116,106,7.5
+2019-11-06,201911060DAL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/201911060DAL.html,31:47,.732,.688,.250,.250,3.7,29.5,17.4,24.0,6.1,17.1,31.1,17.6,109,88,13.9
+2019-11-06,201911060DAL,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/201911060DAL.html,27:41,.765,.700,.400,.400,0.0,0.0,0.0,5.1,0.0,0.0,14.5,10.8,131,121,-8.1
+2019-11-06,201911060DAL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/201911060DAL.html,24:23,.527,.500,.200,.100,0.0,8.6,4.5,13.5,6.0,0.0,16.1,22.2,93,105,-3.7
+2019-11-06,201911060DAL,ORL,D.J. Augustin,https://www.basketball-reference.com/boxscores/201911060DAL.html,28:28,.888,.833,.500,.500,0.0,0.0,0.0,31.4,3.4,0.0,35.3,17.3,120,114,3.5
+2019-11-06,201911060DAL,ORL,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/201911060DAL.html,21:20,.580,.444,.111,.556,16.5,19.6,18.1,15.0,4.5,12.7,8.2,24.9,127,98,15.0
+2019-11-06,201911060DAL,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/201911060DAL.html,14:31,.399,.500,.000,2.000,8.1,14.4,11.4,0.0,0.0,0.0,0.0,11.3,94,117,-9.4
+2019-11-06,201911060DAL,ORL,Al-Farouq Aminu,https://www.basketball-reference.com/boxscores/201911060DAL.html,14:23,.000,.000,.750,.000,0.0,21.8,11.5,8.6,0.0,0.0,0.0,12.1,17,114,-14.6
+2019-11-06,201911060DAL,ORL,Wes Iwundu,https://www.basketball-reference.com/boxscores/201911060DAL.html,6:46,.174,.000,.750,1.000,17.3,46.3,32.6,0.0,0.0,0.0,0.0,37.0,53,106,-26.5
+2019-11-06,201911060DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/201911060DAL.html,37:26,.561,.500,.333,.333,5.6,15.6,10.3,38.7,0.0,0.0,19.9,33.8,104,109,2.2
+2019-11-06,201911060DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/201911060DAL.html,33:56,.676,.625,.000,.250,12.3,13.8,13.0,9.8,1.4,0.0,10.1,12.2,141,106,3.9
+2019-11-06,201911060DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201911060DAL.html,33:45,.336,.321,.357,.143,3.1,24.3,13.1,4.7,0.0,0.0,11.8,21.0,70,107,-8.0
+2019-11-06,201911060DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201911060DAL.html,28:33,.515,.500,.667,.667,7.3,16.4,11.6,0.0,1.7,0.0,34.0,8.7,82,105,-2.2
+2019-11-06,201911060DAL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/201911060DAL.html,6:42,.595,.500,.500,2.500,0.0,0.0,0.0,0.0,7.2,12.8,19.2,32.6,99,89,13.5
+2019-11-06,201911060DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201911060DAL.html,26:29,.509,.455,.455,.364,3.9,8.8,6.2,12.6,0.0,0.0,0.0,20.3,119,110,0.3
+2019-11-06,201911060DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911060DAL.html,19:54,.902,.833,.500,.667,0.0,17.6,8.3,18.3,0.0,0.0,0.0,16.4,190,108,16.2
+2019-11-06,201911060DAL,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/201911060DAL.html,16:40,.799,.750,.333,.333,6.3,35.1,19.9,0.0,0.0,0.0,22.5,22.4,119,104,1.3
+2019-11-06,201911060DAL,DAL,J.J. Barea,https://www.basketball-reference.com/boxscores/201911060DAL.html,15:45,.799,.750,.667,.333,6.6,0.0,3.5,34.0,0.0,0.0,22.5,23.7,134,113,12.2
+2019-11-06,201911060DAL,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/201911060DAL.html,12:32,.000,.000,.000,.000,0.0,0.0,0.0,21.3,0.0,0.0,0.0,6.7,57,112,-9.1
+2019-11-06,201911060DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911060DAL.html,6:27,.000,.000,.500,.000,0.0,18.2,8.6,20.7,7.5,0.0,0.0,26.1,18,92,-12.3
+2019-11-06,201911060DAL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/201911060DAL.html,1:51,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,45.4,0,111,-59.7

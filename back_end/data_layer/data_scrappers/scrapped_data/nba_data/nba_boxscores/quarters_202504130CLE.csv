@@ -1,0 +1,86 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-04-13,202504130CLE,IND,Q1,Jarace Walker,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.87,0,4,.000,0,2,.000,0,0,0,5,5,2,2,0,0,0,0,2.1,-1,
+2025-04-13,202504130CLE,IND,Q1,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202504130CLE.html,12.0,1,6,.167,1,2,.500,0,0,0,0,0,4,0,0,1,1,3,0.6,-6,
+2025-04-13,202504130CLE,IND,Q1,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.87,2,3,.667,1,1,1.000,0,0,0,1,1,0,1,0,0,1,5,4.6,-1,
+2025-04-13,202504130CLE,IND,Q1,Myles Turner,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.87,3,3,1.000,1,1,1.000,1,1,0,0,0,1,0,0,1,1,8,6.4,-1,1.000
+2025-04-13,202504130CLE,IND,Q1,Obi Toppin,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.65,3,5,.600,1,2,.500,0,0,1,1,2,0,2,0,1,0,7,6.7,-1,
+2025-04-13,202504130CLE,IND,Q1,Johnny Furphy,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.48,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-10,
+2025-04-13,202504130CLE,IND,Q1,T.J. McConnell,https://www.basketball-reference.com/boxscores/202504130CLE.html,4.13,0,3,.000,0,0,,0,0,0,0,0,1,1,0,0,0,0,-0.4,-5,
+2025-04-13,202504130CLE,IND,Q1,Thomas Bryant,https://www.basketball-reference.com/boxscores/202504130CLE.html,4.13,1,2,.500,1,2,.500,0,0,1,0,1,0,0,0,0,0,3,2.7,-5,
+2025-04-13,202504130CLE,IND,Q2,Jarace Walker,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.4,2,4,.500,0,2,.000,0,0,0,1,1,2,0,0,0,0,4,3.7,-6,
+2025-04-13,202504130CLE,IND,Q2,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202504130CLE.html,2.47,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-2.4,-2,
+2025-04-13,202504130CLE,IND,Q2,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.5,2,4,.500,0,1,.000,1,1,2,1,3,1,0,0,1,1,5,4.0,-10,1.000
+2025-04-13,202504130CLE,IND,Q2,Myles Turner,https://www.basketball-reference.com/boxscores/202504130CLE.html,4.85,0,1,.000,0,1,.000,1,1,0,1,1,0,0,1,0,0,1,1.3,-8,1.000
+2025-04-13,202504130CLE,IND,Q2,Obi Toppin,https://www.basketball-reference.com/boxscores/202504130CLE.html,2.6,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,1,0,-1.8,-5,
+2025-04-13,202504130CLE,IND,Q2,Johnny Furphy,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.1,0,2,.000,0,2,.000,0,0,0,2,2,1,1,0,2,2,0,-1.9,-6,
+2025-04-13,202504130CLE,IND,Q2,Quenton Jackson,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.4,0,1,.000,0,1,.000,0,0,0,2,2,1,0,0,1,0,0,-0.4,-6,
+2025-04-13,202504130CLE,IND,Q2,T.J. McConnell,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.53,3,3,1.000,0,0,,0,0,0,0,0,0,0,0,1,0,6,4.1,-9,
+2025-04-13,202504130CLE,IND,Q2,Thomas Bryant,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.15,1,3,.333,0,2,.000,0,0,0,1,1,0,0,0,0,0,2,0.6,-3,
+2025-04-13,202504130CLE,IND,Q3,Jarace Walker,https://www.basketball-reference.com/boxscores/202504130CLE.html,10.0,3,4,.750,1,1,1.000,0,0,0,2,2,0,0,0,0,0,7,6.0,-7,
+2025-04-13,202504130CLE,IND,Q3,Johnny Furphy,https://www.basketball-reference.com/boxscores/202504130CLE.html,4.85,0,1,.000,0,0,,0,0,0,1,1,2,0,0,0,2,0,0.2,+2,
+2025-04-13,202504130CLE,IND,Q3,Quenton Jackson,https://www.basketball-reference.com/boxscores/202504130CLE.html,12.0,2,3,.667,0,1,.000,2,2,0,0,0,0,1,0,0,1,6,5.3,-1,1.000
+2025-04-13,202504130CLE,IND,Q3,Enrique Freeman,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.15,0,3,.000,0,1,.000,2,2,1,2,3,0,0,0,1,0,2,0.2,+3,1.000
+2025-04-13,202504130CLE,IND,Q3,RayJ Dennis,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.88,0,5,.000,0,4,.000,0,0,0,0,0,1,1,0,0,1,0,-2.2,+9,
+2025-04-13,202504130CLE,IND,Q3,Tony Bradley,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.15,2,3,.667,0,0,,2,4,1,4,5,0,0,1,0,1,6,6.1,+2,.500
+2025-04-13,202504130CLE,IND,Q3,T.J. McConnell,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.12,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,1,2,0.6,-10,
+2025-04-13,202504130CLE,IND,Q3,Thomas Bryant,https://www.basketball-reference.com/boxscores/202504130CLE.html,2.85,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2025-04-13,202504130CLE,IND,Q4,Jarace Walker,https://www.basketball-reference.com/boxscores/202504130CLE.html,3.85,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,-3,
+2025-04-13,202504130CLE,IND,Q4,Johnny Furphy,https://www.basketball-reference.com/boxscores/202504130CLE.html,12.0,3,9,.333,1,4,.250,0,0,1,3,4,0,0,1,1,0,7,3.2,+18,
+2025-04-13,202504130CLE,IND,Q4,Quenton Jackson,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.15,4,5,.800,0,1,.000,3,3,1,1,2,1,1,0,0,0,11,11.8,+21,1.000
+2025-04-13,202504130CLE,IND,Q4,Enrique Freeman,https://www.basketball-reference.com/boxscores/202504130CLE.html,12.0,2,5,.400,0,2,.000,2,2,1,2,3,0,0,0,0,0,6,4.6,+18,1.000
+2025-04-13,202504130CLE,IND,Q4,RayJ Dennis,https://www.basketball-reference.com/boxscores/202504130CLE.html,12.0,2,5,.400,2,4,.500,0,0,0,2,2,5,2,0,0,2,6,8.6,+18,
+2025-04-13,202504130CLE,IND,Q4,Tony Bradley,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.15,3,4,.750,0,0,,0,0,3,4,7,1,0,1,1,1,6,7.7,+21,
+2025-04-13,202504130CLE,IND,Q4,Thomas Bryant,https://www.basketball-reference.com/boxscores/202504130CLE.html,3.85,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,2,2.0,-3,
+2025-04-13,202504130CLE,IND,OT1,Johnny Furphy,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,1,2,.500,0,0,,0,0,1,0,1,0,0,0,0,1,2,1.3,0,
+2025-04-13,202504130CLE,IND,OT1,Quenton Jackson,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,5,.000,0,0,,2,2,0,2,2,0,2,0,0,1,2,0.7,0,1.000
+2025-04-13,202504130CLE,IND,OT1,Enrique Freeman,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,0,,0,0,,0,0,0,1,1,0,1,1,0,1,0,1.6,0,
+2025-04-13,202504130CLE,IND,OT1,RayJ Dennis,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,0,
+2025-04-13,202504130CLE,IND,OT1,Tony Bradley,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,5,.000,0,0,,0,0,1,1,2,0,0,1,0,0,0,-1.8,0,
+2025-04-13,202504130CLE,IND,OT2,Johnny Furphy,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,1,2,.500,0,1,.000,4,4,0,1,1,2,0,0,0,0,6,6.7,+8,1.000
+2025-04-13,202504130CLE,IND,OT2,Quenton Jackson,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,+8,
+2025-04-13,202504130CLE,IND,OT2,Enrique Freeman,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+8,
+2025-04-13,202504130CLE,IND,OT2,RayJ Dennis,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,3,3,1.000,1,1,1.000,0,0,0,2,2,0,0,2,0,0,7,8.1,+8,
+2025-04-13,202504130CLE,IND,OT2,Tony Bradley,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,0,0,2,3.1,+8,
+2025-04-13,202504130CLE,CLE,Q1,Nae'Qwan Tomlin,https://www.basketball-reference.com/boxscores/202504130CLE.html,10.27,3,5,.600,1,2,.500,0,0,1,0,1,2,0,0,0,0,7,6.8,+6,
+2025-04-13,202504130CLE,CLE,Q1,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202504130CLE.html,10.27,4,5,.800,2,3,.667,0,0,0,2,2,1,0,0,3,0,10,6.4,+6,
+2025-04-13,202504130CLE,CLE,Q1,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.32,2,3,.667,2,3,.667,1,2,0,1,1,1,0,0,2,0,7,4.3,+1,.500
+2025-04-13,202504130CLE,CLE,Q1,Javonte Green,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.82,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,2,2,0.9,+1,
+2025-04-13,202504130CLE,CLE,Q1,Jarrett Allen,https://www.basketball-reference.com/boxscores/202504130CLE.html,0.68,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-0.4,+2,
+2025-04-13,202504130CLE,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.63,0,1,.000,0,0,,1,2,0,6,6,0,1,1,2,0,1,1.4,-1,.500
+2025-04-13,202504130CLE,CLE,Q1,Emoni Bates,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.18,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,0,3,2.0,+5,
+2025-04-13,202504130CLE,CLE,Q1,Luke Travers,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.42,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+5,
+2025-04-13,202504130CLE,CLE,Q1,Chuma Okeke,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.42,0,0,,0,0,,0,0,0,2,2,1,0,0,0,0,0,1.3,+5,
+2025-04-13,202504130CLE,CLE,Q2,Nae'Qwan Tomlin,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.97,1,5,.200,0,1,.000,1,1,0,3,3,0,0,0,0,1,3,0.4,+12,1.000
+2025-04-13,202504130CLE,CLE,Q2,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.6,2,5,.400,1,2,.500,2,2,1,0,1,0,1,0,0,0,7,6.0,+7,1.000
+2025-04-13,202504130CLE,CLE,Q2,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.43,3,4,.750,1,2,.500,0,0,0,1,1,1,0,0,1,0,7,5.4,+3,
+2025-04-13,202504130CLE,CLE,Q2,Javonte Green,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.32,2,6,.333,0,2,.000,0,0,0,0,0,1,1,0,0,0,4,2.3,+10,
+2025-04-13,202504130CLE,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.43,1,2,.500,0,0,,0,0,2,2,4,1,0,0,1,1,2,2.3,+3,
+2025-04-13,202504130CLE,CLE,Q2,Emoni Bates,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.28,2,3,.667,2,3,.667,0,0,0,1,1,2,0,0,0,2,6,5.6,+4,
+2025-04-13,202504130CLE,CLE,Q2,Luke Travers,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.4,0,2,.000,0,1,.000,0,0,0,2,2,1,0,0,1,0,0,-1.1,+8,
+2025-04-13,202504130CLE,CLE,Q2,Chuma Okeke,https://www.basketball-reference.com/boxscores/202504130CLE.html,3.57,0,0,,0,0,,0,0,0,1,1,0,0,1,0,0,0,1.0,+8,
+2025-04-13,202504130CLE,CLE,Q3,Nae'Qwan Tomlin,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.32,3,4,.750,1,2,.500,2,3,1,1,2,0,0,1,0,2,9,7.9,+11,.667
+2025-04-13,202504130CLE,CLE,Q3,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.27,1,3,.333,1,3,.333,1,2,0,0,0,1,0,0,1,0,4,1.6,+8,.500
+2025-04-13,202504130CLE,CLE,Q3,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.85,1,3,.333,1,1,1.000,1,2,0,0,0,0,0,0,0,0,4,1.9,+3,.500
+2025-04-13,202504130CLE,CLE,Q3,Javonte Green,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.65,1,5,.200,0,3,.000,0,0,2,1,3,1,1,1,0,3,2,1.8,+6,
+2025-04-13,202504130CLE,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.8,0,0,,0,0,,0,2,0,5,5,0,0,0,0,1,0,0.3,0,.000
+2025-04-13,202504130CLE,CLE,Q3,Emoni Bates,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.35,2,5,.400,1,3,.333,0,0,0,1,1,0,0,0,1,0,5,1.6,-5,
+2025-04-13,202504130CLE,CLE,Q3,Luke Travers,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.88,0,0,,0,0,,0,0,2,1,3,0,0,0,1,0,0,0.7,-9,
+2025-04-13,202504130CLE,CLE,Q3,Chuma Okeke,https://www.basketball-reference.com/boxscores/202504130CLE.html,6.88,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-9,
+2025-04-13,202504130CLE,CLE,Q4,Nae'Qwan Tomlin,https://www.basketball-reference.com/boxscores/202504130CLE.html,12.0,1,4,.250,0,2,.000,3,4,2,1,3,0,0,0,1,2,5,2.1,-18,.750
+2025-04-13,202504130CLE,CLE,Q4,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202504130CLE.html,9.87,1,4,.250,0,2,.000,0,0,1,0,1,2,2,0,0,0,2,3.7,-13,
+2025-04-13,202504130CLE,CLE,Q4,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202504130CLE.html,8.15,1,3,.333,0,1,.000,0,0,0,0,0,1,0,0,2,1,2,-1.4,-21,
+2025-04-13,202504130CLE,CLE,Q4,Tristan Thompson,https://www.basketball-reference.com/boxscores/202504130CLE.html,7.83,0,0,,0,0,,0,2,0,2,2,0,0,0,0,1,0,-0.6,-19,.000
+2025-04-13,202504130CLE,CLE,Q4,Emoni Bates,https://www.basketball-reference.com/boxscores/202504130CLE.html,12.0,2,7,.286,2,6,.333,0,0,0,1,1,0,0,1,0,0,6,2.9,-18,
+2025-04-13,202504130CLE,CLE,Q4,Luke Travers,https://www.basketball-reference.com/boxscores/202504130CLE.html,4.17,1,4,.250,0,2,.000,0,0,1,2,3,0,0,0,1,0,2,-0.1,+1,
+2025-04-13,202504130CLE,CLE,Q4,Chuma Okeke,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.98,1,3,.333,1,3,.333,0,0,1,0,1,0,0,0,0,0,3,2.0,-2,
+2025-04-13,202504130CLE,CLE,OT1,Nae'Qwan Tomlin,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,2,.000,0,0,,0,0,1,1,2,0,0,0,0,0,0,-0.4,0,
+2025-04-13,202504130CLE,CLE,OT1,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,2,4,.500,0,1,.000,0,0,0,2,2,0,0,1,1,2,4,1.5,0,
+2025-04-13,202504130CLE,CLE,OT1,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,3,.000,0,2,.000,0,0,0,1,1,2,0,2,2,0,0,-1.0,0,
+2025-04-13,202504130CLE,CLE,OT1,Tristan Thompson,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,1,.000,0,0,,0,0,0,2,2,0,0,1,0,0,0,0.6,0,
+2025-04-13,202504130CLE,CLE,OT1,Emoni Bates,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,0,,0,0,,0,0,0,2,2,0,0,0,0,0,0,0.6,0,
+2025-04-13,202504130CLE,CLE,OT2,Nae'Qwan Tomlin,https://www.basketball-reference.com/boxscores/202504130CLE.html,2.2,0,1,.000,0,1,.000,0,0,1,0,1,0,0,0,0,1,0,-0.4,-2,
+2025-04-13,202504130CLE,CLE,OT2,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,2,4,.500,0,1,.000,0,0,1,0,1,0,0,0,0,1,4,2.3,-8,
+2025-04-13,202504130CLE,CLE,OT2,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,3,.000,0,0,,0,0,1,1,2,0,0,0,0,1,0,-1.5,-8,
+2025-04-13,202504130CLE,CLE,OT2,Tristan Thompson,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-8,
+2025-04-13,202504130CLE,CLE,OT2,Emoni Bates,https://www.basketball-reference.com/boxscores/202504130CLE.html,5.0,2,3,.667,1,2,.500,0,0,0,0,0,0,0,0,0,0,5,3.7,-8,
+2025-04-13,202504130CLE,CLE,OT2,Luke Travers,https://www.basketball-reference.com/boxscores/202504130CLE.html,2.8,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,1,0,-1.1,-6,

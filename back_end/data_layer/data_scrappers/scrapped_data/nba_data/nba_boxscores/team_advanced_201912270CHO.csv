@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-27,201912270CHO,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/201912270CHO.html,36:01,.658,.618,.059,.471,3.1,7.9,5.7,5.8,2.8,0.0,4.6,27.1,130,99,9.7
+2019-12-27,201912270CHO,OKC,Chris Paul,https://www.basketball-reference.com/boxscores/201912270CHO.html,34:55,.368,.300,.300,.200,3.2,16.3,10.3,29.5,1.5,0.0,4.4,29.6,89,98,-2.5
+2019-12-27,201912270CHO,OKC,Steven Adams,https://www.basketball-reference.com/boxscores/201912270CHO.html,33:39,.651,.667,.000,.444,13.4,22.5,18.3,15.5,3.0,5.1,15.7,17.2,123,89,8.5
+2019-12-27,201912270CHO,OKC,Terrance Ferguson,https://www.basketball-reference.com/boxscores/201912270CHO.html,29:07,.000,.000,1.000,.000,3.9,13.0,8.8,0.0,0.0,0.0,0.0,4.7,25,102,-10.8
+2019-12-27,201912270CHO,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/201912270CHO.html,21:52,.000,.000,.857,.000,0.0,26.0,14.1,6.1,0.0,3.9,0.0,14.5,9,94,-14.9
+2019-12-27,201912270CHO,OKC,Dennis Schröder,https://www.basketball-reference.com/boxscores/201912270CHO.html,35:03,.640,.676,.471,.235,0.0,5.4,2.9,18.2,0.0,0.0,13.8,28.2,109,106,3.2
+2019-12-27,201912270CHO,OKC,Deonte Burton,https://www.basketball-reference.com/boxscores/201912270CHO.html,21:02,.355,.375,.375,.125,0.0,13.5,7.3,7.8,0.0,0.0,0.0,18.2,79,102,-6.3
+2019-12-27,201912270CHO,OKC,Nerlens Noel,https://www.basketball-reference.com/boxscores/201912270CHO.html,19:14,.862,1.000,.000,3.000,11.7,24.6,18.7,16.0,7.9,0.0,46.3,20.4,102,80,5.9
+2019-12-27,201912270CHO,OKC,Abdel Nader,https://www.basketball-reference.com/boxscores/201912270CHO.html,17:16,.333,.333,.667,.000,0.0,5.5,3.0,8.3,0.0,5.0,50.0,15.8,39,104,-10.8
+2019-12-27,201912270CHO,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/201912270CHO.html,16:48,.735,.833,.667,1.333,6.7,5.6,6.1,9.4,0.0,0.0,0.0,12.9,155,105,3.4
+2019-12-27,201912270CHO,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/201912270CHO.html,46:24,.357,.357,.619,.000,2.0,19.4,10.0,42.2,1.1,0.0,19.2,24.0,83,101,-2.8
+2019-12-27,201912270CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/201912270CHO.html,37:06,.441,.467,.133,.133,2.6,12.2,6.9,0.0,0.0,2.5,5.9,19.5,87,104,-4.2
+2019-12-27,201912270CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/201912270CHO.html,36:00,.658,.639,.500,.222,2.6,9.4,5.7,16.2,1.4,0.0,13.2,27.0,117,103,7.5
+2019-12-27,201912270CHO,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/201912270CHO.html,28:48,.481,.500,.364,.091,6.6,15.7,10.7,11.2,0.0,3.2,0.0,17.0,112,102,0.9
+2019-12-27,201912270CHO,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/201912270CHO.html,27:32,.654,.600,.000,1.200,17.2,20.5,18.7,5.3,0.0,6.6,0.0,11.9,154,98,3.4
+2019-12-27,201912270CHO,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/201912270CHO.html,23:49,.444,.444,.222,.000,11.9,23.7,17.3,6.7,4.3,0.0,18.2,19.8,87,92,-4.8
+2019-12-27,201912270CHO,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/201912270CHO.html,23:06,.286,.286,.429,.000,4.1,4.9,4.5,24.5,2.2,0.0,12.5,14.8,80,102,-3.8
+2019-12-27,201912270CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/201912270CHO.html,21:41,.490,.375,.375,.625,4.4,26.0,14.2,0.0,4.7,0.0,8.9,22.1,101,91,-0.6
+2019-12-27,201912270CHO,CHO,Marvin Williams,https://www.basketball-reference.com/boxscores/201912270CHO.html,14:21,.500,.500,.500,.000,13.2,0.0,7.2,10.7,0.0,0.0,0.0,11.9,127,108,-0.5
+2019-12-27,201912270CHO,CHO,Dwayne Bacon,https://www.basketball-reference.com/boxscores/201912270CHO.html,6:10,.000,.000,.333,.000,0.0,36.6,16.7,20.5,8.3,0.0,40.0,34.7,11,83,-21.3

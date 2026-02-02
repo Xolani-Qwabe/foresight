@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-22,202311220POR,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202311220POR.html,33:39,.662,.500,.667,.778,0.0,9.7,5.3,30.5,1.5,0.0,0.0,15.5,170,129,5.3
+2023-11-22,202311220POR,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202311220POR.html,33:39,.581,.528,.333,.333,11.6,16.2,14.1,0.0,4.5,0.0,8.8,29.0,119,120,0.0
+2023-11-22,202311220POR,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202311220POR.html,32:14,.547,.545,.364,.182,0.0,6.8,3.7,25.2,0.0,0.0,37.1,25.2,79,134,-12.2
+2023-11-22,202311220POR,UTA,John Collins,https://www.basketball-reference.com/boxscores/202311220POR.html,32:14,.500,.500,.083,.000,24.1,16.9,20.2,5.3,0.0,0.0,0.0,16.0,131,131,-4.5
+2023-11-22,202311220POR,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202311220POR.html,32:14,1.028,1.000,.000,.600,12.1,20.3,16.5,25.2,1.6,2.8,32.2,12.5,147,124,5.9
+2023-11-22,202311220POR,UTA,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202311220POR.html,15:46,.571,.571,.857,.000,8.2,0.0,3.8,10.9,3.2,0.0,12.5,21.9,114,129,-0.5
+2023-11-22,202311220POR,UTA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202311220POR.html,15:46,.500,.500,.667,.000,0.0,41.5,22.6,9.0,0.0,0.0,40.0,13.7,68,122,-8.4
+2023-11-22,202311220POR,UTA,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202311220POR.html,14:21,.434,.250,.500,1.000,0.0,0.0,0.0,9.9,0.0,0.0,34.2,26.3,69,135,-25.4
+2023-11-22,202311220POR,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202311220POR.html,14:05,1.125,1.125,.250,.000,0.0,0.0,0.0,14.6,0.0,6.4,20.0,15.3,153,133,11.3
+2023-11-22,202311220POR,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202311220POR.html,11:14,.085,.000,.600,.400,11.5,9.7,10.6,23.1,4.5,0.0,25.4,30.2,41,122,-25.7
+2023-11-22,202311220POR,UTA,Kris Dunn,https://www.basketball-reference.com/boxscores/202311220POR.html,4:48,.266,.000,.000,2.000,0.0,45.5,24.7,27.0,0.0,18.9,0.0,16.9,93,111,4.5
+2023-11-22,202311220POR,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202311220POR.html,32:21,.959,.962,.462,.462,0.0,8.0,3.7,18.5,1.6,3.1,11.3,23.5,167,114,15.5
+2023-11-22,202311220POR,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202311220POR.html,30:39,.636,.636,.364,.000,0.0,16.9,7.7,16.7,1.7,3.3,8.3,16.8,131,110,0.6
+2023-11-22,202311220POR,POR,Toumani Camara,https://www.basketball-reference.com/boxscores/202311220POR.html,27:54,.676,.625,.500,.250,11.7,18.6,14.9,12.9,0.0,3.6,18.4,16.8,131,113,0.7
+2023-11-22,202311220POR,POR,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202311220POR.html,23:52,.608,.594,.313,.063,4.6,16.3,9.9,55.7,2.1,0.0,0.0,29.6,150,111,12.9
+2023-11-22,202311220POR,POR,Duop Reath,https://www.basketball-reference.com/boxscores/202311220POR.html,20:11,.800,.800,.800,.000,0.0,25.7,11.7,6.0,0.0,5.0,16.7,12.8,129,110,-0.4
+2023-11-22,202311220POR,POR,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202311220POR.html,31:38,.689,.722,.667,.111,3.4,0.0,1.9,7.7,4.8,6.3,24.1,16.9,105,108,3.4
+2023-11-22,202311220POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202311220POR.html,27:57,.598,.600,.200,.133,23.4,18.6,21.2,10.3,3.6,0.0,5.9,26.0,134,106,1.9
+2023-11-22,202311220POR,POR,Kris Murray,https://www.basketball-reference.com/boxscores/202311220POR.html,17:20,.184,.200,.600,.200,12.6,0.0,6.8,0.0,2.9,0.0,0.0,13.5,70,115,-12.9
+2023-11-22,202311220POR,POR,Scoot Henderson,https://www.basketball-reference.com/boxscores/202311220POR.html,16:40,.190,.143,.429,.286,6.5,15.6,10.7,45.7,0.0,0.0,27.6,28.1,76,116,-21.2
+2023-11-22,202311220POR,POR,Skylar Mays,https://www.basketball-reference.com/boxscores/202311220POR.html,5:44,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,0,122,-19.6
+2023-11-22,202311220POR,POR,Rayan Rupert,https://www.basketball-reference.com/boxscores/202311220POR.html,5:44,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0,122,-25.7

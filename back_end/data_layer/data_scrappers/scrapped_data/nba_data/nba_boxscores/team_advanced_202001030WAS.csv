@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-03,202001030WAS,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202001030WAS.html,35:36,.636,.611,.333,.111,3.5,9.2,6.6,25.7,1.4,0.0,9.6,25.7,132,113,5.2
+2020-01-03,202001030WAS,POR,Kent Bazemore,https://www.basketball-reference.com/boxscores/202001030WAS.html,34:44,.317,.357,.571,.286,0.0,6.3,3.4,9.8,1.5,4.8,0.0,9.9,89,111,-2.8
+2020-01-03,202001030WAS,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202001030WAS.html,34:16,.669,.550,.300,.700,0.0,9.6,5.1,13.6,1.5,0.0,3.7,34.7,144,113,9.8
+2020-01-03,202001030WAS,POR,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202001030WAS.html,33:06,.656,.571,.000,.571,30.5,42.8,37.1,4.3,0.0,12.7,5.4,24.5,148,95,8.9
+2020-01-03,202001030WAS,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202001030WAS.html,30:36,.810,.833,.111,.222,4.1,17.8,11.5,9.2,3.3,0.0,16.8,17.0,139,105,6.1
+2020-01-03,202001030WAS,POR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202001030WAS.html,20:05,.429,.429,.429,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.3,96,120,-9.4
+2020-01-03,202001030WAS,POR,Mario Hezonja,https://www.basketball-reference.com/boxscores/202001030WAS.html,17:41,.601,.571,.429,.429,0.0,0.0,0.0,0.0,2.9,0.0,0.0,20.6,129,112,-3.6
+2020-01-03,202001030WAS,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202001030WAS.html,16:33,.250,.250,.250,.000,7.6,6.6,7.1,6.9,0.0,0.0,20.0,13.2,68,117,-11.0
+2020-01-03,202001030WAS,POR,Anthony Tolliver,https://www.basketball-reference.com/boxscores/202001030WAS.html,14:54,.266,.000,1.000,2.000,0.0,14.6,7.9,0.0,0.0,0.0,0.0,5.5,64,114,-8.8
+2020-01-03,202001030WAS,POR,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202001030WAS.html,1:37,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-6.1
+2020-01-03,202001030WAS,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202001030WAS.html,0:52,.000,.000,.000,.000,0.0,100.0,67.5,0.0,0.0,0.0,0.0,50.6,0,69,-49.4
+2020-01-03,202001030WAS,WAS,Gary Payton II,https://www.basketball-reference.com/boxscores/202001030WAS.html,34:46,.286,.286,.429,.000,3.1,0.0,1.7,15.7,1.5,0.0,12.5,9.8,85,133,-8.9
+2020-01-03,202001030WAS,WAS,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202001030WAS.html,30:58,.410,.300,.300,.500,0.0,28.6,13.2,4.6,1.6,0.0,14.1,19.5,83,126,-10.4
+2020-01-03,202001030WAS,WAS,Ian Mahinmi,https://www.basketball-reference.com/boxscores/202001030WAS.html,26:13,.222,.200,.400,.800,4.2,4.8,4.5,15.2,1.9,8.7,12.9,12.6,69,124,-6.1
+2020-01-03,202001030WAS,WAS,Johnathan Williams,https://www.basketball-reference.com/boxscores/202001030WAS.html,16:10,.581,.667,.000,.333,20.2,39.1,29.0,0.0,3.1,0.0,0.0,18.1,129,120,4.1
+2020-01-03,202001030WAS,WAS,Isaiah Thomas,https://www.basketball-reference.com/boxscores/202001030WAS.html,1:28,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,57.9,64,136,-8.7
+2020-01-03,202001030WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/202001030WAS.html,33:17,.538,.500,.357,.143,0.0,7.6,3.5,24.6,1.5,0.0,11.8,21.5,113,131,-2.0
+2020-01-03,202001030WAS,WAS,Jordan McRae,https://www.basketball-reference.com/boxscores/202001030WAS.html,33:04,.584,.538,.385,.346,9.9,7.6,8.9,28.2,0.0,2.3,6.3,41.1,126,132,9.9
+2020-01-03,202001030WAS,WAS,Garrison Mathews,https://www.basketball-reference.com/boxscores/202001030WAS.html,24:43,.953,.944,.778,.111,0.0,10.2,4.7,7.4,0.0,0.0,0.0,16.2,194,133,12.0
+2020-01-03,202001030WAS,WAS,Anžejs Pasečņiks,https://www.basketball-reference.com/boxscores/202001030WAS.html,17:35,.286,.286,.000,.000,31.0,28.7,30.0,8.4,0.0,0.0,30.0,24.2,71,129,-20.2
+2020-01-03,202001030WAS,WAS,Admiral Schofield,https://www.basketball-reference.com/boxscores/202001030WAS.html,12:22,.129,.000,.667,.667,0.0,20.4,9.5,0.0,0.0,0.0,0.0,13.3,34,131,-19.2
+2020-01-03,202001030WAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/202001030WAS.html,9:24,.500,.500,.500,.000,11.6,26.9,18.7,0.0,0.0,0.0,0.0,9.0,126,129,-6.6

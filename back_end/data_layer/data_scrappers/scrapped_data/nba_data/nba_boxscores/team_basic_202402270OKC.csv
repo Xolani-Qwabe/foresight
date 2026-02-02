@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-02-27,202402270OKC,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202402270OKC.html,36.18,2,11,.182,1,7,.143,0,0,0,1,1,5,1,0,2,5,5,-1.1,-17,
+2024-02-27,202402270OKC,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202402270OKC.html,35.78,8,13,.615,0,1,.000,7,12,3,8,11,6,2,2,5,2,23,21.4,-11,.583
+2024-02-27,202402270OKC,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202402270OKC.html,35.3,7,16,.438,1,6,.167,3,4,2,11,13,2,1,1,1,1,18,15.6,-9,.750
+2024-02-27,202402270OKC,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202402270OKC.html,31.55,3,9,.333,1,6,.167,0,0,1,3,4,1,0,0,0,2,7,3.4,-14,
+2024-02-27,202402270OKC,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202402270OKC.html,27.93,6,17,.353,2,6,.333,2,2,1,5,6,3,0,0,3,2,16,7.0,-8,1.000
+2024-02-27,202402270OKC,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202402270OKC.html,17.37,1,5,.200,0,2,.000,0,0,4,4,8,0,0,1,2,1,2,1.2,-5,
+2024-02-27,202402270OKC,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202402270OKC.html,16.57,2,3,.667,1,2,.500,0,0,0,0,0,3,0,2,1,1,5,5.8,-13,
+2024-02-27,202402270OKC,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202402270OKC.html,15.97,4,9,.444,1,3,.333,0,0,0,1,1,1,1,0,0,0,9,6.3,-7,
+2024-02-27,202402270OKC,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202402270OKC.html,15.9,4,10,.400,2,5,.400,0,0,1,0,1,0,0,1,0,1,10,5.6,-4,
+2024-02-27,202402270OKC,HOU,Reggie Bullock,https://www.basketball-reference.com/boxscores/202402270OKC.html,2.48,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,1,0,-1.8,+1,
+2024-02-27,202402270OKC,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202402270OKC.html,2.48,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,
+2024-02-27,202402270OKC,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202402270OKC.html,2.48,0,0,,0,0,,0,0,0,0,0,1,0,1,0,0,0,1.4,+1,
+2024-02-27,202402270OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202402270OKC.html,34.85,11,17,.647,2,3,.667,0,0,2,3,5,5,2,2,3,1,24,22.3,+5,
+2024-02-27,202402270OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202402270OKC.html,33.58,6,13,.462,1,4,.250,5,5,2,11,13,2,1,3,2,4,18,16.9,+10,1.000
+2024-02-27,202402270OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202402270OKC.html,31.85,11,21,.524,4,6,.667,5,6,2,6,8,3,1,0,2,2,31,23.8,+6,.833
+2024-02-27,202402270OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202402270OKC.html,21.55,1,9,.111,1,5,.200,0,0,0,3,3,1,0,1,1,2,3,-2.4,+4,
+2024-02-27,202402270OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202402270OKC.html,20.22,6,11,.545,1,3,.333,1,2,1,6,7,4,0,0,3,1,14,10.2,+4,.500
+2024-02-27,202402270OKC,OKC,Gordon Hayward,https://www.basketball-reference.com/boxscores/202402270OKC.html,18.92,2,5,.400,0,0,,1,1,1,3,4,0,0,0,0,1,5,3.5,+7,1.000
+2024-02-27,202402270OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202402270OKC.html,18.87,2,2,1.000,1,1,1.000,0,0,0,3,3,2,1,1,0,2,5,7.6,+14,
+2024-02-27,202402270OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202402270OKC.html,16.05,1,2,.500,0,0,,0,0,1,1,2,1,0,0,2,0,2,0.7,+14,
+2024-02-27,202402270OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202402270OKC.html,15.75,2,6,.333,0,1,.000,2,2,2,0,2,0,0,1,0,1,6,4.3,+8,1.000
+2024-02-27,202402270OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202402270OKC.html,14.27,1,3,.333,0,2,.000,0,2,0,2,2,1,1,0,0,0,2,1.8,+8,.000
+2024-02-27,202402270OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202402270OKC.html,11.62,0,2,.000,0,2,.000,0,0,0,5,5,0,0,0,0,0,0,0.1,+6,
+2024-02-27,202402270OKC,OKC,Keyontae Johnson,https://www.basketball-reference.com/boxscores/202402270OKC.html,2.48,1,2,.500,0,0,,0,0,1,0,1,0,1,0,0,0,2,2.7,-1,

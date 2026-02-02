@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-04-05,202404050BOS,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202404050BOS.html,44:07,.669,.672,.448,.069,2.0,6.4,4.1,10.6,1.2,0.0,3.2,30.1,133,114,14.1
+2024-04-05,202404050BOS,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202404050BOS.html,41:38,.333,.333,.667,.000,8.5,15.8,12.1,13.8,1.3,2.6,11.8,17.5,86,109,-3.0
+2024-04-05,202404050BOS,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202404050BOS.html,33:48,.498,.462,.000,.538,13.1,30.6,21.6,28.9,1.5,3.2,11.1,23.0,116,102,8.7
+2024-04-05,202404050BOS,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202404050BOS.html,28:08,.465,.444,.889,.444,3.2,13.4,8.1,5.2,0.0,0.0,0.0,16.4,108,114,-1.7
+2024-04-05,202404050BOS,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202404050BOS.html,17:19,.500,.500,.333,.000,5.1,16.3,10.6,15.7,0.0,0.0,25.0,9.9,104,113,-3.0
+2024-04-05,202404050BOS,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202404050BOS.html,24:58,.438,.438,.500,.000,7.1,15.1,11.0,29.8,0.0,0.0,11.1,15.5,112,113,-1.0
+2024-04-05,202404050BOS,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202404050BOS.html,17:10,.214,.214,.714,.000,0.0,11.0,5.3,0.0,0.0,0.0,0.0,17.5,51,115,-14.3
+2024-04-05,202404050BOS,SAC,Sasha Vezenkov,https://www.basketball-reference.com/boxscores/202404050BOS.html,13:59,.429,.429,.857,.000,0.0,13.5,6.5,11.0,0.0,0.0,0.0,21.5,100,113,-2.7
+2024-04-05,202404050BOS,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202404050BOS.html,10:03,.300,.300,.800,.000,0.0,9.4,4.5,0.0,5.2,0.0,0.0,21.4,68,104,-4.0
+2024-04-05,202404050BOS,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202404050BOS.html,5:49,.500,.500,.000,.000,15.3,32.4,23.6,0.0,0.0,18.3,0.0,14.8,122,94,-0.3
+2024-04-05,202404050BOS,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202404050BOS.html,3:01,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.2,0,119,-20.6
+2024-04-05,202404050BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202404050BOS.html,36:17,.083,.083,.722,.000,2.6,14.7,8.8,10.8,1.4,0.0,0.0,22.9,36,110,-17.8
+2024-04-05,202404050BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202404050BOS.html,32:30,.459,.367,.400,.533,0.0,16.4,8.4,24.1,0.0,0.0,13.9,30.6,92,113,-3.5
+2024-04-05,202404050BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202404050BOS.html,30:45,.625,.625,.250,.000,3.1,8.7,5.9,36.2,0.0,0.0,11.1,13.5,135,117,3.3
+2024-04-05,202404050BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202404050BOS.html,24:27,.850,.800,.200,.400,3.8,36.4,20.6,16.2,4.3,4.1,7.8,24.1,157,89,20.6
+2024-04-05,202404050BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202404050BOS.html,20:03,.508,.500,.714,.286,0.0,26.6,13.7,7.8,0.0,5.0,0.0,18.2,108,105,1.6
+2024-04-05,202404050BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202404050BOS.html,33:25,.656,.656,.625,.000,2.8,0.0,1.4,16.3,3.1,0.0,5.9,23.5,125,113,7.9
+2024-04-05,202404050BOS,BOS,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202404050BOS.html,19:09,.643,.643,.429,.000,4.9,13.9,9.5,17.9,0.0,0.0,0.0,16.9,139,114,5.8
+2024-04-05,202404050BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202404050BOS.html,18:20,.750,.750,.000,.000,10.3,14.5,12.5,8.7,2.9,10.9,0.0,10.1,165,101,8.8
+2024-04-05,202404050BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202404050BOS.html,11:56,.833,.833,.667,.000,7.9,7.4,7.7,13.4,0.0,0.0,0.0,11.6,173,118,7.2
+2024-04-05,202404050BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202404050BOS.html,6:42,.568,,,,42.1,13.3,27.3,0.0,0.0,0.0,36.2,19.0,115,111,-9.9
+2024-04-05,202404050BOS,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202404050BOS.html,6:26,.000,.000,1.000,.000,14.6,0.0,7.1,0.0,0.0,0.0,0.0,7.2,66,120,-14.2

@@ -1,0 +1,20 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-10,202302100BOS,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202302100BOS.html,37:43,.505,.455,.318,.182,2.6,24.8,12.7,37.9,1.2,0.0,17.4,31.2,100,124,-2.2
+2023-02-10,202302100BOS,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202302100BOS.html,35:34,.563,.525,.400,.450,0.0,3.3,1.5,12.3,3.9,0.0,0.0,27.5,121,120,3.7
+2023-02-10,202302100BOS,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202302100BOS.html,35:09,.589,.571,.214,.071,2.8,20.0,10.6,3.9,1.3,12.0,12.2,19.1,105,117,0.7
+2023-02-10,202302100BOS,CHO,Mark Williams,https://www.basketball-reference.com/boxscores/202302100BOS.html,30:47,.628,.571,.000,.571,15.9,26.6,20.8,8.0,0.0,4.6,0.0,11.6,151,124,-0.7
+2023-02-10,202302100BOS,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202302100BOS.html,29:42,.500,.500,.000,.000,0.0,7.9,3.6,25.2,3.1,0.0,0.0,11.0,126,121,0.2
+2023-02-10,202302100BOS,CHO,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202302100BOS.html,22:43,.418,.389,.333,.444,0.0,10.3,4.7,16.4,4.0,6.2,15.7,23.0,82,115,-3.4
+2023-02-10,202302100BOS,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202302100BOS.html,21:24,.654,.667,.167,.333,4.6,21.9,12.5,6.2,0.0,0.0,12.7,15.1,118,127,-3.5
+2023-02-10,202302100BOS,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202302100BOS.html,17:13,.717,.750,.000,.500,11.4,40.8,24.8,0.0,0.0,0.0,17.0,14.0,124,125,-4.6
+2023-02-10,202302100BOS,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202302100BOS.html,9:45,.667,.667,.333,.000,10.0,0.0,5.5,0.0,0.0,14.5,40.0,21.0,79,121,-6.8
+2023-02-10,202302100BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202302100BOS.html,36:55,.780,.738,.476,.571,0.0,10.6,5.8,19.2,1.2,3.7,13.2,35.3,131,111,9.6
+2023-02-10,202302100BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202302100BOS.html,36:35,.849,.842,.737,.053,0.0,8.0,4.4,46.4,1.3,5.6,4.9,24.1,163,110,20.2
+2023-02-10,202302100BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202302100BOS.html,32:22,.317,.214,.714,.286,0.0,15.1,8.2,20.9,2.8,2.1,11.3,11.8,97,107,-2.0
+2023-02-10,202302100BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202302100BOS.html,31:36,.545,.545,.818,.000,3.7,6.2,5.1,12.0,0.0,0.0,0.0,15.0,119,117,-4.5
+2023-02-10,202302100BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202302100BOS.html,26:47,.450,.500,.000,.250,8.7,51.2,31.9,4.4,0.0,0.0,40.3,12.0,75,106,-11.0
+2023-02-10,202302100BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202302100BOS.html,21:10,.438,.438,.375,.000,0.0,9.3,5.0,12.2,2.2,0.0,20.0,20.3,77,112,-11.2
+2023-02-10,202302100BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202302100BOS.html,17:44,.250,.250,.667,.000,0.0,16.6,9.0,26.2,5.2,0.0,33.3,21.9,62,104,-10.5
+2023-02-10,202302100BOS,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202302100BOS.html,15:38,.750,.750,1.000,.000,0.0,6.3,3.4,19.4,0.0,4.4,0.0,22.0,140,114,10.7
+2023-02-10,202302100BOS,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202302100BOS.html,13:53,.833,.833,.667,.000,16.9,21.2,19.2,9.3,0.0,0.0,25.0,12.4,140,113,-1.8
+2023-02-10,202302100BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202302100BOS.html,7:20,1.025,1.000,.000,.500,0.0,13.4,7.3,21.2,0.0,0.0,0.0,14.3,221,115,6.1

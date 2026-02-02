@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-08,202001080BOS,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202001080BOS.html,33:59,.710,.588,.059,.647,0.0,17.3,9.6,16.7,1.3,0.0,15.5,32.5,126,111,3.3
+2020-01-08,202001080BOS,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202001080BOS.html,31:43,.528,.500,.455,.273,0.0,18.5,10.3,15.0,0.0,5.9,7.5,17.9,111,109,0.3
+2020-01-08,202001080BOS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202001080BOS.html,27:40,.556,.556,.000,.000,4.4,21.2,13.8,17.6,3.3,0.0,10.0,15.4,118,105,1.5
+2020-01-08,202001080BOS,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202001080BOS.html,26:49,.718,.700,.900,.100,0.0,11.0,6.1,27.5,3.4,0.0,0.0,16.6,156,108,12.2
+2020-01-08,202001080BOS,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202001080BOS.html,17:25,1.125,1.125,.250,.000,14.1,16.9,15.7,0.0,2.6,5.4,33.3,14.7,136,104,6.5
+2020-01-08,202001080BOS,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202001080BOS.html,21:21,.250,.250,.500,.000,5.8,27.5,17.9,0.0,2.1,0.0,33.3,24.0,41,107,-21.4
+2020-01-08,202001080BOS,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202001080BOS.html,21:11,.571,.500,.571,.286,0.0,0.0,0.0,22.0,2.2,0.0,11.3,17.9,119,113,-0.6
+2020-01-08,202001080BOS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202001080BOS.html,20:18,.915,.833,.000,.833,0.0,14.5,8.1,6.5,0.0,9.3,0.0,17.2,191,108,11.5
+2020-01-08,202001080BOS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202001080BOS.html,19:13,.758,.727,.455,.182,0.0,15.3,8.5,8.2,2.4,0.0,7.8,28.6,135,109,5.3
+2020-01-08,202001080BOS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202001080BOS.html,14:01,.333,.333,.000,.000,35.1,28.0,31.1,30.7,0.0,6.7,0.0,9.1,152,107,6.0
+2020-01-08,202001080BOS,SAS,Marco Belinelli,https://www.basketball-reference.com/boxscores/202001080BOS.html,2:16,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-5.7
+2020-01-08,202001080BOS,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202001080BOS.html,2:16,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.8,200,118,2.0
+2020-01-08,202001080BOS,SAS,DeMarre Carroll,https://www.basketball-reference.com/boxscores/202001080BOS.html,1:48,.568,,,,0.0,54.4,30.3,0.0,0.0,0.0,0.0,20.9,123,105,-10.7
+2020-01-08,202001080BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202001080BOS.html,31:28,.394,.313,.313,.250,0.0,23.5,10.4,15.6,1.5,0.0,14.5,27.0,75,123,-9.7
+2020-01-08,202001080BOS,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/202001080BOS.html,29:59,.643,.643,.500,.000,3.3,8.2,5.5,18.6,1.5,2.8,0.0,19.1,129,122,8.8
+2020-01-08,202001080BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202001080BOS.html,28:42,.481,.393,.429,.429,3.4,8.6,5.7,0.0,3.2,0.0,15.3,28.0,84,121,-8.6
+2020-01-08,202001080BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202001080BOS.html,20:27,.663,.600,.400,.300,14.4,12.0,13.3,9.3,0.0,4.0,0.0,22.7,141,124,5.3
+2020-01-08,202001080BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202001080BOS.html,17:54,.500,.500,.333,.000,0.0,20.6,9.1,37.0,0.0,0.0,25.0,18.3,90,126,-6.4
+2020-01-08,202001080BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202001080BOS.html,24:34,.510,.400,.700,.400,0.0,0.0,0.0,31.4,1.9,0.0,20.3,24.6,94,125,-3.0
+2020-01-08,202001080BOS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202001080BOS.html,20:40,.781,.625,.250,1.000,0.0,23.8,10.6,21.5,0.0,0.0,14.8,13.4,144,126,1.4
+2020-01-08,202001080BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202001080BOS.html,18:09,.852,,,,0.0,6.8,3.0,21.4,2.5,0.0,53.2,8.5,106,123,-0.7
+2020-01-08,202001080BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202001080BOS.html,17:30,.333,.333,.333,.000,5.6,42.2,21.8,8.0,0.0,0.0,25.0,9.4,74,123,-7.4
+2020-01-08,202001080BOS,BOS,Tacko Fall,https://www.basketball-reference.com/boxscores/202001080BOS.html,10:03,.581,.667,.000,.333,0.0,36.7,16.3,0.0,0.0,0.0,0.0,14.0,103,124,-4.3
+2020-01-08,202001080BOS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202001080BOS.html,9:42,.644,.500,.333,.667,10.1,12.7,11.2,15.4,4.7,0.0,0.0,16.4,148,117,8.3
+2020-01-08,202001080BOS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202001080BOS.html,5:26,.750,.750,1.000,.000,0.0,0.0,0.0,31.4,0.0,0.0,0.0,15.1,152,129,7.2
+2020-01-08,202001080BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202001080BOS.html,5:26,.717,.625,.500,.500,18.0,22.7,20.1,45.7,0.0,0.0,0.0,36.8,153,126,23.6

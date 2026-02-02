@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-09,202501090PHO,ATL,Dyson Daniels,https://www.basketball-reference.com/boxscores/202501090PHO.html,36:24,.542,.542,.167,.000,6.9,7.3,7.1,11.6,4.2,0.0,0.0,15.1,125,129,-2.2
+2025-01-09,202501090PHO,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202501090PHO.html,33:50,.554,.433,.267,.600,0.0,7.9,3.8,29.7,1.5,0.0,13.7,29.8,113,135,-5.9
+2025-01-09,202501090PHO,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202501090PHO.html,26:23,.711,.688,.625,.125,0.0,15.2,7.4,31.4,1.9,0.0,10.6,16.4,141,132,4.0
+2025-01-09,202501090PHO,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202501090PHO.html,25:54,.421,.364,.000,.182,19.5,36.0,27.5,10.7,2.0,7.1,7.8,22.8,105,123,-8.0
+2025-01-09,202501090PHO,ATL,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202501090PHO.html,19:21,.563,.500,.000,.250,6.5,6.9,6.7,0.0,2.6,0.0,18.4,12.9,100,132,-10.0
+2025-01-09,202501090PHO,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202501090PHO.html,27:59,.773,.773,.545,.000,0.0,9.5,4.6,17.2,3.6,0.0,8.3,19.7,136,129,4.8
+2025-01-09,202501090PHO,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202501090PHO.html,27:02,.558,.444,.778,.444,0.0,14.8,7.2,19.4,3.8,0.0,21.8,23.4,100,128,-6.4
+2025-01-09,202501090PHO,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202501090PHO.html,22:00,.571,.571,.143,.000,5.7,24.2,14.7,39.3,0.0,4.2,12.5,16.7,130,132,4.1
+2025-01-09,202501090PHO,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202501090PHO.html,10:56,.750,.750,1.000,.000,0.0,0.0,0.0,13.2,0.0,0.0,0.0,16.8,145,140,0.7
+2025-01-09,202501090PHO,ATL,David Roddy,https://www.basketball-reference.com/boxscores/202501090PHO.html,10:11,1.100,1.100,.600,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.6,191,140,15.2
+2025-01-09,202501090PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202501090PHO.html,40:01,.448,.429,.381,.143,0.0,9.5,4.9,37.7,1.3,0.0,8.2,27.1,117,126,-6.8
+2025-01-09,202501090PHO,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202501090PHO.html,36:21,.686,.667,.467,.267,0.0,6.9,3.6,24.9,0.0,7.3,15.2,24.2,130,124,4.1
+2025-01-09,202501090PHO,PHO,Tyus Jones,https://www.basketball-reference.com/boxscores/202501090PHO.html,28:33,.667,.667,.583,.000,4.7,4.4,4.5,17.3,1.8,0.0,14.3,21.9,127,126,0.3
+2025-01-09,202501090PHO,PHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202501090PHO.html,21:54,1.000,1.000,.000,.000,24.4,34.6,29.6,18.7,2.3,0.0,75.0,8.1,114,119,1.9
+2025-01-09,202501090PHO,PHO,Ryan Dunn,https://www.basketball-reference.com/boxscores/202501090PHO.html,16:23,.600,.600,.000,.000,16.3,38.6,27.7,0.0,0.0,5.4,0.0,13.6,141,119,-5.7
+2025-01-09,202501090PHO,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202501090PHO.html,33:07,.741,.750,.313,.125,8.1,19.1,13.7,8.8,4.6,2.7,15.1,26.8,126,114,4.3
+2025-01-09,202501090PHO,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202501090PHO.html,26:55,1.178,1.188,.750,.500,0.0,9.4,4.8,4.9,0.0,0.0,17.0,19.5,174,129,10.6
+2025-01-09,202501090PHO,PHO,Oso Ighodaro,https://www.basketball-reference.com/boxscores/202501090PHO.html,25:23,.500,.500,.000,.000,5.3,19.9,12.8,8.4,2.0,3.5,20.0,8.8,110,120,-3.7
+2025-01-09,202501090PHO,PHO,Monte Morris,https://www.basketball-reference.com/boxscores/202501090PHO.html,7:23,.000,.000,.000,.000,18.1,34.2,26.4,13.3,0.0,0.0,0.0,12.1,76,124,-16.1
+2025-01-09,202501090PHO,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202501090PHO.html,4:00,1.064,1.000,.000,2.000,33.3,0.0,16.2,0.0,0.0,0.0,0.0,21.0,228,131,15.2

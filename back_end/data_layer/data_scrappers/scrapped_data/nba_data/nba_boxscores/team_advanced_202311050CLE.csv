@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-05,202311050CLE,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202311050CLE.html,31:45,.504,.464,.643,.143,5.2,3.8,4.6,11.4,1.5,0.0,11.8,21.2,100,122,-3.1
+2023-11-05,202311050CLE,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202311050CLE.html,30:49,.751,.719,.688,.375,0.0,7.8,3.2,28.9,1.6,0.0,24.4,31.9,108,120,9.7
+2023-11-05,202311050CLE,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202311050CLE.html,29:22,.660,.545,.273,.545,0.0,12.3,5.0,50.6,5.0,3.6,6.8,19.9,147,110,18.4
+2023-11-05,202311050CLE,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202311050CLE.html,26:09,.372,.389,.222,.444,9.5,9.2,9.4,6.4,0.0,0.0,0.0,16.4,94,123,-7.2
+2023-11-05,202311050CLE,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202311050CLE.html,15:10,.500,.500,.000,.000,27.3,47.5,35.5,51.3,0.0,0.0,0.0,5.3,186,112,12.2
+2023-11-05,202311050CLE,GSW,Chris Paul,https://www.basketball-reference.com/boxscores/202311050CLE.html,24:36,.250,.250,.500,.000,0.0,4.9,2.0,13.0,3.9,0.0,0.0,16.2,69,116,-10.2
+2023-11-05,202311050CLE,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202311050CLE.html,19:33,.463,.393,.286,.357,4.2,12.3,7.5,0.0,0.0,10.7,5.8,35.1,95,117,-2.0
+2023-11-05,202311050CLE,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202311050CLE.html,14:17,.387,.333,.667,.667,5.8,16.8,10.3,0.0,3.4,0.0,0.0,10.8,96,113,-5.6
+2023-11-05,202311050CLE,GSW,Dario Šarić,https://www.basketball-reference.com/boxscores/202311050CLE.html,13:25,.000,.000,.333,.000,6.2,35.8,18.3,0.0,0.0,0.0,25.0,11.9,16,115,-21.3
+2023-11-05,202311050CLE,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202311050CLE.html,12:26,.357,.357,.429,.000,13.3,0.0,7.9,14.7,0.0,0.0,0.0,22.5,96,126,-7.6
+2023-11-05,202311050CLE,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202311050CLE.html,11:35,.481,.667,.000,1.667,7.1,31.1,16.9,16.1,4.2,9.0,0.0,17.9,105,102,0.9
+2023-11-05,202311050CLE,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202311050CLE.html,8:17,.000,.000,.500,.000,10.0,14.5,11.8,34.1,0.0,0.0,50.0,19.3,39,122,-17.5
+2023-11-05,202311050CLE,GSW,Cory Joseph,https://www.basketball-reference.com/boxscores/202311050CLE.html,2:33,,,,,0.0,0.0,0.0,0.0,19.0,0.0,,0.0,0,83,14.0
+2023-11-05,202311050CLE,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202311050CLE.html,35:55,.577,.577,.769,.000,0.0,9.2,5.5,16.2,1.4,0.0,0.0,15.3,135,109,3.8
+2023-11-05,202311050CLE,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202311050CLE.html,34:02,.747,.711,.579,.211,3.5,2.4,2.9,38.7,2.9,0.0,16.2,30.8,135,109,14.6
+2023-11-05,202311050CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202311050CLE.html,30:05,.528,.353,.294,.765,0.0,8.3,4.9,35.5,0.0,0.0,20.9,40.4,103,112,-7.3
+2023-11-05,202311050CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202311050CLE.html,29:00,.553,.600,.100,.400,20.7,31.4,27.0,10.7,0.0,3.1,29.8,24.5,91,97,-4.4
+2023-11-05,202311050CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202311050CLE.html,27:56,.761,.714,.000,.286,21.5,11.9,15.8,15.9,0.0,0.0,20.2,15.0,142,111,4.9
+2023-11-05,202311050CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202311050CLE.html,31:53,.581,.500,.500,.333,0.0,13.0,7.7,8.3,3.0,0.0,12.7,10.5,118,103,1.2
+2023-11-05,202311050CLE,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202311050CLE.html,25:11,.500,.500,.667,.000,0.0,19.7,11.7,5.1,0.0,0.0,0.0,10.1,118,105,-2.5
+2023-11-05,202311050CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202311050CLE.html,12:30,.500,.500,1.000,.000,9.6,19.9,15.7,0.0,11.6,0.0,0.0,10.2,125,79,12.2
+2023-11-05,202311050CLE,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/202311050CLE.html,11:07,.452,.500,.000,1.500,10.8,29.8,22.0,0.0,0.0,8.1,0.0,12.7,109,95,-1.9
+2023-11-05,202311050CLE,CLE,Damian Jones,https://www.basketball-reference.com/boxscores/202311050CLE.html,1:09,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-4.6
+2023-11-05,202311050CLE,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202311050CLE.html,1:09,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-5.5

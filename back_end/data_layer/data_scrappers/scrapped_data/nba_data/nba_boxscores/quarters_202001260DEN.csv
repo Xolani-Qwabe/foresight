@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2020-01-26,202001260DEN,HOU,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202001260DEN.html,9.27,3,5,.600,0,0,0,0,1,0,1,3,1,1,2,0,6,6.2,+6,,
+2020-01-26,202001260DEN,HOU,Q1,P.J. Tucker,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.8,0,1,.000,0,1,0,0,0,1,1,1,0,0,0,1,0,-0.1,+7,.000,
+2020-01-26,202001260DEN,HOU,Q1,Eric Gordon,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.9,1,4,.250,1,4,6,6,0,3,3,0,1,0,0,0,9,8.5,+8,.250,1.000
+2020-01-26,202001260DEN,HOU,Q1,Clint Capela,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.42,1,2,.500,0,0,1,4,2,0,2,1,0,0,0,1,3,2.5,+6,,.250
+2020-01-26,202001260DEN,HOU,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.22,2,2,1.000,2,2,0,0,0,0,0,0,0,0,1,1,6,4.0,+4,1.000,
+2020-01-26,202001260DEN,HOU,Q1,Austin Rivers,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.78,3,3,1.000,1,1,0,1,0,2,2,0,0,0,0,0,7,6.3,+5,1.000,.000
+2020-01-26,202001260DEN,HOU,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.78,1,2,.500,1,2,0,0,0,3,3,1,0,1,0,1,3,3.9,+5,.500,
+2020-01-26,202001260DEN,HOU,Q1,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.83,1,2,.500,0,1,0,0,0,2,2,0,0,1,0,0,2,2.3,+4,.000,
+2020-01-26,202001260DEN,HOU,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.57,1,6,.167,0,0,2,2,1,0,1,1,0,0,2,0,4,-0.4,-5,,1.000
+2020-01-26,202001260DEN,HOU,Q2,P.J. Tucker,https://www.basketball-reference.com/boxscores/202001260DEN.html,9.63,0,0,,0,0,2,2,2,2,4,1,1,2,0,0,2,7.1,-3,,1.000
+2020-01-26,202001260DEN,HOU,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.9,1,2,.500,0,1,0,0,0,0,0,0,0,0,1,0,2,0.0,-5,.000,
+2020-01-26,202001260DEN,HOU,Q2,Clint Capela,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.68,1,2,.500,0,0,2,2,4,0,4,1,0,1,0,2,4,6.4,-3,,1.000
+2020-01-26,202001260DEN,HOU,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.13,2,5,.400,0,3,0,0,0,0,0,0,0,0,0,0,4,1.3,-6,.000,
+2020-01-26,202001260DEN,HOU,Q2,Austin Rivers,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.47,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.1,-5,,
+2020-01-26,202001260DEN,HOU,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.18,1,6,.167,1,4,2,2,1,0,1,1,1,0,0,1,5,3.2,-6,.250,1.000
+2020-01-26,202001260DEN,HOU,Q2,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202001260DEN.html,3.43,1,2,.500,0,1,0,0,0,0,0,0,0,0,0,1,2,0.6,-2,.000,
+2020-01-26,202001260DEN,HOU,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202001260DEN.html,9.28,4,7,.571,0,0,2,3,0,2,2,1,0,0,2,3,10,4.4,-3,,.667
+2020-01-26,202001260DEN,HOU,Q3,P.J. Tucker,https://www.basketball-reference.com/boxscores/202001260DEN.html,10.27,0,0,,0,0,0,0,0,1,1,0,1,0,0,1,0,0.9,+1,,
+2020-01-26,202001260DEN,HOU,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.52,2,5,.400,1,3,1,1,0,0,0,1,0,0,1,1,6,2.6,-4,.333,1.000
+2020-01-26,202001260DEN,HOU,Q3,Clint Capela,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.35,1,3,.333,0,0,0,0,0,1,1,0,0,0,0,0,2,0.6,-6,,
+2020-01-26,202001260DEN,HOU,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/202001260DEN.html,4.62,1,2,.500,1,1,0,0,0,0,0,0,0,0,0,0,3,2.0,-2,1.000,
+2020-01-26,202001260DEN,HOU,Q3,Austin Rivers,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.38,1,2,.500,1,2,1,2,0,2,2,2,0,0,0,0,4,4.6,-1,.500,.500
+2020-01-26,202001260DEN,HOU,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.38,1,1,1.000,1,1,0,0,0,1,1,1,0,0,0,0,3,3.7,-1,1.000,
+2020-01-26,202001260DEN,HOU,Q3,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.2,1,1,1.000,0,0,0,1,0,1,1,0,0,0,0,1,2,1.2,+1,,.000
+2020-01-26,202001260DEN,HOU,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/202001260DEN.html,12.0,6,11,.545,0,1,0,0,1,2,3,2,1,0,4,1,12,6.0,-6,.000,
+2020-01-26,202001260DEN,HOU,Q4,P.J. Tucker,https://www.basketball-reference.com/boxscores/202001260DEN.html,9.73,1,2,.500,1,1,0,0,1,1,2,0,0,0,1,1,3,1.6,+1,1.000,
+2020-01-26,202001260DEN,HOU,Q4,Eric Gordon,https://www.basketball-reference.com/boxscores/202001260DEN.html,9.15,1,3,.333,0,2,0,0,0,0,0,0,0,1,0,0,2,1.0,-9,.000,
+2020-01-26,202001260DEN,HOU,Q4,Clint Capela,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.2,0,1,.000,0,0,0,0,2,3,5,0,0,0,2,0,0,-0.4,+1,,
+2020-01-26,202001260DEN,HOU,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/202001260DEN.html,4.8,1,2,.500,0,1,0,0,0,0,0,0,0,0,0,1,2,0.6,-7,.000,
+2020-01-26,202001260DEN,HOU,Q4,Austin Rivers,https://www.basketball-reference.com/boxscores/202001260DEN.html,12.0,1,3,.333,0,1,0,1,0,2,2,2,0,0,0,3,2,0.7,-6,.000,.000
+2020-01-26,202001260DEN,HOU,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.12,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,,
+2020-01-26,202001260DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001260DEN.html,10.67,2,6,.333,0,0,3,3,1,4,5,3,0,0,2,0,7,5.6,-7,,1.000
+2020-01-26,202001260DEN,DEN,Q1,Torrey Craig,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.42,0,4,.000,0,2,0,0,0,0,0,0,1,0,0,1,0,-2.2,-6,.000,
+2020-01-26,202001260DEN,DEN,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.5,3,3,1.000,2,2,1,1,1,1,2,1,0,0,1,1,9,8.4,-7,1.000,1.000
+2020-01-26,202001260DEN,DEN,Q1,Will Barton,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.93,1,3,.333,0,1,0,0,0,0,0,0,0,0,0,2,2,-0.5,-4,.000,
+2020-01-26,202001260DEN,DEN,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.17,0,0,,0,0,0,0,0,0,0,0,1,0,0,1,0,0.6,-5,,
+2020-01-26,202001260DEN,DEN,Q1,Monte Morris,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.83,1,4,.250,0,2,0,0,0,0,0,0,0,0,0,1,2,-0.8,-4,.000,
+2020-01-26,202001260DEN,DEN,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202001260DEN.html,4.07,0,2,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-1.4,-5,.000,
+2020-01-26,202001260DEN,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.83,3,5,.600,1,1,0,0,2,2,4,0,0,0,0,1,7,6.3,-4,1.000,
+2020-01-26,202001260DEN,DEN,Q1,PJ Dozier,https://www.basketball-reference.com/boxscores/202001260DEN.html,3.58,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,-3,,
+2020-01-26,202001260DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.57,5,6,.833,0,0,0,0,1,2,3,4,1,0,1,0,10,11.9,+5,,
+2020-01-26,202001260DEN,DEN,Q2,Torrey Craig,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.57,1,2,.500,0,1,0,0,0,0,0,0,0,1,2,1,2,-0.7,+5,.000,
+2020-01-26,202001260DEN,DEN,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.75,3,4,.750,1,1,1,1,0,1,1,1,0,0,0,2,8,6.6,+4,1.000,1.000
+2020-01-26,202001260DEN,DEN,Q2,Will Barton,https://www.basketball-reference.com/boxscores/202001260DEN.html,4.08,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,+3,,
+2020-01-26,202001260DEN,DEN,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.72,1,1,1.000,0,0,0,0,0,0,0,2,0,0,0,0,2,3.1,+7,,
+2020-01-26,202001260DEN,DEN,Q2,Monte Morris,https://www.basketball-reference.com/boxscores/202001260DEN.html,11.1,2,3,.667,1,1,0,0,0,1,1,1,1,0,1,1,5,4.3,+3,1.000,
+2020-01-26,202001260DEN,DEN,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.13,1,4,.250,0,3,0,0,0,2,2,0,1,0,0,1,2,0.8,+3,.000,
+2020-01-26,202001260DEN,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.58,0,2,.000,0,1,1,2,2,0,2,0,0,0,1,1,1,-0.8,+3,.000,.500
+2020-01-26,202001260DEN,DEN,Q2,PJ Dozier,https://www.basketball-reference.com/boxscores/202001260DEN.html,0.5,0,0,,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,+2,,
+2020-01-26,202001260DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001260DEN.html,12.0,1,4,.250,0,2,3,4,0,2,2,4,1,0,2,3,5,3.4,+3,.000,.750
+2020-01-26,202001260DEN,DEN,Q3,Torrey Craig,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.35,1,1,1.000,0,0,1,1,0,0,0,0,0,0,0,2,3,1.9,+6,,1.000
+2020-01-26,202001260DEN,DEN,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.8,2,3,.667,0,0,2,2,1,0,1,1,0,0,0,1,6,5.7,+4,,1.000
+2020-01-26,202001260DEN,DEN,Q3,Will Barton,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.65,2,3,.667,1,1,0,0,0,1,1,1,0,0,0,1,5,4.3,+5,1.000,
+2020-01-26,202001260DEN,DEN,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.8,2,3,.667,0,0,0,0,0,1,1,1,1,0,0,0,4,4.7,+4,,
+2020-01-26,202001260DEN,DEN,Q3,Monte Morris,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.2,2,3,.667,0,0,0,0,1,2,3,1,0,1,0,0,4,5.4,-1,,
+2020-01-26,202001260DEN,DEN,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.65,0,1,.000,0,0,0,0,0,1,1,0,0,0,1,0,0,-1.4,-3,,
+2020-01-26,202001260DEN,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.2,2,3,.667,2,3,0,0,0,1,1,0,0,0,0,0,6,5.0,-1,.667,
+2020-01-26,202001260DEN,DEN,Q3,PJ Dozier,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.35,0,2,.000,0,2,0,0,0,0,0,0,0,0,0,1,0,-1.8,-2,.000,
+2020-01-26,202001260DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.2,1,2,.500,0,0,0,0,0,2,2,0,0,0,1,1,2,0.2,-1,,
+2020-01-26,202001260DEN,DEN,Q4,Torrey Craig,https://www.basketball-reference.com/boxscores/202001260DEN.html,8.07,1,3,.333,0,0,0,0,2,0,2,0,0,0,0,0,2,1.7,+2,,
+2020-01-26,202001260DEN,DEN,Q4,Jerami Grant,https://www.basketball-reference.com/boxscores/202001260DEN.html,9.03,0,2,.000,0,0,2,2,0,0,0,0,0,1,0,0,2,1.3,+9,,1.000
+2020-01-26,202001260DEN,DEN,Q4,Will Barton,https://www.basketball-reference.com/boxscores/202001260DEN.html,5.87,2,2,1.000,0,0,0,0,0,1,1,2,1,0,1,0,4,5.1,0,,
+2020-01-26,202001260DEN,DEN,Q4,Gary Harris,https://www.basketball-reference.com/boxscores/202001260DEN.html,3.93,0,1,.000,0,0,0,0,0,1,1,1,0,0,0,0,0,0.3,+4,,
+2020-01-26,202001260DEN,DEN,Q4,Monte Morris,https://www.basketball-reference.com/boxscores/202001260DEN.html,12.0,2,5,.400,2,3,0,0,0,3,3,2,0,0,0,0,6,5.6,+6,.667,
+2020-01-26,202001260DEN,DEN,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/202001260DEN.html,7.77,2,4,.500,0,0,4,4,0,0,0,1,2,0,1,0,8,7.7,+4,,1.000
+2020-01-26,202001260DEN,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001260DEN.html,6.13,1,2,.500,1,1,0,0,0,2,2,1,0,0,0,0,3,3.3,+6,1.000,

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-15,201911150ORL,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/201911150ORL.html,36:32,.643,.600,.000,.200,0.0,5.6,3.0,19.8,1.4,0.0,10.9,23.1,124,123,-2.2
+2019-11-15,201911150ORL,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/201911150ORL.html,31:02,.484,.462,.231,.077,0.0,19.7,10.4,8.3,0.0,13.3,0.0,19.9,106,113,1.2
+2019-11-15,201911150ORL,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/201911150ORL.html,29:20,.462,.462,.538,.000,0.0,3.5,1.8,4.3,1.7,0.0,0.0,20.4,97,124,-4.0
+2019-11-15,201911150ORL,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/201911150ORL.html,27:22,.571,.571,.571,.000,20.9,26.1,23.6,0.0,0.0,0.0,22.2,15.1,111,118,-6.3
+2019-11-15,201911150ORL,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/201911150ORL.html,20:46,.833,.833,.167,.000,5.5,19.7,13.0,41.5,2.4,0.0,25.0,17.7,143,115,6.8
+2019-11-15,201911150ORL,SAS,Derrick White,https://www.basketball-reference.com/boxscores/201911150ORL.html,21:35,.375,.375,.500,.000,0.0,4.7,2.5,20.8,0.0,7.7,33.3,12.8,80,122,-5.6
+2019-11-15,201911150ORL,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/201911150ORL.html,20:38,.583,.583,.417,.000,5.5,14.8,10.5,7.5,0.0,0.0,14.3,31.2,102,123,-4.6
+2019-11-15,201911150ORL,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/201911150ORL.html,19:23,.689,.722,.333,.111,0.0,5.3,2.8,8.2,7.8,0.0,0.0,22.4,136,109,11.4
+2019-11-15,201911150ORL,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/201911150ORL.html,16:55,.922,1.000,.000,.500,6.8,24.1,15.9,16.9,6.0,4.9,17.0,16.0,157,103,16.1
+2019-11-15,201911150ORL,SAS,Marco Belinelli,https://www.basketball-reference.com/boxscores/201911150ORL.html,16:27,.410,.417,.167,.500,0.0,24.8,13.1,7.5,0.0,0.0,0.0,20.5,91,118,-9.3
+2019-11-15,201911150ORL,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/201911150ORL.html,36:46,.296,.281,.063,.125,11.1,28.0,19.1,17.0,0.0,6.2,10.6,22.0,82,111,-6.5
+2019-11-15,201911150ORL,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/201911150ORL.html,35:53,.378,.300,.400,.533,8.5,15.9,12.0,17.5,0.0,2.1,9.7,24.5,93,117,-7.3
+2019-11-15,201911150ORL,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/201911150ORL.html,32:18,.776,.767,.400,.267,3.2,10.6,6.7,19.7,1.6,0.0,10.7,24.9,140,117,11.4
+2019-11-15,201911150ORL,ORL,Al-Farouq Aminu,https://www.basketball-reference.com/boxscores/201911150ORL.html,30:32,.611,.563,.250,.750,16.7,29.9,23.0,5.3,3.3,0.0,8.6,16.3,134,110,5.5
+2019-11-15,201911150ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/201911150ORL.html,24:39,.587,.375,.125,.875,0.0,9.3,4.4,25.8,4.1,0.0,0.0,19.3,144,112,6.6
+2019-11-15,201911150ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/201911150ORL.html,27:50,.698,.654,.615,.231,0.0,8.2,3.9,7.2,0.0,0.0,6.5,23.6,134,121,2.8
+2019-11-15,201911150ORL,ORL,D.J. Augustin,https://www.basketball-reference.com/boxscores/201911150ORL.html,25:06,.592,.563,.375,.125,0.0,13.7,6.4,27.0,2.0,0.0,0.0,14.4,141,116,2.8
+2019-11-15,201911150ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/201911150ORL.html,11:01,.000,.000,1.000,.000,9.3,20.7,14.7,0.0,0.0,0.0,66.7,11.7,22,118,-20.2
+2019-11-15,201911150ORL,ORL,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/201911150ORL.html,8:57,.436,.333,.333,.333,0.0,0.0,0.0,0.0,0.0,8.5,0.0,16.5,100,113,-10.0
+2019-11-15,201911150ORL,ORL,Wes Iwundu,https://www.basketball-reference.com/boxscores/201911150ORL.html,6:58,1.136,,,,0.0,0.0,0.0,19.1,0.0,0.0,0.0,5.4,246,122,2.0

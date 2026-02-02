@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2020-08-13,202008130UTA,SAS,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202008130UTA.html,10.95,1,4,.250,0,1,.000,0,0,0,5,5,3,0,0,1,1,2,1.8,-10,
+2020-08-13,202008130UTA,SAS,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202008130UTA.html,9.77,1,3,.333,0,0,,0,0,0,0,0,0,0,0,0,0,2,0.3,-20,
+2020-08-13,202008130UTA,SAS,Q1,Luka Šamanić,https://www.basketball-reference.com/boxscores/202008130UTA.html,4.8,0,1,.000,0,0,,2,2,0,1,1,1,0,0,1,2,2,0.5,-1,1.000
+2020-08-13,202008130UTA,SAS,Q1,Keldon Johnson,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.87,3,4,.750,1,1,1.000,1,1,0,0,0,0,0,0,1,2,8,4.6,-2,1.000
+2020-08-13,202008130UTA,SAS,Q1,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.15,3,3,1.000,0,0,,0,1,0,0,0,1,1,1,1,1,6,5.7,-2,.000
+2020-08-13,202008130UTA,SAS,Q1,Marco Belinelli,https://www.basketball-reference.com/boxscores/202008130UTA.html,7.2,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,-16,
+2020-08-13,202008130UTA,SAS,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.85,0,2,.000,0,0,,0,0,0,1,1,0,0,1,0,0,0,-0.4,-15,
+2020-08-13,202008130UTA,SAS,Q1,Chimezie Metu,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.13,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,-15,.500
+2020-08-13,202008130UTA,SAS,Q1,Quinndary Weatherspoon,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.28,0,0,,0,0,,1,2,0,1,1,0,0,0,0,1,1,0.5,-4,.500
+2020-08-13,202008130UTA,SAS,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202008130UTA.html,7.23,1,5,.200,0,0,,0,0,1,1,2,1,0,0,1,0,2,-0.4,+1,
+2020-08-13,202008130UTA,SAS,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.48,1,2,.500,1,1,1.000,0,0,0,1,1,2,0,0,0,0,3,3.7,+3,
+2020-08-13,202008130UTA,SAS,Q2,Luka Šamanić,https://www.basketball-reference.com/boxscores/202008130UTA.html,10.28,2,4,.500,1,2,.500,0,0,0,2,2,0,0,0,0,0,5,3.6,+8,
+2020-08-13,202008130UTA,SAS,Q2,Keldon Johnson,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.18,1,1,1.000,0,0,,1,2,0,0,0,0,0,0,0,1,3,1.9,+1,.500
+2020-08-13,202008130UTA,SAS,Q2,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.07,1,1,1.000,0,0,,0,2,1,3,4,0,0,0,0,1,2,2.1,+2,.000
+2020-08-13,202008130UTA,SAS,Q2,Marco Belinelli,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.82,3,5,.600,1,2,.500,0,0,0,0,0,0,0,0,0,2,7,3.9,+5,
+2020-08-13,202008130UTA,SAS,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202008130UTA.html,9.78,0,1,.000,0,0,,0,0,0,1,1,3,0,2,1,1,0,1.7,+5,
+2020-08-13,202008130UTA,SAS,Q2,Chimezie Metu,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.15,1,2,.500,0,1,.000,2,2,0,2,2,2,0,1,0,0,4,5.7,+5,1.000
+2020-08-13,202008130UTA,SAS,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202008130UTA.html,7.97,2,2,1.000,0,0,,0,0,0,2,2,0,0,0,0,1,4,3.6,+2,
+2020-08-13,202008130UTA,SAS,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202008130UTA.html,9.43,2,6,.333,0,0,,0,0,1,1,2,1,0,0,0,0,4,2.3,0,
+2020-08-13,202008130UTA,SAS,Q3,Luka Šamanić,https://www.basketball-reference.com/boxscores/202008130UTA.html,7.85,2,2,1.000,1,1,1.000,1,2,1,1,2,1,0,1,0,0,6,7.4,+2,.500
+2020-08-13,202008130UTA,SAS,Q3,Keldon Johnson,https://www.basketball-reference.com/boxscores/202008130UTA.html,9.75,2,5,.400,0,2,.000,1,1,0,1,1,0,0,0,2,0,5,0.6,0,1.000
+2020-08-13,202008130UTA,SAS,Q3,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.92,1,2,.500,0,0,,0,2,1,0,1,2,0,1,0,1,2,2.6,-1,.000
+2020-08-13,202008130UTA,SAS,Q3,Marco Belinelli,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.6,1,1,1.000,1,1,1.000,1,2,0,0,0,0,0,0,0,0,4,3.3,0,.500
+2020-08-13,202008130UTA,SAS,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202008130UTA.html,5.08,0,2,.000,0,0,,2,4,1,1,2,0,0,1,0,0,2,1.5,+2,.500
+2020-08-13,202008130UTA,SAS,Q3,Chimezie Metu,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.4,0,1,.000,0,0,,0,0,0,2,2,1,1,0,1,1,0,0.2,0,
+2020-08-13,202008130UTA,SAS,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202008130UTA.html,10.12,1,3,.333,0,1,.000,2,2,0,5,5,3,0,0,4,1,4,1.5,+11,1.000
+2020-08-13,202008130UTA,SAS,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.38,2,3,.667,2,2,1.000,0,0,0,0,0,1,1,0,1,0,6,5.4,+5,
+2020-08-13,202008130UTA,SAS,Q4,Luka Šamanić,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.52,1,3,.333,1,2,.500,0,0,0,1,1,1,0,0,0,2,3,1.5,-2,
+2020-08-13,202008130UTA,SAS,Q4,Keldon Johnson,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.38,2,2,1.000,0,0,,4,4,0,1,1,0,1,0,0,1,8,8.3,+5,1.000
+2020-08-13,202008130UTA,SAS,Q4,Marco Belinelli,https://www.basketball-reference.com/boxscores/202008130UTA.html,7.1,1,3,.333,1,3,.333,0,0,0,0,0,0,0,0,0,0,3,1.3,+5,
+2020-08-13,202008130UTA,SAS,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.52,1,1,1.000,0,0,,4,4,1,2,3,0,0,0,0,0,6,7.0,-2,1.000
+2020-08-13,202008130UTA,SAS,Q4,Chimezie Metu,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.98,2,3,.667,0,0,,1,1,2,0,2,1,0,0,1,1,5,4.4,-2,1.000
+2020-08-13,202008130UTA,UTA,Q1,Tony Bradley,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.15,3,4,.750,0,0,,0,0,0,3,3,0,0,0,0,1,6,4.9,+2,
+2020-08-13,202008130UTA,UTA,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202008130UTA.html,9.58,4,9,.444,3,7,.429,0,0,0,2,2,0,0,0,1,1,11,5.5,+15,
+2020-08-13,202008130UTA,UTA,Q1,Joe Ingles,https://www.basketball-reference.com/boxscores/202008130UTA.html,9.58,1,3,.333,1,3,.333,0,0,0,1,1,2,0,0,0,0,3,3.0,+15,
+2020-08-13,202008130UTA,UTA,Q1,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.15,3,4,.750,3,4,.750,2,2,0,2,2,3,0,0,0,1,11,11.7,+2,1.000
+2020-08-13,202008130UTA,UTA,Q1,Royce O'Neale,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.15,1,2,.500,0,1,.000,0,0,0,1,1,0,0,2,0,1,2,2.3,+2,
+2020-08-13,202008130UTA,UTA,Q1,Miye Oni,https://www.basketball-reference.com/boxscores/202008130UTA.html,2.42,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+2,
+2020-08-13,202008130UTA,UTA,Q1,Georges Niang,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.27,1,3,.333,1,3,.333,0,0,1,2,3,1,0,0,0,1,3,2.9,+17,
+2020-08-13,202008130UTA,UTA,Q1,Juwan Morgan,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.85,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,+15,
+2020-08-13,202008130UTA,UTA,Q1,Ed Davis,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.85,2,2,1.000,0,0,,1,1,2,1,3,1,0,0,0,0,5,6.8,+15,1.000
+2020-08-13,202008130UTA,UTA,Q2,Tony Bradley,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.37,0,2,.000,0,0,,0,0,2,3,5,0,0,0,1,0,0,-0.1,-2,
+2020-08-13,202008130UTA,UTA,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202008130UTA.html,4.45,0,3,.000,0,2,.000,0,0,0,0,0,1,0,0,1,0,0,-2.4,-3,
+2020-08-13,202008130UTA,UTA,Q2,Joe Ingles,https://www.basketball-reference.com/boxscores/202008130UTA.html,2.75,0,1,.000,0,0,,0,0,0,0,0,1,1,0,0,0,0,1.0,-3,
+2020-08-13,202008130UTA,UTA,Q2,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.18,0,1,.000,0,0,,0,0,0,2,2,0,0,0,0,0,0,-0.1,-1,
+2020-08-13,202008130UTA,UTA,Q2,Royce O'Neale,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.18,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-1,
+2020-08-13,202008130UTA,UTA,Q2,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.4,3,5,.600,0,0,,0,0,1,1,2,1,0,1,0,1,6,5.7,-2,
+2020-08-13,202008130UTA,UTA,Q2,Miye Oni,https://www.basketball-reference.com/boxscores/202008130UTA.html,9.25,1,2,.500,1,2,.500,0,0,0,0,0,1,0,0,0,1,3,2.3,-3,
+2020-08-13,202008130UTA,UTA,Q2,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202008130UTA.html,5.22,0,3,.000,0,1,.000,2,2,0,0,0,0,0,0,0,0,2,-0.1,-3,1.000
+2020-08-13,202008130UTA,UTA,Q2,Georges Niang,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.82,1,3,.333,1,3,.333,0,0,0,1,1,0,0,0,0,0,3,1.6,-5,
+2020-08-13,202008130UTA,UTA,Q2,Juwan Morgan,https://www.basketball-reference.com/boxscores/202008130UTA.html,2.75,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2020-08-13,202008130UTA,UTA,Q2,Ed Davis,https://www.basketball-reference.com/boxscores/202008130UTA.html,3.63,3,4,.750,0,0,,0,0,2,1,3,0,0,0,0,2,6,5.3,-4,
+2020-08-13,202008130UTA,UTA,Q3,Tony Bradley,https://www.basketball-reference.com/boxscores/202008130UTA.html,5.17,0,1,.000,0,0,,0,0,1,1,2,1,0,1,0,0,0,1.7,-1,
+2020-08-13,202008130UTA,UTA,Q3,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202008130UTA.html,10.25,1,4,.250,0,2,.000,1,2,0,0,0,3,0,0,0,1,3,1.9,-3,.500
+2020-08-13,202008130UTA,UTA,Q3,Miye Oni,https://www.basketball-reference.com/boxscores/202008130UTA.html,5.17,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,-1,
+2020-08-13,202008130UTA,UTA,Q3,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.83,4,6,.667,1,2,.500,0,0,0,2,2,0,0,0,0,0,9,7.0,0,
+2020-08-13,202008130UTA,UTA,Q3,Nigel Williams-Goss,https://www.basketball-reference.com/boxscores/202008130UTA.html,12.0,1,4,.250,1,2,.500,0,0,0,1,1,1,0,0,0,1,3,1.2,-1,
+2020-08-13,202008130UTA,UTA,Q3,Georges Niang,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.92,3,4,.750,1,2,.500,0,0,0,1,1,1,0,0,1,0,7,5.4,+1,
+2020-08-13,202008130UTA,UTA,Q3,Juwan Morgan,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.83,1,2,.500,0,0,,0,0,2,1,3,0,0,1,1,3,2,1.2,0,
+2020-08-13,202008130UTA,UTA,Q3,Justin Wright-Foreman,https://www.basketball-reference.com/boxscores/202008130UTA.html,6.83,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,0,
+2020-08-13,202008130UTA,UTA,Q4,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202008130UTA.html,10.33,2,4,.500,0,1,.000,0,0,0,2,2,2,1,0,0,0,4,5.0,+1,
+2020-08-13,202008130UTA,UTA,Q4,Miye Oni,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.98,2,3,.667,1,2,.500,0,0,1,1,2,1,1,0,1,2,5,4.6,+2,
+2020-08-13,202008130UTA,UTA,Q4,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202008130UTA.html,12.0,2,3,.667,0,1,.000,3,3,0,0,0,1,0,0,0,0,7,6.4,-4,1.000
+2020-08-13,202008130UTA,UTA,Q4,Nigel Williams-Goss,https://www.basketball-reference.com/boxscores/202008130UTA.html,10.18,3,5,.600,1,3,.333,0,0,0,0,0,0,2,0,1,3,7,4.5,-3,
+2020-08-13,202008130UTA,UTA,Q4,Juwan Morgan,https://www.basketball-reference.com/boxscores/202008130UTA.html,8.38,2,2,1.000,0,0,,0,0,0,0,0,1,0,0,0,1,4,3.7,-5,
+2020-08-13,202008130UTA,UTA,Q4,Justin Wright-Foreman,https://www.basketball-reference.com/boxscores/202008130UTA.html,10.12,2,6,.333,0,3,.000,0,0,0,2,2,3,1,0,1,1,4,2.9,-11,

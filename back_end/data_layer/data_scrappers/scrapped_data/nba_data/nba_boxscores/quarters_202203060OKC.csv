@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-03-06,202203060OKC,UTA,Q1,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.35,4,4,1.000,1,1,1.000,0,0,0,1,1,3,0,0,0,0,9,10.2,+16,
+2022-03-06,202203060OKC,UTA,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.17,0,1,.000,0,0,,1,2,0,2,2,0,0,1,0,0,1,1.2,+12,.500
+2022-03-06,202203060OKC,UTA,Q1,Royce O'Neale,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.35,3,4,.750,3,3,1.000,0,0,0,3,3,1,0,1,1,1,9,8.3,+16,
+2022-03-06,202203060OKC,UTA,Q1,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.35,4,5,.800,4,5,.800,2,2,0,2,2,1,0,0,1,0,14,12.4,+16,1.000
+2022-03-06,202203060OKC,UTA,Q1,Trent Forrest,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.82,0,1,.000,0,1,.000,0,0,0,2,2,3,0,0,0,0,0,2.0,+5,
+2022-03-06,202203060OKC,UTA,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202203060OKC.html,2.65,0,3,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-2.1,-7,
+2022-03-06,202203060OKC,UTA,Q1,Rudy Gay,https://www.basketball-reference.com/boxscores/202203060OKC.html,2.65,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-7,
+2022-03-06,202203060OKC,UTA,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.83,0,0,,0,0,,0,0,0,2,2,0,0,1,0,0,0,1.3,-3,
+2022-03-06,202203060OKC,UTA,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202203060OKC.html,2.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-7,
+2022-03-06,202203060OKC,UTA,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202203060OKC.html,2.18,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+4,
+2022-03-06,202203060OKC,UTA,Q2,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202203060OKC.html,8.27,1,5,.200,1,4,.250,0,0,0,1,1,3,0,0,0,2,3,1.5,-6,
+2022-03-06,202203060OKC,UTA,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.15,2,2,1.000,0,0,,1,1,1,4,5,1,0,0,0,0,5,7.0,+14,1.000
+2022-03-06,202203060OKC,UTA,Q2,Royce O'Neale,https://www.basketball-reference.com/boxscores/202203060OKC.html,8.27,0,2,.000,0,2,.000,0,0,0,2,2,1,1,0,0,0,0,0.9,-6,
+2022-03-06,202203060OKC,UTA,Q2,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.57,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,0,3,1.7,-6,
+2022-03-06,202203060OKC,UTA,Q2,Trent Forrest,https://www.basketball-reference.com/boxscores/202203060OKC.html,6.45,2,2,1.000,1,1,1.000,1,1,0,0,0,0,0,0,0,0,6,5.4,+14,1.000
+2022-03-06,202203060OKC,UTA,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.28,2,6,.333,2,3,.667,0,0,0,1,1,1,0,0,2,2,6,0.8,+6,
+2022-03-06,202203060OKC,UTA,Q2,Rudy Gay,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.43,0,0,,0,0,,2,2,0,1,1,0,0,0,0,1,2,1.9,+13,1.000
+2022-03-06,202203060OKC,UTA,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.85,0,0,,0,0,,0,0,1,0,1,0,0,1,1,0,0,0.4,-7,
+2022-03-06,202203060OKC,UTA,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.73,1,2,.500,1,1,1.000,0,0,0,0,0,1,0,0,0,0,3,2.7,+13,
+2022-03-06,202203060OKC,UTA,Q3,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.03,4,7,.571,2,5,.400,0,0,1,0,1,1,0,0,1,1,10,6.7,-1,
+2022-03-06,202203060OKC,UTA,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.92,2,3,.667,0,0,,0,0,2,3,5,0,0,0,1,0,4,4.0,+2,
+2022-03-06,202203060OKC,UTA,Q3,Royce O'Neale,https://www.basketball-reference.com/boxscores/202203060OKC.html,8.03,0,2,.000,0,2,.000,0,0,0,0,0,1,1,0,0,0,0,0.3,+5,
+2022-03-06,202203060OKC,UTA,Q3,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202203060OKC.html,8.03,3,5,.600,3,5,.600,0,0,0,0,0,1,0,0,0,2,9,6.6,+5,
+2022-03-06,202203060OKC,UTA,Q3,Trent Forrest,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.92,0,1,.000,0,0,,0,0,0,1,1,2,0,0,2,1,0,-1.4,+2,
+2022-03-06,202203060OKC,UTA,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.97,1,4,.250,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,-0.1,-6,
+2022-03-06,202203060OKC,UTA,Q3,Rudy Gay,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.97,1,2,.500,0,1,.000,1,2,1,2,3,0,0,0,0,1,3,2.5,-6,.500
+2022-03-06,202203060OKC,UTA,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.08,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,2,0,-0.5,-3,
+2022-03-06,202203060OKC,UTA,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.97,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-6,
+2022-03-06,202203060OKC,UTA,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.08,0,0,,0,0,,2,2,0,1,1,0,0,0,0,0,2,2.3,+3,1.000
+2022-03-06,202203060OKC,UTA,Q4,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202203060OKC.html,8.6,0,3,.000,0,1,.000,2,4,0,1,1,3,1,0,1,2,2,0.7,0,.500
+2022-03-06,202203060OKC,UTA,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202203060OKC.html,12.0,1,2,.500,0,0,,0,0,2,3,5,0,0,0,0,0,2,3.3,-2,
+2022-03-06,202203060OKC,UTA,Q4,Royce O'Neale,https://www.basketball-reference.com/boxscores/202203060OKC.html,8.48,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,0,
+2022-03-06,202203060OKC,UTA,Q4,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202203060OKC.html,8.6,3,8,.375,3,7,.429,0,0,2,1,3,1,0,0,0,0,9,7.0,0,
+2022-03-06,202203060OKC,UTA,Q4,Trent Forrest,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.12,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,0,
+2022-03-06,202203060OKC,UTA,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202203060OKC.html,11.28,5,8,.625,1,4,.250,1,1,0,0,0,1,0,0,0,3,12,7.9,-4,1.000
+2022-03-06,202203060OKC,UTA,Q4,Rudy Gay,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.52,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2022-03-06,202203060OKC,UTA,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.4,0,0,,0,0,,0,0,1,1,2,0,0,0,0,0,0,1.0,-2,
+2022-03-06,202203060OKC,OKC,Q1,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202203060OKC.html,12.0,4,10,.400,0,1,.000,2,2,0,2,2,4,1,0,0,1,10,8.6,-9,1.000
+2022-03-06,202203060OKC,OKC,Q1,Darius Bazley,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.48,2,4,.500,1,3,.333,0,0,0,0,0,0,0,1,0,0,5,3.7,-16,
+2022-03-06,202203060OKC,OKC,Q1,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.17,1,2,.500,0,1,.000,0,0,1,0,1,0,0,0,0,0,2,1.7,-12,
+2022-03-06,202203060OKC,OKC,Q1,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.17,1,2,.500,0,0,,0,0,1,1,2,0,1,0,0,0,2,3.0,-12,
+2022-03-06,202203060OKC,OKC,Q1,Tre Mann,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.48,0,4,.000,0,1,.000,0,0,0,2,2,1,0,0,0,1,0,-1.9,-16,
+2022-03-06,202203060OKC,OKC,Q1,Vit Krejci,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.83,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,1,3,2.6,+3,
+2022-03-06,202203060OKC,OKC,Q1,Olivier Sarr,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.83,1,2,.500,0,0,,0,0,0,2,2,0,0,0,0,0,2,1.6,+3,
+2022-03-06,202203060OKC,OKC,Q1,Théo Maledon,https://www.basketball-reference.com/boxscores/202203060OKC.html,2.52,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+7,
+2022-03-06,202203060OKC,OKC,Q1,Lindy Waters III,https://www.basketball-reference.com/boxscores/202203060OKC.html,2.52,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+7,
+2022-03-06,202203060OKC,OKC,Q2,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.57,4,4,1.000,0,0,,2,2,0,0,0,1,1,0,0,1,10,10.1,+6,1.000
+2022-03-06,202203060OKC,OKC,Q2,Darius Bazley,https://www.basketball-reference.com/boxscores/202203060OKC.html,6.3,1,2,.500,0,1,.000,0,0,0,1,1,0,1,0,0,0,2,2.3,-2,
+2022-03-06,202203060OKC,OKC,Q2,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202203060OKC.html,10.42,0,1,.000,0,0,,0,0,1,0,1,0,0,0,1,0,0,-1.0,-2,
+2022-03-06,202203060OKC,OKC,Q2,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202203060OKC.html,9.03,2,6,.333,0,2,.000,0,0,2,4,6,1,0,0,0,0,4,3.9,+6,
+2022-03-06,202203060OKC,OKC,Q2,Tre Mann,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.68,1,4,.250,0,3,.000,0,0,0,0,0,0,0,0,0,0,2,-0.4,-14,
+2022-03-06,202203060OKC,OKC,Q2,Vit Krejci,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.87,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,0,1,0,-0.1,-9,
+2022-03-06,202203060OKC,OKC,Q2,Olivier Sarr,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.7,0,1,.000,0,1,.000,0,0,1,1,2,0,1,0,2,1,0,-1.1,-5,
+2022-03-06,202203060OKC,OKC,Q2,Théo Maledon,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.43,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,0,2,0,-1.9,-13,
+2022-03-06,202203060OKC,OKC,Q2,Lindy Waters III,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.0,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,1,0,0,3,3.7,-2,
+2022-03-06,202203060OKC,OKC,Q3,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202203060OKC.html,12.0,3,8,.375,0,3,.000,2,2,0,3,3,1,2,1,0,0,8,7.9,+1,1.000
+2022-03-06,202203060OKC,OKC,Q3,Darius Bazley,https://www.basketball-reference.com/boxscores/202203060OKC.html,7.85,2,4,.500,0,2,.000,0,0,0,1,1,0,0,0,1,0,4,1.3,-4,
+2022-03-06,202203060OKC,OKC,Q3,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202203060OKC.html,11.23,3,3,1.000,0,0,,1,1,0,1,1,1,2,0,0,2,7,8.3,+2,1.000
+2022-03-06,202203060OKC,OKC,Q3,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202203060OKC.html,12.0,1,4,.250,0,2,.000,0,0,0,3,3,3,0,1,1,0,2,2.3,+1,
+2022-03-06,202203060OKC,OKC,Q3,Tre Mann,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.95,0,2,.000,0,1,.000,2,2,0,1,1,1,0,0,0,0,2,1.6,-2,1.000
+2022-03-06,202203060OKC,OKC,Q3,Vit Krejci,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.45,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+5,
+2022-03-06,202203060OKC,OKC,Q3,Olivier Sarr,https://www.basketball-reference.com/boxscores/202203060OKC.html,3.37,0,1,.000,0,0,,2,2,2,0,2,0,0,0,1,1,2,1.3,-3,1.000
+2022-03-06,202203060OKC,OKC,Q3,Lindy Waters III,https://www.basketball-reference.com/boxscores/202203060OKC.html,4.15,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,2,3,2.2,+5,
+2022-03-06,202203060OKC,OKC,Q4,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202203060OKC.html,6.75,0,1,.000,0,0,,5,6,0,2,2,2,0,0,0,2,5,5.1,0,.833
+2022-03-06,202203060OKC,OKC,Q4,Darius Bazley,https://www.basketball-reference.com/boxscores/202203060OKC.html,12.0,0,1,.000,0,1,.000,0,0,0,3,3,2,0,2,0,1,0,2.6,+2,
+2022-03-06,202203060OKC,OKC,Q4,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.83,1,2,.500,0,1,.000,0,0,1,0,1,1,0,0,0,1,2,2.0,+3,
+2022-03-06,202203060OKC,OKC,Q4,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.53,2,3,.667,0,1,.000,0,0,0,0,0,0,0,0,1,0,4,1.7,+3,
+2022-03-06,202203060OKC,OKC,Q4,Tre Mann,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.25,1,3,.333,0,2,.000,0,0,0,1,1,1,0,0,0,0,2,1.3,+2,
+2022-03-06,202203060OKC,OKC,Q4,Vit Krejci,https://www.basketball-reference.com/boxscores/202203060OKC.html,5.25,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,+2,
+2022-03-06,202203060OKC,OKC,Q4,Olivier Sarr,https://www.basketball-reference.com/boxscores/202203060OKC.html,6.47,3,5,.600,1,3,.333,0,0,2,1,3,0,0,2,0,0,7,7.8,-1,
+2022-03-06,202203060OKC,OKC,Q4,Théo Maledon,https://www.basketball-reference.com/boxscores/202203060OKC.html,12.0,2,4,.500,2,3,.667,1,2,0,2,2,0,1,0,0,0,7,6.2,+2,.500
+2022-03-06,202203060OKC,OKC,Q4,Lindy Waters III,https://www.basketball-reference.com/boxscores/202203060OKC.html,0.92,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,

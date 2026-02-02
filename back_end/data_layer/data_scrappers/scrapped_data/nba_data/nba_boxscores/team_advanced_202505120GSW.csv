@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-05-12,202505120GSW,MIN,Julius Randle,https://www.basketball-reference.com/boxscores/202505120GSW.html,40:49,.656,.619,.381,.286,0.0,12.8,7.7,13.5,1.2,2.0,14.5,29.2,115,112,3.3
+2025-05-12,202505120GSW,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202505120GSW.html,40:18,.563,.500,.125,.250,4.0,31.1,20.4,7.0,1.2,2.1,10.1,10.6,118,105,-0.2
+2025-05-12,202505120GSW,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202505120GSW.html,33:17,.672,.667,.524,.143,0.0,12.5,7.6,31.2,2.9,0.0,11.8,32.8,123,109,8.9
+2025-05-12,202505120GSW,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202505120GSW.html,29:46,.694,.500,.000,1.000,16.1,10.5,12.7,4.5,0.0,2.8,0.0,8.3,169,115,1.6
+2025-05-12,202505120GSW,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202505120GSW.html,29:23,.491,.333,.667,.556,10.9,3.6,6.4,22.9,0.0,0.0,0.0,16.4,135,119,-0.3
+2025-05-12,202505120GSW,MIN,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202505120GSW.html,25:40,.514,.429,.571,.571,0.0,12.2,7.4,15.9,1.9,0.0,18.6,18.1,100,112,-4.3
+2025-05-12,202505120GSW,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202505120GSW.html,23:33,.625,.625,.750,.000,0.0,8.9,5.4,5.8,6.1,3.5,55.6,16.5,55,101,-4.1
+2025-05-12,202505120GSW,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202505120GSW.html,17:14,1.105,1.100,.200,.400,0.0,12.1,7.3,22.2,2.8,4.8,40.5,24.7,120,107,11.5
+2025-05-12,202505120GSW,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202505120GSW.html,34:45,.509,.455,.545,.364,3.0,13.8,7.3,4.4,2.8,0.0,23.9,20.0,86,116,-4.6
+2025-05-12,202505120GSW,GSW,Jimmy Butler,https://www.basketball-reference.com/boxscores/202505120GSW.html,34:22,.625,.556,.111,.556,9.1,14.0,11.0,14.0,0.0,3.1,15.2,16.0,125,120,0.8
+2025-05-12,202505120GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202505120GSW.html,33:52,.500,.500,.429,.000,3.1,28.3,13.1,9.9,0.0,0.0,12.5,19.6,99,120,-4.2
+2025-05-12,202505120GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202505120GSW.html,33:01,.331,.214,.286,.429,3.2,9.7,5.7,4.5,5.8,0.0,10.7,23.5,74,109,-6.0
+2025-05-12,202505120GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202505120GSW.html,19:14,.868,1.000,.000,1.000,5.4,16.6,9.9,7.8,0.0,0.0,0.0,6.2,182,122,0.0
+2025-05-12,202505120GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202505120GSW.html,29:31,.629,.462,.154,.923,0.0,0.0,0.0,6.0,1.6,0.0,9.9,28.5,125,121,2.5
+2025-05-12,202505120GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202505120GSW.html,15:51,.300,.300,.400,.000,19.8,0.0,12.0,17.8,3.0,0.0,28.6,18.4,79,117,-6.2
+2025-05-12,202505120GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202505120GSW.html,13:51,.680,.600,.000,.400,22.6,57.8,36.5,0.0,0.0,0.0,0.0,17.6,158,116,4.5
+2025-05-12,202505120GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202505120GSW.html,6:53,.500,.500,1.000,.000,0.0,23.2,9.2,69.7,0.0,0.0,0.0,18.1,143,121,10.3
+2025-05-12,202505120GSW,GSW,Kevin Knox,https://www.basketball-reference.com/boxscores/202505120GSW.html,4:38,1.000,1.000,.000,.000,0.0,0.0,0.0,38.9,0.0,0.0,50.0,17.9,102,124,-0.8
+2025-05-12,202505120GSW,GSW,Quinten Post,https://www.basketball-reference.com/boxscores/202505120GSW.html,4:38,.625,.625,.500,.000,22.5,34.5,27.3,63.6,0.0,0.0,0.0,35.9,147,119,20.7
+2025-05-12,202505120GSW,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202505120GSW.html,4:38,.875,.875,.250,.000,0.0,34.5,13.6,100.0,20.7,0.0,0.0,35.9,191,71,67.0
+2025-05-12,202505120GSW,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202505120GSW.html,4:38,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.9,250,124,4.3
+2025-05-12,202505120GSW,GSW,Braxton Key,https://www.basketball-reference.com/boxscores/202505120GSW.html,0:08,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,124,-4.2

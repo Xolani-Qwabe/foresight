@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-20,202312200PHI,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202312200PHI.html,37:59,.739,.750,.250,.417,3.3,6.8,5.1,0.0,1.3,0.0,0.0,16.2,151,128,4.1
+2023-12-20,202312200PHI,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202312200PHI.html,37:38,.710,.679,.143,.357,10.1,34.5,22.1,8.4,0.0,0.0,19.8,23.3,120,127,0.7
+2023-12-20,202312200PHI,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202312200PHI.html,36:16,.574,.500,.300,.400,3.5,21.5,12.4,22.0,0.0,0.0,4.1,29.4,126,128,3.7
+2023-12-20,202312200PHI,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202312200PHI.html,25:50,.571,.500,.571,.286,0.0,0.0,0.0,20.4,0.0,0.0,20.2,16.6,108,131,-4.2
+2023-12-20,202312200PHI,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202312200PHI.html,24:12,.820,.750,.000,.500,10.4,37.5,23.8,5.5,4.0,0.0,0.0,8.8,180,117,6.4
+2023-12-20,202312200PHI,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202312200PHI.html,20:03,.556,.556,.667,.000,6.3,6.5,6.4,7.4,0.0,3.9,30.8,28.1,80,127,-8.3
+2023-12-20,202312200PHI,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202312200PHI.html,15:38,.667,.667,.333,.000,0.0,16.6,8.2,17.1,0.0,5.0,0.0,8.3,152,125,4.7
+2023-12-20,202312200PHI,MIN,Shake Milton,https://www.basketball-reference.com/boxscores/202312200PHI.html,13:15,.347,.000,.000,1.000,0.0,0.0,0.0,25.9,0.0,0.0,25.8,12.7,91,131,-6.2
+2023-12-20,202312200PHI,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202312200PHI.html,12:40,.200,.200,.000,.000,0.0,0.0,0.0,9.9,0.0,0.0,28.6,24.0,39,131,-20.2
+2023-12-20,202312200PHI,MIN,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202312200PHI.html,9:44,.625,.625,.500,.000,13.0,13.3,13.2,15.3,0.0,0.0,42.9,31.2,79,129,-7.0
+2023-12-20,202312200PHI,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202312200PHI.html,2:15,.000,.000,1.000,.000,0.0,57.7,28.4,50.8,0.0,0.0,0.0,19.3,59,123,-14.9
+2023-12-20,202312200PHI,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202312200PHI.html,2:15,,,,,0.0,0.0,0.0,50.8,0.0,0.0,,0.0,221,131,6.6
+2023-12-20,202312200PHI,MIN,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202312200PHI.html,2:15,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,21.3,0.0,50.0,38.6,65,85,18.7
+2023-12-20,202312200PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202312200PHI.html,37:21,.657,.604,.500,.250,0.0,3.4,1.7,21.7,0.0,0.0,15.8,36.9,116,120,1.2
+2023-12-20,202312200PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202312200PHI.html,36:31,.431,.400,.100,.100,3.6,13.8,8.8,9.9,1.3,0.0,8.7,13.7,98,115,-5.1
+2023-12-20,202312200PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202312200PHI.html,36:08,.775,.680,.040,.720,7.2,35.0,21.3,17.8,2.7,2.3,5.7,42.1,154,106,20.6
+2023-12-20,202312200PHI,PHI,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202312200PHI.html,29:19,.543,.583,.500,.167,0.0,8.6,4.4,0.0,3.3,0.0,13.4,11.1,91,112,-2.7
+2023-12-20,202312200PHI,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202312200PHI.html,16:19,.694,.500,.500,1.000,0.0,23.2,11.8,14.0,0.0,0.0,25.8,10.4,121,116,-1.3
+2023-12-20,202312200PHI,PHI,Marcus Morris,https://www.basketball-reference.com/boxscores/202312200PHI.html,25:06,.625,.625,.500,.000,0.0,5.0,2.5,0.0,1.9,0.0,0.0,6.9,125,116,-1.0
+2023-12-20,202312200PHI,PHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202312200PHI.html,17:43,.500,.500,.400,.000,0.0,21.4,10.8,20.5,0.0,4.8,0.0,12.3,124,113,5.1
+2023-12-20,202312200PHI,PHI,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202312200PHI.html,17:26,.000,.000,.000,.000,0.0,7.2,3.7,0.0,0.0,0.0,0.0,2.5,0,119,-6.9
+2023-12-20,202312200PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202312200PHI.html,11:59,.680,.600,.000,.400,43.3,42.2,42.7,36.4,12.0,7.0,25.4,28.7,134,81,22.1
+2023-12-20,202312200PHI,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202312200PHI.html,6:55,.798,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.9,160,121,-1.0
+2023-12-20,202312200PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202312200PHI.html,1:49,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0,121,-29.8
+2023-12-20,202312200PHI,PHI,Mo Bamba,https://www.basketball-reference.com/boxscores/202312200PHI.html,1:42,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-3.7
+2023-12-20,202312200PHI,PHI,Jaden Springer,https://www.basketball-reference.com/boxscores/202312200PHI.html,1:42,,,,,0.0,0.0,0.0,62.7,0.0,0.0,,0.0,218,121,17.5

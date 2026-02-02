@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2024-01-05,202401050HOU,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202401050HOU.html,32.97,6,7,.857,0,0,1,3,.333,3,9,12,1,2,2,1,2,13,16.8,+22,
+2024-01-05,202401050HOU,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202401050HOU.html,32.55,8,17,.471,2,5,6,6,1.000,0,3,3,5,2,0,5,2,24,15.9,+14,.400
+2024-01-05,202401050HOU,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202401050HOU.html,31.33,8,17,.471,1,4,5,5,1.000,2,6,8,6,0,1,4,2,22,16.6,+11,.250
+2024-01-05,202401050HOU,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202401050HOU.html,29.78,7,10,.700,2,3,0,0,,0,3,3,0,1,0,0,1,16,13.3,+14,.667
+2024-01-05,202401050HOU,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202401050HOU.html,25.0,3,8,.375,2,5,0,0,,0,2,2,5,0,0,0,3,8,6.5,+13,.400
+2024-01-05,202401050HOU,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202401050HOU.html,24.77,6,11,.545,3,6,1,2,.500,1,6,7,2,0,1,0,1,16,14.5,+21,.500
+2024-01-05,202401050HOU,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202401050HOU.html,17.58,1,4,.250,0,0,0,0,,1,6,7,5,3,0,2,3,2,5.4,+16,
+2024-01-05,202401050HOU,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202401050HOU.html,17.53,4,6,.667,2,4,1,2,.500,1,2,3,3,2,2,0,2,11,14.0,+17,.500
+2024-01-05,202401050HOU,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202401050HOU.html,12.82,1,1,1.000,1,1,0,0,,0,3,3,3,2,0,0,0,3,7.7,+19,1.000
+2024-01-05,202401050HOU,MIN,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202401050HOU.html,3.47,1,2,.500,1,2,0,0,,0,1,1,1,0,0,0,0,3,3.0,0,.500
+2024-01-05,202401050HOU,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202401050HOU.html,3.47,1,4,.250,0,2,0,0,,1,0,1,0,0,0,1,1,2,-1.1,0,.000
+2024-01-05,202401050HOU,MIN,Shake Milton,https://www.basketball-reference.com/boxscores/202401050HOU.html,3.47,0,1,.000,0,1,0,0,,0,0,0,0,0,0,1,1,0,-2.1,0,.000
+2024-01-05,202401050HOU,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202401050HOU.html,2.63,0,0,,0,0,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-6,
+2024-01-05,202401050HOU,MIN,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202401050HOU.html,2.63,0,0,,0,0,0,0,,0,2,2,0,0,1,0,0,0,1.3,-6,
+2024-01-05,202401050HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202401050HOU.html,33.33,8,17,.471,0,1,3,3,1.000,1,4,5,1,0,0,2,3,19,9.7,-16,.000
+2024-01-05,202401050HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202401050HOU.html,32.42,6,13,.462,3,5,1,2,.500,1,8,9,2,0,0,4,3,16,8.2,-12,.600
+2024-01-05,202401050HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202401050HOU.html,30.97,2,9,.222,2,5,1,1,1.000,0,1,1,8,1,1,1,0,7,8.1,-13,.400
+2024-01-05,202401050HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202401050HOU.html,30.7,7,16,.438,4,8,2,4,.500,1,4,5,2,0,0,2,1,20,11.7,-9,.500
+2024-01-05,202401050HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202401050HOU.html,20.85,0,1,.000,0,1,0,0,,0,3,3,2,1,0,0,1,0,2.2,-13,.000
+2024-01-05,202401050HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202401050HOU.html,20.83,2,4,.500,0,2,0,0,,1,0,1,0,0,0,0,2,4,1.9,-17,.000
+2024-01-05,202401050HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202401050HOU.html,19.62,2,9,.222,0,2,2,3,.667,1,5,6,1,3,0,2,3,6,2.8,-20,.000
+2024-01-05,202401050HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202401050HOU.html,18.95,2,3,.667,1,1,0,0,,0,2,2,2,0,0,0,0,5,5.7,-14,1.000
+2024-01-05,202401050HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202401050HOU.html,14.88,4,10,.400,1,4,2,2,1.000,0,2,2,0,2,0,4,1,11,3.8,-9,.250
+2024-01-05,202401050HOU,HOU,Reggie Bullock,https://www.basketball-reference.com/boxscores/202401050HOU.html,7.98,2,4,.500,1,2,0,0,,0,1,1,0,0,0,0,1,5,2.9,-5,.500
+2024-01-05,202401050HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202401050HOU.html,5.38,0,1,.000,0,1,0,0,,0,0,0,0,0,1,0,0,0,0.0,-4,.000
+2024-01-05,202401050HOU,HOU,Boban Marjanović,https://www.basketball-reference.com/boxscores/202401050HOU.html,4.08,1,3,.333,0,0,0,0,,2,1,3,0,0,0,0,0,2,2.0,-3,

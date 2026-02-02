@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-03,202204030CLE,PHI,James Harden,https://www.basketball-reference.com/boxscores/202204030CLE.html,40:34,.574,.385,.538,.923,10.3,15.8,13.0,41.9,0.0,0.0,18.0,23.4,123,121,2.0
+2022-04-03,202204030CLE,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202204030CLE.html,38:03,.632,.519,.231,.769,11.0,36.4,23.6,21.2,1.3,14.0,7.9,42.4,128,103,19.0
+2022-04-03,202204030CLE,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202204030CLE.html,36:38,.340,.286,.357,.357,0.0,14.6,7.2,14.2,0.0,2.9,5.8,20.0,79,119,-10.7
+2022-04-03,202204030CLE,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202204030CLE.html,29:01,.481,.455,.364,.091,0.0,0.0,0.0,18.8,1.7,0.0,20.8,21.2,84,120,-8.8
+2022-04-03,202204030CLE,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202204030CLE.html,24:22,.500,.500,.250,.000,4.3,4.4,4.3,20.3,4.1,8.8,0.0,7.0,135,106,6.3
+2022-04-03,202204030CLE,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202204030CLE.html,22:01,.820,.750,1.000,.500,4.7,19.4,12.0,7.6,0.0,0.0,0.0,9.5,174,120,2.9
+2022-04-03,202204030CLE,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202204030CLE.html,17:28,.750,.750,.500,.000,0.0,30.5,15.1,0.0,5.8,0.0,33.3,7.3,83,104,1.9
+2022-04-03,202204030CLE,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202204030CLE.html,14:56,1.064,1.500,1.000,2.000,0.0,7.1,3.5,0.0,0.0,0.0,34.7,8.2,97,122,-5.9
+2022-04-03,202204030CLE,PHI,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202204030CLE.html,9:57,1.000,1.000,.000,.000,10.5,32.2,21.2,0.0,0.0,0.0,0.0,12.9,205,118,9.7
+2022-04-03,202204030CLE,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202204030CLE.html,7:00,.000,.000,1.000,.000,14.9,0.0,7.5,0.0,7.2,0.0,33.3,18.3,26,107,-14.5
+2022-04-03,202204030CLE,CLE,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202204030CLE.html,38:44,.621,.583,.583,.167,0.0,18.9,9.5,8.6,0.0,0.0,7.2,17.1,114,121,-3.3
+2022-04-03,202204030CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202204030CLE.html,37:30,.605,.571,.357,.143,0.0,8.3,4.2,34.4,1.3,0.0,11.8,21.5,119,122,1.5
+2022-04-03,202204030CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202204030CLE.html,37:16,.557,.472,.278,.333,5.7,5.6,5.7,19.8,5.4,0.0,4.6,27.7,119,114,5.3
+2022-04-03,202204030CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202204030CLE.html,31:49,.323,.000,.500,3.000,3.4,9.8,6.6,4.3,1.6,0.0,0.0,7.0,95,121,-7.1
+2022-04-03,202204030CLE,CLE,Moses Brown,https://www.basketball-reference.com/boxscores/202204030CLE.html,19:56,.423,.375,.000,.750,21.4,41.9,31.8,0.0,0.0,0.0,15.8,30.2,90,113,-15.0
+2022-04-03,202204030CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202204030CLE.html,26:26,.688,.600,.300,.700,0.0,11.8,6.0,15.1,1.9,11.1,0.0,23.6,144,113,8.8
+2022-04-03,202204030CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202204030CLE.html,20:50,.607,.611,.778,.222,0.0,25.0,12.7,26.8,0.0,0.0,16.8,27.2,103,119,-0.2
+2022-04-03,202204030CLE,CLE,Rajon Rondo,https://www.basketball-reference.com/boxscores/202204030CLE.html,14:13,1.000,1.000,1.000,.000,0.0,7.3,3.7,23.9,7.1,0.0,0.0,10.1,193,110,13.0
+2022-04-03,202204030CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202204030CLE.html,7:00,.750,.750,1.000,.000,0.0,29.8,15.1,48.7,7.2,0.0,33.3,20.4,115,101,11.6
+2022-04-03,202204030CLE,CLE,Ed Davis,https://www.basketball-reference.com/boxscores/202204030CLE.html,6:16,,,,,0.0,0.0,0.0,21.9,0.0,0.0,,0.0,243,128,-1.6

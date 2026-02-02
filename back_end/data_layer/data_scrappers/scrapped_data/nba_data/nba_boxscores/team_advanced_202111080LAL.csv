@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-08,202111080LAL,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202111080LAL.html,43:13,.460,.417,.611,.333,4.3,15.0,9.3,6.9,2.2,0.0,16.2,23.4,87,110,-4.3
+2021-11-08,202111080LAL,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202111080LAL.html,41:43,.578,.500,.421,.316,6.7,33.7,19.2,42.6,1.1,2.2,12.2,24.2,126,108,10.3
+2021-11-08,202111080LAL,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202111080LAL.html,41:18,.648,.571,.429,.357,0.0,15.7,7.3,11.3,0.0,0.0,19.8,20.0,109,115,-1.4
+2021-11-08,202111080LAL,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202111080LAL.html,40:19,.610,.568,.455,.182,0.0,5.4,2.5,13.8,1.2,0.0,7.8,26.2,119,114,2.0
+2021-11-08,202111080LAL,CHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202111080LAL.html,34:35,.781,.857,.000,.429,2.7,25.0,13.0,9.1,0.0,2.6,0.0,9.9,162,111,2.5
+2021-11-08,202111080LAL,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202111080LAL.html,21:50,.300,.300,.600,.000,4.3,19.8,11.5,0.0,0.0,0.0,0.0,9.4,78,114,-7.3
+2021-11-08,202111080LAL,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202111080LAL.html,17:37,.400,.400,.400,.000,15.8,0.0,8.5,8.9,0.0,0.0,16.7,27.9,85,117,-10.0
+2021-11-08,202111080LAL,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202111080LAL.html,15:35,.338,.250,.000,.250,11.9,13.9,12.8,0.0,3.0,5.8,40.3,19.6,56,103,-13.9
+2021-11-08,202111080LAL,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202111080LAL.html,8:48,.758,,,,21.1,0.0,11.4,14.0,0.0,0.0,0.0,6.1,192,117,3.5
+2021-11-08,202111080LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202111080LAL.html,43:35,.561,.520,.120,.320,5.0,21.3,13.8,17.3,3.2,10.7,12.3,32.6,104,99,3.1
+2021-11-08,202111080LAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202111080LAL.html,41:01,.438,.333,.133,.667,0.0,27.2,14.6,48.2,3.4,0.0,26.5,28.1,90,103,-2.6
+2021-11-08,202111080LAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202111080LAL.html,23:45,.500,.500,.625,.000,0.0,3.9,2.1,0.0,0.0,0.0,0.0,14.7,95,119,-9.0
+2021-11-08,202111080LAL,LAL,Kent Bazemore,https://www.basketball-reference.com/boxscores/202111080LAL.html,14:20,.000,.000,.250,.000,0.0,13.0,7.0,0.0,0.0,0.0,0.0,12.2,0,116,-18.6
+2021-11-08,202111080LAL,LAL,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202111080LAL.html,10:33,1.025,1.000,.000,.500,20.5,52.9,37.9,0.0,0.0,0.0,0.0,20.2,216,102,15.7
+2021-11-08,202111080LAL,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202111080LAL.html,36:33,.954,.962,.769,.385,0.0,7.6,4.1,4.7,1.3,2.5,0.0,18.2,176,113,13.3
+2021-11-08,202111080LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202111080LAL.html,27:00,.581,.500,.500,.333,0.0,3.4,1.9,5.2,1.7,0.0,0.0,11.1,123,115,-6.8
+2021-11-08,202111080LAL,LAL,Wayne Ellington,https://www.basketball-reference.com/boxscores/202111080LAL.html,23:46,1.031,1.000,1.000,.667,4.6,3.9,4.2,0.0,0.0,0.0,0.0,7.1,199,119,0.3
+2021-11-08,202111080LAL,LAL,Malik Monk,https://www.basketball-reference.com/boxscores/202111080LAL.html,17:11,.625,.625,.500,.000,0.0,0.0,0.0,9.7,2.7,0.0,0.0,20.3,120,114,1.9
+2021-11-08,202111080LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202111080LAL.html,15:14,.431,.500,.000,3.000,21.3,36.6,29.5,8.6,3.1,6.1,39.3,21.9,80,97,-8.3
+2021-11-08,202111080LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202111080LAL.html,11:59,.000,.000,.333,.000,0.0,7.8,4.2,80.4,3.9,7.8,25.0,14.6,88,104,5.9

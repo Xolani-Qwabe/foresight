@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-02-03,202102030OKC,HOU,Victor Oladipo,https://www.basketball-reference.com/boxscores/202102030OKC.html,31.58,8,24,.333,1,8,.125,2,2,1.000,1,2,3,3,2,0,3,1,19,7.4,-7
+2021-02-03,202102030OKC,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202102030OKC.html,31.33,3,8,.375,0,3,.000,0,0,,0,4,4,0,0,1,3,2,6,-0.3,-20
+2021-02-03,202102030OKC,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202102030OKC.html,27.68,8,15,.533,3,9,.333,3,3,1.000,2,1,3,4,2,0,4,0,22,17.2,-9
+2021-02-03,202102030OKC,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202102030OKC.html,24.95,0,2,.000,0,1,.000,0,0,,0,5,5,1,0,0,0,2,0,0.0,-6
+2021-02-03,202102030OKC,HOU,Christian Wood,https://www.basketball-reference.com/boxscores/202102030OKC.html,22.13,3,7,.429,2,4,.500,0,0,,1,5,6,3,3,0,3,3,8,7.4,-15
+2021-02-03,202102030OKC,HOU,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202102030OKC.html,25.87,4,10,.400,2,6,.333,0,2,.000,0,5,5,1,1,1,1,4,10,5.1,-2
+2021-02-03,202102030OKC,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202102030OKC.html,25.4,1,7,.143,0,5,.000,0,0,,0,4,4,3,1,0,3,2,2,-2.0,-18
+2021-02-03,202102030OKC,HOU,Sterling Brown,https://www.basketball-reference.com/boxscores/202102030OKC.html,22.42,4,8,.500,3,6,.500,0,0,,1,5,6,3,2,2,1,2,11,12.9,-10
+2021-02-03,202102030OKC,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202102030OKC.html,11.88,0,1,.000,0,1,.000,2,2,1.000,0,1,1,0,0,0,1,0,2,0.6,-4
+2021-02-03,202102030OKC,HOU,Mason Jones,https://www.basketball-reference.com/boxscores/202102030OKC.html,11.08,1,3,.333,0,2,.000,2,4,.500,0,3,3,2,0,0,1,1,4,2.4,0
+2021-02-03,202102030OKC,HOU,Rodions Kurucs,https://www.basketball-reference.com/boxscores/202102030OKC.html,5.67,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,1,3,3.3,+6
+2021-02-03,202102030OKC,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202102030OKC.html,35.8,2,12,.167,1,5,.200,1,2,.500,0,3,3,4,6,1,3,2,6,4.6,-1
+2021-02-03,202102030OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202102030OKC.html,34.25,6,13,.462,2,6,.333,4,4,1.000,0,12,12,2,0,2,2,2,18,14.9,-5
+2021-02-03,202102030OKC,OKC,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202102030OKC.html,32.82,5,9,.556,0,1,.000,6,6,1.000,2,7,9,1,3,0,6,2,16,12.1,0
+2021-02-03,202102030OKC,OKC,Al Horford,https://www.basketball-reference.com/boxscores/202102030OKC.html,29.02,6,10,.600,2,4,.500,3,3,1.000,0,6,6,3,2,0,7,3,17,10.1,-2
+2021-02-03,202102030OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202102030OKC.html,9.07,0,5,.000,0,2,.000,0,0,,0,0,0,2,0,0,0,0,0,-2.1,+1
+2021-02-03,202102030OKC,OKC,Justin Jackson,https://www.basketball-reference.com/boxscores/202102030OKC.html,29.78,2,9,.222,0,5,.000,0,0,,1,4,5,2,0,0,1,3,4,-0.4,+11
+2021-02-03,202102030OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202102030OKC.html,23.13,7,8,.875,3,3,1.000,2,4,.500,2,4,6,2,0,0,1,0,19,18.4,+24
+2021-02-03,202102030OKC,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202102030OKC.html,18.98,6,9,.667,0,1,.000,1,2,.500,0,2,2,1,0,1,1,2,13,8.9,+19
+2021-02-03,202102030OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202102030OKC.html,16.93,2,7,.286,2,5,.400,2,2,1.000,0,5,5,2,1,0,0,0,8,7.8,+19
+2021-02-03,202102030OKC,OKC,Darius Miller,https://www.basketball-reference.com/boxscores/202102030OKC.html,10.22,0,1,.000,0,1,.000,3,3,1.000,0,3,3,0,1,1,0,0,3,4.9,+19

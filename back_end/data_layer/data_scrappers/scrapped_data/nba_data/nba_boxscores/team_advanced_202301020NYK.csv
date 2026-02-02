@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-02,202301020NYK,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202301020NYK.html,34:50,.455,.455,.455,.000,0.0,15.3,6.8,19.3,0.0,0.0,0.0,15.5,99,119,-1.8
+2023-01-02,202301020NYK,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202301020NYK.html,30:12,.463,.409,.273,.182,3.5,13.2,7.8,11.5,1.8,0.0,0.0,19.3,101,115,-1.0
+2023-01-02,202301020NYK,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202301020NYK.html,29:24,.462,.462,.077,.000,0.0,22.7,10.1,13.5,1.8,0.0,18.8,26.6,74,114,-3.8
+2023-01-02,202301020NYK,PHO,Landry Shamet,https://www.basketball-reference.com/boxscores/202301020NYK.html,25:27,.333,.333,.667,.000,0.0,31.4,14.0,12.5,0.0,0.0,25.0,23.1,54,117,-10.6
+2023-01-02,202301020NYK,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202301020NYK.html,22:50,.286,.286,.571,.000,4.7,35.0,18.2,0.0,0.0,0.0,0.0,15.0,64,115,-10.5
+2023-01-02,202301020NYK,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202301020NYK.html,19:31,.833,.833,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,146,121,4.5
+2023-01-02,202301020NYK,PHO,Jock Landale,https://www.basketball-reference.com/boxscores/202301020NYK.html,18:36,.333,.333,.667,.000,0.0,21.5,9.6,8.2,0.0,0.0,25.0,10.5,58,118,-9.0
+2023-01-02,202301020NYK,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202301020NYK.html,17:48,.508,.429,.143,.286,0.0,7.5,3.3,72.9,0.0,0.0,11.3,24.4,114,120,5.7
+2023-01-02,202301020NYK,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202301020NYK.html,16:24,.500,.500,.625,.000,13.0,8.1,10.8,23.2,3.3,0.0,0.0,23.9,112,112,9.6
+2023-01-02,202301020NYK,PHO,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202301020NYK.html,12:00,.530,.500,.444,.111,0.0,22.2,9.9,22.2,4.5,0.0,0.0,38.5,102,108,14.6
+2023-01-02,202301020NYK,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202301020NYK.html,8:46,.000,.000,1.000,.000,0.0,0.0,0.0,16.1,0.0,0.0,0.0,11.2,25,120,-13.5
+2023-01-02,202301020NYK,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202301020NYK.html,4:12,.532,1.000,.000,2.000,25.4,0.0,14.1,0.0,0.0,0.0,0.0,21.9,106,120,-1.8
+2023-01-02,202301020NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202301020NYK.html,39:54,.601,.500,.667,.667,0.0,42.8,23.8,26.2,1.4,0.0,4.1,31.7,125,87,11.5
+2023-01-02,202301020NYK,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202301020NYK.html,38:55,.525,.500,.167,.611,0.0,11.0,6.1,28.3,0.0,0.0,8.1,33.3,106,96,-1.8
+2023-01-02,202301020NYK,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202301020NYK.html,35:53,.667,.667,.667,.000,0.0,8.9,5.0,22.8,0.0,2.7,10.0,14.5,128,94,5.3
+2023-01-02,202301020NYK,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202301020NYK.html,35:47,.625,.625,.500,.000,3.7,11.9,8.3,14.4,0.0,0.0,7.7,19.0,118,96,0.5
+2023-01-02,202301020NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202301020NYK.html,34:49,.714,.714,.000,.000,15.3,18.4,17.0,9.5,0.0,2.8,0.0,10.5,163,92,5.2
+2023-01-02,202301020NYK,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202301020NYK.html,17:55,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,8.7,80,98,-5.0
+2023-01-02,202301020NYK,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202301020NYK.html,14:27,.417,.417,.667,.000,0.0,36.9,20.5,11.3,0.0,0.0,14.3,25.3,74,91,-8.0
+2023-01-02,202301020NYK,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202301020NYK.html,12:08,.798,1.000,.000,2.000,0.0,8.8,4.9,24.7,0.0,0.0,0.0,8.1,180,97,7.5
+2023-01-02,202301020NYK,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202301020NYK.html,8:40,1.000,1.000,.000,.000,0.0,12.3,6.8,18.2,0.0,0.0,0.0,6.0,211,96,7.8
+2023-01-02,202301020NYK,NYK,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202301020NYK.html,1:03,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,96,-24.2
+2023-01-02,202301020NYK,NYK,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202301020NYK.html,0:28,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,98,-6.0

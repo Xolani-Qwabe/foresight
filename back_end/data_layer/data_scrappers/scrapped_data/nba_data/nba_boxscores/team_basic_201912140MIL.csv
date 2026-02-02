@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-12-14,201912140MIL,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/201912140MIL.html,30.15,4,11,.364,2,5,.400,0,0,1,3,4,5,0,0,3,0,10,6.0,0,
+2019-12-14,201912140MIL,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/201912140MIL.html,28.25,3,8,.375,0,2,.000,2,2,1,1,2,1,3,0,3,2,8,4.5,-26,1.000
+2019-12-14,201912140MIL,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/201912140MIL.html,27.43,6,11,.545,0,0,,0,0,7,2,9,2,1,1,1,2,12,13.5,-35,
+2019-12-14,201912140MIL,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/201912140MIL.html,25.9,4,10,.400,2,4,.500,2,3,1,9,10,4,1,0,3,0,12,10.4,-35,.667
+2019-12-14,201912140MIL,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/201912140MIL.html,23.0,3,11,.273,2,4,.500,0,0,0,4,4,2,0,0,3,3,8,-0.1,-21,
+2019-12-14,201912140MIL,CLE,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201912140MIL.html,25.0,4,9,.444,1,4,.250,6,8,0,0,0,2,1,0,1,4,15,9.3,+4,.750
+2019-12-14,201912140MIL,CLE,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201912140MIL.html,18.22,5,9,.556,3,6,.500,0,0,0,0,0,3,2,0,1,0,13,11.8,+7,
+2019-12-14,201912140MIL,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201912140MIL.html,16.47,3,5,.600,1,3,.333,0,0,0,7,7,3,1,1,0,1,7,10.2,+17,
+2019-12-14,201912140MIL,CLE,John Henson,https://www.basketball-reference.com/boxscores/201912140MIL.html,14.93,3,3,1.000,2,2,1.000,0,0,1,5,6,1,1,1,1,2,8,9.9,+17,
+2019-12-14,201912140MIL,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201912140MIL.html,12.22,2,5,.400,1,3,.333,0,0,0,0,0,3,0,0,1,3,5,2.2,-18,
+2019-12-14,201912140MIL,CLE,Brandon Knight,https://www.basketball-reference.com/boxscores/201912140MIL.html,7.17,1,3,.333,1,2,.500,1,2,0,0,0,1,0,0,1,0,4,1.6,+3,.500
+2019-12-14,201912140MIL,CLE,Ante Žižić,https://www.basketball-reference.com/boxscores/201912140MIL.html,5.63,3,3,1.000,0,0,,0,0,0,2,2,0,0,0,0,1,6,5.3,+1,
+2019-12-14,201912140MIL,CLE,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/201912140MIL.html,5.63,0,2,.000,0,0,,0,0,1,0,1,0,0,0,0,1,0,-1.1,+1,
+2019-12-14,201912140MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/201912140MIL.html,27.18,1,4,.250,1,3,.333,2,2,0,4,4,2,0,2,0,4,5,5.0,+8,1.000
+2019-12-14,201912140MIL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/201912140MIL.html,25.17,6,8,.750,1,2,.500,2,2,0,5,5,4,3,0,1,3,15,16.9,+4,1.000
+2019-12-14,201912140MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/201912140MIL.html,23.98,12,20,.600,2,5,.400,3,7,1,3,4,4,1,1,1,1,29,22.9,+5,.429
+2019-12-14,201912140MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/201912140MIL.html,22.67,8,12,.667,3,4,.750,5,6,1,1,2,6,1,0,1,1,24,23.2,+21,.833
+2019-12-14,201912140MIL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/201912140MIL.html,17.38,0,3,.000,0,3,.000,0,0,0,4,4,1,3,0,0,2,0,2.0,+10,
+2019-12-14,201912140MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/201912140MIL.html,21.95,1,2,.500,0,0,,0,0,1,3,4,3,0,1,1,0,2,4.4,-1,
+2019-12-14,201912140MIL,MIL,George Hill,https://www.basketball-reference.com/boxscores/201912140MIL.html,21.68,4,8,.500,2,4,.500,1,2,2,3,5,1,1,0,2,0,11,8.6,+13,.500
+2019-12-14,201912140MIL,MIL,Robin Lopez,https://www.basketball-reference.com/boxscores/201912140MIL.html,20.82,7,10,.700,1,3,.333,1,1,2,4,6,1,1,1,2,1,16,14.4,+9,1.000
+2019-12-14,201912140MIL,MIL,Sterling Brown,https://www.basketball-reference.com/boxscores/201912140MIL.html,19.63,2,7,.286,1,4,.250,1,2,0,1,1,0,1,0,1,0,6,1.8,0,.500
+2019-12-14,201912140MIL,MIL,Ersan İlyasova,https://www.basketball-reference.com/boxscores/201912140MIL.html,17.18,3,5,.600,1,3,.333,4,4,1,2,3,2,0,0,1,2,11,9.6,+20,1.000
+2019-12-14,201912140MIL,MIL,Kyle Korver,https://www.basketball-reference.com/boxscores/201912140MIL.html,14.37,2,5,.400,2,5,.400,0,0,0,1,1,0,0,0,1,2,6,1.8,-3,
+2019-12-14,201912140MIL,MIL,D.J. Wilson,https://www.basketball-reference.com/boxscores/201912140MIL.html,5.22,0,1,.000,0,1,.000,0,0,0,1,1,0,0,1,0,0,0,0.3,-2,
+2019-12-14,201912140MIL,MIL,Frank Mason III,https://www.basketball-reference.com/boxscores/201912140MIL.html,2.77,0,0,,0,0,,0,0,0,1,1,2,1,0,1,1,0,1.3,+1,

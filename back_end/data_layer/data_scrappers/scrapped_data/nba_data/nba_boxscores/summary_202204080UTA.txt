@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202204080UTA.html
+Scraped: 2025-12-15 02:01:28
+
+line_scores: 2 rows (nba_boxscores/line_scores_202204080UTA.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202204080UTA.csv)
+team_basic: 20 rows (nba_boxscores/team_basic_202204080UTA.csv)
+team_advanced: 20 rows (nba_boxscores/team_advanced_202204080UTA.csv)
+quarters: 73 rows (nba_boxscores/quarters_202204080UTA.csv)

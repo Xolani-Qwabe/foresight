@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-26,202110260NYK,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202110260NYK.html,33:16,.624,.611,.333,.056,9.8,21.1,15.3,60.2,0.0,0.0,5.1,27.1,141,129,12.1
+2021-10-26,202110260NYK,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202110260NYK.html,30:25,.591,.286,.286,1.571,3.6,19.2,11.1,14.4,1.8,3.2,29.7,25.7,98,123,-5.2
+2021-10-26,202110260NYK,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202110260NYK.html,30:12,.371,.333,.333,.111,0.0,7.8,3.7,15.3,1.8,0.0,17.5,17.6,77,129,-12.4
+2021-10-26,202110260NYK,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202110260NYK.html,29:39,.333,.333,.667,.000,0.0,7.9,3.8,4.9,0.0,0.0,33.3,14.1,50,134,-18.2
+2021-10-26,202110260NYK,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202110260NYK.html,23:54,.750,.750,1.000,.000,0.0,9.8,4.7,0.0,4.5,4.0,0.0,15.5,143,120,10.6
+2021-10-26,202110260NYK,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202110260NYK.html,24:58,.349,.333,.667,.167,4.4,9.4,6.8,19.1,4.3,0.0,7.2,25.8,85,123,-5.6
+2021-10-26,202110260NYK,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202110260NYK.html,22:03,.929,.929,.714,.000,4.9,10.6,7.7,8.7,2.4,0.0,0.0,14.7,180,127,10.7
+2021-10-26,202110260NYK,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202110260NYK.html,19:32,.600,.600,.200,.000,0.0,18.0,8.7,0.0,2.7,9.8,0.0,11.9,119,118,2.7
+2021-10-26,202110260NYK,PHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202110260NYK.html,14:23,.510,.400,.000,.400,37.9,32.6,35.3,22.8,3.7,0.0,25.4,25.4,113,115,-2.4
+2021-10-26,202110260NYK,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202110260NYK.html,7:00,.375,.375,1.000,.000,0.0,0.0,0.0,23.5,0.0,0.0,0.0,26.5,95,137,-6.8
+2021-10-26,202110260NYK,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202110260NYK.html,3:12,,,,,34.1,0.0,17.6,41.7,0.0,0.0,,0.0,233,137,4.0
+2021-10-26,202110260NYK,PHI,Charles Bassey,https://www.basketball-reference.com/boxscores/202110260NYK.html,1:26,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.4,200,137,24.3
+2021-10-26,202110260NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202110260NYK.html,36:13,.444,.444,.278,.000,12.9,21.1,17.2,29.2,0.0,0.0,5.3,23.8,120,113,2.0
+2021-10-26,202110260NYK,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202110260NYK.html,32:12,.827,.800,.600,.200,3.6,3.4,3.5,18.6,0.0,3.6,0.0,15.4,182,118,10.8
+2021-10-26,202110260NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202110260NYK.html,31:21,.500,.500,.400,.000,0.0,24.4,12.6,4.4,0.0,0.0,28.6,20.3,74,112,-11.6
+2021-10-26,202110260NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202110260NYK.html,28:59,.902,1.000,.000,.667,12.1,11.3,11.7,4.6,1.9,0.0,20.5,7.7,155,113,-2.0
+2021-10-26,202110260NYK,NYK,Kemba Walker,https://www.basketball-reference.com/boxscores/202110260NYK.html,28:10,.633,.633,.733,.000,0.0,11.6,6.0,29.3,3.8,4.2,6.3,25.8,136,106,13.1
+2021-10-26,202110260NYK,NYK,Derrick Rose,https://www.basketball-reference.com/boxscores/202110260NYK.html,19:50,.742,.643,.286,.571,11.8,5.5,8.5,7.7,2.7,5.9,18.6,24.7,133,110,8.1
+2021-10-26,202110260NYK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202110260NYK.html,19:01,.400,.400,.400,.000,6.2,11.5,8.9,7.0,0.0,6.2,0.0,12.0,110,114,-8.4
+2021-10-26,202110260NYK,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202110260NYK.html,17:09,.481,.357,.429,.429,0.0,31.8,16.5,7.9,3.1,0.0,0.0,22.1,119,102,0.7
+2021-10-26,202110260NYK,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202110260NYK.html,15:18,.633,.500,.600,.600,0.0,7.1,3.7,9.0,0.0,0.0,24.0,24.7,105,118,-7.5
+2021-10-26,202110260NYK,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202110260NYK.html,11:47,.605,.571,.143,.143,19.9,18.5,19.2,33.0,9.1,9.9,11.8,32.6,128,88,20.9

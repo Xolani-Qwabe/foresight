@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-08,202105080TOR,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202105080TOR.html,37:28,.570,.429,.143,1.143,8.2,9.3,8.8,22.5,1.3,0.0,27.5,16.4,110,105,-2.3
+2021-05-08,202105080TOR,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202105080TOR.html,36:42,.568,.545,.364,.273,2.8,4.8,3.8,16.6,1.3,0.0,14.0,16.5,114,107,-1.2
+2021-05-08,202105080TOR,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202105080TOR.html,36:13,.600,.600,.067,.000,14.1,38.6,27.3,5.1,1.3,8.6,11.8,19.9,117,87,3.5
+2021-05-08,202105080TOR,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202105080TOR.html,31:01,.639,.556,.667,.889,0.0,14.1,7.6,24.3,0.0,0.0,13.8,19.8,127,106,2.3
+2021-05-08,202105080TOR,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202105080TOR.html,25:41,.546,.500,.588,.176,4.0,10.2,7.3,15.0,5.7,3.0,9.8,33.5,109,92,4.8
+2021-05-08,202105080TOR,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202105080TOR.html,21:38,.556,.556,.667,.000,4.7,8.1,6.5,22.9,0.0,7.2,18.2,21.5,105,104,4.6
+2021-05-08,202105080TOR,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202105080TOR.html,19:05,.750,.750,1.000,.000,0.0,9.1,4.9,19.8,0.0,0.0,16.7,26.6,121,108,8.5
+2021-05-08,202105080TOR,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202105080TOR.html,16:59,.210,.000,.667,1.333,18.0,25.7,22.2,7.4,2.9,0.0,0.0,11.9,93,94,-5.7
+2021-05-08,202105080TOR,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202105080TOR.html,10:32,.333,.333,.667,.000,0.0,16.6,8.9,0.0,0.0,0.0,25.0,16.1,51,105,-15.2
+2021-05-08,202105080TOR,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202105080TOR.html,4:41,.000,.000,1.000,.000,0.0,18.6,10.0,0.0,0.0,16.5,0.0,9.0,0,92,-7.5
+2021-05-08,202105080TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202105080TOR.html,36:12,.383,.300,.400,.400,7.2,8.5,7.8,4.5,1.3,0.0,4.1,28.1,88,115,-5.9
+2021-05-08,202105080TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202105080TOR.html,30:18,.395,.381,.190,.190,5.8,3.4,4.7,27.2,0.0,0.0,8.1,33.9,87,120,-4.5
+2021-05-08,202105080TOR,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202105080TOR.html,26:12,.406,.364,.091,.273,6.7,15.6,10.8,25.6,1.9,4.4,14.0,22.7,90,109,-1.0
+2021-05-08,202105080TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202105080TOR.html,25:48,.682,.682,.545,.000,3.4,23.8,12.8,22.5,1.9,0.0,8.3,19.3,131,107,6.7
+2021-05-08,202105080TOR,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202105080TOR.html,24:36,.688,.688,.625,.000,0.0,16.6,7.7,0.0,2.0,0.0,0.0,13.5,136,110,2.4
+2021-05-08,202105080TOR,TOR,Jalen Harris,https://www.basketball-reference.com/boxscores/202105080TOR.html,29:27,.581,.500,.500,.333,3.0,17.3,9.6,23.4,1.7,0.0,6.8,20.8,124,111,3.8
+2021-05-08,202105080TOR,TOR,Freddie Gillespie,https://www.basketball-reference.com/boxscores/202105080TOR.html,21:48,.615,.500,.000,.500,8.0,28.1,17.3,0.0,0.0,5.2,17.0,11.2,116,108,-4.3
+2021-05-08,202105080TOR,TOR,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202105080TOR.html,19:32,.333,.333,.000,.000,8.9,15.7,12.0,14.7,7.5,0.0,50.0,12.8,61,98,-4.5
+2021-05-08,202105080TOR,TOR,Rodney Hood,https://www.basketball-reference.com/boxscores/202105080TOR.html,13:35,.615,.500,.000,.500,0.0,7.5,3.5,0.0,3.6,0.0,0.0,7.5,131,110,-0.6
+2021-05-08,202105080TOR,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202105080TOR.html,12:32,.000,.000,1.000,1.000,0.0,0.0,0.0,0.0,3.9,0.0,0.0,9.5,0,112,-15.0

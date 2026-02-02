@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-18,202501180DET,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202501180DET.html,42:10,.631,.523,.227,.591,0.0,10.9,6.1,11.2,1.1,0.0,6.7,29.8,131,123,1.2
+2025-01-18,202501180DET,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202501180DET.html,38:03,.558,.519,.296,.444,0.0,17.0,9.5,23.7,2.5,6.2,5.8,38.1,118,114,8.3
+2025-01-18,202501180DET,PHO,Tyus Jones,https://www.basketball-reference.com/boxscores/202501180DET.html,30:36,.500,.500,.500,.000,3.8,6.0,5.1,39.4,3.1,0.0,20.0,6.9,139,120,3.6
+2025-01-18,202501180DET,PHO,Ryan Dunn,https://www.basketball-reference.com/boxscores/202501180DET.html,29:18,.462,.462,.385,.000,16.0,12.6,14.1,4.7,0.0,0.0,0.0,18.7,120,124,-5.8
+2025-01-18,202501180DET,PHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202501180DET.html,12:54,1.000,1.000,.000,.000,18.2,28.6,24.0,10.5,0.0,0.0,0.0,6.6,206,117,-0.1
+2025-01-18,202501180DET,PHO,Nick Richards,https://www.basketball-reference.com/boxscores/202501180DET.html,29:29,.878,.875,.000,1.125,15.9,21.9,19.3,5.2,1.6,0.0,0.0,17.1,187,118,10.2
+2025-01-18,202501180DET,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202501180DET.html,29:23,.608,.375,.500,1.000,4.0,6.3,5.3,11.8,0.0,0.0,25.8,11.2,116,126,-6.6
+2025-01-18,202501180DET,PHO,Royce O'Neale,https://www.basketball-reference.com/boxscores/202501180DET.html,16:11,.625,.625,.750,.000,7.2,28.5,19.1,8.0,0.0,0.0,33.3,15.7,93,118,-7.1
+2025-01-18,202501180DET,PHO,Monte Morris,https://www.basketball-reference.com/boxscores/202501180DET.html,6:34,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.4,0,129,-14.6
+2025-01-18,202501180DET,PHO,Oso Ighodaro,https://www.basketball-reference.com/boxscores/202501180DET.html,5:22,.266,.000,.000,2.000,0.0,17.2,9.6,0.0,0.0,0.0,0.0,14.8,65,122,-16.2
+2025-01-18,202501180DET,DET,Tobias Harris,https://www.basketball-reference.com/boxscores/202501180DET.html,36:30,.680,.667,.333,.067,2.5,12.8,7.1,8.2,0.0,2.2,0.0,17.1,146,128,4.7
+2025-01-18,202501180DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202501180DET.html,35:23,.349,.288,.269,.231,5.2,13.2,8.8,43.2,1.4,2.2,12.3,37.3,89,125,-4.6
+2025-01-18,202501180DET,DET,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202501180DET.html,31:08,.515,.444,.667,.667,0.0,7.5,3.3,0.0,0.0,0.0,0.0,15.1,114,131,-5.8
+2025-01-18,202501180DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202501180DET.html,24:46,.644,.556,.000,.667,26.1,14.2,20.8,11.3,0.0,0.0,7.9,20.6,145,129,1.9
+2025-01-18,202501180DET,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202501180DET.html,18:44,.444,.400,.400,.800,9.9,12.5,11.0,0.0,0.0,0.0,0.0,14.6,111,129,-8.6
+2025-01-18,202501180DET,DET,Malik Beasley,https://www.basketball-reference.com/boxscores/202501180DET.html,24:43,.742,.778,.556,.111,3.7,4.7,4.2,6.0,3.9,0.0,9.6,17.1,134,123,6.2
+2025-01-18,202501180DET,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202501180DET.html,17:14,.709,.667,.167,.667,0.0,27.2,12.0,17.0,0.0,0.0,11.4,20.5,134,125,-0.5
+2025-01-18,202501180DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202501180DET.html,15:34,.521,.500,.000,1.000,0.0,22.6,9.9,0.0,3.1,0.0,41.0,12.7,59,119,-12.6
+2025-01-18,202501180DET,DET,Ron Holland,https://www.basketball-reference.com/boxscores/202501180DET.html,15:30,.654,.667,.667,.333,0.0,15.1,6.7,8.9,3.1,0.0,0.0,17.9,139,122,7.7
+2025-01-18,202501180DET,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202501180DET.html,12:48,.410,.500,.500,.500,7.2,9.1,8.1,10.3,0.0,0.0,0.0,15.4,102,130,-5.5
+2025-01-18,202501180DET,DET,Paul Reed,https://www.basketball-reference.com/boxscores/202501180DET.html,7:40,.773,.667,.333,.667,12.0,30.5,20.2,39.8,0.0,10.3,0.0,20.4,177,118,23.8

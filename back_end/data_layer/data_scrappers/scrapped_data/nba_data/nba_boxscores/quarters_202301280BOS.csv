@@ -1,0 +1,78 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-01-28,202301280BOS,LAL,Q1,LeBron James,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.28,4,7,.571,1,2,.500,1,1,1.000,0,3,3,2,0,0,0,0,10,9.0,0
+2023-01-28,202301280BOS,LAL,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.28,2,4,.500,0,2,.000,0,0,,0,1,1,0,0,0,1,2,4,0.5,0
+2023-01-28,202301280BOS,LAL,Q1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.33,1,4,.250,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,0.6,0
+2023-01-28,202301280BOS,LAL,Q1,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.92,0,1,.000,0,1,.000,0,0,,1,2,3,0,0,0,0,1,0,0.2,+1
+2023-01-28,202301280BOS,LAL,Q1,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.2,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2023-01-28,202301280BOS,LAL,Q1,Anthony Davis,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.8,2,3,.667,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,6,4.7,-3
+2023-01-28,202301280BOS,LAL,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.8,0,4,.000,0,1,.000,0,0,,0,0,0,5,0,0,2,0,0,-1.3,-3
+2023-01-28,202301280BOS,LAL,Q1,Rui Hachimura,https://www.basketball-reference.com/boxscores/202301280BOS.html,3.72,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-1
+2023-01-28,202301280BOS,LAL,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.67,1,1,1.000,0,0,,0,0,,0,1,1,0,1,0,0,1,2,2.6,-1
+2023-01-28,202301280BOS,LAL,Q2,LeBron James,https://www.basketball-reference.com/boxscores/202301280BOS.html,10.28,2,5,.400,1,2,.500,0,0,,0,3,3,2,0,0,1,0,5,3.6,+4
+2023-01-28,202301280BOS,LAL,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301280BOS.html,4.97,1,1,1.000,0,0,,1,1,1.000,0,1,1,1,0,0,0,0,3,3.7,+7
+2023-01-28,202301280BOS,LAL,Q2,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.03,0,1,.000,0,1,.000,0,0,,0,0,0,1,1,0,0,1,0,0.6,0
+2023-01-28,202301280BOS,LAL,Q2,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301280BOS.html,3.25,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+4
+2023-01-28,202301280BOS,LAL,Q2,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301280BOS.html,4.65,1,1,1.000,0,0,,1,2,.500,1,1,2,0,0,0,0,0,3,3.3,+8
+2023-01-28,202301280BOS,LAL,Q2,Anthony Davis,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.35,2,3,.667,0,0,,1,2,.500,3,1,4,1,0,0,0,3,5,5.2,-1
+2023-01-28,202301280BOS,LAL,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.35,0,2,.000,0,1,.000,2,2,1.000,0,1,1,1,0,0,1,1,2,0.2,-1
+2023-01-28,202301280BOS,LAL,Q2,Rui Hachimura,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.75,1,5,.200,0,3,.000,0,0,,0,2,2,1,0,0,0,0,2,0.2,+3
+2023-01-28,202301280BOS,LAL,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.37,3,4,.750,1,2,.500,0,0,,0,1,1,1,0,0,0,0,7,6.4,+11
+2023-01-28,202301280BOS,LAL,Q3,LeBron James,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.65,4,8,.500,2,3,.667,0,0,,1,0,1,0,0,0,0,2,10,5.9,+1
+2023-01-28,202301280BOS,LAL,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.65,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,1,0,-2.1,+1
+2023-01-28,202301280BOS,LAL,Q3,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.08,1,1,1.000,1,1,1.000,0,0,,0,2,2,3,1,0,0,1,3,6.0,+4
+2023-01-28,202301280BOS,LAL,Q3,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.3,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,2.0,-5
+2023-01-28,202301280BOS,LAL,Q3,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301280BOS.html,4.23,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-5
+2023-01-28,202301280BOS,LAL,Q3,Anthony Davis,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.77,0,3,.000,0,0,,0,0,,1,2,3,2,0,0,1,0,0,-0.4,-1
+2023-01-28,202301280BOS,LAL,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.05,3,5,.600,0,0,,0,0,,1,1,2,1,0,0,2,1,6,3.0,-8
+2023-01-28,202301280BOS,LAL,Q3,Rui Hachimura,https://www.basketball-reference.com/boxscores/202301280BOS.html,3.35,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-7
+2023-01-28,202301280BOS,LAL,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.92,2,3,.667,0,1,.000,0,0,,0,1,1,0,0,0,1,0,4,2.0,-10
+2023-01-28,202301280BOS,LAL,Q4,LeBron James,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,2,5,.400,2,4,.500,3,4,.750,0,2,2,3,0,0,0,0,9,8.6,0
+2023-01-28,202301280BOS,LAL,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,2,4,.500,0,2,.000,0,0,,0,0,0,1,0,0,0,1,4,2.3,0
+2023-01-28,202301280BOS,LAL,Q4,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,3,4,.750,2,2,1.000,1,2,.500,1,1,2,0,0,0,0,1,9,7.6,0
+2023-01-28,202301280BOS,LAL,Q4,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301280BOS.html,4.13,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-11
+2023-01-28,202301280BOS,LAL,Q4,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.03,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,0,0,0.9,+7
+2023-01-28,202301280BOS,LAL,Q4,Anthony Davis,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.97,1,5,.200,0,1,.000,0,0,,1,2,3,1,0,0,0,1,2,0.5,-7
+2023-01-28,202301280BOS,LAL,Q4,Rui Hachimura,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.87,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+11
+2023-01-28,202301280BOS,LAL,OT1,LeBron James,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.0,3,5,.600,0,1,.000,1,1,1.000,0,0,0,1,0,0,1,0,7,4.4,-4
+2023-01-28,202301280BOS,LAL,OT1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301280BOS.html,3.67,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-7
+2023-01-28,202301280BOS,LAL,OT1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.0,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,-4
+2023-01-28,202301280BOS,LAL,OT1,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301280BOS.html,2.22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3
+2023-01-28,202301280BOS,LAL,OT1,Anthony Davis,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.0,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,3,1.7,-4
+2023-01-28,202301280BOS,LAL,OT1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301280BOS.html,4.12,1,3,.333,0,1,.000,2,3,.667,1,0,1,0,1,0,0,2,4,2.8,+2
+2023-01-28,202301280BOS,BOS,Q1,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.33,1,3,.333,0,1,.000,2,2,1.000,1,1,2,0,1,0,0,0,4,4.3,0
+2023-01-28,202301280BOS,BOS,Q1,Grant Williams,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,2,3,.667,1,2,.500,1,2,.500,0,5,5,0,0,0,0,1,6,5.4,+1
+2023-01-28,202301280BOS,BOS,Q1,Jaylen Brown,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,4,8,.500,1,4,.250,1,2,.500,0,3,3,1,1,1,2,1,10,6.5,+1
+2023-01-28,202301280BOS,BOS,Q1,Al Horford,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.28,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,2,0,1,0,1.7,0
+2023-01-28,202301280BOS,BOS,Q1,Derrick White,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,2,3,.667,1,2,.500,0,0,,0,1,1,1,0,0,0,0,5,4.7,+1
+2023-01-28,202301280BOS,BOS,Q1,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.67,1,2,.500,0,1,.000,1,2,.500,0,0,0,1,0,0,0,0,3,2.3,+1
+2023-01-28,202301280BOS,BOS,Q1,Luke Kornet,https://www.basketball-reference.com/boxscores/202301280BOS.html,3.72,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,1,0,1.0,+1
+2023-01-28,202301280BOS,BOS,Q2,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,1,6,.167,0,3,.000,2,2,1.000,0,2,2,1,0,0,1,0,4,0.5,-7
+2023-01-28,202301280BOS,BOS,Q2,Grant Williams,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.77,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,1,1,3,0.9,-7
+2023-01-28,202301280BOS,BOS,Q2,Jaylen Brown,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.5,1,4,.250,0,2,.000,1,1,1.000,0,2,2,0,0,0,0,2,3,0.4,-11
+2023-01-28,202301280BOS,BOS,Q2,Al Horford,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.55,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-11
+2023-01-28,202301280BOS,BOS,Q2,Derrick White,https://www.basketball-reference.com/boxscores/202301280BOS.html,6.77,1,2,.500,0,1,.000,0,0,,1,0,1,0,0,0,0,0,2,1.7,-7
+2023-01-28,202301280BOS,BOS,Q2,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.23,1,2,.500,0,0,,2,2,1.000,0,0,0,0,0,0,2,0,4,1.0,0
+2023-01-28,202301280BOS,BOS,Q2,Luke Kornet,https://www.basketball-reference.com/boxscores/202301280BOS.html,4.45,0,0,,0,0,,2,2,1.000,0,1,1,0,0,1,0,1,2,2.6,+4
+2023-01-28,202301280BOS,BOS,Q2,Payton Pritchard,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.5,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+4
+2023-01-28,202301280BOS,BOS,Q2,Sam Hauser,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.23,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,0
+2023-01-28,202301280BOS,BOS,Q3,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,4,8,.500,3,4,.750,4,5,.800,0,2,2,2,1,1,2,1,15,11.9,+6
+2023-01-28,202301280BOS,BOS,Q3,Grant Williams,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.48,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+9
+2023-01-28,202301280BOS,BOS,Q3,Jaylen Brown,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.57,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,1,4,3.3,+1
+2023-01-28,202301280BOS,BOS,Q3,Al Horford,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.65,1,2,.500,0,1,.000,0,0,,1,0,1,1,1,1,0,0,2,4.1,-1
+2023-01-28,202301280BOS,BOS,Q3,Derrick White,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.95,1,2,.500,0,1,.000,2,2,1.000,0,3,3,0,0,1,0,0,4,4.6,+2
+2023-01-28,202301280BOS,BOS,Q3,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,3,6,.500,2,4,.500,0,0,,0,2,2,1,1,0,0,1,8,6.9,+6
+2023-01-28,202301280BOS,BOS,Q3,Luke Kornet,https://www.basketball-reference.com/boxscores/202301280BOS.html,3.35,0,0,,0,0,,0,0,,0,0,0,1,1,1,0,0,0,2.4,+7
+2023-01-28,202301280BOS,BOS,Q4,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301280BOS.html,12.0,1,7,.143,0,2,.000,0,0,,1,4,5,1,0,0,1,1,2,-1.3,0
+2023-01-28,202301280BOS,BOS,Q4,Grant Williams,https://www.basketball-reference.com/boxscores/202301280BOS.html,9.75,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,3,0,-0.6,-3
+2023-01-28,202301280BOS,BOS,Q4,Jaylen Brown,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.55,4,6,.667,0,1,.000,1,1,1.000,1,0,1,1,0,0,1,1,9,6.4,+7
+2023-01-28,202301280BOS,BOS,Q4,Al Horford,https://www.basketball-reference.com/boxscores/202301280BOS.html,8.48,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3,+3
+2023-01-28,202301280BOS,BOS,Q4,Derrick White,https://www.basketball-reference.com/boxscores/202301280BOS.html,7.28,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,-4
+2023-01-28,202301280BOS,BOS,Q4,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301280BOS.html,11.42,2,4,.500,1,2,.500,2,2,1.000,1,3,4,1,0,1,0,1,7,7.6,0
+2023-01-28,202301280BOS,BOS,Q4,Luke Kornet,https://www.basketball-reference.com/boxscores/202301280BOS.html,3.52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2023-01-28,202301280BOS,BOS,OT1,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.0,1,1,1.000,0,0,,3,3,1.000,0,0,0,0,0,0,2,1,5,2.3,+4
+2023-01-28,202301280BOS,BOS,OT1,Grant Williams,https://www.basketball-reference.com/boxscores/202301280BOS.html,1.78,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,+4
+2023-01-28,202301280BOS,BOS,OT1,Jaylen Brown,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.0,3,4,.750,1,2,.500,4,5,.800,0,3,3,1,0,0,0,0,11,10.6,+4
+2023-01-28,202301280BOS,BOS,OT1,Al Horford,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.0,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+4
+2023-01-28,202301280BOS,BOS,OT1,Derrick White,https://www.basketball-reference.com/boxscores/202301280BOS.html,1.9,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2023-01-28,202301280BOS,BOS,OT1,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301280BOS.html,5.0,1,1,1.000,0,0,,2,2,1.000,0,0,0,1,1,0,0,2,4,4.6,+4
+2023-01-28,202301280BOS,BOS,OT1,Luke Kornet,https://www.basketball-reference.com/boxscores/202301280BOS.html,1.32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1

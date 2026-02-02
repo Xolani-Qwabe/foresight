@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-19,201911190LAL,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/201911190LAL.html,36:09,.450,.375,.375,.250,3.3,11.8,7.8,16.9,1.4,2.3,10.1,24.8,96,117,-0.8
+2019-11-19,201911190LAL,OKC,Terrance Ferguson,https://www.basketball-reference.com/boxscores/201911190LAL.html,30:36,.214,.214,.857,.000,3.9,0.0,1.8,4.3,1.6,0.0,0.0,10.4,65,122,-7.8
+2019-11-19,201911190LAL,OKC,Danilo Gallinari,https://www.basketball-reference.com/boxscores/201911190LAL.html,30:32,.789,.727,.455,1.000,3.9,17.5,11.1,5.8,0.0,0.0,11.2,26.5,142,120,7.2
+2019-11-19,201911190LAL,OKC,Chris Paul,https://www.basketball-reference.com/boxscores/201911190LAL.html,30:11,.254,.143,.286,.286,0.0,17.7,9.4,43.7,6.6,0.0,11.3,13.3,97,104,1.5
+2019-11-19,201911190LAL,OKC,Steven Adams,https://www.basketball-reference.com/boxscores/201911190LAL.html,24:09,.333,.333,.000,.000,9.9,17.7,14.0,22.1,0.0,0.0,40.0,9.4,91,119,-3.0
+2019-11-19,201911190LAL,OKC,Dennis Schröder,https://www.basketball-reference.com/boxscores/201911190LAL.html,30:10,.712,.675,.350,.200,0.0,14.1,7.5,8.4,0.0,0.0,18.7,40.2,108,121,3.5
+2019-11-19,201911190LAL,OKC,Nerlens Noel,https://www.basketball-reference.com/boxscores/201911190LAL.html,23:51,.631,.636,.000,.182,15.1,22.4,18.9,8.4,6.2,0.0,7.8,24.5,124,104,7.0
+2019-11-19,201911190LAL,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/201911190LAL.html,13:24,1.000,1.000,.000,.000,0.0,23.9,12.6,0.0,3.7,0.0,50.0,6.8,78,108,-4.5
+2019-11-19,201911190LAL,OKC,Deonte Burton,https://www.basketball-reference.com/boxscores/201911190LAL.html,10:55,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.3,200,125,1.6
+2019-11-19,201911190LAL,OKC,Abdel Nader,https://www.basketball-reference.com/boxscores/201911190LAL.html,10:03,.868,.750,1.000,1.000,0.0,10.6,5.6,0.0,0.0,8.2,25.8,17.5,123,117,4.4
+2019-11-19,201911190LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/201911190LAL.html,37:08,.539,.524,.238,.238,0.0,35.5,16.7,43.0,2.7,0.0,23.2,34.4,99,108,2.2
+2019-11-19,201911190LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/201911190LAL.html,37:06,.638,.604,.208,.250,8.6,12.9,10.7,19.8,5.4,5.0,7.0,32.7,131,102,16.7
+2019-11-19,201911190LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/201911190LAL.html,33:02,.722,.722,.444,.000,6.5,7.3,6.8,8.1,0.0,0.0,0.0,11.5,158,119,3.6
+2019-11-19,201911190LAL,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/201911190LAL.html,22:49,.592,.600,.000,.800,18.7,10.5,14.8,0.0,2.2,16.2,0.0,12.5,142,102,3.3
+2019-11-19,201911190LAL,LAL,Danny Green,https://www.basketball-reference.com/boxscores/201911190LAL.html,20:48,.833,.833,.667,.000,5.1,23.1,13.6,18.0,0.0,0.0,25.0,8.1,143,116,0.8
+2019-11-19,201911190LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/201911190LAL.html,27:28,.368,.350,.400,.200,0.0,8.7,4.1,46.3,0.0,0.0,21.6,21.4,96,119,-4.8
+2019-11-19,201911190LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/201911190LAL.html,19:51,.667,.667,.667,.000,0.0,18.1,8.5,0.0,2.5,0.0,14.3,14.9,108,111,-0.7
+2019-11-19,201911190LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/201911190LAL.html,17:21,.521,.500,.000,1.000,24.6,13.8,19.5,0.0,2.9,10.6,25.8,9.5,115,103,-2.5
+2019-11-19,201911190LAL,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/201911190LAL.html,15:26,.300,.300,.800,.000,0.0,15.6,7.3,0.0,0.0,0.0,0.0,13.7,70,118,-11.4
+2019-11-19,201911190LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/201911190LAL.html,9:01,.625,.625,.750,.000,0.0,0.0,0.0,0.0,0.0,0.0,20.0,23.5,91,121,-6.7

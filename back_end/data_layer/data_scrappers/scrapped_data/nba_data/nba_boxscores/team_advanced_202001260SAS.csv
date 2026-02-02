@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-26,202001260SAS,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202001260SAS.html,40:07,.409,.367,.667,.133,2.2,8.3,4.9,23.1,4.9,2.7,0.0,16.7,110,102,2.6
+2020-01-26,202001260SAS,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202001260SAS.html,37:15,.649,.630,.478,.391,4.7,18.0,10.5,15.1,1.3,0.0,6.9,32.8,123,111,8.9
+2020-01-26,202001260SAS,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202001260SAS.html,36:54,.522,.464,.500,.214,0.0,12.1,5.3,15.7,1.3,0.0,11.5,19.8,103,112,-6.1
+2020-01-26,202001260SAS,TOR,Marc Gasol,https://www.basketball-reference.com/boxscores/202001260SAS.html,36:26,.424,.389,.667,.111,4.8,30.6,16.1,17.8,0.0,0.0,0.0,10.9,119,111,-1.3
+2020-01-26,202001260SAS,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202001260SAS.html,23:51,.625,.625,.625,.000,7.3,14.0,10.3,18.3,2.0,4.5,0.0,14.2,142,107,7.7
+2020-01-26,202001260SAS,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202001260SAS.html,22:35,.318,.318,.364,.000,7.7,4.9,6.5,12.3,2.2,0.0,8.3,22.5,79,112,-9.6
+2020-01-26,202001260SAS,TOR,Serge Ibaka,https://www.basketball-reference.com/boxscores/202001260SAS.html,21:41,.500,.500,.083,.000,20.1,25.7,22.6,31.9,4.5,0.0,7.7,25.3,119,101,8.2
+2020-01-26,202001260SAS,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202001260SAS.html,12:19,.750,.750,1.000,.000,0.0,27.2,11.9,13.3,4.0,0.0,14.3,24.0,114,102,7.7
+2020-01-26,202001260SAS,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202001260SAS.html,6:05,.000,.000,.000,.000,0.0,18.3,8.1,19.2,0.0,0.0,50.0,13.9,28,114,-18.2
+2020-01-26,202001260SAS,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202001260SAS.html,2:47,,,,,0.0,0.0,0.0,42.1,0.0,0.0,,0.0,239,118,3.1
+2020-01-26,202001260SAS,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202001260SAS.html,34:38,.683,.583,.333,.500,6.4,20.2,14.1,0.0,0.0,0.0,12.0,10.6,126,114,-5.1
+2020-01-26,202001260SAS,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202001260SAS.html,34:38,.601,.444,.111,.667,0.0,15.1,8.5,34.1,0.0,0.0,14.7,17.4,124,117,-1.0
+2020-01-26,202001260SAS,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202001260SAS.html,25:52,.542,.542,.583,.000,0.0,6.7,3.8,22.5,1.9,0.0,7.7,22.2,101,116,0.6
+2020-01-26,202001260SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202001260SAS.html,25:14,.542,.542,.333,.000,8.8,13.8,11.6,15.5,1.9,7.8,20.0,26.3,90,108,2.5
+2020-01-26,202001260SAS,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202001260SAS.html,5:40,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.6,0,123,-25.1
+2020-01-26,202001260SAS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202001260SAS.html,28:15,.530,.455,.455,.455,4.0,9.3,6.9,25.0,0.0,13.9,31.3,30.1,82,111,-2.7
+2020-01-26,202001260SAS,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202001260SAS.html,19:47,.500,.500,.833,.000,11.3,13.2,12.4,33.3,0.0,0.0,0.0,13.4,133,118,3.7
+2020-01-26,202001260SAS,SAS,Marco Belinelli,https://www.basketball-reference.com/boxscores/202001260SAS.html,18:23,.644,.563,.875,.375,0.0,4.7,2.7,49.9,0.0,0.0,0.0,22.4,145,121,9.1
+2020-01-26,202001260SAS,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202001260SAS.html,17:50,.340,.200,.400,.400,0.0,29.4,16.5,17.2,2.7,0.0,14.5,17.1,76,104,-4.9
+2020-01-26,202001260SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202001260SAS.html,16:21,.781,.750,.750,1.000,0.0,5.3,3.0,0.0,6.0,0.0,14.8,18.3,121,107,8.2
+2020-01-26,202001260SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202001260SAS.html,13:22,.739,.714,.000,.143,0.0,45.7,25.7,0.0,0.0,14.7,11.8,27.9,117,95,10.4

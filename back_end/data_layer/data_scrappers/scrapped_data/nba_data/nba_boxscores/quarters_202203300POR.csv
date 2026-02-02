@@ -1,0 +1,77 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-03-30,202203300POR,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202203300POR.html,8.9,6,7,.857,2,3,.667,0,0,0,0,0,0,0,0,1,0,14,10.5,-4,
+2022-03-30,202203300POR,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202203300POR.html,8.13,1,1,1.000,0,0,,0,0,0,0,0,1,1,0,0,1,2,3.0,-2,
+2022-03-30,202203300POR,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202203300POR.html,8.9,0,1,.000,0,0,,0,0,0,1,1,2,2,0,1,1,0,1.6,-4,
+2022-03-30,202203300POR,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202203300POR.html,8.13,2,5,.400,0,0,,2,3,0,2,2,2,1,0,0,0,6,5.9,-2,.667
+2022-03-30,202203300POR,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202203300POR.html,8.17,2,4,.500,0,1,.000,0,0,1,1,2,0,1,0,0,0,4,4.0,+7,
+2022-03-30,202203300POR,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202203300POR.html,7.7,1,3,.333,0,1,.000,2,2,1,0,1,0,0,0,1,2,4,1.2,-13,1.000
+2022-03-30,202203300POR,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202203300POR.html,3.1,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2022-03-30,202203300POR,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202203300POR.html,3.87,1,3,.333,0,2,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-2,
+2022-03-30,202203300POR,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202203300POR.html,3.1,0,0,,0,0,,0,0,0,0,0,1,2,0,0,0,0,2.7,0,
+2022-03-30,202203300POR,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202203300POR.html,7.37,1,3,.333,0,1,.000,3,4,0,2,2,1,0,0,1,1,5,2.8,+1,.750
+2022-03-30,202203300POR,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202203300POR.html,9.73,1,2,.500,0,1,.000,1,2,1,3,4,0,0,0,2,1,3,0.8,+5,.500
+2022-03-30,202203300POR,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202203300POR.html,7.37,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,+1,
+2022-03-30,202203300POR,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202203300POR.html,6.8,0,2,.000,0,0,,0,0,0,3,3,0,0,0,1,2,0,-2.3,+1,
+2022-03-30,202203300POR,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202203300POR.html,3.33,0,0,,0,0,,3,4,0,0,0,0,0,0,0,0,3,2.6,-1,.750
+2022-03-30,202203300POR,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202203300POR.html,3.47,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-0.1,+2,
+2022-03-30,202203300POR,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202203300POR.html,7.47,1,2,.500,0,1,.000,0,0,1,2,3,0,0,1,0,0,2,3.0,-4,
+2022-03-30,202203300POR,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202203300POR.html,4.63,0,2,.000,0,2,.000,0,0,0,1,1,1,0,1,0,0,0,0.3,0,
+2022-03-30,202203300POR,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202203300POR.html,5.2,2,2,1.000,0,0,,0,0,0,1,1,1,1,0,1,1,4,4.0,0,
+2022-03-30,202203300POR,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202203300POR.html,4.63,1,1,1.000,0,0,,0,0,0,0,0,1,1,0,0,0,2,3.4,0,
+2022-03-30,202203300POR,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202203300POR.html,8.88,0,1,.000,0,1,.000,0,2,0,1,1,1,0,0,0,0,0,-0.5,+7,.000
+2022-03-30,202203300POR,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202203300POR.html,7.25,2,4,.500,0,1,.000,0,0,3,1,4,1,2,0,1,1,4,5.7,+2,
+2022-03-30,202203300POR,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202203300POR.html,8.88,1,4,.250,0,0,,0,0,0,0,0,2,1,0,0,1,2,1.6,+7,
+2022-03-30,202203300POR,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202203300POR.html,7.25,1,2,.500,0,1,.000,5,5,0,0,0,1,0,0,0,0,7,6.7,+2,1.000
+2022-03-30,202203300POR,NOP,Q3,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202203300POR.html,10.37,4,5,.800,1,1,1.000,2,2,1,0,1,0,0,2,0,1,11,10.8,+1,1.000
+2022-03-30,202203300POR,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202203300POR.html,4.75,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+4,
+2022-03-30,202203300POR,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202203300POR.html,4.75,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+4,
+2022-03-30,202203300POR,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202203300POR.html,3.12,1,1,1.000,0,0,,0,0,0,1,1,0,1,0,1,0,2,2.0,-1,
+2022-03-30,202203300POR,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202203300POR.html,4.75,0,0,,0,0,,6,6,0,1,1,2,0,0,1,1,6,6.3,+4,1.000
+2022-03-30,202203300POR,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202203300POR.html,12.0,2,5,.400,1,1,1.000,1,2,0,0,0,2,0,0,2,0,6,2.3,+7,.500
+2022-03-30,202203300POR,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202203300POR.html,10.07,4,4,1.000,0,0,,2,2,1,2,3,2,1,0,1,1,10,11.1,+7,1.000
+2022-03-30,202203300POR,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202203300POR.html,5.6,0,0,,0,0,,0,0,0,0,0,1,1,1,0,0,0,2.4,+3,
+2022-03-30,202203300POR,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202203300POR.html,5.6,1,3,.333,0,1,.000,4,5,1,0,1,3,0,0,0,0,6,6.7,+3,.800
+2022-03-30,202203300POR,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202203300POR.html,12.0,2,5,.400,2,4,.500,0,0,1,2,3,0,1,0,0,0,6,5.6,+7,
+2022-03-30,202203300POR,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202203300POR.html,6.4,2,3,.667,0,0,,0,0,0,1,1,0,0,0,0,1,4,2.6,+4,
+2022-03-30,202203300POR,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202203300POR.html,2.48,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2022-03-30,202203300POR,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202203300POR.html,3.92,0,0,,0,0,,0,0,1,0,1,1,0,0,0,0,0,1.4,+4,
+2022-03-30,202203300POR,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202203300POR.html,1.93,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,0,
+2022-03-30,202203300POR,POR,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203300POR.html,8.32,3,3,1.000,0,0,,0,0,0,2,2,0,1,0,1,0,6,5.7,+2,
+2022-03-30,202203300POR,POR,Q1,CJ Elleby,https://www.basketball-reference.com/boxscores/202203300POR.html,8.13,0,2,.000,0,0,,2,2,1,3,4,0,0,0,1,1,2,0.8,+2,1.000
+2022-03-30,202203300POR,POR,Q1,Greg Brown III,https://www.basketball-reference.com/boxscores/202203300POR.html,6.08,2,3,.667,2,3,.667,0,0,0,0,0,2,0,0,0,0,6,6.1,0,
+2022-03-30,202203300POR,POR,Q1,Brandon Williams,https://www.basketball-reference.com/boxscores/202203300POR.html,8.32,2,2,1.000,2,2,1.000,0,0,0,1,1,5,1,0,3,0,6,7.2,+2,
+2022-03-30,202203300POR,POR,Q1,Keon Johnson,https://www.basketball-reference.com/boxscores/202203300POR.html,5.77,1,2,.500,1,2,.500,0,0,0,0,0,0,0,1,0,1,3,2.3,-3,
+2022-03-30,202203300POR,POR,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/202203300POR.html,6.23,3,3,1.000,2,2,1.000,1,1,0,1,1,1,0,0,1,0,9,8.1,+7,1.000
+2022-03-30,202203300POR,POR,Q1,Kris Dunn,https://www.basketball-reference.com/boxscores/202203300POR.html,3.68,1,2,.500,0,0,,0,0,0,1,1,1,0,0,1,0,2,1.0,+2,
+2022-03-30,202203300POR,POR,Q1,Keljin Blevins,https://www.basketball-reference.com/boxscores/202203300POR.html,5.92,0,0,,0,0,,0,0,1,1,2,0,1,0,1,0,0,1.0,+4,
+2022-03-30,202203300POR,POR,Q1,Reggie Perry,https://www.basketball-reference.com/boxscores/202203300POR.html,3.68,0,1,.000,0,1,.000,2,2,1,0,1,0,0,0,0,0,2,2.0,+2,1.000
+2022-03-30,202203300POR,POR,Q1,Didi Louzada,https://www.basketball-reference.com/boxscores/202203300POR.html,3.87,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,+2,
+2022-03-30,202203300POR,POR,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203300POR.html,7.85,0,2,.000,0,1,.000,0,0,1,2,3,1,0,0,1,1,0,-0.8,-3,
+2022-03-30,202203300POR,POR,Q2,CJ Elleby,https://www.basketball-reference.com/boxscores/202203300POR.html,8.67,0,2,.000,0,2,.000,4,5,0,0,0,0,0,0,0,1,4,1.8,-2,.800
+2022-03-30,202203300POR,POR,Q2,Greg Brown III,https://www.basketball-reference.com/boxscores/202203300POR.html,3.93,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,0,3,2.0,0,
+2022-03-30,202203300POR,POR,Q2,Brandon Williams,https://www.basketball-reference.com/boxscores/202203300POR.html,6.8,0,4,.000,0,2,.000,0,0,0,0,0,0,0,0,0,1,0,-3.2,-1,
+2022-03-30,202203300POR,POR,Q2,Keon Johnson,https://www.basketball-reference.com/boxscores/202203300POR.html,4.75,0,1,.000,0,0,,2,3,0,0,0,0,0,0,0,0,2,0.9,0,.667
+2022-03-30,202203300POR,POR,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/202203300POR.html,7.25,0,3,.000,0,3,.000,2,2,0,0,0,0,2,0,1,0,2,0.9,-1,1.000
+2022-03-30,202203300POR,POR,Q2,Kris Dunn,https://www.basketball-reference.com/boxscores/202203300POR.html,9.12,1,4,.250,0,0,,0,0,1,2,3,0,0,0,0,1,2,0.5,-3,
+2022-03-30,202203300POR,POR,Q2,Keljin Blevins,https://www.basketball-reference.com/boxscores/202203300POR.html,4.6,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,1,3,2.6,+1,
+2022-03-30,202203300POR,POR,Q2,Reggie Perry,https://www.basketball-reference.com/boxscores/202203300POR.html,4.15,1,3,.333,0,1,.000,0,0,1,1,2,0,0,0,0,2,2,0.5,+2,
+2022-03-30,202203300POR,POR,Q2,Didi Louzada,https://www.basketball-reference.com/boxscores/202203300POR.html,2.88,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+2,
+2022-03-30,202203300POR,POR,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203300POR.html,7.93,4,4,1.000,0,0,,0,0,1,1,2,0,0,1,0,2,8,7.7,-6,
+2022-03-30,202203300POR,POR,Q3,CJ Elleby,https://www.basketball-reference.com/boxscores/202203300POR.html,7.25,1,3,.333,1,2,.500,0,0,1,0,1,2,0,0,0,0,3,3.4,-2,
+2022-03-30,202203300POR,POR,Q3,Greg Brown III,https://www.basketball-reference.com/boxscores/202203300POR.html,5.32,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,-5,
+2022-03-30,202203300POR,POR,Q3,Brandon Williams,https://www.basketball-reference.com/boxscores/202203300POR.html,7.93,2,3,.667,0,1,.000,0,0,0,0,0,3,0,0,2,1,4,2.4,-6,
+2022-03-30,202203300POR,POR,Q3,Keon Johnson,https://www.basketball-reference.com/boxscores/202203300POR.html,5.32,0,0,,0,0,,0,0,0,2,2,2,0,0,1,3,0,-0.2,-5,
+2022-03-30,202203300POR,POR,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/202203300POR.html,6.68,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-1,
+2022-03-30,202203300POR,POR,Q3,Kris Dunn,https://www.basketball-reference.com/boxscores/202203300POR.html,4.07,0,0,,0,0,,0,0,0,1,1,3,0,0,0,0,0,2.4,0,
+2022-03-30,202203300POR,POR,Q3,Keljin Blevins,https://www.basketball-reference.com/boxscores/202203300POR.html,6.68,1,5,.200,1,3,.333,0,0,0,1,1,0,0,0,0,2,3,-0.6,-1,
+2022-03-30,202203300POR,POR,Q3,Reggie Perry,https://www.basketball-reference.com/boxscores/202203300POR.html,4.07,2,3,.667,0,0,,1,2,2,0,2,0,0,0,1,1,5,3.3,0,.500
+2022-03-30,202203300POR,POR,Q3,Didi Louzada,https://www.basketball-reference.com/boxscores/202203300POR.html,4.75,2,5,.400,1,4,.250,0,0,2,0,2,0,0,0,0,0,5,3.7,-4,
+2022-03-30,202203300POR,POR,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203300POR.html,7.33,3,3,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,2,7,5.9,0,
+2022-03-30,202203300POR,POR,Q4,CJ Elleby,https://www.basketball-reference.com/boxscores/202203300POR.html,6.65,0,2,.000,0,2,.000,0,0,0,2,2,1,0,0,0,0,0,-0.1,+1,
+2022-03-30,202203300POR,POR,Q4,Greg Brown III,https://www.basketball-reference.com/boxscores/202203300POR.html,12.0,0,1,.000,0,1,.000,0,0,0,2,2,1,0,0,1,2,0,-1.2,-7,
+2022-03-30,202203300POR,POR,Q4,Brandon Williams,https://www.basketball-reference.com/boxscores/202203300POR.html,4.22,0,1,.000,0,1,.000,0,0,1,0,1,2,0,0,1,0,0,0.4,0,
+2022-03-30,202203300POR,POR,Q4,Keon Johnson,https://www.basketball-reference.com/boxscores/202203300POR.html,6.18,1,2,.500,0,0,,0,0,0,0,0,2,0,0,1,1,2,1.0,-10,
+2022-03-30,202203300POR,POR,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/202203300POR.html,5.82,2,4,.500,1,3,.333,0,0,0,0,0,0,0,0,0,1,5,2.6,+3,
+2022-03-30,202203300POR,POR,Q4,Kris Dunn,https://www.basketball-reference.com/boxscores/202203300POR.html,7.78,2,3,.667,0,0,,1,1,0,0,0,4,2,0,2,0,5,6.5,-7,1.000
+2022-03-30,202203300POR,POR,Q4,Keljin Blevins,https://www.basketball-reference.com/boxscores/202203300POR.html,5.35,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-8,
+2022-03-30,202203300POR,POR,Q4,Reggie Perry,https://www.basketball-reference.com/boxscores/202203300POR.html,4.67,3,4,.750,0,0,,0,0,0,1,1,0,0,0,0,2,6,3.9,-7,

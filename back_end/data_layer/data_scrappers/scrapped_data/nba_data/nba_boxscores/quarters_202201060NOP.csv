@@ -1,0 +1,78 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-01-06,202201060NOP,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202201060NOP.html,9.12,0,3,.000,0,2,.000,0,0,0,0,0,2,1,0,2,0,0,-1.7,+5,
+2022-01-06,202201060NOP,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201060NOP.html,10.53,2,6,.333,1,4,.250,2,3,0,1,1,0,1,1,0,0,7,5.2,+4,.667
+2022-01-06,202201060NOP,GSW,Q1,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201060NOP.html,9.12,1,2,.500,1,1,1.000,0,0,0,3,3,0,0,0,0,0,3,2.9,+5,
+2022-01-06,202201060NOP,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.53,1,1,1.000,0,0,,0,0,1,2,3,1,0,0,0,0,2,3.7,0,
+2022-01-06,202201060NOP,GSW,Q1,Gary Payton II,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.3,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,1,2,0.9,0,
+2022-01-06,202201060NOP,GSW,Q1,Damion Lee,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.9,1,1,1.000,0,0,,1,2,0,0,0,1,0,1,0,0,3,3.7,+6,.500
+2022-01-06,202201060NOP,GSW,Q1,Moses Moody,https://www.basketball-reference.com/boxscores/202201060NOP.html,1.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2022-01-06,202201060NOP,GSW,Q1,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.47,2,2,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,1,5,4.3,+6,
+2022-01-06,202201060NOP,GSW,Q1,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201060NOP.html,2.88,0,0,,0,0,,0,0,0,0,0,1,1,0,0,0,0,1.7,+1,
+2022-01-06,202201060NOP,GSW,Q1,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202201060NOP.html,2.88,0,2,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,-0.4,+1,
+2022-01-06,202201060NOP,GSW,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.3,0,4,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-2.1,-8,
+2022-01-06,202201060NOP,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.52,3,4,.750,0,0,,0,0,0,0,0,0,0,0,0,1,6,4.0,-9,
+2022-01-06,202201060NOP,GSW,Q2,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201060NOP.html,3.88,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-0.1,-9,
+2022-01-06,202201060NOP,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.52,0,1,.000,0,0,,0,0,0,2,2,1,0,1,1,1,0,-0.1,-9,
+2022-01-06,202201060NOP,GSW,Q2,Gary Payton II,https://www.basketball-reference.com/boxscores/202201060NOP.html,3.6,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,-9,
+2022-01-06,202201060NOP,GSW,Q2,Damion Lee,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.4,2,5,.400,1,3,.333,0,0,1,1,2,1,0,0,0,1,5,3.6,+2,
+2022-01-06,202201060NOP,GSW,Q2,Moses Moody,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.12,2,4,.500,0,2,.000,2,2,0,4,4,0,0,0,0,0,6,5.2,+2,1.000
+2022-01-06,202201060NOP,GSW,Q2,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.48,1,1,1.000,0,0,,0,0,0,0,0,1,1,0,1,0,2,2.4,+2,
+2022-01-06,202201060NOP,GSW,Q2,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.48,0,0,,0,0,,0,0,0,0,0,2,0,0,1,1,0,0.0,+2,
+2022-01-06,202201060NOP,GSW,Q2,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202201060NOP.html,3.7,2,5,.400,0,0,,1,2,3,1,4,0,0,0,0,2,5,3.5,+1,.500
+2022-01-06,202201060NOP,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.6,0,1,.000,0,0,,1,1,0,0,0,2,0,0,1,3,1,-0.5,-2,1.000
+2022-01-06,202201060NOP,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.78,1,3,.333,0,1,.000,4,4,0,1,1,1,0,0,0,1,6,4.9,-2,1.000
+2022-01-06,202201060NOP,GSW,Q3,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.93,1,2,.500,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.0,-2,
+2022-01-06,202201060NOP,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.6,2,5,.400,0,0,,0,0,2,2,4,0,1,0,0,2,4,3.5,-2,
+2022-01-06,202201060NOP,GSW,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202201060NOP.html,4.12,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,-2,
+2022-01-06,202201060NOP,GSW,Q3,Damion Lee,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.88,2,3,.667,0,0,,0,0,0,1,1,1,3,0,0,0,4,6.7,0,
+2022-01-06,202201060NOP,GSW,Q3,Moses Moody,https://www.basketball-reference.com/boxscores/202201060NOP.html,4.22,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,0,1.000
+2022-01-06,202201060NOP,GSW,Q3,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.4,0,0,,0,0,,0,0,0,1,1,0,0,1,0,0,0,1.0,0,
+2022-01-06,202201060NOP,GSW,Q3,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.4,1,2,.500,1,2,.500,0,0,0,2,2,1,0,0,1,1,3,1.9,0,
+2022-01-06,202201060NOP,GSW,Q3,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.07,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,1,0,2,0.0,0,
+2022-01-06,202201060NOP,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.55,3,6,.500,2,5,.400,2,2,0,0,0,0,2,0,0,2,10,8.2,+4,1.000
+2022-01-06,202201060NOP,GSW,Q4,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.1,1,4,.250,0,1,.000,0,0,0,2,2,0,1,0,2,1,2,-1.2,-1,
+2022-01-06,202201060NOP,GSW,Q4,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201060NOP.html,4.03,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,2,0,-0.9,-5,
+2022-01-06,202201060NOP,GSW,Q4,Damion Lee,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.43,0,1,.000,0,1,.000,0,0,0,1,1,0,1,0,1,0,0,-0.4,-3,
+2022-01-06,202201060NOP,GSW,Q4,Moses Moody,https://www.basketball-reference.com/boxscores/202201060NOP.html,9.47,1,2,.500,0,1,.000,0,0,1,0,1,0,0,0,0,0,2,1.7,0,
+2022-01-06,202201060NOP,GSW,Q4,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201060NOP.html,4.9,1,3,.333,0,2,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-1,
+2022-01-06,202201060NOP,GSW,Q4,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.52,1,1,1.000,0,0,,0,0,0,1,1,3,0,0,0,1,2,3.7,-2,
+2022-01-06,202201060NOP,GSW,Q4,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.55,3,5,.600,0,1,.000,0,0,0,1,1,0,0,1,1,2,6,2.9,+4,
+2022-01-06,202201060NOP,GSW,Q4,Chris Chiozza,https://www.basketball-reference.com/boxscores/202201060NOP.html,3.45,0,1,.000,0,0,,0,0,0,1,1,2,0,0,0,0,0,1.0,-6,
+2022-01-06,202201060NOP,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202201060NOP.html,11.8,1,1,1.000,0,0,,0,0,0,3,3,1,2,0,0,1,2,4.9,-6,
+2022-01-06,202201060NOP,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202201060NOP.html,9.12,3,7,.429,0,1,.000,0,0,1,0,1,0,0,0,0,1,6,2.6,-5,
+2022-01-06,202201060NOP,NOP,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202201060NOP.html,9.12,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-5,
+2022-01-06,202201060NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202201060NOP.html,9.12,1,5,.200,0,2,.000,0,0,1,3,4,3,0,0,2,1,2,0.2,-5,
+2022-01-06,202201060NOP,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.33,1,3,.333,0,1,.000,0,0,0,1,1,0,0,0,2,1,2,-1.8,0,
+2022-01-06,202201060NOP,NOP,Q1,Garrett Temple,https://www.basketball-reference.com/boxscores/202201060NOP.html,2.88,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-1,
+2022-01-06,202201060NOP,NOP,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202201060NOP.html,2.88,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-2.4,-1,
+2022-01-06,202201060NOP,NOP,Q1,Gary Clark,https://www.basketball-reference.com/boxscores/202201060NOP.html,0.48,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,
+2022-01-06,202201060NOP,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202201060NOP.html,2.88,0,0,,0,0,,1,2,0,1,1,0,0,0,0,0,1,0.9,-1,.500
+2022-01-06,202201060NOP,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.38,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,-5,
+2022-01-06,202201060NOP,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.3,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,0,2,1.3,+8,
+2022-01-06,202201060NOP,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.3,5,6,.833,0,1,.000,3,4,0,3,3,4,0,0,0,0,13,14.1,+8,.750
+2022-01-06,202201060NOP,NOP,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.97,1,3,.333,0,1,.000,2,2,0,1,1,1,0,0,1,2,4,1.5,+1,1.000
+2022-01-06,202201060NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202201060NOP.html,9.38,1,1,1.000,0,0,,0,0,1,1,2,0,1,1,0,0,2,4.4,+12,
+2022-01-06,202201060NOP,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.3,0,4,.000,0,3,.000,0,0,0,0,0,0,0,0,0,0,0,-2.8,+8,
+2022-01-06,202201060NOP,NOP,Q2,Garrett Temple,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.7,1,2,.500,0,1,.000,0,0,0,1,1,2,0,0,1,1,2,1.3,+2,
+2022-01-06,202201060NOP,NOP,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.48,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,-2,
+2022-01-06,202201060NOP,NOP,Q2,Gary Clark,https://www.basketball-reference.com/boxscores/202201060NOP.html,4.23,1,2,.500,1,2,.500,1,2,0,2,2,0,0,0,0,0,4,3.2,+3,.500
+2022-01-06,202201060NOP,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202201060NOP.html,2.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-5,
+2022-01-06,202201060NOP,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202201060NOP.html,10.18,1,2,.500,0,0,,2,2,1,0,1,1,2,0,0,0,4,6.4,-2,1.000
+2022-01-06,202201060NOP,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202201060NOP.html,10.18,2,3,.667,1,2,.500,2,2,0,5,5,2,0,0,3,1,7,5.2,-2,1.000
+2022-01-06,202201060NOP,NOP,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.0,2,3,.667,1,2,.500,0,0,0,0,0,0,0,0,1,2,5,1.9,0,
+2022-01-06,202201060NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.93,0,0,,0,0,,4,4,0,2,2,0,0,1,1,1,4,3.9,+2,1.000
+2022-01-06,202201060NOP,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.6,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+2,
+2022-01-06,202201060NOP,NOP,Q3,Garrett Temple,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.0,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+2,
+2022-01-06,202201060NOP,NOP,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202201060NOP.html,1.82,1,2,.500,1,1,1.000,0,0,0,0,0,1,0,0,0,0,3,2.7,+4,
+2022-01-06,202201060NOP,NOP,Q3,Gary Clark,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.07,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,3.0,0,
+2022-01-06,202201060NOP,NOP,Q3,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202201060NOP.html,1.82,1,1,1.000,0,0,,0,1,0,0,0,0,0,0,0,0,2,1.3,+4,.000
+2022-01-06,202201060NOP,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.4,0,3,.000,0,2,.000,0,0,0,0,0,1,0,0,0,1,0,-1.8,0,
+2022-01-06,202201060NOP,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.18,1,3,.333,0,0,,3,4,0,1,1,0,1,0,0,0,5,4.2,-4,.750
+2022-01-06,202201060NOP,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202201060NOP.html,7.18,2,4,.500,0,0,,2,2,1,1,2,0,0,0,0,0,6,5.0,-4,1.000
+2022-01-06,202201060NOP,NOP,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202201060NOP.html,12.0,1,3,.333,0,2,.000,3,4,2,2,4,1,0,0,1,1,5,4.2,+2,.750
+2022-01-06,202201060NOP,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.15,0,0,,0,0,,0,0,0,2,2,1,0,0,1,1,0,-0.1,+5,
+2022-01-06,202201060NOP,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202201060NOP.html,8.37,2,6,.333,1,5,.200,0,0,0,0,0,0,1,0,2,0,5,0.6,+5,
+2022-01-06,202201060NOP,NOP,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/202201060NOP.html,1.93,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,+1,
+2022-01-06,202201060NOP,NOP,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202201060NOP.html,6.52,0,3,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-1.4,+2,
+2022-01-06,202201060NOP,NOP,Q4,Gary Clark,https://www.basketball-reference.com/boxscores/202201060NOP.html,5.85,1,1,1.000,1,1,1.000,0,0,0,4,4,0,0,1,1,0,3,3.6,-3,
+2022-01-06,202201060NOP,NOP,Q4,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202201060NOP.html,4.82,1,1,1.000,0,0,,0,0,1,0,1,0,0,2,1,2,2,2.0,+6,

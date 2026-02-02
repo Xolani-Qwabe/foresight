@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-05-10,202205100PHO,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202205100PHO.html,36:54,.581,.500,.833,.333,5.9,3.0,4.4,10.7,0.0,0.0,22.5,11.7,105,126,-1.7
+2022-05-10,202205100PHO,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202205100PHO.html,35:06,.537,.478,.348,.304,3.1,31.1,17.1,20.5,4.5,0.0,13.3,41.6,97,108,10.0
+2022-05-10,202205100PHO,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202205100PHO.html,34:45,.535,.529,.059,.353,0.0,22.0,11.0,19.0,1.5,0.0,16.9,33.0,91,117,-0.7
+2022-05-10,202205100PHO,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202205100PHO.html,34:44,.000,.000,.600,.000,3.1,9.4,6.3,5.1,3.0,0.0,16.7,8.4,20,118,-6.3
+2022-05-10,202205100PHO,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202205100PHO.html,7:34,,,,,0.0,14.4,7.2,0.0,0.0,0.0,,0.0,0,122,-10.8
+2022-05-10,202205100PHO,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202205100PHO.html,24:19,.340,.300,.800,.400,4.5,22.4,13.5,0.0,0.0,0.0,25.4,15.7,58,120,-10.5
+2022-05-10,202205100PHO,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202205100PHO.html,19:28,1.126,1.125,1.000,.250,0.0,5.6,2.8,0.0,2.7,0.0,0.0,11.1,219,119,15.1
+2022-05-10,202205100PHO,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202205100PHO.html,15:36,.258,.000,.667,.667,0.0,7.0,3.5,11.4,0.0,0.0,43.6,21.4,37,125,-20.0
+2022-05-10,202205100PHO,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202205100PHO.html,12:46,.338,.250,.750,.250,0.0,0.0,0.0,16.2,0.0,0.0,0.0,16.9,81,127,-8.0
+2022-05-10,202205100PHO,DAL,Sterling Brown,https://www.basketball-reference.com/boxscores/202205100PHO.html,4:42,.000,.000,1.000,2.000,0.0,23.2,11.6,0.0,0.0,0.0,0.0,19.4,0,120,-17.8
+2022-05-10,202205100PHO,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202205100PHO.html,4:42,.347,.000,.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.7,77,127,-8.7
+2022-05-10,202205100PHO,DAL,Marquese Chriss,https://www.basketball-reference.com/boxscores/202205100PHO.html,4:42,1.000,1.000,.000,.000,23.2,23.2,23.2,0.0,0.0,0.0,0.0,10.3,206,120,6.2
+2022-05-10,202205100PHO,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202205100PHO.html,4:42,.000,,,,0.0,23.2,11.6,0.0,0.0,0.0,0.0,9.1,0,120,-10.9
+2022-05-10,202205100PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202205100PHO.html,35:12,.643,.625,.350,.200,3.1,18.6,10.8,9.7,3.0,0.0,8.4,30.6,121,86,9.9
+2022-05-10,202205100PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202205100PHO.html,34:43,.438,.438,.375,.000,0.0,6.3,3.1,35.6,1.5,0.0,33.3,15.6,93,92,-3.1
+2022-05-10,202205100PHO,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202205100PHO.html,33:38,.538,.538,.385,.000,3.2,19.5,11.4,4.1,6.2,0.0,0.0,17.5,117,79,8.2
+2022-05-10,202205100PHO,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202205100PHO.html,26:31,.250,.250,.833,.000,4.1,16.5,10.3,8.8,0.0,0.0,0.0,10.2,85,92,-6.9
+2022-05-10,202205100PHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202205100PHO.html,22:14,.720,.692,.000,.154,14.7,29.4,22.1,18.3,0.0,0.0,6.7,30.3,142,90,12.9
+2022-05-10,202205100PHO,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202205100PHO.html,25:28,.717,.688,.500,.500,4.3,4.3,4.3,5.6,4.1,4.8,17.0,20.9,121,83,8.6
+2022-05-10,202205100PHO,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202205100PHO.html,21:12,.595,.600,.000,.400,10.3,20.6,15.4,6.3,0.0,0.0,14.5,14.7,117,92,0.6
+2022-05-10,202205100PHO,PHO,Landry Shamet,https://www.basketball-reference.com/boxscores/202205100PHO.html,19:03,.592,.500,.600,.800,0.0,17.2,8.6,26.6,2.7,0.0,0.0,16.1,146,87,11.7
+2022-05-10,202205100PHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202205100PHO.html,6:43,.000,.000,1.000,.000,16.2,32.5,24.4,16.6,0.0,0.0,50.0,13.5,58,90,-5.3
+2022-05-10,202205100PHO,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202205100PHO.html,3:58,1.000,1.000,.667,.000,0.0,27.5,13.8,64.4,0.0,31.0,0.0,34.2,186,71,65.8
+2022-05-10,202205100PHO,PHO,Aaron Holiday,https://www.basketball-reference.com/boxscores/202205100PHO.html,3:58,.500,.500,.333,.000,55.0,0.0,27.5,100.0,0.0,0.0,0.0,34.2,158,95,37.1
+2022-05-10,202205100PHO,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202205100PHO.html,3:58,.000,.000,1.000,.000,0.0,27.5,13.8,0.0,0.0,0.0,0.0,11.4,0,91,-14.6
+2022-05-10,202205100PHO,PHO,JaVale McGee,https://www.basketball-reference.com/boxscores/202205100PHO.html,3:22,.000,.000,.000,.000,0.0,64.8,32.4,0.0,0.0,0.0,50.0,26.9,0,79,-38.2

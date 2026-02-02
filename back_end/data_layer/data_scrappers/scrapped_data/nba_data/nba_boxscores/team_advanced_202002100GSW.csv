@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-10,202002100GSW,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002100GSW.html,36:47,.607,.607,.929,.000,0.0,3.0,1.5,11.1,0.0,0.0,0.0,17.0,118,111,-2.1
+2020-02-10,202002100GSW,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202002100GSW.html,33:04,.626,.600,.000,.267,0.0,33.0,17.1,24.2,5.9,3.4,10.7,25.4,116,89,8.4
+2020-02-10,202002100GSW,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002100GSW.html,26:48,.611,.625,.000,.750,13.1,32.6,23.2,36.8,3.6,0.0,8.6,19.4,137,97,10.3
+2020-02-10,202002100GSW,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002100GSW.html,23:09,.154,.154,.308,.000,0.0,4.7,2.4,10.7,0.0,0.0,7.1,27.1,40,111,-25.9
+2020-02-10,202002100GSW,MIA,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002100GSW.html,19:47,1.031,1.000,.000,.667,0.0,5.5,2.9,0.0,0.0,5.6,20.5,11.0,149,107,-3.0
+2020-02-10,202002100GSW,MIA,Jae Crowder,https://www.basketball-reference.com/boxscores/202002100GSW.html,31:28,.795,.727,.727,.455,3.7,24.3,14.4,0.0,4.6,0.0,0.0,18.8,153,96,9.5
+2020-02-10,202002100GSW,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202002100GSW.html,29:35,.508,.500,.308,.308,4.0,3.7,3.8,29.3,0.0,0.0,16.9,26.9,97,111,-7.6
+2020-02-10,202002100GSW,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002100GSW.html,20:40,.667,.667,.444,.000,0.0,31.7,16.4,81.4,2.4,5.4,18.2,23.8,132,96,21.2
+2020-02-10,202002100GSW,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202002100GSW.html,16:53,1.000,1.000,.000,.000,13.9,19.4,16.7,14.2,0.0,0.0,50.0,5.3,142,108,-3.4
+2020-02-10,202002100GSW,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202002100GSW.html,1:37,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-8.6
+2020-02-10,202002100GSW,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/202002100GSW.html,0:12,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-9.9
+2020-02-10,202002100GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202002100GSW.html,34:04,.541,.500,.500,.429,0.0,6.9,3.3,26.2,0.0,0.0,10.7,24.6,100,121,-3.4
+2020-02-10,202002100GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202002100GSW.html,31:25,.425,.300,.600,.400,3.5,29.8,16.2,48.3,1.6,2.8,33.8,12.7,97,111,3.2
+2020-02-10,202002100GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202002100GSW.html,30:02,.862,.792,.583,.583,0.0,7.8,3.8,8.5,0.0,0.0,6.2,24.0,151,120,9.9
+2020-02-10,202002100GSW,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202002100GSW.html,26:43,.609,.500,.200,.900,12.2,26.3,19.0,0.0,3.6,3.3,6.7,25.1,122,107,3.0
+2020-02-10,202002100GSW,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/202002100GSW.html,15:15,.250,.250,.500,.000,0.0,23.0,11.1,23.4,0.0,0.0,20.0,14.7,58,118,-11.6
+2020-02-10,202002100GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202002100GSW.html,30:59,.440,.273,.364,.545,0.0,22.7,10.9,12.2,0.0,0.0,0.0,19.8,98,118,-6.6
+2020-02-10,202002100GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202002100GSW.html,16:35,.654,.583,.333,.333,6.6,0.0,3.4,0.0,5.9,0.0,22.5,24.0,97,109,0.1
+2020-02-10,202002100GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202002100GSW.html,16:26,.000,.000,.500,.000,0.0,21.4,10.3,9.7,3.0,0.0,0.0,5.5,28,112,-5.1
+2020-02-10,202002100GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202002100GSW.html,13:56,1.500,1.500,1.000,.000,0.0,25.2,12.2,13.0,7.0,0.0,66.7,9.7,66,102,3.3
+2020-02-10,202002100GSW,GSW,Zach Norvell,https://www.basketball-reference.com/boxscores/202002100GSW.html,10:35,.250,.250,.667,.000,0.0,11.1,5.3,17.8,0.0,0.0,14.3,29.7,49,120,-18.7
+2020-02-10,202002100GSW,GSW,Jeremy Pargo,https://www.basketball-reference.com/boxscores/202002100GSW.html,9:09,.400,.400,.200,.000,0.0,0.0,0.0,53.8,0.0,0.0,16.7,29.4,77,122,-11.8
+2020-02-10,202002100GSW,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202002100GSW.html,4:51,.532,.000,.000,2.000,22.5,0.0,11.6,0.0,0.0,0.0,34.7,26.6,91,122,-12.5

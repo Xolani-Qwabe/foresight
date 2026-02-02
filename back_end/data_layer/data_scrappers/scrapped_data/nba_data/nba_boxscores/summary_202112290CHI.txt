@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202112290CHI.html
+Scraped: 2025-12-14 23:58:10
+
+line_scores: 2 rows (nba_boxscores/line_scores_202112290CHI.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202112290CHI.csv)
+team_basic: 22 rows (nba_boxscores/team_basic_202112290CHI.csv)
+team_advanced: 22 rows (nba_boxscores/team_advanced_202112290CHI.csv)
+quarters: 72 rows (nba_boxscores/quarters_202112290CHI.csv)

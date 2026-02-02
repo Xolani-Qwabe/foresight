@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-03-20,202503200LAL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202503200LAL.html,31:40,.619,.563,.375,.250,9.9,13.5,11.7,0.0,0.0,6.1,10.1,13.9,125,97,-3.6
+2025-03-20,202503200LAL,MIL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202503200LAL.html,31:19,.549,.563,.250,.313,6.7,10.2,8.4,29.2,0.0,0.0,0.0,25.8,126,102,2.1
+2025-03-20,202503200LAL,MIL,Ryan Rollins,https://www.basketball-reference.com/boxscores/202503200LAL.html,29:12,.421,.364,.636,.182,3.6,14.6,9.0,18.8,5.2,3.3,7.8,19.6,99,86,0.6
+2025-03-20,202503200LAL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202503200LAL.html,29:03,.690,.600,.000,.800,3.6,22.0,12.7,26.3,3.5,3.3,12.9,35.6,129,87,12.1
+2025-03-20,202503200LAL,MIL,Taurean Prince,https://www.basketball-reference.com/boxscores/202503200LAL.html,25:16,.510,.400,.400,.400,0.0,8.4,4.2,5.2,0.0,0.0,14.5,12.1,96,103,-9.3
+2025-03-20,202503200LAL,MIL,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202503200LAL.html,27:02,.943,.900,1.000,.500,0.0,11.8,5.9,18.2,3.7,0.0,0.0,20.1,189,93,21.0
+2025-03-20,202503200LAL,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202503200LAL.html,20:13,.600,.600,.800,.000,5.2,10.6,7.8,13.5,2.5,0.0,0.0,11.0,139,95,0.9
+2025-03-20,202503200LAL,MIL,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202503200LAL.html,17:26,.255,.200,.000,.400,0.0,24.5,12.1,7.4,2.9,0.0,25.4,20.1,47,89,-17.0
+2025-03-20,202503200LAL,MIL,Pete Nance,https://www.basketball-reference.com/boxscores/202503200LAL.html,7:19,.333,.333,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.2,69,106,-15.0
+2025-03-20,202503200LAL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202503200LAL.html,6:53,.333,.333,.667,.000,0.0,31.0,15.3,63.3,7.3,0.0,25.0,25.8,84,77,6.4
+2025-03-20,202503200LAL,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202503200LAL.html,6:53,.798,1.000,.000,2.000,15.2,15.5,15.3,21.1,14.6,0.0,0.0,12.1,179,67,25.6
+2025-03-20,202503200LAL,MIL,Chris Livingston,https://www.basketball-reference.com/boxscores/202503200LAL.html,4:23,1.064,1.000,.000,2.000,23.8,0.0,12.0,0.0,0.0,0.0,0.0,19.1,227,106,15.7
+2025-03-20,202503200LAL,MIL,Tyler Smith,https://www.basketball-reference.com/boxscores/202503200LAL.html,3:21,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.3,0,104,-27.5
+2025-03-20,202503200LAL,LAL,Dalton Knecht,https://www.basketball-reference.com/boxscores/202503200LAL.html,31:04,.525,.464,.429,.357,0.0,13.4,6.8,17.6,1.6,0.0,15.6,26.7,99,124,-2.6
+2025-03-20,202503200LAL,LAL,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202503200LAL.html,31:03,.500,.500,.375,.000,3.4,23.5,13.6,26.3,1.6,6.3,27.3,15.3,92,117,1.1
+2025-03-20,202503200LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202503200LAL.html,28:25,.379,.318,.636,.182,3.8,11.0,7.4,11.7,0.0,3.4,0.0,18.1,99,126,-7.4
+2025-03-20,202503200LAL,LAL,Gabe Vincent,https://www.basketball-reference.com/boxscores/202503200LAL.html,25:03,.349,.333,.583,.167,0.0,8.3,4.2,27.1,0.0,0.0,13.4,25.7,79,128,-14.1
+2025-03-20,202503200LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202503200LAL.html,16:05,.765,.800,.200,.400,0.0,32.4,16.4,40.6,0.0,0.0,14.5,18.5,135,122,4.0
+2025-03-20,202503200LAL,LAL,Bronny James,https://www.basketball-reference.com/boxscores/202503200LAL.html,29:53,.814,.800,.400,.100,0.0,10.5,5.3,35.3,0.0,3.3,27.7,20.9,115,126,1.0
+2025-03-20,202503200LAL,LAL,Shake Milton,https://www.basketball-reference.com/boxscores/202503200LAL.html,22:30,.333,.333,.167,.000,19.0,9.3,14.1,21.5,0.0,0.0,25.0,15.4,86,128,-13.3
+2025-03-20,202503200LAL,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202503200LAL.html,22:21,.167,.167,.167,.000,9.5,9.3,9.4,0.0,4.5,0.0,0.0,11.6,57,119,-8.7
+2025-03-20,202503200LAL,LAL,Alex Len,https://www.basketball-reference.com/boxscores/202503200LAL.html,17:17,.571,.643,.286,.571,24.7,30.2,27.5,12.1,2.9,0.0,25.5,29.4,89,116,-5.6
+2025-03-20,202503200LAL,LAL,Trey Jemison,https://www.basketball-reference.com/boxscores/202503200LAL.html,16:19,.667,.667,.000,.000,13.1,19.2,16.2,0.0,0.0,0.0,25.0,10.6,104,126,-8.3

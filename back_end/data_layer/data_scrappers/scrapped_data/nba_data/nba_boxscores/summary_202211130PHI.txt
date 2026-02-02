@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202211130PHI.html
+Scraped: 2025-12-15 02:56:20
+
+line_scores: 2 rows (nba_boxscores/line_scores_202211130PHI.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202211130PHI.csv)
+team_basic: 21 rows (nba_boxscores/team_basic_202211130PHI.csv)
+team_advanced: 21 rows (nba_boxscores/team_advanced_202211130PHI.csv)
+quarters: 78 rows (nba_boxscores/quarters_202211130PHI.csv)

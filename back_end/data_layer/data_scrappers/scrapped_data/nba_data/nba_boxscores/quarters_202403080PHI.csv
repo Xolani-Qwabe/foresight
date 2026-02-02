@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-03-08,202403080PHI,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403080PHI.html,10.28,2,3,.667,1,1,1.000,1,2,.500,0,6,6,2,0,0,2,0,6,5.5,+18
+2024-03-08,202403080PHI,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202403080PHI.html,9.02,3,4,.750,0,0,,2,2,1.000,1,3,4,3,1,0,0,0,8,11.1,+12
+2024-03-08,202403080PHI,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.43,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,1,0,1,0,1.0,+11
+2024-03-08,202403080PHI,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.43,3,5,.600,0,2,.000,0,0,,0,1,1,0,0,0,0,0,6,4.0,+11
+2024-03-08,202403080PHI,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202403080PHI.html,5.35,1,2,.500,0,1,.000,0,0,,0,3,3,1,0,0,0,0,2,2.6,+9
+2024-03-08,202403080PHI,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.7,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+12
+2024-03-08,202403080PHI,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.65,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,1,0,1,3,3.0,+12
+2024-03-08,202403080PHI,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403080PHI.html,3.57,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,+10
+2024-03-08,202403080PHI,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202403080PHI.html,3.57,2,2,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,5,5.4,+10
+2024-03-08,202403080PHI,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.25,1,2,.500,0,0,,2,2,1.000,0,0,0,1,0,1,0,1,4,4.0,-1
+2024-03-08,202403080PHI,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202403080PHI.html,9.58,1,3,.333,0,0,,4,4,1.000,1,2,3,0,1,2,0,0,6,8.0,+8
+2024-03-08,202403080PHI,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.25,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,-1
+2024-03-08,202403080PHI,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.18,2,4,.500,0,1,.000,0,0,,0,3,3,0,0,0,2,0,4,0.9,+3
+2024-03-08,202403080PHI,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.05,0,2,.000,0,0,,2,2,1.000,2,2,4,0,0,1,0,0,2,3.3,+4
+2024-03-08,202403080PHI,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.17,2,5,.400,1,4,.250,0,0,,0,1,1,1,1,0,0,1,5,3.9,+9
+2024-03-08,202403080PHI,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,5.95,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+4
+2024-03-08,202403080PHI,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403080PHI.html,3.82,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-1.5,+5
+2024-03-08,202403080PHI,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202403080PHI.html,5.75,2,2,1.000,2,2,1.000,0,0,,1,1,2,0,1,0,2,0,6,5.4,+9
+2024-03-08,202403080PHI,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.4,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,1,2,2,5,2.3,-13
+2024-03-08,202403080PHI,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.9,2,4,.500,0,0,,3,3,1.000,0,3,3,0,0,0,1,1,7,4.5,0
+2024-03-08,202403080PHI,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.8,0,1,.000,0,1,.000,1,1,1.000,0,1,1,0,0,0,0,0,1,0.6,-13
+2024-03-08,202403080PHI,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202403080PHI.html,5.92,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.8,-7
+2024-03-08,202403080PHI,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.7,0,2,.000,0,2,.000,0,0,,0,2,2,1,1,0,0,2,0,0.1,-7
+2024-03-08,202403080PHI,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.3,0,1,.000,0,1,.000,2,2,1.000,0,1,1,2,0,1,0,0,2,3.7,+1
+2024-03-08,202403080PHI,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.3,0,4,.000,0,0,,0,0,,1,1,2,0,0,0,0,1,0,-2.2,+1
+2024-03-08,202403080PHI,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.08,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,-0.4,+1
+2024-03-08,202403080PHI,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202403080PHI.html,3.6,2,2,1.000,1,1,1.000,1,1,1.000,0,1,1,0,0,1,0,0,6,6.4,+7
+2024-03-08,202403080PHI,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403080PHI.html,9.7,1,3,.333,0,0,,0,0,,0,1,1,2,0,0,0,0,2,2.0,-17
+2024-03-08,202403080PHI,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.12,1,3,.333,0,1,.000,0,0,,0,2,2,1,0,1,0,1,2,1.9,-7
+2024-03-08,202403080PHI,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.12,1,2,.500,1,1,1.000,0,0,,0,2,2,0,0,0,1,0,3,1.6,-12
+2024-03-08,202403080PHI,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.92,0,3,.000,0,3,.000,0,0,,0,0,0,1,0,0,0,1,0,-1.8,-11
+2024-03-08,202403080PHI,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202403080PHI.html,3.37,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,1,1,2,1.0,-6
+2024-03-08,202403080PHI,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.8,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,0.0,-13
+2024-03-08,202403080PHI,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.02,1,2,.500,0,0,,2,2,1.000,1,0,1,1,1,0,0,0,4,5.4,-2
+2024-03-08,202403080PHI,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.08,1,2,.500,0,1,.000,2,2,1.000,0,1,1,0,0,0,0,0,4,3.3,-4
+2024-03-08,202403080PHI,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.88,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,-3
+2024-03-08,202403080PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.43,1,5,.200,0,2,.000,0,0,,1,1,2,1,1,0,0,0,2,1.6,-11
+2024-03-08,202403080PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,10.28,2,5,.400,1,2,.500,2,4,.500,1,2,3,1,0,0,0,2,7,4.7,-18
+2024-03-08,202403080PHI,PHI,Q1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.3,0,2,.000,0,1,.000,0,0,,0,1,1,2,0,0,0,0,0,0.3,-9
+2024-03-08,202403080PHI,PHI,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202403080PHI.html,10.87,0,3,.000,0,3,.000,0,0,,0,0,0,1,1,0,2,1,0,-2.8,-19
+2024-03-08,202403080PHI,PHI,Q1,Mo Bamba,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.62,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-8
+2024-03-08,202403080PHI,PHI,Q1,Paul Reed,https://www.basketball-reference.com/boxscores/202403080PHI.html,7.38,2,6,.333,0,1,.000,0,0,,4,0,4,0,0,1,0,1,4,3.7,-13
+2024-03-08,202403080PHI,PHI,Q1,Cameron Payne,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.7,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,-12
+2024-03-08,202403080PHI,PHI,Q1,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,1.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2024-03-08,202403080PHI,PHI,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.7,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,-12
+2024-03-08,202403080PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.43,1,3,.333,0,1,.000,2,2,1.000,1,1,2,0,2,0,0,0,4,5.3,-2
+2024-03-08,202403080PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.0,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,0,1,2,1.3,-7
+2024-03-08,202403080PHI,PHI,Q2,Kyle Lowry,https://www.basketball-reference.com/boxscores/202403080PHI.html,12.0,0,1,.000,0,1,.000,1,2,.500,1,0,1,3,0,0,0,0,1,2.7,-8
+2024-03-08,202403080PHI,PHI,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202403080PHI.html,1.75,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-2
+2024-03-08,202403080PHI,PHI,Q2,Mo Bamba,https://www.basketball-reference.com/boxscores/202403080PHI.html,4.0,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,1,2,1.9,-7
+2024-03-08,202403080PHI,PHI,Q2,Paul Reed,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.0,2,4,.500,1,1,1.000,1,1,1.000,0,3,3,0,0,1,0,0,6,5.6,-1
+2024-03-08,202403080PHI,PHI,Q2,Cameron Payne,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.25,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,2,0,2,-0.7,+1
+2024-03-08,202403080PHI,PHI,Q2,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,5.75,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-9
+2024-03-08,202403080PHI,PHI,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202403080PHI.html,3.57,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-6
+2024-03-08,202403080PHI,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.25,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,2,2,-0.5,+1
+2024-03-08,202403080PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202403080PHI.html,12.0,4,7,.571,0,1,.000,1,1,1.000,1,3,4,0,0,1,0,0,9,8.0,+6
+2024-03-08,202403080PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,12.0,2,7,.286,0,1,.000,1,2,.500,0,1,1,0,0,0,1,0,5,-0.2,+6
+2024-03-08,202403080PHI,PHI,Q3,Kyle Lowry,https://www.basketball-reference.com/boxscores/202403080PHI.html,12.0,1,2,.500,1,2,.500,2,2,1.000,0,1,1,2,1,0,1,1,5,5.3,+6
+2024-03-08,202403080PHI,PHI,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202403080PHI.html,11.9,2,5,.400,2,5,.400,2,2,1.000,0,1,1,1,1,1,0,2,8,7.2,+6
+2024-03-08,202403080PHI,PHI,Q3,Mo Bamba,https://www.basketball-reference.com/boxscores/202403080PHI.html,9.7,0,0,,0,0,,0,0,,1,3,4,0,0,2,1,1,0,1.6,+11
+2024-03-08,202403080PHI,PHI,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202403080PHI.html,2.3,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-5
+2024-03-08,202403080PHI,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202403080PHI.html,0.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-03-08,202403080PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202403080PHI.html,9.7,3,4,.750,0,1,.000,0,0,,0,2,2,2,0,0,0,1,6,6.0,+17
+2024-03-08,202403080PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,8.12,2,4,.500,1,2,.500,1,1,1.000,0,3,3,0,0,0,0,1,6,4.5,+7
+2024-03-08,202403080PHI,PHI,Q4,Paul Reed,https://www.basketball-reference.com/boxscores/202403080PHI.html,12.0,3,6,.500,1,2,.500,0,0,,2,2,4,2,1,1,0,1,7,8.7,+15
+2024-03-08,202403080PHI,PHI,Q4,Cameron Payne,https://www.basketball-reference.com/boxscores/202403080PHI.html,12.0,3,5,.600,0,1,.000,3,3,1.000,0,0,0,4,1,0,0,1,9,10.1,+15
+2024-03-08,202403080PHI,PHI,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202403080PHI.html,12.0,2,2,1.000,2,2,1.000,0,0,,0,0,0,1,0,0,1,0,6,5.1,+15
+2024-03-08,202403080PHI,PHI,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202403080PHI.html,6.18,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+6

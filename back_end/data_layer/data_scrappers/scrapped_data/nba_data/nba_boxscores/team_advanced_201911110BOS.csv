@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-11,201911110BOS,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/201911110BOS.html,33:47,.669,.595,.476,.476,0.0,19.8,9.3,59.8,0.0,0.0,3.8,35.0,145,126,20.2
+2019-11-11,201911110BOS,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911110BOS.html,32:44,.638,.600,.800,.400,15.0,10.2,12.8,9.4,0.0,2.9,0.0,16.1,150,127,7.2
+2019-11-11,201911110BOS,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201911110BOS.html,26:03,.500,.500,.556,.000,0.0,17.1,8.0,6.2,0.0,0.0,18.2,18.9,83,127,-7.4
+2019-11-11,201911110BOS,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/201911110BOS.html,21:28,.167,.167,.667,.000,0.0,5.2,2.4,6.4,0.0,0.0,14.3,14.6,40,130,-19.4
+2019-11-11,201911110BOS,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201911110BOS.html,19:50,.175,.136,.364,.091,0.0,28.1,13.2,7.0,0.0,4.7,8.0,28.1,42,120,-20.5
+2019-11-11,201911110BOS,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/201911110BOS.html,29:33,.761,.857,.000,.286,16.6,0.0,8.8,17.9,0.0,3.2,11.3,13.4,149,129,4.0
+2019-11-11,201911110BOS,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911110BOS.html,27:10,.685,.643,.286,.571,7.2,20.5,13.4,11.8,1.9,0.0,0.0,14.4,154,122,4.9
+2019-11-11,201911110BOS,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/201911110BOS.html,21:11,.666,.600,.200,.800,4.6,15.8,9.9,15.0,2.4,4.4,0.0,14.3,152,119,9.4
+2019-11-11,201911110BOS,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201911110BOS.html,20:38,.365,.318,.636,.273,0.0,21.6,10.1,7.7,0.0,4.6,0.0,26.7,85,122,-7.4
+2019-11-11,201911110BOS,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/201911110BOS.html,7:36,.000,.000,.500,.000,0.0,29.4,13.7,0.0,0.0,0.0,0.0,11.8,0,124,-15.6
+2019-11-11,201911110BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/201911110BOS.html,38:09,.655,.625,.250,.438,8.8,20.5,15.0,12.7,0.0,0.0,5.0,23.8,137,116,5.2
+2019-11-11,201911110BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/201911110BOS.html,36:33,.900,.889,.778,.111,3.1,0.0,1.4,23.8,0.0,2.8,17.5,14.2,154,123,9.3
+2019-11-11,201911110BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/201911110BOS.html,34:54,.127,.056,.167,.222,9.6,14.0,12.0,13.9,1.5,0.0,4.8,26.9,55,115,-18.2
+2019-11-11,201911110BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/201911110BOS.html,33:07,.773,.765,.824,.235,0.0,14.8,7.9,25.9,0.0,3.1,13.8,29.8,133,117,15.8
+2019-11-11,201911110BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/201911110BOS.html,21:52,.955,1.000,.000,1.000,0.0,22.4,11.9,20.4,2.4,4.7,0.0,11.9,202,107,13.7
+2019-11-11,201911110BOS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/201911110BOS.html,21:04,.635,.571,.286,.286,5.3,13.9,9.9,14.3,0.0,0.0,0.0,16.9,145,118,0.6
+2019-11-11,201911110BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/201911110BOS.html,17:02,.750,.750,.000,.000,0.0,17.3,9.2,8.7,0.0,6.0,0.0,10.6,155,114,3.6
+2019-11-11,201911110BOS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/201911110BOS.html,13:25,.533,.563,.375,.125,8.3,7.3,7.8,0.0,7.7,0.0,0.0,28.5,109,103,2.7
+2019-11-11,201911110BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/201911110BOS.html,7:37,.532,.000,1.000,2.000,0.0,25.7,13.7,0.0,0.0,13.4,34.7,17.1,74,106,-5.1
+2019-11-11,201911110BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/201911110BOS.html,5:54,1.000,1.000,.000,.000,18.9,33.2,26.5,0.0,0.0,0.0,0.0,7.7,212,111,6.2
+2019-11-11,201911110BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/201911110BOS.html,5:15,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,8.6,0,124,-17.4
+2019-11-11,201911110BOS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/201911110BOS.html,5:08,.000,.000,1.000,.000,0.0,38.2,20.3,22.8,0.0,0.0,0.0,8.8,62,108,-10.8

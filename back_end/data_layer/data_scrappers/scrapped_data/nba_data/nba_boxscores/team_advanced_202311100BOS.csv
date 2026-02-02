@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-10,202311100BOS,BRK,Mikal Bridges,https://www.basketball-reference.com/boxscores/202311100BOS.html,27:41,.487,.409,.545,.273,0.0,16.1,8.8,5.6,0.0,0.0,14.0,24.1,88,129,-10.0
+2023-11-10,202311100BOS,BRK,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202311100BOS.html,27:29,.750,.750,.833,.000,7.9,3.2,5.3,10.7,0.0,4.2,0.0,10.2,160,133,3.6
+2023-11-10,202311100BOS,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202311100BOS.html,26:50,.500,.500,1.000,.000,0.0,9.9,5.5,19.8,0.0,0.0,25.0,7.0,109,132,-4.0
+2023-11-10,202311100BOS,BRK,Cameron Johnson,https://www.basketball-reference.com/boxscores/202311100BOS.html,25:21,.423,.423,.462,.000,8.6,10.5,9.7,0.0,0.0,0.0,7.1,25.8,86,131,-10.2
+2023-11-10,202311100BOS,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202311100BOS.html,19:56,.685,.643,.857,.571,0.0,17.8,9.8,31.3,0.0,0.0,18.6,25.2,121,128,3.0
+2023-11-10,202311100BOS,BRK,Trendon Watford,https://www.basketball-reference.com/boxscores/202311100BOS.html,27:12,.589,.545,.091,.182,12.0,13.1,12.6,19.3,0.0,4.2,0.0,20.4,138,128,2.8
+2023-11-10,202311100BOS,BRK,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202311100BOS.html,26:57,.595,.500,.100,.400,4.0,9.9,7.3,42.9,0.0,0.0,0.0,20.4,147,132,3.1
+2023-11-10,202311100BOS,BRK,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202311100BOS.html,20:16,.804,.792,.333,.083,0.0,30.7,16.9,49.7,0.0,5.6,0.0,28.6,161,119,25.3
+2023-11-10,202311100BOS,BRK,Armoni Brooks,https://www.basketball-reference.com/boxscores/202311100BOS.html,19:16,.000,.000,.600,.000,5.7,13.8,10.2,0.0,0.0,0.0,16.7,14.5,15,130,-19.1
+2023-11-10,202311100BOS,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202311100BOS.html,13:10,.434,.250,.250,1.000,0.0,20.3,11.2,10.6,0.0,0.0,25.8,27.5,74,126,-14.4
+2023-11-10,202311100BOS,BRK,Harry Giles,https://www.basketball-reference.com/boxscores/202311100BOS.html,5:51,1.167,1.167,.333,.000,0.0,15.2,8.4,0.0,0.0,0.0,25.0,31.9,128,129,16.2
+2023-11-10,202311100BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202311100BOS.html,33:18,.549,.471,.647,.529,2.7,29.5,14.7,13.4,0.0,0.0,8.7,29.2,115,115,0.6
+2023-11-10,202311100BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202311100BOS.html,32:50,.464,.464,.357,.000,8.1,29.9,17.9,40.8,3.1,0.0,0.0,18.1,137,108,7.8
+2023-11-10,202311100BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202311100BOS.html,29:29,.660,.658,.474,.263,0.0,11.1,5.0,32.9,1.7,0.0,12.4,34.8,120,116,10.5
+2023-11-10,202311100BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202311100BOS.html,26:49,.506,.500,.500,.200,0.0,16.3,7.3,26.4,0.0,3.7,0.0,17.2,128,116,1.3
+2023-11-10,202311100BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202311100BOS.html,24:40,.726,.500,.500,1.250,0.0,8.8,4.0,10.5,0.0,4.1,0.0,10.6,170,118,0.3
+2023-11-10,202311100BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202311100BOS.html,30:28,.597,.600,.700,.200,11.7,3.6,8.0,14.3,1.7,0.0,0.0,15.1,147,118,3.8
+2023-11-10,202311100BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202311100BOS.html,24:38,.750,.750,1.000,.000,3.6,4.4,4.0,6.2,0.0,0.0,0.0,17.2,152,122,6.6
+2023-11-10,202311100BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202311100BOS.html,17:53,.643,.600,.000,.200,29.8,18.3,24.6,8.1,0.0,5.6,0.0,12.9,170,114,4.6
+2023-11-10,202311100BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202311100BOS.html,8:35,.000,.000,1.000,.000,0.0,12.7,5.7,0.0,0.0,0.0,66.7,14.8,0,120,-27.2
+2023-11-10,202311100BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202311100BOS.html,7:46,.210,.000,.667,1.333,11.4,28.1,18.9,0.0,6.6,0.0,0.0,26.0,66,99,-17.3
+2023-11-10,202311100BOS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202311100BOS.html,3:32,.000,.000,.000,.000,25.2,0.0,13.9,0.0,0.0,0.0,0.0,12.0,73,123,-14.7

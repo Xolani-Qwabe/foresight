@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-04-26,202504260MIA,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202504260MIA.html,31:33,.707,.692,.308,.077,4.1,20.0,12.2,13.5,1.7,3.6,13.0,22.2,131,93,7.4
+2025-04-26,202504260MIA,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202504260MIA.html,31:22,.692,.692,.692,.000,12.4,24.2,18.4,21.7,0.0,0.0,0.0,18.8,164,99,9.9
+2025-04-26,202504260MIA,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202504260MIA.html,29:58,.401,.393,.571,.357,4.3,4.2,4.3,4.0,0.0,0.0,5.8,26.0,92,103,-11.4
+2025-04-26,202504260MIA,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202504260MIA.html,25:56,.945,.889,.000,.667,10.0,39.0,24.7,5.9,0.0,0.0,7.9,22.1,180,97,13.3
+2025-04-26,202504260MIA,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202504260MIA.html,19:10,.000,.000,1.000,.000,6.8,6.6,6.7,5.4,0.0,0.0,25.0,9.5,42,103,-13.2
+2025-04-26,202504260MIA,CLE,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202504260MIA.html,28:24,.987,.938,.625,.750,0.0,17.8,9.0,14.1,1.9,0.0,15.8,20.2,166,96,13.6
+2025-04-26,202504260MIA,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202504260MIA.html,21:49,.000,.000,1.000,.000,5.9,17.4,11.7,9.6,0.0,0.0,33.3,6.2,67,101,-6.0
+2025-04-26,202504260MIA,CLE,Ty Jerome,https://www.basketball-reference.com/boxscores/202504260MIA.html,21:45,.547,.500,.273,.182,6.0,11.6,8.8,69.4,4.9,0.0,0.0,24.8,158,90,20.1
+2025-04-26,202504260MIA,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202504260MIA.html,8:59,.750,.750,.500,.000,14.4,0.0,7.1,21.7,0.0,0.0,0.0,30.3,159,103,8.5
+2025-04-26,202504260MIA,CLE,Javonte Green,https://www.basketball-reference.com/boxscores/202504260MIA.html,5:16,.333,.333,.667,.000,24.6,0.0,12.2,24.7,10.1,0.0,0.0,25.8,115,80,6.4
+2025-04-26,202504260MIA,CLE,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202504260MIA.html,5:16,,,,,0.0,0.0,0.0,19.8,10.1,0.0,100.0,8.6,52,80,4.2
+2025-04-26,202504260MIA,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/202504260MIA.html,5:16,,,,,0.0,48.0,24.3,0.0,0.0,0.0,,0.0,0,96,0.2
+2025-04-26,202504260MIA,CLE,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202504260MIA.html,5:16,.875,.875,.250,.000,24.6,24.0,24.3,97.7,10.1,0.0,0.0,34.5,190,75,53.6
+2025-04-26,202504260MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202504260MIA.html,40:12,.550,.550,.350,.000,12.6,16.1,14.3,5.6,0.0,0.0,23.1,31.9,87,140,-7.3
+2025-04-26,202504260MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202504260MIA.html,36:33,.468,.423,.231,.154,0.0,14.2,7.0,15.5,1.5,0.0,17.8,22.8,85,137,-8.4
+2025-04-26,202504260MIA,MIA,Davion Mitchell,https://www.basketball-reference.com/boxscores/202504260MIA.html,36:32,.699,.727,.182,.091,0.0,14.2,7.0,28.8,1.5,2.9,0.0,15.4,149,136,5.5
+2025-04-26,202504260MIA,MIA,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202504260MIA.html,33:26,.425,.400,.400,.400,0.0,3.9,1.9,15.6,0.0,6.2,14.5,20.3,83,141,-6.0
+2025-04-26,202504260MIA,MIA,Kel'el Ware,https://www.basketball-reference.com/boxscores/202504260MIA.html,18:37,.800,.800,.600,.000,0.0,34.8,17.2,21.3,0.0,0.0,16.7,15.9,132,135,6.4
+2025-04-26,202504260MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202504260MIA.html,19:23,.214,.214,.857,.000,0.0,20.1,9.9,16.8,2.7,0.0,12.5,20.3,53,133,-11.0
+2025-04-26,202504260MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202504260MIA.html,17:51,1.293,1.500,1.000,3.000,0.0,0.0,0.0,0.0,0.0,0.0,30.1,9.2,166,145,-4.0
+2025-04-26,202504260MIA,MIA,Pelle Larsson,https://www.basketball-reference.com/boxscores/202504260MIA.html,16:41,.600,.600,.800,.000,7.6,7.8,7.7,11.0,3.2,0.0,16.7,17.7,106,136,2.5
+2025-04-26,202504260MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202504260MIA.html,15:20,.375,.375,1.000,.000,0.0,8.5,4.2,10.8,6.9,0.0,0.0,12.9,87,126,-2.8
+2025-04-26,202504260MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202504260MIA.html,5:25,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,9.1,0,145,-19.2

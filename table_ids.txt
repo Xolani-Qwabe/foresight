@@ -1,0 +1,32 @@
+[Primeira Liga]
+Link = https://fbref.com/en/comps/32/Primeira-Liga-Stats
+    Overall = results2025-2026321_overall
+    HomeAway = results2025-2026321_home_away
+    Squad_Stats = stats_squads_standard_for
+    Squad_Opponents_Stats = stats_squads_standard_for_against
+    Squad_GoalKeeping_Stats = stats_squads_keeper_for
+    Squad_GoalKeeping_Opponent_Stats= stats_squads_keeper_against
+    Squad_Advanced_Goalkeeping_Stats = stats_squads_keeper_adv_for
+    Squad_Advanced_Goalkeeping_Opponent_Stats = stats_squads_keeper_adv_against
+    Squad_Shooting_Stats = stats_squads_shooting_for
+    Squad_Shooting_Opponent_Stats = #stats_squads_shooting_against
+    Squad_Passing_Stats = stats_squads_passing_for
+    Squad_Passing_Opponent_Stats = stats_squads_passing_against
+    Squad_Pass_Types_Stats = stats_squads_passing_types_for
+    Squad_Pass_Types_Opponent_Stats = stats_squads_passing_types_against
+    Squad_Goal_and_Shot_Creation_Stats = stats_squads_gca_for
+    Squad_Goal_and_Shot_Creation_Opponent_Stats = stats_squads_gca_against
+    Squad_Defensive_Actions_Stats = stats_squads_defense_for
+    Squad_Defensive_Actions_Opponent_Stats = stats_squads_defense_against
+    Squad_Possession_Stats = stats_squads_possession_for
+    Squad_Possession_Opponent_Stats = stats_squads_possession_against
+    Squad_Playing_Time_Stats = stats_squads_playing_time_for
+    Squad_Playing_Time_Opponent_Stats = stats_squads_playing_time_against
+    Squad_Miscellaneous_Stats = stats_squads_misc_for
+    Squad_Miscellaneous_Opponent_Stats = stats_squads_misc_against
+
+[Primeira Liga Scores & Fixtures]
+Link = https://fbref.com/en/comps/32/schedule/Primeira-Liga-Scores-and-Fixtures
+    Scores_&_Fixtures = sched_2025-2026_32_1
+    Match_Report = #sched_2025-2026_32_1 > tbody > tr:nth-child(1) > td:nth-child(13)
+                = #sched_2025-2026_32_1 > tbody > tr:nth-child(1) > td:nth-child(13) > a

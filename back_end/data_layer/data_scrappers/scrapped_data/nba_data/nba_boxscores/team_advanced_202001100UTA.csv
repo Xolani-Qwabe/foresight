@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-10,202001100UTA,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202001100UTA.html,31:14,.773,.750,.286,.143,12.1,7.9,10.0,29.0,1.7,0.0,11.8,25.1,141,120,12.9
+2020-01-10,202001100UTA,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202001100UTA.html,29:02,.564,.563,.500,.500,4.4,12.7,8.6,11.6,1.8,8.9,33.9,23.6,79,114,-4.1
+2020-01-10,202001100UTA,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202001100UTA.html,27:25,.595,.500,.600,.400,0.0,9.0,4.5,5.6,1.9,0.0,33.8,15.0,81,119,-8.6
+2020-01-10,202001100UTA,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/202001100UTA.html,25:28,.222,.222,.444,.000,0.0,9.7,4.9,30.2,2.0,0.0,35.7,25.5,48,119,-17.6
+2020-01-10,202001100UTA,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202001100UTA.html,16:37,.592,.400,.000,.800,15.2,51.8,33.8,19.8,3.1,0.0,0.0,18.9,143,106,7.0
+2020-01-10,202001100UTA,CHO,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202001100UTA.html,18:11,.820,.875,.250,.500,0.0,6.8,3.4,0.0,0.0,0.0,17.0,15.0,122,125,-1.2
+2020-01-10,202001100UTA,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/202001100UTA.html,16:00,.318,.333,.222,.111,7.9,0.0,3.9,0.0,0.0,0.0,9.6,30.3,63,126,-17.6
+2020-01-10,202001100UTA,CHO,Marvin Williams,https://www.basketball-reference.com/boxscores/202001100UTA.html,15:36,.387,.333,.667,.667,0.0,15.8,8.0,0.0,3.3,8.3,20.5,14.5,63,109,-6.9
+2020-01-10,202001100UTA,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202001100UTA.html,14:57,.000,.000,.333,.000,0.0,0.0,0.0,27.5,0.0,0.0,25.0,12.4,41,126,-11.6
+2020-01-10,202001100UTA,CHO,Nicolas Batum,https://www.basketball-reference.com/boxscores/202001100UTA.html,13:47,.500,.500,.667,.000,0.0,26.8,13.6,0.0,0.0,0.0,0.0,10.1,99,120,-5.2
+2020-01-10,202001100UTA,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/202001100UTA.html,13:11,.250,.250,.500,.000,0.0,9.3,4.7,11.6,0.0,0.0,0.0,14.1,66,124,-12.0
+2020-01-10,202001100UTA,CHO,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202001100UTA.html,10:11,1.090,1.083,.167,.333,0.0,72.5,36.7,70.2,0.0,0.0,12.7,35.9,177,109,38.5
+2020-01-10,202001100UTA,CHO,Michael Kidd-Gilchrist,https://www.basketball-reference.com/boxscores/202001100UTA.html,8:21,.500,.500,.000,.000,0.0,14.7,7.5,19.7,0.0,0.0,0.0,11.1,118,123,0.6
+2020-01-10,202001100UTA,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202001100UTA.html,29:07,.638,.600,.000,.400,8.5,47.7,27.8,16.4,1.8,16.8,7.8,21.0,134,84,11.3
+2020-01-10,202001100UTA,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202001100UTA.html,25:16,.810,.778,.889,.222,0.0,15.0,7.4,18.7,0.0,0.0,23.3,24.4,121,105,2.3
+2020-01-10,202001100UTA,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202001100UTA.html,24:20,1.215,1.250,.500,1.000,10.1,20.8,15.4,16.4,4.3,4.0,25.8,7.6,190,92,11.3
+2020-01-10,202001100UTA,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202001100UTA.html,22:20,.222,.222,.333,.000,0.0,5.7,2.8,24.1,4.7,0.0,18.2,23.6,64,97,-14.6
+2020-01-10,202001100UTA,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202001100UTA.html,21:19,.799,.750,.833,.333,0.0,0.0,0.0,20.3,2.4,0.0,22.5,20.0,128,103,3.6
+2020-01-10,202001100UTA,UTA,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/202001100UTA.html,28:00,.500,.500,.500,.000,0.0,13.5,6.7,31.0,1.9,0.0,0.0,17.1,130,102,2.0
+2020-01-10,202001100UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202001100UTA.html,25:43,.630,.633,.600,.133,4.8,14.7,9.7,14.9,2.0,0.0,5.9,31.5,120,101,2.8
+2020-01-10,202001100UTA,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202001100UTA.html,19:54,.833,.833,1.000,.000,6.2,12.7,9.4,17.3,0.0,0.0,0.0,21.7,164,106,12.9
+2020-01-10,202001100UTA,UTA,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202001100UTA.html,16:47,.500,.500,.000,.000,0.0,0.0,0.0,7.7,3.1,0.0,33.3,8.6,80,101,-7.0
+2020-01-10,202001100UTA,UTA,Tony Bradley,https://www.basketball-reference.com/boxscores/202001100UTA.html,13:17,.868,1.000,.000,1.000,27.8,19.0,23.5,11.0,0.0,0.0,41.0,17.6,122,104,-4.7
+2020-01-10,202001100UTA,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/202001100UTA.html,8:21,.500,.500,.500,.000,0.0,15.1,7.5,0.0,0.0,0.0,20.0,28.7,72,106,-14.9
+2020-01-10,202001100UTA,UTA,Ed Davis,https://www.basketball-reference.com/boxscores/202001100UTA.html,5:36,.000,.000,.000,.000,0.0,22.6,11.1,0.0,0.0,0.0,50.0,17.1,0,103,-29.5

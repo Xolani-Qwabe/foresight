@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-12-22,202312220MIA,ATL,Q1,Trae Young,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.38,3,4,.750,1,2,.500,1,1,1.000,0,1,1,2,0,0,2,0,8,6.1,-10
+2023-12-22,202312220MIA,ATL,Q1,Saddiq Bey,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.38,2,6,.333,1,4,.250,0,0,,0,2,2,0,1,0,1,0,5,2.2,-10
+2023-12-22,202312220MIA,ATL,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.15,4,4,1.000,1,1,1.000,0,1,.000,0,2,2,1,0,0,0,0,9,8.7,-6
+2023-12-22,202312220MIA,ATL,Q1,Clint Capela,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.15,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-6
+2023-12-22,202312220MIA,ATL,Q1,Garrison Mathews,https://www.basketball-reference.com/boxscores/202312220MIA.html,5.53,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-9
+2023-12-22,202312220MIA,ATL,Q1,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.47,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,0,3,2.7,+2
+2023-12-22,202312220MIA,ATL,Q1,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.47,0,1,.000,0,1,.000,1,2,.500,0,2,2,0,0,0,0,0,1,0.5,+2
+2023-12-22,202312220MIA,ATL,Q1,Patty Mills,https://www.basketball-reference.com/boxscores/202312220MIA.html,2.62,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,+3
+2023-12-22,202312220MIA,ATL,Q1,Wesley Matthews,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.85,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-1
+2023-12-22,202312220MIA,ATL,Q2,Trae Young,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.75,0,3,.000,0,1,.000,0,0,,0,1,1,7,0,0,1,0,0,2.1,+2
+2023-12-22,202312220MIA,ATL,Q2,Saddiq Bey,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.75,1,2,.500,0,1,.000,2,2,1.000,1,2,3,1,0,0,0,1,4,4.6,+2
+2023-12-22,202312220MIA,ATL,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202312220MIA.html,7.48,1,5,.200,0,2,.000,0,0,,0,2,2,1,1,0,1,0,2,0.2,+6
+2023-12-22,202312220MIA,ATL,Q2,Clint Capela,https://www.basketball-reference.com/boxscores/202312220MIA.html,7.48,1,1,1.000,0,0,,2,2,1.000,1,1,2,0,0,0,0,1,4,4.3,+6
+2023-12-22,202312220MIA,ATL,Q2,Garrison Mathews,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.75,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2023-12-22,202312220MIA,ATL,Q2,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202312220MIA.html,12.0,6,9,.667,5,7,.714,0,0,,0,1,1,1,0,0,0,0,17,14.1,+5
+2023-12-22,202312220MIA,ATL,Q2,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.77,2,3,.667,0,0,,0,0,,1,1,2,0,0,1,0,0,4,4.4,+2
+2023-12-22,202312220MIA,ATL,Q2,Patty Mills,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.02,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+1
+2023-12-22,202312220MIA,ATL,Q3,Trae Young,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.53,2,7,.286,2,4,.500,0,0,,0,1,1,2,1,0,1,1,6,3.2,+4
+2023-12-22,202312220MIA,ATL,Q3,Saddiq Bey,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.52,2,4,.500,1,2,.500,0,0,,1,2,3,0,1,0,1,0,5,4.3,+3
+2023-12-22,202312220MIA,ATL,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.88,2,4,.500,1,2,.500,1,2,.500,0,3,3,3,2,0,0,0,6,8.6,+2
+2023-12-22,202312220MIA,ATL,Q3,Clint Capela,https://www.basketball-reference.com/boxscores/202312220MIA.html,5.78,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,2,1.2,+5
+2023-12-22,202312220MIA,ATL,Q3,Garrison Mathews,https://www.basketball-reference.com/boxscores/202312220MIA.html,5.42,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-0.1,+6
+2023-12-22,202312220MIA,ATL,Q3,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.58,1,6,.167,0,3,.000,1,2,.500,1,0,1,2,0,0,0,0,3,0.9,-6
+2023-12-22,202312220MIA,ATL,Q3,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.58,2,2,1.000,0,0,,0,0,,0,0,0,1,0,1,0,1,4,4.4,-6
+2023-12-22,202312220MIA,ATL,Q3,Patty Mills,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.58,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,1,3,0,-2.2,-6
+2023-12-22,202312220MIA,ATL,Q3,Wesley Matthews,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.12,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2023-12-22,202312220MIA,ATL,Q4,Trae Young,https://www.basketball-reference.com/boxscores/202312220MIA.html,12.0,5,8,.625,4,6,.667,2,2,1.000,0,0,0,2,1,0,2,0,16,12.8,-7
+2023-12-22,202312220MIA,ATL,Q4,Saddiq Bey,https://www.basketball-reference.com/boxscores/202312220MIA.html,12.0,1,2,.500,0,1,.000,0,0,,0,2,2,1,0,0,0,1,2,1.9,-7
+2023-12-22,202312220MIA,ATL,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.93,3,7,.429,1,4,.250,0,0,,1,0,1,1,0,0,1,0,7,3.7,-5
+2023-12-22,202312220MIA,ATL,Q4,Clint Capela,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.27,1,1,1.000,0,0,,0,0,,2,4,6,0,0,0,1,1,2,2.9,+1
+2023-12-22,202312220MIA,ATL,Q4,Garrison Mathews,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.75,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,0
+2023-12-22,202312220MIA,ATL,Q4,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202312220MIA.html,10.32,0,7,.000,0,6,.000,0,0,,0,0,0,1,1,0,0,3,0,-4.4,-9
+2023-12-22,202312220MIA,ATL,Q4,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202312220MIA.html,5.73,0,1,.000,0,0,,0,0,,3,0,3,0,1,0,0,2,0,1.6,-8
+2023-12-22,202312220MIA,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/202312220MIA.html,7.5,2,3,.667,0,1,.000,0,2,.000,0,0,0,0,0,0,0,0,4,1.9,+9
+2023-12-22,202312220MIA,MIA,Q1,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202312220MIA.html,7.5,2,2,1.000,0,0,,0,0,,1,0,1,0,0,0,0,1,4,3.7,+9
+2023-12-22,202312220MIA,MIA,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.75,1,3,.333,0,0,,1,1,1.000,1,2,3,2,0,0,0,0,3,4.0,+3
+2023-12-22,202312220MIA,MIA,Q1,Tyler Herro,https://www.basketball-reference.com/boxscores/202312220MIA.html,11.22,5,7,.714,3,5,.600,1,1,1.000,0,3,3,2,1,0,1,0,14,13.4,+5
+2023-12-22,202312220MIA,MIA,Q1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.75,1,2,.500,1,2,.500,0,0,,0,3,3,0,0,0,1,0,3,1.9,+3
+2023-12-22,202312220MIA,MIA,Q1,Josh Richardson,https://www.basketball-reference.com/boxscores/202312220MIA.html,5.28,1,3,.333,0,2,.000,0,0,,0,0,0,0,1,0,0,0,2,1.3,0
+2023-12-22,202312220MIA,MIA,Q1,Duncan Robinson,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.25,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,1,0,3,2.7,+4
+2023-12-22,202312220MIA,MIA,Q1,Kevin Love,https://www.basketball-reference.com/boxscores/202312220MIA.html,4.5,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,2,0,-2.2,-2
+2023-12-22,202312220MIA,MIA,Q1,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.25,0,3,.000,0,1,.000,0,0,,2,1,3,1,0,0,0,1,0,-0.1,+4
+2023-12-22,202312220MIA,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.78,3,4,.750,0,0,,0,0,,0,2,2,1,1,0,1,1,6,5.3,-2
+2023-12-22,202312220MIA,MIA,Q2,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.62,4,5,.800,1,1,1.000,2,3,.667,0,0,0,0,0,1,0,0,11,9.4,0
+2023-12-22,202312220MIA,MIA,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.25,2,2,1.000,1,1,1.000,0,0,,1,1,2,0,1,0,0,1,5,6.0,-4
+2023-12-22,202312220MIA,MIA,Q2,Tyler Herro,https://www.basketball-reference.com/boxscores/202312220MIA.html,5.23,1,4,.250,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,-0.8,-3
+2023-12-22,202312220MIA,MIA,Q2,Kyle Lowry,https://www.basketball-reference.com/boxscores/202312220MIA.html,4.77,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,-3
+2023-12-22,202312220MIA,MIA,Q2,Josh Richardson,https://www.basketball-reference.com/boxscores/202312220MIA.html,7.23,0,1,.000,0,1,.000,0,0,,0,2,2,1,0,0,1,0,0,-0.4,-2
+2023-12-22,202312220MIA,MIA,Q2,Duncan Robinson,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.77,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,1,0,0,-1.4,-2
+2023-12-22,202312220MIA,MIA,Q2,Kevin Love,https://www.basketball-reference.com/boxscores/202312220MIA.html,2.22,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+2023-12-22,202312220MIA,MIA,Q2,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.13,2,3,.667,1,2,.500,0,0,,1,1,2,1,0,0,0,1,5,5.0,-6
+2023-12-22,202312220MIA,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.78,0,3,.000,0,0,,4,4,1.000,2,2,4,1,0,0,3,1,4,1.2,-4
+2023-12-22,202312220MIA,MIA,Q3,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202312220MIA.html,11.88,1,6,.167,0,0,,2,2,1.000,2,2,4,0,1,0,0,1,4,2.8,-1
+2023-12-22,202312220MIA,MIA,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202312220MIA.html,6.15,1,3,.333,1,2,.500,0,0,,0,2,2,0,0,1,0,1,3,2.2,-7
+2023-12-22,202312220MIA,MIA,Q3,Tyler Herro,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.88,2,5,.400,1,3,.333,0,1,.000,0,2,2,0,0,0,2,0,5,0.5,-2
+2023-12-22,202312220MIA,MIA,Q3,Kyle Lowry,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.02,0,0,,0,0,,0,0,,0,1,1,2,0,0,1,1,0,0.3,+9
+2023-12-22,202312220MIA,MIA,Q3,Josh Richardson,https://www.basketball-reference.com/boxscores/202312220MIA.html,9.37,0,0,,0,0,,1,1,1.000,0,0,0,0,0,0,0,0,1,1.0,-2
+2023-12-22,202312220MIA,MIA,Q3,Duncan Robinson,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.33,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.7,+5
+2023-12-22,202312220MIA,MIA,Q3,Kevin Love,https://www.basketball-reference.com/boxscores/202312220MIA.html,3.22,1,1,1.000,1,1,1.000,3,4,.750,0,0,0,1,0,0,0,1,6,5.6,+4
+2023-12-22,202312220MIA,MIA,Q3,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202312220MIA.html,0.37,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2023-12-22,202312220MIA,MIA,Q4,Bam Adebayo,https://www.basketball-reference.com/boxscores/202312220MIA.html,12.0,0,4,.000,0,0,,4,4,1.000,0,5,5,4,1,0,2,0,4,4.5,+7
+2023-12-22,202312220MIA,MIA,Q4,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.27,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,2,2,0,-1.8,+3
+2023-12-22,202312220MIA,MIA,Q4,Caleb Martin,https://www.basketball-reference.com/boxscores/202312220MIA.html,12.0,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-1.2,+7
+2023-12-22,202312220MIA,MIA,Q4,Tyler Herro,https://www.basketball-reference.com/boxscores/202312220MIA.html,8.78,3,5,.600,3,4,.750,0,0,,0,2,2,0,0,0,1,0,9,6.3,+7
+2023-12-22,202312220MIA,MIA,Q4,Josh Richardson,https://www.basketball-reference.com/boxscores/202312220MIA.html,7.03,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+4
+2023-12-22,202312220MIA,MIA,Q4,Duncan Robinson,https://www.basketball-reference.com/boxscores/202312220MIA.html,11.92,6,7,.857,2,3,.667,7,7,1.000,1,0,1,1,0,0,0,0,21,19.9,+7

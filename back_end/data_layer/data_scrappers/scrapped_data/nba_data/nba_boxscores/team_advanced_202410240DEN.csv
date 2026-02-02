@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-10-24,202410240DEN,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202410240DEN.html,36:12,.534,.500,.250,.208,5.0,12.5,8.8,37.3,2.6,6.6,7.1,31.6,115,86,17.8
+2024-10-24,202410240DEN,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202410240DEN.html,35:47,.619,.611,.278,.278,10.1,25.3,17.7,23.7,2.7,8.9,9.0,25.2,125,78,16.9
+2024-10-24,202410240DEN,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202410240DEN.html,33:43,.365,.375,.500,.063,2.7,5.4,4.0,11.9,0.0,4.7,23.3,25.8,65,96,-8.3
+2024-10-24,202410240DEN,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202410240DEN.html,28:35,.336,.286,.286,.143,3.2,3.2,3.2,0.0,5.0,2.8,0.0,10.6,81,87,-1.1
+2024-10-24,202410240DEN,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202410240DEN.html,20:24,.350,.350,.600,.000,4.4,4.4,4.4,6.5,0.0,0.0,0.0,19.9,85,99,-4.7
+2024-10-24,202410240DEN,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202410240DEN.html,23:02,.286,.286,.143,.000,7.9,7.9,7.9,0.0,4.2,0.0,0.0,12.3,77,88,-2.7
+2024-10-24,202410240DEN,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202410240DEN.html,19:31,.833,.833,.222,.000,0.0,27.8,13.9,9.5,0.0,8.2,10.0,20.8,141,83,16.6
+2024-10-24,202410240DEN,OKC,Alex Caruso,https://www.basketball-reference.com/boxscores/202410240DEN.html,19:05,.000,.000,.500,.000,9.5,19.0,14.2,23.4,0.0,0.0,33.3,6.4,79,91,-4.3
+2024-10-24,202410240DEN,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202410240DEN.html,13:15,.750,.750,.750,.000,0.0,20.5,10.3,0.0,0.0,6.0,0.0,12.3,147,88,8.8
+2024-10-24,202410240DEN,OKC,Ajay Mitchell,https://www.basketball-reference.com/boxscores/202410240DEN.html,6:51,.000,.000,.333,.000,0.0,13.2,6.6,16.3,0.0,0.0,25.0,23.7,14,95,-22.2
+2024-10-24,202410240DEN,OKC,Alex Ducas,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,102,-6.0
+2024-10-24,202410240DEN,OKC,Adam Flagler,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,102,-5.2
+2024-10-24,202410240DEN,OKC,Dillon Jones,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:11,.000,.000,1.000,.000,0.0,76.5,38.3,0.0,0.0,0.0,0.0,34.3,0,61,-28.4
+2024-10-24,202410240DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202410240DEN.html,38:27,.432,.385,.385,.154,4.7,9.4,7.1,16.6,2.5,0.0,17.8,17.5,87,104,-3.5
+2024-10-24,202410240DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202410240DEN.html,35:12,.542,.500,.231,.308,10.3,20.6,15.4,66.1,2.7,2.1,16.9,20.2,117,99,14.3
+2024-10-24,202410240DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202410240DEN.html,32:33,.466,.417,.083,.167,13.9,11.1,12.5,10.7,1.5,0.0,13.4,18.3,98,106,-1.8
+2024-10-24,202410240DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202410240DEN.html,32:10,.419,.382,.588,.118,2.8,19.7,11.3,10.8,1.5,0.0,5.3,23.4,93,103,-0.6
+2024-10-24,202410240DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202410240DEN.html,29:06,.533,.533,.200,.000,6.2,15.6,10.9,7.6,3.3,5.1,16.7,24.7,89,97,4.0
+2024-10-24,202410240DEN,DEN,Russell Westbrook,https://www.basketball-reference.com/boxscores/202410240DEN.html,21:15,.255,.250,.600,.400,4.3,17.0,10.7,37.1,2.3,7.0,14.5,25.9,66,98,0.8
+2024-10-24,202410240DEN,DEN,Julian Strawther,https://www.basketball-reference.com/boxscores/202410240DEN.html,17:15,.500,.500,.333,.000,0.0,0.0,0.0,10.4,2.8,0.0,14.3,16.2,88,107,-4.7
+2024-10-24,202410240DEN,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202410240DEN.html,14:47,.143,.143,.571,.000,12.3,24.5,18.4,10.2,0.0,10.0,0.0,18.9,54,98,-4.7
+2024-10-24,202410240DEN,DEN,Dario Šarić,https://www.basketball-reference.com/boxscores/202410240DEN.html,11:02,.500,.500,.500,.000,0.0,8.2,4.1,0.0,4.3,0.0,0.0,7.2,104,101,-3.2
+2024-10-24,202410240DEN,DEN,Trey Alexander,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:38,,,,,0.0,55.4,27.7,0.0,0.0,0.0,,0.0,0,94,-4.9
+2024-10-24,202410240DEN,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:38,,,,,0.0,55.4,27.7,0.0,0.0,0.0,,0.0,0,94,-4.2
+2024-10-24,202410240DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:38,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.5,0,113,-27.2
+2024-10-24,202410240DEN,DEN,Jalen Pickett,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:38,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.5,0,113,-27.4
+2024-10-24,202410240DEN,DEN,Hunter Tyson,https://www.basketball-reference.com/boxscores/202410240DEN.html,1:38,.000,.000,1.000,.000,0.0,55.4,27.7,0.0,0.0,0.0,0.0,24.5,0,94,-22.6

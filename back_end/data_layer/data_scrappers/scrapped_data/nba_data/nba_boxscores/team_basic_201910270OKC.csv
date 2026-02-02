@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2019-10-27,201910270OKC,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/201910270OKC.html,30.13,7,18,.389,2,9,.222,7,7,1.000,2,6,8,5,0,0,2,0,23,17.9,-30
+2019-10-27,201910270OKC,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/201910270OKC.html,23.95,4,9,.444,1,4,.250,1,1,1.000,0,5,5,2,2,0,1,2,10,8.4,-23
+2019-10-27,201910270OKC,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/201910270OKC.html,23.17,3,7,.429,0,1,.000,4,6,.667,2,2,4,3,4,0,3,3,10,9.4,-28
+2019-10-27,201910270OKC,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201910270OKC.html,22.38,3,10,.300,0,1,.000,0,0,,0,1,1,2,0,0,2,2,6,-0.9,-23
+2019-10-27,201910270OKC,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201910270OKC.html,20.77,1,7,.143,0,3,.000,1,2,.500,4,2,6,0,2,0,2,1,3,1.1,-29
+2019-10-27,201910270OKC,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/201910270OKC.html,24.82,4,10,.400,1,3,.333,0,0,,3,4,7,2,3,2,1,2,9,10.9,+1
+2019-10-27,201910270OKC,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/201910270OKC.html,24.07,4,6,.667,0,1,.000,2,2,1.000,1,2,3,1,0,0,0,1,10,9.0,-6
+2019-10-27,201910270OKC,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/201910270OKC.html,23.45,1,9,.111,1,5,.200,3,3,1.000,0,2,2,1,1,0,2,1,6,0.0,+4
+2019-10-27,201910270OKC,GSW,Jacob Evans,https://www.basketball-reference.com/boxscores/201910270OKC.html,18.25,0,3,.000,0,2,.000,4,4,1.000,0,0,0,1,0,0,1,1,4,1.2,-13
+2019-10-27,201910270OKC,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/201910270OKC.html,17.02,1,5,.200,0,3,.000,4,5,.800,0,3,3,0,1,0,0,2,6,3.6,-2
+2019-10-27,201910270OKC,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/201910270OKC.html,12.0,2,8,.250,0,1,.000,1,1,1.000,0,0,0,0,0,0,0,0,5,0.2,+9
+2019-10-27,201910270OKC,OKC,Terrance Ferguson,https://www.basketball-reference.com/boxscores/201910270OKC.html,29.83,5,7,.714,3,4,.750,0,0,,0,2,2,4,0,0,1,2,13,11.7,+30
+2019-10-27,201910270OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/201910270OKC.html,29.67,8,14,.571,1,5,.200,2,4,.500,0,9,9,4,0,2,3,1,19,15.1,+27
+2019-10-27,201910270OKC,OKC,Steven Adams,https://www.basketball-reference.com/boxscores/201910270OKC.html,25.4,4,8,.500,0,0,,0,2,.000,5,5,10,3,0,0,1,2,8,8.5,+26
+2019-10-27,201910270OKC,OKC,Danilo Gallinari,https://www.basketball-reference.com/boxscores/201910270OKC.html,21.68,5,11,.455,4,9,.444,7,7,1.000,0,1,1,0,0,1,3,1,21,12.9,+22
+2019-10-27,201910270OKC,OKC,Chris Paul,https://www.basketball-reference.com/boxscores/201910270OKC.html,19.07,2,5,.400,2,2,1.000,4,4,1.000,0,2,2,2,1,0,0,1,10,9.9,+21
+2019-10-27,201910270OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/201910270OKC.html,26.32,2,3,.667,1,2,.500,0,0,,0,7,7,2,0,0,4,1,5,2.8,+6
+2019-10-27,201910270OKC,OKC,Dennis Schröder,https://www.basketball-reference.com/boxscores/201910270OKC.html,25.33,9,12,.750,1,2,.500,3,3,1.000,1,7,8,6,4,0,4,4,22,22.6,+27
+2019-10-27,201910270OKC,OKC,Nerlens Noel,https://www.basketball-reference.com/boxscores/201910270OKC.html,14.85,3,4,.750,0,0,,0,0,,2,2,4,2,1,2,1,2,6,8.4,+9
+2019-10-27,201910270OKC,OKC,Hamidou Diallo,https://www.basketball-reference.com/boxscores/201910270OKC.html,12.68,3,5,.600,1,2,.500,1,2,.500,0,1,1,0,1,0,1,3,8,4.4,+7
+2019-10-27,201910270OKC,OKC,Abdel Nader,https://www.basketball-reference.com/boxscores/201910270OKC.html,12.47,1,3,.333,1,2,.500,0,0,,0,2,2,1,0,0,2,3,3,-0.6,-6
+2019-10-27,201910270OKC,OKC,Deonte Burton,https://www.basketball-reference.com/boxscores/201910270OKC.html,8.6,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,2,1,3,1.3,-12
+2019-10-27,201910270OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/201910270OKC.html,7.75,1,3,.333,0,2,.000,0,0,,0,2,2,0,0,0,0,2,2,0.1,-7
+2019-10-27,201910270OKC,OKC,Justin Patton,https://www.basketball-reference.com/boxscores/201910270OKC.html,6.35,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,3,0,-3.0,-10

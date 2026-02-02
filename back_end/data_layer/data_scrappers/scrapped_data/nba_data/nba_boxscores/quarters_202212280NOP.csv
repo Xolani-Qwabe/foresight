@@ -1,0 +1,71 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-12-28,202212280NOP,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212280NOP.html,7.6,1,3,.333,1,2,.500,1,2,.500,1,1,2,0,1,0,1,2,4,2.1,-3
+2022-12-28,202212280NOP,MIN,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212280NOP.html,11.58,2,7,.286,0,2,.000,0,0,,0,1,1,3,1,0,0,0,4,3.3,+5
+2022-12-28,202212280NOP,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,10.43,3,4,.750,0,0,,0,0,,2,1,3,0,0,1,0,1,6,6.4,+5
+2022-12-28,202212280NOP,MIN,Q1,Austin Rivers,https://www.basketball-reference.com/boxscores/202212280NOP.html,8.02,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,0,0,0,0.6,-4
+2022-12-28,202212280NOP,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.03,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,1,0,1,4,4.0,-2
+2022-12-28,202212280NOP,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202212280NOP.html,5.97,4,4,1.000,1,1,1.000,1,2,.500,0,2,2,0,0,0,1,1,10,7.6,+6
+2022-12-28,202212280NOP,MIN,Q1,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212280NOP.html,5.97,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,+6
+2022-12-28,202212280NOP,MIN,Q1,Bryn Forbes,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+7
+2022-12-28,202212280NOP,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212280NOP.html,12.0,5,10,.500,1,2,.500,2,2,1.000,0,1,1,2,0,0,1,0,13,8.7,+2
+2022-12-28,202212280NOP,MIN,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.63,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,2,0,5,1.7,+1
+2022-12-28,202212280NOP,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,7.32,2,4,.500,0,1,.000,0,0,,1,0,1,0,2,0,0,0,4,4.7,-1
+2022-12-28,202212280NOP,MIN,Q2,Austin Rivers,https://www.basketball-reference.com/boxscores/202212280NOP.html,10.43,1,2,.500,0,1,.000,0,1,.000,0,0,0,0,0,0,0,1,2,0.2,+4
+2022-12-28,202212280NOP,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202212280NOP.html,9.48,0,0,,0,0,,0,0,,1,5,6,1,0,2,1,1,0,2.9,+1
+2022-12-28,202212280NOP,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202212280NOP.html,8.77,1,3,.333,1,3,.333,0,0,,0,2,2,0,0,0,0,0,3,1.9,+2
+2022-12-28,202212280NOP,MIN,Q2,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212280NOP.html,0.68,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2
+2022-12-28,202212280NOP,MIN,Q2,Bryn Forbes,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.68,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+3
+2022-12-28,202212280NOP,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212280NOP.html,11.53,2,7,.286,0,2,.000,2,5,.400,0,2,2,0,1,1,1,1,6,1.6,-4
+2022-12-28,202212280NOP,MIN,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212280NOP.html,8.15,2,3,.667,1,2,.500,8,8,1.000,0,2,2,0,0,0,0,0,13,12.3,+2
+2022-12-28,202212280NOP,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,+1
+2022-12-28,202212280NOP,MIN,Q3,Austin Rivers,https://www.basketball-reference.com/boxscores/202212280NOP.html,10.38,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,3,3,1.5,-7
+2022-12-28,202212280NOP,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202212280NOP.html,1.33,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-1.2,-2
+2022-12-28,202212280NOP,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202212280NOP.html,10.67,0,1,.000,0,1,.000,0,0,,0,2,2,1,0,2,0,0,0,2.0,-2
+2022-12-28,202212280NOP,MIN,Q3,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212280NOP.html,5.93,2,4,.500,2,3,.667,2,2,1.000,0,0,0,0,0,0,0,0,8,6.0,-3
+2022-12-28,202212280NOP,MIN,Q3,Bryn Forbes,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.32,0,0,,0,0,,2,2,1.000,0,0,0,1,0,0,1,0,2,1.7,-6
+2022-12-28,202212280NOP,MIN,Q3,Nathan Knight,https://www.basketball-reference.com/boxscores/202212280NOP.html,3.27,0,0,,0,0,,1,2,.500,0,0,0,1,0,0,0,2,1,0.5,+1
+2022-12-28,202212280NOP,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212280NOP.html,7.63,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,1,1,4,1.6,0
+2022-12-28,202212280NOP,MIN,Q4,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212280NOP.html,12.0,2,4,.500,0,1,.000,1,1,1.000,0,0,0,1,1,0,1,1,5,3.3,-3
+2022-12-28,202212280NOP,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,12.0,3,4,.750,1,1,1.000,2,3,.667,0,3,3,3,0,0,0,1,9,9.6,-3
+2022-12-28,202212280NOP,MIN,Q4,Austin Rivers,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.37,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-3
+2022-12-28,202212280NOP,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202212280NOP.html,11.93,3,3,1.000,0,0,,0,0,,0,1,1,1,0,1,1,2,6,5.0,-3
+2022-12-28,202212280NOP,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202212280NOP.html,0.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2022-12-28,202212280NOP,MIN,Q4,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212280NOP.html,12.0,3,5,.600,0,0,,0,0,,0,2,2,2,0,0,0,0,6,5.7,-3
+2022-12-28,202212280NOP,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202212280NOP.html,9.03,1,4,.250,1,3,.333,1,1,1.000,0,0,0,1,0,0,1,0,4,1.3,+2
+2022-12-28,202212280NOP,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202212280NOP.html,8.0,1,2,.500,0,0,,2,2,1.000,0,2,2,0,0,0,0,1,4,3.2,+1
+2022-12-28,202212280NOP,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202212280NOP.html,9.75,1,3,.333,0,0,,2,4,.500,0,3,3,1,0,0,0,0,4,3.1,-5
+2022-12-28,202212280NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202212280NOP.html,7.6,2,4,.500,0,1,.000,2,2,1.000,2,2,4,1,0,0,1,1,6,5.3,+3
+2022-12-28,202212280NOP,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.65,2,3,.667,2,2,1.000,0,0,,0,1,1,1,0,0,0,0,6,5.7,+3
+2022-12-28,202212280NOP,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,5.3,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,0.3,-7
+2022-12-28,202212280NOP,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202212280NOP.html,0.42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2022-12-28,202212280NOP,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.05,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-5
+2022-12-28,202212280NOP,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.23,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-0.8,-7
+2022-12-28,202212280NOP,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202212280NOP.html,2.97,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-1.1,-6
+2022-12-28,202212280NOP,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202212280NOP.html,8.45,2,3,.667,1,2,.500,0,0,,0,1,1,2,2,0,0,0,5,7.4,0
+2022-12-28,202212280NOP,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202212280NOP.html,8.45,0,2,.000,0,0,,1,2,.500,0,0,0,1,0,0,0,0,1,-0.1,0
+2022-12-28,202212280NOP,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.55,3,4,.750,0,0,,0,0,,0,0,0,1,0,1,3,1,6,2.4,-1
+2022-12-28,202212280NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202212280NOP.html,5.37,1,4,.250,0,0,,0,0,,0,1,1,1,0,0,0,0,2,0.6,-1
+2022-12-28,202212280NOP,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.62,2,2,1.000,1,1,1.000,1,1,1.000,0,1,1,0,0,0,0,0,6,5.7,-1
+2022-12-28,202212280NOP,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,3.63,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-2
+2022-12-28,202212280NOP,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202212280NOP.html,7.92,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,2,0,-1.2,-3
+2022-12-28,202212280NOP,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202212280NOP.html,3.55,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-2
+2022-12-28,202212280NOP,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.08,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,0,0,1.3,+1
+2022-12-28,202212280NOP,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202212280NOP.html,5.38,2,5,.400,0,1,.000,1,1,1.000,1,1,2,0,0,0,0,1,5,2.9,-1
+2022-12-28,202212280NOP,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202212280NOP.html,7.68,2,4,.500,0,0,,0,1,.000,0,1,1,2,0,0,2,2,4,0.5,-2
+2022-12-28,202212280NOP,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.6,1,1,1.000,0,0,,1,1,1.000,0,2,2,0,0,0,0,2,3,2.5,-1
+2022-12-28,202212280NOP,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202212280NOP.html,11.53,5,8,.625,0,0,,9,11,.818,0,0,0,3,0,0,1,2,19,14.9,+4
+2022-12-28,202212280NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.9,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-4
+2022-12-28,202212280NOP,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202212280NOP.html,9.03,2,3,.667,2,3,.667,2,2,1.000,0,1,1,1,0,0,0,3,8,6.5,+4
+2022-12-28,202212280NOP,NOP,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,8.83,1,2,.500,1,1,1.000,0,2,.000,1,0,1,1,1,1,1,0,3,3.3,+5
+2022-12-28,202212280NOP,NOP,Q3,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202212280NOP.html,1.9,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3
+2022-12-28,202212280NOP,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.32,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,1,0,0,0,0.6,+6
+2022-12-28,202212280NOP,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202212280NOP.html,5.2,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,+5
+2022-12-28,202212280NOP,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202212280NOP.html,12.0,2,5,.400,1,2,.500,2,3,.667,1,0,1,1,0,0,1,0,7,4.3,+3
+2022-12-28,202212280NOP,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202212280NOP.html,12.0,2,4,.500,0,2,.000,0,0,,1,2,3,0,0,0,0,0,4,3.3,+3
+2022-12-28,202212280NOP,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.12,5,6,.833,1,1,1.000,3,4,.750,0,0,0,0,1,0,0,0,14,12.4,+5
+2022-12-28,202212280NOP,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202212280NOP.html,11.35,1,3,.333,0,1,.000,2,2,1.000,1,4,5,0,0,1,0,2,4,4.1,+4
+2022-12-28,202212280NOP,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202212280NOP.html,4.65,0,0,,0,0,,1,2,.500,0,0,0,2,0,0,0,0,1,2.0,+4
+2022-12-28,202212280NOP,NOP,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202212280NOP.html,0.65,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-1
+2022-12-28,202212280NOP,NOP,Q4,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202212280NOP.html,6.53,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,1.6,-3
+2022-12-28,202212280NOP,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202212280NOP.html,3.87,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,+3
+2022-12-28,202212280NOP,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202212280NOP.html,2.83,0,0,,0,0,,0,2,.000,0,1,1,0,0,0,0,0,0,-0.5,-3

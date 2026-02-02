@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-12,202002120DAL,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202002120DAL.html,30:32,.410,.313,.188,.500,0.0,14.3,5.4,19.0,1.6,3.5,4.9,28.4,90,126,-6.0
+2020-02-12,202002120DAL,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202002120DAL.html,28:47,.381,.286,.143,.286,9.3,20.2,13.4,17.7,0.0,0.0,0.0,11.6,115,133,-4.9
+2020-02-12,202002120DAL,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202002120DAL.html,24:11,.750,.750,.333,.000,3.7,12.0,6.8,24.0,2.0,4.4,0.0,10.5,163,125,5.6
+2020-02-12,202002120DAL,SAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202002120DAL.html,23:02,.262,.227,.818,.091,0.0,25.3,9.6,11.3,0.0,0.0,0.0,21.0,65,132,-15.1
+2020-02-12,202002120DAL,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202002120DAL.html,21:45,.563,.500,.375,.250,8.2,33.4,17.8,0.0,0.0,0.0,0.0,17.2,123,132,-4.5
+2020-02-12,202002120DAL,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202002120DAL.html,31:25,.503,.476,.571,.095,0.0,4.6,1.8,47.8,1.5,0.0,8.4,32.1,105,130,4.9
+2020-02-12,202002120DAL,SAC,Kent Bazemore,https://www.basketball-reference.com/boxscores/202002120DAL.html,27:54,.663,.600,.300,.300,0.0,36.5,13.8,5.3,1.7,0.0,8.1,18.6,121,128,-0.3
+2020-02-12,202002120DAL,SAC,Harry Giles,https://www.basketball-reference.com/boxscores/202002120DAL.html,20:32,.698,.714,.000,.286,13.0,14.2,13.4,0.0,0.0,0.0,0.0,16.2,147,133,-1.5
+2020-02-12,202002120DAL,SAC,Anthony Tolliver,https://www.basketball-reference.com/boxscores/202002120DAL.html,16:59,.333,.333,.333,.000,0.0,17.1,6.5,0.0,2.8,0.0,25.0,9.9,48,126,-11.1
+2020-02-12,202002120DAL,SAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/202002120DAL.html,7:35,.333,.333,.333,.000,11.7,0.0,7.3,18.3,6.3,0.0,0.0,16.7,98,119,0.6
+2020-02-12,202002120DAL,SAC,DaQuan Jeffries,https://www.basketball-reference.com/boxscores/202002120DAL.html,5:17,.625,.625,.750,.000,0.0,0.0,0.0,0.0,9.0,0.0,0.0,32.0,112,113,15.3
+2020-02-12,202002120DAL,SAC,Justin James,https://www.basketball-reference.com/boxscores/202002120DAL.html,2:01,.902,1.167,.333,.667,0.0,0.0,0.0,-78.3,0.0,0.0,0.0,81.2,183,134,91.4
+2020-02-12,202002120DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202002120DAL.html,33:04,.679,.679,.786,.000,0.0,8.1,5.0,23.0,1.4,0.0,0.0,19.3,139,112,7.0
+2020-02-12,202002120DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202002120DAL.html,32:57,.760,.750,.313,.250,0.0,35.1,21.8,22.8,0.0,7.3,5.3,26.0,144,101,13.4
+2020-02-12,202002120DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202002120DAL.html,31:16,.709,.639,.389,.667,4.7,31.3,21.2,37.6,0.0,0.0,14.7,39.8,130,108,7.8
+2020-02-12,202002120DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202002120DAL.html,22:06,.625,.625,.500,.000,6.6,20.1,15.0,5.0,0.0,3.6,20.0,10.3,110,108,-2.9
+2020-02-12,202002120DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202002120DAL.html,14:14,.625,.625,.500,.000,0.0,0.0,0.0,16.3,0.0,0.0,33.3,19.2,89,117,-9.2
+2020-02-12,202002120DAL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202002120DAL.html,34:14,.862,.850,.300,.100,0.0,7.8,4.8,22.0,0.0,0.0,0.0,13.9,175,115,6.3
+2020-02-12,202002120DAL,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/202002120DAL.html,26:06,.444,.300,.800,.800,0.0,13.6,8.5,15.9,0.0,3.1,12.9,13.6,104,111,-5.7
+2020-02-12,202002120DAL,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/202002120DAL.html,20:09,.500,.500,.500,.000,7.2,8.8,8.2,5.5,0.0,0.0,0.0,9.1,121,115,-3.6
+2020-02-12,202002120DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202002120DAL.html,18:30,.600,.600,.400,.000,0.0,4.8,3.0,0.0,0.0,8.6,16.7,14.8,88,109,-5.8
+2020-02-12,202002120DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202002120DAL.html,3:42,.667,.667,.333,.000,0.0,24.0,14.9,0.0,0.0,0.0,0.0,37.0,118,110,-3.8
+2020-02-12,202002120DAL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202002120DAL.html,3:42,.750,.750,.500,.000,0.0,24.0,14.9,37.0,0.0,0.0,33.3,37.0,101,110,8.6

@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-01,202202010PHO,BRK,James Harden,https://www.basketball-reference.com/boxscores/202202010PHO.html,37:07,.479,.395,.421,.474,3.6,15.2,9.2,40.1,1.4,0.0,14.8,34.4,105,128,-1.0
+2022-02-01,202202010PHO,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202202010PHO.html,36:34,.597,.575,.400,.200,0.0,15.4,7.5,14.7,1.4,0.0,8.4,30.8,112,128,-0.3
+2022-02-01,202202010PHO,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202202010PHO.html,32:46,.563,.563,1.000,.000,0.0,4.3,2.1,4.1,1.6,0.0,0.0,11.6,113,129,-4.9
+2022-02-01,202202010PHO,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202202010PHO.html,28:40,.650,.650,.700,.000,0.0,24.6,12.0,0.0,1.8,0.0,9.1,18.2,108,126,-1.4
+2022-02-01,202202010PHO,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202202010PHO.html,18:41,.436,.500,.000,.333,7.1,15.1,11.0,8.0,0.0,0.0,12.7,20.0,87,131,-11.8
+2022-02-01,202202010PHO,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202202010PHO.html,26:37,.723,.700,.600,.400,10.0,21.2,15.5,12.4,1.9,0.0,7.8,22.7,140,126,5.7
+2022-02-01,202202010PHO,BRK,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202202010PHO.html,19:39,1.167,1.167,.333,.000,13.6,14.4,14.0,15.0,2.6,0.0,0.0,7.2,234,126,7.6
+2022-02-01,202202010PHO,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202202010PHO.html,14:51,.500,.500,.500,.000,0.0,9.5,4.6,0.0,0.0,0.0,33.3,9.6,60,132,-10.6
+2022-02-01,202202010PHO,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202202010PHO.html,12:32,,,,,0.0,11.3,5.5,38.3,0.0,0.0,,0.0,240,131,-0.4
+2022-02-01,202202010PHO,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202202010PHO.html,7:09,1.000,1.000,.000,.000,0.0,39.5,19.2,20.2,7.1,14.9,50.0,13.3,104,102,14.7
+2022-02-01,202202010PHO,BRK,Jevon Carter,https://www.basketball-reference.com/boxscores/202202010PHO.html,2:42,1.330,1.500,1.000,2.000,0.0,0.0,0.0,80.0,0.0,0.0,0.0,33.0,268,134,62.3
+2022-02-01,202202010PHO,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202202010PHO.html,2:42,1.000,1.000,.000,.000,0.0,52.3,25.4,0.0,0.0,0.0,0.0,17.6,200,126,11.2
+2022-02-01,202202010PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202202010PHO.html,40:53,.671,.630,.348,.304,3.5,16.3,10.1,8.8,1.2,0.0,7.1,31.5,128,121,3.6
+2022-02-01,202202010PHO,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202202010PHO.html,40:24,.790,.750,.214,.500,14.0,13.2,13.6,15.8,2.5,2.9,0.0,19.4,172,116,12.9
+2022-02-01,202202010PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202202010PHO.html,38:54,.627,.458,.333,.750,0.0,13.7,7.1,48.2,2.6,0.0,11.1,21.2,143,118,7.0
+2022-02-01,202202010PHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202202010PHO.html,28:03,.761,.714,.000,.286,0.0,28.5,14.7,0.0,1.8,0.0,33.7,19.4,90,117,-6.9
+2022-02-01,202202010PHO,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202202010PHO.html,25:01,.300,.300,1.000,.000,5.6,10.7,8.2,9.6,4.1,0.0,16.7,11.0,81,115,-3.2
+2022-02-01,202202010PHO,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202202010PHO.html,23:29,.735,.700,.800,.200,0.0,17.0,8.8,0.0,0.0,0.0,8.4,23.2,127,124,2.7
+2022-02-01,202202010PHO,PHO,JaVale McGee,https://www.basketball-reference.com/boxscores/202202010PHO.html,13:46,.868,1.000,.000,1.000,10.3,29.1,19.9,0.0,0.0,17.0,58.1,22.9,67,109,-10.6
+2022-02-01,202202010PHO,PHO,Elfrid Payton,https://www.basketball-reference.com/boxscores/202202010PHO.html,13:27,.798,1.500,1.000,2.000,0.0,19.8,10.2,37.1,0.0,8.7,34.7,9.8,127,117,11.7
+2022-02-01,202202010PHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202202010PHO.html,7:36,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0,126,-12.8
+2022-02-01,202202010PHO,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202202010PHO.html,5:43,,,,,0.0,23.3,12.0,0.0,0.0,0.0,,0.0,0,123,-2.9
+2022-02-01,202202010PHO,PHO,Justin Jackson,https://www.basketball-reference.com/boxscores/202202010PHO.html,1:22,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-3.9
+2022-02-01,202202010PHO,PHO,Jalen Smith,https://www.basketball-reference.com/boxscores/202202010PHO.html,1:22,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.6,0,126,-42.7

@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-01-06,202501060MIN,LAC,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202501060MIN.html,6.2,0,1,.000,0,1,.000,4,4,1.000,1,0,1,0,0,0,0,0,4,4.0,+6
+2025-01-06,202501060MIN,LAC,Q1,James Harden,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,3,9,.333,0,2,.000,0,1,.000,1,1,2,3,1,0,1,0,6,3.6,+11
+2025-01-06,202501060MIN,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.45,1,2,.500,0,0,,0,0,,0,6,6,1,0,1,1,0,2,3.2,+8
+2025-01-06,202501060MIN,LAC,Q1,Kris Dunn,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.45,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,1,0,1,2,2.3,+8
+2025-01-06,202501060MIN,LAC,Q1,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.45,3,7,.429,2,3,.667,0,0,,1,1,2,2,1,0,0,1,8,7.3,+8
+2025-01-06,202501060MIN,LAC,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3
+2025-01-06,202501060MIN,LAC,Q1,Amir Coffey,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.55,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.2,+3
+2025-01-06,202501060MIN,LAC,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.55,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,+3
+2025-01-06,202501060MIN,LAC,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202501060MIN.html,5.8,1,2,.500,1,2,.500,0,0,,0,0,0,0,1,0,0,0,3,3.0,+5
+2025-01-06,202501060MIN,LAC,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,2,3,.667,1,1,1.000,4,5,.800,0,2,2,1,0,0,2,0,9,6.6,-4
+2025-01-06,202501060MIN,LAC,Q2,James Harden,https://www.basketball-reference.com/boxscores/202501060MIN.html,5.48,1,2,.500,1,2,.500,0,0,,1,1,2,1,0,0,1,1,3,2.3,-10
+2025-01-06,202501060MIN,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202501060MIN.html,10.12,3,4,.750,0,0,,1,1,1.000,1,4,5,1,0,1,1,0,7,7.7,-2
+2025-01-06,202501060MIN,LAC,Q2,Kris Dunn,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.98,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,1,0,1,0,-0.4,-10
+2025-01-06,202501060MIN,LAC,Q2,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.48,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-12
+2025-01-06,202501060MIN,LAC,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202501060MIN.html,5.15,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,0,0,5,3.7,+8
+2025-01-06,202501060MIN,LAC,Q2,Amir Coffey,https://www.basketball-reference.com/boxscores/202501060MIN.html,6.38,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+6
+2025-01-06,202501060MIN,LAC,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202501060MIN.html,6.38,0,0,,0,0,,0,0,,0,3,3,5,0,0,1,1,0,3.0,+6
+2025-01-06,202501060MIN,LAC,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202501060MIN.html,1.88,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2
+2025-01-06,202501060MIN,LAC,Q2,Terance Mann,https://www.basketball-reference.com/boxscores/202501060MIN.html,0.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2025-01-06,202501060MIN,LAC,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.1,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,1,0,2,-0.1,-9
+2025-01-06,202501060MIN,LAC,Q3,James Harden,https://www.basketball-reference.com/boxscores/202501060MIN.html,11.57,3,6,.500,2,4,.500,3,4,.750,0,4,4,2,0,2,2,2,11,8.8,-11
+2025-01-06,202501060MIN,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.1,2,2,1.000,0,0,,0,0,,1,1,2,0,0,1,0,1,4,4.7,-9
+2025-01-06,202501060MIN,LAC,Q3,Kris Dunn,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.23,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-11
+2025-01-06,202501060MIN,LAC,Q3,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.75,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,0,0,-3.1,-13
+2025-01-06,202501060MIN,LAC,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.77,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,0,0,1.3,+3
+2025-01-06,202501060MIN,LAC,Q3,Amir Coffey,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.25,1,2,.500,1,1,1.000,0,0,,1,0,1,1,0,0,0,1,3,3.0,+5
+2025-01-06,202501060MIN,LAC,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202501060MIN.html,0.43,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+3
+2025-01-06,202501060MIN,LAC,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.9,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,1,2,3,0.2,+1
+2025-01-06,202501060MIN,LAC,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.9,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+1
+2025-01-06,202501060MIN,LAC,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,4,10,.400,1,2,.500,1,1,1.000,1,0,1,0,1,0,0,1,10,5.9,-1
+2025-01-06,202501060MIN,LAC,Q4,James Harden,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.37,1,5,.200,0,3,.000,0,0,,0,0,0,2,1,0,0,1,2,0.9,+5
+2025-01-06,202501060MIN,LAC,Q4,Ivica Zubac,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.47,1,3,.333,0,0,,2,2,1.000,1,2,3,0,1,3,0,1,4,6.3,+1
+2025-01-06,202501060MIN,LAC,Q4,Kris Dunn,https://www.basketball-reference.com/boxscores/202501060MIN.html,0.35,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3
+2025-01-06,202501060MIN,LAC,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,1,2,.500,0,0,,3,4,.750,0,1,1,1,0,0,0,1,5,4.2,-1
+2025-01-06,202501060MIN,LAC,Q4,Amir Coffey,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.18,0,3,.000,0,1,.000,2,2,1.000,3,0,3,0,0,0,0,0,2,2.0,-5
+2025-01-06,202501060MIN,LAC,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,3,5,.600,1,2,.500,0,1,.000,1,2,3,1,1,0,1,0,7,6.3,-1
+2025-01-06,202501060MIN,LAC,Q4,Nicolas Batum,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.63,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,0,0,1.3,-6
+2025-01-06,202501060MIN,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202501060MIN.html,10.48,1,2,.500,0,0,,1,2,.500,3,3,6,0,0,1,1,0,3,4.3,-11
+2025-01-06,202501060MIN,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202501060MIN.html,10.48,3,8,.375,0,2,.000,0,0,,0,1,1,1,0,0,2,1,6,0.2,-11
+2025-01-06,202501060MIN,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.82,1,2,.500,1,1,1.000,0,0,,0,2,2,0,1,1,0,0,3,4.3,-8
+2025-01-06,202501060MIN,MIN,Q1,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.72,0,1,.000,0,0,,2,2,1.000,1,2,3,0,0,0,1,1,2,1.2,-6
+2025-01-06,202501060MIN,MIN,Q1,Julius Randle,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.72,0,3,.000,0,2,.000,0,0,,0,1,1,2,0,0,1,0,0,-1.4,-6
+2025-01-06,202501060MIN,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202501060MIN.html,5.8,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,-5
+2025-01-06,202501060MIN,MIN,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202501060MIN.html,5.43,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-1.0,-5
+2025-01-06,202501060MIN,MIN,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.55,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-3
+2025-01-06,202501060MIN,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.77,2,2,1.000,0,0,,0,1,.000,1,1,2,0,0,0,0,1,4,3.6,+9
+2025-01-06,202501060MIN,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.77,1,3,.333,1,2,.500,0,0,,0,1,1,3,0,0,0,0,3,3.7,+9
+2025-01-06,202501060MIN,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.48,2,2,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,5,5.1,+12
+2025-01-06,202501060MIN,MIN,Q2,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.23,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-5
+2025-01-06,202501060MIN,MIN,Q2,Julius Randle,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.23,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,0,1,0,0.3,-5
+2025-01-06,202501060MIN,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,3,5,.600,1,3,.333,0,1,.000,0,2,2,2,1,1,0,1,7,7.6,+4
+2025-01-06,202501060MIN,MIN,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.48,3,6,.500,2,3,.667,0,0,,1,1,2,1,1,0,0,1,8,7.3,+12
+2025-01-06,202501060MIN,MIN,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.52,1,3,.333,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,1.3,-8
+2025-01-06,202501060MIN,MIN,Q2,Josh Minott,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.52,0,1,.000,0,1,.000,0,0,,0,0,0,1,1,0,1,1,0,-0.4,-8
+2025-01-06,202501060MIN,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202501060MIN.html,11.13,0,2,.000,0,0,,1,2,.500,2,3,5,1,0,0,0,0,1,2.2,+11
+2025-01-06,202501060MIN,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,6,12,.500,2,5,.400,1,1,1.000,1,3,4,3,0,0,0,1,15,12.3,+8
+2025-01-06,202501060MIN,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.1,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1.7,+9
+2025-01-06,202501060MIN,MIN,Q3,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202501060MIN.html,7.23,3,4,.750,2,3,.667,0,0,,0,2,2,0,0,0,0,0,8,7.0,+11
+2025-01-06,202501060MIN,MIN,Q3,Julius Randle,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.1,1,5,.200,0,1,.000,1,2,.500,2,0,2,0,0,0,1,2,3,-0.9,+8
+2025-01-06,202501060MIN,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.77,2,3,.667,0,1,.000,0,0,,0,2,2,0,0,0,0,0,4,3.3,-3
+2025-01-06,202501060MIN,MIN,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202501060MIN.html,4.77,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2025-01-06,202501060MIN,MIN,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.9,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,-1
+2025-01-06,202501060MIN,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.48,0,2,.000,0,0,,0,0,,2,3,5,1,0,0,1,2,0,-0.2,-1
+2025-01-06,202501060MIN,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202501060MIN.html,6.92,4,6,.667,3,4,.750,2,3,.667,0,1,1,1,1,0,0,0,13,12.0,-2
+2025-01-06,202501060MIN,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.78,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-5
+2025-01-06,202501060MIN,MIN,Q4,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202501060MIN.html,12.0,2,5,.400,1,3,.333,0,0,,0,4,4,1,0,0,1,2,5,2.4,+1
+2025-01-06,202501060MIN,MIN,Q4,Julius Randle,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.23,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,2,0.6,+5
+2025-01-06,202501060MIN,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.67,2,4,.500,0,0,,1,2,.500,1,1,2,1,0,1,1,4,5,2.4,-6
+2025-01-06,202501060MIN,MIN,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202501060MIN.html,8.72,1,1,1.000,0,0,,1,1,1.000,0,1,1,1,0,0,0,0,3,3.7,+7
+2025-01-06,202501060MIN,MIN,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202501060MIN.html,3.18,0,1,.000,0,0,,0,0,,1,1,2,0,0,1,1,0,0,0.0,+5
+2025-01-06,202501060MIN,MIN,Q4,Joe Ingles,https://www.basketball-reference.com/boxscores/202501060MIN.html,0.02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1

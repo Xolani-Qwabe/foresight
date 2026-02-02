@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-10-24,202310240GSW,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202310240GSW.html,36:58,.717,.690,.381,.143,2.7,10.6,7.1,41.4,1.3,0.0,21.2,30.3,123,105,9.5
+2023-10-24,202310240GSW,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202310240GSW.html,36:47,.372,.341,.091,.227,5.4,19.3,13.2,11.9,0.0,2.2,7.6,28.1,89,102,-4.7
+2023-10-24,202310240GSW,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202310240GSW.html,31:38,.860,.833,.111,.222,12.6,2.5,7.0,4.8,1.5,0.0,16.8,14.8,148,109,6.9
+2023-10-24,202310240GSW,PHO,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202310240GSW.html,27:52,.751,.688,.250,.375,10.8,31.1,22.1,15.5,0.0,3.0,9.7,14.6,155,94,8.4
+2023-10-24,202310240GSW,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202310240GSW.html,20:55,.000,.000,.833,.000,14.3,3.8,8.4,10.9,0.0,0.0,14.3,13.2,44,112,-14.3
+2023-10-24,202310240GSW,PHO,Eric Gordon,https://www.basketball-reference.com/boxscores/202310240GSW.html,31:39,.313,.313,.563,.000,3.2,7.5,5.6,4.2,1.5,2.6,5.9,21.2,77,105,-7.4
+2023-10-24,202310240GSW,PHO,Drew Eubanks,https://www.basketball-reference.com/boxscores/202310240GSW.html,19:14,.420,.333,.000,1.333,10.4,20.5,16.0,12.6,0.0,12.9,38.7,15.9,74,96,-2.9
+2023-10-24,202310240GSW,PHO,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202310240GSW.html,17:53,.800,.800,.800,.000,0.0,17.6,9.8,0.0,0.0,4.6,16.7,13.3,127,101,4.4
+2023-10-24,202310240GSW,PHO,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202310240GSW.html,14:11,.250,.250,.250,.000,7.1,16.6,12.4,26.3,3.3,0.0,33.3,16.7,68,97,-2.6
+2023-10-24,202310240GSW,PHO,Nassir Little,https://www.basketball-reference.com/boxscores/202310240GSW.html,2:53,1.500,1.500,1.000,.000,0.0,27.3,15.3,0.0,16.4,0.0,0.0,13.7,300,61,45.6
+2023-10-24,202310240GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202310240GSW.html,36:16,.417,.417,.611,.000,2.2,16.5,8.5,14.2,0.0,2.1,14.3,22.4,83,110,-5.0
+2023-10-24,202310240GSW,GSW,Chris Paul,https://www.basketball-reference.com/boxscores/202310240GSW.html,34:13,.387,.267,.400,.467,2.3,14.6,7.7,41.5,2.8,0.0,5.2,21.5,103,106,2.5
+2023-10-24,202310240GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202310240GSW.html,30:45,.585,.500,.700,.350,2.6,13.0,7.2,6.6,1.5,0.0,8.0,31.5,117,109,6.3
+2023-10-24,202310240GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202310240GSW.html,27:58,.543,.500,.000,.167,14.1,21.5,17.3,5.6,0.0,0.0,23.7,11.7,106,109,-5.1
+2023-10-24,202310240GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202310240GSW.html,27:17,.375,.333,.250,.250,2.9,0.0,1.6,0.0,0.0,2.8,0.0,18.8,88,117,-8.4
+2023-10-24,202310240GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202310240GSW.html,21:40,.085,.000,.400,.400,0.0,9.2,4.1,12.3,6.5,0.0,0.0,10.5,40,100,-4.2
+2023-10-24,202310240GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202310240GSW.html,20:08,.564,.500,.000,.750,11.7,14.9,13.1,9.0,4.7,3.8,15.8,24.2,108,99,3.9
+2023-10-24,202310240GSW,GSW,Dario Šarić,https://www.basketball-reference.com/boxscores/202310240GSW.html,20:02,.318,.318,.273,.000,15.7,15.0,15.4,8.3,0.0,7.7,0.0,21.2,91,108,-2.2
+2023-10-24,202310240GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202310240GSW.html,17:59,.799,.833,.667,.333,4.4,11.1,7.3,0.0,7.9,4.3,12.7,16.9,133,94,16.7
+2023-10-24,202310240GSW,GSW,Cory Joseph,https://www.basketball-reference.com/boxscores/202310240GSW.html,3:42,,,,,21.3,0.0,11.9,36.0,0.0,0.0,,0.0,225,118,6.5

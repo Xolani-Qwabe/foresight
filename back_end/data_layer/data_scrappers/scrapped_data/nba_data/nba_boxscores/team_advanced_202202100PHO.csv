@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-10,202202100PHO,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202202100PHO.html,33:49,.763,.708,.333,.333,3.2,15.3,8.7,18.9,0.0,0.0,17.9,21.1,133,135,2.9
+2022-02-10,202202100PHO,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202202100PHO.html,32:36,.661,.633,.400,.133,0.0,4.0,1.8,16.5,0.0,0.0,11.2,23.3,124,137,0.7
+2022-02-10,202202100PHO,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202202100PHO.html,29:47,.446,.357,.214,1.000,0.0,30.5,13.8,40.4,0.0,2.7,13.0,33.0,98,131,4.2
+2022-02-10,202202100PHO,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202202100PHO.html,28:15,.458,.458,.417,.000,7.6,32.1,18.6,0.0,1.7,2.8,7.7,19.5,95,127,-3.4
+2022-02-10,202202100PHO,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202202100PHO.html,24:55,.500,.500,.750,.000,4.3,5.2,4.7,5.6,1.9,0.0,0.0,13.6,116,133,-1.0
+2022-02-10,202202100PHO,MIL,Lindell Wigginton,https://www.basketball-reference.com/boxscores/202202100PHO.html,17:39,.500,.500,.400,.000,6.0,14.7,9.9,15.7,0.0,0.0,37.5,19.3,77,135,-10.6
+2022-02-10,202202100PHO,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202202100PHO.html,16:38,.214,.214,1.000,.000,0.0,15.6,7.0,0.0,2.9,0.0,0.0,17.9,50,129,-11.1
+2022-02-10,202202100PHO,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202202100PHO.html,14:52,.143,.143,.571,.000,7.2,8.7,7.9,0.0,3.2,0.0,12.5,22.9,37,129,-20.4
+2022-02-10,202202100PHO,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202202100PHO.html,14:28,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.9,300,138,-1.3
+2022-02-10,202202100PHO,MIL,Greg Monroe,https://www.basketball-reference.com/boxscores/202202100PHO.html,13:18,.726,.750,.000,1.250,24.1,29.3,26.4,0.0,7.3,0.0,0.0,19.8,160,118,13.9
+2022-02-10,202202100PHO,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202202100PHO.html,7:50,1.000,1.000,.000,.000,13.6,0.0,7.5,0.0,0.0,10.2,25.0,21.7,135,130,9.6
+2022-02-10,202202100PHO,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202202100PHO.html,5:53,,,,,18.1,0.0,9.9,0.0,0.0,13.6,,0.0,218,127,-0.1
+2022-02-10,202202100PHO,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202202100PHO.html,39:16,.731,.727,.455,.273,0.0,2.7,1.5,5.8,2.5,0.0,7.5,14.7,134,111,2.9
+2022-02-10,202202100PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202202100PHO.html,36:51,.604,.455,.273,.636,0.0,20.3,11.1,55.6,2.6,0.0,12.4,18.9,145,106,10.9
+2022-02-10,202202100PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202202100PHO.html,34:18,.418,.368,.421,.158,3.8,9.3,6.8,23.0,1.4,0.0,9.0,28.2,99,111,-4.7
+2022-02-10,202202100PHO,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202202100PHO.html,31:58,.421,.364,.818,.182,4.1,23.4,14.6,6.5,0.0,0.0,0.0,16.1,105,110,-4.7
+2022-02-10,202202100PHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202202100PHO.html,26:35,.857,.857,.000,.286,0.0,28.1,15.4,6.2,0.0,3.6,0.0,25.7,170,107,13.6
+2022-02-10,202202100PHO,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202202100PHO.html,26:05,.938,.938,.500,.000,14.9,20.4,18.0,13.8,3.7,0.0,11.1,15.0,166,103,16.7
+2022-02-10,202202100PHO,PHO,JaVale McGee,https://www.basketball-reference.com/boxscores/202202100PHO.html,15:21,.667,.667,.111,.000,16.9,13.9,15.3,0.0,9.4,0.0,18.2,31.1,107,92,4.1
+2022-02-10,202202100PHO,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202202100PHO.html,10:41,.666,.800,.000,.800,24.3,0.0,11.0,0.0,0.0,0.0,0.0,27.4,136,115,-5.7
+2022-02-10,202202100PHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202202100PHO.html,9:43,.568,,,,0.0,22.0,12.0,9.7,0.0,9.9,0.0,3.9,149,105,6.8
+2022-02-10,202202100PHO,PHO,Elfrid Payton,https://www.basketball-reference.com/boxscores/202202100PHO.html,9:12,.665,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.7,117,117,-1.5

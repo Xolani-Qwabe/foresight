@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-01-03,202501030SAC,MEM,Q1,Jaylen Wells,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.12,2,3,.667,2,2,1.000,0,0,0,0,0,0,0,0,0,0,6,4.7,-7,
+2025-01-03,202501030SAC,MEM,Q1,Desmond Bane,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.12,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,1,1,2,1.3,-7,
+2025-01-03,202501030SAC,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,7.95,1,5,.200,1,2,.500,0,0,0,3,3,3,0,0,0,0,3,2.9,-9,
+2025-01-03,202501030SAC,MEM,Q1,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.28,3,3,1.000,2,2,1.000,1,1,0,0,0,2,0,0,2,0,9,7.5,-11,1.000
+2025-01-03,202501030SAC,MEM,Q1,Brandon Clarke,https://www.basketball-reference.com/boxscores/202501030SAC.html,5.02,1,2,.500,0,0,,2,2,2,0,2,0,0,0,1,0,4,3.4,-2,1.000
+2025-01-03,202501030SAC,MEM,Q1,Luke Kennard,https://www.basketball-reference.com/boxscores/202501030SAC.html,6.6,2,4,.500,1,1,1.000,0,0,1,0,1,2,0,0,0,1,5,4.7,-10,
+2025-01-03,202501030SAC,MEM,Q1,Zach Edey,https://www.basketball-reference.com/boxscores/202501030SAC.html,4.43,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-1.5,-7,
+2025-01-03,202501030SAC,MEM,Q1,Jake LaRavia,https://www.basketball-reference.com/boxscores/202501030SAC.html,4.05,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-5,
+2025-01-03,202501030SAC,MEM,Q1,John Konchar,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.88,0,2,.000,0,2,.000,0,0,0,2,2,0,0,0,1,1,0,-2.2,-7,
+2025-01-03,202501030SAC,MEM,Q1,Jay Huff,https://www.basketball-reference.com/boxscores/202501030SAC.html,2.55,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-5,
+2025-01-03,202501030SAC,MEM,Q2,Jaylen Wells,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.23,4,6,.667,2,3,.667,0,0,2,1,3,1,0,0,0,1,10,9.4,+5,
+2025-01-03,202501030SAC,MEM,Q2,Desmond Bane,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.77,4,7,.571,0,2,.000,0,0,0,0,0,1,0,0,0,1,8,5.0,+6,
+2025-01-03,202501030SAC,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.9,5,7,.714,0,1,.000,2,4,0,1,1,1,0,0,1,0,12,8.3,+5,.500
+2025-01-03,202501030SAC,MEM,Q2,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,5.32,0,1,.000,0,1,.000,2,2,0,1,1,2,0,0,0,1,2,2.6,+5,1.000
+2025-01-03,202501030SAC,MEM,Q2,Brandon Clarke,https://www.basketball-reference.com/boxscores/202501030SAC.html,5.45,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,2,2.3,+4,
+2025-01-03,202501030SAC,MEM,Q2,Luke Kennard,https://www.basketball-reference.com/boxscores/202501030SAC.html,7.17,0,1,.000,0,0,,3,3,0,1,1,3,1,0,0,0,3,5.7,+4,1.000
+2025-01-03,202501030SAC,MEM,Q2,Zach Edey,https://www.basketball-reference.com/boxscores/202501030SAC.html,6.55,1,4,.250,0,0,,1,2,3,1,4,0,0,1,0,0,3,3.3,+4,.500
+2025-01-03,202501030SAC,MEM,Q2,Jake LaRavia,https://www.basketball-reference.com/boxscores/202501030SAC.html,4.83,0,0,,0,0,,0,0,0,2,2,2,0,0,0,0,0,2.0,+4,
+2025-01-03,202501030SAC,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.78,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,
+2025-01-03,202501030SAC,MEM,Q3,Jaylen Wells,https://www.basketball-reference.com/boxscores/202501030SAC.html,12.0,4,6,.667,3,3,1.000,0,0,1,1,2,0,0,0,0,0,11,9.4,+4,
+2025-01-03,202501030SAC,MEM,Q3,Desmond Bane,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.35,1,3,.333,0,0,,6,6,1,3,4,2,1,0,1,0,8,9.3,+1,1.000
+2025-01-03,202501030SAC,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.13,0,6,.000,0,4,.000,2,2,0,2,2,1,0,0,2,0,2,-2.9,0,1.000
+2025-01-03,202501030SAC,MEM,Q3,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.23,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,1,0,-2.1,-11,
+2025-01-03,202501030SAC,MEM,Q3,Brandon Clarke,https://www.basketball-reference.com/boxscores/202501030SAC.html,4.48,0,1,.000,0,0,,0,0,2,0,2,0,0,1,0,0,0,1.4,-3,
+2025-01-03,202501030SAC,MEM,Q3,Luke Kennard,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.77,1,3,.333,1,3,.333,0,0,1,4,5,3,0,0,1,1,3,3.9,+15,
+2025-01-03,202501030SAC,MEM,Q3,Zach Edey,https://www.basketball-reference.com/boxscores/202501030SAC.html,7.52,2,3,.667,0,0,,0,0,0,2,2,0,0,0,1,1,4,1.9,+7,
+2025-01-03,202501030SAC,MEM,Q3,Jake LaRavia,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.87,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+4,
+2025-01-03,202501030SAC,MEM,Q3,John Konchar,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.65,0,1,.000,0,1,.000,0,0,1,0,1,0,0,0,0,1,0,-0.4,+3,
+2025-01-03,202501030SAC,MEM,Q4,Jaylen Wells,https://www.basketball-reference.com/boxscores/202501030SAC.html,7.78,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,3,3.4,-6,
+2025-01-03,202501030SAC,MEM,Q4,Desmond Bane,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.65,1,3,.333,0,2,.000,2,2,0,2,2,4,1,1,3,0,4,4.4,-1,1.000
+2025-01-03,202501030SAC,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.05,3,3,1.000,2,2,1.000,3,4,0,0,0,0,0,1,1,6,11,7.0,-1,.750
+2025-01-03,202501030SAC,MEM,Q4,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202501030SAC.html,7.17,1,1,1.000,1,1,1.000,2,2,0,1,1,1,1,0,1,2,5,4.9,-4,1.000
+2025-01-03,202501030SAC,MEM,Q4,Brandon Clarke,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.07,1,2,.500,0,0,,3,4,0,2,2,0,0,0,0,0,5,4.2,-1,.750
+2025-01-03,202501030SAC,MEM,Q4,Luke Kennard,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.05,0,2,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,-0.4,+4,
+2025-01-03,202501030SAC,MEM,Q4,Zach Edey,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.3,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,-4,
+2025-01-03,202501030SAC,MEM,Q4,Jake LaRavia,https://www.basketball-reference.com/boxscores/202501030SAC.html,2.95,1,1,1.000,0,0,,1,2,0,0,0,0,1,0,0,0,3,3.3,-2,.500
+2025-01-03,202501030SAC,MEM,Q4,John Konchar,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.35,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2025-01-03,202501030SAC,MEM,Q4,Jay Huff,https://www.basketball-reference.com/boxscores/202501030SAC.html,0.63,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2025-01-03,202501030SAC,SAC,Q1,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202501030SAC.html,10.15,2,5,.400,0,2,.000,0,0,0,0,0,2,3,0,0,0,4,5.7,+9,
+2025-01-03,202501030SAC,SAC,Q1,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.45,2,5,.400,2,4,.500,2,2,2,2,4,3,0,1,0,0,8,10.1,+9,1.000
+2025-01-03,202501030SAC,SAC,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.82,3,4,.750,1,1,1.000,0,0,0,0,0,2,0,0,0,1,7,6.4,+7,
+2025-01-03,202501030SAC,SAC,Q1,Keon Ellis,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.12,2,3,.667,2,2,1.000,0,0,1,1,2,0,0,0,0,0,6,5.7,+7,
+2025-01-03,202501030SAC,SAC,Q1,Malik Monk,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.12,3,6,.500,2,5,.400,2,2,0,0,0,3,0,0,1,1,10,7.7,+7,1.000
+2025-01-03,202501030SAC,SAC,Q1,Trey Lyles,https://www.basketball-reference.com/boxscores/202501030SAC.html,5.73,4,4,1.000,3,3,1.000,0,0,0,0,0,0,0,0,0,0,11,9.8,+12,
+2025-01-03,202501030SAC,SAC,Q1,Kevin Huerter,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.18,0,1,.000,0,0,,0,0,2,1,3,2,1,1,0,0,0,4.1,+7,
+2025-01-03,202501030SAC,SAC,Q1,Devin Carter,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.88,0,2,.000,0,1,.000,0,0,0,3,3,1,0,0,0,1,0,-0.2,+7,
+2025-01-03,202501030SAC,SAC,Q1,Alex Len,https://www.basketball-reference.com/boxscores/202501030SAC.html,2.55,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,
+2025-01-03,202501030SAC,SAC,Q2,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.67,1,5,.200,0,1,.000,0,0,0,1,1,2,0,0,0,1,2,0.2,-6,
+2025-01-03,202501030SAC,SAC,Q2,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.23,2,3,.667,1,1,1.000,0,0,0,0,0,2,0,1,0,1,5,5.4,-5,
+2025-01-03,202501030SAC,SAC,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.65,2,4,.500,1,3,.333,0,0,0,0,0,0,0,1,0,1,5,3.3,-6,
+2025-01-03,202501030SAC,SAC,Q2,Keon Ellis,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.23,1,3,.333,0,1,.000,1,2,1,0,1,0,0,0,0,1,3,1.2,-5,.500
+2025-01-03,202501030SAC,SAC,Q2,Malik Monk,https://www.basketball-reference.com/boxscores/202501030SAC.html,8.23,3,4,.750,0,1,.000,1,1,0,1,1,1,0,0,0,0,7,6.4,-5,1.000
+2025-01-03,202501030SAC,SAC,Q2,Trey Lyles,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.45,1,1,1.000,1,1,1.000,0,0,0,2,2,1,0,0,0,0,3,4.0,+1,
+2025-01-03,202501030SAC,SAC,Q2,Kevin Huerter,https://www.basketball-reference.com/boxscores/202501030SAC.html,6.1,1,3,.333,1,3,.333,0,0,0,0,0,1,0,0,1,0,3,1.0,-5,
+2025-01-03,202501030SAC,SAC,Q2,Devin Carter,https://www.basketball-reference.com/boxscores/202501030SAC.html,2.67,0,0,,0,0,,0,0,0,1,1,1,0,0,0,1,0,0.6,-6,
+2025-01-03,202501030SAC,SAC,Q2,Alex Len,https://www.basketball-reference.com/boxscores/202501030SAC.html,3.77,2,2,1.000,0,0,,0,0,1,0,1,0,0,1,0,1,4,4.4,-3,
+2025-01-03,202501030SAC,SAC,Q3,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.18,2,7,.286,0,3,.000,1,1,0,2,2,0,0,0,0,1,5,1.1,0,1.000
+2025-01-03,202501030SAC,SAC,Q3,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.48,2,3,.667,0,1,.000,0,0,1,2,3,0,0,0,1,1,4,2.6,-2,
+2025-01-03,202501030SAC,SAC,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.18,0,3,.000,0,1,.000,4,4,1,1,2,2,0,0,0,0,4,4.3,0,1.000
+2025-01-03,202501030SAC,SAC,Q3,Keon Ellis,https://www.basketball-reference.com/boxscores/202501030SAC.html,5.57,2,4,.500,0,2,.000,0,0,0,1,1,1,1,0,1,3,4,1.8,+6,
+2025-01-03,202501030SAC,SAC,Q3,Malik Monk,https://www.basketball-reference.com/boxscores/202501030SAC.html,7.3,1,4,.250,1,3,.333,0,0,0,0,0,2,1,0,1,1,3,1.6,-1,
+2025-01-03,202501030SAC,SAC,Q3,Trey Lyles,https://www.basketball-reference.com/boxscores/202501030SAC.html,7.52,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,-7,
+2025-01-03,202501030SAC,SAC,Q3,Kevin Huerter,https://www.basketball-reference.com/boxscores/202501030SAC.html,5.0,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,0,2,2.4,-5,
+2025-01-03,202501030SAC,SAC,Q3,Devin Carter,https://www.basketball-reference.com/boxscores/202501030SAC.html,4.25,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-9,
+2025-01-03,202501030SAC,SAC,Q3,Alex Len,https://www.basketball-reference.com/boxscores/202501030SAC.html,2.52,0,0,,0,0,,0,0,0,0,0,0,1,0,0,0,0,1.0,-2,
+2025-01-03,202501030SAC,SAC,Q4,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202501030SAC.html,10.82,2,6,.333,1,2,.500,7,8,0,0,0,1,0,0,1,2,12,7.1,-1,.875
+2025-01-03,202501030SAC,SAC,Q4,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202501030SAC.html,10.93,0,0,,0,0,,0,0,0,3,3,1,0,0,0,3,0,0.4,+4,
+2025-01-03,202501030SAC,SAC,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202501030SAC.html,10.17,5,7,.714,2,2,1.000,1,3,0,1,1,1,0,0,1,2,13,8.5,+9,.333
+2025-01-03,202501030SAC,SAC,Q4,Keon Ellis,https://www.basketball-reference.com/boxscores/202501030SAC.html,11.98,0,1,.000,0,0,,0,0,0,0,0,2,2,1,1,0,0,2.4,+1,
+2025-01-03,202501030SAC,SAC,Q4,Malik Monk,https://www.basketball-reference.com/boxscores/202501030SAC.html,9.7,4,6,.667,3,3,1.000,0,0,0,1,1,0,0,0,0,0,11,8.7,+3,
+2025-01-03,202501030SAC,SAC,Q4,Trey Lyles,https://www.basketball-reference.com/boxscores/202501030SAC.html,5.33,0,0,,0,0,,0,0,1,2,3,0,1,2,1,0,0,2.7,0,
+2025-01-03,202501030SAC,SAC,Q4,Alex Len,https://www.basketball-reference.com/boxscores/202501030SAC.html,1.07,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,

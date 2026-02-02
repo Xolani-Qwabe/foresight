@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-03,202412030LAC,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202412030LAC.html,34:54,.545,.545,.455,.000,7.9,9.5,8.6,16.1,3.0,5.7,15.4,17.0,113,135,0.9
+2024-12-03,202412030LAC,POR,Deandre Ayton,https://www.basketball-reference.com/boxscores/202412030LAC.html,32:50,.800,.800,.100,.000,0.0,15.1,6.9,10.0,0.0,3.0,9.1,15.3,146,143,0.0
+2024-12-03,202412030LAC,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202412030LAC.html,30:04,.274,.182,.545,.364,4.6,5.5,5.0,25.3,1.8,0.0,19.0,24.0,77,142,-16.5
+2024-12-03,202412030LAC,POR,Toumani Camara,https://www.basketball-reference.com/boxscores/202412030LAC.html,28:58,.643,.643,.429,.000,0.0,22.9,10.4,4.8,0.0,0.0,0.0,11.0,138,142,-5.5
+2024-12-03,202412030LAC,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202412030LAC.html,27:17,.815,.714,.571,.714,0.0,24.3,11.0,5.2,1.9,0.0,30.3,22.1,113,137,-3.4
+2024-12-03,202412030LAC,POR,Deni Avdija,https://www.basketball-reference.com/boxscores/202412030LAC.html,22:56,.833,.833,.333,.000,12.0,7.2,9.8,22.1,2.3,0.0,18.2,21.9,140,140,6.8
+2024-12-03,202412030LAC,POR,Dalano Banton,https://www.basketball-reference.com/boxscores/202412030LAC.html,20:50,.530,.455,.182,.455,13.2,0.0,7.2,23.4,0.0,0.0,7.0,31.1,122,148,-4.9
+2024-12-03,202412030LAC,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202412030LAC.html,15:00,.429,.429,.143,.000,18.3,33.1,25.0,10.2,3.5,6.7,22.2,27.4,85,128,-6.9
+2024-12-03,202412030LAC,POR,Rayan Rupert,https://www.basketball-reference.com/boxscores/202412030LAC.html,13:55,.387,.333,.333,.667,19.7,0.0,10.8,36.7,0.0,0.0,0.0,12.7,139,148,0.5
+2024-12-03,202412030LAC,POR,Kris Murray,https://www.basketball-reference.com/boxscores/202412030LAC.html,6:38,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,200,148,-2.9
+2024-12-03,202412030LAC,POR,Duop Reath,https://www.basketball-reference.com/boxscores/202412030LAC.html,6:38,1.000,1.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.7,182,148,12.9
+2024-12-03,202412030LAC,LAC,James Harden,https://www.basketball-reference.com/boxscores/202412030LAC.html,31:46,.607,.500,.667,.600,0.0,4.3,2.4,27.9,1.7,0.0,17.4,32.6,127,120,-2.6
+2024-12-03,202412030LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202412030LAC.html,28:23,.450,.500,.000,.250,23.3,29.0,26.4,8.4,0.0,6.6,10.1,15.7,118,114,-5.5
+2024-12-03,202412030LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202412030LAC.html,25:15,.919,.900,.467,.200,6.6,16.3,11.9,36.4,0.0,0.0,15.5,34.5,160,121,17.0
+2024-12-03,202412030LAC,LAC,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202412030LAC.html,24:56,.689,.650,.300,.200,6.6,16.5,12.0,5.4,4.2,0.0,0.0,19.7,158,111,4.8
+2024-12-03,202412030LAC,LAC,Kris Dunn,https://www.basketball-reference.com/boxscores/202412030LAC.html,20:17,.583,.583,.333,.000,8.2,6.8,7.4,17.8,5.2,0.0,0.0,13.3,157,112,4.0
+2024-12-03,202412030LAC,LAC,Jordan Miller,https://www.basketball-reference.com/boxscores/202412030LAC.html,23:42,.742,.722,.111,.111,14.0,11.6,12.7,17.4,0.0,4.0,9.6,19.9,155,120,5.0
+2024-12-03,202412030LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202412030LAC.html,22:55,.950,.950,.700,.000,0.0,12.0,6.5,19.4,0.0,0.0,9.1,21.6,175,122,13.8
+2024-12-03,202412030LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202412030LAC.html,19:43,.000,.000,1.000,.000,8.4,20.9,15.2,15.5,0.0,4.8,50.0,4.6,106,117,-3.3
+2024-12-03,202412030LAC,LAC,Mo Bamba,https://www.basketball-reference.com/boxscores/202412030LAC.html,16:34,.750,.750,.500,.000,10.0,16.6,13.6,0.0,6.4,17.0,33.3,8.2,109,97,3.5
+2024-12-03,202412030LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202412030LAC.html,13:24,.625,.625,.500,.000,0.0,0.0,0.0,0.0,0.0,7.0,20.0,16.8,100,121,-5.5
+2024-12-03,202412030LAC,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202412030LAC.html,6:38,.300,.300,.600,.000,0.0,20.7,11.3,36.4,8.0,0.0,0.0,34.0,107,102,-3.2
+2024-12-03,202412030LAC,LAC,Kai Jones,https://www.basketball-reference.com/boxscores/202412030LAC.html,6:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,125,-11.1

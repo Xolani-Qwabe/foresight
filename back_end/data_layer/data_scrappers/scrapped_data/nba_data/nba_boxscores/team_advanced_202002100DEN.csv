@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-10,202002100DEN,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202002100DEN.html,35:04,.607,.600,.320,.200,7.4,15.2,11.3,29.5,1.5,0.0,9.9,39.0,115,139,0.2
+2020-02-10,202002100DEN,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202002100DEN.html,33:39,.568,.500,.182,.273,3.9,19.8,11.7,37.9,1.6,0.0,0.0,16.6,148,138,2.2
+2020-02-10,202002100DEN,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202002100DEN.html,28:37,.956,.917,.667,.500,4.5,9.3,6.9,19.6,1.8,0.0,0.0,11.6,198,140,8.6
+2020-02-10,202002100DEN,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202002100DEN.html,28:34,1.000,1.000,.400,.000,4.5,28.0,16.1,4.9,1.8,3.7,28.6,11.1,122,134,1.6
+2020-02-10,202002100DEN,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202002100DEN.html,26:52,.311,.333,.000,.167,14.5,9.9,12.2,19.1,3.9,0.0,23.7,14.2,93,134,-8.3
+2020-02-10,202002100DEN,SAS,Marco Belinelli,https://www.basketball-reference.com/boxscores/202002100DEN.html,18:48,.000,.000,1.000,.000,0.0,0.0,0.0,12.5,2.8,0.0,0.0,7.2,48,139,-12.9
+2020-02-10,202002100DEN,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202002100DEN.html,18:39,.521,.250,.400,1.000,0.0,14.3,7.1,28.7,0.0,0.0,6.5,37.4,121,143,-7.2
+2020-02-10,202002100DEN,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202002100DEN.html,17:32,.786,.786,.857,.000,0.0,7.6,3.8,9.1,0.0,0.0,12.5,20.7,121,144,-1.4
+2020-02-10,202002100DEN,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202002100DEN.html,16:31,.630,.556,.333,.333,7.9,24.2,15.9,9.9,0.0,0.0,0.0,28.3,136,141,0.5
+2020-02-10,202002100DEN,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202002100DEN.html,15:44,1.000,1.000,.000,.000,0.0,16.9,8.4,19.2,0.0,0.0,25.0,11.5,143,142,-1.4
+2020-02-10,202002100DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202002100DEN.html,37:39,.825,.750,.125,1.000,10.6,17.2,14.0,44.4,0.0,2.4,30.3,21.0,148,134,4.7
+2020-02-10,202002100DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202002100DEN.html,34:22,.594,.571,.381,.095,0.0,7.5,3.8,28.3,1.5,0.0,8.4,33.3,121,134,-6.8
+2020-02-10,202002100DEN,DEN,Torrey Craig,https://www.basketball-reference.com/boxscores/202002100DEN.html,31:07,.698,.643,.857,.286,12.9,16.7,14.8,0.0,1.7,2.9,0.0,12.1,157,129,-0.7
+2020-02-10,202002100DEN,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/202002100DEN.html,29:40,.571,.571,.571,.000,0.0,21.9,11.1,4.0,0.0,3.1,12.5,12.9,101,132,-7.8
+2020-02-10,202002100DEN,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/202002100DEN.html,25:51,.667,.667,.500,.000,0.0,10.0,5.1,9.4,0.0,0.0,0.0,11.1,143,137,-5.1
+2020-02-10,202002100DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202002100DEN.html,22:37,.810,.778,.333,.222,0.0,0.0,0.0,26.3,2.3,0.0,9.2,23.1,153,134,5.0
+2020-02-10,202002100DEN,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202002100DEN.html,19:19,.768,.769,.385,.231,13.8,33.6,23.8,29.7,5.4,4.7,0.0,35.5,159,116,23.9
+2020-02-10,202002100DEN,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202002100DEN.html,18:00,.773,.833,.333,.667,0.0,7.2,3.7,13.4,2.9,0.0,20.5,13.0,128,131,-4.6
+2020-02-10,202002100DEN,DEN,Jordan McRae,https://www.basketball-reference.com/boxscores/202002100DEN.html,16:44,.680,.600,.800,.400,8.0,31.0,19.6,21.9,3.1,0.0,0.0,16.8,165,125,5.3
+2020-02-10,202002100DEN,DEN,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202002100DEN.html,4:41,.798,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,19.3,0.0,19.2,153,125,6.3

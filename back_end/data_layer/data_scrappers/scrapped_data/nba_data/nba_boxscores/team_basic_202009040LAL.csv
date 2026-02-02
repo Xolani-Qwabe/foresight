@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2020-09-04,202009040LAL,HOU,Robert Covington,https://www.basketball-reference.com/boxscores/202009040LAL.html,38.6,2,3,.667,2,3,.667,0,0,0,7,7,2,4,1,0,5,6,10.9,+5,
+2020-09-04,202009040LAL,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202009040LAL.html,35.87,2,7,.286,2,7,.286,0,0,3,6,9,1,2,0,2,4,6,4.9,+19,
+2020-09-04,202009040LAL,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202009040LAL.html,34.07,7,14,.500,3,8,.375,6,6,1,2,3,1,0,1,0,1,23,18.3,+1,1.000
+2020-09-04,202009040LAL,HOU,James Harden,https://www.basketball-reference.com/boxscores/202009040LAL.html,33.93,12,20,.600,3,6,.500,9,12,0,2,2,5,2,1,5,2,36,26.6,0,.750
+2020-09-04,202009040LAL,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/202009040LAL.html,32.05,10,24,.417,1,5,.200,3,6,0,9,9,6,1,0,5,2,24,12.1,+15,.500
+2020-09-04,202009040LAL,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202009040LAL.html,24.23,3,5,.600,1,3,.333,0,0,0,4,4,2,3,0,2,2,7,7.5,+16,
+2020-09-04,202009040LAL,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202009040LAL.html,20.12,0,3,.000,0,3,.000,0,0,0,4,4,0,1,0,0,2,0,-0.7,+5,
+2020-09-04,202009040LAL,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/202009040LAL.html,16.07,3,4,.750,2,3,.667,2,3,0,3,3,1,0,0,0,1,10,9.2,+11,.667
+2020-09-04,202009040LAL,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202009040LAL.html,3.85,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+2,
+2020-09-04,202009040LAL,HOU,Michael Frazier,https://www.basketball-reference.com/boxscores/202009040LAL.html,1.22,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2020-09-04,202009040LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202009040LAL.html,37.27,10,16,.625,1,2,.500,4,4,2,12,14,1,3,3,3,2,25,24.8,-6,1.000
+2020-09-04,202009040LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202009040LAL.html,36.57,7,15,.467,2,7,.286,4,5,1,7,8,7,0,2,4,2,20,16.2,-15,.800
+2020-09-04,202009040LAL,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202009040LAL.html,28.42,4,12,.333,2,7,.286,0,0,1,1,2,0,0,1,0,1,10,4.5,-3,
+2020-09-04,202009040LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202009040LAL.html,28.07,2,8,.250,1,5,.200,0,0,1,2,3,0,1,0,1,1,5,1.1,-4,
+2020-09-04,202009040LAL,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202009040LAL.html,12.65,2,2,1.000,0,0,,0,0,1,2,3,1,0,1,0,0,4,6.1,+5,
+2020-09-04,202009040LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202009040LAL.html,28.17,3,9,.333,1,4,.250,1,2,1,1,2,1,0,0,0,4,8,2.6,-21,.500
+2020-09-04,202009040LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202009040LAL.html,24.53,3,9,.333,2,5,.400,0,0,0,3,3,4,2,1,4,1,8,4.9,-10,
+2020-09-04,202009040LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202009040LAL.html,16.2,4,7,.571,2,5,.400,4,4,2,0,2,4,1,0,2,5,14,11.9,-2,1.000
+2020-09-04,202009040LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202009040LAL.html,11.15,0,1,.000,0,0,,1,2,1,3,4,0,1,0,0,2,1,1.7,-8,.500
+2020-09-04,202009040LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202009040LAL.html,9.17,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-10,
+2020-09-04,202009040LAL,LAL,Dion Waiters,https://www.basketball-reference.com/boxscores/202009040LAL.html,5.07,0,3,.000,0,2,.000,2,2,0,0,0,0,0,1,0,1,2,0.2,-1,1.000
+2020-09-04,202009040LAL,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202009040LAL.html,2.75,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,0,

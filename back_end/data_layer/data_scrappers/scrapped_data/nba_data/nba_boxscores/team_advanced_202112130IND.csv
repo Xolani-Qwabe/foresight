@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-13,202112130IND,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202112130IND.html,35:21,.586,.525,.750,.250,3.6,13.3,9.2,26.2,1.4,2.4,24.0,37.0,99,105,4.8
+2021-12-13,202112130IND,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202112130IND.html,34:06,.486,.467,.200,.067,7.4,8.3,7.9,4.4,1.5,7.4,11.5,22.9,96,103,-0.7
+2021-12-13,202112130IND,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202112130IND.html,31:02,.689,.700,.100,.200,8.1,21.2,15.6,24.8,0.0,0.0,21.6,20.0,121,106,3.1
+2021-12-13,202112130IND,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202112130IND.html,28:40,.388,.389,.444,.333,0.0,13.1,7.5,18.1,0.0,0.0,16.2,19.3,82,109,-8.3
+2021-12-13,202112130IND,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202112130IND.html,27:01,.700,.700,.000,.000,9.4,20.9,16.0,18.0,0.0,0.0,0.0,16.6,153,106,8.3
+2021-12-13,202112130IND,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202112130IND.html,25:01,.556,.556,.222,.000,5.0,18.8,12.9,0.0,0.0,0.0,0.0,16.1,118,107,-1.2
+2021-12-13,202112130IND,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202112130IND.html,19:29,.436,.333,.667,.333,0.0,14.5,8.3,0.0,5.2,4.3,0.0,7.9,97,95,3.5
+2021-12-13,202112130IND,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202112130IND.html,13:32,.500,.500,.000,.000,9.3,13.9,12.0,18.4,3.7,0.0,33.3,9.9,102,101,0.0
+2021-12-13,202112130IND,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202112130IND.html,9:01,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,5.6,9.3,0.0,5.0,300,97,16.7
+2021-12-13,202112130IND,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202112130IND.html,8:48,1.500,1.500,1.000,.000,0.0,21.4,12.3,0.0,0.0,0.0,50.0,10.2,105,105,-3.6
+2021-12-13,202112130IND,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202112130IND.html,6:01,.387,.333,.333,.667,0.0,15.6,9.0,0.0,0.0,0.0,20.5,36.3,64,109,-16.8
+2021-12-13,202112130IND,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202112130IND.html,1:58,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.8,0,115,-26.2
+2021-12-13,202112130IND,IND,Caris LeVert,https://www.basketball-reference.com/boxscores/202112130IND.html,36:50,.503,.472,.333,.111,2.6,3.4,2.9,25.2,1.4,0.0,13.7,25.8,100,113,0.2
+2021-12-13,202112130IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202112130IND.html,36:24,.625,.536,.214,.714,5.2,13.9,8.9,40.9,2.8,0.0,9.8,24.3,132,108,12.2
+2021-12-13,202112130IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202112130IND.html,36:23,.701,.706,.059,.588,15.5,17.4,16.3,0.0,2.8,2.4,4.5,26.7,142,105,12.8
+2021-12-13,202112130IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202112130IND.html,35:36,.255,.100,.600,.400,2.6,31.9,15.1,4.0,0.0,10.0,7.8,15.5,63,103,-6.5
+2021-12-13,202112130IND,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202112130IND.html,21:55,.250,.250,.500,.000,0.0,23.1,9.8,6.7,0.0,0.0,33.3,17.8,40,111,-17.8
+2021-12-13,202112130IND,IND,Kelan Martin,https://www.basketball-reference.com/boxscores/202112130IND.html,26:23,.286,.286,.429,.000,0.0,4.8,2.0,0.0,0.0,0.0,0.0,11.5,64,115,-11.9
+2021-12-13,202112130IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202112130IND.html,24:35,.571,.571,.714,.000,3.8,15.4,8.8,0.0,10.2,0.0,0.0,12.4,124,91,9.7
+2021-12-13,202112130IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202112130IND.html,16:55,.272,.143,.429,.714,5.6,14.9,9.6,8.8,3.0,0.0,0.0,23.6,74,107,-7.2
+2021-12-13,202112130IND,IND,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202112130IND.html,4:59,1.000,1.000,.000,.000,18.9,0.0,10.8,0.0,0.0,0.0,0.0,8.7,205,116,3.3

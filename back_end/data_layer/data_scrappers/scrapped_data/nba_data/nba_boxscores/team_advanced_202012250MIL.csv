@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-12-25,202012250MIL,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202012250MIL.html,28:58,.495,.412,.588,.294,0.0,15.1,6.4,41.3,1.5,0.0,9.4,29.0,102,128,3.5
+2020-12-25,202012250MIL,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202012250MIL.html,25:03,.660,.591,.364,.545,9.7,21.8,14.9,0.0,0.0,10.6,12.8,24.8,121,123,4.8
+2020-12-25,202012250MIL,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202012250MIL.html,24:59,.415,.375,.375,.125,3.3,4.4,3.7,6.8,1.8,0.0,10.6,15.0,84,130,-7.4
+2020-12-25,202012250MIL,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202012250MIL.html,24:54,.333,.333,.222,.000,9.8,13.1,11.2,0.0,1.8,0.0,5.3,30.3,72,128,-10.2
+2020-12-25,202012250MIL,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202012250MIL.html,19:46,.138,.100,.500,.200,4.1,22.1,11.8,7.7,2.3,0.0,15.5,25.8,33,125,-19.6
+2020-12-25,202012250MIL,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202012250MIL.html,19:02,.463,.409,.545,.182,0.0,5.7,2.4,0.0,0.0,0.0,0.0,24.8,96,134,-4.9
+2020-12-25,202012250MIL,GSW,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202012250MIL.html,19:02,.698,.643,.286,.286,0.0,5.7,2.4,21.1,2.3,0.0,0.0,16.4,147,128,4.9
+2020-12-25,202012250MIL,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202012250MIL.html,18:54,.846,.750,1.000,.750,0.0,11.5,4.9,8.8,0.0,0.0,15.8,13.3,144,133,2.5
+2020-12-25,202012250MIL,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202012250MIL.html,17:34,.375,.375,1.000,.000,0.0,18.6,8.0,0.0,0.0,5.1,0.0,9.0,78,128,-5.2
+2020-12-25,202012250MIL,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202012250MIL.html,14:17,.347,.250,.500,1.000,0.0,38.2,16.3,11.0,0.0,12.4,25.8,21.6,58,119,-6.7
+2020-12-25,202012250MIL,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202012250MIL.html,12:33,,,,,6.5,17.4,11.1,11.2,0.0,0.0,,0.0,228,132,-6.9
+2020-12-25,202012250MIL,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202012250MIL.html,11:01,.333,.333,.333,.000,7.4,19.8,12.7,0.0,0.0,0.0,0.0,10.8,84,131,-9.6
+2020-12-25,202012250MIL,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202012250MIL.html,3:56,.000,.000,.000,.000,0.0,0.0,0.0,35.9,0.0,0.0,0.0,20.2,24,134,-19.1
+2020-12-25,202012250MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202012250MIL.html,26:42,.364,.286,.214,1.071,16.3,27.4,22.7,16.8,0.0,0.0,8.8,34.3,95,92,-9.5
+2020-12-25,202012250MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202012250MIL.html,25:47,.901,.867,.533,.333,0.0,12.6,7.2,29.7,3.5,0.0,10.4,30.2,167,90,23.4
+2020-12-25,202012250MIL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202012250MIL.html,25:22,.750,.750,.125,.000,4.3,9.6,7.3,29.4,0.0,3.5,27.3,17.6,130,96,3.6
+2020-12-25,202012250MIL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202012250MIL.html,19:59,.813,.813,.625,.000,5.5,12.2,9.3,0.0,4.5,0.0,20.0,20.3,123,87,8.0
+2020-12-25,202012250MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202012250MIL.html,19:43,.581,.500,.167,.333,11.1,8.3,9.5,0.0,0.0,4.5,22.5,18.3,104,96,-5.0
+2020-12-25,202012250MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202012250MIL.html,25:53,.556,.556,.333,.000,4.2,34.6,21.6,9.1,1.7,3.4,10.0,15.7,116,84,3.3
+2020-12-25,202012250MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202012250MIL.html,18:53,.333,.333,.333,.000,0.0,30.2,17.3,10.7,0.0,0.0,0.0,6.4,109,91,0.6
+2020-12-25,202012250MIL,MIL,D.J. Wilson,https://www.basketball-reference.com/boxscores/202012250MIL.html,13:56,1.125,1.125,.750,.000,0.0,23.4,13.4,0.0,0.0,6.4,20.0,14.5,154,89,11.9
+2020-12-25,202012250MIL,MIL,D.J. Augustin,https://www.basketball-reference.com/boxscores/202012250MIL.html,13:27,.945,.917,.500,.333,0.0,0.0,0.0,10.0,0.0,0.0,0.0,20.7,192,102,14.3
+2020-12-25,202012250MIL,MIL,Bryn Forbes,https://www.basketball-reference.com/boxscores/202012250MIL.html,13:21,.800,.800,.600,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.2,157,102,3.5
+2020-12-25,202012250MIL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202012250MIL.html,9:46,1.000,1.000,.000,.000,0.0,0.0,0.0,12.2,0.0,0.0,33.3,12.4,130,102,1.2
+2020-12-25,202012250MIL,MIL,Torrey Craig,https://www.basketball-reference.com/boxscores/202012250MIL.html,9:46,.000,.000,.000,.000,0.0,33.3,19.1,0.0,0.0,0.0,50.0,8.3,0,90,-12.1
+2020-12-25,202012250MIL,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202012250MIL.html,9:46,.509,.417,.500,.333,0.0,8.3,4.8,0.0,0.0,0.0,12.7,32.7,94,99,-13.2
+2020-12-25,202012250MIL,MIL,Sam Merrill,https://www.basketball-reference.com/boxscores/202012250MIL.html,7:37,1.000,1.000,.667,.000,28.6,10.7,18.4,67.4,5.9,0.0,25.0,21.3,182,85,38.0

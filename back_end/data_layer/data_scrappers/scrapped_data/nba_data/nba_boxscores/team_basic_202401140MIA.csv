@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-01-14,202401140MIA,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202401140MIA.html,37.77,8,17,.471,1,7,.143,3,3,1.000,1,6,7,1,1,0,3,0,20,12.5,-16
+2024-01-14,202401140MIA,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202401140MIA.html,34.6,8,23,.348,4,11,.364,6,6,1.000,2,3,5,7,0,0,1,2,26,18.5,-18
+2024-01-14,202401140MIA,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202401140MIA.html,30.48,9,24,.375,3,13,.231,0,0,,2,8,10,5,3,0,2,3,21,14.9,+8
+2024-01-14,202401140MIA,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202401140MIA.html,26.73,1,5,.200,0,0,,0,0,,0,8,8,0,0,0,1,4,2,-1.3,-15
+2024-01-14,202401140MIA,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202401140MIA.html,22.8,1,3,.333,1,2,.500,0,0,,2,0,2,2,0,2,3,1,3,2.1,-8
+2024-01-14,202401140MIA,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202401140MIA.html,28.42,2,7,.286,1,5,.200,0,2,.000,2,4,6,1,1,0,1,3,5,2.2,-4
+2024-01-14,202401140MIA,CHO,Nick Smith Jr.,https://www.basketball-reference.com/boxscores/202401140MIA.html,16.28,2,5,.400,0,2,.000,0,0,,0,2,2,0,0,0,2,0,4,-0.1,-19
+2024-01-14,202401140MIA,CHO,Ish Smith,https://www.basketball-reference.com/boxscores/202401140MIA.html,12.47,0,1,.000,0,0,,1,2,.500,1,1,2,0,0,0,0,0,1,0.9,-6
+2024-01-14,202401140MIA,CHO,Nathan Mensah,https://www.basketball-reference.com/boxscores/202401140MIA.html,11.17,1,1,1.000,0,0,,0,0,,2,0,2,0,0,0,0,3,2,1.9,0
+2024-01-14,202401140MIA,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202401140MIA.html,9.62,0,6,.000,0,0,,0,0,,4,0,4,1,0,1,0,1,0,-0.4,-10
+2024-01-14,202401140MIA,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202401140MIA.html,5.33,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,0,0,0,2,2.0,+1
+2024-01-14,202401140MIA,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202401140MIA.html,2.17,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,+1
+2024-01-14,202401140MIA,CHO,Leaky Black,https://www.basketball-reference.com/boxscores/202401140MIA.html,2.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2024-01-14,202401140MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202401140MIA.html,35.38,9,17,.529,0,1,.000,6,8,.750,0,10,10,7,0,1,2,3,24,20.3,+5
+2024-01-14,202401140MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202401140MIA.html,28.47,7,15,.467,4,9,.444,3,4,.750,1,6,7,4,1,0,3,1,21,15.8,+12
+2024-01-14,202401140MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202401140MIA.html,27.87,2,6,.333,1,2,.500,0,0,,1,6,7,2,0,2,3,3,5,2.7,+13
+2024-01-14,202401140MIA,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202401140MIA.html,25.87,0,3,.000,0,1,.000,0,0,,0,4,4,3,0,1,2,1,0,-0.5,+7
+2024-01-14,202401140MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202401140MIA.html,14.62,7,11,.636,0,0,,1,1,1.000,1,4,5,2,1,0,0,1,15,14.0,+8
+2024-01-14,202401140MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202401140MIA.html,31.1,3,5,.600,1,1,1.000,0,0,,0,2,2,2,2,1,0,0,7,9.4,+11
+2024-01-14,202401140MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202401140MIA.html,30.07,7,11,.636,3,6,.500,2,2,1.000,0,4,4,5,1,1,2,2,19,17.7,+12
+2024-01-14,202401140MIA,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202401140MIA.html,24.93,1,5,.200,0,2,.000,0,0,,0,3,3,2,1,0,1,2,2,0.4,+13
+2024-01-14,202401140MIA,MIA,Josh Richardson,https://www.basketball-reference.com/boxscores/202401140MIA.html,19.53,4,8,.500,2,3,.667,1,1,1.000,1,1,2,0,0,0,1,1,11,6.6,+5
+2024-01-14,202401140MIA,MIA,Orlando Robinson,https://www.basketball-reference.com/boxscores/202401140MIA.html,2.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1

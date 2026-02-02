@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-15,202211150DAL,LAC,Paul George,https://www.basketball-reference.com/boxscores/202211150DAL.html,41:28,.696,.577,.231,.615,0.0,18.0,10.9,26.8,2.5,0.0,37.7,31.8,94,110,-4.9
+2022-11-15,202211150DAL,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202211150DAL.html,36:34,.705,.682,.455,.364,0.0,8.8,5.3,21.2,2.8,0.0,0.0,17.4,148,111,7.9
+2022-11-15,202211150DAL,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202211150DAL.html,32:38,.399,.000,.000,2.000,10.1,16.3,13.9,17.3,0.0,8.0,21.0,7.3,121,111,-0.1
+2022-11-15,202211150DAL,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202211150DAL.html,25:07,.429,.429,.429,.000,0.0,17.0,10.3,13.5,2.1,0.0,22.2,17.8,75,111,-6.9
+2022-11-15,202211150DAL,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202211150DAL.html,2:53,,,,,0.0,37.0,22.5,0.0,18.0,0.0,,0.0,0,67,13.2
+2022-11-15,202211150DAL,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202211150DAL.html,26:26,1.396,1.500,1.000,.286,6.3,16.1,12.3,0.0,2.0,0.0,20.2,18.6,162,111,20.7
+2022-11-15,202211150DAL,LAC,John Wall,https://www.basketball-reference.com/boxscores/202211150DAL.html,26:21,.623,.591,.273,.545,0.0,24.3,14.8,31.6,2.0,0.0,18.0,31.4,108,109,-2.0
+2022-11-15,202211150DAL,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202211150DAL.html,18:16,.250,.250,.500,.000,0.0,11.7,7.1,9.1,0.0,0.0,0.0,27.2,57,117,-17.8
+2022-11-15,202211150DAL,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202211150DAL.html,14:30,1.000,1.000,.000,.000,0.0,22.1,13.4,10.8,0.0,0.0,0.0,3.4,212,114,-1.1
+2022-11-15,202211150DAL,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202211150DAL.html,10:21,1.136,,,,0.0,0.0,0.0,13.6,0.0,0.0,53.2,9.0,128,118,-10.3
+2022-11-15,202211150DAL,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202211150DAL.html,5:26,.750,.750,1.000,.000,0.0,39.3,23.9,0.0,0.0,0.0,50.0,36.6,55,110,-14.2
+2022-11-15,202211150DAL,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202211150DAL.html,40:59,.490,.467,.533,.200,2.6,8.1,4.7,25.1,2.5,0.0,10.9,20.9,106,111,-2.1
+2022-11-15,202211150DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202211150DAL.html,39:43,.652,.545,.227,.500,5.4,37.5,18.0,27.8,3.9,0.0,10.1,35.2,129,105,11.6
+2022-11-15,202211150DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202211150DAL.html,36:25,.700,.700,.867,.000,2.9,9.1,5.3,0.0,4.3,0.0,0.0,19.3,134,106,8.6
+2022-11-15,202211150DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202211150DAL.html,30:50,.732,.750,1.000,.250,3.5,10.7,6.3,5.4,0.0,0.0,0.0,13.5,147,116,1.6
+2022-11-15,202211150DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202211150DAL.html,22:28,.387,.333,.000,.667,9.5,0.0,5.8,32.5,2.3,0.0,20.5,10.2,121,111,-0.5
+2022-11-15,202211150DAL,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202211150DAL.html,23:49,.768,.875,.250,.500,0.0,48.6,19.1,0.0,0.0,0.0,29.1,27.0,89,114,-3.7
+2022-11-15,202211150DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202211150DAL.html,22:28,.000,.000,.714,.000,4.7,14.7,8.7,18.3,6.9,0.0,22.2,18.7,32,100,-12.7
+2022-11-15,202211150DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202211150DAL.html,13:40,.000,.000,1.000,2.000,0.0,12.1,4.7,0.0,0.0,0.0,0.0,6.4,0,116,-15.7
+2022-11-15,202211150DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202211150DAL.html,9:38,.000,.000,1.000,.000,0.0,17.2,6.7,0.0,0.0,13.8,0.0,4.9,0,105,-10.7

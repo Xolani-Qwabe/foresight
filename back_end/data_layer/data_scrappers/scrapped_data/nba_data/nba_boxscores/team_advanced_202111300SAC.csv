@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-30,202111300SAC,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202111300SAC.html,34:55,.546,.545,.091,.091,6.7,14.9,11.1,14.0,2.8,5.5,4.2,28.6,117,89,5.8
+2021-11-30,202111300SAC,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202111300SAC.html,34:42,.478,.452,.238,.333,0.0,15.0,7.9,24.7,1.4,0.0,14.2,33.8,96,96,-3.2
+2021-11-30,202111300SAC,LAL,Wayne Ellington,https://www.basketball-reference.com/boxscores/202111300SAC.html,33:26,.750,.750,1.000,.000,0.0,3.1,1.7,6.9,4.3,2.9,0.0,7.5,160,90,6.5
+2021-11-30,202111300SAC,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202111300SAC.html,16:15,.333,.333,.333,.000,0.0,12.8,6.8,13.7,3.0,5.9,50.0,15.4,50,88,-9.7
+2021-11-30,202111300SAC,LAL,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202111300SAC.html,4:22,.000,.000,.000,.000,0.0,47.8,25.3,0.0,0.0,0.0,0.0,9.6,0,91,-11.3
+2021-11-30,202111300SAC,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202111300SAC.html,35:04,.721,.714,.000,.429,16.7,23.8,20.5,0.0,2.7,5.5,26.5,13.5,119,87,0.2
+2021-11-30,202111300SAC,LAL,Malik Monk,https://www.basketball-reference.com/boxscores/202111300SAC.html,32:35,.688,.688,.625,.000,0.0,12.8,6.8,17.2,0.0,0.0,11.1,23.1,129,99,6.1
+2021-11-30,202111300SAC,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202111300SAC.html,19:10,.601,.444,.222,.667,0.0,5.4,2.9,7.0,2.5,0.0,0.0,25.4,135,95,3.9
+2021-11-30,202111300SAC,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202111300SAC.html,18:13,.521,.500,.000,1.000,12.9,17.2,15.1,6.1,0.0,0.0,0.0,6.6,143,98,-0.5
+2021-11-30,202111300SAC,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202111300SAC.html,8:49,.667,.667,.333,.000,13.3,59.2,37.5,15.5,0.0,0.0,25.0,19.0,115,88,0.7
+2021-11-30,202111300SAC,LAL,Kent Bazemore,https://www.basketball-reference.com/boxscores/202111300SAC.html,2:29,.750,.750,.500,.000,0.0,42.0,22.2,72.5,0.0,0.0,0.0,33.7,173,93,35.3
+2021-11-30,202111300SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202111300SAC.html,36:00,.656,.500,.222,1.000,0.0,16.3,7.7,22.5,2.7,0.0,35.1,24.7,92,117,-5.7
+2021-11-30,202111300SAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202111300SAC.html,35:47,.700,.700,.100,.000,8.7,26.2,17.0,0.0,4.0,0.0,0.0,12.5,143,112,3.8
+2021-11-30,202111300SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202111300SAC.html,33:21,.951,1.000,.000,.417,12.5,14.0,13.2,16.2,0.0,4.5,12.3,21.7,162,120,12.1
+2021-11-30,202111300SAC,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202111300SAC.html,32:17,.276,.250,.200,.200,3.2,14.5,8.5,27.9,3.0,0.0,21.6,19.2,67,117,-8.2
+2021-11-30,202111300SAC,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202111300SAC.html,14:31,.424,.444,.444,.111,0.0,48.4,22.8,15.2,3.3,10.3,17.5,35.1,69,100,-2.0
+2021-11-30,202111300SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202111300SAC.html,32:12,.300,.214,.857,.429,0.0,7.3,3.4,22.2,0.0,0.0,10.7,12.9,79,125,-8.2
+2021-11-30,202111300SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202111300SAC.html,24:01,.286,.286,.571,.000,0.0,4.9,2.3,13.8,4.0,0.0,17.6,31.6,53,116,-14.3
+2021-11-30,202111300SAC,SAC,Louis King,https://www.basketball-reference.com/boxscores/202111300SAC.html,14:42,.291,.167,.667,.333,0.0,8.0,3.8,0.0,0.0,0.0,0.0,20.9,65,124,-19.1
+2021-11-30,202111300SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202111300SAC.html,12:10,1.500,1.500,1.000,.000,8.6,0.0,4.5,12.7,4.0,0.0,50.0,7.3,130,117,-1.4
+2021-11-30,202111300SAC,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202111300SAC.html,2:29,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-10.7
+2021-11-30,202111300SAC,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202111300SAC.html,2:29,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0,126,-23.6

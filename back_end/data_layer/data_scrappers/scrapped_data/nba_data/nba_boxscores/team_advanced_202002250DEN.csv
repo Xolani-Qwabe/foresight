@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-25,202002250DEN,DET,Christian Wood,https://www.basketball-reference.com/boxscores/202002250DEN.html,33:53,.512,.438,.125,.500,16.1,23.6,19.1,6.1,1.5,2.5,17.0,31.4,98,123,-6.4
+2020-02-25,202002250DEN,DET,Tony Snell,https://www.basketball-reference.com/boxscores/202002250DEN.html,32:16,.714,.714,.714,.000,3.4,14.9,8.0,38.5,1.6,0.0,0.0,9.8,171,126,7.2
+2020-02-25,202002250DEN,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/202002250DEN.html,27:01,.585,.464,.214,.500,4.0,5.9,4.8,39.8,3.9,0.0,19.0,35.3,110,122,3.6
+2020-02-25,202002250DEN,DET,John Henson,https://www.basketball-reference.com/boxscores/202002250DEN.html,20:44,.500,.500,.000,.000,10.5,30.9,18.8,8.2,0.0,4.1,33.3,13.1,84,123,-9.6
+2020-02-25,202002250DEN,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202002250DEN.html,17:14,.500,.500,1.000,.000,0.0,0.0,0.0,10.2,3.0,0.0,14.3,18.4,91,125,-4.6
+2020-02-25,202002250DEN,DET,Brandon Knight,https://www.basketball-reference.com/boxscores/202002250DEN.html,24:57,.651,.667,1.000,.444,0.0,12.8,5.2,45.6,2.1,0.0,21.8,24.9,114,125,4.5
+2020-02-25,202002250DEN,DET,Langston Galloway,https://www.basketball-reference.com/boxscores/202002250DEN.html,24:56,.667,.667,.889,.000,0.0,12.8,5.2,0.0,0.0,0.0,0.0,16.3,127,129,-0.6
+2020-02-25,202002250DEN,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/202002250DEN.html,18:26,.300,.300,.800,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.3,67,132,-11.6
+2020-02-25,202002250DEN,DET,Donta Hall,https://www.basketball-reference.com/boxscores/202002250DEN.html,14:53,.694,.500,.000,1.000,22.0,10.8,17.4,10.8,0.0,0.0,25.8,11.8,137,130,-3.2
+2020-02-25,202002250DEN,DET,Khyri Thomas,https://www.basketball-reference.com/boxscores/202002250DEN.html,13:51,.375,.375,.750,.000,0.0,0.0,0.0,11.7,0.0,0.0,20.0,16.3,72,132,-13.2
+2020-02-25,202002250DEN,DET,Derrick Walton,https://www.basketball-reference.com/boxscores/202002250DEN.html,6:01,.000,.000,1.000,.000,0.0,0.0,0.0,24.2,8.7,0.0,0.0,7.5,61,113,0.7
+2020-02-25,202002250DEN,DET,Thon Maker,https://www.basketball-reference.com/boxscores/202002250DEN.html,5:48,.250,.250,.000,.000,0.0,82.8,33.6,0.0,9.0,0.0,0.0,31.2,56,98,-7.2
+2020-02-25,202002250DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202002250DEN.html,33:09,.563,.500,.333,.417,0.0,16.5,9.8,31.5,1.6,3.6,6.6,21.2,133,108,3.8
+2020-02-25,202002250DEN,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/202002250DEN.html,31:21,.500,.500,.222,.000,10.2,3.5,6.2,12.1,1.7,0.0,10.0,14.8,115,115,-3.8
+2020-02-25,202002250DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202002250DEN.html,29:15,.579,.333,.000,1.000,0.0,11.2,6.7,11.6,3.6,0.0,41.0,11.6,90,107,-4.0
+2020-02-25,202002250DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202002250DEN.html,27:59,.784,.688,.125,.625,11.4,11.7,11.6,19.4,7.5,0.0,32.9,25.1,116,97,4.9
+2020-02-25,202002250DEN,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202002250DEN.html,18:52,.450,.450,.400,.000,17.0,11.6,13.8,15.0,2.8,0.0,23.1,31.9,86,108,-12.5
+2020-02-25,202002250DEN,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/202002250DEN.html,29:08,.913,.900,.333,.133,0.0,15.0,8.9,6.8,0.0,0.0,0.0,25.2,180,114,12.7
+2020-02-25,202002250DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202002250DEN.html,26:05,.800,.800,.000,.000,0.0,8.4,5.0,25.1,6.0,4.6,16.7,10.6,148,100,9.4
+2020-02-25,202002250DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202002250DEN.html,22:29,.722,.722,.333,.000,14.2,29.1,23.1,6.8,0.0,0.0,18.2,22.7,118,108,-0.7
+2020-02-25,202002250DEN,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/202002250DEN.html,18:20,.658,.667,.000,2.333,0.0,35.7,21.2,20.3,0.0,6.5,24.8,20.4,112,102,-0.4
+2020-02-25,202002250DEN,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202002250DEN.html,1:41,.000,.000,.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,27.5,104,120,6.4
+2020-02-25,202002250DEN,DEN,Noah Vonleh,https://www.basketball-reference.com/boxscores/202002250DEN.html,1:41,1.000,1.000,.000,.000,95.0,0.0,38.5,100.0,0.0,0.0,0.0,27.5,209,120,53.1

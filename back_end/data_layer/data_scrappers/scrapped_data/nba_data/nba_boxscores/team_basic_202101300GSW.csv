@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-30,202101300GSW,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202101300GSW.html,28.43,5,8,.625,2,5,.400,6,8,.750,0,1,1,1,1,0,2,1,18,13.2,-22
+2021-01-30,202101300GSW,DET,Delon Wright,https://www.basketball-reference.com/boxscores/202101300GSW.html,23.4,2,6,.333,1,3,.333,2,4,.500,0,6,6,4,1,0,0,1,7,8.0,-29
+2021-01-30,202101300GSW,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/202101300GSW.html,21.43,1,8,.125,1,3,.333,2,2,1.000,1,2,3,2,0,0,2,2,5,-0.3,-28
+2021-01-30,202101300GSW,DET,Wayne Ellington,https://www.basketball-reference.com/boxscores/202101300GSW.html,17.57,0,6,.000,0,5,.000,0,0,,0,2,2,1,1,0,0,0,0,-1.9,-25
+2021-01-30,202101300GSW,DET,Mason Plumlee,https://www.basketball-reference.com/boxscores/202101300GSW.html,16.27,2,3,.667,0,0,,2,2,1.000,0,2,2,1,0,1,0,0,6,6.7,-24
+2021-01-30,202101300GSW,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202101300GSW.html,24.2,4,9,.444,2,6,.333,7,8,.875,1,5,6,1,1,1,2,3,17,13.3,-6
+2021-01-30,202101300GSW,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/202101300GSW.html,21.1,2,5,.400,0,3,.000,1,2,.500,0,2,2,2,2,0,4,4,5,0.3,-3
+2021-01-30,202101300GSW,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202101300GSW.html,19.73,3,4,.750,0,0,,2,4,.500,2,3,5,0,0,2,1,2,8,7.5,-2
+2021-01-30,202101300GSW,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/202101300GSW.html,17.05,3,11,.273,0,1,.000,2,2,1.000,2,0,2,2,1,0,0,0,8,5.3,-1
+2021-01-30,202101300GSW,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202101300GSW.html,15.45,1,4,.250,0,3,.000,0,0,,0,4,4,1,0,0,0,1,2,1.1,-1
+2021-01-30,202101300GSW,DET,Jahlil Okafor,https://www.basketball-reference.com/boxscores/202101300GSW.html,12.0,1,3,.333,0,1,.000,0,0,,1,2,3,0,0,0,0,0,2,1.6,-1
+2021-01-30,202101300GSW,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202101300GSW.html,9.42,1,5,.200,1,4,.250,0,0,,0,0,0,1,0,0,1,0,3,-0.4,-2
+2021-01-30,202101300GSW,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202101300GSW.html,7.55,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,0,2,0.7,+3
+2021-01-30,202101300GSW,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202101300GSW.html,6.4,3,3,1.000,2,2,1.000,0,0,,0,2,2,0,0,0,1,0,8,6.7,+6
+2021-01-30,202101300GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202101300GSW.html,29.95,11,17,.647,6,8,.750,0,0,,0,5,5,7,2,0,6,1,28,22.5,+26
+2021-01-30,202101300GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202101300GSW.html,27.75,2,5,.400,0,2,.000,0,0,,0,5,5,6,1,0,1,0,4,7.0,+23
+2021-01-30,202101300GSW,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202101300GSW.html,27.05,8,14,.571,2,6,.333,0,2,.000,2,4,6,1,0,1,1,2,18,12.8,+24
+2021-01-30,202101300GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202101300GSW.html,25.47,8,17,.471,3,6,.500,1,2,.500,1,3,4,3,1,1,1,4,20,13.7,+28
+2021-01-30,202101300GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202101300GSW.html,22.52,3,3,1.000,0,0,,0,0,,2,4,6,4,0,2,0,1,6,11.5,+15
+2021-01-30,202101300GSW,GSW,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202101300GSW.html,21.15,3,3,1.000,1,1,1.000,0,0,,0,2,2,7,1,0,1,2,7,10.8,0
+2021-01-30,202101300GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202101300GSW.html,20.7,4,8,.500,3,6,.500,5,5,1.000,1,1,2,1,0,1,1,4,16,11.8,+2
+2021-01-30,202101300GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202101300GSW.html,19.92,2,3,.667,2,3,.667,0,0,,0,2,2,1,0,0,1,4,6,3.4,+5
+2021-01-30,202101300GSW,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202101300GSW.html,17.25,5,12,.417,0,1,.000,1,1,1.000,2,7,9,2,0,0,0,2,11,8.7,+9
+2021-01-30,202101300GSW,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202101300GSW.html,15.62,0,2,.000,0,2,.000,0,0,,0,4,4,0,1,0,1,3,0,-1.4,+1
+2021-01-30,202101300GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202101300GSW.html,8.23,1,4,.250,0,0,,0,0,,0,2,2,2,0,0,1,0,2,0.6,+3
+2021-01-30,202101300GSW,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202101300GSW.html,4.4,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1

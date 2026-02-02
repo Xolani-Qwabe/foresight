@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-04-19,202504190LAL,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202504190LAL.html,35:25,.481,.455,.409,.091,7.5,17.7,13.2,36.8,1.6,0.0,4.2,32.2,127,110,3.0
+2025-04-19,202504190LAL,MIN,Julius Randle,https://www.basketball-reference.com/boxscores/202504190LAL.html,34:46,.699,.727,.545,.091,7.7,9.0,8.4,19.3,0.0,0.0,38.0,25.4,97,118,-5.5
+2025-04-19,202504190LAL,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202504190LAL.html,33:18,.962,.962,.231,.000,16.0,15.7,15.8,10.2,1.7,0.0,0.0,18.7,199,111,16.4
+2025-04-19,202504190LAL,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202504190LAL.html,24:19,.500,.500,.000,.000,5.5,21.5,14.4,4.7,0.0,4.7,0.0,3.9,149,109,-3.8
+2025-04-19,202504190LAL,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202504190LAL.html,22:29,.827,.800,.600,.200,0.0,13.9,7.8,17.0,7.4,0.0,15.5,13.7,152,98,10.8
+2025-04-19,202504190LAL,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202504190LAL.html,30:51,.893,.917,.750,.167,0.0,16.9,9.5,9.9,0.0,7.4,0.0,20.0,177,110,18.1
+2025-04-19,202504190LAL,MIN,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202504190LAL.html,24:33,.500,.500,.556,.000,5.4,17.0,11.9,21.6,4.5,0.0,10.0,19.5,120,103,1.6
+2025-04-19,202504190LAL,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202504190LAL.html,20:13,.354,.278,.667,.222,0.0,5.2,2.9,18.1,0.0,5.7,0.0,23.4,104,117,-8.2
+2025-04-19,202504190LAL,MIN,Jaylen Clark,https://www.basketball-reference.com/boxscores/202504190LAL.html,3:08,1.136,,,,0.0,0.0,0.0,0.0,17.7,0.0,0.0,13.4,250,79,24.3
+2025-04-19,202504190LAL,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202504190LAL.html,3:02,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.8,0,122,-24.7
+2025-04-19,202504190LAL,MIN,Terrence Shannon Jr.,https://www.basketball-reference.com/boxscores/202504190LAL.html,3:02,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.8,0,122,-24.8
+2025-04-19,202504190LAL,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202504190LAL.html,2:49,1.000,1.000,.000,.000,47.3,0.0,20.8,0.0,0.0,0.0,0.0,17.0,218,122,12.7
+2025-04-19,202504190LAL,MIN,Leonard Miller,https://www.basketball-reference.com/boxscores/202504190LAL.html,2:05,,,,,0.0,50.1,28.1,0.0,0.0,0.0,,0.0,0,98,-2.3
+2025-04-19,202504190LAL,LAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202504190LAL.html,40:23,.713,.659,.455,.409,2.6,23.1,11.6,6.3,2.7,0.0,16.1,35.7,123,130,9.4
+2025-04-19,202504190LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202504190LAL.html,36:59,.559,.500,.615,.231,0.0,10.8,4.7,14.7,0.0,0.0,12.3,20.6,112,140,-5.1
+2025-04-19,202504190LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202504190LAL.html,36:15,.503,.472,.278,.111,2.9,14.7,8.1,17.7,3.1,9.0,17.5,29.4,95,126,2.4
+2025-04-19,202504190LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202504190LAL.html,29:39,.500,.500,.778,.000,0.0,22.5,9.9,11.5,0.0,0.0,10.0,15.7,105,137,-2.9
+2025-04-19,202504190LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202504190LAL.html,8:13,.174,.000,.000,1.000,25.4,16.2,21.4,0.0,0.0,0.0,0.0,16.3,79,139,-14.6
+2025-04-19,202504190LAL,LAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202504190LAL.html,32:30,.300,.300,.600,.000,6.4,4.1,5.4,9.4,0.0,0.0,0.0,7.2,106,142,-7.4
+2025-04-19,202504190LAL,LAL,Gabe Vincent,https://www.basketball-reference.com/boxscores/202504190LAL.html,24:46,.500,.500,1.000,.000,0.0,0.0,0.0,6.2,0.0,4.4,0.0,5.6,123,141,-4.4
+2025-04-19,202504190LAL,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202504190LAL.html,13:31,.333,.333,.000,.000,15.4,19.7,17.3,24.1,4.1,0.0,0.0,10.3,125,128,4.3
+2025-04-19,202504190LAL,LAL,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202504190LAL.html,5:36,,,,,0.0,0.0,0.0,26.0,0.0,0.0,100.0,8.3,45,144,-10.4
+2025-04-19,202504190LAL,LAL,Bronny James,https://www.basketball-reference.com/boxscores/202504190LAL.html,3:02,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.7,0,144,-38.0
+2025-04-19,202504190LAL,LAL,Dalton Knecht,https://www.basketball-reference.com/boxscores/202504190LAL.html,3:02,.625,.625,.750,.000,68.8,44.0,57.9,0.0,0.0,0.0,0.0,61.4,138,130,37.5
+2025-04-19,202504190LAL,LAL,Alex Len,https://www.basketball-reference.com/boxscores/202504190LAL.html,3:02,.000,.000,.000,.000,100.0,44.0,77.2,0.0,0.0,0.0,0.0,15.4,122,130,-9.2
+2025-04-19,202504190LAL,LAL,Shake Milton,https://www.basketball-reference.com/boxscores/202504190LAL.html,3:02,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.4,0,143,-30.2

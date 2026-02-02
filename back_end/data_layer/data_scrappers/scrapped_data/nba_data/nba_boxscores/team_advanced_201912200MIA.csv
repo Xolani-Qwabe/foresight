@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-20,201912200MIA,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/201912200MIA.html,26:40,.588,.545,.545,.364,6.5,4.9,5.9,5.6,1.8,0.0,0.0,19.7,130,132,-0.7
+2019-12-20,201912200MIA,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/201912200MIA.html,23:19,.422,.273,.364,.909,7.5,33.4,17.9,5.9,2.1,0.0,11.5,30.7,89,127,-8.9
+2019-12-20,201912200MIA,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/201912200MIA.html,20:23,.092,.100,.300,.200,0.0,12.7,5.1,0.0,0.0,0.0,0.0,22.0,21,135,-25.1
+2019-12-20,201912200MIA,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201912200MIA.html,15:37,.500,.500,.333,.000,5.6,0.0,3.3,0.0,0.0,0.0,40.0,13.2,66,137,-18.3
+2019-12-20,201912200MIA,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/201912200MIA.html,14:15,.333,.333,.000,.000,18.4,36.4,25.6,0.0,3.4,0.0,25.0,11.6,88,123,-7.3
+2019-12-20,201912200MIA,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201912200MIA.html,28:00,.911,.889,.000,.222,9.4,4.6,7.5,6.3,1.7,4.4,0.0,14.5,188,129,5.2
+2019-12-20,201912200MIA,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/201912200MIA.html,24:41,.839,.824,.412,.118,3.5,36.8,16.9,22.0,5.8,0.0,0.0,29.8,164,117,27.5
+2019-12-20,201912200MIA,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/201912200MIA.html,23:05,.435,.286,.714,.714,0.0,0.0,0.0,28.2,2.1,0.0,0.0,16.4,115,133,-1.6
+2019-12-20,201912200MIA,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/201912200MIA.html,21:20,.479,.500,.500,.100,0.0,18.2,7.3,14.1,0.0,0.0,0.0,20.2,104,134,-2.2
+2019-12-20,201912200MIA,NYK,Elfrid Payton,https://www.basketball-reference.com/boxscores/201912200MIA.html,17:50,.296,.200,.000,.800,4.9,14.5,8.8,28.1,5.4,0.0,22.8,20.2,74,122,-7.9
+2019-12-20,201912200MIA,NYK,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/201912200MIA.html,14:33,.470,.500,.429,.143,0.0,0.0,0.0,53.0,3.3,0.0,0.0,21.1,120,129,2.9
+2019-12-20,201912200MIA,NYK,Allonzo Trier,https://www.basketball-reference.com/boxscores/201912200MIA.html,10:17,.532,.000,.000,2.000,0.0,25.2,10.1,22.8,0.0,12.0,34.7,11.5,97,127,-1.9
+2019-12-20,201912200MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912200MIA.html,30:03,.799,.667,.000,.889,4.3,20.3,13.9,14.3,1.6,0.0,24.2,24.2,129,111,0.5
+2019-12-20,201912200MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912200MIA.html,27:53,.798,.833,.333,2.000,4.7,12.5,9.4,34.8,5.2,2.9,34.7,13.7,138,105,10.1
+2019-12-20,201912200MIA,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912200MIA.html,23:38,.540,.538,.538,.154,0.0,7.4,4.4,19.8,2.0,0.0,0.0,25.9,119,115,-3.2
+2019-12-20,201912200MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912200MIA.html,22:36,.900,.900,1.000,.000,0.0,0.0,0.0,21.1,0.0,0.0,0.0,19.5,170,121,11.9
+2019-12-20,201912200MIA,MIA,Meyers Leonard,https://www.basketball-reference.com/boxscores/201912200MIA.html,21:42,.595,.600,.200,.400,12.0,44.2,31.3,12.2,0.0,0.0,0.0,11.9,148,106,-0.6
+2019-12-20,201912200MIA,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201912200MIA.html,26:18,.610,.500,.833,.833,0.0,33.2,19.8,13.9,0.0,0.0,26.8,18.8,103,110,-6.5
+2019-12-20,201912200MIA,MIA,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912200MIA.html,26:04,.902,.917,.167,.667,10.0,16.7,14.0,0.0,0.0,3.1,11.4,14.8,157,114,2.7
+2019-12-20,201912200MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/201912200MIA.html,25:24,.600,.600,.400,.000,0.0,6.9,4.1,11.3,0.0,0.0,16.7,20.8,100,119,-6.7
+2019-12-20,201912200MIA,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/201912200MIA.html,24:22,.676,.667,.750,.250,0.0,3.6,2.1,50.5,0.0,3.3,13.1,27.7,136,118,7.3
+2019-12-20,201912200MIA,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/201912200MIA.html,12:00,.630,.667,.000,1.333,32.4,0.0,13.0,22.9,4.0,0.0,29.6,24.8,120,112,-3.7

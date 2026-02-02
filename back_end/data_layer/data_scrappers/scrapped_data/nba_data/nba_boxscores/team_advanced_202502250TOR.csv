@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-02-25,202502250TOR,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202502250TOR.html,40:20,.503,.472,.667,.111,2.8,16.1,9.0,36.7,1.2,0.0,24.1,26.6,101,108,0.6
+2025-02-25,202502250TOR,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202502250TOR.html,39:38,.833,.833,.667,.000,5.8,9.8,7.7,0.0,1.3,2.4,14.3,7.6,144,108,0.3
+2025-02-25,202502250TOR,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202502250TOR.html,37:52,.693,.667,.733,.133,0.0,10.3,4.8,18.0,4.0,5.1,11.2,20.3,135,101,12.7
+2025-02-25,202502250TOR,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202502250TOR.html,33:25,.607,.556,.278,.222,3.4,15.5,9.1,19.4,1.5,0.0,13.2,29.3,118,108,2.0
+2025-02-25,202502250TOR,BOS,Torrey Craig,https://www.basketball-reference.com/boxscores/202502250TOR.html,14:37,.286,.286,.714,.000,15.6,8.9,12.5,0.0,0.0,0.0,12.5,23.6,70,112,-18.8
+2025-02-25,202502250TOR,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202502250TOR.html,34:43,.588,.588,.765,.000,6.6,18.7,12.3,8.4,2.9,0.0,5.6,22.3,123,104,5.2
+2025-02-25,202502250TOR,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202502250TOR.html,19:42,.667,.667,.000,.000,11.6,19.8,15.4,0.0,0.0,4.9,0.0,13.1,147,107,-2.9
+2025-02-25,202502250TOR,BOS,Baylor Scheierman,https://www.basketball-reference.com/boxscores/202502250TOR.html,10:36,.250,.250,.250,.000,10.8,12.2,11.5,0.0,0.0,0.0,0.0,16.2,74,112,-12.0
+2025-02-25,202502250TOR,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202502250TOR.html,5:21,1.000,1.000,.000,.000,21.4,24.2,22.7,25.6,0.0,0.0,0.0,8.0,215,109,15.1
+2025-02-25,202502250TOR,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202502250TOR.html,3:46,.000,.000,.000,.000,0.0,34.4,16.1,29.0,13.4,0.0,0.0,11.4,64,79,9.1
+2025-02-25,202502250TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202502250TOR.html,34:02,.585,.500,.357,.643,7.6,3.4,5.4,26.3,3.0,0.0,10.0,26.3,123,118,6.0
+2025-02-25,202502250TOR,TOR,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202502250TOR.html,32:51,.349,.308,.462,.231,0.0,20.9,11.1,28.3,0.0,0.0,12.3,22.3,86,120,-10.5
+2025-02-25,202502250TOR,TOR,RJ Barrett,https://www.basketball-reference.com/boxscores/202502250TOR.html,32:49,.652,.656,.313,.125,4.0,24.4,14.8,16.0,1.5,0.0,19.2,28.5,106,115,1.2
+2025-02-25,202502250TOR,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202502250TOR.html,32:03,.551,.500,.700,.200,0.0,17.8,9.5,4.2,3.1,0.0,8.4,16.6,108,113,-1.2
+2025-02-25,202502250TOR,TOR,Jonathan Mogbo,https://www.basketball-reference.com/boxscores/202502250TOR.html,21:54,.500,.500,.500,.000,5.9,15.7,11.1,11.7,4.6,0.0,33.3,12.3,84,111,-1.5
+2025-02-25,202502250TOR,TOR,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202502250TOR.html,23:59,.800,.800,.400,.000,5.4,19.1,12.7,5.6,2.1,0.0,0.0,9.3,164,115,5.0
+2025-02-25,202502250TOR,TOR,Jamal Shead,https://www.basketball-reference.com/boxscores/202502250TOR.html,18:26,.600,.600,.400,.000,7.0,6.2,6.6,45.7,0.0,6.2,16.7,14.6,131,121,4.3
+2025-02-25,202502250TOR,TOR,Ja'Kobe Walter,https://www.basketball-reference.com/boxscores/202502250TOR.html,15:57,.375,.375,.250,.000,16.3,7.2,11.4,0.0,3.2,0.0,0.0,22.5,93,117,-6.5
+2025-02-25,202502250TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202502250TOR.html,14:15,.667,.667,.333,.000,18.2,0.0,8.5,0.0,3.5,0.0,14.3,22.0,116,118,1.0
+2025-02-25,202502250TOR,TOR,Orlando Robinson,https://www.basketball-reference.com/boxscores/202502250TOR.html,13:44,1.000,1.000,.000,.000,0.0,16.6,8.8,10.0,0.0,0.0,60.0,16.3,67,121,-7.1

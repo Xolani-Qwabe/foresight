@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-20,202212200MIA,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212200MIA.html,39:31,.721,.643,.071,.429,3.9,11.3,8.2,20.9,0.0,0.0,10.7,22.7,141,117,1.4
+2022-12-20,202212200MIA,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212200MIA.html,37:17,.853,.853,.294,.000,8.3,29.9,20.9,11.1,1.4,0.0,15.0,25.9,138,109,9.0
+2022-12-20,202212200MIA,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202212200MIA.html,36:40,.691,.654,.615,.385,4.2,15.2,10.6,29.7,1.4,0.0,11.6,22.6,137,113,7.2
+2022-12-20,202212200MIA,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202212200MIA.html,31:48,.338,.313,.500,.250,0.0,10.5,6.1,16.3,1.6,0.0,25.3,18.0,71,113,-9.3
+2022-12-20,202212200MIA,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202212200MIA.html,22:37,1.215,1.250,.500,1.000,6.8,24.7,17.2,17.8,6.9,0.0,41.0,10.4,152,97,11.3
+2022-12-20,202212200MIA,CHI,Coby White,https://www.basketball-reference.com/boxscores/202212200MIA.html,23:47,.574,.450,.800,.500,0.0,9.4,5.5,5.9,0.0,0.0,7.6,26.8,112,118,-3.9
+2022-12-20,202212200MIA,CHI,Goran Dragić,https://www.basketball-reference.com/boxscores/202212200MIA.html,20:29,.571,.571,.429,.000,0.0,10.9,6.3,0.0,0.0,0.0,12.5,18.8,93,116,-10.6
+2022-12-20,202212200MIA,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212200MIA.html,15:25,.500,.500,.500,.000,0.0,14.5,8.4,16.9,0.0,0.0,50.0,12.5,72,116,-5.4
+2022-12-20,202212200MIA,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202212200MIA.html,7:02,.568,,,,0.0,15.9,9.2,0.0,0.0,0.0,0.0,6.0,124,115,-7.3
+2022-12-20,202212200MIA,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212200MIA.html,5:23,.568,,,,0.0,0.0,0.0,0.0,9.7,0.0,0.0,7.9,124,96,2.3
+2022-12-20,202212200MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202212200MIA.html,42:15,.578,.563,.688,.063,0.0,11.0,4.6,26.5,2.5,0.0,15.4,21.8,109,122,0.2
+2022-12-20,202212200MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202212200MIA.html,40:41,.900,.900,.400,.000,2.7,3.8,3.2,7.9,5.1,0.0,16.7,14.0,138,117,6.1
+2022-12-20,202212200MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202212200MIA.html,36:41,.805,.800,.000,.267,9.1,38.0,21.2,35.2,0.0,0.0,15.2,25.5,145,125,9.2
+2022-12-20,202212200MIA,MIA,Victor Oladipo,https://www.basketball-reference.com/boxscores/202212200MIA.html,34:14,.474,.385,.615,.308,6.5,9.0,7.6,8.7,3.0,0.0,6.3,21.8,105,121,-6.1
+2022-12-20,202212200MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202212200MIA.html,29:21,.202,.167,.778,.222,3.8,15.8,8.8,27.0,0.0,0.0,0.0,15.9,85,127,-9.5
+2022-12-20,202212200MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202212200MIA.html,36:15,.505,.500,1.000,.167,0.0,12.8,5.4,8.1,0.0,0.0,18.9,20.7,84,127,-11.3
+2022-12-20,202212200MIA,MIA,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202212200MIA.html,9:58,.521,.500,.500,1.000,11.2,46.6,26.0,0.0,5.2,0.0,25.8,18.4,88,112,-9.5
+2022-12-20,202212200MIA,MIA,Jamal Cain,https://www.basketball-reference.com/boxscores/202212200MIA.html,7:51,.521,.500,.000,1.000,0.0,39.4,16.5,0.0,0.0,0.0,0.0,17.4,106,125,-7.4
+2022-12-20,202212200MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202212200MIA.html,1:21,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0,129,-43.4
+2022-12-20,202212200MIA,MIA,Orlando Robinson,https://www.basketball-reference.com/boxscores/202212200MIA.html,1:21,1.000,1.000,.000,.000,82.7,0.0,48.0,100.0,0.0,0.0,0.0,35.0,214,129,69.9

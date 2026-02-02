@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-06-08,202206080BOS,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202206080BOS.html,40.37,7,16,.438,1,6,.167,3,4,.750,1,6,7,2,2,2,3,4,18,11.9,-16
+2022-06-08,202206080BOS,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202206080BOS.html,39.03,7,17,.412,5,13,.385,6,6,1.000,0,3,3,3,1,1,0,1,25,20.2,-3
+2022-06-08,202206080BOS,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202206080BOS.html,37.13,12,22,.545,6,11,.545,1,1,1.000,0,4,4,2,2,0,3,4,31,20.4,-14
+2022-06-08,202206080BOS,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202206080BOS.html,34.78,1,4,.250,0,2,.000,0,0,,1,3,4,3,0,1,2,6,2,-0.4,-13
+2022-06-08,202206080BOS,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202206080BOS.html,16.82,3,4,.750,0,0,,0,0,,3,4,7,3,0,0,3,3,6,5.6,-7
+2022-06-08,202206080BOS,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202206080BOS.html,24.47,4,8,.500,1,4,.250,1,2,.500,0,3,3,3,0,0,3,2,10,4.8,-6
+2022-06-08,202206080BOS,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202206080BOS.html,21.12,2,3,.667,2,3,.667,0,0,,1,0,1,4,1,0,1,1,6,7.8,+4
+2022-06-08,202206080BOS,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202206080BOS.html,11.42,0,2,.000,0,0,,2,2,1.000,0,1,1,1,1,0,0,2,2,1.8,-13
+2022-06-08,202206080BOS,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202206080BOS.html,3.45,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-2
+2022-06-08,202206080BOS,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.32,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2022-06-08,202206080BOS,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.32,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2022-06-08,202206080BOS,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.32,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,-2
+2022-06-08,202206080BOS,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.32,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-2
+2022-06-08,202206080BOS,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2022-06-08,202206080BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202206080BOS.html,41.3,9,23,.391,3,9,.333,5,6,.833,1,5,6,9,1,0,2,2,26,19.8,+13
+2022-06-08,202206080BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202206080BOS.html,39.67,9,16,.563,4,8,.500,5,6,.833,3,6,9,5,0,1,2,2,27,24.3,+7
+2022-06-08,202206080BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202206080BOS.html,39.38,8,17,.471,3,7,.429,5,7,.714,2,5,7,5,0,0,5,3,24,14.7,+19
+2022-06-08,202206080BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202206080BOS.html,30.12,5,7,.714,1,2,.500,0,2,.000,3,5,8,6,1,1,0,3,11,15.6,+7
+2022-06-08,202206080BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202206080BOS.html,25.95,4,5,.800,0,0,,0,0,,3,7,10,0,3,4,0,3,8,14.9,+21
+2022-06-08,202206080BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202206080BOS.html,23.58,3,9,.333,0,3,.000,1,1,1.000,0,1,1,2,1,1,1,2,7,3.5,-12
+2022-06-08,202206080BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202206080BOS.html,20.15,4,7,.571,1,4,.250,1,2,.500,3,2,5,0,1,0,1,2,10,8.2,+10
+2022-06-08,202206080BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202206080BOS.html,9.78,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,1,0,3,1.7,+15
+2022-06-08,202206080BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.03,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0
+2022-06-08,202206080BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.03,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0
+2022-06-08,202206080BOS,BOS,Malik Fitts,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2022-06-08,202206080BOS,BOS,Juwan Morgan,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2022-06-08,202206080BOS,BOS,Nik Stauskas,https://www.basketball-reference.com/boxscores/202206080BOS.html,2.0,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0

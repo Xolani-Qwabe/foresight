@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2020-02-07,202002070SAC,MIA,Q1,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002070SAC.html,9.2,2,2,1.000,2,2,1.000,0,0,0,1,1,2,0,1,2,1,6,5.4,+2,
+2020-02-07,202002070SAC,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002070SAC.html,10.08,4,6,.667,0,0,,0,0,1,2,3,2,0,0,1,1,8,6.7,-6,
+2020-02-07,202002070SAC,MIA,Q1,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.4,1,6,.167,0,2,.000,0,0,1,0,1,1,0,0,1,0,2,-1.4,-6,
+2020-02-07,202002070SAC,MIA,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.75,0,0,,0,0,,0,0,1,1,2,0,0,0,0,1,0,0.6,-5,
+2020-02-07,202002070SAC,MIA,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002070SAC.html,10.08,1,3,.333,0,2,.000,0,0,1,2,3,2,0,0,1,0,2,2.0,-6,
+2020-02-07,202002070SAC,MIA,Q1,Goran Dragić,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.93,3,6,.500,2,3,.667,0,0,0,0,0,1,2,0,2,1,8,5.3,+4,
+2020-02-07,202002070SAC,MIA,Q1,KZ Okpala,https://www.basketball-reference.com/boxscores/202002070SAC.html,3.63,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,1,0,-0.4,+3,
+2020-02-07,202002070SAC,MIA,Q1,Chris Silva,https://www.basketball-reference.com/boxscores/202002070SAC.html,1.92,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,+4,1.000
+2020-02-07,202002070SAC,MIA,Q2,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002070SAC.html,10.6,1,3,.333,1,3,.333,0,0,0,0,0,0,0,0,0,0,3,1.3,-2,
+2020-02-07,202002070SAC,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.45,2,2,1.000,0,0,,1,2,0,1,1,0,0,0,1,1,5,2.9,+7,.500
+2020-02-07,202002070SAC,MIA,Q2,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002070SAC.html,6.02,1,2,.500,0,1,.000,2,2,0,1,1,0,0,0,1,1,4,1.9,+2,1.000
+2020-02-07,202002070SAC,MIA,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002070SAC.html,5.32,0,1,.000,0,1,.000,2,4,0,2,2,0,1,0,0,0,2,2.1,+6,.500
+2020-02-07,202002070SAC,MIA,Q2,Goran Dragić,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.8,0,1,.000,0,1,.000,1,2,0,2,2,2,1,0,2,0,1,0.9,+4,.500
+2020-02-07,202002070SAC,MIA,Q2,KZ Okpala,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.6,3,3,1.000,0,0,,1,2,0,0,0,0,2,1,0,1,7,8.0,-5,.500
+2020-02-07,202002070SAC,MIA,Q2,Gabe Vincent,https://www.basketball-reference.com/boxscores/202002070SAC.html,9.67,0,3,.000,0,3,.000,0,0,0,1,1,1,0,0,0,1,0,-1.5,-5,
+2020-02-07,202002070SAC,MIA,Q2,Chris Silva,https://www.basketball-reference.com/boxscores/202002070SAC.html,4.55,0,1,.000,0,0,,0,0,1,1,2,0,0,1,0,1,0,0.6,-7,
+2020-02-07,202002070SAC,MIA,Q3,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002070SAC.html,9.75,2,2,1.000,2,2,1.000,0,0,0,3,3,2,0,0,2,1,6,5.3,-1,
+2020-02-07,202002070SAC,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002070SAC.html,9.9,3,5,.600,0,0,,0,0,0,0,0,1,0,2,1,0,6,4.8,-3,
+2020-02-07,202002070SAC,MIA,Q3,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002070SAC.html,11.23,4,8,.500,2,5,.400,0,0,0,1,1,1,0,0,0,2,10,6.2,-5,
+2020-02-07,202002070SAC,MIA,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.78,0,1,.000,0,1,.000,4,4,0,0,0,0,0,0,0,0,4,3.3,-4,1.000
+2020-02-07,202002070SAC,MIA,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.55,0,2,.000,0,2,.000,0,0,0,3,3,0,1,0,0,0,0,0.5,-3,
+2020-02-07,202002070SAC,MIA,Q3,Goran Dragić,https://www.basketball-reference.com/boxscores/202002070SAC.html,5.7,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,0,0,-1.4,-6,
+2020-02-07,202002070SAC,MIA,Q3,KZ Okpala,https://www.basketball-reference.com/boxscores/202002070SAC.html,3.22,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-1,
+2020-02-07,202002070SAC,MIA,Q3,Gabe Vincent,https://www.basketball-reference.com/boxscores/202002070SAC.html,0.77,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2020-02-07,202002070SAC,MIA,Q3,Chris Silva,https://www.basketball-reference.com/boxscores/202002070SAC.html,2.1,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,-2,
+2020-02-07,202002070SAC,MIA,Q4,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002070SAC.html,12.0,1,2,.500,1,2,.500,0,0,0,1,1,2,0,0,1,1,3,2.3,-1,
+2020-02-07,202002070SAC,MIA,Q4,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.95,3,3,1.000,0,0,,1,1,0,3,3,0,0,0,2,1,7,4.6,-3,1.000
+2020-02-07,202002070SAC,MIA,Q4,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.1,0,3,.000,0,2,.000,0,0,0,3,3,1,0,0,0,0,0,-0.5,+6,
+2020-02-07,202002070SAC,MIA,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002070SAC.html,6.97,0,1,.000,0,1,.000,3,6,1,1,2,0,0,0,1,0,3,1.1,+3,.500
+2020-02-07,202002070SAC,MIA,Q4,Goran Dragić,https://www.basketball-reference.com/boxscores/202002070SAC.html,5.82,2,4,.500,1,2,.500,0,0,0,1,1,0,0,0,1,0,5,2.3,-8,
+2020-02-07,202002070SAC,MIA,Q4,KZ Okpala,https://www.basketball-reference.com/boxscores/202002070SAC.html,6.95,0,1,.000,0,1,.000,0,0,0,2,2,1,0,0,0,0,0,0.6,-5,
+2020-02-07,202002070SAC,MIA,Q4,Gabe Vincent,https://www.basketball-reference.com/boxscores/202002070SAC.html,10.08,1,4,.250,1,3,.333,0,0,0,1,1,1,0,0,0,0,3,1.6,0,
+2020-02-07,202002070SAC,MIA,Q4,Chris Silva,https://www.basketball-reference.com/boxscores/202002070SAC.html,1.13,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2020-02-07,202002070SAC,SAC,Q1,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202002070SAC.html,9.18,1,2,.500,1,1,1.000,0,0,0,1,1,2,0,0,1,0,3,2.7,+6,
+2020-02-07,202002070SAC,SAC,Q1,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202002070SAC.html,10.08,2,3,.667,0,1,.000,0,2,0,1,1,3,0,0,1,1,4,2.9,+6,.000
+2020-02-07,202002070SAC,SAC,Q1,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.32,3,4,.750,2,3,.667,0,0,0,1,1,1,1,0,0,1,8,8.0,+5,
+2020-02-07,202002070SAC,SAC,Q1,Harrison Barnes,https://www.basketball-reference.com/boxscores/202002070SAC.html,10.08,2,3,.667,0,0,,0,0,0,0,0,0,0,0,1,1,4,1.3,+6,
+2020-02-07,202002070SAC,SAC,Q1,Harry Giles,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.28,3,3,1.000,0,0,,0,0,0,1,1,0,1,0,0,0,6,6.4,+2,
+2020-02-07,202002070SAC,SAC,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.53,1,2,.500,1,2,.500,0,0,0,2,2,3,0,0,1,0,3,3.7,-4,
+2020-02-07,202002070SAC,SAC,Q1,Kent Bazemore,https://www.basketball-reference.com/boxscores/202002070SAC.html,1.92,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,-4,
+2020-02-07,202002070SAC,SAC,Q1,Cory Joseph,https://www.basketball-reference.com/boxscores/202002070SAC.html,3.68,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2020-02-07,202002070SAC,SAC,Q1,Yogi Ferrell,https://www.basketball-reference.com/boxscores/202002070SAC.html,1.92,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,2,0,-2.5,-4,
+2020-02-07,202002070SAC,SAC,Q2,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.2,1,2,.500,1,2,.500,0,0,1,1,2,2,0,0,2,2,3,1.6,-6,
+2020-02-07,202002070SAC,SAC,Q2,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.17,1,2,.500,0,0,,0,0,0,0,0,2,0,1,0,0,2,3.1,-3,
+2020-02-07,202002070SAC,SAC,Q2,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202002070SAC.html,6.65,3,6,.500,3,5,.600,0,0,0,0,0,0,0,0,1,2,9,4.2,0,
+2020-02-07,202002070SAC,SAC,Q2,Harrison Barnes,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.17,1,2,.500,0,1,.000,0,0,2,2,4,1,0,0,0,1,2,3.3,-3,
+2020-02-07,202002070SAC,SAC,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.73,2,4,.500,0,2,.000,2,2,0,3,3,0,0,0,0,2,6,4.1,-4,1.000
+2020-02-07,202002070SAC,SAC,Q2,Kent Bazemore,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.28,0,2,.000,0,0,,0,0,0,2,2,1,0,0,3,3,0,-4.3,+9,
+2020-02-07,202002070SAC,SAC,Q2,Cory Joseph,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.17,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-2,
+2020-02-07,202002070SAC,SAC,Q2,Yogi Ferrell,https://www.basketball-reference.com/boxscores/202002070SAC.html,4.83,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,0,0,0.3,+3,
+2020-02-07,202002070SAC,SAC,Q2,Anthony Tolliver,https://www.basketball-reference.com/boxscores/202002070SAC.html,3.8,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,0,0,-1.4,+6,
+2020-02-07,202002070SAC,SAC,Q3,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202002070SAC.html,7.4,2,2,1.000,2,2,1.000,0,0,0,2,2,0,0,0,0,0,6,6.0,+4,
+2020-02-07,202002070SAC,SAC,Q3,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202002070SAC.html,12.0,3,7,.429,1,3,.333,1,2,0,0,0,2,1,0,0,1,8,5.9,+5,.500
+2020-02-07,202002070SAC,SAC,Q3,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.97,1,2,.500,1,2,.500,1,2,0,0,0,1,0,0,0,0,4,3.3,+3,.500
+2020-02-07,202002070SAC,SAC,Q3,Harrison Barnes,https://www.basketball-reference.com/boxscores/202002070SAC.html,10.65,1,4,.250,1,1,1.000,0,0,0,1,1,2,0,0,1,0,3,1.3,+5,
+2020-02-07,202002070SAC,SAC,Q3,Harry Giles,https://www.basketball-reference.com/boxscores/202002070SAC.html,6.3,2,2,1.000,0,0,,0,0,2,2,4,0,0,0,0,1,4,5.0,-1,
+2020-02-07,202002070SAC,SAC,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202002070SAC.html,8.43,2,5,.400,2,4,.500,0,0,0,2,2,1,0,0,1,2,6,2.8,+6,
+2020-02-07,202002070SAC,SAC,Q3,Kent Bazemore,https://www.basketball-reference.com/boxscores/202002070SAC.html,2.8,0,1,.000,0,1,.000,0,0,1,0,1,1,0,0,0,0,0,0.7,+1,
+2020-02-07,202002070SAC,SAC,Q3,Cory Joseph,https://www.basketball-reference.com/boxscores/202002070SAC.html,3.45,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+2,
+2020-02-07,202002070SAC,SAC,Q4,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202002070SAC.html,12.0,1,1,1.000,1,1,1.000,0,0,0,1,1,4,0,0,0,3,3,4.6,+1,
+2020-02-07,202002070SAC,SAC,Q4,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202002070SAC.html,6.95,0,3,.000,0,0,,2,4,0,1,1,1,0,0,0,1,2,-0.3,-6,.500
+2020-02-07,202002070SAC,SAC,Q4,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202002070SAC.html,12.0,1,4,.250,0,3,.000,0,0,0,3,3,0,2,1,0,0,2,3.2,+1,
+2020-02-07,202002070SAC,SAC,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202002070SAC.html,12.0,2,5,.400,2,5,.400,0,0,0,0,0,1,0,0,0,0,6,4.0,+1,
+2020-02-07,202002070SAC,SAC,Q4,Kent Bazemore,https://www.basketball-reference.com/boxscores/202002070SAC.html,12.0,3,5,.600,0,1,.000,0,0,0,2,2,0,1,1,0,1,6,5.6,+1,
+2020-02-07,202002070SAC,SAC,Q4,Cory Joseph,https://www.basketball-reference.com/boxscores/202002070SAC.html,5.05,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+7,

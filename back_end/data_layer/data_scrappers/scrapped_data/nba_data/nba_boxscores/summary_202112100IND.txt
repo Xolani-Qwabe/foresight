@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202112100IND.html
+Scraped: 2025-12-14 23:34:28
+
+line_scores: 2 rows (nba_boxscores/line_scores_202112100IND.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202112100IND.csv)
+team_basic: 21 rows (nba_boxscores/team_basic_202112100IND.csv)
+team_advanced: 21 rows (nba_boxscores/team_advanced_202112100IND.csv)
+quarters: 70 rows (nba_boxscores/quarters_202112100IND.csv)

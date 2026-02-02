@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/201911250ATL.html
+Scraped: 2025-12-14 13:24:35
+
+line_scores: 2 rows (nba_boxscores/line_scores_201911250ATL.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_201911250ATL.csv)
+team_basic: 22 rows (nba_boxscores/team_basic_201911250ATL.csv)
+team_advanced: 22 rows (nba_boxscores/team_advanced_201911250ATL.csv)
+quarters: 78 rows (nba_boxscores/quarters_201911250ATL.csv)

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-08,202101080GSW,LAC,Paul George,https://www.basketball-reference.com/boxscores/202101080GSW.html,39.13,9,13,.692,5,7,.714,2,2,1.000,1,3,4,7,0,1,4,2,25,21.9,0
+2021-01-08,202101080GSW,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202101080GSW.html,34.18,7,17,.412,3,5,.600,7,8,.875,0,3,3,4,2,0,2,2,24,17.4,-1
+2021-01-08,202101080GSW,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202101080GSW.html,30.33,9,12,.750,1,2,.500,0,0,,3,4,7,2,0,1,1,1,19,18.2,+14
+2021-01-08,202101080GSW,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202101080GSW.html,30.28,4,10,.400,2,8,.250,0,0,,0,6,6,6,2,0,0,1,10,12.2,+10
+2021-01-08,202101080GSW,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/202101080GSW.html,27.98,2,8,.250,1,3,.333,2,3,.667,3,3,6,1,2,0,2,4,7,3.9,+14
+2021-01-08,202101080GSW,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202101080GSW.html,17.78,3,5,.600,2,3,.667,0,0,,1,3,4,1,0,1,2,1,8,6.3,-22
+2021-01-08,202101080GSW,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202101080GSW.html,17.72,1,7,.143,0,2,.000,0,0,,0,2,2,1,0,0,1,0,2,-2.2,-20
+2021-01-08,202101080GSW,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202101080GSW.html,16.93,1,4,.250,0,0,,0,0,,1,3,4,1,0,1,3,2,2,-1.2,-26
+2021-01-08,202101080GSW,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202101080GSW.html,16.38,3,6,.500,0,1,.000,0,0,,1,0,1,0,0,1,3,2,6,0.6,-25
+2021-01-08,202101080GSW,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202101080GSW.html,6.33,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2
+2021-01-08,202101080GSW,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202101080GSW.html,0.72,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+2
+2021-01-08,202101080GSW,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202101080GSW.html,0.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2021-01-08,202101080GSW,LAC,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202101080GSW.html,0.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2021-01-08,202101080GSW,LAC,Daniel Oturu,https://www.basketball-reference.com/boxscores/202101080GSW.html,0.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2021-01-08,202101080GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202101080GSW.html,36.25,13,24,.542,9,14,.643,3,3,1.000,0,2,2,11,3,0,2,3,38,34.5,+13
+2021-01-08,202101080GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202101080GSW.html,30.62,2,4,.500,0,1,.000,0,0,,1,2,3,3,2,0,2,3,4,4.2,-7
+2021-01-08,202101080GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202101080GSW.html,28.03,5,10,.500,2,5,.400,4,4,1.000,1,5,6,1,1,1,3,2,16,11.8,-12
+2021-01-08,202101080GSW,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202101080GSW.html,21.38,2,7,.286,0,3,.000,2,2,1.000,2,3,5,0,1,0,3,2,6,1.4,-25
+2021-01-08,202101080GSW,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202101080GSW.html,15.3,3,7,.429,1,2,.500,2,4,.500,2,4,6,0,0,2,1,0,9,7.5,-21
+2021-01-08,202101080GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202101080GSW.html,21.87,3,6,.500,2,5,.400,0,0,,1,0,1,2,1,0,0,1,8,7.7,+22
+2021-01-08,202101080GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202101080GSW.html,20.02,5,10,.500,2,3,.667,0,0,,2,4,6,1,0,0,0,0,12,10.3,+21
+2021-01-08,202101080GSW,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202101080GSW.html,19.8,2,5,.400,1,2,.500,1,2,.500,0,1,1,2,3,0,1,2,6,5.8,+16
+2021-01-08,202101080GSW,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202101080GSW.html,18.52,2,5,.400,1,4,.250,1,1,1.000,0,0,0,1,1,0,0,1,6,4.6,+27
+2021-01-08,202101080GSW,GSW,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202101080GSW.html,16.23,2,3,.667,2,2,1.000,2,2,1.000,0,6,6,4,0,0,0,0,8,11.3,+6
+2021-01-08,202101080GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202101080GSW.html,11.92,1,1,1.000,0,0,,0,0,,0,2,2,0,1,0,3,5,2,-1.7,+10

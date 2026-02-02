@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-02-01,202402010BOS,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202402010BOS.html,39:02,.368,.350,.400,.200,4.5,14.5,9.3,54.1,2.5,0.0,4.4,24.9,110,108,2.4
+2024-02-01,202402010BOS,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202402010BOS.html,37:58,.550,.550,.200,.000,0.0,19.8,9.5,8.0,1.3,2.6,0.0,11.2,118,108,-2.4
+2024-02-01,202402010BOS,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202402010BOS.html,34:34,.759,.750,.556,.389,0.0,5.4,2.6,17.3,0.0,0.0,0.0,26.0,151,118,11.9
+2024-02-01,202402010BOS,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202402010BOS.html,33:52,.784,.750,.000,.625,15.5,11.1,13.4,9.6,4.4,0.0,0.0,12.9,179,106,8.3
+2024-02-01,202402010BOS,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202402010BOS.html,16:04,.635,.571,.429,.286,16.3,23.4,19.7,20.6,9.3,0.0,27.6,28.9,106,89,11.4
+2024-02-01,202402010BOS,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202402010BOS.html,33:08,.504,.464,.429,.143,5.3,17.0,10.9,18.8,0.0,3.0,11.8,21.7,106,112,-2.8
+2024-02-01,202402010BOS,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202402010BOS.html,22:54,.571,.500,.429,.286,0.0,16.4,7.9,13.2,2.2,0.0,11.3,16.6,112,109,-1.7
+2024-02-01,202402010BOS,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202402010BOS.html,18:53,.202,.167,.444,.222,9.2,10.0,9.6,7.2,2.6,0.0,0.0,22.3,67,110,-13.8
+2024-02-01,202402010BOS,LAL,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202402010BOS.html,1:17,.568,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.3,122,121,-4.9
+2024-02-01,202402010BOS,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202402010BOS.html,0:46,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.7,0,121,-64.4
+2024-02-01,202402010BOS,LAL,Skylar Mays,https://www.basketball-reference.com/boxscores/202402010BOS.html,0:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-11.2
+2024-02-01,202402010BOS,LAL,Dylan Windler,https://www.basketball-reference.com/boxscores/202402010BOS.html,0:46,,,,,0.0,100.0,59.1,0.0,0.0,0.0,,0.0,0,69,-2.6
+2024-02-01,202402010BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202402010BOS.html,36:37,.526,.500,.476,.095,5.1,11.9,8.7,12.9,1.4,2.3,8.4,27.2,106,119,1.4
+2024-02-01,202402010BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202402010BOS.html,32:44,.409,.409,.455,.000,2.9,8.0,5.5,25.0,0.0,5.1,15.4,16.6,95,123,-4.8
+2024-02-01,202402010BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202402010BOS.html,29:29,.535,.500,.467,.133,3.2,17.8,10.8,16.5,1.7,14.0,15.9,26.7,98,108,4.8
+2024-02-01,202402010BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202402010BOS.html,29:10,.444,.444,.222,.000,6.5,15.0,10.9,33.5,0.0,0.0,30.8,18.6,90,123,-7.8
+2024-02-01,202402010BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202402010BOS.html,27:24,.333,.333,.250,.000,10.3,15.9,13.2,36.1,1.8,0.0,20.0,22.8,87,117,-7.8
+2024-02-01,202402010BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202402010BOS.html,23:48,.500,.500,1.000,.000,0.0,33.0,17.1,5.5,2.1,7.0,0.0,10.5,110,105,3.4
+2024-02-01,202402010BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202402010BOS.html,22:39,.773,.773,.818,.000,0.0,11.6,6.0,0.0,0.0,0.0,0.0,20.3,142,125,7.9
+2024-02-01,202402010BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202402010BOS.html,21:18,.667,.667,.833,.000,0.0,0.0,0.0,6.6,0.0,3.9,14.3,13.7,111,128,-2.9
+2024-02-01,202402010BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202402010BOS.html,12:49,.643,.600,.000,.200,29.4,20.4,24.7,12.6,0.0,6.5,0.0,17.7,157,115,5.7
+2024-02-01,202402010BOS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202402010BOS.html,2:01,1.136,,,,0.0,43.3,22.5,58.1,0.0,0.0,0.0,18.2,247,109,38.0
+2024-02-01,202402010BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202402010BOS.html,2:01,.000,.000,1.000,.000,46.7,0.0,22.5,0.0,0.0,0.0,0.0,20.7,60,131,-20.9

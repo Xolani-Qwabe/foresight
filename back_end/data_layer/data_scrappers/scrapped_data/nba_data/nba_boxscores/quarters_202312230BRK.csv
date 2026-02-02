@@ -1,0 +1,77 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-12-23,202312230BRK,DET,Q1,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202312230BRK.html,8.57,0,2,.000,0,1,.000,0,0,0,0,0,2,1,0,1,0,0,0.0,-5,
+2023-12-23,202312230BRK,DET,Q1,Jaden Ivey,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.95,1,2,.500,0,1,.000,0,0,0,0,0,1,0,1,2,1,2,0.0,-1,
+2023-12-23,202312230BRK,DET,Q1,Cade Cunningham,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.95,2,4,.500,1,2,.500,0,0,0,0,0,1,0,0,0,2,5,2.9,-1,
+2023-12-23,202312230BRK,DET,Q1,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.58,1,1,1.000,0,0,,0,0,0,4,4,1,0,0,0,1,2,3.2,-3,
+2023-12-23,202312230BRK,DET,Q1,Ausar Thompson,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.17,2,3,.667,1,2,.500,2,3,0,0,0,0,0,0,0,0,7,5.3,-5,.667
+2023-12-23,202312230BRK,DET,Q1,Kevin Knox,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.42,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.0,-8,
+2023-12-23,202312230BRK,DET,Q1,Alec Burks,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.07,1,2,.500,0,0,,0,0,0,0,0,1,0,0,1,0,2,0.7,-8,
+2023-12-23,202312230BRK,DET,Q1,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.42,0,1,.000,0,0,,0,0,1,1,2,0,0,0,0,0,0,0.3,-8,
+2023-12-23,202312230BRK,DET,Q1,Joe Harris,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.83,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2023-12-23,202312230BRK,DET,Q1,Marcus Sasser,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.05,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,2,2,0,-3.2,-10,
+2023-12-23,202312230BRK,DET,Q2,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202312230BRK.html,12.0,3,5,.600,0,2,.000,7,9,1,3,4,0,1,0,0,0,13,12.5,+2,.778
+2023-12-23,202312230BRK,DET,Q2,Jaden Ivey,https://www.basketball-reference.com/boxscores/202312230BRK.html,9.7,0,3,.000,0,1,.000,2,2,0,2,2,4,0,1,1,1,2,2.6,-1,1.000
+2023-12-23,202312230BRK,DET,Q2,Cade Cunningham,https://www.basketball-reference.com/boxscores/202312230BRK.html,3.68,0,1,.000,0,0,,0,0,0,1,1,2,0,0,0,1,0,0.6,+3,
+2023-12-23,202312230BRK,DET,Q2,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202312230BRK.html,8.32,3,4,.750,3,4,.750,0,0,0,0,0,0,1,0,0,1,9,8.0,-1,
+2023-12-23,202312230BRK,DET,Q2,Ausar Thompson,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.85,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,+2,
+2023-12-23,202312230BRK,DET,Q2,Kevin Knox,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.88,2,2,1.000,1,1,1.000,1,1,0,0,0,0,0,0,0,0,6,5.4,+4,1.000
+2023-12-23,202312230BRK,DET,Q2,Alec Burks,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.88,1,3,.333,1,3,.333,0,0,0,0,0,1,1,0,0,1,3,2.6,-2,
+2023-12-23,202312230BRK,DET,Q2,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202312230BRK.html,3.68,1,2,.500,0,0,,0,0,0,1,1,0,0,0,1,0,2,0.3,+3,
+2023-12-23,202312230BRK,DET,Q3,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.5,1,2,.500,1,1,1.000,0,0,1,2,3,2,0,0,1,1,3,3.3,+2,
+2023-12-23,202312230BRK,DET,Q3,Jaden Ivey,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.65,2,2,1.000,1,1,1.000,3,4,0,1,1,1,0,0,0,0,8,8.0,+1,.750
+2023-12-23,202312230BRK,DET,Q3,Cade Cunningham,https://www.basketball-reference.com/boxscores/202312230BRK.html,12.0,3,8,.375,0,2,.000,1,2,0,1,1,1,0,0,2,1,7,0.8,-7,.500
+2023-12-23,202312230BRK,DET,Q3,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.08,2,2,1.000,1,1,1.000,0,0,0,0,0,1,0,1,0,0,5,5.8,+3,
+2023-12-23,202312230BRK,DET,Q3,Ausar Thompson,https://www.basketball-reference.com/boxscores/202312230BRK.html,9.47,0,3,.000,0,1,.000,0,0,0,2,2,1,0,0,0,0,0,-0.8,-8,
+2023-12-23,202312230BRK,DET,Q3,Kevin Knox,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-9,
+2023-12-23,202312230BRK,DET,Q3,Alec Burks,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.35,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-0.8,-8,
+2023-12-23,202312230BRK,DET,Q3,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.92,1,1,1.000,0,0,,1,2,1,1,2,0,0,0,0,0,3,3.3,-10,.500
+2023-12-23,202312230BRK,DET,Q3,Joe Harris,https://www.basketball-reference.com/boxscores/202312230BRK.html,2.03,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2023-12-23,202312230BRK,DET,Q4,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202312230BRK.html,10.75,1,4,.250,1,3,.333,0,0,0,1,1,0,0,0,2,3,3,-2.3,+1,
+2023-12-23,202312230BRK,DET,Q4,Jaden Ivey,https://www.basketball-reference.com/boxscores/202312230BRK.html,10.88,3,4,.750,2,3,.667,3,4,0,3,3,1,0,0,0,2,11,9.8,+7,.750
+2023-12-23,202312230BRK,DET,Q4,Cade Cunningham,https://www.basketball-reference.com/boxscores/202312230BRK.html,10.77,4,7,.571,0,1,.000,2,2,0,1,1,2,0,0,0,0,10,8.4,0,1.000
+2023-12-23,202312230BRK,DET,Q4,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202312230BRK.html,10.67,2,2,1.000,0,0,,0,0,1,0,1,3,0,0,0,3,4,5.0,-1,
+2023-12-23,202312230BRK,DET,Q4,Ausar Thompson,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.55,0,1,.000,0,0,,0,0,0,2,2,1,1,0,0,1,0,1.2,+7,
+2023-12-23,202312230BRK,DET,Q4,Kevin Knox,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.7,2,2,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.7,+2,
+2023-12-23,202312230BRK,DET,Q4,Alec Burks,https://www.basketball-reference.com/boxscores/202312230BRK.html,1.12,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-2,
+2023-12-23,202312230BRK,DET,Q4,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202312230BRK.html,1.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+6,
+2023-12-23,202312230BRK,DET,Q4,Marcus Sasser,https://www.basketball-reference.com/boxscores/202312230BRK.html,1.23,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,
+2023-12-23,202312230BRK,BRK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202312230BRK.html,9.43,5,7,.714,1,2,.500,3,3,1,0,1,0,0,0,0,0,14,11.8,+5,1.000
+2023-12-23,202312230BRK,BRK,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202312230BRK.html,10.35,1,2,.500,1,2,.500,2,4,0,2,2,4,1,0,0,0,5,7.6,+10,.500
+2023-12-23,202312230BRK,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.65,1,3,.333,0,0,,0,0,0,2,2,0,1,0,1,1,2,0.5,+3,
+2023-12-23,202312230BRK,BRK,Q1,Cam Thomas,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.17,2,3,.667,0,0,,1,1,0,0,0,3,1,0,1,1,5,5.4,+5,1.000
+2023-12-23,202312230BRK,BRK,Q1,Cameron Johnson,https://www.basketball-reference.com/boxscores/202312230BRK.html,8.1,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,+5,
+2023-12-23,202312230BRK,BRK,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.4,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,+12,
+2023-12-23,202312230BRK,BRK,Q1,Royce O'Neale,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.42,0,0,,0,0,,0,0,0,2,2,0,0,0,0,0,0,0.6,+8,
+2023-12-23,202312230BRK,BRK,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202312230BRK.html,1.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+1,
+2023-12-23,202312230BRK,BRK,Q1,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.83,2,3,.667,0,0,,0,0,0,1,1,1,0,0,0,0,4,3.7,+6,
+2023-12-23,202312230BRK,BRK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202312230BRK.html,8.13,2,4,.500,0,1,.000,1,1,0,1,1,5,0,1,0,1,5,7.1,+3,1.000
+2023-12-23,202312230BRK,BRK,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.5,0,1,.000,0,0,,0,0,0,0,0,1,0,0,1,0,0,-1.0,+2,
+2023-12-23,202312230BRK,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.93,1,2,.500,0,0,,2,2,1,1,2,1,1,0,0,1,4,5.3,+1,1.000
+2023-12-23,202312230BRK,BRK,Q2,Cam Thomas,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.27,1,2,.500,0,1,.000,2,2,0,1,1,0,0,0,1,2,4,1.5,-4,1.000
+2023-12-23,202312230BRK,BRK,Q2,Cameron Johnson,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.17,3,5,.600,1,2,.500,0,0,0,1,1,0,0,0,1,1,7,3.6,+2,
+2023-12-23,202312230BRK,BRK,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.27,2,4,.500,2,4,.500,0,0,0,1,1,0,0,0,0,0,6,4.3,-5,
+2023-12-23,202312230BRK,BRK,Q2,Royce O'Neale,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.22,1,1,1.000,0,0,,0,0,0,2,2,1,1,0,0,0,2,4.0,-4,
+2023-12-23,202312230BRK,BRK,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.5,1,3,.333,1,2,.500,0,0,0,0,0,1,0,0,1,2,3,0.2,-4,
+2023-12-23,202312230BRK,BRK,Q2,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202312230BRK.html,3.68,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2023-12-23,202312230BRK,BRK,Q2,Jalen Wilson,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.33,1,2,.500,0,0,,0,0,1,1,2,1,0,0,0,1,2,2.3,+2,
+2023-12-23,202312230BRK,BRK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202312230BRK.html,9.03,2,5,.400,0,1,.000,0,0,1,2,3,2,1,0,0,0,4,5.0,-3,
+2023-12-23,202312230BRK,BRK,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.98,3,5,.600,1,1,1.000,0,0,0,0,0,0,0,0,0,1,7,4.3,-2,
+2023-12-23,202312230BRK,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.58,2,2,1.000,0,0,,0,0,1,0,1,1,0,1,0,0,4,5.5,-3,
+2023-12-23,202312230BRK,BRK,Q3,Cam Thomas,https://www.basketball-reference.com/boxscores/202312230BRK.html,8.55,1,6,.167,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,-1.5,+7,
+2023-12-23,202312230BRK,BRK,Q3,Cameron Johnson,https://www.basketball-reference.com/boxscores/202312230BRK.html,7.0,1,2,.500,0,1,.000,2,2,0,1,1,2,2,0,0,0,4,6.7,-2,1.000
+2023-12-23,202312230BRK,BRK,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.92,1,1,1.000,0,0,,0,0,0,3,3,1,0,0,0,1,2,2.9,+10,
+2023-12-23,202312230BRK,BRK,Q3,Royce O'Neale,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.02,1,1,1.000,1,1,1.000,0,0,0,2,2,1,0,0,0,0,3,4.0,+9,
+2023-12-23,202312230BRK,BRK,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.0,0,1,.000,0,0,,0,0,0,0,0,2,0,0,0,0,0,0.7,+9,
+2023-12-23,202312230BRK,BRK,Q3,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.92,3,3,1.000,0,0,,1,3,1,0,1,0,0,0,1,3,7,3.8,+10,.333
+2023-12-23,202312230BRK,BRK,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.33,0,1,.000,0,0,,6,6,0,1,1,0,0,0,1,1,6,4.2,+1,1.000
+2023-12-23,202312230BRK,BRK,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.33,1,4,.250,0,2,.000,0,0,1,1,2,2,0,0,0,0,2,2.0,+1,
+2023-12-23,202312230BRK,BRK,Q4,Nic Claxton,https://www.basketball-reference.com/boxscores/202312230BRK.html,8.38,0,1,.000,0,0,,1,2,0,2,2,0,0,1,1,0,1,0.2,+4,.500
+2023-12-23,202312230BRK,BRK,Q4,Cam Thomas,https://www.basketball-reference.com/boxscores/202312230BRK.html,8.17,3,5,.600,1,1,1.000,2,2,0,0,0,0,0,0,0,0,9,6.7,-4,1.000
+2023-12-23,202312230BRK,BRK,Q4,Cameron Johnson,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.33,2,2,1.000,1,1,1.000,2,2,0,0,0,0,0,0,0,1,7,6.0,+1,1.000
+2023-12-23,202312230BRK,BRK,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202312230BRK.html,6.83,0,0,,0,0,,0,0,0,2,2,0,1,0,0,0,0,1.6,+5,
+2023-12-23,202312230BRK,BRK,Q4,Royce O'Neale,https://www.basketball-reference.com/boxscores/202312230BRK.html,4.33,0,1,.000,0,0,,0,0,0,0,0,3,0,0,1,1,0,0.0,0,
+2023-12-23,202312230BRK,BRK,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202312230BRK.html,5.67,1,2,.500,0,0,,1,2,0,0,0,0,0,0,0,0,3,1.6,-6,.500
+2023-12-23,202312230BRK,BRK,Q4,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202312230BRK.html,3.62,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-9,
+2023-12-23,202312230BRK,BRK,Q4,Jalen Wilson,https://www.basketball-reference.com/boxscores/202312230BRK.html,1.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-6,
+2023-12-23,202312230BRK,BRK,Q4,Harry Giles,https://www.basketball-reference.com/boxscores/202312230BRK.html,1.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2023-12-23,202312230BRK,BRK,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202312230BRK.html,1.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,

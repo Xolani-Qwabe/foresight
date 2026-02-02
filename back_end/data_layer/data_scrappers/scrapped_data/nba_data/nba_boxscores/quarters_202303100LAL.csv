@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2023-03-10,202303100LAL,TOR,Q1,Scottie Barnes,https://www.basketball-reference.com/boxscores/202303100LAL.html,8.13,3,4,.750,0,0,0,0,1,2,3,4,0,0,0,0,6,8.5,+7,,
+2023-03-10,202303100LAL,TOR,Q1,OG Anunoby,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.98,4,4,1.000,2,2,0,0,0,1,1,0,1,0,2,0,10,8.1,+5,1.000,
+2023-03-10,202303100LAL,TOR,Q1,Pascal Siakam,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.42,1,2,.500,1,1,0,0,0,1,1,1,0,1,0,1,3,3.3,+7,1.000,
+2023-03-10,202303100LAL,TOR,Q1,Fred VanVleet,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,2,5,.400,1,4,0,0,0,1,1,4,2,0,1,2,5,5.6,+4,.250,
+2023-03-10,202303100LAL,TOR,Q1,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.8,4,7,.571,0,0,0,0,2,1,3,2,0,0,0,0,8,7.8,+9,,
+2023-03-10,202303100LAL,TOR,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.2,0,3,.000,0,0,0,0,1,1,2,1,0,0,0,0,0,-0.4,-5,,
+2023-03-10,202303100LAL,TOR,Q1,Will Barton,https://www.basketball-reference.com/boxscores/202303100LAL.html,2.02,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2023-03-10,202303100LAL,TOR,Q1,Chris Boucher,https://www.basketball-reference.com/boxscores/202303100LAL.html,2.25,0,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0.7,-1,,
+2023-03-10,202303100LAL,TOR,Q1,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.2,1,1,1.000,0,0,1,2,0,1,1,0,0,0,1,2,3,0.8,-5,,.500
+2023-03-10,202303100LAL,TOR,Q2,Scottie Barnes,https://www.basketball-reference.com/boxscores/202303100LAL.html,8.9,2,4,.500,0,2,2,2,0,1,1,2,0,0,0,2,6,4.9,-3,.000,1.000
+2023-03-10,202303100LAL,TOR,Q2,OG Anunoby,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.9,2,2,1.000,1,1,0,0,0,1,1,0,1,0,1,1,5,4.3,-7,1.000,
+2023-03-10,202303100LAL,TOR,Q2,Pascal Siakam,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.9,3,6,.500,1,4,0,0,0,1,1,0,0,0,0,0,7,4.3,-7,.250,
+2023-03-10,202303100LAL,TOR,Q2,Fred VanVleet,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.5,0,2,.000,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.7,-6,.000,
+2023-03-10,202303100LAL,TOR,Q2,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202303100LAL.html,5.27,1,4,.250,0,0,0,0,1,1,2,0,1,0,0,0,2,1.6,-11,,
+2023-03-10,202303100LAL,TOR,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.83,0,2,.000,0,1,0,0,0,0,0,1,0,0,0,0,0,-0.7,-10,.000,
+2023-03-10,202303100LAL,TOR,Q2,Will Barton,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.5,2,2,1.000,1,1,0,0,0,0,0,3,1,0,0,0,5,7.5,-6,1.000,
+2023-03-10,202303100LAL,TOR,Q2,Chris Boucher,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.1,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,-5,,
+2023-03-10,202303100LAL,TOR,Q2,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.1,1,4,.250,0,1,0,0,1,0,1,0,0,0,0,0,2,0.3,-5,.000,
+2023-03-10,202303100LAL,TOR,Q3,Scottie Barnes,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.03,2,3,.667,0,0,2,2,1,3,4,0,1,0,1,1,6,5.9,+16,,1.000
+2023-03-10,202303100LAL,TOR,Q3,OG Anunoby,https://www.basketball-reference.com/boxscores/202303100LAL.html,11.78,5,6,.833,1,2,3,3,0,0,0,1,3,0,1,0,14,14.5,+15,.500,1.000
+2023-03-10,202303100LAL,TOR,Q3,Pascal Siakam,https://www.basketball-reference.com/boxscores/202303100LAL.html,11.78,1,4,.250,0,0,0,0,0,1,1,1,0,0,1,2,2,-1.2,+15,,
+2023-03-10,202303100LAL,TOR,Q3,Fred VanVleet,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,1,1,1.000,1,1,0,0,0,1,1,2,1,0,2,0,3,3.4,+13,1.000,
+2023-03-10,202303100LAL,TOR,Q3,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,1,3,.333,0,0,1,2,0,4,4,2,2,1,0,2,3,5.4,+13,,.500
+2023-03-10,202303100LAL,TOR,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202303100LAL.html,2.97,0,2,.000,0,2,0,0,0,0,0,0,1,0,0,0,0,-0.4,-3,.000,
+2023-03-10,202303100LAL,TOR,Q3,Will Barton,https://www.basketball-reference.com/boxscores/202303100LAL.html,0.22,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,,
+2023-03-10,202303100LAL,TOR,Q3,Chris Boucher,https://www.basketball-reference.com/boxscores/202303100LAL.html,0.22,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,,
+2023-03-10,202303100LAL,TOR,Q4,Scottie Barnes,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,6,8,.750,1,2,1,2,1,0,1,1,0,0,0,0,14,11.8,-15,.500,.500
+2023-03-10,202303100LAL,TOR,Q4,OG Anunoby,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.98,1,2,.500,0,1,0,0,0,0,0,0,0,0,1,0,2,0.0,-6,.000,
+2023-03-10,202303100LAL,TOR,Q4,Pascal Siakam,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.98,0,1,.000,0,0,0,0,0,1,1,0,0,0,0,0,0,-0.4,-6,,
+2023-03-10,202303100LAL,TOR,Q4,Fred VanVleet,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.98,0,1,.000,0,0,0,0,0,2,2,3,0,0,1,1,0,0.6,-6,,
+2023-03-10,202303100LAL,TOR,Q4,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.98,2,3,.667,0,0,0,0,1,0,1,0,0,0,0,0,4,3.4,-6,,
+2023-03-10,202303100LAL,TOR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.02,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.4,-9,,
+2023-03-10,202303100LAL,TOR,Q4,Will Barton,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.02,0,1,.000,0,1,0,0,0,1,1,0,0,0,0,1,0,-0.8,-9,.000,
+2023-03-10,202303100LAL,TOR,Q4,Chris Boucher,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.02,1,3,.333,0,1,0,0,1,0,1,0,0,0,1,0,2,0.0,-9,.000,
+2023-03-10,202303100LAL,TOR,Q4,Thaddeus Young,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.02,0,0,,0,0,0,0,0,1,1,0,0,0,0,1,0,-0.1,-9,,
+2023-03-10,202303100LAL,LAL,Q1,Anthony Davis,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.75,2,2,1.000,0,0,0,0,1,1,2,2,0,1,1,1,4,5.1,-5,,
+2023-03-10,202303100LAL,LAL,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.95,2,4,.500,0,1,1,1,0,1,1,3,0,0,0,0,5,5.4,-7,.000,1.000
+2023-03-10,202303100LAL,LAL,Q1,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303100LAL.html,8.05,1,1,1.000,0,0,0,0,0,2,2,0,0,0,1,0,2,1.3,-11,,
+2023-03-10,202303100LAL,LAL,Q1,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.42,2,4,.500,1,3,0,0,0,1,1,0,1,0,0,0,5,4.3,-7,.333,
+2023-03-10,202303100LAL,LAL,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202303100LAL.html,6.63,0,3,.000,0,2,1,1,0,0,0,0,0,0,1,0,1,-2.1,-10,.000,1.000
+2023-03-10,202303100LAL,LAL,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.2,1,1,1.000,0,0,4,4,0,0,0,1,0,0,2,0,6,4.4,+5,,1.000
+2023-03-10,202303100LAL,LAL,Q1,Austin Reaves,https://www.basketball-reference.com/boxscores/202303100LAL.html,5.37,1,3,.333,0,1,0,0,0,1,1,1,0,0,1,1,2,-0.1,+6,.000,
+2023-03-10,202303100LAL,LAL,Q1,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303100LAL.html,6.2,2,2,1.000,1,1,1,1,0,0,0,0,0,0,0,0,6,5.4,+8,1.000,1.000
+2023-03-10,202303100LAL,LAL,Q1,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202303100LAL.html,2.43,0,0,,0,0,0,0,0,0,0,0,0,1,0,1,0,0.3,+1,,
+2023-03-10,202303100LAL,LAL,Q2,Anthony Davis,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.9,1,2,.500,0,0,0,0,2,3,5,1,0,1,0,1,2,4.3,+7,,
+2023-03-10,202303100LAL,LAL,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202303100LAL.html,6.42,3,5,.600,1,3,0,0,0,2,2,4,0,0,2,0,7,6.1,+11,.333,
+2023-03-10,202303100LAL,LAL,Q2,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303100LAL.html,5.58,4,4,1.000,2,2,2,2,0,1,1,0,0,0,1,0,12,10.1,+1,1.000,1.000
+2023-03-10,202303100LAL,LAL,Q2,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303100LAL.html,5.27,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,+11,,
+2023-03-10,202303100LAL,LAL,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202303100LAL.html,6.73,1,2,.500,1,2,0,0,0,2,2,0,0,0,0,0,3,2.6,+1,.500,
+2023-03-10,202303100LAL,LAL,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.83,3,5,.600,1,1,0,0,0,0,0,2,0,0,1,0,7,5.1,+10,1.000,
+2023-03-10,202303100LAL,LAL,Q2,Austin Reaves,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.75,1,1,1.000,0,0,0,0,0,0,0,1,0,0,0,0,2,2.4,+3,,
+2023-03-10,202303100LAL,LAL,Q2,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303100LAL.html,6.42,3,5,.600,0,1,0,0,0,1,1,1,0,0,0,0,6,4.7,+11,.000,
+2023-03-10,202303100LAL,LAL,Q2,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.1,0,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0.7,+5,,
+2023-03-10,202303100LAL,LAL,Q3,Anthony Davis,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.03,0,1,.000,0,0,0,0,0,1,1,0,0,2,0,1,0,0.6,-16,,
+2023-03-10,202303100LAL,LAL,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.65,0,3,.000,0,0,0,0,1,0,1,0,1,0,2,0,0,-2.4,-15,,
+2023-03-10,202303100LAL,LAL,Q3,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303100LAL.html,4.72,0,2,.000,0,2,2,2,0,0,0,0,0,0,1,0,2,-0.4,-15,.000,1.000
+2023-03-10,202303100LAL,LAL,Q3,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303100LAL.html,9.18,0,0,,0,0,0,0,0,1,1,0,0,0,0,1,0,-0.1,-14,,
+2023-03-10,202303100LAL,LAL,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.55,0,1,.000,0,1,0,0,0,2,2,0,0,0,2,0,0,-2.1,-12,.000,
+2023-03-10,202303100LAL,LAL,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.35,0,4,.000,0,2,0,0,0,0,0,0,3,0,2,0,0,-1.8,+2,.000,
+2023-03-10,202303100LAL,LAL,Q3,Austin Reaves,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.35,1,2,.500,0,1,5,5,0,0,0,1,0,0,0,2,7,5.9,+2,.000,1.000
+2023-03-10,202303100LAL,LAL,Q3,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303100LAL.html,7.35,2,2,1.000,0,0,0,0,0,2,2,0,0,0,2,0,4,2.0,+2,,
+2023-03-10,202303100LAL,LAL,Q3,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202303100LAL.html,2.82,1,1,1.000,0,0,0,0,0,1,1,0,0,0,0,0,2,2.0,+1,,
+2023-03-10,202303100LAL,LAL,Q4,Anthony Davis,https://www.basketball-reference.com/boxscores/202303100LAL.html,5.88,1,2,.500,0,0,0,0,0,1,1,0,0,0,0,0,2,1.3,+3,,
+2023-03-10,202303100LAL,LAL,Q4,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,5,5,1.000,4,4,2,2,0,1,1,2,0,0,0,0,16,16.2,+15,1.000,1.000
+2023-03-10,202303100LAL,LAL,Q4,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,0,0,,0,0,0,0,1,0,1,1,2,0,0,2,0,2.6,+15,,
+2023-03-10,202303100LAL,LAL,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,4,7,.571,2,3,0,0,0,1,1,4,1,0,1,0,10,9.8,+15,.667,
+2023-03-10,202303100LAL,LAL,Q4,Austin Reaves,https://www.basketball-reference.com/boxscores/202303100LAL.html,12.0,3,4,.750,0,0,1,1,0,1,1,2,0,1,0,0,7,7.8,+15,,1.000
+2023-03-10,202303100LAL,LAL,Q4,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202303100LAL.html,6.12,1,2,.500,0,0,0,0,0,3,3,2,0,1,0,0,2,4.0,+12,,

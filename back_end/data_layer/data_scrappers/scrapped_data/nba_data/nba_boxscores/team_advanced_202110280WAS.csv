@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-28,202110280WAS,ATL,John Collins,https://www.basketball-reference.com/boxscores/202110280WAS.html,38:18,.875,.875,.000,.000,8.7,22.1,16.0,12.3,0.0,0.0,11.1,21.1,154,123,7.3
+2021-10-28,202110280WAS,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202110280WAS.html,34:46,.409,.382,.294,.176,0.0,8.1,4.4,45.2,2.8,2.1,14.1,27.5,96,120,0.6
+2021-10-28,202110280WAS,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202110280WAS.html,33:37,.612,.591,.364,.091,0.0,16.8,9.1,14.5,1.4,0.0,0.0,15.2,130,122,-0.2
+2021-10-28,202110280WAS,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202110280WAS.html,30:45,.556,.556,.333,.000,0.0,12.2,6.6,3.7,0.0,0.0,18.2,16.0,88,127,-7.7
+2021-10-28,202110280WAS,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202110280WAS.html,23:21,.698,.714,.000,.286,0.0,16.1,8.7,5.4,0.0,3.2,0.0,15.1,139,123,1.3
+2021-10-28,202110280WAS,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202110280WAS.html,26:56,.635,.607,.357,.286,4.1,7.0,5.7,0.0,1.8,2.7,20.2,32.9,97,123,-2.2
+2021-10-28,202110280WAS,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202110280WAS.html,18:03,.676,.625,.250,.250,0.0,5.2,2.8,0.0,0.0,0.0,0.0,11.0,133,129,-3.0
+2021-10-28,202110280WAS,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202110280WAS.html,14:23,.000,.000,.750,.000,0.0,13.1,7.1,20.9,0.0,0.0,20.0,15.6,35,126,-16.9
+2021-10-28,202110280WAS,ATL,Lou Williams,https://www.basketball-reference.com/boxscores/202110280WAS.html,7:43,.563,.500,.000,.250,14.5,24.4,19.9,0.0,0.0,0.0,0.0,25.8,122,122,-0.3
+2021-10-28,202110280WAS,ATL,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202110280WAS.html,6:37,.000,.000,.000,2.000,16.9,56.9,38.6,15.1,0.0,0.0,0.0,12.7,63,111,-5.9
+2021-10-28,202110280WAS,ATL,Delon Wright,https://www.basketball-reference.com/boxscores/202110280WAS.html,5:31,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,16.2,78,131,-9.5
+2021-10-28,202110280WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202110280WAS.html,39:50,.535,.529,.353,.353,2.4,19.6,10.3,0.0,3.6,0.0,0.0,20.7,114,108,-0.3
+2021-10-28,202110280WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202110280WAS.html,37:43,.486,.442,.154,.154,2.5,20.7,10.8,31.8,0.0,1.9,3.5,32.0,115,113,0.7
+2021-10-28,202110280WAS,WAS,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202110280WAS.html,34:00,.687,.625,.125,.313,16.6,23.0,19.5,22.1,2.8,2.1,0.0,22.5,161,106,14.3
+2021-10-28,202110280WAS,WAS,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202110280WAS.html,29:57,.928,.950,.700,.300,6.3,22.4,13.6,9.2,0.0,2.4,15.0,18.7,153,112,10.8
+2021-10-28,202110280WAS,WAS,Aaron Holiday,https://www.basketball-reference.com/boxscores/202110280WAS.html,24:21,.583,.583,.333,.000,0.0,0.0,0.0,19.7,0.0,0.0,0.0,10.4,141,117,-2.1
+2021-10-28,202110280WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202110280WAS.html,23:49,.429,.429,.286,.000,0.0,23.4,10.7,25.2,2.0,0.0,0.0,12.3,119,110,-3.4
+2021-10-28,202110280WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202110280WAS.html,22:28,.282,.188,.500,.250,8.4,14.9,11.4,4.9,0.0,0.0,18.4,20.3,69,115,-15.8
+2021-10-28,202110280WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202110280WAS.html,18:47,.672,.643,.857,.143,0.0,5.9,2.7,0.0,0.0,0.0,11.8,18.9,116,116,-2.3
+2021-10-28,202110280WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202110280WAS.html,9:05,.000,.000,.500,.000,20.7,12.3,16.9,11.5,0.0,7.9,0.0,9.3,89,107,-4.4

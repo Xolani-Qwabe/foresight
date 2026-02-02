@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct,fg3_pct
+2023-01-18,202301180NOP,MIA,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.4,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0.3,+10,,
+2023-01-18,202301180NOP,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.4,4,6,.667,0,0,1,2,0,1,1,0,0,0,0,0,9,6.3,+10,.500,
+2023-01-18,202301180NOP,MIA,Q1,Jimmy Butler,https://www.basketball-reference.com/boxscores/202301180NOP.html,10.2,3,4,.750,0,0,0,1,1,1,2,1,0,0,0,1,6,5.3,+15,.000,
+2023-01-18,202301180NOP,MIA,Q1,Tyler Herro,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.27,2,4,.500,0,2,0,0,0,3,3,5,1,0,1,0,4,6.4,+16,,.000
+2023-01-18,202301180NOP,MIA,Q1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.27,2,3,.667,0,1,0,1,1,1,2,1,1,0,0,0,4,5.0,+16,.000,.000
+2023-01-18,202301180NOP,MIA,Q1,Max Strus,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.73,0,1,.000,0,1,0,0,0,0,0,3,0,0,0,0,0,1.4,-3,,.000
+2023-01-18,202301180NOP,MIA,Q1,Gabe Vincent,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.73,3,4,.750,3,4,0,0,0,0,0,0,0,0,0,1,9,7.0,-3,,.750
+2023-01-18,202301180NOP,MIA,Q1,Victor Oladipo,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.4,1,1,1.000,0,0,0,0,0,3,3,1,0,0,0,1,2,2.9,+1,,
+2023-01-18,202301180NOP,MIA,Q1,Orlando Robinson,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.6,1,2,.500,0,0,0,0,0,0,0,0,1,0,0,2,2,1.2,+3,,
+2023-01-18,202301180NOP,MIA,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202301180NOP.html,4.43,0,0,,0,0,2,2,0,0,0,0,1,0,0,1,2,2.6,+5,1.000,
+2023-01-18,202301180NOP,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.0,3,4,.750,0,0,0,0,0,3,3,0,0,0,1,1,6,3.9,0,,
+2023-01-18,202301180NOP,MIA,Q2,Jimmy Butler,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.57,1,4,.250,0,1,1,1,0,1,1,4,0,0,0,0,3,3.7,+1,1.000,.000
+2023-01-18,202301180NOP,MIA,Q2,Tyler Herro,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.57,4,5,.800,0,1,0,0,0,1,1,0,0,0,0,0,8,6.4,+1,,.000
+2023-01-18,202301180NOP,MIA,Q2,Kyle Lowry,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.25,0,0,,0,0,0,0,1,0,1,2,0,0,0,0,0,2.1,-1,,
+2023-01-18,202301180NOP,MIA,Q2,Max Strus,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.65,3,5,.600,2,4,0,0,1,1,2,1,0,0,1,1,8,6.0,+7,,.500
+2023-01-18,202301180NOP,MIA,Q2,Gabe Vincent,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.75,0,2,.000,0,2,0,0,0,4,4,2,0,0,0,0,0,1.2,+7,,.000
+2023-01-18,202301180NOP,MIA,Q2,Victor Oladipo,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.78,1,2,.500,1,1,0,0,0,1,1,1,0,0,0,1,3,2.6,+4,,1.000
+2023-01-18,202301180NOP,MIA,Q2,Orlando Robinson,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.0,1,1,1.000,0,0,2,2,0,0,0,0,1,0,0,0,4,4.7,+6,1.000,
+2023-01-18,202301180NOP,MIA,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202301180NOP.html,10.3,1,2,.500,1,2,0,0,0,1,1,0,0,0,1,0,3,1.3,+4,,.500
+2023-01-18,202301180NOP,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/202301180NOP.html,10.3,2,3,.667,0,0,0,0,2,0,2,1,1,1,1,0,4,5.5,+4,,
+2023-01-18,202301180NOP,MIA,Q3,Jimmy Butler,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.8,4,5,.800,0,0,1,1,0,0,0,2,0,0,2,0,9,6.5,0,1.000,
+2023-01-18,202301180NOP,MIA,Q3,Tyler Herro,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.5,0,4,.000,0,4,2,2,0,0,0,2,1,0,0,0,2,1.6,0,1.000,.000
+2023-01-18,202301180NOP,MIA,Q3,Kyle Lowry,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.5,1,2,.500,1,2,0,0,0,5,5,1,0,0,1,1,3,2.8,0,,.500
+2023-01-18,202301180NOP,MIA,Q3,Max Strus,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.5,0,0,,0,0,0,0,0,0,0,2,0,0,0,0,0,1.4,+3,,
+2023-01-18,202301180NOP,MIA,Q3,Gabe Vincent,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.5,2,3,.667,1,1,0,0,0,0,0,1,0,0,0,0,5,4.4,+3,,1.000
+2023-01-18,202301180NOP,MIA,Q3,Victor Oladipo,https://www.basketball-reference.com/boxscores/202301180NOP.html,4.9,1,2,.500,0,0,0,0,0,1,1,0,0,0,0,0,2,1.3,+2,,
+2023-01-18,202301180NOP,MIA,Q3,Orlando Robinson,https://www.basketball-reference.com/boxscores/202301180NOP.html,1.7,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.8,-1,,
+2023-01-18,202301180NOP,MIA,Q4,Caleb Martin,https://www.basketball-reference.com/boxscores/202301180NOP.html,12.0,2,4,.500,1,2,0,0,0,2,2,0,1,0,1,0,5,3.6,+4,,.500
+2023-01-18,202301180NOP,MIA,Q4,Bam Adebayo,https://www.basketball-reference.com/boxscores/202301180NOP.html,4.87,2,2,1.000,0,0,3,4,1,1,2,0,1,0,0,1,7,7.6,+2,.750,
+2023-01-18,202301180NOP,MIA,Q4,Max Strus,https://www.basketball-reference.com/boxscores/202301180NOP.html,12.0,3,7,.429,2,5,0,0,0,0,0,4,0,0,0,1,8,6.7,+4,,.400
+2023-01-18,202301180NOP,MIA,Q4,Gabe Vincent,https://www.basketball-reference.com/boxscores/202301180NOP.html,12.0,1,5,.200,0,1,0,0,0,1,1,0,0,0,0,1,2,-1.2,+4,,.000
+2023-01-18,202301180NOP,MIA,Q4,Victor Oladipo,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.33,0,1,.000,0,1,0,0,0,0,0,2,0,1,0,1,0,1.0,+6,,.000
+2023-01-18,202301180NOP,MIA,Q4,Orlando Robinson,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.13,2,2,1.000,0,0,0,0,2,2,4,1,0,0,0,2,4,5.3,+2,,
+2023-01-18,202301180NOP,MIA,Q4,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.67,0,1,.000,0,0,0,0,1,0,1,0,1,0,0,0,0,1.0,-2,,
+2023-01-18,202301180NOP,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.55,1,2,.500,0,0,0,0,0,1,1,0,0,0,1,0,2,0.3,-16,,
+2023-01-18,202301180NOP,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202301180NOP.html,9.63,1,3,.333,0,0,3,3,0,3,3,2,0,0,0,1,5,5.2,-5,1.000,
+2023-01-18,202301180NOP,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202301180NOP.html,11.05,3,8,.375,2,3,0,0,0,1,1,1,0,0,1,1,8,3.2,-12,,.667
+2023-01-18,202301180NOP,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.6,1,2,.500,0,1,0,0,0,1,1,1,0,0,0,0,2,2.0,-12,,.000
+2023-01-18,202301180NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.6,2,3,.667,0,0,0,0,1,2,3,0,0,0,2,1,4,1.6,-12,,
+2023-01-18,202301180NOP,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.82,0,2,.000,0,1,0,0,0,1,1,0,0,1,1,0,0,-1.4,-5,,.000
+2023-01-18,202301180NOP,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301180NOP.html,0.95,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2023-01-18,202301180NOP,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.4,0,0,,0,0,0,0,1,0,1,2,0,0,0,0,0,2.1,-1,,
+2023-01-18,202301180NOP,NOP,Q1,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.4,0,0,,0,0,2,2,0,1,1,1,1,0,0,1,2,3.6,-1,1.000,
+2023-01-18,202301180NOP,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.57,0,1,.000,0,0,0,0,0,1,1,1,0,0,0,1,0,-0.1,-1,,
+2023-01-18,202301180NOP,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.78,3,4,.750,1,2,0,0,0,2,2,1,0,0,0,0,7,6.7,-4,,.500
+2023-01-18,202301180NOP,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.57,3,3,1.000,3,3,0,0,0,0,0,1,0,0,1,1,9,7.4,-1,,1.000
+2023-01-18,202301180NOP,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.65,0,3,.000,0,2,0,0,0,0,0,1,0,0,0,0,0,-1.4,-7,,.000
+2023-01-18,202301180NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.75,1,3,.333,0,0,1,2,0,1,1,0,0,0,0,1,3,0.8,-7,.500,
+2023-01-18,202301180NOP,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.78,2,3,.667,2,2,0,0,0,0,0,1,0,0,0,1,6,5.0,-4,,1.000
+2023-01-18,202301180NOP,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.65,1,2,.500,1,1,0,0,0,2,2,1,0,0,1,1,3,1.9,-7,,1.000
+2023-01-18,202301180NOP,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.25,0,0,,0,0,0,2,0,0,0,3,0,0,0,0,0,1.3,+1,.000,
+2023-01-18,202301180NOP,NOP,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301180NOP.html,7.75,2,3,.667,0,1,0,0,1,0,1,0,1,0,1,1,4,3.0,-4,,.000
+2023-01-18,202301180NOP,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202301180NOP.html,12.0,0,6,.000,0,3,0,0,0,0,0,1,0,0,1,0,0,-4.5,-3,,.000
+2023-01-18,202301180NOP,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.1,2,5,.400,0,2,0,0,0,1,1,2,1,1,1,2,4,2.9,+1,,.000
+2023-01-18,202301180NOP,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301180NOP.html,11.35,1,3,.333,1,3,0,0,0,2,2,1,2,0,0,0,3,4.6,0,,.333
+2023-01-18,202301180NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301180NOP.html,8.5,2,2,1.000,0,0,0,0,2,2,4,0,0,0,1,0,4,4.4,0,,
+2023-01-18,202301180NOP,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.9,2,3,.667,1,1,0,0,0,0,0,0,0,1,0,0,5,4.4,-4,,1.000
+2023-01-18,202301180NOP,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301180NOP.html,4.9,1,1,1.000,1,1,0,0,0,1,1,2,0,0,0,1,3,4.0,-2,,1.000
+2023-01-18,202301180NOP,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.5,1,1,1.000,0,0,0,0,0,0,0,1,0,0,0,0,2,2.4,-3,,
+2023-01-18,202301180NOP,NOP,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301180NOP.html,10.53,1,2,.500,0,0,1,1,0,3,3,2,0,0,3,0,3,1.3,0,1.000,
+2023-01-18,202301180NOP,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202301180NOP.html,1.47,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,,
+2023-01-18,202301180NOP,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.33,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,1,0,-1.1,-6,,.000
+2023-01-18,202301180NOP,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.15,0,1,.000,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.7,-2,,
+2023-01-18,202301180NOP,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.15,3,3,1.000,0,0,1,1,1,1,2,0,0,0,1,1,7,5.7,-2,1.000,
+2023-01-18,202301180NOP,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.18,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,,.000
+2023-01-18,202301180NOP,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301180NOP.html,6.33,0,0,,0,0,0,2,0,0,0,0,0,0,0,1,0,-1.2,-6,.000,
+2023-01-18,202301180NOP,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301180NOP.html,3.18,0,1,.000,0,0,0,0,0,1,1,0,0,0,0,0,0,-0.4,-4,,
+2023-01-18,202301180NOP,NOP,Q4,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.67,2,3,.667,0,0,1,3,2,0,2,1,0,0,1,0,5,4.0,+2,.333,
+2023-01-18,202301180NOP,NOP,Q4,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.67,1,3,.333,0,1,2,2,1,1,2,0,0,0,0,0,4,3.3,+2,1.000,.000
+2023-01-18,202301180NOP,NOP,Q4,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.67,1,1,1.000,1,1,0,0,0,0,0,1,0,0,1,0,3,2.4,+2,,1.000
+2023-01-18,202301180NOP,NOP,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/202301180NOP.html,5.67,0,1,.000,0,0,0,0,0,1,1,0,0,0,0,1,0,-0.8,+2,,

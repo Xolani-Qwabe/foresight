@@ -1,0 +1,71 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-03-07,202403070DET,BRK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403070DET.html,11.17,1,3,.333,1,3,.333,0,0,0,0,0,2,0,0,1,0,3,1.7,-12,
+2024-03-07,202403070DET,BRK,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403070DET.html,9.52,1,2,.500,1,1,1.000,1,2,0,0,0,0,0,0,1,0,4,1.6,-5,.500
+2024-03-07,202403070DET,BRK,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403070DET.html,7.0,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,1,0,-2.1,-5,
+2024-03-07,202403070DET,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/202403070DET.html,7.88,0,1,.000,0,0,,1,1,0,4,4,0,0,0,0,0,1,1.5,-4,1.000
+2024-03-07,202403070DET,BRK,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403070DET.html,8.78,1,3,.333,1,2,.500,0,0,0,1,1,0,0,0,0,2,3,0.8,-5,
+2024-03-07,202403070DET,BRK,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403070DET.html,3.42,1,3,.333,1,3,.333,0,0,0,1,1,0,0,0,0,0,3,1.6,-5,
+2024-03-07,202403070DET,BRK,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202403070DET.html,4.92,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,0,0,-2.7,+1,
+2024-03-07,202403070DET,BRK,Q1,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403070DET.html,3.2,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,1,0,0,-2.4,-9,
+2024-03-07,202403070DET,BRK,Q1,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202403070DET.html,4.12,1,3,.333,0,0,,0,0,1,1,2,1,1,0,0,0,2,3.0,-6,
+2024-03-07,202403070DET,BRK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403070DET.html,9.57,1,1,1.000,1,1,1.000,0,0,0,0,0,2,0,0,0,0,3,4.1,+12,
+2024-03-07,202403070DET,BRK,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403070DET.html,6.95,3,3,1.000,2,2,1.000,0,0,0,1,1,3,0,0,0,0,8,9.5,+5,
+2024-03-07,202403070DET,BRK,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403070DET.html,12.0,2,3,.667,1,2,.500,0,0,0,0,0,0,0,1,0,1,5,4.0,+13,
+2024-03-07,202403070DET,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/202403070DET.html,7.63,3,5,.600,0,0,,1,2,0,1,1,1,1,1,1,0,7,6.0,+8,.500
+2024-03-07,202403070DET,BRK,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403070DET.html,7.48,2,3,.667,0,1,.000,0,0,0,0,0,3,3,0,1,1,4,6.4,+9,
+2024-03-07,202403070DET,BRK,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403070DET.html,9.08,4,5,.800,2,3,.667,0,0,0,1,1,0,0,0,0,1,10,8.0,+7,
+2024-03-07,202403070DET,BRK,Q2,Trendon Watford,https://www.basketball-reference.com/boxscores/202403070DET.html,2.92,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,4,3.7,+6,
+2024-03-07,202403070DET,BRK,Q2,Noah Clowney,https://www.basketball-reference.com/boxscores/202403070DET.html,4.37,0,0,,0,0,,0,0,0,1,1,2,2,0,0,0,0,3.7,+5,
+2024-03-07,202403070DET,BRK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403070DET.html,12.0,2,4,.500,1,2,.500,0,0,0,0,0,1,0,0,1,0,5,2.7,-7,
+2024-03-07,202403070DET,BRK,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403070DET.html,10.12,5,6,.833,2,3,.667,0,0,0,0,0,3,0,0,1,0,12,10.9,0,
+2024-03-07,202403070DET,BRK,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403070DET.html,7.18,0,2,.000,0,2,.000,0,0,0,1,1,0,1,0,0,0,0,-0.1,0,
+2024-03-07,202403070DET,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/202403070DET.html,8.03,1,1,1.000,0,0,,0,0,0,2,2,0,0,2,0,0,2,3.7,-1,
+2024-03-07,202403070DET,BRK,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403070DET.html,5.7,0,4,.000,0,1,.000,0,0,0,1,1,0,1,0,0,1,0,-1.9,-3,
+2024-03-07,202403070DET,BRK,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403070DET.html,6.3,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,1,2,3,0.5,-4,
+2024-03-07,202403070DET,BRK,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202403070DET.html,1.88,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,
+2024-03-07,202403070DET,BRK,Q3,Noah Clowney,https://www.basketball-reference.com/boxscores/202403070DET.html,3.97,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2024-03-07,202403070DET,BRK,Q3,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403070DET.html,4.82,1,2,.500,0,0,,0,0,1,0,1,0,0,0,0,1,2,1.3,-7,
+2024-03-07,202403070DET,BRK,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403070DET.html,10.45,0,3,.000,0,1,.000,2,4,1,0,1,2,1,0,1,1,2,0.8,+1,.500
+2024-03-07,202403070DET,BRK,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403070DET.html,12.0,3,6,.500,0,1,.000,1,1,0,0,0,2,0,0,1,1,7,4.0,-2,1.000
+2024-03-07,202403070DET,BRK,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403070DET.html,10.58,3,3,1.000,2,2,1.000,0,0,0,2,2,0,2,0,0,0,8,9.7,-1,
+2024-03-07,202403070DET,BRK,Q4,Nic Claxton,https://www.basketball-reference.com/boxscores/202403070DET.html,10.67,1,1,1.000,0,0,,3,4,1,2,3,1,0,0,0,2,5,5.5,0,.750
+2024-03-07,202403070DET,BRK,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403070DET.html,1.6,0,0,,0,0,,2,2,0,0,0,0,0,0,0,2,2,1.2,-3,1.000
+2024-03-07,202403070DET,BRK,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403070DET.html,10.28,2,8,.250,1,6,.167,0,0,0,1,1,1,0,0,1,0,5,0.2,0,
+2024-03-07,202403070DET,BRK,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202403070DET.html,1.72,0,0,,0,0,,2,2,0,1,1,0,0,0,0,0,2,2.3,-2,1.000
+2024-03-07,202403070DET,BRK,Q4,Noah Clowney,https://www.basketball-reference.com/boxscores/202403070DET.html,1.33,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,-2,
+2024-03-07,202403070DET,BRK,Q4,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403070DET.html,1.37,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,
+2024-03-07,202403070DET,DET,Q1,Ausar Thompson,https://www.basketball-reference.com/boxscores/202403070DET.html,10.02,1,1,1.000,0,0,,0,0,0,2,2,0,0,1,0,1,2,2.6,+8,
+2024-03-07,202403070DET,DET,Q1,Jaden Ivey,https://www.basketball-reference.com/boxscores/202403070DET.html,9.77,3,6,.500,1,3,.333,0,0,0,1,1,0,0,0,0,1,7,3.9,+16,
+2024-03-07,202403070DET,DET,Q1,Cade Cunningham,https://www.basketball-reference.com/boxscores/202403070DET.html,9.75,2,2,1.000,1,1,1.000,2,2,0,2,2,4,0,0,2,0,7,7.8,+16,1.000
+2024-03-07,202403070DET,DET,Q1,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202403070DET.html,9.37,1,2,.500,0,1,.000,0,0,0,3,3,0,0,0,1,0,2,0.9,+16,
+2024-03-07,202403070DET,DET,Q1,Jalen Duren,https://www.basketball-reference.com/boxscores/202403070DET.html,6.88,3,3,1.000,0,0,,0,0,1,2,3,1,2,0,2,2,6,6.3,+11,
+2024-03-07,202403070DET,DET,Q1,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202403070DET.html,5.12,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-1,
+2024-03-07,202403070DET,DET,Q1,Evan Fournier,https://www.basketball-reference.com/boxscores/202403070DET.html,3.83,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-4,
+2024-03-07,202403070DET,DET,Q1,James Wiseman,https://www.basketball-reference.com/boxscores/202403070DET.html,2.63,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-6,
+2024-03-07,202403070DET,DET,Q1,Marcus Sasser,https://www.basketball-reference.com/boxscores/202403070DET.html,2.63,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,-6,
+2024-03-07,202403070DET,DET,Q2,Ausar Thompson,https://www.basketball-reference.com/boxscores/202403070DET.html,11.35,2,3,.667,1,2,.500,0,0,0,1,1,2,0,0,1,1,5,4.0,-11,
+2024-03-07,202403070DET,DET,Q2,Jaden Ivey,https://www.basketball-reference.com/boxscores/202403070DET.html,8.8,2,4,.500,1,1,1.000,0,0,2,0,2,0,0,0,1,0,5,3.4,-8,
+2024-03-07,202403070DET,DET,Q2,Cade Cunningham,https://www.basketball-reference.com/boxscores/202403070DET.html,8.8,2,8,.250,2,3,.667,0,0,0,0,0,2,0,0,2,0,6,0.6,-8,
+2024-03-07,202403070DET,DET,Q2,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202403070DET.html,7.28,1,1,1.000,0,0,,2,2,1,0,1,0,0,0,1,0,4,3.4,-11,1.000
+2024-03-07,202403070DET,DET,Q2,Jalen Duren,https://www.basketball-reference.com/boxscores/202403070DET.html,8.8,1,2,.500,0,0,,0,0,2,3,5,2,0,0,1,0,2,3.7,-8,
+2024-03-07,202403070DET,DET,Q2,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202403070DET.html,5.37,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2024-03-07,202403070DET,DET,Q2,Evan Fournier,https://www.basketball-reference.com/boxscores/202403070DET.html,3.2,0,0,,0,0,,0,0,0,1,1,0,0,0,1,0,0,-0.7,-5,
+2024-03-07,202403070DET,DET,Q2,James Wiseman,https://www.basketball-reference.com/boxscores/202403070DET.html,3.2,2,2,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,4,4.1,-5,
+2024-03-07,202403070DET,DET,Q2,Marcus Sasser,https://www.basketball-reference.com/boxscores/202403070DET.html,3.2,1,3,.333,0,2,.000,0,0,0,0,0,1,0,0,0,1,2,0.6,-5,
+2024-03-07,202403070DET,DET,Q3,Ausar Thompson,https://www.basketball-reference.com/boxscores/202403070DET.html,12.0,3,6,.500,1,3,.333,0,0,2,0,2,1,0,0,1,0,7,5.1,+7,
+2024-03-07,202403070DET,DET,Q3,Jaden Ivey,https://www.basketball-reference.com/boxscores/202403070DET.html,8.27,2,2,1.000,1,1,1.000,4,4,0,0,0,0,1,0,0,1,9,9.0,-1,1.000
+2024-03-07,202403070DET,DET,Q3,Cade Cunningham,https://www.basketball-reference.com/boxscores/202403070DET.html,12.0,2,7,.286,1,3,.333,1,1,1,1,2,4,0,0,0,0,6,5.7,+7,1.000
+2024-03-07,202403070DET,DET,Q3,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202403070DET.html,9.1,0,0,,0,0,,0,0,1,3,4,0,0,0,2,1,0,-0.8,+1,
+2024-03-07,202403070DET,DET,Q3,Jalen Duren,https://www.basketball-reference.com/boxscores/202403070DET.html,5.45,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,2,2.3,+3,
+2024-03-07,202403070DET,DET,Q3,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202403070DET.html,6.55,2,5,.400,0,0,,0,0,2,2,4,1,0,1,1,0,4,3.7,+4,
+2024-03-07,202403070DET,DET,Q3,Evan Fournier,https://www.basketball-reference.com/boxscores/202403070DET.html,3.73,0,0,,0,0,,0,0,0,1,1,1,1,0,0,1,0,1.6,+8,
+2024-03-07,202403070DET,DET,Q3,James Wiseman,https://www.basketball-reference.com/boxscores/202403070DET.html,2.9,1,2,.500,0,0,,1,1,0,1,1,0,1,1,0,0,3,4.0,+6,1.000
+2024-03-07,202403070DET,DET,Q4,Ausar Thompson,https://www.basketball-reference.com/boxscores/202403070DET.html,9.98,0,2,.000,0,2,.000,0,0,0,2,2,0,1,0,1,2,0,-1.6,0,
+2024-03-07,202403070DET,DET,Q4,Jaden Ivey,https://www.basketball-reference.com/boxscores/202403070DET.html,12.0,3,5,.600,3,4,.750,4,4,0,0,0,2,1,0,3,2,13,9.3,+2,1.000
+2024-03-07,202403070DET,DET,Q4,Cade Cunningham,https://www.basketball-reference.com/boxscores/202403070DET.html,7.55,4,5,.800,0,1,.000,5,6,0,1,1,1,0,1,1,0,13,11.4,+4,.833
+2024-03-07,202403070DET,DET,Q4,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202403070DET.html,5.83,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,2,2.3,+2,
+2024-03-07,202403070DET,DET,Q4,Jalen Duren,https://www.basketball-reference.com/boxscores/202403070DET.html,8.72,1,2,.500,0,0,,0,0,0,4,4,1,0,0,0,1,2,2.5,+3,
+2024-03-07,202403070DET,DET,Q4,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202403070DET.html,6.17,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,0,
+2024-03-07,202403070DET,DET,Q4,Evan Fournier,https://www.basketball-reference.com/boxscores/202403070DET.html,2.02,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+2,
+2024-03-07,202403070DET,DET,Q4,James Wiseman,https://www.basketball-reference.com/boxscores/202403070DET.html,3.28,1,1,1.000,0,0,,1,1,0,0,0,0,0,0,1,2,3,0.9,-1,1.000
+2024-03-07,202403070DET,DET,Q4,Malachi Flynn,https://www.basketball-reference.com/boxscores/202403070DET.html,4.45,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,

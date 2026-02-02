@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-06,202001060SAC,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202001060SAC.html,30:52,.558,.556,.333,.444,0.0,15.6,7.1,5.9,1.5,0.0,27.1,19.6,79,110,-7.7
+2020-01-06,202001060SAC,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202001060SAC.html,29:07,.337,.318,.545,.182,0.0,20.6,9.5,11.3,3.1,0.0,0.0,16.7,79,105,-5.3
+2020-01-06,202001060SAC,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202001060SAC.html,26:41,.576,.577,.154,.154,0.0,22.5,10.3,8.4,0.0,0.0,12.6,24.4,98,112,-4.5
+2020-01-06,202001060SAC,GSW,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202001060SAC.html,26:16,.500,.500,.000,.000,23.3,13.7,18.9,34.2,3.5,3.6,0.0,12.5,136,103,9.5
+2020-01-06,202001060SAC,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/202001060SAC.html,22:21,.368,.350,.300,.200,0.0,10.7,4.9,15.6,6.2,0.0,31.5,29.1,55,99,-12.3
+2020-01-06,202001060SAC,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/202001060SAC.html,25:41,.396,.200,.400,.600,4.0,23.4,12.9,18.5,0.0,3.7,13.7,23.4,85,109,-7.6
+2020-01-06,202001060SAC,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/202001060SAC.html,22:06,.611,.500,.250,.750,4.6,27.1,15.0,17.2,4.1,0.0,8.6,21.6,123,102,6.2
+2020-01-06,202001060SAC,GSW,Jacob Evans,https://www.basketball-reference.com/boxscores/202001060SAC.html,18:53,.410,.250,.500,.500,0.0,6.4,2.9,0.0,2.4,5.0,29.1,14.9,61,105,-9.7
+2020-01-06,202001060SAC,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202001060SAC.html,16:19,.781,.625,.750,1.000,0.0,7.4,3.4,10.5,5.6,0.0,0.0,14.5,168,101,10.1
+2020-01-06,202001060SAC,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202001060SAC.html,14:41,.457,.357,.143,.571,13.9,24.5,18.8,11.9,0.0,6.4,10.2,27.3,98,107,-2.8
+2020-01-06,202001060SAC,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202001060SAC.html,7:03,.500,.500,.000,.000,0.0,0.0,0.0,25.0,0.0,0.0,0.0,11.6,116,116,-1.9
+2020-01-06,202001060SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202001060SAC.html,35:42,.547,.529,.588,.294,3.4,2.9,3.1,22.7,1.3,0.0,9.4,25.2,108,100,-0.3
+2020-01-06,202001060SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202001060SAC.html,33:27,.676,.625,.417,.250,0.0,12.2,6.6,9.4,1.4,0.0,0.0,16.9,136,97,4.9
+2020-01-06,202001060SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202001060SAC.html,30:18,.599,.500,.071,.571,4.0,10.1,7.3,39.7,1.5,2.6,25.5,32.9,104,95,-1.3
+2020-01-06,202001060SAC,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202001060SAC.html,27:17,.820,.750,1.000,.500,0.0,37.4,20.2,5.0,0.0,0.0,29.1,10.7,110,93,-3.5
+2020-01-06,202001060SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202001060SAC.html,20:08,.643,.600,.000,.200,0.0,20.3,11.0,7.5,2.3,7.9,35.5,17.8,80,87,-2.5
+2020-01-06,202001060SAC,SAC,Trevor Ariza,https://www.basketball-reference.com/boxscores/202001060SAC.html,32:12,.911,1.000,.667,.222,3.7,15.9,10.3,15.7,2.8,0.0,0.0,13.0,172,93,13.4
+2020-01-06,202001060SAC,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202001060SAC.html,22:04,.676,.625,.375,.250,5.4,9.3,7.5,21.5,2.1,0.0,18.4,20.9,118,96,4.4
+2020-01-06,202001060SAC,SAC,Harry Giles,https://www.basketball-reference.com/boxscores/202001060SAC.html,15:46,.333,.333,.000,.000,7.6,32.4,21.0,37.0,5.8,0.0,40.0,26.9,66,82,-4.6
+2020-01-06,202001060SAC,SAC,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202001060SAC.html,8:11,,,,,0.0,25.0,13.5,0.0,5.6,0.0,100.0,10.4,0,84,-9.7
+2020-01-06,202001060SAC,SAC,Caleb Swanigan,https://www.basketball-reference.com/boxscores/202001060SAC.html,6:59,.500,.500,.000,.000,17.2,14.6,15.8,21.4,0.0,0.0,33.3,18.2,94,98,-10.7
+2020-01-06,202001060SAC,SAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/202001060SAC.html,4:38,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.3,0,103,-28.2
+2020-01-06,202001060SAC,SAC,Justin James,https://www.basketball-reference.com/boxscores/202001060SAC.html,3:18,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.7,0,104,-31.0

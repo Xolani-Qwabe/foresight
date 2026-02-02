@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202504010MIL.html
+Scraped: 2025-12-17 02:35:20
+
+line_scores: 2 rows (nba_boxscores/line_scores_202504010MIL.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202504010MIL.csv)
+team_basic: 16 rows (nba_boxscores/team_basic_202504010MIL.csv)
+team_advanced: 16 rows (nba_boxscores/team_advanced_202504010MIL.csv)
+quarters: 64 rows (nba_boxscores/quarters_202504010MIL.csv)

@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-25,201911250CHI,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/201911250CHI.html,32:17,.606,.563,.438,.188,0.0,8.9,4.8,13.1,0.0,3.2,5.5,24.0,128,98,3.4
+2019-11-25,201911250CHI,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/201911250CHI.html,30:38,.612,.600,.350,.050,3.7,21.9,13.6,10.3,1.6,0.0,8.9,30.9,120,93,5.3
+2019-11-25,201911250CHI,POR,Rodney Hood,https://www.basketball-reference.com/boxscores/201911250CHI.html,30:07,.627,.591,.455,.364,3.8,15.9,10.4,13.1,1.6,0.0,0.0,17.9,144,95,5.3
+2019-11-25,201911250CHI,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/201911250CHI.html,27:15,.553,.450,.400,.400,0.0,7.0,3.8,54.3,3.5,0.0,7.8,19.8,140,93,12.1
+2019-11-25,201911250CHI,POR,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201911250CHI.html,22:55,.732,.750,.000,.250,15.0,37.7,27.3,6.3,2.1,8.9,18.4,20.0,127,83,7.4
+2019-11-25,201911250CHI,POR,Kent Bazemore,https://www.basketball-reference.com/boxscores/201911250CHI.html,23:14,.694,.500,.500,1.000,4.9,8.3,6.7,0.0,0.0,0.0,25.8,7.1,117,100,-3.7
+2019-11-25,201911250CHI,POR,Skal Labissière,https://www.basketball-reference.com/boxscores/201911250CHI.html,20:52,.676,.625,.000,.250,21.9,18.4,20.0,0.0,0.0,9.8,18.4,22.0,124,90,-1.1
+2019-11-25,201911250CHI,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/201911250CHI.html,20:43,.200,.200,.400,.000,0.0,9.3,5.0,0.0,0.0,0.0,44.4,18.3,23,100,-21.1
+2019-11-25,201911250CHI,POR,Nassir Little,https://www.basketball-reference.com/boxscores/201911250CHI.html,17:08,.521,.500,.500,1.000,13.3,22.4,18.3,6.5,0.0,0.0,25.8,9.6,109,97,-0.7
+2019-11-25,201911250CHI,POR,Mario Hezonja,https://www.basketball-reference.com/boxscores/201911250CHI.html,6:33,.500,.500,.000,.000,0.0,29.3,15.9,18.9,7.3,0.0,33.3,19.3,80,80,4.9
+2019-11-25,201911250CHI,POR,Moses Brown,https://www.basketball-reference.com/boxscores/201911250CHI.html,4:09,.410,.500,.000,.500,27.5,23.1,25.1,0.0,11.5,0.0,0.0,49.7,91,71,-3.6
+2019-11-25,201911250CHI,POR,Jaylen Hoard,https://www.basketball-reference.com/boxscores/201911250CHI.html,4:09,1.000,1.000,.000,.000,0.0,23.1,12.6,0.0,11.5,0.0,0.0,10.2,200,72,19.7
+2019-11-25,201911250CHI,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/201911250CHI.html,31:22,.676,.625,.125,.250,9.2,21.9,15.0,5.4,1.5,2.5,18.4,14.9,116,114,-0.8
+2019-11-25,201911250CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/201911250CHI.html,29:56,.560,.500,.385,.538,0.0,3.8,1.7,30.4,3.2,2.6,27.2,31.7,87,115,-2.2
+2019-11-25,201911250CHI,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/201911250CHI.html,27:09,.635,.571,.714,.286,0.0,4.2,1.9,17.3,0.0,2.9,0.0,12.5,135,122,3.5
+2019-11-25,201911250CHI,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/201911250CHI.html,27:09,.458,.458,.417,.000,0.0,21.0,9.6,32.5,0.0,0.0,20.0,23.7,82,119,-8.1
+2019-11-25,201911250CHI,CHI,Shaquille Harrison,https://www.basketball-reference.com/boxscores/201911250CHI.html,23:26,.255,.300,.400,.400,8.2,9.8,8.9,18.1,0.0,3.3,25.4,14.4,65,120,-8.0
+2019-11-25,201911250CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/201911250CHI.html,28:16,.288,.269,.615,.154,0.0,12.1,5.5,11.0,3.4,0.0,0.0,21.1,66,114,-7.3
+2019-11-25,201911250CHI,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/201911250CHI.html,15:54,.550,.550,.500,.000,6.0,21.6,13.1,14.4,3.0,0.0,0.0,27.0,109,112,5.2
+2019-11-25,201911250CHI,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/201911250CHI.html,15:32,.773,.667,.000,.667,6.2,14.7,10.1,0.0,0.0,0.0,0.0,10.7,163,121,-2.9
+2019-11-25,201911250CHI,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/201911250CHI.html,14:04,.833,.833,.333,.000,6.8,16.2,11.1,23.4,0.0,0.0,40.0,15.3,103,120,-2.1
+2019-11-25,201911250CHI,CHI,Kris Dunn,https://www.basketball-reference.com/boxscores/201911250CHI.html,10:52,.250,.250,.625,.000,0.0,0.0,0.0,16.3,4.4,0.0,0.0,31.6,57,115,-13.9
+2019-11-25,201911250CHI,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/201911250CHI.html,8:31,.000,.000,.500,.000,0.0,13.4,6.1,15.7,0.0,0.0,0.0,10.1,27,121,-15.2
+2019-11-25,201911250CHI,CHI,Chandler Hutchison,https://www.basketball-reference.com/boxscores/201911250CHI.html,7:49,.904,1.250,.500,1.500,0.0,43.9,20.0,0.0,6.1,0.0,37.6,29.2,72,100,8.2

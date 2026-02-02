@@ -1,0 +1,77 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg_pct,fg3_pct,ft_pct
+2024-11-06,202411060LAC,PHI,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.27,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.7,-1,,,
+2024-11-06,202411060LAC,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202411060LAC.html,10.58,3,7,1,4,1,1,0,0,0,0,1,0,1,1,8,3.9,+4,.429,.250,1.000
+2024-11-06,202411060LAC,PHI,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202411060LAC.html,10.58,2,3,1,2,2,3,0,0,0,0,0,0,1,1,7,3.9,+4,.667,.500,.667
+2024-11-06,202411060LAC,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,5.95,1,2,1,1,0,0,0,1,1,0,0,0,0,2,3,1.5,-1,.500,1.000,
+2024-11-06,202411060LAC,PHI,Q1,Paul George,https://www.basketball-reference.com/boxscores/202411060LAC.html,6.8,2,2,2,2,0,0,1,2,3,1,1,0,3,1,6,5.0,0,1.000,1.000,
+2024-11-06,202411060LAC,PHI,Q1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411060LAC.html,6.62,0,2,0,2,0,0,1,1,2,2,1,0,2,1,0,-0.4,+2,.000,.000,
+2024-11-06,202411060LAC,PHI,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202411060LAC.html,1.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,,
+2024-11-06,202411060LAC,PHI,Q1,Eric Gordon,https://www.basketball-reference.com/boxscores/202411060LAC.html,6.05,0,1,0,1,1,2,1,0,1,1,0,0,0,0,1,1.3,+4,.000,.000,.500
+2024-11-06,202411060LAC,PHI,Q1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.73,1,1,0,0,0,0,1,0,1,0,0,0,0,0,2,2.4,+4,1.000,,
+2024-11-06,202411060LAC,PHI,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202411060LAC.html,12.0,3,4,1,1,0,0,2,6,8,0,0,1,1,1,7,7.9,-3,.750,1.000,
+2024-11-06,202411060LAC,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.98,2,3,0,0,0,0,0,0,0,0,0,0,2,0,4,0.7,-4,.667,,
+2024-11-06,202411060LAC,PHI,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.17,0,2,0,0,1,3,0,0,0,1,0,0,0,0,1,-0.5,+1,.000,,.333
+2024-11-06,202411060LAC,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,5.18,1,3,0,1,0,0,0,0,0,1,0,0,0,1,2,0.6,-1,.333,.000,
+2024-11-06,202411060LAC,PHI,Q2,Paul George,https://www.basketball-reference.com/boxscores/202411060LAC.html,6.52,2,2,0,0,2,2,1,1,2,0,0,0,0,1,6,6.0,-1,1.000,,1.000
+2024-11-06,202411060LAC,PHI,Q2,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.02,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,+1,,,
+2024-11-06,202411060LAC,PHI,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202411060LAC.html,9.32,2,2,0,0,0,0,0,1,1,0,1,0,0,1,4,4.3,-6,1.000,,
+2024-11-06,202411060LAC,PHI,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202411060LAC.html,6.82,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,-2.7,-2,.000,,
+2024-11-06,202411060LAC,PHI,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.93,1,2,0,0,0,2,1,0,1,0,0,0,0,1,2,0.5,-6,.500,,.000
+2024-11-06,202411060LAC,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202411060LAC.html,12.0,0,3,0,2,0,0,0,1,1,1,0,0,0,2,0,-1.9,-16,.000,.000,
+2024-11-06,202411060LAC,PHI,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202411060LAC.html,12.0,2,5,0,2,2,4,0,2,2,1,1,0,0,0,6,4.8,-16,.400,.000,.500
+2024-11-06,202411060LAC,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.12,2,3,0,1,1,1,0,1,1,1,0,0,0,1,5,4.3,-4,.667,.000,1.000
+2024-11-06,202411060LAC,PHI,Q3,Paul George,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.78,1,3,0,1,0,0,1,1,2,0,1,1,0,0,2,3.0,-7,.333,.000,
+2024-11-06,202411060LAC,PHI,Q3,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.22,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0.0,-9,.000,.000,
+2024-11-06,202411060LAC,PHI,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.88,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,-1.7,-12,,,
+2024-11-06,202411060LAC,PHI,Q3,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.07,1,2,0,1,0,0,0,0,0,0,0,0,0,1,2,0.6,-10,.500,.000,
+2024-11-06,202411060LAC,PHI,Q4,Andre Drummond,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.28,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,-2,,,
+2024-11-06,202411060LAC,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,5.33,4,4,0,0,0,0,0,0,0,1,1,0,3,1,8,5.1,0,1.000,,
+2024-11-06,202411060LAC,PHI,Q4,Paul George,https://www.basketball-reference.com/boxscores/202411060LAC.html,5.5,2,2,0,0,0,0,0,0,0,1,1,0,1,2,4,3.3,-3,1.000,,
+2024-11-06,202411060LAC,PHI,Q4,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.05,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,,,
+2024-11-06,202411060LAC,PHI,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.72,3,4,0,0,0,0,0,3,3,0,0,0,0,0,6,5.3,+6,.750,,
+2024-11-06,202411060LAC,PHI,Q4,Jared McCain,https://www.basketball-reference.com/boxscores/202411060LAC.html,12.0,2,4,0,1,1,1,0,1,1,2,1,0,0,1,5,5.3,+4,.500,.000,1.000
+2024-11-06,202411060LAC,PHI,Q4,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411060LAC.html,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,,,
+2024-11-06,202411060LAC,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202411060LAC.html,9.6,3,4,1,2,0,0,0,1,1,0,0,0,1,1,7,4.3,+7,.750,.500,
+2024-11-06,202411060LAC,PHI,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202411060LAC.html,6.5,0,1,0,0,0,0,0,0,0,2,1,0,1,0,0,0.7,+7,.000,,
+2024-11-06,202411060LAC,PHI,Q4,Adem Bona,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+7,,,
+2024-11-06,202411060LAC,LAC,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.93,2,3,1,2,2,2,0,0,0,0,0,0,1,1,7,4.3,-4,.667,.500,1.000
+2024-11-06,202411060LAC,LAC,Q1,James Harden,https://www.basketball-reference.com/boxscores/202411060LAC.html,10.58,2,5,0,3,1,2,0,0,0,3,2,1,1,0,5,5.7,-4,.400,.000,.500
+2024-11-06,202411060LAC,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.37,3,3,0,0,0,0,0,1,1,2,0,0,0,0,6,6.8,+2,1.000,,
+2024-11-06,202411060LAC,LAC,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.17,1,1,0,0,0,0,0,1,1,0,0,0,0,0,2,2.0,0,1.000,,
+2024-11-06,202411060LAC,LAC,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.93,0,1,0,1,0,0,1,0,1,2,1,0,0,0,0,2.4,-4,.000,.000,
+2024-11-06,202411060LAC,LAC,Q1,Amir Coffey,https://www.basketball-reference.com/boxscores/202411060LAC.html,1.42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,.000,,
+2024-11-06,202411060LAC,LAC,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.83,1,1,0,0,0,0,1,1,2,0,1,0,0,0,2,3.7,-3,1.000,,
+2024-11-06,202411060LAC,LAC,Q1,Kris Dunn,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.07,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,-0.7,+1,,,
+2024-11-06,202411060LAC,LAC,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.07,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,-2.4,+1,.000,.000,
+2024-11-06,202411060LAC,LAC,Q1,Kai Jones,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.63,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2,0.3,-5,1.000,,
+2024-11-06,202411060LAC,LAC,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202411060LAC.html,9.43,3,4,2,3,0,0,0,0,0,1,0,0,0,1,8,6.7,+3,.750,.667,
+2024-11-06,202411060LAC,LAC,Q2,James Harden,https://www.basketball-reference.com/boxscores/202411060LAC.html,6.38,0,5,0,1,0,0,0,2,2,1,0,0,0,0,0,-2.2,-1,.000,.000,
+2024-11-06,202411060LAC,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202411060LAC.html,12.0,2,4,0,0,0,0,2,2,4,1,0,0,1,0,4,3.7,+3,.500,,
+2024-11-06,202411060LAC,LAC,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.03,2,2,1,1,2,2,1,0,1,0,0,0,0,0,7,7.1,+2,1.000,1.000,1.000
+2024-11-06,202411060LAC,LAC,Q2,Terance Mann,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.03,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,+2,,,
+2024-11-06,202411060LAC,LAC,Q2,Amir Coffey,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.97,2,5,0,1,1,1,2,0,2,0,0,0,0,0,5,3.7,+1,.400,.000,1.000
+2024-11-06,202411060LAC,LAC,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.97,1,2,1,1,0,0,0,0,0,0,1,0,0,1,3,2.6,+1,.500,1.000,
+2024-11-06,202411060LAC,LAC,Q2,Kris Dunn,https://www.basketball-reference.com/boxscores/202411060LAC.html,5.62,0,1,0,1,0,0,0,0,0,3,1,0,0,0,0,2.4,+4,.000,.000,
+2024-11-06,202411060LAC,LAC,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,2.57,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,-0.3,0,,,
+2024-11-06,202411060LAC,LAC,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.72,1,1,1,1,0,0,0,1,1,2,0,0,0,1,3,4.0,+4,1.000,1.000,
+2024-11-06,202411060LAC,LAC,Q3,James Harden,https://www.basketball-reference.com/boxscores/202411060LAC.html,12.0,3,5,1,2,5,5,0,2,2,2,1,0,2,1,12,10.3,+16,.600,.500,1.000
+2024-11-06,202411060LAC,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.93,0,0,0,0,0,0,0,3,3,0,0,0,0,1,0,0.5,+6,,,
+2024-11-06,202411060LAC,LAC,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.32,2,3,0,1,1,1,0,2,2,0,0,0,0,2,5,3.5,+4,.667,.000,1.000
+2024-11-06,202411060LAC,LAC,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202411060LAC.html,7.72,3,5,1,2,0,0,0,1,1,0,0,0,0,1,7,4.6,+4,.600,.500,
+2024-11-06,202411060LAC,LAC,Q3,Amir Coffey,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.68,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,+12,,,
+2024-11-06,202411060LAC,LAC,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.28,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1.0,+12,,,
+2024-11-06,202411060LAC,LAC,Q3,Kris Dunn,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.28,2,2,0,0,0,0,0,0,0,1,0,0,1,1,4,2.7,+12,1.000,,
+2024-11-06,202411060LAC,LAC,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,2.23,1,1,0,0,0,1,0,0,0,1,0,0,0,0,2,2.0,+6,1.000,,.000
+2024-11-06,202411060LAC,LAC,Q3,Kai Jones,https://www.basketball-reference.com/boxscores/202411060LAC.html,0.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+4,,,
+2024-11-06,202411060LAC,LAC,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202411060LAC.html,8.63,2,2,2,2,2,2,0,0,0,3,1,0,2,1,8,8.1,+3,1.000,1.000,1.000
+2024-11-06,202411060LAC,LAC,Q4,James Harden,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.98,0,0,0,0,1,2,0,0,0,0,0,0,3,0,1,-2.4,+2,,,.500
+2024-11-06,202411060LAC,LAC,Q4,Ivica Zubac,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.98,2,2,0,0,1,1,0,1,1,0,1,0,0,0,5,5.7,+2,1.000,,1.000
+2024-11-06,202411060LAC,LAC,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.33,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1.4,+3,,,
+2024-11-06,202411060LAC,LAC,Q4,Amir Coffey,https://www.basketball-reference.com/boxscores/202411060LAC.html,11.48,2,2,2,2,0,0,0,0,0,0,0,0,0,0,6,5.4,-4,1.000,1.000,
+2024-11-06,202411060LAC,LAC,Q4,Nicolas Batum,https://www.basketball-reference.com/boxscores/202411060LAC.html,4.17,1,3,0,2,0,0,0,0,0,0,0,0,0,0,2,0.3,+1,.333,.000,
+2024-11-06,202411060LAC,LAC,Q4,Kris Dunn,https://www.basketball-reference.com/boxscores/202411060LAC.html,5.3,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1.3,0,,,
+2024-11-06,202411060LAC,LAC,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.65,0,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0.6,+1,.000,,
+2024-11-06,202411060LAC,LAC,Q4,Kai Jones,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-7,,,
+2024-11-06,202411060LAC,LAC,Q4,Kobe Brown,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.37,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1.7,-7,1.000,,
+2024-11-06,202411060LAC,LAC,Q4,Bones Hyland,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.37,1,2,0,0,0,0,0,1,1,0,1,0,1,1,2,0.9,-7,.500,,
+2024-11-06,202411060LAC,LAC,Q4,Jordan Miller,https://www.basketball-reference.com/boxscores/202411060LAC.html,3.37,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,-1.7,-7,.000,.000,

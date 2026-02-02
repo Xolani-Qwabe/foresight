@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-02-01,202502010HOU,BRK,Ziaire Williams,https://www.basketball-reference.com/boxscores/202502010HOU.html,36:46,.643,.600,.400,.200,9.1,13.9,11.6,4.0,1.4,4.7,0.0,19.9,145,105,6.5
+2025-02-01,202502010HOU,BRK,Keon Johnson,https://www.basketball-reference.com/boxscores/202502010HOU.html,33:44,.538,.444,.667,.778,3.3,24.2,14.2,18.4,0.0,2.5,14.2,18.7,115,105,0.8
+2025-02-01,202502010HOU,BRK,Jalen Wilson,https://www.basketball-reference.com/boxscores/202502010HOU.html,32:46,.630,.611,.333,.333,3.4,18.7,11.4,8.2,1.6,0.0,8.8,15.5,127,105,1.0
+2025-02-01,202502010HOU,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202502010HOU.html,28:38,.571,.571,.000,.143,3.9,14.3,9.3,11.3,1.8,3.0,6.3,24.8,117,104,0.4
+2025-02-01,202502010HOU,BRK,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202502010HOU.html,25:43,.571,.536,.571,.286,0.0,4.0,2.1,17.6,0.0,6.7,6.0,29.2,121,111,5.2
+2025-02-01,202502010HOU,BRK,Tosan Evbuomwan,https://www.basketball-reference.com/boxscores/202502010HOU.html,26:51,.583,.583,.167,.000,4.2,3.8,4.0,19.0,0.0,0.0,0.0,10.0,148,115,0.8
+2025-02-01,202502010HOU,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202502010HOU.html,23:33,.250,.250,.000,.000,9.5,13.0,11.3,19.9,0.0,3.6,20.0,9.5,98,109,-6.1
+2025-02-01,202502010HOU,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202502010HOU.html,16:45,.813,.813,.125,.000,13.3,12.2,12.7,22.2,0.0,5.1,11.1,24.0,149,107,8.8
+2025-02-01,202502010HOU,BRK,Trendon Watford,https://www.basketball-reference.com/boxscores/202502010HOU.html,15:14,.338,.375,.250,.250,14.7,20.1,17.5,9.4,6.8,0.0,25.3,34.9,65,92,-13.0
+2025-02-01,202502010HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202502010HOU.html,40:50,.243,.250,.125,.063,7.5,19.1,13.1,24.7,1.3,2.0,0.0,17.2,87,117,-4.7
+2025-02-01,202502010HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202502010HOU.html,38:03,.563,.521,.458,.167,2.7,5.9,4.2,10.5,0.0,0.0,3.7,30.0,121,125,3.2
+2025-02-01,202502010HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202502010HOU.html,26:20,.571,.571,.357,.000,11.6,25.4,18.2,14.4,0.0,0.0,0.0,22.7,133,118,3.3
+2025-02-01,202502010HOU,HOU,Steven Adams,https://www.basketball-reference.com/boxscores/202502010HOU.html,24:59,.720,.800,.000,1.200,8.2,22.3,14.9,0.0,2.1,9.6,0.0,13.0,152,109,6.4
+2025-02-01,202502010HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202502010HOU.html,16:34,.375,.375,1.000,.000,0.0,0.0,0.0,16.5,0.0,0.0,0.0,10.3,107,127,-7.9
+2025-02-01,202502010HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202502010HOU.html,27:20,.667,.667,.222,.000,11.2,24.5,17.6,6.0,0.0,2.9,25.0,18.7,107,118,0.1
+2025-02-01,202502010HOU,HOU,Reed Sheppard,https://www.basketball-reference.com/boxscores/202502010HOU.html,15:36,.500,.500,.833,.000,0.0,14.3,6.8,9.7,6.6,5.1,0.0,16.4,118,104,8.8
+2025-02-01,202502010HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202502010HOU.html,14:28,.410,.375,.750,.500,0.0,15.4,7.4,0.0,7.1,0.0,50.6,29.1,40,106,-18.7
+2025-02-01,202502010HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202502010HOU.html,12:43,.250,.250,1.000,.000,0.0,0.0,0.0,11.0,0.0,0.0,0.0,20.1,70,127,-15.1
+2025-02-01,202502010HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202502010HOU.html,8:24,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,15.2,64,127,-14.1
+2025-02-01,202502010HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202502010HOU.html,8:00,.250,.250,.000,.000,25.5,0.0,13.3,37.5,0.0,0.0,0.0,21.3,100,127,-0.9
+2025-02-01,202502010HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202502010HOU.html,6:43,.532,.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.9,130,127,-6.7

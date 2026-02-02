@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-10-31,202410310MEM,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202410310MEM.html,33:31,.725,.773,.000,.364,2.5,39.8,16.8,34.4,1.4,2.7,3.8,33.2,138,115,20.1
+2024-10-31,202410310MEM,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202410310MEM.html,33:21,.155,.083,.500,.167,2.5,4.0,3.1,21.8,1.4,0.0,7.2,17.5,57,122,-12.6
+2024-10-31,202410310MEM,MIL,Taurean Prince,https://www.basketball-reference.com/boxscores/202410310MEM.html,27:24,.313,.313,.750,.000,0.0,9.7,3.7,14.0,6.7,0.0,11.1,13.8,70,109,-0.5
+2024-10-31,202410310MEM,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202410310MEM.html,23:35,.676,.688,.750,.250,0.0,17.0,6.5,6.2,0.0,0.0,0.0,15.8,133,123,1.7
+2024-10-31,202410310MEM,MIL,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202410310MEM.html,18:09,.362,.333,.583,.083,0.0,14.7,5.6,0.0,2.5,0.0,0.0,28.8,74,118,-7.9
+2024-10-31,202410310MEM,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202410310MEM.html,24:56,.393,.393,.357,.000,16.6,10.7,14.3,0.0,1.9,0.0,6.7,25.3,88,120,-6.6
+2024-10-31,202410310MEM,MIL,Delon Wright,https://www.basketball-reference.com/boxscores/202410310MEM.html,20:42,1.000,1.000,.500,.000,0.0,6.4,2.5,13.6,0.0,4.3,0.0,8.1,195,121,6.7
+2024-10-31,202410310MEM,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202410310MEM.html,18:47,.347,.500,.500,1.000,4.4,28.4,13.6,6.6,4.9,4.7,41.0,10.9,57,107,-5.7
+2024-10-31,202410310MEM,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202410310MEM.html,15:55,.214,.214,.714,.000,0.0,25.1,9.6,15.9,0.0,0.0,12.5,21.1,50,122,-12.9
+2024-10-31,202410310MEM,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202410310MEM.html,4:44,.333,.333,.333,.000,17.5,28.2,21.6,0.0,0.0,0.0,25.0,35.5,62,121,-16.6
+2024-10-31,202410310MEM,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202410310MEM.html,4:44,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.9,0,125,-15.7
+2024-10-31,202410310MEM,MIL,Liam Robbins,https://www.basketball-reference.com/boxscores/202410310MEM.html,4:44,.532,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.7,89,125,-4.0
+2024-10-31,202410310MEM,MIL,Ryan Rollins,https://www.basketball-reference.com/boxscores/202410310MEM.html,4:44,.694,.750,1.000,1.000,0.0,0.0,0.0,32.9,0.0,18.8,25.8,34.4,107,111,18.1
+2024-10-31,202410310MEM,MIL,Tyler Smith,https://www.basketball-reference.com/boxscores/202410310MEM.html,4:44,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,8.9,0,125,-26.0
+2024-10-31,202410310MEM,MEM,Jaylen Wells,https://www.basketball-reference.com/boxscores/202410310MEM.html,35:37,.775,.722,.667,.333,3.7,13.9,10.0,3.7,0.0,0.0,8.8,13.5,143,99,4.7
+2024-10-31,202410310MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202410310MEM.html,33:06,.603,.536,.286,.286,8.1,17.5,13.9,8.8,1.4,0.0,16.0,24.2,110,96,1.8
+2024-10-31,202410310MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202410310MEM.html,28:54,.681,.625,.313,.438,4.6,25.8,17.7,82.9,1.6,0.0,13.6,32.6,139,94,20.1
+2024-10-31,202410310MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202410310MEM.html,26:09,.488,.417,.333,.250,0.0,15.8,9.8,10.9,0.0,0.0,18.4,26.6,86,98,-8.4
+2024-10-31,202410310MEM,MEM,Zach Edey,https://www.basketball-reference.com/boxscores/202410310MEM.html,23:43,.556,.556,.000,.000,11.2,20.9,17.2,0.0,1.9,3.7,10.0,18.0,106,90,-0.3
+2024-10-31,202410310MEM,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202410310MEM.html,32:43,.637,.583,.500,1.000,4.1,22.8,15.6,11.4,2.8,0.0,10.4,12.6,129,90,5.2
+2024-10-31,202410310MEM,MEM,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202410310MEM.html,26:54,.784,.688,.375,.625,0.0,9.2,5.7,5.2,1.7,0.0,22.7,20.9,119,97,1.8
+2024-10-31,202410310MEM,MEM,Jay Huff,https://www.basketball-reference.com/boxscores/202410310MEM.html,16:35,.410,.250,.500,.500,0.0,10.0,6.2,7.2,0.0,5.4,17.0,15.1,81,94,-7.3
+2024-10-31,202410310MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202410310MEM.html,11:41,1.017,1.000,.000,.333,0.0,14.2,8.7,26.8,0.0,0.0,0.0,12.5,210,99,15.6
+2024-10-31,202410310MEM,MEM,Yuki Kawamura,https://www.basketball-reference.com/boxscores/202410310MEM.html,2:55,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.6,0,103,-18.5
+2024-10-31,202410310MEM,MEM,Colin Castleton,https://www.basketball-reference.com/boxscores/202410310MEM.html,1:43,,,,,0.0,0.0,0.0,0.0,0.0,51.8,,0.0,0,65,19.7

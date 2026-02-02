@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-05-04,202405040DEN,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,6,10,.600,2,3,.667,2,2,1.000,1,0,1,0,0,0,0,1,16,11.7,-2
+2024-05-04,202405040DEN,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405040DEN.html,8.88,0,4,.000,0,1,.000,0,0,,3,2,5,0,0,1,0,1,0,0.2,+7
+2024-05-04,202405040DEN,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.62,1,2,.500,0,0,,0,0,,0,6,6,1,0,1,0,1,2,3.8,+3
+2024-05-04,202405040DEN,MIN,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202405040DEN.html,6.8,0,2,.000,0,1,.000,0,0,,0,0,0,2,0,0,1,0,0,-1.0,+14
+2024-05-04,202405040DEN,MIN,Q1,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.18,1,2,.500,0,1,.000,1,1,1.000,0,1,1,2,0,0,0,1,3,3.3,+9
+2024-05-04,202405040DEN,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.2,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-2.4,-16
+2024-05-04,202405040DEN,MIN,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.2,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,2,1,2,-1.4,-16
+2024-05-04,202405040DEN,MIN,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405040DEN.html,3.12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-9
+2024-05-04,202405040DEN,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.02,4,7,.571,1,1,1.000,0,0,,0,3,3,0,1,1,0,0,9,8.3,-1
+2024-05-04,202405040DEN,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-2.1,-2
+2024-05-04,202405040DEN,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405040DEN.html,8.48,0,1,.000,0,0,,0,0,,0,2,2,1,0,1,0,0,0,1.3,0
+2024-05-04,202405040DEN,MIN,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.05,0,1,.000,0,0,,0,0,,0,2,2,2,0,0,0,1,0,0.9,-3
+2024-05-04,202405040DEN,MIN,Q2,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.5,2,5,.400,1,2,.500,1,2,.500,0,1,1,0,0,0,0,0,6,3.2,-1
+2024-05-04,202405040DEN,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202405040DEN.html,2.5,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-1
+2024-05-04,202405040DEN,MIN,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.93,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,0,0,-2.4,0
+2024-05-04,202405040DEN,MIN,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405040DEN.html,3.52,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,2,2,0.2,-2
+2024-05-04,202405040DEN,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,3,7,.429,0,2,.000,0,0,,1,1,2,1,0,1,0,0,6,4.7,+6
+2024-05-04,202405040DEN,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.65,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,+4
+2024-05-04,202405040DEN,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405040DEN.html,8.6,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,2,0,0.2,+1
+2024-05-04,202405040DEN,MIN,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.65,4,4,1.000,2,2,1.000,1,1,1.000,0,1,1,4,1,0,2,1,11,11.5,+4
+2024-05-04,202405040DEN,MIN,Q3,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.82,5,5,1.000,1,1,1.000,0,1,.000,0,1,1,0,0,0,1,2,11,7.6,+1
+2024-05-04,202405040DEN,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202405040DEN.html,6.32,1,1,1.000,0,0,,0,0,,0,1,1,2,1,0,1,0,2,3.4,+5
+2024-05-04,202405040DEN,MIN,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405040DEN.html,4.35,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+2
+2024-05-04,202405040DEN,MIN,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405040DEN.html,4.22,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,+2
+2024-05-04,202405040DEN,MIN,Q3,Monte Morris,https://www.basketball-reference.com/boxscores/202405040DEN.html,3.4,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+5
+2024-05-04,202405040DEN,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.22,4,5,.800,0,1,.000,4,4,1.000,0,1,1,2,0,0,1,0,12,10.8,+7
+2024-05-04,202405040DEN,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405040DEN.html,10.6,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+5
+2024-05-04,202405040DEN,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405040DEN.html,8.58,2,3,.667,0,0,,0,0,,1,3,4,0,1,1,0,1,4,5.6,+8
+2024-05-04,202405040DEN,MIN,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.6,1,1,1.000,1,1,1.000,0,0,,0,1,1,2,0,0,1,1,3,3.0,+5
+2024-05-04,202405040DEN,MIN,Q4,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405040DEN.html,6.32,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,2,0,-0.5,-3
+2024-05-04,202405040DEN,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.1,6,7,.857,2,2,1.000,0,1,.000,1,1,2,1,0,0,0,0,14,12.8,+5
+2024-05-04,202405040DEN,MIN,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.18,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-2
+2024-05-04,202405040DEN,MIN,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405040DEN.html,1.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-05-04,202405040DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,2,7,.286,1,3,.333,4,4,1.000,0,2,2,2,1,0,1,1,9,6.5,+2
+2024-05-04,202405040DEN,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,3,5,.600,1,1,1.000,2,2,1.000,0,1,1,0,1,0,1,0,9,7.0,+2
+2024-05-04,202405040DEN,DEN,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,0,0,,0,0,,0,0,,0,2,2,2,0,1,1,0,0,1.7,+2
+2024-05-04,202405040DEN,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202405040DEN.html,6.8,0,3,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,1,0,-1.8,-14
+2024-05-04,202405040DEN,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202405040DEN.html,6.8,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,-14
+2024-05-04,202405040DEN,DEN,Q1,Justin Holiday,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.2,0,1,.000,0,1,.000,0,0,,0,4,4,0,1,0,0,0,0,1.5,+16
+2024-05-04,202405040DEN,DEN,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.2,2,2,1.000,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,5,6.1,+16
+2024-05-04,202405040DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202405040DEN.html,8.48,3,7,.429,0,2,.000,0,0,,0,2,2,3,0,0,2,0,6,3.0,0
+2024-05-04,202405040DEN,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202405040DEN.html,6.63,1,2,.500,1,2,.500,1,2,.500,0,2,2,0,1,0,0,0,4,4.2,0
+2024-05-04,202405040DEN,DEN,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202405040DEN.html,8.48,1,2,.500,1,2,.500,0,0,,0,0,0,0,1,0,0,0,3,3.0,0
+2024-05-04,202405040DEN,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.83,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-1.1,+1
+2024-05-04,202405040DEN,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.97,1,2,.500,0,0,,0,0,,0,0,0,2,1,0,1,1,2,2.0,0
+2024-05-04,202405040DEN,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.55,2,3,.667,0,0,,0,0,,0,2,2,0,0,0,0,0,4,3.3,+4
+2024-05-04,202405040DEN,DEN,Q2,Justin Holiday,https://www.basketball-reference.com/boxscores/202405040DEN.html,3.52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2024-05-04,202405040DEN,DEN,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202405040DEN.html,4.17,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3,+1
+2024-05-04,202405040DEN,DEN,Q2,Peyton Watson,https://www.basketball-reference.com/boxscores/202405040DEN.html,5.37,0,2,.000,0,1,.000,0,0,,0,4,4,0,0,0,0,2,0,-1.0,+2
+2024-05-04,202405040DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202405040DEN.html,11.87,2,3,.667,0,0,,3,3,1.000,0,1,1,2,1,0,2,1,7,6.0,-6
+2024-05-04,202405040DEN,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202405040DEN.html,11.87,1,4,.250,1,2,.500,1,2,.500,0,3,3,0,1,0,0,0,4,3.1,-6
+2024-05-04,202405040DEN,DEN,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202405040DEN.html,10.02,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.9,-7
+2024-05-04,202405040DEN,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.65,3,4,.750,1,1,1.000,0,0,,0,0,0,1,0,0,1,1,7,4.7,-4
+2024-05-04,202405040DEN,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.78,1,1,1.000,0,0,,1,2,.500,1,0,1,3,1,0,0,0,3,6.1,-4
+2024-05-04,202405040DEN,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202405040DEN.html,1.98,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1
+2024-05-04,202405040DEN,DEN,Q3,Justin Holiday,https://www.basketball-reference.com/boxscores/202405040DEN.html,4.35,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,-2
+2024-05-04,202405040DEN,DEN,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202405040DEN.html,4.35,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-2
+2024-05-04,202405040DEN,DEN,Q3,Peyton Watson,https://www.basketball-reference.com/boxscores/202405040DEN.html,0.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-05-04,202405040DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202405040DEN.html,8.58,4,8,.500,1,4,.250,1,1,1.000,1,2,3,2,1,0,2,2,10,6.9,-8
+2024-05-04,202405040DEN,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202405040DEN.html,9.6,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,1,1,1,3,2.0,-5
+2024-05-04,202405040DEN,DEN,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202405040DEN.html,6.93,0,1,.000,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1.0,-4
+2024-05-04,202405040DEN,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,3,5,.600,1,1,1.000,3,3,1.000,0,1,1,1,0,0,0,1,10,8.3,-5
+2024-05-04,202405040DEN,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202405040DEN.html,12.0,1,2,.500,0,1,.000,0,1,.000,0,1,1,1,0,0,0,2,2,0.8,-5
+2024-05-04,202405040DEN,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202405040DEN.html,7.47,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-1
+2024-05-04,202405040DEN,DEN,Q4,Justin Holiday,https://www.basketball-reference.com/boxscores/202405040DEN.html,3.42,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3

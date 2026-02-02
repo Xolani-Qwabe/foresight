@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-23,202412230PHI,SAS,Victor Wembanyama,https://www.basketball-reference.com/boxscores/202412230PHI.html,36:30,.654,.632,.684,.105,3.2,21.9,13.3,20.9,0.0,21.5,20.1,30.6,102,98,9.6
+2024-12-23,202412230PHI,SAS,Chris Paul,https://www.basketball-reference.com/boxscores/202412230PHI.html,34:40,.558,.444,.556,.444,0.0,11.5,6.2,33.7,1.4,0.0,27.1,19.1,101,112,-4.2
+2024-12-23,202412230PHI,SAS,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202412230PHI.html,31:57,.727,.667,.111,.333,3.7,21.9,13.5,16.1,0.0,0.0,0.0,14.5,154,113,3.8
+2024-12-23,202412230PHI,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202412230PHI.html,31:46,.533,.409,.455,.636,3.7,12.6,8.5,9.8,0.0,3.1,0.0,19.9,116,113,-3.0
+2024-12-23,202412230PHI,SAS,Harrison Barnes,https://www.basketball-reference.com/boxscores/202412230PHI.html,20:18,.000,.000,1.000,.000,0.0,4.9,2.7,0.0,0.0,0.0,0.0,11.1,0,117,-18.2
+2024-12-23,202412230PHI,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202412230PHI.html,28:46,.750,.750,1.000,.000,0.0,27.8,15.0,5.8,0.0,3.4,23.1,20.3,98,108,1.2
+2024-12-23,202412230PHI,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202412230PHI.html,21:44,.333,.333,.667,.000,0.0,4.6,2.5,13.6,0.0,0.0,14.3,14.5,69,117,-9.4
+2024-12-23,202412230PHI,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202412230PHI.html,14:25,1.000,1.000,.000,.000,0.0,0.0,0.0,29.7,6.5,6.8,66.7,9.3,96,98,5.0
+2024-12-23,202412230PHI,SAS,Stephon Castle,https://www.basketball-reference.com/boxscores/202412230PHI.html,13:20,.860,.833,.222,.222,0.0,22.5,12.1,30.5,3.5,0.0,16.8,40.0,128,103,11.8
+2024-12-23,202412230PHI,SAS,Charles Bassey,https://www.basketball-reference.com/boxscores/202412230PHI.html,6:34,.000,.000,.000,.000,0.0,45.7,24.6,0.0,0.0,14.9,33.3,20.5,0,95,-22.8
+2024-12-23,202412230PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202412230PHI.html,40:43,.588,.580,.440,.200,0.0,28.8,13.2,37.9,3.4,0.0,3.5,29.1,124,100,11.4
+2024-12-23,202412230PHI,PHI,Paul George,https://www.basketball-reference.com/boxscores/202412230PHI.html,36:56,.498,.438,.438,.438,2.7,25.4,13.1,16.7,0.0,0.0,9.5,24.0,103,109,-3.2
+2024-12-23,202412230PHI,PHI,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202412230PHI.html,35:37,.375,.333,.500,.250,2.8,16.4,9.1,4.0,0.0,0.0,0.0,15.7,87,110,-9.4
+2024-12-23,202412230PHI,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202412230PHI.html,19:39,.286,.286,.143,.000,5.1,29.8,16.5,7.2,2.4,0.0,0.0,15.0,76,103,-9.5
+2024-12-23,202412230PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202412230PHI.html,14:22,.461,.313,.500,.500,0.0,24.4,11.3,10.3,6.5,0.0,17.0,34.4,84,93,-4.1
+2024-12-23,202412230PHI,PHI,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202412230PHI.html,31:51,.957,.938,.625,.250,3.1,11.0,6.8,10.1,5.9,4.2,18.4,14.4,151,93,11.7
+2024-12-23,202412230PHI,PHI,Caleb Martin,https://www.basketball-reference.com/boxscores/202412230PHI.html,26:59,.676,.688,.625,.250,14.8,4.3,10.0,0.0,1.7,4.9,10.1,15.4,130,103,2.5
+2024-12-23,202412230PHI,PHI,Kyle Lowry,https://www.basketball-reference.com/boxscores/202412230PHI.html,21:26,.500,.500,.667,.000,0.0,5.5,2.5,25.9,0.0,0.0,14.3,13.7,107,110,-4.2
+2024-12-23,202412230PHI,PHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202412230PHI.html,6:39,.500,.500,.000,.000,15.0,35.2,24.3,22.7,0.0,0.0,0.0,12.6,136,108,3.7
+2024-12-23,202412230PHI,PHI,Reggie Jackson,https://www.basketball-reference.com/boxscores/202412230PHI.html,5:48,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0,111,-15.6

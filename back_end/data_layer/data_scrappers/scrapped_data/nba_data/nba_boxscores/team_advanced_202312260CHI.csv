@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-26,202312260CHI,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202312260CHI.html,39:31,.523,.441,.706,.412,0.0,5.3,2.8,46.8,1.3,0.0,23.0,28.0,106,130,-2.1
+2023-12-26,202312260CHI,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202312260CHI.html,34:22,.507,.467,.600,.267,0.0,18.2,9.5,17.1,3.0,2.1,15.2,24.4,99,118,-1.5
+2023-12-26,202312260CHI,ATL,Saddiq Bey,https://www.basketball-reference.com/boxscores/202312260CHI.html,33:39,.623,.600,.600,.100,13.6,12.4,13.0,0.0,1.5,0.0,0.0,13.2,143,126,1.9
+2023-12-26,202312260CHI,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202312260CHI.html,29:12,.625,.625,.125,.000,11.7,21.4,16.8,20.1,1.7,0.0,20.0,14.5,123,121,3.0
+2023-12-26,202312260CHI,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202312260CHI.html,26:49,.604,.556,.000,.444,12.8,7.8,10.2,5.6,0.0,2.7,8.5,18.6,127,130,-2.1
+2023-12-26,202312260CHI,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202312260CHI.html,31:24,.493,.452,.571,.143,3.6,6.6,5.2,5.3,0.0,0.0,0.0,30.1,112,132,-3.7
+2023-12-26,202312260CHI,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202312260CHI.html,21:11,.799,.750,.333,.333,5.4,24.6,15.4,0.0,2.4,0.0,12.7,15.8,141,118,2.4
+2023-12-26,202312260CHI,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202312260CHI.html,13:02,1.500,1.500,1.000,.000,0.0,8.0,4.2,0.0,0.0,0.0,0.0,6.5,300,131,5.7
+2023-12-26,202312260CHI,ATL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202312260CHI.html,6:04,,,,,0.0,0.0,0.0,19.3,0.0,11.8,100.0,7.0,46,129,-2.1
+2023-12-26,202312260CHI,ATL,Trent Forrest,https://www.basketball-reference.com/boxscores/202312260CHI.html,3:29,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,135,-8.5
+2023-12-26,202312260CHI,ATL,Seth Lundy,https://www.basketball-reference.com/boxscores/202312260CHI.html,1:17,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,66.1,0,135,-79.6
+2023-12-26,202312260CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202312260CHI.html,40:18,.623,.529,.176,.412,0.0,5.7,2.7,22.0,1.3,0.0,4.7,22.1,143,124,3.0
+2023-12-26,202312260CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202312260CHI.html,38:30,.865,.846,.000,.154,27.1,44.5,35.4,4.4,4.0,5.7,12.6,17.4,162,103,12.2
+2023-12-26,202312260CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202312260CHI.html,36:46,.372,.318,.318,.364,0.0,15.5,7.4,19.9,0.0,0.0,3.8,30.5,96,124,-10.8
+2023-12-26,202312260CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202312260CHI.html,29:13,.435,.250,.500,.600,7.1,11.7,9.3,21.2,3.5,0.0,7.3,19.7,120,117,0.2
+2023-12-26,202312260CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202312260CHI.html,25:03,.381,.286,.143,.286,4.2,0.0,2.2,0.0,2.0,0.0,11.3,15.0,87,124,-11.5
+2023-12-26,202312260CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202312260CHI.html,35:17,.571,.500,.286,.429,11.8,9.7,10.8,16.1,4.3,0.0,0.0,19.9,147,116,8.3
+2023-12-26,202312260CHI,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202312260CHI.html,20:08,.833,.833,.667,.000,0.0,11.4,5.4,14.7,0.0,0.0,14.3,14.7,146,125,3.8
+2023-12-26,202312260CHI,CHI,Terry Taylor,https://www.basketball-reference.com/boxscores/202312260CHI.html,7:58,1.000,1.000,.000,.000,13.1,0.0,6.8,0.0,0.0,0.0,0.0,10.6,204,129,0.5
+2023-12-26,202312260CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202312260CHI.html,6:47,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,12.5,0,129,-24.9

@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-31,202501310GSW,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202501310GSW.html,34:20,.637,.630,.478,.130,3.6,9.6,7.2,46.3,1.3,0.0,7.6,33.1,128,105,7.9
+2025-01-31,202501310GSW,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202501310GSW.html,29:21,.644,.654,.692,.308,0.0,16.9,10.1,12.2,1.6,3.1,6.3,23.2,114,100,3.6
+2025-01-31,202501310GSW,PHO,Tyus Jones,https://www.basketball-reference.com/boxscores/202501310GSW.html,25:39,.551,.500,.600,.200,0.0,0.0,0.0,24.3,0.0,0.0,15.5,10.9,126,113,-4.2
+2025-01-31,202501310GSW,PHO,Nick Richards,https://www.basketball-reference.com/boxscores/202501310GSW.html,23:53,.788,.750,.000,.250,10.3,48.5,33.2,5.3,0.0,7.7,25.3,21.5,117,86,1.8
+2025-01-31,202501310GSW,PHO,Ryan Dunn,https://www.basketball-reference.com/boxscores/202501310GSW.html,12:33,.400,.400,.200,.000,0.0,6.6,3.9,18.1,0.0,0.0,0.0,17.2,97,109,-9.8
+2025-01-31,202501310GSW,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202501310GSW.html,28:20,.844,.875,.250,.083,4.3,2.9,3.5,9.7,3.2,0.0,28.7,26.6,102,104,1.2
+2025-01-31,202501310GSW,PHO,Royce O'Neale,https://www.basketball-reference.com/boxscores/202501310GSW.html,24:10,.750,.750,1.000,.000,0.0,6.8,4.1,17.3,0.0,0.0,0.0,7.2,161,109,1.1
+2025-01-31,202501310GSW,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202501310GSW.html,23:27,.917,.917,.833,.000,0.0,21.2,12.7,34.3,2.0,0.0,0.0,11.1,187,98,13.2
+2025-01-31,202501310GSW,PHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202501310GSW.html,15:01,.791,.800,.000,.600,0.0,33.1,19.8,25.8,0.0,24.6,0.0,18.2,168,83,18.5
+2025-01-31,202501310GSW,PHO,Bol Bol,https://www.basketball-reference.com/boxscores/202501310GSW.html,4:48,1.064,1.000,.000,2.000,0.0,17.2,10.3,25.0,0.0,0.0,34.7,25.9,144,105,9.1
+2025-01-31,202501310GSW,PHO,Oso Ighodaro,https://www.basketball-reference.com/boxscores/202501310GSW.html,4:48,1.000,1.000,.000,.000,0.0,17.2,10.3,25.0,9.6,0.0,50.0,18.0,102,83,11.5
+2025-01-31,202501310GSW,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202501310GSW.html,4:48,.000,.000,1.000,.000,0.0,17.2,10.3,0.0,0.0,0.0,0.0,18.0,0,105,-25.7
+2025-01-31,202501310GSW,PHO,Monte Morris,https://www.basketball-reference.com/boxscores/202501310GSW.html,4:48,.000,.000,.333,.000,0.0,0.0,0.0,0.0,9.6,0.0,0.0,27.0,0,89,-28.2
+2025-01-31,202501310GSW,PHO,Collin Gillespie,https://www.basketball-reference.com/boxscores/202501310GSW.html,4:04,1.000,1.000,.000,.000,0.0,20.4,12.2,0.0,0.0,0.0,0.0,10.6,200,104,1.0
+2025-01-31,202501310GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202501310GSW.html,31:21,.383,.325,.250,.250,13.2,11.8,12.6,34.3,2.9,3.1,0.0,28.6,105,122,1.7
+2025-01-31,202501310GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202501310GSW.html,31:13,.457,.393,.429,.214,2.7,7.9,4.8,16.3,0.0,6.2,11.5,22.4,93,127,-6.9
+2025-01-31,202501310GSW,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202501310GSW.html,19:07,.929,.929,.714,.000,0.0,19.3,7.8,21.4,2.4,5.0,30.0,21.1,107,121,6.3
+2025-01-31,202501310GSW,GSW,Quinten Post,https://www.basketball-reference.com/boxscores/202501310GSW.html,19:01,.477,.444,.444,.111,13.1,32.4,20.8,17.8,0.0,5.0,0.0,20.0,119,126,0.5
+2025-01-31,202501310GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202501310GSW.html,12:15,.218,.167,.167,.333,0.0,30.1,12.1,0.0,0.0,0.0,12.7,25.9,42,130,-24.6
+2025-01-31,202501310GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202501310GSW.html,23:46,.697,.700,.700,.500,3.5,25.9,12.5,7.8,1.9,0.0,0.0,20.7,139,126,7.1
+2025-01-31,202501310GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202501310GSW.html,21:39,.778,.778,.778,.000,0.0,17.1,6.9,26.7,2.1,0.0,25.0,22.4,107,126,3.0
+2025-01-31,202501310GSW,GSW,Dennis Schröder,https://www.basketball-reference.com/boxscores/202501310GSW.html,20:53,.282,.313,.625,.250,4.0,29.5,14.2,36.6,8.8,4.6,10.1,19.1,80,106,1.8
+2025-01-31,202501310GSW,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202501310GSW.html,19:05,.525,.333,.333,1.333,0.0,6.4,2.6,15.0,0.0,0.0,17.4,12.2,105,132,-10.2
+2025-01-31,202501310GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202501310GSW.html,14:53,.410,.500,.000,.500,5.6,24.8,13.3,9.8,3.1,0.0,0.0,6.6,111,123,-7.6
+2025-01-31,202501310GSW,GSW,Kyle Anderson,https://www.basketball-reference.com/boxscores/202501310GSW.html,12:13,.667,.667,.333,.000,6.8,10.1,8.1,14.0,0.0,0.0,25.0,13.2,107,132,-6.7
+2025-01-31,202501310GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202501310GSW.html,8:39,.347,.000,.000,1.000,9.6,0.0,5.7,0.0,0.0,0.0,0.0,13.4,98,133,-13.8
+2025-01-31,202501310GSW,GSW,Lindy Waters III,https://www.basketball-reference.com/boxscores/202501310GSW.html,5:55,.000,.000,.667,.000,0.0,20.8,8.4,0.0,7.8,0.0,0.0,20.5,0,113,-18.7

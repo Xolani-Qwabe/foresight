@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-20,201911200LAC,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/201911200LAC.html,40:34,.603,.604,.417,.083,0.0,16.0,7.4,15.5,2.5,5.4,10.8,28.6,111,98,12.4
+2019-11-20,201911200LAC,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/201911200LAC.html,40:05,.375,.375,.550,.000,4.6,2.7,3.7,33.3,2.5,0.0,0.0,20.8,105,106,4.2
+2019-11-20,201911200LAC,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/201911200LAC.html,39:11,.286,.250,.571,.286,2.4,13.8,7.7,3.7,1.3,0.0,16.0,20.0,59,104,-11.4
+2019-11-20,201911200LAC,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/201911200LAC.html,38:44,.355,.324,.529,.176,7.2,16.8,11.6,7.7,1.3,0.0,24.7,26.2,66,103,-9.0
+2019-11-20,201911200LAC,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/201911200LAC.html,31:05,.500,.500,.125,.000,20.9,24.4,22.5,29.9,4.8,0.0,11.1,12.1,131,91,10.7
+2019-11-20,201911200LAC,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/201911200LAC.html,27:11,.717,.625,.500,.500,3.4,8.0,5.5,29.4,1.8,0.0,23.5,19.6,124,105,7.3
+2019-11-20,201911200LAC,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/201911200LAC.html,20:24,.436,.333,.333,.333,9.1,0.0,4.9,0.0,0.0,0.0,0.0,7.0,119,113,-3.0
+2019-11-20,201911200LAC,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/201911200LAC.html,12:15,.667,.667,.000,.000,15.2,35.3,24.5,0.0,4.1,0.0,14.3,23.8,114,89,10.4
+2019-11-20,201911200LAC,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/201911200LAC.html,9:23,1.000,1.000,.000,.000,0.0,23.1,10.7,19.0,0.0,0.0,0.0,8.9,204,104,12.1
+2019-11-20,201911200LAC,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/201911200LAC.html,6:06,.000,.000,.500,.000,0.0,35.5,16.4,0.0,0.0,0.0,0.0,13.7,0,99,-17.2
+2019-11-20,201911200LAC,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/201911200LAC.html,40:41,.636,.636,.636,.000,10.6,27.4,19.7,28.1,3.7,4.4,15.4,13.8,134,88,13.4
+2019-11-20,201911200LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/201911200LAC.html,37:37,.425,.425,.500,.000,0.0,14.8,8.0,14.5,4.0,4.8,20.0,28.6,75,94,-1.2
+2019-11-20,201911200LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/201911200LAC.html,37:28,.606,.556,.611,.333,0.0,12.4,6.7,40.9,0.0,2.4,19.5,29.5,112,105,6.2
+2019-11-20,201911200LAC,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/201911200LAC.html,24:59,.500,.500,.667,.000,0.0,3.7,2.0,5.8,4.0,0.0,25.0,6.9,85,102,-0.1
+2019-11-20,201911200LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/201911200LAC.html,21:30,.443,.333,.000,2.000,15.1,17.3,16.3,6.7,0.0,8.4,15.1,13.3,103,100,-1.2
+2019-11-20,201911200LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/201911200LAC.html,36:39,.593,.548,.429,.190,3.0,2.5,2.7,11.8,2.7,0.0,23.5,35.0,92,105,-0.2
+2019-11-20,201911200LAC,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/201911200LAC.html,31:29,.375,.375,.000,.000,6.9,11.8,9.5,14.9,3.2,5.7,20.0,13.7,85,97,-0.5
+2019-11-20,201911200LAC,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/201911200LAC.html,17:55,1.000,1.000,.400,.000,18.1,25.9,22.3,0.0,0.0,0.0,0.0,12.0,197,99,12.9
+2019-11-20,201911200LAC,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/201911200LAC.html,14:35,.000,.000,1.000,.000,7.4,6.4,6.9,9.3,0.0,0.0,0.0,11.8,35,109,-15.2
+2019-11-20,201911200LAC,LAC,Jerome Robinson,https://www.basketball-reference.com/boxscores/201911200LAC.html,1:10,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,110,-21.1
+2019-11-20,201911200LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/201911200LAC.html,0:54,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,-7.1

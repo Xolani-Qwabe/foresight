@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-25,202201250HOU,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202201250HOU.html,27:19,.800,.800,.500,.000,4.6,9.4,7.5,3.8,3.4,0.0,9.1,16.6,143,101,4.3
+2022-01-25,202201250HOU,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202201250HOU.html,24:52,.682,.682,.455,.000,10.2,6.9,8.2,8.3,0.0,3.2,8.3,19.9,135,108,1.7
+2022-01-25,202201250HOU,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201250HOU.html,24:10,.598,.567,.333,.133,0.0,17.7,10.6,47.2,5.8,0.0,11.2,30.4,130,91,11.5
+2022-01-25,202201250HOU,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202201250HOU.html,23:15,.460,.400,.600,.200,0.0,7.4,4.4,23.0,0.0,0.0,15.5,11.4,119,110,-4.3
+2022-01-25,202201250HOU,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201250HOU.html,20:51,.692,.692,.000,.000,12.1,28.8,22.0,18.5,0.0,7.5,7.1,27.6,138,95,10.5
+2022-01-25,202201250HOU,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202201250HOU.html,28:44,.600,.600,.500,.000,0.0,11.9,7.1,19.5,0.0,2.7,0.0,14.3,145,106,5.7
+2022-01-25,202201250HOU,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202201250HOU.html,24:55,.788,.750,.125,.250,0.0,6.9,4.1,16.6,1.9,0.0,10.1,16.3,151,106,4.3
+2022-01-25,202201250HOU,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201250HOU.html,21:13,.200,.200,.400,.000,0.0,8.1,4.8,12.7,2.2,0.0,9.1,21.3,61,104,-16.0
+2022-01-25,202201250HOU,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201250HOU.html,15:09,.689,.667,.000,.111,41.7,22.6,30.3,16.3,0.0,5.2,17.5,31.1,133,99,3.6
+2022-01-25,202201250HOU,SAS,Thaddeus Young,https://www.basketball-reference.com/boxscores/202201250HOU.html,12:00,.750,.750,.250,.000,10.5,14.3,12.8,11.8,3.9,0.0,11.1,30.9,131,97,7.3
+2022-01-25,202201250HOU,SAS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202201250HOU.html,10:17,,,,,0.0,25.0,14.9,0.0,0.0,0.0,,0.0,0,101,-3.8
+2022-01-25,202201250HOU,SAS,Jock Landale,https://www.basketball-reference.com/boxscores/202201250HOU.html,7:15,1.500,1.500,1.000,.000,0.0,23.6,14.1,0.0,0.0,0.0,50.0,22.7,78,101,5.8
+2022-01-25,202201250HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202201250HOU.html,31:51,.219,.219,.500,.000,2.7,11.9,6.4,4.4,0.0,0.0,11.1,22.4,52,136,-20.4
+2022-01-25,202201250HOU,HOU,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202201250HOU.html,26:16,.563,.500,.333,.417,3.3,19.2,9.7,55.1,0.0,0.0,22.0,27.5,110,135,0.6
+2022-01-25,202201250HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202201250HOU.html,24:56,.339,.222,.333,.333,10.3,10.1,10.2,11.0,0.0,0.0,8.8,18.0,91,136,-10.3
+2022-01-25,202201250HOU,HOU,Christian Wood,https://www.basketball-reference.com/boxscores/202201250HOU.html,24:20,.588,.636,.455,.364,7.0,26.0,14.7,0.0,0.0,0.0,13.6,24.1,103,133,-5.0
+2022-01-25,202201250HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202201250HOU.html,19:04,.549,.500,.273,.364,18.0,13.2,16.1,19.1,7.4,0.0,7.3,28.6,122,120,8.6
+2022-01-25,202201250HOU,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202201250HOU.html,28:56,.874,.929,.143,.143,8.9,21.8,14.1,11.4,3.3,0.0,0.0,10.2,180,127,8.0
+2022-01-25,202201250HOU,HOU,Garrison Mathews,https://www.basketball-reference.com/boxscores/202201250HOU.html,25:41,.363,.250,.667,.333,0.0,9.8,4.0,5.0,0.0,0.0,12.7,12.2,80,136,-11.6
+2022-01-25,202201250HOU,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202201250HOU.html,23:46,.722,.722,.333,.000,0.0,10.6,4.3,22.5,4.0,0.0,10.0,16.7,136,128,6.1
+2022-01-25,202201250HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202201250HOU.html,23:40,.448,.385,.154,.462,10.9,10.7,10.8,7.0,2.0,8.8,16.1,31.2,89,125,-4.1
+2022-01-25,202201250HOU,HOU,Armoni Brooks,https://www.basketball-reference.com/boxscores/202201250HOU.html,11:30,.000,.000,1.000,.000,7.5,0.0,4.4,0.0,0.0,0.0,0.0,3.4,57,138,-13.8

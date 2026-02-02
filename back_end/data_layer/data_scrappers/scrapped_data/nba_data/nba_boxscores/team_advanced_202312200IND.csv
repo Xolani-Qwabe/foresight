@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-20,202312200IND,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202312200IND.html,36:54,.506,.471,.118,.235,2.8,13.5,6.9,11.3,4.1,0.0,0.0,21.5,122,145,-1.4
+2023-12-20,202312200IND,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202312200IND.html,34:37,.458,.423,.385,.115,6.0,33.5,16.6,31.2,1.5,0.0,3.5,34.6,115,148,0.9
+2023-12-20,202312200IND,CHO,Brandon Miller,https://www.basketball-reference.com/boxscores/202312200IND.html,32:46,.587,.588,.235,.118,6.4,20.2,11.7,13.8,1.5,0.0,5.3,24.4,127,150,-0.6
+2023-12-20,202312200IND,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202312200IND.html,23:44,.720,.700,.200,1.200,0.0,7.0,2.7,15.6,0.0,0.0,20.7,17.2,124,156,-3.6
+2023-12-20,202312200IND,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202312200IND.html,19:01,.500,.500,.000,.000,32.9,17.4,26.9,0.0,0.0,0.0,0.0,8.9,151,154,-10.4
+2023-12-20,202312200IND,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202312200IND.html,26:45,.551,.500,.700,.200,11.7,6.2,9.6,0.0,0.0,0.0,8.4,18.8,121,156,-7.5
+2023-12-20,202312200IND,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202312200IND.html,20:59,.500,.500,.500,.000,0.0,0.0,0.0,5.4,0.0,0.0,50.0,8.1,57,156,-18.6
+2023-12-20,202312200IND,CHO,Ish Smith,https://www.basketball-reference.com/boxscores/202312200IND.html,15:45,.667,.667,.000,.000,0.0,0.0,0.0,47.0,0.0,0.0,25.0,10.8,136,156,-1.2
+2023-12-20,202312200IND,CHO,Nathan Mensah,https://www.basketball-reference.com/boxscores/202312200IND.html,7:22,1.000,1.000,.000,.000,14.2,22.5,17.4,0.0,6.9,0.0,0.0,11.5,203,137,11.1
+2023-12-20,202312200IND,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202312200IND.html,5:58,.500,.500,1.000,.000,0.0,55.5,21.5,0.0,0.0,0.0,25.0,28.4,76,149,-12.8
+2023-12-20,202312200IND,CHO,Nick Smith Jr.,https://www.basketball-reference.com/boxscores/202312200IND.html,5:58,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,14.3,49.7,84,156,-16.6
+2023-12-20,202312200IND,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202312200IND.html,5:58,1.136,,,,17.5,0.0,10.7,0.0,0.0,0.0,0.0,6.2,240,156,-6.3
+2023-12-20,202312200IND,CHO,Leaky Black,https://www.basketball-reference.com/boxscores/202312200IND.html,4:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,156,-11.7
+2023-12-20,202312200IND,IND,Bruce Brown,https://www.basketball-reference.com/boxscores/202312200IND.html,28:25,.500,.500,.167,.000,0.0,18.4,11.3,23.1,0.0,0.0,0.0,9.5,148,122,-2.7
+2023-12-20,202312200IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202312200IND.html,27:47,.603,.536,.643,.286,6.0,7.5,6.9,58.1,1.8,2.7,20.2,32.1,133,121,4.4
+2023-12-20,202312200IND,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202312200IND.html,26:14,.822,.769,.615,.385,12.6,8.0,9.8,16.0,1.9,8.6,11.6,29.6,152,117,13.0
+2023-12-20,202312200IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202312200IND.html,25:08,.745,.611,.444,.778,6.6,20.8,15.3,0.0,0.0,6.0,7.6,23.5,147,117,-2.0
+2023-12-20,202312200IND,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202312200IND.html,22:57,.510,.400,.600,.400,0.0,18.2,11.2,0.0,0.0,0.0,14.5,13.5,92,122,-12.7
+2023-12-20,202312200IND,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202312200IND.html,28:27,1.000,1.000,.857,.000,0.0,7.3,4.5,4.2,1.8,0.0,22.2,14.3,129,122,1.9
+2023-12-20,202312200IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202312200IND.html,23:16,1.298,1.333,.667,.500,0.0,9.0,5.5,5.6,2.2,0.0,12.0,16.2,204,121,15.4
+2023-12-20,202312200IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202312200IND.html,20:13,.945,1.000,.000,1.333,8.2,20.6,15.8,51.0,2.5,0.0,17.4,12.9,189,115,12.1
+2023-12-20,202312200IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202312200IND.html,14:54,.601,.571,.143,.429,11.1,14.0,12.9,8.9,3.4,10.1,10.7,28.3,119,110,-4.3
+2023-12-20,202312200IND,IND,Jordan Nwora,https://www.basketball-reference.com/boxscores/202312200IND.html,8:43,.510,.400,.200,.400,0.0,0.0,0.0,14.5,0.0,0.0,0.0,30.5,122,128,-18.9
+2023-12-20,202312200IND,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202312200IND.html,7:58,1.250,1.250,.500,.000,41.6,26.2,32.1,0.0,0.0,0.0,0.0,22.7,245,118,22.7
+2023-12-20,202312200IND,IND,James Johnson,https://www.basketball-reference.com/boxscores/202312200IND.html,5:58,1.000,1.000,.000,.000,0.0,0.0,0.0,39.3,0.0,0.0,0.0,7.6,219,129,10.8

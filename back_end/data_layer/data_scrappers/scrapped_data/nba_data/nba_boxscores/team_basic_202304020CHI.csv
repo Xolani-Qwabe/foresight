@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-04-02,202304020CHI,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202304020CHI.html,34.08,7,16,.438,2,5,.400,1,1,1.000,1,9,10,10,0,0,5,1,17,13.6,-20
+2023-04-02,202304020CHI,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202304020CHI.html,33.15,8,12,.667,2,3,.667,3,3,1.000,0,5,5,4,0,1,4,4,21,15.2,-11
+2023-04-02,202304020CHI,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202304020CHI.html,32.2,5,15,.333,4,11,.364,0,0,,0,4,4,4,1,0,3,1,14,7.1,-26
+2023-04-02,202304020CHI,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202304020CHI.html,29.97,2,2,1.000,0,0,,2,4,.500,2,6,8,1,0,0,2,4,6,4.9,-20
+2023-04-02,202304020CHI,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202304020CHI.html,28.93,11,20,.550,5,8,.625,4,4,1.000,3,5,8,1,0,1,1,5,31,23.4,-1
+2023-04-02,202304020CHI,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202304020CHI.html,27.75,2,7,.286,2,7,.286,0,0,,1,2,3,2,0,0,0,2,6,3.8,-5
+2023-04-02,202304020CHI,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202304020CHI.html,17.57,1,3,.333,1,2,.500,0,0,,0,3,3,1,0,0,0,2,3,2.1,-12
+2023-04-02,202304020CHI,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202304020CHI.html,17.12,2,5,.400,2,4,.500,0,0,,0,1,1,4,0,0,0,0,6,6.4,-1
+2023-04-02,202304020CHI,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202304020CHI.html,11.77,1,3,.333,1,2,.500,0,0,,1,2,3,2,0,1,1,2,3,2.9,-9
+2023-04-02,202304020CHI,MEM,Kennedy Chandler,https://www.basketball-reference.com/boxscores/202304020CHI.html,1.48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-04-02,202304020CHI,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202304020CHI.html,1.48,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0
+2023-04-02,202304020CHI,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202304020CHI.html,1.48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-04-02,202304020CHI,MEM,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202304020CHI.html,1.48,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,1,0,-2.1,0
+2023-04-02,202304020CHI,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202304020CHI.html,1.48,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0
+2023-04-02,202304020CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202304020CHI.html,34.7,13,19,.684,3,8,.375,7,8,.875,0,3,3,9,1,0,0,2,36,34.9,+25
+2023-04-02,202304020CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202304020CHI.html,33.9,11,26,.423,0,4,.000,9,9,1.000,1,4,5,7,1,0,0,3,31,23.8,+17
+2023-04-02,202304020CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202304020CHI.html,32.12,6,10,.600,1,2,.500,0,1,.000,0,10,10,2,1,1,0,0,13,14.1,+15
+2023-04-02,202304020CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202304020CHI.html,24.08,2,3,.667,1,2,.500,0,0,,0,1,1,2,3,2,0,2,5,9.0,+20
+2023-04-02,202304020CHI,CHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202304020CHI.html,23.17,1,5,.200,0,3,.000,0,0,,1,1,2,3,0,0,1,2,2,0.2,-1
+2023-04-02,202304020CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202304020CHI.html,30.53,8,13,.615,2,5,.400,1,1,1.000,0,6,6,4,1,0,0,1,19,18.3,+18
+2023-04-02,202304020CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202304020CHI.html,26.12,5,10,.500,2,5,.400,0,0,,1,2,3,1,1,3,0,2,12,11.3,-2
+2023-04-02,202304020CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202304020CHI.html,17.98,2,4,.500,0,1,.000,0,0,,1,2,3,1,0,0,0,1,4,3.6,+7
+2023-04-02,202304020CHI,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202304020CHI.html,9.22,1,1,1.000,0,0,,2,3,.667,0,0,0,0,1,0,0,0,4,4.3,+15
+2023-04-02,202304020CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202304020CHI.html,6.65,1,2,.500,0,0,,0,0,,0,3,3,0,0,0,0,0,2,1.9,-9
+2023-04-02,202304020CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202304020CHI.html,1.48,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0

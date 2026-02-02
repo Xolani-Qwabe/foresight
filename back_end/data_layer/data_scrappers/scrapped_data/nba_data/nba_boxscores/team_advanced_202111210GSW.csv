@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-21,202111210GSW,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202111210GSW.html,38:58,.450,.417,.667,.111,2.2,10.0,5.2,27.3,1.3,3.6,9.6,21.8,105,125,-1.9
+2021-11-21,202111210GSW,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202111210GSW.html,34:13,.547,.559,.353,.294,4.9,15.2,9.0,10.1,1.5,4.1,5.0,24.1,114,124,3.7
+2021-11-21,202111210GSW,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202111210GSW.html,28:39,.326,.281,.500,.125,5.9,0.0,3.6,0.0,0.0,0.0,0.0,24.0,83,132,-14.0
+2021-11-21,202111210GSW,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202111210GSW.html,28:17,.355,.364,.273,.636,14.9,36.7,23.5,25.0,3.5,0.0,12.4,23.2,92,116,-0.2
+2021-11-21,202111210GSW,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202111210GSW.html,21:46,.470,.429,.000,.143,7.7,17.9,11.7,6.8,2.3,13.0,0.0,13.9,118,116,1.8
+2021-11-21,202111210GSW,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202111210GSW.html,26:14,.636,.611,.111,.111,9.6,24.7,15.6,18.4,0.0,0.0,0.0,14.7,151,127,5.4
+2021-11-21,202111210GSW,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202111210GSW.html,20:11,.500,.500,.286,.000,0.0,19.3,7.6,22.4,0.0,0.0,30.0,20.2,81,128,-10.5
+2021-11-21,202111210GSW,TOR,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202111210GSW.html,20:10,.700,.700,.600,.000,0.0,6.4,2.5,22.4,0.0,0.0,16.7,12.1,128,131,0.2
+2021-11-21,202111210GSW,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202111210GSW.html,13:34,.635,.643,.286,.286,18.6,19.1,18.8,0.0,0.0,0.0,11.3,26.7,118,128,1.1
+2021-11-21,202111210GSW,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202111210GSW.html,7:58,.500,.500,.000,.000,0.0,0.0,0.0,18.3,12.5,0.0,0.0,10.2,125,101,11.1
+2021-11-21,202111210GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202111210GSW.html,37:04,.459,.250,.600,.700,0.0,4.5,2.8,28.5,1.3,0.0,23.4,21.0,103,114,-7.2
+2021-11-21,202111210GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202111210GSW.html,32:41,.766,.750,.400,.100,7.9,10.3,9.4,20.6,0.0,2.4,8.7,31.8,137,113,11.5
+2021-11-21,202111210GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202111210GSW.html,31:59,.515,.333,.333,.667,0.0,36.9,22.4,32.0,0.0,2.4,20.5,6.9,150,98,4.4
+2021-11-21,202111210GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202111210GSW.html,30:40,1.055,1.077,.846,.462,4.2,8.2,6.7,26.8,0.0,0.0,24.2,30.6,139,114,14.6
+2021-11-21,202111210GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202111210GSW.html,26:17,.608,.750,.000,1.000,24.7,16.0,19.4,21.8,3.8,5.9,14.8,11.7,150,99,8.9
+2021-11-21,202111210GSW,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202111210GSW.html,22:25,.682,.682,.818,.000,0.0,22.5,13.7,7.6,2.2,0.0,8.3,24.3,113,102,5.3
+2021-11-21,202111210GSW,GSW,Chris Chiozza,https://www.basketball-reference.com/boxscores/202111210GSW.html,20:29,.583,.556,.667,.111,0.0,8.2,5.0,7.9,2.4,0.0,9.6,23.2,105,109,-3.6
+2021-11-21,202111210GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202111210GSW.html,17:33,.333,.333,.333,.000,0.0,4.8,2.9,15.1,0.0,8.8,0.0,7.8,108,113,0.6
+2021-11-21,202111210GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202111210GSW.html,7:45,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,10.0,0.0,5.9,200,111,-1.7
+2021-11-21,202111210GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202111210GSW.html,7:38,.000,.000,1.000,.000,0.0,11.0,6.7,0.0,0.0,0.0,50.0,11.9,0,113,-21.1
+2021-11-21,202111210GSW,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202111210GSW.html,3:56,.102,.000,.500,.500,0.0,21.4,13.0,0.0,0.0,0.0,0.0,56.4,25,108,-53.6
+2021-11-21,202111210GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202111210GSW.html,1:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-5.7

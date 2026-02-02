@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-10,202102100DAL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202102100DAL.html,42:00,.507,.455,.500,.273,2.7,18.5,10.1,55.6,1.2,2.3,10.9,28.9,117,122,5.1
+2021-02-10,202102100DAL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202102100DAL.html,38:20,.799,.750,.167,.333,8.9,16.9,12.7,5.3,1.3,2.6,4.6,24.8,156,122,9.9
+2021-02-10,202102100DAL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202102100DAL.html,34:48,.724,.733,.467,.133,0.0,29.8,14.0,15.0,1.4,0.0,0.0,20.0,144,123,8.0
+2021-02-10,202102100DAL,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202102100DAL.html,26:34,.400,.286,.571,.571,4.3,0.0,2.3,14.9,3.7,0.0,0.0,14.5,108,120,-3.5
+2021-02-10,202102100DAL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202102100DAL.html,21:04,.630,.667,.000,1.333,10.8,30.8,20.2,0.0,2.4,4.7,45.7,18.3,75,116,-12.0
+2021-02-10,202102100DAL,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202102100DAL.html,30:07,.376,.208,.583,.500,0.0,12.9,6.1,13.0,0.0,0.0,0.0,21.3,95,128,-8.1
+2021-02-10,202102100DAL,ATL,Tony Snell,https://www.basketball-reference.com/boxscores/202102100DAL.html,27:49,.750,.750,.500,.000,4.1,23.3,13.1,9.4,0.0,0.0,0.0,6.3,162,127,1.4
+2021-02-10,202102100DAL,ATL,Solomon Hill,https://www.basketball-reference.com/boxscores/202102100DAL.html,9:38,.750,.750,1.000,.000,0.0,13.5,6.3,0.0,0.0,10.2,0.0,18.2,135,118,7.5
+2021-02-10,202102100DAL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202102100DAL.html,5:55,.000,.000,.000,.000,19.3,0.0,10.3,0.0,0.0,0.0,50.0,14.8,39,129,-27.9
+2021-02-10,202102100DAL,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202102100DAL.html,3:35,.000,.000,.500,.000,0.0,0.0,0.0,0.0,13.8,0.0,0.0,24.5,0,97,-14.0
+2021-02-10,202102100DAL,ATL,Skylar Mays,https://www.basketball-reference.com/boxscores/202102100DAL.html,0:10,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-9.5
+2021-02-10,202102100DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202102100DAL.html,37:16,.667,.667,.667,.000,7.0,15.3,11.4,9.9,1.3,2.6,14.3,8.9,133,119,2.7
+2021-02-10,202102100DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202102100DAL.html,36:35,.625,.556,.389,.556,0.0,31.2,16.6,42.1,1.4,5.4,18.2,35.3,116,113,7.4
+2021-02-10,202102100DAL,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202102100DAL.html,29:18,.563,.500,.625,.250,8.9,0.0,4.1,21.5,0.0,0.0,10.1,15.9,127,127,0.0
+2021-02-10,202102100DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202102100DAL.html,25:29,1.000,1.000,1.000,.000,0.0,9.0,4.8,4.8,0.0,0.0,25.0,7.4,133,125,-0.5
+2021-02-10,202102100DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202102100DAL.html,19:28,.504,.464,.357,.143,0.0,23.5,12.5,0.0,2.5,0.0,0.0,36.0,97,116,-7.5
+2021-02-10,202102100DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202102100DAL.html,30:07,.569,.556,.333,.056,0.0,15.2,8.1,27.8,0.0,0.0,5.1,30.4,114,124,0.3
+2021-02-10,202102100DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202102100DAL.html,28:55,.766,.750,.500,.100,0.0,4.0,2.1,0.0,0.0,0.0,0.0,17.0,142,126,0.5
+2021-02-10,202102100DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202102100DAL.html,23:26,.902,.833,.000,.667,0.0,29.3,15.6,0.0,0.0,0.0,0.0,15.6,183,120,4.8
+2021-02-10,202102100DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202102100DAL.html,4:52,.000,.000,.000,.000,0.0,23.5,12.5,0.0,0.0,0.0,0.0,9.7,0,121,-21.9
+2021-02-10,202102100DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202102100DAL.html,4:34,,,,,0.0,0.0,0.0,24.4,0.0,0.0,,0.0,233,128,-0.5

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-24,202103240IND,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202103240IND.html,31:20,.605,.550,.300,.450,4.9,16.3,11.8,10.7,1.5,4.9,14.3,40.3,105,115,0.5
+2021-03-24,202103240IND,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202103240IND.html,30:51,.667,.667,.833,.000,0.0,9.9,6.0,13.5,0.0,2.5,7.7,19.0,122,123,1.5
+2021-03-24,202103240IND,DET,Mason Plumlee,https://www.basketball-reference.com/boxscores/202103240IND.html,29:24,.615,.625,.000,.500,15.8,24.3,20.9,18.2,1.6,2.6,17.0,18.1,121,115,1.6
+2021-03-24,202103240IND,DET,Delon Wright,https://www.basketball-reference.com/boxscores/202103240IND.html,27:33,.429,.429,.286,.000,0.0,14.8,8.9,13.5,8.8,5.5,22.2,14.7,80,99,3.5
+2021-03-24,202103240IND,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202103240IND.html,13:27,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,10.1,0,127,-23.9
+2021-03-24,202103240IND,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202103240IND.html,26:34,.505,.500,.182,.182,0.0,11.5,6.9,25.8,1.8,0.0,0.0,20.2,117,120,-0.7
+2021-03-24,202103240IND,DET,Wayne Ellington,https://www.basketball-reference.com/boxscores/202103240IND.html,22:42,1.143,1.143,.714,.000,0.0,13.5,8.1,20.3,0.0,0.0,12.5,15.9,180,124,12.2
+2021-03-24,202103240IND,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202103240IND.html,18:36,.698,.714,.143,.286,8.3,32.9,23.2,0.0,0.0,4.1,0.0,19.1,138,115,2.3
+2021-03-24,202103240IND,DET,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202103240IND.html,15:28,.500,.500,.000,.000,0.0,19.8,11.9,41.1,0.0,9.9,42.9,20.4,86,114,-2.9
+2021-03-24,202103240IND,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/202103240IND.html,8:23,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,10.8,0,128,-18.9
+2021-03-24,202103240IND,DET,Tyler Cook,https://www.basketball-reference.com/boxscores/202103240IND.html,8:17,.644,.667,.000,.667,0.0,24.7,14.9,0.0,0.0,0.0,0.0,21.1,124,120,-4.5
+2021-03-24,202103240IND,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202103240IND.html,7:25,.000,.000,.000,.000,0.0,0.0,0.0,58.8,0.0,0.0,0.0,6.1,131,127,-5.8
+2021-03-24,202103240IND,IND,Caris LeVert,https://www.basketball-reference.com/boxscores/202103240IND.html,33:41,.647,.632,.368,.316,3.0,23.0,11.0,18.5,2.9,0.0,4.4,28.5,132,111,9.7
+2021-03-24,202103240IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202103240IND.html,33:04,.474,.385,.154,.308,9.3,37.5,20.5,15.4,1.5,2.6,16.9,22.8,101,110,-3.1
+2021-03-24,202103240IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202103240IND.html,32:00,.571,.571,.357,.000,3.2,9.7,5.8,13.0,0.0,5.5,22.2,23.9,95,114,-2.8
+2021-03-24,202103240IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202103240IND.html,31:47,.000,.000,.250,.000,3.2,19.5,9.7,3.4,0.0,8.2,0.0,5.3,38,111,-7.3
+2021-03-24,202103240IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202103240IND.html,29:56,.568,.545,.636,.273,0.0,0.0,0.0,13.0,4.8,0.0,0.0,17.5,127,109,3.5
+2021-03-24,202103240IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202103240IND.html,21:41,.429,.429,.000,.000,0.0,21.4,8.5,28.9,0.0,4.0,12.5,15.6,103,114,-3.1
+2021-03-24,202103240IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202103240IND.html,15:54,.333,.333,.167,.000,6.4,19.5,11.6,0.0,3.0,0.0,0.0,16.0,82,111,-8.4
+2021-03-24,202103240IND,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/202103240IND.html,15:53,1.000,1.000,.667,.000,0.0,0.0,0.0,38.0,0.0,0.0,0.0,24.0,196,119,24.6
+2021-03-24,202103240IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202103240IND.html,14:48,.470,.429,.429,.143,6.9,0.0,4.2,16.8,0.0,0.0,0.0,21.3,118,119,-1.7
+2021-03-24,202103240IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202103240IND.html,11:16,.643,.643,.286,.000,27.2,27.5,27.3,0.0,0.0,7.7,12.5,30.1,120,110,1.6

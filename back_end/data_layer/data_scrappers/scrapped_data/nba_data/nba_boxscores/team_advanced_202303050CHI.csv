@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-05,202303050CHI,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202303050CHI.html,34:02,.831,.824,.529,.059,0.0,16.3,6.2,47.8,1.5,2.7,14.7,26.2,155,129,17.3
+2023-03-05,202303050CHI,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202303050CHI.html,27:36,.595,.615,.308,.077,0.0,20.1,7.7,5.1,0.0,10.0,0.0,21.2,125,125,-0.2
+2023-03-05,202303050CHI,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202303050CHI.html,25:40,.477,.444,.778,.111,13.4,21.6,16.5,8.8,0.0,0.0,9.6,17.7,117,135,-5.2
+2023-03-05,202303050CHI,IND,Jordan Nwora,https://www.basketball-reference.com/boxscores/202303050CHI.html,21:31,.543,.500,.429,.714,5.3,34.3,16.4,10.8,2.4,0.0,9.8,20.7,118,129,-2.0
+2023-03-05,202303050CHI,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202303050CHI.html,19:31,.400,.400,.600,.000,0.0,0.0,0.0,5.7,2.6,4.7,0.0,11.2,100,126,-5.9
+2023-03-05,202303050CHI,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202303050CHI.html,33:54,.564,.417,.333,.583,3.4,16.3,8.3,10.4,1.5,0.0,11.7,22.0,120,132,-3.9
+2023-03-05,202303050CHI,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202303050CHI.html,22:25,.750,.750,.800,.000,0.0,16.5,6.3,0.0,2.3,0.0,16.7,23.4,117,130,2.0
+2023-03-05,202303050CHI,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202303050CHI.html,20:24,.500,.500,.000,.000,28.0,18.1,24.2,0.0,0.0,4.5,0.0,12.8,142,131,-7.0
+2023-03-05,202303050CHI,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202303050CHI.html,18:30,.714,.714,.714,.000,6.2,10.0,7.6,6.9,0.0,0.0,0.0,16.5,156,135,1.9
+2023-03-05,202303050CHI,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202303050CHI.html,16:27,.533,.500,.125,.125,13.9,11.2,12.9,48.2,0.0,0.0,0.0,22.4,150,135,4.3
+2023-03-05,202303050CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202303050CHI.html,38:13,.731,.674,.348,.565,0.0,12.0,7.4,17.5,0.0,0.0,9.5,40.2,138,138,5.1
+2023-03-05,202303050CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202303050CHI.html,37:50,.648,.594,.250,.250,4.9,12.1,9.3,11.3,0.0,0.0,14.5,26.6,120,138,-5.9
+2023-03-05,202303050CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202303050CHI.html,35:40,.600,.600,.200,.000,0.0,28.8,17.8,18.2,4.3,5.4,9.1,15.0,126,120,6.2
+2023-03-05,202303050CHI,CHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202303050CHI.html,32:17,.833,.833,.333,.000,5.7,17.7,13.1,10.6,0.0,0.0,40.0,7.5,123,136,-2.4
+2023-03-05,202303050CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202303050CHI.html,26:45,.868,.750,.250,1.000,6.9,4.3,5.3,0.0,3.8,0.0,0.0,10.4,185,131,3.0
+2023-03-05,202303050CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202303050CHI.html,21:13,1.017,1.000,.500,.333,0.0,5.4,3.3,0.0,0.0,0.0,30.4,22.6,129,140,0.0
+2023-03-05,202303050CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202303050CHI.html,20:33,.500,.500,.429,.000,0.0,11.1,6.9,12.3,2.5,4.7,12.5,18.9,100,130,-3.2
+2023-03-05,202303050CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202303050CHI.html,15:09,.644,.667,.000,.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.4,130,141,-10.6
+2023-03-05,202303050CHI,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202303050CHI.html,6:16,1.000,1.000,.000,.000,29.5,0.0,11.3,20.5,0.0,0.0,50.0,15.5,131,141,-1.1
+2023-03-05,202303050CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202303050CHI.html,6:04,1.000,1.000,.000,.000,0.0,56.5,34.9,0.0,0.0,0.0,0.0,8.0,200,124,4.2

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-23,202102230DAL,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202102230DAL.html,37:33,.680,.650,.400,.150,6.1,15.2,10.7,24.9,2.7,0.0,12.3,29.1,132,117,8.7
+2021-02-23,202102230DAL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202102230DAL.html,35:36,.546,.500,.435,.261,0.0,19.3,9.6,19.6,1.4,4.8,13.5,37.4,106,115,3.6
+2021-02-23,202102230DAL,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202102230DAL.html,33:22,.540,.526,.579,.053,0.0,13.7,6.9,14.6,0.0,0.0,0.0,26.2,124,123,0.6
+2021-02-23,202102230DAL,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202102230DAL.html,25:55,.205,.250,.500,.500,4.4,8.8,6.6,0.0,2.0,6.6,17.0,10.2,48,114,-9.0
+2021-02-23,202102230DAL,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202102230DAL.html,21:40,.581,.500,.167,.333,21.1,31.6,26.4,12.9,2.4,0.0,22.5,18.4,118,114,0.1
+2021-02-23,202102230DAL,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202102230DAL.html,23:51,1.000,1.000,.750,.000,4.8,28.8,16.8,5.8,2.2,0.0,0.0,7.5,204,115,9.0
+2021-02-23,202102230DAL,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202102230DAL.html,22:12,,,,,5.1,10.3,7.7,0.0,0.0,3.9,100.0,2.0,52,121,-7.8
+2021-02-23,202102230DAL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202102230DAL.html,19:08,.444,.357,.571,.286,6.0,0.0,3.0,20.9,0.0,0.0,11.3,20.8,108,126,-5.6
+2021-02-23,202102230DAL,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202102230DAL.html,14:05,.515,.667,.000,.667,8.1,16.2,12.2,0.0,0.0,6.1,0.0,12.4,112,117,-4.2
+2021-02-23,202102230DAL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202102230DAL.html,6:38,,,,,17.2,17.2,17.2,17.6,0.0,0.0,100.0,6.8,81,122,-6.3
+2021-02-23,202102230DAL,BOS,Tacko Fall,https://www.basketball-reference.com/boxscores/202102230DAL.html,0:00,,,,,,,,,,,,,,,-7.0
+2021-02-23,202102230DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202102230DAL.html,38:32,.000,.000,.600,.000,0.0,8.9,4.4,3.0,2.7,0.0,0.0,6.0,15,113,-7.7
+2021-02-23,202102230DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202102230DAL.html,37:53,.626,.609,.348,.174,6.0,24.1,15.1,36.1,1.4,0.0,10.8,33.6,125,112,14.5
+2021-02-23,202102230DAL,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202102230DAL.html,29:51,.667,.667,.333,.000,0.0,15.3,7.7,5.2,0.0,0.0,7.7,20.0,122,117,-0.1
+2021-02-23,202102230DAL,DAL,James Johnson,https://www.basketball-reference.com/boxscores/202102230DAL.html,28:04,.500,.500,.375,.000,4.1,8.1,6.1,14.6,3.7,0.0,0.0,13.1,122,111,1.6
+2021-02-23,202102230DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202102230DAL.html,10:50,.410,.250,.000,.500,10.5,10.5,10.5,0.0,0.0,0.0,0.0,20.7,102,119,-7.1
+2021-02-23,202102230DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202102230DAL.html,30:12,.833,.773,.636,.455,0.0,7.6,3.8,9.8,0.0,0.0,13.2,23.1,145,120,8.2
+2021-02-23,202102230DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202102230DAL.html,24:46,.391,.353,.471,.118,4.6,4.6,4.6,19.1,0.0,0.0,0.0,33.1,95,120,-8.1
+2021-02-23,202102230DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202102230DAL.html,23:56,.868,1.000,.000,1.000,0.0,19.1,9.6,0.0,0.0,4.3,0.0,5.5,173,114,-0.3
+2021-02-23,202102230DAL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202102230DAL.html,12:59,.714,.714,.000,.000,26.4,44.0,35.2,15.7,0.0,0.0,12.5,28.3,137,108,9.4
+2021-02-23,202102230DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202102230DAL.html,2:57,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,31.1,0,122,-40.9

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-02,202104020TOR,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202104020TOR.html,30:34,.409,.409,.182,.000,3.1,15.3,8.6,15.9,0.0,3.0,21.4,20.4,68,132,-10.9
+2021-04-02,202104020TOR,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202104020TOR.html,29:37,.315,.300,.600,.133,0.0,7.9,3.6,7.7,1.6,0.0,15.9,28.4,54,132,-13.9
+2021-04-02,202104020TOR,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202104020TOR.html,26:30,.697,.611,.333,.444,0.0,17.7,8.0,21.4,0.0,0.0,15.7,21.4,116,134,0.6
+2021-04-02,202104020TOR,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202104020TOR.html,18:28,.393,.364,.364,.091,10.4,31.7,20.0,14.3,0.0,0.0,14.9,32.4,73,131,-7.1
+2021-04-02,202104020TOR,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202104020TOR.html,11:17,,,,,0.0,10.4,4.7,16.4,0.0,0.0,100.0,7.9,21,135,-21.9
+2021-04-02,202104020TOR,GSW,Nico Mannion,https://www.basketball-reference.com/boxscores/202104020TOR.html,30:24,.543,.429,.429,.714,0.0,0.0,0.0,29.7,1.6,3.0,30.3,19.3,85,132,-6.9
+2021-04-02,202104020TOR,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202104020TOR.html,22:37,.455,.389,.333,.222,0.0,31.1,14.0,21.6,2.1,4.0,16.8,23.4,80,123,-2.5
+2021-04-02,202104020TOR,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202104020TOR.html,18:09,.250,.250,1.000,.000,0.0,12.9,5.8,0.0,0.0,0.0,14.3,17.2,42,135,-15.9
+2021-04-02,202104020TOR,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202104020TOR.html,18:00,.375,.375,.500,.000,10.7,13.0,11.7,22.9,0.0,0.0,20.0,12.4,86,134,-11.1
+2021-04-02,202104020TOR,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202104020TOR.html,14:49,.307,.250,.250,.500,0.0,23.7,10.7,14.2,6.5,0.0,17.0,17.7,59,117,-8.3
+2021-04-02,202104020TOR,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202104020TOR.html,10:06,.773,.833,.333,.667,19.0,11.6,15.7,0.0,0.0,9.0,0.0,17.1,151,129,10.7
+2021-04-02,202104020TOR,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202104020TOR.html,9:29,,,,,0.0,12.3,5.6,58.4,0.0,0.0,,0.0,242,135,3.8
+2021-04-02,202104020TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202104020TOR.html,31:08,.699,.667,.375,.167,0.0,21.6,11.9,30.3,3.1,0.0,0.0,35.8,149,78,16.5
+2021-04-02,202104020TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202104020TOR.html,29:49,.806,.786,.643,.143,0.0,16.1,8.8,4.7,1.6,7.2,0.0,21.6,161,79,14.3
+2021-04-02,202104020TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202104020TOR.html,26:26,.763,.750,.333,.333,4.4,7.3,6.0,11.2,3.7,4.0,0.0,22.5,160,79,13.7
+2021-04-02,202104020TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202104020TOR.html,25:18,.806,.625,.500,1.250,4.6,19.0,12.5,8.8,7.6,8.4,24.4,14.0,137,62,8.4
+2021-04-02,202104020TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202104020TOR.html,18:36,.595,.500,.600,.400,0.0,5.2,2.8,18.5,0.0,5.7,14.5,16.0,123,87,-0.1
+2021-04-02,202104020TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202104020TOR.html,30:36,.643,.625,.333,.083,0.0,15.7,8.6,21.8,3.2,0.0,13.9,20.4,124,80,1.7
+2021-04-02,202104020TOR,TOR,Aron Baynes,https://www.basketball-reference.com/boxscores/202104020TOR.html,24:14,.644,.667,.333,.667,4.8,23.8,15.2,4.6,2.0,8.8,34.0,10.5,97,74,-1.3
+2021-04-02,202104020TOR,TOR,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202104020TOR.html,20:22,.665,.500,.000,2.000,11.5,9.4,10.4,10.6,4.7,0.0,44.4,14.4,102,78,-1.9
+2021-04-02,202104020TOR,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202104020TOR.html,20:03,.000,.000,.333,.000,11.7,23.9,18.4,20.4,0.0,0.0,14.3,15.1,63,85,-11.6
+2021-04-02,202104020TOR,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202104020TOR.html,13:28,.466,.500,.167,.167,26.1,35.6,31.3,9.8,0.0,0.0,13.4,23.9,109,81,-7.2

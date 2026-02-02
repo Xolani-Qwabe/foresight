@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-11,202203110ORL,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202203110ORL.html,39:20,.505,.458,.667,.167,0.0,5.8,2.8,23.7,0.0,0.0,13.4,17.3,104,130,-6.4
+2022-03-11,202203110ORL,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202203110ORL.html,34:26,.615,.579,.579,.158,0.0,10.0,4.9,24.5,1.4,0.0,0.0,27.0,128,125,5.2
+2022-03-11,202203110ORL,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202203110ORL.html,33:52,.599,.464,.357,.571,6.4,37.1,21.4,17.4,2.9,6.2,14.6,27.8,115,110,3.7
+2022-03-11,202203110ORL,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202203110ORL.html,20:22,.333,.333,.000,.000,5.4,28.1,16.4,0.0,2.4,0.0,0.0,6.8,88,118,-7.4
+2022-03-11,202203110ORL,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202203110ORL.html,4:05,1.125,1.125,1.000,.000,0.0,0.0,0.0,0.0,12.1,0.0,20.0,56.1,123,102,48.8
+2022-03-11,202203110ORL,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202203110ORL.html,32:11,.400,.400,.900,.000,3.4,10.7,6.9,8.2,3.1,0.0,0.0,14.2,93,121,-3.3
+2022-03-11,202203110ORL,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202203110ORL.html,32:03,.667,.667,.111,.000,0.0,10.7,5.2,4.7,0.0,9.8,10.0,14.3,114,122,-1.1
+2022-03-11,202203110ORL,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202203110ORL.html,16:54,.286,.286,.286,.000,0.0,0.0,0.0,0.0,0.0,0.0,12.5,21.7,49,131,-20.5
+2022-03-11,202203110ORL,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202203110ORL.html,14:07,.286,.286,.429,.000,7.7,24.3,15.8,19.9,3.5,0.0,12.5,26.0,71,116,-14.6
+2022-03-11,202203110ORL,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202203110ORL.html,12:38,1.200,1.200,.400,.000,0.0,18.1,8.8,51.8,0.0,0.0,0.0,18.1,239,126,23.3
+2022-03-11,202203110ORL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202203110ORL.html,35:16,.581,.533,.267,.333,13.0,18.6,15.8,22.3,0.0,0.0,10.4,24.0,124,116,0.8
+2022-03-11,202203110ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202203110ORL.html,32:20,.850,.833,.533,.133,7.1,33.7,20.7,0.0,0.0,6.6,0.0,21.6,164,108,13.3
+2022-03-11,202203110ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202203110ORL.html,32:02,.368,.300,.400,.200,7.1,13.6,10.5,16.9,0.0,0.0,8.4,16.3,99,117,-8.4
+2022-03-11,202203110ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202203110ORL.html,30:12,.588,.545,.455,.364,3.8,18.1,11.1,29.8,1.6,0.0,23.9,24.4,105,112,-1.8
+2022-03-11,202203110ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202203110ORL.html,26:25,.357,.357,.571,.000,0.0,4.1,2.1,20.0,1.9,0.0,30.0,16.7,70,114,-11.3
+2022-03-11,202203110ORL,ORL,R.J. Hampton,https://www.basketball-reference.com/boxscores/202203110ORL.html,21:31,1.000,1.000,1.000,.000,0.0,5.1,2.6,6.3,0.0,0.0,0.0,6.1,185,118,0.7
+2022-03-11,202203110ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202203110ORL.html,17:52,.658,.563,.125,.750,0.0,18.3,9.4,64.3,2.8,0.0,0.0,26.2,159,110,15.5
+2022-03-11,202203110ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202203110ORL.html,15:58,.200,.200,.600,.000,0.0,0.0,0.0,16.3,3.1,0.0,16.7,16.5,56,111,-11.8
+2022-03-11,202203110ORL,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202203110ORL.html,15:10,.375,.375,1.000,.000,0.0,28.8,14.7,8.6,0.0,7.0,20.0,14.5,70,109,-6.6
+2022-03-11,202203110ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202203110ORL.html,13:13,.846,.750,.500,.750,8.6,41.3,25.3,16.6,0.0,0.0,0.0,35.5,176,113,24.6

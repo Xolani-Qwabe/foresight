@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-01-14,202501140CHI,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.92,2,6,.333,0,4,.000,1,1,1.000,0,0,0,1,0,0,0,0,5,2.3,-8
+2025-01-14,202501140CHI,NOP,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202501140CHI.html,10.1,2,7,.286,2,5,.400,0,0,,1,2,3,3,1,0,0,0,6,6.3,-8
+2025-01-14,202501140CHI,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202501140CHI.html,10.1,1,4,.250,1,3,.333,0,0,,1,0,1,2,0,0,0,0,3,2.7,-8
+2025-01-14,202501140CHI,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.67,4,4,1.000,0,0,,1,2,.500,2,0,2,1,0,0,1,0,9,8.5,-1
+2025-01-14,202501140CHI,NOP,Q1,Yves Missi,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.02,1,1,1.000,0,0,,0,0,,0,3,3,0,0,0,0,1,2,2.2,-3
+2025-01-14,202501140CHI,NOP,Q1,Javonte Green,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.23,1,3,.333,0,0,,0,0,,0,1,1,0,1,0,0,0,2,1.6,+1
+2025-01-14,202501140CHI,NOP,Q1,Daniel Theis,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.98,0,1,.000,0,0,,0,0,,0,1,1,1,1,0,1,0,0,0.3,-1
+2025-01-14,202501140CHI,NOP,Q1,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.08,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,1,0,0,2,1.7,+4
+2025-01-14,202501140CHI,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202501140CHI.html,1.9,0,2,.000,0,2,.000,0,0,,1,0,1,0,0,0,0,0,0,-0.7,+4
+2025-01-14,202501140CHI,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202501140CHI.html,10.28,2,4,.500,0,2,.000,4,4,1.000,0,1,1,1,1,0,0,0,8,8.0,+2
+2025-01-14,202501140CHI,NOP,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.65,0,1,.000,0,1,.000,3,3,1.000,0,1,1,0,0,0,0,0,3,2.6,-4
+2025-01-14,202501140CHI,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.65,0,3,.000,0,1,.000,0,0,,0,1,1,0,1,0,0,2,0,-1.6,-4
+2025-01-14,202501140CHI,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.08,2,6,.333,0,0,,0,0,,2,2,4,3,0,1,1,1,4,4.0,+5
+2025-01-14,202501140CHI,NOP,Q2,Yves Missi,https://www.basketball-reference.com/boxscores/202501140CHI.html,1.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2025-01-14,202501140CHI,NOP,Q2,Javonte Green,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.65,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,-4
+2025-01-14,202501140CHI,NOP,Q2,Daniel Theis,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.35,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+2
+2025-01-14,202501140CHI,NOP,Q2,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.35,2,3,.667,1,2,.500,0,0,,0,1,1,0,0,0,1,0,5,3.0,+2
+2025-01-14,202501140CHI,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.35,0,1,.000,0,1,.000,0,0,,0,1,1,2,1,0,0,0,0,2.0,+2
+2025-01-14,202501140CHI,NOP,Q2,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.92,1,3,.333,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,4,2.3,-7
+2025-01-14,202501140CHI,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202501140CHI.html,9.25,3,5,.600,2,4,.500,3,3,1.000,0,2,2,0,1,0,0,1,11,9.9,+4
+2025-01-14,202501140CHI,NOP,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202501140CHI.html,12.0,2,5,.400,2,4,.500,0,0,,0,1,1,1,0,0,1,0,6,3.3,+6
+2025-01-14,202501140CHI,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.85,2,5,.400,1,2,.500,0,0,,1,0,1,2,0,0,0,1,5,4.0,+6
+2025-01-14,202501140CHI,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.07,1,1,1.000,0,0,,0,0,,0,0,0,3,0,0,0,1,2,3.4,+2
+2025-01-14,202501140CHI,NOP,Q3,Yves Missi,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.85,1,1,1.000,0,0,,0,0,,2,2,4,0,0,0,1,0,2,2.7,+6
+2025-01-14,202501140CHI,NOP,Q3,Javonte Green,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.93,1,1,1.000,0,0,,1,1,1.000,0,2,2,0,1,1,0,0,3,5.0,+4
+2025-01-14,202501140CHI,NOP,Q3,Daniel Theis,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.15,0,0,,0,0,,1,2,.500,1,0,1,1,0,0,0,0,1,2.0,0
+2025-01-14,202501140CHI,NOP,Q3,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.12,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,0
+2025-01-14,202501140CHI,NOP,Q3,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202501140CHI.html,2.78,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0,+2
+2025-01-14,202501140CHI,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202501140CHI.html,9.48,2,5,.400,0,3,.000,4,4,1.000,0,3,3,2,1,1,0,0,8,9.3,+2
+2025-01-14,202501140CHI,NOP,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.5,0,1,.000,0,1,.000,0,0,,0,2,2,3,0,0,1,0,0,1.0,-3
+2025-01-14,202501140CHI,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.83,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,-2
+2025-01-14,202501140CHI,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.07,3,3,1.000,0,0,,0,2,.000,1,0,1,2,0,0,2,1,6,4.0,+1
+2025-01-14,202501140CHI,NOP,Q4,Javonte Green,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.7,1,2,.500,0,1,.000,0,0,,1,0,1,1,1,1,0,1,2,3.7,+1
+2025-01-14,202501140CHI,NOP,Q4,Daniel Theis,https://www.basketball-reference.com/boxscores/202501140CHI.html,9.9,1,2,.500,0,1,.000,1,2,.500,0,3,3,1,0,0,1,2,3,1.4,+9
+2025-01-14,202501140CHI,NOP,Q4,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.5,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,+9
+2025-01-14,202501140CHI,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.02,4,5,.800,4,5,.800,0,0,,0,1,1,1,0,0,0,1,12,10.7,+13
+2025-01-14,202501140CHI,CHI,Q1,Zach LaVine,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.82,0,4,.000,0,1,.000,0,0,,0,2,2,1,0,0,1,0,0,-2.5,+4
+2025-01-14,202501140CHI,CHI,Q1,Nikola Vučević,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.82,6,8,.750,1,1,1.000,0,0,,3,4,7,0,0,1,0,0,13,13.8,+4
+2025-01-14,202501140CHI,CHI,Q1,Josh Giddey,https://www.basketball-reference.com/boxscores/202501140CHI.html,9.82,2,3,.667,1,2,.500,0,0,,0,3,3,5,2,1,2,1,5,8.4,+3
+2025-01-14,202501140CHI,CHI,Q1,Coby White,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.75,0,1,.000,0,1,.000,2,2,1.000,0,0,0,2,0,0,0,1,2,2.3,+6
+2025-01-14,202501140CHI,CHI,Q1,Patrick Williams,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.82,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,1,1,3,1.3,-1
+2025-01-14,202501140CHI,CHI,Q1,Lonzo Ball,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.43,2,3,.667,2,3,.667,0,0,,0,0,0,1,0,0,0,1,6,5.0,-1
+2025-01-14,202501140CHI,CHI,Q1,Julian Phillips,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.18,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,+5
+2025-01-14,202501140CHI,CHI,Q1,Jalen Smith,https://www.basketball-reference.com/boxscores/202501140CHI.html,3.18,2,3,.667,0,1,.000,0,0,,1,0,1,0,0,0,1,0,4,2.4,0
+2025-01-14,202501140CHI,CHI,Q1,Dalen Terry,https://www.basketball-reference.com/boxscores/202501140CHI.html,3.18,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2025-01-14,202501140CHI,CHI,Q2,Zach LaVine,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.75,1,3,.333,0,0,,0,0,,0,2,2,1,0,0,1,0,2,0.6,+6
+2025-01-14,202501140CHI,CHI,Q2,Nikola Vučević,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.05,1,3,.333,0,0,,1,2,.500,0,2,2,1,0,0,2,0,3,0.2,+5
+2025-01-14,202501140CHI,CHI,Q2,Josh Giddey,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.97,0,1,.000,0,1,.000,2,2,1.000,1,2,3,2,0,0,0,0,2,4.0,+1
+2025-01-14,202501140CHI,CHI,Q2,Coby White,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.08,2,5,.400,0,2,.000,2,2,1.000,0,1,1,0,0,0,0,0,6,3.6,-5
+2025-01-14,202501140CHI,CHI,Q2,Patrick Williams,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.47,1,4,.250,1,2,.500,0,0,,0,0,0,0,0,1,0,1,3,0.9,-9
+2025-01-14,202501140CHI,CHI,Q2,Lonzo Ball,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.92,1,2,.500,0,0,,0,0,,2,2,4,2,0,1,1,1,2,3.7,+7
+2025-01-14,202501140CHI,CHI,Q2,Jalen Smith,https://www.basketball-reference.com/boxscores/202501140CHI.html,3.95,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.9,-3
+2025-01-14,202501140CHI,CHI,Q2,Matas Buzelis,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.75,2,3,.667,1,2,.500,0,0,,0,4,4,0,0,0,0,0,5,4.9,+6
+2025-01-14,202501140CHI,CHI,Q2,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.92,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+7
+2025-01-14,202501140CHI,CHI,Q2,Dalen Terry,https://www.basketball-reference.com/boxscores/202501140CHI.html,2.15,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-5
+2025-01-14,202501140CHI,CHI,Q3,Zach LaVine,https://www.basketball-reference.com/boxscores/202501140CHI.html,12.0,5,7,.714,2,3,.667,1,3,.333,0,1,1,2,0,0,2,1,13,8.6,-6
+2025-01-14,202501140CHI,CHI,Q3,Nikola Vučević,https://www.basketball-reference.com/boxscores/202501140CHI.html,12.0,2,4,.500,0,1,.000,0,0,,2,1,3,1,1,0,1,2,4,3.6,-6
+2025-01-14,202501140CHI,CHI,Q3,Josh Giddey,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.28,0,3,.000,0,2,.000,0,0,,2,1,3,2,1,0,0,1,0,1.6,-6
+2025-01-14,202501140CHI,CHI,Q3,Coby White,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.78,2,3,.667,1,2,.500,0,0,,0,0,0,1,0,0,0,0,5,4.4,-2
+2025-01-14,202501140CHI,CHI,Q3,Patrick Williams,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.07,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-2
+2025-01-14,202501140CHI,CHI,Q3,Lonzo Ball,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.93,1,3,.333,1,3,.333,0,0,,0,3,3,3,0,0,1,1,3,2.9,-4
+2025-01-14,202501140CHI,CHI,Q3,Julian Phillips,https://www.basketball-reference.com/boxscores/202501140CHI.html,7.93,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,2,0,0,0,1.0,-4
+2025-01-14,202501140CHI,CHI,Q4,Zach LaVine,https://www.basketball-reference.com/boxscores/202501140CHI.html,8.47,4,8,.500,2,2,1.000,0,0,,0,2,2,1,1,0,1,1,10,6.9,+2
+2025-01-14,202501140CHI,CHI,Q4,Nikola Vučević,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.5,1,1,1.000,0,0,,0,0,,2,1,3,0,0,0,0,1,2,3.0,+3
+2025-01-14,202501140CHI,CHI,Q4,Josh Giddey,https://www.basketball-reference.com/boxscores/202501140CHI.html,11.72,0,5,.000,0,1,.000,0,0,,2,2,4,3,1,0,0,0,0,1.6,-6
+2025-01-14,202501140CHI,CHI,Q4,Coby White,https://www.basketball-reference.com/boxscores/202501140CHI.html,10.03,4,8,.500,0,3,.000,1,1,1.000,0,2,2,1,0,0,0,2,9,5.5,-5
+2025-01-14,202501140CHI,CHI,Q4,Patrick Williams,https://www.basketball-reference.com/boxscores/202501140CHI.html,4.7,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-7
+2025-01-14,202501140CHI,CHI,Q4,Lonzo Ball,https://www.basketball-reference.com/boxscores/202501140CHI.html,5.55,0,2,.000,0,2,.000,0,0,,1,0,1,0,1,0,1,1,0,-1.1,+8
+2025-01-14,202501140CHI,CHI,Q4,Jalen Smith,https://www.basketball-reference.com/boxscores/202501140CHI.html,6.73,3,5,.600,0,2,.000,0,0,,2,1,3,0,0,0,0,0,6,5.4,-14
+2025-01-14,202501140CHI,CHI,Q4,Matas Buzelis,https://www.basketball-reference.com/boxscores/202501140CHI.html,3.18,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-8
+2025-01-14,202501140CHI,CHI,Q4,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202501140CHI.html,2.32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2025-01-14,202501140CHI,CHI,Q4,Dalen Terry,https://www.basketball-reference.com/boxscores/202501140CHI.html,0.8,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2

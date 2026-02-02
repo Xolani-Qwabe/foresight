@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-28,202311280BOS,CHI,Coby White,https://www.basketball-reference.com/boxscores/202311280BOS.html,29.58,7,12,.583,3,5,.600,2,2,1.000,0,1,1,3,0,0,0,0,19,15.8,-16
+2023-11-28,202311280BOS,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202311280BOS.html,28.37,6,10,.600,1,3,.333,1,2,.500,4,3,7,2,1,2,2,2,14,13.7,-7
+2023-11-28,202311280BOS,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202311280BOS.html,25.68,7,14,.500,1,3,.333,4,4,1.000,0,2,2,6,0,0,2,2,19,14.0,-20
+2023-11-28,202311280BOS,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202311280BOS.html,25.33,4,11,.364,0,2,.000,0,0,,0,8,8,2,2,1,1,1,8,7.0,-26
+2023-11-28,202311280BOS,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202311280BOS.html,24.62,1,9,.111,0,3,.000,0,0,,1,1,2,4,2,0,0,1,2,1.5,-22
+2023-11-28,202311280BOS,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202311280BOS.html,23.92,4,10,.400,1,3,.333,1,2,.500,0,0,0,2,1,0,0,3,10,5.4,-16
+2023-11-28,202311280BOS,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202311280BOS.html,19.08,3,9,.333,2,6,.333,0,0,,1,1,2,2,3,0,1,2,8,6.5,-16
+2023-11-28,202311280BOS,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202311280BOS.html,16.7,4,7,.571,0,1,.000,0,0,,0,1,1,2,0,1,1,0,8,6.1,+3
+2023-11-28,202311280BOS,CHI,Torrey Craig,https://www.basketball-reference.com/boxscores/202311280BOS.html,13.27,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,1,1,0,0,3,4.7,-5
+2023-11-28,202311280BOS,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202311280BOS.html,12.97,2,5,.400,0,0,,1,6,.167,2,4,6,0,0,1,0,1,5,3.2,-11
+2023-11-28,202311280BOS,CHI,Julian Phillips,https://www.basketball-reference.com/boxscores/202311280BOS.html,9.83,0,2,.000,0,1,.000,1,2,.500,0,2,2,1,0,0,1,0,1,-0.5,-2
+2023-11-28,202311280BOS,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202311280BOS.html,7.57,0,0,,0,0,,0,0,,1,4,5,1,0,1,0,1,0,2.9,+2
+2023-11-28,202311280BOS,CHI,Terry Taylor,https://www.basketball-reference.com/boxscores/202311280BOS.html,3.08,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,+1
+2023-11-28,202311280BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202311280BOS.html,35.55,8,16,.500,2,8,.250,3,3,1.000,1,6,7,4,0,0,4,2,21,13.5,+18
+2023-11-28,202311280BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202311280BOS.html,34.78,12,23,.522,3,8,.375,3,5,.600,2,6,8,6,0,1,3,1,30,22.6,+22
+2023-11-28,202311280BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202311280BOS.html,33.18,5,8,.625,4,5,.800,0,0,,1,6,7,9,1,0,3,3,14,16.0,+19
+2023-11-28,202311280BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202311280BOS.html,28.5,5,7,.714,2,3,.667,2,2,1.000,0,3,3,7,2,0,0,4,14,17.3,+15
+2023-11-28,202311280BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202311280BOS.html,28.4,6,8,.750,4,6,.667,0,0,,0,9,9,6,2,3,3,3,16,19.6,+18
+2023-11-28,202311280BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202311280BOS.html,22.83,4,10,.400,3,7,.429,0,0,,1,4,5,2,1,0,0,0,11,9.9,+11
+2023-11-28,202311280BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202311280BOS.html,20.72,3,12,.250,2,10,.200,1,2,.500,4,6,10,2,0,0,2,1,9,5.0,+13
+2023-11-28,202311280BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202311280BOS.html,19.45,2,3,.667,0,0,,0,0,,2,1,3,0,0,3,1,3,4,4.3,+9
+2023-11-28,202311280BOS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202311280BOS.html,14.6,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,1,0,1,5,4.0,+10
+2023-11-28,202311280BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202311280BOS.html,1.87,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-11-28,202311280BOS,BOS,Lamar Stevens,https://www.basketball-reference.com/boxscores/202311280BOS.html,0.12,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,0

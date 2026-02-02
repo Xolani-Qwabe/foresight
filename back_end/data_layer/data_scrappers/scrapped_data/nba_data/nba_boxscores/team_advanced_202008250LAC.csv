@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-25,202008250LAC,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202008250LAC.html,31:13,.475,.382,.353,.824,3.2,33.6,15.4,21.4,0.0,3.1,17.8,38.5,88,149,-7.9
+2020-08-25,202008250LAC,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202008250LAC.html,29:16,.631,.636,.273,.182,0.0,5.1,2.1,11.6,1.6,0.0,0.0,17.3,128,151,-2.1
+2020-08-25,202008250LAC,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202008250LAC.html,28:11,.872,.833,.667,.333,7.1,10.6,8.5,5.5,1.6,7.0,0.0,10.4,180,145,5.1
+2020-08-25,202008250LAC,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202008250LAC.html,26:33,.750,.750,1.000,.000,7.5,22.6,13.6,22.2,3.5,0.0,25.0,12.9,128,144,3.3
+2020-08-25,202008250LAC,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202008250LAC.html,25:18,.638,.607,.500,.143,0.0,5.9,2.4,23.0,0.0,0.0,0.0,25.1,132,154,2.4
+2020-08-25,202008250LAC,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202008250LAC.html,23:21,.333,.333,.333,.000,4.3,6.4,5.1,0.0,0.0,0.0,25.0,14.6,57,154,-17.5
+2020-08-25,202008250LAC,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/202008250LAC.html,21:25,.739,.786,.143,.143,0.0,7.0,2.8,16.7,4.3,0.0,0.0,14.8,148,144,5.8
+2020-08-25,202008250LAC,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202008250LAC.html,17:19,.687,.000,1.000,6.000,0.0,26.0,10.4,7.3,0.0,5.7,45.2,16.4,83,147,-13.2
+2020-08-25,202008250LAC,DAL,Michael Kidd-Gilchrist,https://www.basketball-reference.com/boxscores/202008250LAC.html,14:10,.218,.167,.667,.333,0.0,0.0,0.0,9.8,3.3,6.9,0.0,20.7,55,142,-14.2
+2020-08-25,202008250LAC,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/202008250LAC.html,8:48,.387,.333,.667,.667,0.0,34.1,13.6,0.0,0.0,0.0,0.0,18.8,80,151,-13.4
+2020-08-25,202008250LAC,DAL,Antonius Cleveland,https://www.basketball-reference.com/boxscores/202008250LAC.html,7:13,.400,.400,.000,.000,13.9,0.0,8.3,0.0,6.4,0.0,0.0,29.6,90,140,-6.9
+2020-08-25,202008250LAC,DAL,Josh Reaves,https://www.basketball-reference.com/boxscores/202008250LAC.html,7:13,.515,.333,.333,.667,0.0,41.6,16.6,21.2,0.0,13.6,20.5,28.8,93,141,-3.4
+2020-08-25,202008250LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202008250LAC.html,29:50,.671,.684,.211,.579,10.1,16.8,14.1,19.1,1.5,3.4,7.7,36.5,137,104,6.3
+2020-08-25,202008250LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202008250LAC.html,27:34,.750,.750,.750,.000,16.3,10.9,13.1,15.1,1.7,0.0,11.1,13.8,162,107,9.3
+2020-08-25,202008250LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202008250LAC.html,24:55,.830,.778,.444,.389,6.0,8.0,7.2,12.9,0.0,0.0,8.7,39.0,156,111,9.7
+2020-08-25,202008250LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202008250LAC.html,23:37,.970,1.000,.000,3.000,0.0,29.6,17.8,8.3,2.0,8.5,17.7,10.1,172,97,9.3
+2020-08-25,202008250LAC,LAC,Landry Shamet,https://www.basketball-reference.com/boxscores/202008250LAC.html,22:28,1.127,1.125,.750,.500,0.0,17.8,10.7,4.6,4.1,0.0,17.0,11.0,178,101,13.7
+2020-08-25,202008250LAC,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202008250LAC.html,22:52,.720,.682,.182,.455,13.1,39.4,28.9,5.5,0.0,4.4,13.2,28.0,135,103,2.0
+2020-08-25,202008250LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202008250LAC.html,21:57,.786,.786,.571,.000,0.0,13.7,8.2,24.7,0.0,0.0,12.5,15.4,159,111,8.4
+2020-08-25,202008250LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202008250LAC.html,21:36,.538,.571,.143,.143,0.0,13.9,8.3,10.1,0.0,0.0,28.7,20.4,86,111,-12.1
+2020-08-25,202008250LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202008250LAC.html,14:21,,,,,0.0,20.9,12.5,6.3,0.0,0.0,100.0,5.9,37,109,-8.7
+2020-08-25,202008250LAC,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/202008250LAC.html,12:59,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.2,0,112,-11.8
+2020-08-25,202008250LAC,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/202008250LAC.html,7:13,1.000,1.000,1.000,.000,0.0,13.9,8.3,16.8,0.0,0.0,0.0,17.5,202,111,20.0
+2020-08-25,202008250LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202008250LAC.html,5:19,.532,.000,1.000,2.000,0.0,0.0,0.0,51.1,0.0,0.0,0.0,14.9,175,113,12.2
+2020-08-25,202008250LAC,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/202008250LAC.html,5:19,1.500,1.500,1.000,.000,0.0,18.8,11.3,69.7,0.0,0.0,0.0,23.8,284,109,57.6

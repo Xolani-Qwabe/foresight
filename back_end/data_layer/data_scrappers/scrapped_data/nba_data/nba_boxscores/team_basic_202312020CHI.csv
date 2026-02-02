@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2023-12-02,202312020CHI,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202312020CHI.html,35.75,10,15,.667,0,0,3,6,.500,0,6,6,6,3,0,2,1,23,21.9,+1,
+2023-12-02,202312020CHI,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202312020CHI.html,35.75,6,11,.545,2,4,1,2,.500,2,8,10,1,0,0,0,3,15,12.6,+13,.500
+2023-12-02,202312020CHI,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202312020CHI.html,35.57,4,11,.364,0,4,9,10,.900,4,3,7,4,3,1,2,1,17,18.3,+5,.000
+2023-12-02,202312020CHI,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202312020CHI.html,29.97,10,15,.667,0,0,7,9,.778,2,3,5,3,1,0,5,3,27,18.9,-12,
+2023-12-02,202312020CHI,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202312020CHI.html,21.8,3,5,.600,1,3,0,0,,0,2,2,2,2,0,1,2,7,6.9,+4,.333
+2023-12-02,202312020CHI,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202312020CHI.html,26.67,2,7,.286,1,4,2,2,1.000,2,1,3,2,1,0,1,3,7,4.8,-8,.250
+2023-12-02,202312020CHI,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202312020CHI.html,24.63,2,6,.333,2,5,4,4,1.000,0,1,1,0,0,0,0,2,10,6.1,-9,.400
+2023-12-02,202312020CHI,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202312020CHI.html,17.78,3,8,.375,2,5,0,0,,0,1,1,2,0,0,1,0,8,4.3,-7,.400
+2023-12-02,202312020CHI,NOP,Cody Zeller,https://www.basketball-reference.com/boxscores/202312020CHI.html,11.97,1,4,.250,0,0,2,2,1.000,3,1,4,0,0,0,0,2,4,3.2,-17,
+2023-12-02,202312020CHI,NOP,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202312020CHI.html,0.07,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-12-02,202312020CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202312020CHI.html,40.2,10,17,.588,8,13,3,3,1.000,2,7,9,6,1,0,3,4,31,27.2,+6,.615
+2023-12-02,202312020CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202312020CHI.html,39.98,10,18,.556,2,4,2,2,1.000,0,5,5,10,0,0,2,3,24,20.7,+2,.500
+2023-12-02,202312020CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202312020CHI.html,32.65,3,12,.250,0,5,0,0,,3,4,7,4,0,3,1,1,6,5.6,+8,.000
+2023-12-02,202312020CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202312020CHI.html,29.28,6,11,.545,1,5,1,4,.250,1,3,4,2,2,2,1,3,14,11.7,-10,.200
+2023-12-02,202312020CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202312020CHI.html,12.58,3,5,.600,2,4,0,0,,0,2,2,2,0,1,1,2,8,6.6,-3,.500
+2023-12-02,202312020CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202312020CHI.html,32.7,6,9,.667,1,4,2,2,1.000,0,0,0,3,2,0,2,2,15,12.4,+8,.250
+2023-12-02,202312020CHI,CHI,Torrey Craig,https://www.basketball-reference.com/boxscores/202312020CHI.html,18.85,5,6,.833,3,4,2,2,1.000,3,3,6,2,0,1,1,3,15,15.7,+16,.750
+2023-12-02,202312020CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202312020CHI.html,15.03,3,7,.429,0,0,1,2,.500,3,5,8,1,0,1,1,2,7,6.1,0,
+2023-12-02,202312020CHI,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202312020CHI.html,14.98,1,2,.500,0,1,0,0,,0,0,0,2,0,0,1,1,2,1.0,-2,.000
+2023-12-02,202312020CHI,CHI,Julian Phillips,https://www.basketball-reference.com/boxscores/202312020CHI.html,3.72,1,1,1.000,0,0,0,0,,0,0,0,0,1,0,0,0,2,2.7,+5,

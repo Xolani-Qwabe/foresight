@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-19,202203190CLE,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202203190CLE.html,36:28,.559,.559,.235,.118,9.4,9.9,9.6,13.5,4.1,2.1,5.3,22.9,120,114,4.3
+2022-03-19,202203190CLE,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202203190CLE.html,36:14,.480,.462,.308,.462,6.3,13.2,9.7,38.5,2.7,2.1,24.2,25.2,100,115,-0.5
+2022-03-19,202203190CLE,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202203190CLE.html,35:14,.797,.750,.409,.318,3.2,3.4,3.3,5.8,1.4,2.2,7.4,34.0,146,121,15.3
+2022-03-19,202203190CLE,DET,Cory Joseph,https://www.basketball-reference.com/boxscores/202203190CLE.html,30:35,.429,.429,.286,.000,3.7,3.9,3.8,13.0,0.0,2.5,12.5,11.6,100,123,-7.9
+2022-03-19,202203190CLE,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202203190CLE.html,22:17,.667,.667,.000,.000,10.3,53.9,31.5,0.0,0.0,0.0,14.3,13.9,120,111,-5.2
+2022-03-19,202203190CLE,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202203190CLE.html,18:58,.515,.333,.667,.667,0.0,6.3,3.1,0.0,2.6,8.2,20.5,11.4,87,113,-4.2
+2022-03-19,202203190CLE,DET,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202203190CLE.html,17:06,.750,.750,.750,.000,0.0,35.1,17.1,15.9,2.9,0.0,0.0,10.4,162,111,5.7
+2022-03-19,202203190CLE,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202203190CLE.html,16:07,.307,.250,.500,.500,0.0,7.4,3.6,23.5,6.1,0.0,17.0,16.2,80,111,-4.5
+2022-03-19,202203190CLE,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202203190CLE.html,13:57,.250,.250,.000,.000,0.0,8.6,4.2,9.2,0.0,0.0,33.3,19.1,44,123,-22.0
+2022-03-19,202203190CLE,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202203190CLE.html,13:04,.500,.500,.800,.000,8.7,9.2,9.0,0.0,0.0,0.0,16.7,20.3,90,124,-10.2
+2022-03-19,202203190CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202203190CLE.html,41:11,.558,.472,.333,.444,0.0,2.8,1.4,39.2,2.4,0.0,15.7,26.5,118,115,1.0
+2022-03-19,202203190CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202203190CLE.html,35:28,.466,.500,.000,.167,6.8,29.0,18.2,22.0,1.4,4.9,23.7,20.4,92,107,-0.2
+2022-03-19,202203190CLE,CLE,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202203190CLE.html,32:49,.450,.438,.500,.250,0.0,13.9,7.1,7.2,0.0,0.0,10.1,12.9,95,117,-7.1
+2022-03-19,202203190CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202203190CLE.html,32:09,.688,.688,.250,.000,3.7,0.0,1.8,8.0,1.5,0.0,0.0,10.7,151,117,1.4
+2022-03-19,202203190CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202203190CLE.html,16:12,.901,.929,.143,.429,7.4,28.2,18.1,0.0,3.1,0.0,10.7,24.6,150,107,12.9
+2022-03-19,202203190CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202203190CLE.html,24:14,.841,.929,.714,.429,5.0,42.4,24.2,11.3,0.0,3.6,10.7,16.5,146,108,10.1
+2022-03-19,202203190CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202203190CLE.html,24:05,.450,.450,.400,.000,0.0,4.7,2.4,10.8,0.0,0.0,16.7,21.3,85,120,-11.2
+2022-03-19,202203190CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202203190CLE.html,20:10,.727,.727,.364,.000,11.9,11.3,11.6,16.8,2.5,0.0,8.3,25.5,139,112,11.4
+2022-03-19,202203190CLE,CLE,Moses Brown,https://www.basketball-reference.com/boxscores/202203190CLE.html,6:53,.074,.000,.000,.800,87.2,0.0,42.5,0.0,7.2,12.7,0.0,42.0,67,96,-23.4
+2022-03-19,202203190CLE,CLE,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202203190CLE.html,6:49,.615,.500,.000,.500,0.0,33.5,17.2,0.0,0.0,0.0,0.0,15.3,135,112,-5.7

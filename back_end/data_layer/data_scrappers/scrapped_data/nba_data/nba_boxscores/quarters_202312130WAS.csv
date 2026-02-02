@@ -1,0 +1,75 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2023-12-13,202312130WAS,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202312130WAS.html,9.95,2,2,1.000,0,0,2,2,1.000,1,3,4,1,1,0,1,1,6,7.3,-7,
+2023-12-13,202312130WAS,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.12,1,3,.333,0,1,0,0,,0,1,1,0,0,0,0,1,2,0.2,-8,.000
+2023-12-13,202312130WAS,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202312130WAS.html,12.0,3,7,.429,0,3,7,7,1.000,0,1,1,0,0,1,1,0,13,9.3,-2,.000
+2023-12-13,202312130WAS,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202312130WAS.html,6.87,1,6,.167,0,1,0,0,,1,1,2,0,0,0,0,2,2,-1.6,-10,.000
+2023-12-13,202312130WAS,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.17,0,3,.000,0,2,0,0,,2,0,2,0,0,0,0,0,0,-0.7,-14,.000
+2023-12-13,202312130WAS,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.83,1,2,.500,0,0,0,0,,0,2,2,0,0,0,0,0,2,1.6,+12,
+2023-12-13,202312130WAS,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.13,0,2,.000,0,1,0,0,,0,1,1,3,2,0,0,0,0,3.0,+8,.000
+2023-12-13,202312130WAS,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.93,1,2,.500,1,2,0,0,,0,1,1,0,2,0,0,0,3,4.3,+11,.500
+2023-12-13,202312130WAS,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.47,2,2,1.000,1,1,0,0,,0,2,2,0,0,0,1,1,5,3.6,+12,1.000
+2023-12-13,202312130WAS,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202312130WAS.html,10.43,4,6,.667,3,3,2,2,1.000,0,2,2,4,0,0,0,1,13,13.4,+17,1.000
+2023-12-13,202312130WAS,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.1,5,5,1.000,1,1,2,2,1.000,0,0,0,1,0,0,0,1,13,11.8,+1,1.000
+2023-12-13,202312130WAS,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.02,1,2,.500,0,0,0,0,,0,0,0,1,1,0,0,1,2,2.3,-7,
+2023-12-13,202312130WAS,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.53,0,0,,0,0,0,0,,0,0,0,0,1,0,0,0,0,1.0,+1,
+2023-12-13,202312130WAS,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202312130WAS.html,10.02,2,4,.500,2,3,0,0,,0,3,3,2,0,1,0,0,6,7.0,+9,.667
+2023-12-13,202312130WAS,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.98,3,4,.750,2,3,0,0,,0,2,2,3,0,0,1,1,8,7.7,+20,.667
+2023-12-13,202312130WAS,NOP,Q2,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202312130WAS.html,6.9,0,1,.000,0,0,0,0,,0,1,1,1,0,0,0,0,0,0.3,+12,
+2023-12-13,202312130WAS,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202312130WAS.html,3.55,0,0,,0,0,0,0,,0,0,0,0,0,0,1,0,0,-1.0,0,
+2023-12-13,202312130WAS,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.63,0,0,,0,0,1,2,.500,0,5,5,1,0,0,1,1,1,1.4,+1,
+2023-12-13,202312130WAS,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.62,2,4,.500,1,2,0,0,,0,0,0,0,0,0,0,0,5,3.0,-5,.500
+2023-12-13,202312130WAS,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202312130WAS.html,12.0,4,8,.500,0,0,2,3,.667,1,0,1,2,0,0,0,1,10,7.3,+6,
+2023-12-13,202312130WAS,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.98,1,1,1.000,0,0,0,0,,0,0,0,0,1,0,1,0,2,1.7,0,
+2023-12-13,202312130WAS,NOP,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.12,1,3,.333,0,2,0,0,,0,2,2,2,1,0,0,0,2,3.3,-4,.000
+2023-12-13,202312130WAS,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202312130WAS.html,6.38,1,1,1.000,1,1,2,2,1.000,0,0,0,1,1,0,0,0,5,6.4,+11,1.000
+2023-12-13,202312130WAS,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202312130WAS.html,6.38,2,2,1.000,0,0,2,2,1.000,0,1,1,1,0,0,0,0,6,6.4,+11,
+2023-12-13,202312130WAS,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.88,1,1,1.000,1,1,1,2,.500,0,0,0,1,0,0,1,1,4,2.6,+10,1.000
+2023-12-13,202312130WAS,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202312130WAS.html,6.77,2,5,.400,0,0,0,0,,2,5,7,1,0,1,1,1,4,4.2,+7,
+2023-12-13,202312130WAS,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.07,1,1,1.000,0,0,0,0,,0,0,0,2,0,0,0,1,2,2.7,+9,
+2023-12-13,202312130WAS,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202312130WAS.html,1.55,2,3,.667,0,0,0,0,,0,0,0,0,0,0,0,0,4,2.7,+7,
+2023-12-13,202312130WAS,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.4,3,3,1.000,3,3,5,6,.833,0,1,1,1,1,0,0,0,14,14.7,+11,1.000
+2023-12-13,202312130WAS,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.02,1,3,.333,0,1,0,0,,0,0,0,0,0,0,0,0,2,0.3,-2,.000
+2023-12-13,202312130WAS,NOP,Q4,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202312130WAS.html,12.0,1,6,.167,0,2,0,0,,1,0,1,0,0,0,0,1,2,-1.5,+3,.000
+2023-12-13,202312130WAS,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202312130WAS.html,3.93,0,0,,0,0,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-6,
+2023-12-13,202312130WAS,NOP,Q4,Cody Zeller,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.23,1,1,1.000,0,0,0,0,,0,0,0,2,0,0,0,1,2,2.7,-4,
+2023-12-13,202312130WAS,NOP,Q4,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202312130WAS.html,3.6,0,1,.000,0,1,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-8,.000
+2023-12-13,202312130WAS,NOP,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202312130WAS.html,2.43,1,2,.500,0,0,0,0,,2,0,2,0,0,0,0,0,2,2.4,-2,
+2023-12-13,202312130WAS,WAS,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202312130WAS.html,12.0,1,3,.333,0,1,0,0,,0,0,0,0,0,0,0,0,2,0.3,+2,.000
+2023-12-13,202312130WAS,WAS,Q1,Deni Avdija,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.12,2,4,.500,1,2,1,1,1.000,0,4,4,3,0,0,1,0,6,6.3,+8,.500
+2023-12-13,202312130WAS,WAS,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312130WAS.html,9.95,5,6,.833,3,4,1,2,.500,0,3,3,0,1,0,1,0,14,12.3,+7,.750
+2023-12-13,202312130WAS,WAS,Q1,Tyus Jones,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.62,1,1,1.000,1,1,0,0,,0,0,0,2,0,0,1,0,3,3.1,+9,1.000
+2023-12-13,202312130WAS,WAS,Q1,Daniel Gafford,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.62,1,1,1.000,0,0,1,2,.500,0,2,2,0,1,1,0,1,3,4.2,+9,
+2023-12-13,202312130WAS,WAS,Q1,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.93,0,1,.000,0,1,0,0,,0,1,1,0,0,0,2,2,0,-3.2,-11,.000
+2023-12-13,202312130WAS,WAS,Q1,Corey Kispert,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.38,0,1,.000,0,1,0,0,,0,1,1,0,0,0,1,1,0,-1.8,-7,.000
+2023-12-13,202312130WAS,WAS,Q1,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.38,0,2,.000,0,0,2,2,1.000,0,1,1,0,0,0,0,0,2,0.9,-7,
+2023-12-13,202312130WAS,WAS,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.1,0,0,,0,0,0,0,,0,1,1,3,0,0,2,0,0,0.4,-1,
+2023-12-13,202312130WAS,WAS,Q2,Deni Avdija,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.03,2,4,.500,0,1,1,1,1.000,0,0,0,2,0,0,0,0,5,4.4,-8,.000
+2023-12-13,202312130WAS,WAS,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.52,3,7,.429,1,2,2,2,1.000,0,0,0,0,0,0,0,1,9,4.9,-5,.500
+2023-12-13,202312130WAS,WAS,Q2,Tyus Jones,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.52,0,1,.000,0,0,0,0,,0,0,0,2,1,0,0,0,0,1.7,-5,
+2023-12-13,202312130WAS,WAS,Q2,Daniel Gafford,https://www.basketball-reference.com/boxscores/202312130WAS.html,3.97,0,0,,0,0,2,2,1.000,0,1,1,0,0,0,0,0,2,2.3,-5,
+2023-12-13,202312130WAS,WAS,Q2,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.52,1,1,1.000,1,1,0,0,,0,0,0,1,0,1,0,0,3,4.1,-5,1.000
+2023-12-13,202312130WAS,WAS,Q2,Corey Kispert,https://www.basketball-reference.com/boxscores/202312130WAS.html,6.9,2,3,.667,2,3,0,0,,0,0,0,0,0,0,0,0,6,4.7,-12,.667
+2023-12-13,202312130WAS,WAS,Q2,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.48,1,2,.500,0,1,0,0,,0,0,0,1,0,0,1,0,2,0.7,-8,.000
+2023-12-13,202312130WAS,WAS,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.48,1,1,1.000,1,1,2,2,1.000,0,0,0,1,1,0,1,0,5,5.4,-8,1.000
+2023-12-13,202312130WAS,WAS,Q2,Anthony Gill,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.48,1,2,.500,0,1,0,0,,0,1,1,0,0,0,0,1,2,0.9,-8,.000
+2023-12-13,202312130WAS,WAS,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202312130WAS.html,12.0,3,8,.375,1,4,0,0,,0,0,0,1,2,1,2,1,7,3.6,-6,.250
+2023-12-13,202312130WAS,WAS,Q3,Deni Avdija,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.98,0,0,,0,0,2,2,1.000,0,1,1,1,0,0,1,1,2,1.6,0,
+2023-12-13,202312130WAS,WAS,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.63,1,3,.333,0,1,0,0,,0,3,3,4,0,1,0,0,2,4.7,-1,.000
+2023-12-13,202312130WAS,WAS,Q3,Tyus Jones,https://www.basketball-reference.com/boxscores/202312130WAS.html,7.6,1,3,.333,1,3,0,0,,0,0,0,0,0,0,0,0,3,1.3,+4,.333
+2023-12-13,202312130WAS,WAS,Q3,Daniel Gafford,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.63,4,5,.800,0,0,0,0,,2,2,4,0,0,0,1,1,8,6.7,-1,
+2023-12-13,202312130WAS,WAS,Q3,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312130WAS.html,6.38,1,1,1.000,0,0,0,0,,0,1,1,0,0,0,0,1,2,1.6,-11,
+2023-12-13,202312130WAS,WAS,Q3,Corey Kispert,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.4,1,2,.500,1,2,0,0,,0,0,0,0,0,0,0,0,3,2.0,-10,.500
+2023-12-13,202312130WAS,WAS,Q3,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202312130WAS.html,2.23,0,0,,0,0,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-1,
+2023-12-13,202312130WAS,WAS,Q3,Anthony Gill,https://www.basketball-reference.com/boxscores/202312130WAS.html,1.13,0,0,,0,0,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,
+2023-12-13,202312130WAS,WAS,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202312130WAS.html,2.38,1,1,1.000,0,0,0,0,,0,0,0,0,0,0,0,1,2,1.3,-5,
+2023-12-13,202312130WAS,WAS,Q4,Deni Avdija,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.45,0,0,,0,0,0,0,,0,0,0,1,0,0,0,0,0,0.7,-4,
+2023-12-13,202312130WAS,WAS,Q4,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312130WAS.html,3.4,1,3,.333,0,1,0,0,,0,1,1,0,0,0,1,0,2,-0.4,-7,.000
+2023-12-13,202312130WAS,WAS,Q4,Tyus Jones,https://www.basketball-reference.com/boxscores/202312130WAS.html,3.4,0,1,.000,0,1,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-7,.000
+2023-12-13,202312130WAS,WAS,Q4,Daniel Gafford,https://www.basketball-reference.com/boxscores/202312130WAS.html,3.4,0,0,,0,0,0,0,,0,0,0,0,0,1,0,1,0,0.3,-7,
+2023-12-13,202312130WAS,WAS,Q4,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312130WAS.html,12.0,4,6,.667,3,4,0,2,.000,1,2,3,0,1,0,0,0,11,9.9,-3,.750
+2023-12-13,202312130WAS,WAS,Q4,Corey Kispert,https://www.basketball-reference.com/boxscores/202312130WAS.html,5.47,1,1,1.000,0,0,1,2,.500,0,2,2,0,0,1,0,1,3,3.2,-6,
+2023-12-13,202312130WAS,WAS,Q4,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.45,1,2,.500,1,2,0,0,,0,0,0,0,0,0,0,0,3,2.0,-4,.500
+2023-12-13,202312130WAS,WAS,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202312130WAS.html,8.6,1,3,.333,1,3,0,0,,0,1,1,3,0,0,0,1,3,3.3,+4,.333
+2023-12-13,202312130WAS,WAS,Q4,Anthony Gill,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.15,0,0,,0,0,0,0,,0,1,1,2,0,0,0,0,0,1.7,+8,
+2023-12-13,202312130WAS,WAS,Q4,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.15,1,1,1.000,1,1,2,2,1.000,0,0,0,1,0,0,0,1,5,5.0,+8,1.000
+2023-12-13,202312130WAS,WAS,Q4,Mike Muscala,https://www.basketball-reference.com/boxscores/202312130WAS.html,4.15,0,2,.000,0,2,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+8,.000

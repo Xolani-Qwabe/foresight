@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-28,202211280UTA,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202211280UTA.html,35:40,.543,.450,.050,.450,5.5,5.9,5.7,26.1,1.4,0.0,0.0,29.0,129,114,5.5
+2022-11-28,202211280UTA,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202211280UTA.html,34:07,.442,.375,.300,.300,0.0,18.4,8.9,21.2,1.5,0.0,4.2,30.0,101,112,-0.9
+2022-11-28,202211280UTA,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202211280UTA.html,33:34,.471,.471,.235,.000,8.8,18.7,13.5,9.1,1.5,0.0,5.6,23.2,105,112,-2.0
+2022-11-28,202211280UTA,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202211280UTA.html,24:32,.512,.375,.500,.500,4.0,17.0,10.3,0.0,2.0,0.0,29.1,12.1,83,110,-6.5
+2022-11-28,202211280UTA,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202211280UTA.html,21:38,.680,.600,.000,.400,9.1,9.6,9.3,18.3,0.0,0.0,14.5,13.8,138,116,0.5
+2022-11-28,202211280UTA,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202211280UTA.html,26:44,.665,.500,.500,2.000,0.0,23.4,11.3,8.7,0.0,5.0,21.0,7.7,120,112,-1.0
+2022-11-28,202211280UTA,CHI,Coby White,https://www.basketball-reference.com/boxscores/202211280UTA.html,22:49,.833,.833,.556,.000,0.0,9.1,4.4,0.0,0.0,0.0,0.0,17.1,163,117,7.0
+2022-11-28,202211280UTA,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202211280UTA.html,14:26,.625,.625,.000,.000,27.1,43.4,35.0,0.0,3.5,0.0,11.1,27.0,125,99,3.0
+2022-11-28,202211280UTA,CHI,Goran Dragić,https://www.basketball-reference.com/boxscores/202211280UTA.html,13:30,.444,.357,.429,.286,7.3,7.7,7.5,19.8,3.7,9.9,0.0,25.2,114,102,6.8
+2022-11-28,202211280UTA,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202211280UTA.html,13:00,1.000,1.000,.000,.000,0.0,16.1,7.8,9.4,0.0,10.3,0.0,3.3,203,111,4.4
+2022-11-28,202211280UTA,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202211280UTA.html,37:54,.847,.861,.611,.111,5.5,18.1,12.0,4.9,0.0,0.0,9.6,25.0,138,121,10.2
+2022-11-28,202211280UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202211280UTA.html,36:57,.252,.233,.533,.133,0.0,15.9,8.2,31.5,0.0,0.0,15.9,23.2,75,122,-13.6
+2022-11-28,202211280UTA,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202211280UTA.html,36:25,.715,.682,.182,.182,2.9,8.1,5.5,24.9,0.0,1.9,20.2,18.6,126,123,0.1
+2022-11-28,202211280UTA,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202211280UTA.html,33:21,.803,.808,.769,.231,6.3,5.9,6.1,19.5,1.5,4.1,12.3,22.2,140,119,12.4
+2022-11-28,202211280UTA,UTA,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202211280UTA.html,22:24,.922,1.125,.250,.500,9.3,21.9,15.8,19.8,2.2,0.0,17.0,11.9,155,115,7.6
+2022-11-28,202211280UTA,UTA,Malik Beasley,https://www.basketball-reference.com/boxscores/202211280UTA.html,32:37,.423,.423,.846,.000,0.0,9.0,4.6,16.8,3.1,0.0,0.0,18.1,101,117,-1.9
+2022-11-28,202211280UTA,UTA,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202211280UTA.html,14:01,.200,.200,.400,.000,0.0,7.0,3.6,27.3,0.0,0.0,0.0,16.2,80,125,-13.7
+2022-11-28,202211280UTA,UTA,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202211280UTA.html,11:35,.300,.300,.800,.000,0.0,25.4,13.1,0.0,4.3,0.0,28.6,27.5,41,109,-19.4
+2022-11-28,202211280UTA,UTA,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202211280UTA.html,9:25,.362,1.000,.000,4.000,11.1,41.6,26.8,0.0,0.0,0.0,0.0,13.3,75,113,-9.5
+2022-11-28,202211280UTA,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202211280UTA.html,5:21,,,,,19.5,36.6,28.3,0.0,0.0,12.6,100.0,8.5,58,105,-6.6

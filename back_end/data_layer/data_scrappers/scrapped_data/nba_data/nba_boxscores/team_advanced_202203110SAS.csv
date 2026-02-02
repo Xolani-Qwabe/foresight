@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-11,202203110SAS,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202203110SAS.html,34:52,.522,.522,.478,.000,2.5,15.0,8.7,35.6,0.0,0.0,14.8,31.2,101,108,2.6
+2022-03-11,202203110SAS,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202203110SAS.html,33:41,.313,.313,.750,.000,2.5,2.6,2.6,20.9,1.4,2.5,11.1,10.8,90,108,-1.9
+2022-03-11,202203110SAS,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202203110SAS.html,31:55,.878,.667,.000,3.333,10.7,32.8,21.7,4.4,0.0,13.4,28.8,13.1,138,93,6.0
+2022-03-11,202203110SAS,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202203110SAS.html,31:22,.261,.179,.429,.214,5.5,8.3,6.9,22.5,7.5,0.0,16.4,23.5,70,94,-2.6
+2022-03-11,202203110SAS,UTA,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202203110SAS.html,28:46,.507,.500,.750,.250,3.0,15.2,9.0,5.2,1.6,3.0,10.1,13.8,102,103,0.4
+2022-03-11,202203110SAS,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202203110SAS.html,24:02,.555,.571,.500,.214,10.7,18.2,14.4,0.0,2.0,3.6,11.5,29.0,102,100,4.7
+2022-03-11,202203110SAS,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202203110SAS.html,19:33,.333,.333,.000,.000,0.0,4.5,2.2,15.3,2.4,0.0,14.3,14.4,75,107,-4.9
+2022-03-11,202203110SAS,UTA,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202203110SAS.html,16:05,.707,.857,.000,.714,21.3,32.6,26.9,0.0,2.9,0.0,17.9,28.1,110,94,5.3
+2022-03-11,202203110SAS,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202203110SAS.html,13:12,.563,.563,.500,.000,0.0,6.6,3.3,0.0,0.0,0.0,0.0,24.4,116,111,2.7
+2022-03-11,202203110SAS,UTA,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202203110SAS.html,6:32,.000,.000,.000,.000,0.0,13.4,6.6,0.0,0.0,0.0,0.0,6.2,0,109,-10.9
+2022-03-11,202203110SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202203110SAS.html,37:19,.398,.367,.467,.200,4.7,18.4,11.6,4.7,0.0,0.0,0.0,18.0,95,103,-3.2
+2022-03-11,202203110SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202203110SAS.html,37:16,.477,.413,.217,.522,0.0,20.7,10.4,23.0,6.4,0.0,12.4,35.6,93,88,7.7
+2022-03-11,202203110SAS,SAS,Josh Richardson,https://www.basketball-reference.com/boxscores/202203110SAS.html,34:26,.571,.429,.429,.857,5.1,5.0,5.0,14.0,1.4,2.7,17.2,13.9,112,105,1.0
+2022-03-11,202203110SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202203110SAS.html,28:31,.550,.545,.000,.545,15.3,18.0,16.7,7.0,0.0,6.5,18.0,24.0,103,100,-1.0
+2022-03-11,202203110SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202203110SAS.html,27:23,.508,.500,.571,.286,0.0,21.9,11.1,6.1,0.0,3.4,20.2,14.8,85,100,-2.5
+2022-03-11,202203110SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202203110SAS.html,29:24,.394,.250,.600,.900,3.0,2.9,2.9,10.6,1.6,3.1,0.0,19.5,98,105,0.4
+2022-03-11,202203110SAS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202203110SAS.html,19:17,.815,.714,.429,.714,13.6,8.9,11.2,31.1,0.0,4.8,9.8,21.7,162,105,19.2
+2022-03-11,202203110SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202203110SAS.html,12:37,.667,.667,.000,.000,6.9,13.6,10.3,0.0,3.8,0.0,25.0,13.0,103,97,2.0
+2022-03-11,202203110SAS,SAS,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202203110SAS.html,7:24,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-4.7
+2022-03-11,202203110SAS,SAS,Jock Landale,https://www.basketball-reference.com/boxscores/202203110SAS.html,6:23,.000,.000,.500,.000,0.0,40.3,20.3,0.0,0.0,0.0,0.0,12.9,0,90,-23.7

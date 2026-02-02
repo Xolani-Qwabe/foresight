@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-04-10,202504100MEM,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202504100MEM.html,37.77,13,19,.684,7,11,.636,11,13,.846,1,4,5,3,1,1,5,3,44,34.6,+15
+2025-04-10,202504100MEM,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202504100MEM.html,35.85,5,5,1.000,0,0,,3,4,.750,0,8,8,4,0,0,1,3,13,14.1,+17
+2025-04-10,202504100MEM,MIN,Julius Randle,https://www.basketball-reference.com/boxscores/202504100MEM.html,34.72,13,22,.591,5,10,.500,0,0,,1,9,10,5,1,0,2,2,31,25.9,+18
+2025-04-10,202504100MEM,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202504100MEM.html,29.73,4,7,.571,2,4,.500,0,0,,1,4,5,1,1,0,2,3,10,7.1,+10
+2025-04-10,202504100MEM,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202504100MEM.html,26.63,2,7,.286,0,4,.000,4,4,1.000,1,1,2,9,1,1,2,5,8,8.9,+29
+2025-04-10,202504100MEM,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202504100MEM.html,24.55,3,8,.375,2,5,.400,2,2,1.000,1,4,5,2,1,0,0,1,10,9.5,-8
+2025-04-10,202504100MEM,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202504100MEM.html,23.93,4,13,.308,1,5,.200,5,5,1.000,3,3,6,1,0,0,2,5,14,6.2,-7
+2025-04-10,202504100MEM,MIN,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202504100MEM.html,21.35,3,5,.600,3,5,.600,0,0,,0,0,0,4,1,1,2,3,9,8.0,-7
+2025-04-10,202504100MEM,MIN,Jaylen Clark,https://www.basketball-reference.com/boxscores/202504100MEM.html,3.22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+7
+2025-04-10,202504100MEM,MIN,Leonard Miller,https://www.basketball-reference.com/boxscores/202504100MEM.html,0.75,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+2
+2025-04-10,202504100MEM,MIN,Rob Dillingham,https://www.basketball-reference.com/boxscores/202504100MEM.html,0.75,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2025-04-10,202504100MEM,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202504100MEM.html,0.75,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2025-04-10,202504100MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202504100MEM.html,38.87,11,18,.611,6,10,.600,0,0,,0,6,6,9,1,1,3,3,28,25.4,-14
+2025-04-10,202504100MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202504100MEM.html,37.22,8,18,.444,4,7,.571,3,3,1.000,1,0,1,1,2,0,2,5,23,13.0,-13
+2025-04-10,202504100MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202504100MEM.html,35.65,13,27,.481,5,13,.385,5,7,.714,1,0,1,6,1,0,5,3,36,21.2,-3
+2025-04-10,202504100MEM,MEM,Zach Edey,https://www.basketball-reference.com/boxscores/202504100MEM.html,29.87,2,4,.500,0,0,,3,4,.750,4,5,9,0,0,1,1,4,7,7.0,-3
+2025-04-10,202504100MEM,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202504100MEM.html,17.93,2,4,.500,1,2,.500,0,0,,0,3,3,1,0,0,1,2,5,2.8,-12
+2025-04-10,202504100MEM,MEM,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202504100MEM.html,32.23,6,11,.545,0,0,,4,7,.571,2,1,3,4,1,0,2,3,16,11.8,-2
+2025-04-10,202504100MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202504100MEM.html,29.85,2,4,.500,1,2,.500,0,0,,0,4,4,5,0,0,1,1,5,6.3,-13
+2025-04-10,202504100MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202504100MEM.html,7.18,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,3,3.3,-3
+2025-04-10,202504100MEM,MEM,Lamar Stevens,https://www.basketball-reference.com/boxscores/202504100MEM.html,3.9,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,0,0,0.9,-7
+2025-04-10,202504100MEM,MEM,GG Jackson II,https://www.basketball-reference.com/boxscores/202504100MEM.html,1.47,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-2
+2025-04-10,202504100MEM,MEM,Jay Huff,https://www.basketball-reference.com/boxscores/202504100MEM.html,1.47,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2025-04-10,202504100MEM,MEM,Yuki Kawamura,https://www.basketball-reference.com/boxscores/202504100MEM.html,1.47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2025-04-10,202504100MEM,MEM,Cam Spencer,https://www.basketball-reference.com/boxscores/202504100MEM.html,1.47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2025-04-10,202504100MEM,MEM,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202504100MEM.html,1.43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2

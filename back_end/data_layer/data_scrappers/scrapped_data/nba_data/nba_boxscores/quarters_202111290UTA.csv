@@ -1,0 +1,77 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-11-29,202111290UTA,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202111290UTA.html,9.1,3,6,.500,1,3,.333,2,2,1.000,1,1,2,1,0,0,0,0,9,7.7,-4
+2021-11-29,202111290UTA,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202111290UTA.html,10.3,2,3,.667,0,0,,0,0,,0,3,3,3,0,1,2,0,4,4.4,+8
+2021-11-29,202111290UTA,POR,Q1,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.4,0,2,.000,0,0,,0,0,,0,3,3,0,0,0,0,0,0,-0.5,+2
+2021-11-29,202111290UTA,POR,Q1,Robert Covington,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.4,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,1,1,1,0,-1.5,+2
+2021-11-29,202111290UTA,POR,Q1,Tony Snell,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.7,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-4
+2021-11-29,202111290UTA,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.6,1,3,.333,1,2,.500,0,0,,0,0,0,0,0,1,0,1,3,1.6,0
+2021-11-29,202111290UTA,POR,Q1,Nassir Little,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.3,1,1,1.000,0,0,,0,0,,0,3,3,2,0,0,0,0,2,4.0,+6
+2021-11-29,202111290UTA,POR,Q1,Cody Zeller,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.6,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,4,3.0,0
+2021-11-29,202111290UTA,POR,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.6,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,0,1,0.9,0
+2021-11-29,202111290UTA,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202111290UTA.html,8.85,1,3,.333,0,0,,0,0,,0,0,0,1,0,0,0,2,2,0.2,-2
+2021-11-29,202111290UTA,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202111290UTA.html,8.58,1,5,.200,1,3,.333,2,2,1.000,0,2,2,1,0,0,0,0,5,3.2,0
+2021-11-29,202111290UTA,POR,Q2,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202111290UTA.html,9.08,5,5,1.000,1,1,1.000,2,2,1.000,3,0,3,0,0,0,0,2,13,12.8,-2
+2021-11-29,202111290UTA,POR,Q2,Robert Covington,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.02,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,-5
+2021-11-29,202111290UTA,POR,Q2,Tony Snell,https://www.basketball-reference.com/boxscores/202111290UTA.html,1.78,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+2021-11-29,202111290UTA,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/202111290UTA.html,9.85,3,4,.750,0,1,.000,0,0,,0,0,0,0,0,0,1,0,6,3.4,-4
+2021-11-29,202111290UTA,POR,Q2,Nassir Little,https://www.basketball-reference.com/boxscores/202111290UTA.html,8.35,0,4,.000,0,2,.000,0,0,,1,1,2,0,0,0,0,1,0,-2.2,0
+2021-11-29,202111290UTA,POR,Q2,Cody Zeller,https://www.basketball-reference.com/boxscores/202111290UTA.html,2.92,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,1,0,-0.5,-4
+2021-11-29,202111290UTA,POR,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.57,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-10
+2021-11-29,202111290UTA,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202111290UTA.html,11.35,2,4,.500,1,2,.500,0,0,,0,1,1,3,0,0,1,0,5,4.4,-4
+2021-11-29,202111290UTA,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.27,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,-13
+2021-11-29,202111290UTA,POR,Q3,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.62,0,0,,0,0,,1,2,.500,0,1,1,1,0,0,0,0,1,1.6,-11
+2021-11-29,202111290UTA,POR,Q3,Robert Covington,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.62,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,1,0,0,-1.0,-11
+2021-11-29,202111290UTA,POR,Q3,Tony Snell,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.38,3,3,1.000,2,2,1.000,0,0,,0,1,1,0,1,0,0,0,8,8.4,+5
+2021-11-29,202111290UTA,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.38,4,4,1.000,2,2,1.000,0,0,,0,1,1,1,0,0,1,0,10,8.8,+5
+2021-11-29,202111290UTA,POR,Q3,Nassir Little,https://www.basketball-reference.com/boxscores/202111290UTA.html,12.0,2,5,.400,1,2,.500,0,0,,0,1,1,0,0,0,0,0,5,2.6,-6
+2021-11-29,202111290UTA,POR,Q3,Cody Zeller,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.38,2,2,1.000,0,0,,0,0,,1,1,2,1,0,0,0,0,4,5.1,+5
+2021-11-29,202111290UTA,POR,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202111290UTA.html,8.4,1,4,.250,0,0,,1,1,1.000,0,0,0,1,0,0,0,1,3,0.9,-7
+2021-11-29,202111290UTA,POR,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.0,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,-0.4,-6
+2021-11-29,202111290UTA,POR,Q4,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.78,4,6,.667,0,0,,2,3,.667,2,1,3,0,0,0,0,1,10,8.3,-4
+2021-11-29,202111290UTA,POR,Q4,Robert Covington,https://www.basketball-reference.com/boxscores/202111290UTA.html,2.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2021-11-29,202111290UTA,POR,Q4,Tony Snell,https://www.basketball-reference.com/boxscores/202111290UTA.html,2.4,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-1
+2021-11-29,202111290UTA,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/202111290UTA.html,8.4,2,4,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,2,5,2.9,-7
+2021-11-29,202111290UTA,POR,Q4,Cody Zeller,https://www.basketball-reference.com/boxscores/202111290UTA.html,3.62,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,2,0,0.2,-3
+2021-11-29,202111290UTA,POR,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.3,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3,-6
+2021-11-29,202111290UTA,POR,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202111290UTA.html,3.6,1,3,.333,0,1,.000,1,2,.500,0,0,0,1,0,0,0,1,3,1.2,-5
+2021-11-29,202111290UTA,POR,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202111290UTA.html,3.6,1,2,.500,0,0,,0,1,.000,0,0,0,0,0,0,0,0,2,0.6,-5
+2021-11-29,202111290UTA,POR,Q4,Greg Brown III,https://www.basketball-reference.com/boxscores/202111290UTA.html,3.6,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-5
+2021-11-29,202111290UTA,POR,Q4,CJ Elleby,https://www.basketball-reference.com/boxscores/202111290UTA.html,3.6,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5
+2021-11-29,202111290UTA,POR,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/202111290UTA.html,3.6,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-5
+2021-11-29,202111290UTA,UTA,Q1,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202111290UTA.html,10.3,1,4,.250,0,1,.000,0,0,,0,0,0,2,1,0,0,0,2,2.0,-8
+2021-11-29,202111290UTA,UTA,Q1,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202111290UTA.html,10.3,1,4,.250,1,2,.500,0,0,,0,1,1,1,0,0,0,0,3,1.6,-8
+2021-11-29,202111290UTA,UTA,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.95,3,5,.600,0,0,,0,0,,0,5,5,0,0,0,0,0,6,5.2,+10
+2021-11-29,202111290UTA,UTA,Q1,Joe Ingles,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.95,1,2,.500,1,2,.500,0,0,,0,0,0,2,0,0,0,0,3,3.4,+10
+2021-11-29,202111290UTA,UTA,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.95,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+10
+2021-11-29,202111290UTA,UTA,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.75,1,5,.200,1,3,.333,0,0,,0,0,0,1,0,0,0,1,3,0.2,-6
+2021-11-29,202111290UTA,UTA,Q1,Rudy Gay,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.75,1,3,.333,0,1,.000,0,0,,0,3,3,1,0,0,0,2,2,1.1,-6
+2021-11-29,202111290UTA,UTA,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.05,1,3,.333,0,0,,0,0,,1,1,2,0,0,1,0,1,2,1.6,-12
+2021-11-29,202111290UTA,UTA,Q2,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.3,3,3,1.000,1,1,1.000,0,0,,0,1,1,2,1,0,1,0,7,7.8,-1
+2021-11-29,202111290UTA,UTA,Q2,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.3,2,3,.667,0,1,.000,1,2,.500,0,0,0,0,0,0,0,0,5,3.3,-1
+2021-11-29,202111290UTA,UTA,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.28,3,3,1.000,0,0,,0,0,,2,3,5,2,0,0,0,2,6,8.0,+1
+2021-11-29,202111290UTA,UTA,Q2,Joe Ingles,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.98,0,2,.000,0,2,.000,0,0,,0,1,1,0,1,0,0,1,0,-0.5,+1
+2021-11-29,202111290UTA,UTA,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.2,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-2
+2021-11-29,202111290UTA,UTA,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202111290UTA.html,8.72,2,3,.667,1,2,.500,2,2,1.000,1,2,3,1,0,0,0,0,7,7.7,+12
+2021-11-29,202111290UTA,UTA,Q2,Rudy Gay,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.7,1,4,.250,1,4,.250,1,2,.500,0,0,0,0,0,0,0,0,4,1.2,+7
+2021-11-29,202111290UTA,UTA,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.72,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,1,1,0.2,+5
+2021-11-29,202111290UTA,UTA,Q2,Trent Forrest,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.8,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,1,0,2,1.7,+8
+2021-11-29,202111290UTA,UTA,Q3,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202111290UTA.html,9.65,6,9,.667,2,4,.500,0,0,,0,0,0,1,2,0,0,0,14,12.8,+10
+2021-11-29,202111290UTA,UTA,Q3,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202111290UTA.html,9.65,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,+10
+2021-11-29,202111290UTA,UTA,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.97,1,1,1.000,0,0,,0,0,,0,1,1,0,1,0,0,0,2,3.0,+7
+2021-11-29,202111290UTA,UTA,Q3,Joe Ingles,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.97,4,4,1.000,3,3,1.000,0,0,,0,1,1,3,0,0,0,1,11,11.8,+7
+2021-11-29,202111290UTA,UTA,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.97,1,2,.500,0,0,,0,0,,0,0,0,2,0,0,1,2,2,0.6,+7
+2021-11-29,202111290UTA,UTA,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.38,2,3,.667,2,3,.667,0,0,,1,0,1,1,0,0,0,0,6,6.1,-5
+2021-11-29,202111290UTA,UTA,Q3,Rudy Gay,https://www.basketball-reference.com/boxscores/202111290UTA.html,6.38,2,4,.500,2,4,.500,0,0,,0,1,1,0,0,0,0,0,6,4.3,-5
+2021-11-29,202111290UTA,UTA,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.03,0,0,,0,0,,0,0,,0,1,1,1,0,1,0,0,0,1.7,-1
+2021-11-29,202111290UTA,UTA,Q4,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.18,2,4,.500,0,2,.000,3,3,1.000,0,1,1,0,0,0,0,2,7,4.5,+10
+2021-11-29,202111290UTA,UTA,Q4,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.18,2,3,.667,1,2,.500,0,0,,1,1,2,0,0,0,0,0,5,4.7,+10
+2021-11-29,202111290UTA,UTA,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202111290UTA.html,9.73,2,2,1.000,0,0,,3,4,.750,1,4,5,1,0,1,0,1,7,8.9,+11
+2021-11-29,202111290UTA,UTA,Q4,Joe Ingles,https://www.basketball-reference.com/boxscores/202111290UTA.html,5.88,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,+5
+2021-11-29,202111290UTA,UTA,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.85,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.7,+6
+2021-11-29,202111290UTA,UTA,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202111290UTA.html,8.4,2,4,.500,2,2,1.000,0,1,.000,0,2,2,0,0,0,0,2,6,3.4,+7
+2021-11-29,202111290UTA,UTA,Q4,Rudy Gay,https://www.basketball-reference.com/boxscores/202111290UTA.html,4.55,0,1,.000,0,1,.000,2,2,1.000,0,1,1,0,0,0,0,0,2,1.6,+1
+2021-11-29,202111290UTA,UTA,Q4,Trent Forrest,https://www.basketball-reference.com/boxscores/202111290UTA.html,7.15,1,1,1.000,0,0,,1,2,.500,1,1,2,2,0,0,0,0,3,4.7,+6
+2021-11-29,202111290UTA,UTA,Q4,Eric Paschall,https://www.basketball-reference.com/boxscores/202111290UTA.html,2.27,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,3,3.3,+1
+2021-11-29,202111290UTA,UTA,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202111290UTA.html,2.27,0,0,,0,0,,2,3,.667,0,0,0,0,0,0,0,0,2,1.6,+1
+2021-11-29,202111290UTA,UTA,Q4,Elijah Hughes,https://www.basketball-reference.com/boxscores/202111290UTA.html,2.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,+1
+2021-11-29,202111290UTA,UTA,Q4,Miye Oni,https://www.basketball-reference.com/boxscores/202111290UTA.html,2.27,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,+1

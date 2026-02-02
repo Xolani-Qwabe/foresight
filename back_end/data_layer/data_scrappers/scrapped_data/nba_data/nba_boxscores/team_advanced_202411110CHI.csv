@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-11,202411110CHI,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202411110CHI.html,34:33,.628,.596,.615,.231,2.5,24.9,11.8,10.6,5.4,0.0,0.0,34.1,129,102,15.4
+2024-11-11,202411110CHI,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202411110CHI.html,31:24,.663,.600,.100,.300,13.9,23.5,17.9,9.0,0.0,0.0,20.9,18.8,121,115,-2.6
+2024-11-11,202411110CHI,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202411110CHI.html,29:55,.464,.441,.294,.176,2.9,4.1,3.4,25.3,6.2,0.0,5.2,26.6,104,104,2.2
+2024-11-11,202411110CHI,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202411110CHI.html,26:17,.514,.429,.000,.571,3.3,18.7,9.7,9.7,0.0,3.7,0.0,13.7,122,113,-2.1
+2024-11-11,202411110CHI,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202411110CHI.html,18:53,.500,.500,.667,.000,0.0,6.5,2.7,6.3,2.4,0.0,0.0,6.5,114,112,-3.2
+2024-11-11,202411110CHI,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202411110CHI.html,24:09,.652,.571,.571,.714,0.0,10.2,4.2,16.1,1.9,0.0,9.8,17.4,129,113,2.3
+2024-11-11,202411110CHI,CLE,Ty Jerome,https://www.basketball-reference.com/boxscores/202411110CHI.html,21:15,.667,.667,.556,.000,8.2,11.6,9.6,42.7,6.5,0.0,18.2,21.3,129,102,11.1
+2024-11-11,202411110CHI,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202411110CHI.html,18:41,.387,.500,.667,.667,0.0,26.4,10.9,12.7,0.0,10.5,0.0,8.6,97,107,1.5
+2024-11-11,202411110CHI,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202411110CHI.html,18:16,.000,.000,1.000,.000,0.0,6.7,2.8,18.3,0.0,0.0,16.7,13.5,32,117,-18.9
+2024-11-11,202411110CHI,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202411110CHI.html,16:37,.575,.550,.500,.100,10.5,22.2,15.4,0.0,2.8,0.0,0.0,25.9,122,108,1.4
+2024-11-11,202411110CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202411110CHI.html,37:18,.658,.577,.846,.385,0.0,16.4,9.6,21.1,5.0,2.5,24.8,22.6,109,106,7.0
+2024-11-11,202411110CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202411110CHI.html,35:51,.636,.650,.350,.050,0.0,14.6,8.5,14.9,0.0,0.0,8.9,26.1,116,119,0.4
+2024-11-11,202411110CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202411110CHI.html,35:38,.500,.500,.538,.000,3.5,22.0,14.3,11.1,1.3,2.6,13.3,17.6,98,112,0.2
+2024-11-11,202411110CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202411110CHI.html,34:53,.630,.633,.200,.133,7.1,15.0,11.7,13.5,1.3,2.6,15.9,22.6,112,115,2.0
+2024-11-11,202411110CHI,CHI,Josh Giddey,https://www.basketball-reference.com/boxscores/202411110CHI.html,31:25,.758,.727,.364,.182,3.9,19.4,13.0,33.1,1.5,2.9,25.2,21.1,125,112,6.9
+2024-11-11,202411110CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202411110CHI.html,30:45,.470,.313,.500,.750,0.0,8.5,5.0,15.7,0.0,0.0,0.0,14.4,119,121,-3.5
+2024-11-11,202411110CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202411110CHI.html,15:08,.500,.500,.000,.000,16.3,11.5,13.5,0.0,0.0,0.0,20.0,13.8,96,120,-9.4
+2024-11-11,202411110CHI,CHI,Julian Phillips,https://www.basketball-reference.com/boxscores/202411110CHI.html,9:49,.000,.000,1.000,.000,12.5,17.8,15.6,0.0,0.0,9.4,50.0,8.5,35,112,-6.4
+2024-11-11,202411110CHI,CHI,Adama Sanogo,https://www.basketball-reference.com/boxscores/202411110CHI.html,4:30,1.000,1.000,.000,.000,27.4,0.0,11.3,0.0,0.0,0.0,50.0,18.5,99,124,-5.4
+2024-11-11,202411110CHI,CHI,Matas Buzelis,https://www.basketball-reference.com/boxscores/202411110CHI.html,3:44,.000,.000,1.000,.000,0.0,23.4,13.7,0.0,0.0,0.0,50.0,22.4,0,116,-31.7
+2024-11-11,202411110CHI,CHI,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202411110CHI.html,0:59,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-42.0

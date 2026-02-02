@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-11-11,202411110SAS,SAC,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202411110SAS.html,37.53,8,15,.533,1,1,1.000,4,5,.800,1,7,8,6,1,2,0,1,21,22.3,-11
+2024-11-11,202411110SAS,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202411110SAS.html,36.12,9,19,.474,2,5,.400,4,4,1.000,1,5,6,3,1,0,1,4,24,17.0,-21
+2024-11-11,202411110SAS,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202411110SAS.html,36.08,11,19,.579,1,3,.333,0,0,,4,8,12,4,2,0,4,5,23,18.1,-9
+2024-11-11,202411110SAS,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202411110SAS.html,28.93,2,7,.286,1,5,.200,0,0,,0,3,3,1,0,0,2,1,5,0.1,-21
+2024-11-11,202411110SAS,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202411110SAS.html,23.8,1,7,.143,0,5,.000,0,0,,0,3,3,3,3,0,1,0,2,2.5,-18
+2024-11-11,202411110SAS,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202411110SAS.html,26.97,3,8,.375,2,6,.333,0,0,,2,2,4,0,1,2,0,1,8,7.6,+2
+2024-11-11,202411110SAS,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202411110SAS.html,22.7,1,6,.167,1,5,.200,0,0,,0,0,0,0,2,0,1,1,3,-0.2,0
+2024-11-11,202411110SAS,SAC,Doug McDermott,https://www.basketball-reference.com/boxscores/202411110SAS.html,13.35,2,6,.333,1,5,.200,0,0,,0,0,0,0,0,0,0,1,5,1.2,+8
+2024-11-11,202411110SAS,SAC,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202411110SAS.html,8.98,2,4,.500,1,3,.333,0,0,,1,0,1,1,1,0,1,0,5,4.4,-14
+2024-11-11,202411110SAS,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202411110SAS.html,1.38,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-4
+2024-11-11,202411110SAS,SAC,Isaac Jones,https://www.basketball-reference.com/boxscores/202411110SAS.html,1.38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2024-11-11,202411110SAS,SAC,Mason Jones,https://www.basketball-reference.com/boxscores/202411110SAS.html,1.38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2024-11-11,202411110SAS,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202411110SAS.html,1.38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2024-11-11,202411110SAS,SAS,Victor Wembanyama,https://www.basketball-reference.com/boxscores/202411110SAS.html,34.03,13,22,.591,6,12,.500,2,2,1.000,4,10,14,6,1,3,3,1,34,33.5,+24
+2024-11-11,202411110SAS,SAS,Stephon Castle,https://www.basketball-reference.com/boxscores/202411110SAS.html,30.97,4,11,.364,2,5,.400,0,0,,1,3,4,6,1,1,3,1,10,8.0,+15
+2024-11-11,202411110SAS,SAS,Harrison Barnes,https://www.basketball-reference.com/boxscores/202411110SAS.html,30.05,3,6,.500,1,3,.333,3,3,1.000,0,5,5,2,0,0,1,1,10,8.5,+14
+2024-11-11,202411110SAS,SAS,Chris Paul,https://www.basketball-reference.com/boxscores/202411110SAS.html,29.7,5,8,.625,2,5,.400,0,0,,1,5,6,11,2,0,1,1,12,18.9,+28
+2024-11-11,202411110SAS,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202411110SAS.html,26.83,5,12,.417,3,8,.375,0,0,,1,5,6,1,0,0,1,2,13,7.7,+25
+2024-11-11,202411110SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202411110SAS.html,25.4,5,9,.556,1,2,.500,0,0,,0,3,3,1,0,0,2,1,11,5.9,-4
+2024-11-11,202411110SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202411110SAS.html,21.37,3,9,.333,3,5,.600,3,3,1.000,1,1,2,4,0,0,1,0,12,9.7,-3
+2024-11-11,202411110SAS,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202411110SAS.html,15.7,3,5,.600,3,5,.600,0,0,,0,2,2,0,0,0,1,1,9,5.9,+7
+2024-11-11,202411110SAS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202411110SAS.html,13.1,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,1,1,2,3,1.2,-6
+2024-11-11,202411110SAS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202411110SAS.html,11.12,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,-4
+2024-11-11,202411110SAS,SAS,Charles Bassey,https://www.basketball-reference.com/boxscores/202411110SAS.html,0.87,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,0,2,2.7,+2
+2024-11-11,202411110SAS,SAS,Sidy Cissoko,https://www.basketball-reference.com/boxscores/202411110SAS.html,0.87,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2

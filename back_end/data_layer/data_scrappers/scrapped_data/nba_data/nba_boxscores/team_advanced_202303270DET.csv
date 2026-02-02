@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-27,202303270DET,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202303270DET.html,34:30,.779,.727,.091,.909,14.5,25.6,20.1,8.2,1.4,4.1,6.1,19.9,162,111,7.9
+2023-03-27,202303270DET,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202303270DET.html,33:40,.733,.733,.533,.000,3.0,0.0,1.5,8.5,0.0,0.0,0.0,18.7,154,126,3.2
+2023-03-27,202303270DET,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202303270DET.html,33:23,.641,.587,.304,.348,9.0,14.7,11.9,27.3,0.0,0.0,7.0,35.8,135,121,5.7
+2023-03-27,202303270DET,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202303270DET.html,31:15,.666,.607,.500,.286,9.6,34.5,22.2,9.0,0.0,2.3,0.0,21.2,153,113,7.0
+2023-03-27,202303270DET,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202303270DET.html,29:56,.354,.333,.778,.222,0.0,6.5,3.3,26.9,1.6,0.0,23.3,18.0,85,120,-8.7
+2023-03-27,202303270DET,MIL,Joe Ingles,https://www.basketball-reference.com/boxscores/202303270DET.html,20:24,.214,.214,.714,.000,0.0,4.8,2.4,22.1,2.4,0.0,12.5,16.4,72,119,-12.7
+2023-03-27,202303270DET,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202303270DET.html,18:04,.438,.438,.750,.000,11.1,16.3,13.7,0.0,0.0,0.0,0.0,18.6,109,120,-9.3
+2023-03-27,202303270DET,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202303270DET.html,15:42,.515,.333,.667,.667,0.0,12.5,6.3,7.3,6.2,4.5,0.0,10.4,129,106,3.4
+2023-03-27,202303270DET,MIL,Jae Crowder,https://www.basketball-reference.com/boxscores/202303270DET.html,12:05,.500,.500,.500,.000,8.3,16.2,12.3,9.7,0.0,0.0,33.3,10.4,95,120,-8.9
+2023-03-27,202303270DET,MIL,Goran Dragić,https://www.basketball-reference.com/boxscores/202303270DET.html,8:54,.000,.000,.500,.000,0.0,0.0,0.0,36.0,0.0,0.0,0.0,9.4,84,125,-13.3
+2023-03-27,202303270DET,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202303270DET.html,1:03,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.9,200,126,29.1
+2023-03-27,202303270DET,MIL,Lindell Wigginton,https://www.basketball-reference.com/boxscores/202303270DET.html,1:03,,,,,0.0,0.0,0.0,100.0,0.0,0.0,,0.0,231,123,2.1
+2023-03-27,202303270DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202303270DET.html,37:18,.365,.353,.176,.294,0.0,8.0,4.0,19.3,2.6,0.0,0.0,21.0,92,127,-7.7
+2023-03-27,202303270DET,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202303270DET.html,35:44,.627,.591,.182,.364,5.5,19.6,12.5,8.2,1.4,0.0,0.0,14.5,141,125,3.0
+2023-03-27,202303270DET,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202303270DET.html,34:30,.900,.900,.200,.000,2.8,14.5,8.6,7.9,0.0,0.0,0.0,5.9,186,130,0.6
+2023-03-27,202303270DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202303270DET.html,31:41,.659,.553,.316,.632,3.1,22.1,12.5,44.3,0.0,0.0,14.1,36.4,128,127,9.1
+2023-03-27,202303270DET,DET,James Wiseman,https://www.basketball-reference.com/boxscores/202303270DET.html,20:20,.509,.417,.083,.333,14.5,14.8,14.6,8.1,2.4,0.0,6.8,29.6,114,125,-1.6
+2023-03-27,202303270DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202303270DET.html,27:40,.705,.727,.000,.364,21.2,14.5,17.9,19.2,1.8,0.0,7.3,20.3,147,126,6.8
+2023-03-27,202303270DET,DET,Cory Joseph,https://www.basketball-reference.com/boxscores/202303270DET.html,24:23,.269,.214,.571,.143,4.0,4.1,4.1,5.0,0.0,0.0,11.8,14.1,68,134,-14.4
+2023-03-27,202303270DET,DET,R.J. Hampton,https://www.basketball-reference.com/boxscores/202303270DET.html,14:46,.190,.143,.714,.286,0.0,20.3,10.1,0.0,0.0,0.0,20.2,27.3,34,128,-25.8
+2023-03-27,202303270DET,DET,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202303270DET.html,13:38,.735,.500,.667,1.333,0.0,0.0,0.0,0.0,0.0,0.0,17.4,17.2,130,135,-7.9

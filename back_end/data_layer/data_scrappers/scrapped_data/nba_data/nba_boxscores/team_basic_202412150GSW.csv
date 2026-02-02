@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-12-15,202412150GSW,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202412150GSW.html,37.85,16,23,.696,6,11,.545,7,9,.778,2,9,11,13,3,2,3,1,45,48.7,+18
+2024-12-15,202412150GSW,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202412150GSW.html,35.33,8,16,.500,1,4,.250,4,5,.800,1,2,3,8,0,0,2,0,21,17.5,+10
+2024-12-15,202412150GSW,DAL,P.J. Washington,https://www.basketball-reference.com/boxscores/202412150GSW.html,34.8,4,7,.571,2,4,.500,3,4,.750,1,3,4,1,1,1,2,2,13,10.5,+20
+2024-12-15,202412150GSW,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202412150GSW.html,30.37,4,4,1.000,0,0,,0,2,.000,2,5,7,3,1,1,2,3,8,9.5,+10
+2024-12-15,202412150GSW,DAL,Klay Thompson,https://www.basketball-reference.com/boxscores/202412150GSW.html,29.42,9,14,.643,7,11,.636,4,5,.800,0,5,5,4,2,1,1,3,29,27.2,+21
+2024-12-15,202412150GSW,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202412150GSW.html,21.35,0,2,.000,0,1,.000,0,0,,0,3,3,4,0,0,2,0,0,0.3,-8
+2024-12-15,202412150GSW,DAL,Quentin Grimes,https://www.basketball-reference.com/boxscores/202412150GSW.html,18.58,5,12,.417,4,8,.500,0,0,,0,2,2,0,1,0,0,0,14,9.2,-11
+2024-12-15,202412150GSW,DAL,Daniel Gafford,https://www.basketball-reference.com/boxscores/202412150GSW.html,16.9,5,7,.714,0,0,,0,0,,4,5,9,1,0,0,3,3,10,7.9,0
+2024-12-15,202412150GSW,DAL,Olivier-Maxence Prosper,https://www.basketball-reference.com/boxscores/202412150GSW.html,13.2,1,2,.500,1,2,.500,0,0,,0,3,3,2,0,0,0,0,3,4.3,-10
+2024-12-15,202412150GSW,DAL,Kessler Edwards,https://www.basketball-reference.com/boxscores/202412150GSW.html,0.73,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-12-15,202412150GSW,DAL,Jazian Gortman,https://www.basketball-reference.com/boxscores/202412150GSW.html,0.73,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-12-15,202412150GSW,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202412150GSW.html,0.73,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-12-15,202412150GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202412150GSW.html,35.43,9,19,.474,7,13,.538,1,1,1.000,0,5,5,10,1,0,2,1,26,23.4,-10
+2024-12-15,202412150GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202412150GSW.html,33.53,11,20,.550,5,9,.556,2,3,.667,1,2,3,4,1,1,1,2,29,23.0,-20
+2024-12-15,202412150GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202412150GSW.html,29.7,9,15,.600,2,3,.667,0,0,,2,1,3,6,0,0,0,4,20,17.4,-10
+2024-12-15,202412150GSW,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202412150GSW.html,26.7,3,11,.273,3,8,.375,0,0,,0,0,0,1,1,0,3,1,9,0.8,-19
+2024-12-15,202412150GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202412150GSW.html,21.37,2,3,.667,0,0,,0,0,,0,3,3,6,0,0,0,0,4,7.8,-15
+2024-12-15,202412150GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202412150GSW.html,29.43,6,14,.429,5,9,.556,4,4,1.000,3,4,7,4,0,0,4,1,21,15.3,+4
+2024-12-15,202412150GSW,GSW,Lindy Waters III,https://www.basketball-reference.com/boxscores/202412150GSW.html,21.45,4,9,.444,4,7,.571,0,0,,2,3,5,2,4,0,0,3,12,13.8,+13
+2024-12-15,202412150GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202412150GSW.html,15.83,1,5,.200,1,3,.333,0,0,,0,1,1,2,0,0,0,1,3,1.2,-1
+2024-12-15,202412150GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202412150GSW.html,14.33,2,2,1.000,0,0,,1,3,.333,3,3,6,3,0,0,0,3,5,7.5,+2
+2024-12-15,202412150GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202412150GSW.html,11.48,2,5,.400,0,2,.000,0,0,,4,0,4,1,1,1,0,1,4,6.1,+6
+2024-12-15,202412150GSW,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202412150GSW.html,0.73,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

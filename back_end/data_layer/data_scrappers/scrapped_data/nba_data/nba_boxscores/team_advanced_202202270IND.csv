@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-27,202202270IND,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202202270IND.html,35:13,.648,.688,.313,.250,0.0,14.3,6.1,43.0,1.4,0.0,10.1,24.5,125,132,5.9
+2022-02-27,202202270IND,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202202270IND.html,35:00,.468,.423,.538,.154,0.0,10.8,4.6,29.9,0.0,0.0,12.6,19.8,101,136,-7.1
+2022-02-27,202202270IND,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202202270IND.html,34:17,.470,.364,.545,.364,5.5,11.1,7.9,14.4,1.4,0.0,7.3,35.1,101,133,-5.1
+2022-02-27,202202270IND,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202202270IND.html,33:38,.532,.000,.500,2.000,2.8,3.8,3.2,0.0,1.5,2.5,34.7,7.5,83,132,-9.8
+2022-02-27,202202270IND,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202202270IND.html,32:37,.500,.500,.000,.000,20.2,15.5,18.2,14.0,1.5,10.3,9.1,14.7,124,124,2.1
+2022-02-27,202202270IND,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202202270IND.html,22:00,.506,.450,.500,.200,0.0,5.7,2.5,0.0,2.2,11.5,0.0,21.6,105,124,1.0
+2022-02-27,202202270IND,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202202270IND.html,17:24,.778,.778,.889,.000,10.8,29.0,18.6,21.9,0.0,0.0,0.0,22.6,158,132,15.7
+2022-02-27,202202270IND,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202202270IND.html,15:21,.625,.625,.500,.000,0.0,41.1,17.6,9.5,0.0,5.5,0.0,11.4,131,125,-1.2
+2022-02-27,202202270IND,BOS,Malik Fitts,https://www.basketball-reference.com/boxscores/202202270IND.html,2:54,.000,.000,1.000,.000,0.0,43.6,18.6,0.0,0.0,0.0,0.0,15.1,0,129,-21.7
+2022-02-27,202202270IND,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202202270IND.html,2:54,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.1,300,138,26.1
+2022-02-27,202202270IND,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202202270IND.html,2:54,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,138,-10.8
+2022-02-27,202202270IND,BOS,Kelan Martin,https://www.basketball-reference.com/boxscores/202202270IND.html,2:54,.000,.000,.000,.000,0.0,43.6,18.6,0.0,0.0,0.0,0.0,30.1,0,129,-34.9
+2022-02-27,202202270IND,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202202270IND.html,2:54,.000,.000,1.000,.000,0.0,43.6,18.6,42.4,0.0,0.0,50.0,30.1,27,129,-23.7
+2022-02-27,202202270IND,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202202270IND.html,38:10,.643,.600,.467,.200,0.0,14.8,8.5,13.6,2.6,0.0,10.9,20.4,127,109,3.4
+2022-02-27,202202270IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202202270IND.html,34:31,.854,.833,.500,.167,0.0,10.9,6.3,34.9,1.4,2.9,13.4,18.3,162,111,14.1
+2022-02-27,202202270IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202202270IND.html,33:32,.833,.857,.643,.357,7.5,11.2,9.6,0.0,0.0,0.0,0.0,20.6,169,116,11.2
+2022-02-27,202202270IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202202270IND.html,29:18,.678,.615,.154,.308,0.0,19.3,11.0,23.1,3.3,3.4,11.9,24.3,134,103,10.1
+2022-02-27,202202270IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202202270IND.html,20:13,.799,.833,.000,.333,12.5,9.3,10.7,0.0,0.0,14.8,30.4,20.8,109,107,-1.1
+2022-02-27,202202270IND,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202202270IND.html,26:06,.463,.409,.273,.182,4.8,10.8,8.3,4.6,3.8,0.0,14.4,22.6,92,107,-5.4
+2022-02-27,202202270IND,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202202270IND.html,25:54,.551,.500,.500,.200,14.6,25.4,20.8,9.4,0.0,0.0,0.0,17.9,139,111,3.5
+2022-02-27,202202270IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202202270IND.html,16:21,.333,.333,.000,.000,7.7,23.0,16.5,13.3,0.0,0.0,40.0,13.0,75,111,-9.7
+2022-02-27,202202270IND,IND,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202202270IND.html,11:41,.167,.167,.167,.000,10.8,16.1,13.8,19.2,0.0,0.0,14.3,25.5,63,114,-19.7
+2022-02-27,202202270IND,IND,Keifer Sykes,https://www.basketball-reference.com/boxscores/202202270IND.html,2:07,,,,,0.0,44.5,25.5,0.0,0.0,0.0,,0.0,0,104,-1.1
+2022-02-27,202202270IND,IND,Terry Taylor,https://www.basketball-reference.com/boxscores/202202270IND.html,2:07,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-5.0

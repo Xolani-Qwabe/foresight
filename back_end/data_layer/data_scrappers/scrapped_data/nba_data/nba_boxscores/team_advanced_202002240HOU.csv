@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-24,202002240HOU,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202002240HOU.html,33:57,.523,.529,.294,.412,2.9,16.4,9.2,14.8,1.4,0.0,19.9,29.3,92,123,-7.1
+2020-02-24,202002240HOU,NYK,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202002240HOU.html,29:26,.528,.458,.167,.417,3.3,22.8,12.4,25.6,11.0,0.0,17.4,23.1,107,101,8.5
+2020-02-24,202002240HOU,NYK,Maurice Harkless,https://www.basketball-reference.com/boxscores/202002240HOU.html,28:21,.583,.583,.500,.000,0.0,3.9,1.8,4.8,1.6,8.9,0.0,8.4,132,117,-2.9
+2020-02-24,202002240HOU,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202002240HOU.html,27:42,.485,.357,.143,.571,17.7,28.2,22.6,16.6,1.7,0.0,18.6,30.8,102,121,-5.1
+2020-02-24,202002240HOU,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202002240HOU.html,12:11,.600,.600,.000,.000,24.1,18.3,21.4,0.0,0.0,0.0,0.0,16.3,143,125,-2.7
+2020-02-24,202002240HOU,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202002240HOU.html,25:47,.740,.800,.000,.800,19.0,13.0,16.2,11.4,3.6,24.5,12.9,11.9,148,102,7.7
+2020-02-24,202002240HOU,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/202002240HOU.html,24:34,.510,.400,.300,.400,0.0,36.4,17.0,12.1,0.0,0.0,7.8,20.6,112,124,-5.6
+2020-02-24,202002240HOU,NYK,Reggie Bullock,https://www.basketball-reference.com/boxscores/202002240HOU.html,21:39,.300,.300,.600,.000,0.0,5.2,2.4,17.6,0.0,5.8,0.0,9.1,100,123,-6.7
+2020-02-24,202002240HOU,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/202002240HOU.html,17:41,.643,.643,.857,.000,0.0,25.3,11.8,8.5,0.0,0.0,12.5,17.9,120,125,-2.7
+2020-02-24,202002240HOU,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/202002240HOU.html,12:20,.250,.250,.500,.000,0.0,9.1,4.2,0.0,0.0,0.0,14.3,22.5,50,126,-20.9
+2020-02-24,202002240HOU,NYK,Allonzo Trier,https://www.basketball-reference.com/boxscores/202002240HOU.html,6:22,.922,1.000,.500,.500,15.4,0.0,8.2,0.0,0.0,0.0,17.0,36.6,130,128,21.1
+2020-02-24,202002240HOU,HOU,James Harden,https://www.basketball-reference.com/boxscores/202002240HOU.html,33:52,.639,.640,.440,.360,6.6,11.6,9.2,55.1,2.7,0.0,17.2,44.0,117,109,8.1
+2020-02-24,202002240HOU,HOU,Robert Covington,https://www.basketball-reference.com/boxscores/202002240HOU.html,30:04,.550,.550,.800,.000,0.0,22.8,12.1,4.4,1.5,10.3,9.1,15.6,99,101,1.8
+2020-02-24,202002240HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202002240HOU.html,28:00,.498,.346,.538,.538,0.0,0.0,0.0,9.5,3.3,0.0,15.7,29.0,91,112,-9.0
+2020-02-24,202002240HOU,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202002240HOU.html,25:50,.610,.500,.333,.833,4.3,15.2,10.1,19.9,1.8,3.0,0.0,13.5,146,108,4.4
+2020-02-24,202002240HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202002240HOU.html,24:51,.333,.333,.667,.000,4.5,15.8,10.5,4.7,1.9,3.1,0.0,5.1,102,107,-2.5
+2020-02-24,202002240HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202002240HOU.html,29:13,.715,.727,.818,.182,0.0,10.1,5.4,0.0,0.0,0.0,14.4,20.2,112,115,-3.8
+2020-02-24,202002240HOU,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/202002240HOU.html,24:13,.751,.750,.375,.375,0.0,4.0,2.2,6.0,0.0,0.0,9.7,18.2,133,117,-3.6
+2020-02-24,202002240HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202002240HOU.html,16:06,1.160,1.167,.333,.667,0.0,12.2,6.5,8.8,5.7,4.8,0.0,10.3,238,99,15.9
+2020-02-24,202002240HOU,HOU,DeMarre Carroll,https://www.basketball-reference.com/boxscores/202002240HOU.html,14:24,.554,.700,.600,.600,0.0,27.2,14.5,0.0,3.2,0.0,0.0,18.7,102,101,-1.4
+2020-02-24,202002240HOU,HOU,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202002240HOU.html,10:23,.000,.000,1.000,.000,0.0,28.3,15.1,10.8,4.4,0.0,0.0,4.1,59,98,-1.8
+2020-02-24,202002240HOU,HOU,Bruno Caboclo,https://www.basketball-reference.com/boxscores/202002240HOU.html,3:04,.000,.000,1.000,.000,36.4,31.9,34.0,0.0,0.0,0.0,0.0,13.9,74,107,-16.3

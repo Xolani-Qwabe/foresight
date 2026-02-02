@@ -1,0 +1,75 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-11-12,201911120PHI,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.53,1,3,.333,0,1,.000,0,0,0,1,1,1,1,0,2,0,2,0.3,0,
+2019-11-12,201911120PHI,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.08,3,5,.600,1,1,1.000,0,0,1,0,1,0,0,0,0,1,7,5.0,-2,
+2019-11-12,201911120PHI,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.55,1,2,.500,0,0,,0,0,0,1,1,0,0,0,1,1,2,-0.1,0,
+2019-11-12,201911120PHI,CLE,Q1,Kevin Love,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.95,1,2,.500,0,0,,2,2,0,4,4,0,0,0,1,0,4,3.2,+2,1.000
+2019-11-12,201911120PHI,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.95,0,2,.000,0,1,.000,0,0,0,2,2,1,0,0,0,1,0,-0.5,+2,
+2019-11-12,201911120PHI,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,5.97,1,2,.500,0,1,.000,0,0,0,2,2,1,1,0,0,0,2,3.3,-6,
+2019-11-12,201911120PHI,CLE,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.05,1,2,.500,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.0,-5,
+2019-11-12,201911120PHI,CLE,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.45,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2019-11-12,201911120PHI,CLE,Q1,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911120PHI.html,2.47,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,1,2,0.3,-3,
+2019-11-12,201911120PHI,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/201911120PHI.html,5.43,1,4,.250,0,0,,2,2,1,1,2,1,0,0,0,1,4,2.9,+3,1.000
+2019-11-12,201911120PHI,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911120PHI.html,6.57,3,4,.750,1,1,1.000,0,0,1,2,3,0,0,0,1,1,7,5.3,-6,
+2019-11-12,201911120PHI,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/201911120PHI.html,10.08,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2019-11-12,201911120PHI,CLE,Q2,Kevin Love,https://www.basketball-reference.com/boxscores/201911120PHI.html,5.43,1,3,.333,1,3,.333,4,4,0,1,1,0,0,0,1,0,7,4.6,+3,1.000
+2019-11-12,201911120PHI,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.1,2,4,.500,0,1,.000,0,0,0,1,1,1,1,0,0,1,4,3.6,+1,
+2019-11-12,201911120PHI,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.18,0,1,.000,0,0,,0,0,0,2,2,0,0,0,0,1,0,-0.5,-4,
+2019-11-12,201911120PHI,CLE,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911120PHI.html,10.38,2,4,.500,0,0,,1,1,0,1,1,1,0,0,0,0,5,4.0,-5,1.000
+2019-11-12,201911120PHI,CLE,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,1.92,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-5,
+2019-11-12,201911120PHI,CLE,Q2,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.9,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-4,
+2019-11-12,201911120PHI,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.8,4,7,.571,0,2,.000,0,0,0,1,1,2,1,0,0,0,8,7.4,-1,
+2019-11-12,201911120PHI,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.28,1,1,1.000,0,0,,1,2,0,3,3,0,0,0,0,0,3,3.2,+3,.500
+2019-11-12,201911120PHI,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.03,1,3,.333,0,1,.000,0,0,0,0,0,1,1,0,0,1,2,1.6,+2,
+2019-11-12,201911120PHI,CLE,Q3,Kevin Love,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.88,3,8,.375,1,2,.500,2,3,1,2,3,1,0,0,0,0,9,6.2,0,.667
+2019-11-12,201911120PHI,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.48,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2019-11-12,201911120PHI,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,6.83,1,1,1.000,0,0,,0,0,2,3,5,0,1,0,1,0,2,4.0,+1,
+2019-11-12,201911120PHI,CLE,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.52,1,4,.250,0,1,.000,2,4,1,1,2,1,0,0,0,0,4,2.5,+4,.500
+2019-11-12,201911120PHI,CLE,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.97,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2019-11-12,201911120PHI,CLE,Q3,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911120PHI.html,2.2,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,+3,
+2019-11-12,201911120PHI,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.53,2,4,.500,0,0,,0,0,0,1,1,0,0,0,2,0,4,0.3,-4,
+2019-11-12,201911120PHI,CLE,Q4,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.63,0,3,.000,0,1,.000,0,0,2,3,5,0,1,0,2,1,0,-1.2,+3,
+2019-11-12,201911120PHI,CLE,Q4,Cedi Osman,https://www.basketball-reference.com/boxscores/201911120PHI.html,5.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2019-11-12,201911120PHI,CLE,Q4,Kevin Love,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.23,0,3,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-2.1,-4,
+2019-11-12,201911120PHI,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.73,1,3,.333,0,0,,0,0,0,0,0,0,2,0,0,0,2,2.3,-2,
+2019-11-12,201911120PHI,CLE,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.13,0,0,,0,0,,0,0,0,1,1,0,1,0,0,0,0,1.3,+7,
+2019-11-12,201911120PHI,CLE,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.27,4,6,.667,1,3,.333,0,0,0,1,1,0,0,0,0,0,9,6.7,+5,
+2019-11-12,201911120PHI,CLE,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.0,1,1,1.000,0,0,,2,2,0,1,1,1,0,0,0,1,4,4.3,+9,1.000
+2019-11-12,201911120PHI,CLE,Q4,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.47,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+7,
+2019-11-12,201911120PHI,PHI,Q1,Joel Embiid,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.48,2,5,.400,1,3,.333,2,2,0,4,4,2,0,0,0,1,7,6.5,0,1.000
+2019-11-12,201911120PHI,PHI,Q1,Ben Simmons,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.55,2,2,1.000,0,0,,0,2,0,0,0,2,2,1,1,2,4,4.9,0,.000
+2019-11-12,201911120PHI,PHI,Q1,Josh Richardson,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.48,4,6,.667,0,2,.000,0,0,0,0,0,0,0,0,1,0,8,4.4,0,
+2019-11-12,201911120PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.95,0,5,.000,0,5,.000,0,0,0,1,1,0,0,0,0,0,0,-3.2,-2,
+2019-11-12,201911120PHI,PHI,Q1,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.55,0,1,.000,0,1,.000,0,0,1,1,2,1,0,0,1,0,0,0.0,0,
+2019-11-12,201911120PHI,PHI,Q1,Mike Scott,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.05,0,0,,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.7,+5,
+2019-11-12,201911120PHI,PHI,Q1,James Ennis III,https://www.basketball-reference.com/boxscores/201911120PHI.html,2.52,1,1,1.000,0,0,,3,3,0,0,0,0,0,0,0,0,5,4.7,+3,1.000
+2019-11-12,201911120PHI,PHI,Q1,Raul Neto,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.45,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+3,
+2019-11-12,201911120PHI,PHI,Q1,Matisse Thybulle,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.45,0,0,,0,0,,0,0,0,0,0,0,1,1,0,0,0,1.7,+3,
+2019-11-12,201911120PHI,PHI,Q1,Kyle O'Quinn,https://www.basketball-reference.com/boxscores/201911120PHI.html,2.52,0,0,,0,0,,0,0,0,2,2,0,1,0,0,0,0,1.6,+3,
+2019-11-12,201911120PHI,PHI,Q2,Joel Embiid,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.98,2,6,.333,1,1,1.000,2,3,1,4,5,2,0,1,1,0,7,6.2,+6,.667
+2019-11-12,201911120PHI,PHI,Q2,Ben Simmons,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.1,4,5,.800,0,0,,0,0,1,1,2,1,0,0,0,0,8,7.8,-1,
+2019-11-12,201911120PHI,PHI,Q2,Josh Richardson,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.32,1,3,.333,0,2,.000,0,0,0,0,0,1,0,0,0,2,2,0.2,+4,
+2019-11-12,201911120PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/201911120PHI.html,6.57,2,4,.500,0,1,.000,0,0,0,2,2,2,0,0,0,0,4,4.0,+6,
+2019-11-12,201911120PHI,PHI,Q2,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201911120PHI.html,6.2,1,4,.250,0,2,.000,0,0,0,1,1,0,0,0,0,0,2,-0.1,-2,
+2019-11-12,201911120PHI,PHI,Q2,Mike Scott,https://www.basketball-reference.com/boxscores/201911120PHI.html,5.43,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,2,2,0.9,-3,
+2019-11-12,201911120PHI,PHI,Q2,James Ennis III,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.68,0,1,.000,0,1,.000,0,0,0,0,0,2,0,0,0,0,0,0.7,-1,
+2019-11-12,201911120PHI,PHI,Q2,Raul Neto,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.9,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+4,
+2019-11-12,201911120PHI,PHI,Q2,Matisse Thybulle,https://www.basketball-reference.com/boxscores/201911120PHI.html,5.8,1,1,1.000,1,1,1.000,0,0,1,0,1,1,1,0,0,0,3,5.1,+5,
+2019-11-12,201911120PHI,PHI,Q2,Kyle O'Quinn,https://www.basketball-reference.com/boxscores/201911120PHI.html,2.02,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,-3,
+2019-11-12,201911120PHI,PHI,Q3,Joel Embiid,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.15,3,4,.750,1,1,1.000,0,0,0,4,4,0,0,0,1,0,7,5.6,-4,
+2019-11-12,201911120PHI,PHI,Q3,Ben Simmons,https://www.basketball-reference.com/boxscores/201911120PHI.html,9.8,1,2,.500,0,0,,1,1,0,2,2,2,0,1,1,1,3,3.3,+1,1.000
+2019-11-12,201911120PHI,PHI,Q3,Josh Richardson,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.92,2,6,.333,1,2,.500,2,2,0,1,1,2,1,0,1,0,7,5.3,-1,1.000
+2019-11-12,201911120PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.48,0,3,.000,0,3,.000,0,0,0,0,0,1,0,0,1,2,0,-3.2,+2,
+2019-11-12,201911120PHI,PHI,Q3,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.28,3,3,1.000,2,2,1.000,0,0,0,1,1,0,0,0,1,1,8,6.0,+1,
+2019-11-12,201911120PHI,PHI,Q3,Mike Scott,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.52,1,1,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,0,3,3.3,-4,
+2019-11-12,201911120PHI,PHI,Q3,James Ennis III,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.33,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-1,
+2019-11-12,201911120PHI,PHI,Q3,Raul Neto,https://www.basketball-reference.com/boxscores/201911120PHI.html,2.2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2019-11-12,201911120PHI,PHI,Q3,Matisse Thybulle,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.47,0,0,,0,0,,0,0,0,1,1,0,0,2,0,2,0,0.9,-3,
+2019-11-12,201911120PHI,PHI,Q3,Kyle O'Quinn,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.85,0,0,,0,0,,0,0,0,1,1,1,0,1,1,1,0,0.3,+2,
+2019-11-12,201911120PHI,PHI,Q4,Joel Embiid,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.47,3,5,.600,0,0,,0,0,1,2,3,0,1,1,0,1,6,6.3,-1,
+2019-11-12,201911120PHI,PHI,Q4,Ben Simmons,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.53,0,0,,0,0,,0,0,0,1,1,1,0,0,2,0,0,-1.0,+4,
+2019-11-12,201911120PHI,PHI,Q4,Josh Richardson,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.47,0,2,.000,0,2,.000,0,0,0,0,0,2,0,0,1,0,0,-1.0,-1,
+2019-11-12,201911120PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/201911120PHI.html,10.6,2,5,.400,0,2,.000,0,0,2,0,2,1,0,0,0,2,4,2.6,-5,
+2019-11-12,201911120PHI,PHI,Q4,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201911120PHI.html,8.32,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+4,
+2019-11-12,201911120PHI,PHI,Q4,Mike Scott,https://www.basketball-reference.com/boxscores/201911120PHI.html,4.93,2,5,.400,0,2,.000,0,0,1,4,5,0,0,0,0,0,4,3.2,0,
+2019-11-12,201911120PHI,PHI,Q4,James Ennis III,https://www.basketball-reference.com/boxscores/201911120PHI.html,7.22,1,3,.333,0,1,.000,0,0,1,0,1,0,1,0,1,1,2,0.6,-9,
+2019-11-12,201911120PHI,PHI,Q4,Raul Neto,https://www.basketball-reference.com/boxscores/201911120PHI.html,3.47,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,

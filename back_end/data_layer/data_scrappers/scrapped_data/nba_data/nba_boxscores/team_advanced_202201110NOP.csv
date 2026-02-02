@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-11,202201110NOP,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202201110NOP.html,41:41,.624,.594,.250,.688,9.1,18.0,13.2,18.2,3.4,2.7,12.6,24.4,125,124,2.4
+2022-01-11,202201110NOP,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202201110NOP.html,36:57,.640,.619,.571,.095,6.8,8.1,7.4,22.4,1.3,0.0,12.1,28.7,123,132,1.9
+2022-01-11,202201110NOP,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202201110NOP.html,33:39,.567,.533,.667,.133,0.0,4.5,2.0,42.7,1.4,0.0,11.2,22.6,127,132,-0.4
+2022-01-11,202201110NOP,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202201110NOP.html,25:57,.515,.500,.000,.667,9.7,17.3,13.2,10.1,5.5,0.0,11.4,14.4,115,120,-3.6
+2022-01-11,202201110NOP,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202201110NOP.html,21:25,.644,.500,.167,.667,0.0,21.0,9.6,12.7,6.7,5.2,20.5,19.4,114,115,4.5
+2022-01-11,202201110NOP,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202201110NOP.html,30:29,.900,.900,.800,.000,4.1,14.8,9.0,0.0,0.0,0.0,0.0,14.0,169,134,4.8
+2022-01-11,202201110NOP,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202201110NOP.html,27:31,.549,.333,.333,.833,4.6,27.3,15.0,9.1,0.0,0.0,19.6,15.8,109,131,-7.8
+2022-01-11,202201110NOP,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202201110NOP.html,7:54,1.025,1.250,.500,.500,0.0,0.0,0.0,20.4,0.0,14.1,0.0,13.2,191,129,14.8
+2022-01-11,202201110NOP,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202201110NOP.html,6:34,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,17.0,0.0,6.5,0,127,-9.6
+2022-01-11,202201110NOP,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202201110NOP.html,6:04,.333,.333,.333,.000,0.0,24.7,11.3,0.0,0.0,0.0,0.0,21.1,71,131,-21.5
+2022-01-11,202201110NOP,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202201110NOP.html,1:49,.568,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.6,123,136,-8.0
+2022-01-11,202201110NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202201110NOP.html,37:00,.778,.737,.368,.263,0.0,13.7,7.4,42.1,1.3,2.8,19.1,30.3,134,124,10.6
+2022-01-11,202201110NOP,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202201110NOP.html,35:58,.631,.607,.286,.429,12.5,21.1,17.2,21.3,1.3,0.0,15.3,23.3,125,124,-0.4
+2022-01-11,202201110NOP,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202201110NOP.html,31:45,.491,.389,.778,.556,9.4,8.0,8.6,16.1,1.5,0.0,15.2,17.8,113,126,-4.4
+2022-01-11,202201110NOP,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202201110NOP.html,28:17,.593,.429,.000,1.286,15.9,40.2,29.1,23.0,0.0,0.0,26.7,22.6,116,123,-2.6
+2022-01-11,202201110NOP,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202201110NOP.html,24:59,.902,.833,.333,.667,0.0,0.0,0.0,5.6,0.0,0.0,0.0,13.3,187,131,2.0
+2022-01-11,202201110NOP,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202201110NOP.html,27:02,.712,.800,.600,.600,0.0,9.3,5.1,29.0,1.8,0.0,38.8,16.3,103,125,-0.1
+2022-01-11,202201110NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202201110NOP.html,19:27,.903,1.000,.000,1.000,0.0,6.5,3.5,0.0,2.5,0.0,12.2,18.0,144,124,0.2
+2022-01-11,202201110NOP,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202201110NOP.html,17:58,.417,.417,.833,.000,0.0,28.1,15.3,0.0,0.0,0.0,14.3,16.7,72,125,-12.5
+2022-01-11,202201110NOP,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202201110NOP.html,11:40,.500,.500,1.000,.000,12.9,0.0,5.9,32.6,4.1,0.0,0.0,11.0,156,121,1.3
+2022-01-11,202201110NOP,NOP,Gary Clark,https://www.basketball-reference.com/boxscores/202201110NOP.html,5:54,1.500,1.500,1.000,.000,0.0,21.4,11.6,0.0,0.0,0.0,0.0,14.5,300,127,27.2

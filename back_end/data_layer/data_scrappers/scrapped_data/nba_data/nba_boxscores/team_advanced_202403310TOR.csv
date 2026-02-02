@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-31,202403310TOR,PHI,Kyle Lowry,https://www.basketball-reference.com/boxscores/202403310TOR.html,37:50,.917,.917,.833,.000,4.0,0.0,1.8,28.9,1.3,4.2,25.0,9.7,173,124,3.9
+2024-03-31,202403310TOR,PHI,Cameron Payne,https://www.basketball-reference.com/boxscores/202403310TOR.html,37:37,.750,.750,.625,.000,0.0,3.4,1.8,10.2,0.0,0.0,11.1,21.9,138,129,-5.5
+2024-03-31,202403310TOR,PHI,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202403310TOR.html,36:59,.693,.650,.550,.350,8.1,17.5,13.2,10.8,2.7,4.3,14.8,33.5,129,118,0.0
+2024-03-31,202403310TOR,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202403310TOR.html,30:02,.711,.654,.231,.308,15.0,25.9,20.8,13.2,0.0,8.0,6.3,24.0,155,120,2.4
+2024-03-31,202403310TOR,PHI,Mo Bamba,https://www.basketball-reference.com/boxscores/202403310TOR.html,13:19,.515,.333,.667,.667,0.0,39.0,20.9,7.9,3.7,6.0,20.5,16.7,102,111,-5.2
+2024-03-31,202403310TOR,PHI,Nicolas Batum,https://www.basketball-reference.com/boxscores/202403310TOR.html,28:18,1.188,1.188,.750,.000,5.3,22.9,14.7,9.1,3.5,0.0,0.0,12.9,234,120,15.3
+2024-03-31,202403310TOR,PHI,Buddy Hield,https://www.basketball-reference.com/boxscores/202403310TOR.html,21:51,.929,.929,.714,.000,0.0,17.8,9.6,17.3,0.0,3.7,30.0,20.9,129,124,0.4
+2024-03-31,202403310TOR,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202403310TOR.html,17:47,.541,.571,.143,.429,0.0,14.6,7.8,0.0,0.0,4.5,0.0,21.4,111,124,-14.5
+2024-03-31,202403310TOR,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202403310TOR.html,10:17,.500,.500,.000,.000,14.6,50.5,33.8,21.1,0.0,0.0,0.0,8.9,166,123,-1.1
+2024-03-31,202403310TOR,PHI,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202403310TOR.html,4:45,.000,.000,.000,.000,31.6,0.0,14.6,20.6,0.0,0.0,66.7,28.9,53,130,-34.7
+2024-03-31,202403310TOR,PHI,Ricky Council IV,https://www.basketball-reference.com/boxscores/202403310TOR.html,1:14,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,130,-10.8
+2024-03-31,202403310TOR,TOR,Bruce Brown,https://www.basketball-reference.com/boxscores/202403310TOR.html,33:53,.911,.944,.444,.222,3.8,13.3,8.2,22.9,2.9,0.0,16.8,15.2,151,138,4.5
+2024-03-31,202403310TOR,TOR,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202403310TOR.html,31:56,.922,.938,.250,.500,8.1,14.1,10.9,45.3,4.6,0.0,33.9,20.0,137,133,9.0
+2024-03-31,202403310TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202403310TOR.html,31:50,.575,.575,.450,.000,0.0,9.4,4.4,9.4,3.1,0.0,4.8,28.6,108,138,-4.3
+2024-03-31,202403310TOR,TOR,Javon Freeman-Liberty,https://www.basketball-reference.com/boxscores/202403310TOR.html,31:18,.463,.409,.273,.182,4.1,28.8,15.6,7.5,1.6,0.0,7.8,17.8,98,138,-10.7
+2024-03-31,202403310TOR,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202403310TOR.html,31:06,.542,.438,.375,.875,0.0,0.0,0.0,7.3,3.2,0.0,15.3,18.2,100,140,-9.9
+2024-03-31,202403310TOR,TOR,Jordan Nwora,https://www.basketball-reference.com/boxscores/202403310TOR.html,30:26,.515,.500,.389,.056,8.5,9.9,9.1,13.8,0.0,3.9,5.1,27.7,108,144,-6.3
+2024-03-31,202403310TOR,TOR,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202403310TOR.html,17:56,.581,.500,.167,.333,0.0,33.5,15.5,6.9,0.0,0.0,0.0,16.6,125,142,-6.9
+2024-03-31,202403310TOR,TOR,Kobi Simmons,https://www.basketball-reference.com/boxscores/202403310TOR.html,15:31,.500,.500,.167,.000,0.0,9.7,4.5,24.6,0.0,0.0,0.0,16.8,119,146,-8.5
+2024-03-31,202403310TOR,TOR,Garrett Temple,https://www.basketball-reference.com/boxscores/202403310TOR.html,9:22,.500,.500,.000,.000,0.0,32.0,14.9,0.0,0.0,0.0,0.0,9.3,98,142,-15.7
+2024-03-31,202403310TOR,TOR,Mouhamadou Gueye,https://www.basketball-reference.com/boxscores/202403310TOR.html,6:42,.521,.500,.000,1.000,19.4,0.0,10.4,18.0,0.0,17.9,0.0,18.6,133,137,1.5

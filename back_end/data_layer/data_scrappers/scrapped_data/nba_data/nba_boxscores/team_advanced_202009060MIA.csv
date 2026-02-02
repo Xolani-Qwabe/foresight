@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-09-06,202009060MIA,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202009060MIA.html,47:59,.563,.482,.250,.321,5.0,15.4,10.2,27.8,2.1,0.0,11.1,34.9,114,112,5.1
+2020-09-06,202009060MIA,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202009060MIA.html,41:41,.568,.545,.455,.273,5.8,8.9,7.3,6.6,1.2,3.0,0.0,13.8,128,113,2.2
+2020-09-06,202009060MIA,MIL,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202009060MIA.html,39:42,.489,.462,.462,.231,0.0,31.0,15.3,21.7,0.0,3.1,21.8,21.5,90,112,-6.1
+2020-09-06,202009060MIA,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202009060MIA.html,24:53,.375,.375,1.000,.000,0.0,5.0,2.4,0.0,2.0,0.0,0.0,7.5,79,114,-5.5
+2020-09-06,202009060MIA,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202009060MIA.html,11:29,.808,.850,.100,.400,10.5,32.2,21.2,0.0,4.4,10.7,0.0,47.7,154,96,37.6
+2020-09-06,202009060MIA,MIL,George Hill,https://www.basketball-reference.com/boxscores/202009060MIA.html,36:42,.545,.545,.455,.000,3.3,13.4,8.3,11.5,1.4,0.0,21.4,17.8,94,114,-3.6
+2020-09-06,202009060MIA,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202009060MIA.html,26:43,.601,.571,.286,.429,0.0,23.1,11.4,10.7,1.9,4.6,10.7,16.3,115,108,1.0
+2020-09-06,202009060MIA,MIL,Marvin Williams,https://www.basketball-reference.com/boxscores/202009060MIA.html,17:24,.833,.833,.667,.000,13.8,14.2,14.0,23.5,2.9,0.0,0.0,8.0,188,110,13.4
+2020-09-06,202009060MIA,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202009060MIA.html,13:11,.500,.500,.500,.000,9.1,28.0,18.5,9.8,0.0,0.0,0.0,7.1,136,115,-3.8
+2020-09-06,202009060MIA,MIL,Kyle Korver,https://www.basketball-reference.com/boxscores/202009060MIA.html,5:16,.500,.500,.667,.000,0.0,0.0,0.0,0.0,19.3,0.0,0.0,26.6,99,74,21.7
+2020-09-06,202009060MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202009060MIA.html,43:50,.831,.769,.000,.462,11.2,22.0,16.7,34.7,1.2,0.0,6.0,17.7,173,114,14.5
+2020-09-06,202009060MIA,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202009060MIA.html,39:57,.423,.324,.529,.412,0.0,12.1,6.1,31.8,1.3,0.0,9.1,25.7,96,115,-5.2
+2020-09-06,202009060MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202009060MIA.html,39:14,.769,.769,.923,.000,0.0,15.4,7.8,13.3,1.3,0.0,7.1,16.6,127,115,6.8
+2020-09-06,202009060MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202009060MIA.html,38:48,.482,.400,.067,.400,3.2,12.4,7.9,8.6,2.6,0.0,14.5,24.8,88,112,-6.0
+2020-09-06,202009060MIA,MIA,Jae Crowder,https://www.basketball-reference.com/boxscores/202009060MIA.html,30:52,.750,.750,1.000,.000,0.0,19.5,9.9,17.3,0.0,3.0,14.3,21.1,113,114,7.1
+2020-09-06,202009060MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202009060MIA.html,32:44,.500,.500,.545,.000,0.0,14.7,7.4,19.3,0.0,0.0,21.4,19.9,83,118,-3.8
+2020-09-06,202009060MIA,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202009060MIA.html,21:51,.000,.000,1.000,.000,0.0,5.5,2.8,12.1,2.3,0.0,50.0,8.5,30,114,-10.4
+2020-09-06,202009060MIA,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202009060MIA.html,9:31,.436,.333,.667,.333,13.0,38.0,25.6,48.5,0.0,0.0,22.5,21.7,107,113,2.6
+2020-09-06,202009060MIA,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202009060MIA.html,7:52,.375,.375,.750,.000,0.0,15.3,7.7,0.0,6.5,0.0,0.0,23.7,70,103,-0.8
+2020-09-06,202009060MIA,MIA,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202009060MIA.html,0:21,,,,,0.0,0.0,0.0,0.0,100.0,0.0,,0.0,0,-206,162.5

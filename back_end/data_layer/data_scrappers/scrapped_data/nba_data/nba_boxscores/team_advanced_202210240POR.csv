@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-24,202210240POR,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202210240POR.html,30:25,.466,.417,.500,.167,3.4,4.3,3.8,18.9,1.7,0.0,13.4,11.2,114,144,-4.3
+2022-10-24,202210240POR,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202210240POR.html,27:37,.770,.750,.125,.125,7.6,18.8,12.6,7.2,0.0,0.0,5.6,29.6,144,145,5.0
+2022-10-24,202210240POR,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202210240POR.html,26:58,.846,.750,.000,.750,3.9,38.5,19.3,40.4,0.0,0.0,15.8,10.7,172,141,6.3
+2022-10-24,202210240POR,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202210240POR.html,26:37,.311,.333,.333,.167,0.0,9.7,4.3,4.6,0.0,0.0,0.0,22.1,69,146,-16.4
+2022-10-24,202210240POR,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202210240POR.html,25:31,.643,.643,.571,.000,4.1,15.3,9.1,11.8,0.0,0.0,6.7,26.8,121,145,0.1
+2022-10-24,202210240POR,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202210240POR.html,24:25,.500,.500,.167,.000,8.5,15.9,11.8,20.1,2.1,4.1,14.3,13.1,118,138,0.6
+2022-10-24,202210240POR,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202210240POR.html,19:44,.394,.375,.125,.250,5.3,6.6,5.9,6.5,2.6,0.0,0.0,20.5,94,141,-9.2
+2022-10-24,202210240POR,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202210240POR.html,18:09,.689,.700,.700,.200,0.0,7.1,3.2,25.0,0.0,0.0,8.4,29.9,127,147,7.3
+2022-10-24,202210240POR,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202210240POR.html,12:39,.000,.000,.500,.000,8.2,20.5,13.7,0.0,0.0,0.0,0.0,7.2,42,145,-15.3
+2022-10-24,202210240POR,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202210240POR.html,10:00,.515,.667,.000,.667,0.0,25.9,11.6,13.6,0.0,0.0,0.0,17.7,106,144,-4.1
+2022-10-24,202210240POR,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202210240POR.html,7:34,.375,.375,.750,.000,0.0,0.0,0.0,0.0,0.0,0.0,20.0,30.2,59,148,-21.8
+2022-10-24,202210240POR,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202210240POR.html,4:07,.667,.667,.333,.000,0.0,0.0,0.0,0.0,12.4,0.0,0.0,33.3,124,118,1.0
+2022-10-24,202210240POR,DEN,Ish Smith,https://www.basketball-reference.com/boxscores/202210240POR.html,3:34,,,,,0.0,0.0,0.0,29.9,0.0,0.0,100.0,12.8,47,148,-15.5
+2022-10-24,202210240POR,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202210240POR.html,2:40,.667,.667,.000,.000,39.1,48.6,43.4,0.0,0.0,0.0,0.0,51.4,139,140,16.1
+2022-10-24,202210240POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202210240POR.html,35:35,.853,.853,.706,.000,0.0,8.8,4.9,20.3,1.4,2.2,5.6,23.2,165,117,15.3
+2022-10-24,202210240POR,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202210240POR.html,35:30,.653,.577,.462,.538,0.0,5.9,3.3,3.5,0.0,2.3,5.9,22.1,131,121,-2.6
+2022-10-24,202210240POR,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202210240POR.html,35:27,.431,.333,.083,.583,7.3,29.4,19.6,19.1,0.0,2.3,0.0,19.5,124,114,-2.3
+2022-10-24,202210240POR,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202210240POR.html,34:41,.794,.750,.438,.500,3.7,15.0,10.0,32.4,1.5,0.0,4.9,27.1,168,117,14.4
+2022-10-24,202210240POR,POR,Josh Hart,https://www.basketball-reference.com/boxscores/202210240POR.html,34:30,.403,.429,.286,.143,15.0,21.2,18.4,3.2,0.0,0.0,11.8,11.2,110,119,-7.1
+2022-10-24,202210240POR,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202210240POR.html,18:14,.751,.833,.500,.500,0.0,22.9,12.7,0.0,0.0,0.0,0.0,18.4,146,119,3.1
+2022-10-24,202210240POR,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202210240POR.html,16:07,.799,.750,.333,.333,8.0,0.0,3.6,0.0,0.0,0.0,12.7,22.4,143,123,-1.6
+2022-10-24,202210240POR,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202210240POR.html,12:04,1.064,1.000,.000,2.000,10.8,8.6,9.6,0.0,4.2,6.6,0.0,7.1,226,105,4.2
+2022-10-24,202210240POR,POR,Keon Johnson,https://www.basketball-reference.com/boxscores/202210240POR.html,9:38,.750,.750,1.000,.000,0.0,21.7,12.0,11.6,0.0,16.6,60.0,23.8,63,104,-1.6
+2022-10-24,202210240POR,POR,Greg Brown III,https://www.basketball-reference.com/boxscores/202210240POR.html,4:07,.820,1.000,.000,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.2,144,124,4.7
+2022-10-24,202210240POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202210240POR.html,4:07,1.000,1.000,.000,.000,0.0,50.7,28.1,32.1,0.0,0.0,0.0,11.1,210,112,18.5

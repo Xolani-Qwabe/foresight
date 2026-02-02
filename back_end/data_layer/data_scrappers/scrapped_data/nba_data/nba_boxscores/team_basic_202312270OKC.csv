@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2023-12-27,202312270OKC,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202312270OKC.html,37.15,2,6,.333,0,0,0,0,3,6,9,2,0,1,2,3,4,3.4,+4,,
+2023-12-27,202312270OKC,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202312270OKC.html,36.77,9,19,.474,1,5,5,5,2,2,4,7,2,1,5,4,24,17.3,-9,.200,1.000
+2023-12-27,202312270OKC,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202312270OKC.html,35.9,7,15,.467,1,4,10,13,1,8,9,2,0,0,3,3,25,16.4,-12,.250,.769
+2023-12-27,202312270OKC,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202312270OKC.html,29.82,5,14,.357,1,7,3,6,0,4,4,4,0,0,5,5,14,2.0,-9,.143,.500
+2023-12-27,202312270OKC,NYK,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202312270OKC.html,20.5,6,10,.600,5,9,0,0,0,2,2,0,0,0,1,2,17,11.2,-1,.556,
+2023-12-27,202312270OKC,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202312270OKC.html,33.92,1,4,.250,0,2,2,2,2,5,7,6,0,0,1,1,4,7.3,-4,.000,1.000
+2023-12-27,202312270OKC,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202312270OKC.html,24.73,7,10,.700,4,5,4,4,0,0,0,2,0,0,1,0,22,18.2,+2,.800,1.000
+2023-12-27,202312270OKC,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202312270OKC.html,11.23,2,2,1.000,2,2,0,0,0,3,3,1,0,0,0,1,6,6.6,0,1.000,
+2023-12-27,202312270OKC,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202312270OKC.html,9.98,2,2,1.000,0,0,0,0,1,1,2,0,0,0,0,2,4,3.6,-16,,
+2023-12-27,202312270OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202312270OKC.html,36.37,13,23,.565,2,5,8,9,1,6,7,8,2,2,1,0,36,35.2,+12,.400,.889
+2023-12-27,202312270OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202312270OKC.html,32.75,13,17,.765,5,5,5,7,0,0,0,3,1,1,0,4,36,30.7,-2,1.000,.714
+2023-12-27,202312270OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202312270OKC.html,30.13,9,14,.643,1,4,3,4,1,4,5,1,0,4,0,4,22,19.2,+4,.250,.750
+2023-12-27,202312270OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202312270OKC.html,29.48,3,4,.750,0,0,1,2,0,6,6,2,0,2,2,1,7,7.2,+11,,.500
+2023-12-27,202312270OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202312270OKC.html,26.8,2,9,.222,1,4,0,0,0,2,2,2,0,0,0,4,5,-0.1,+13,.250,
+2023-12-27,202312270OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202312270OKC.html,21.87,2,6,.333,0,2,0,0,0,1,1,0,1,0,1,1,4,0.5,+6,.000,
+2023-12-27,202312270OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202312270OKC.html,20.57,1,1,1.000,1,1,0,0,0,1,1,1,2,0,0,1,3,5.3,+3,1.000,
+2023-12-27,202312270OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202312270OKC.html,15.85,3,6,.500,2,4,0,0,0,2,2,0,0,0,0,1,8,5.2,+3,.500,
+2023-12-27,202312270OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202312270OKC.html,11.83,2,4,.500,1,3,0,0,0,0,0,2,0,1,0,4,5,3.5,+7,.333,
+2023-12-27,202312270OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202312270OKC.html,6.75,0,1,.000,0,1,0,0,0,2,2,0,0,0,0,1,0,-0.5,-8,.000,
+2023-12-27,202312270OKC,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202312270OKC.html,6.25,0,3,.000,0,2,0,0,0,0,0,1,0,0,0,0,0,-1.4,-5,.000,
+2023-12-27,202312270OKC,OKC,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202312270OKC.html,1.35,1,2,.500,1,1,0,0,1,0,1,0,0,0,0,0,3,2.7,+1,1.000,

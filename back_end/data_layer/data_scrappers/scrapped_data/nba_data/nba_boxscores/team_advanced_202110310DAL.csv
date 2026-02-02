@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-31,202110310DAL,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202110310DAL.html,39:20,.385,.344,.250,.313,4.7,14.9,9.7,15.3,0.0,0.0,14.2,22.1,84,114,-7.0
+2021-10-31,202110310DAL,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202110310DAL.html,38:06,.422,.344,.500,.250,7.3,18.0,12.5,19.9,3.9,0.0,5.3,20.2,107,104,4.7
+2021-10-31,202110310DAL,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202110310DAL.html,33:21,.457,.393,.286,.214,8.3,8.8,8.6,18.7,0.0,5.4,6.1,20.1,111,111,2.8
+2021-10-31,202110310DAL,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202110310DAL.html,26:35,.674,.633,.067,.200,17.4,29.5,23.2,0.0,3.8,0.0,5.8,26.8,138,101,11.5
+2021-10-31,202110310DAL,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202110310DAL.html,16:39,.250,.250,.750,.000,0.0,29.4,14.3,0.0,0.0,0.0,0.0,9.9,61,109,-10.4
+2021-10-31,202110310DAL,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202110310DAL.html,30:14,.423,.423,.923,.000,3.1,22.7,12.6,5.0,1.7,0.0,18.8,21.7,78,108,-5.5
+2021-10-31,202110310DAL,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202110310DAL.html,25:40,.375,.375,.375,.000,0.0,0.0,0.0,17.3,0.0,3.5,20.0,16.0,76,114,-10.0
+2021-10-31,202110310DAL,SAC,Tristan Thompson,https://www.basketball-reference.com/boxscores/202110310DAL.html,21:25,.707,.714,.000,.714,12.9,9.1,11.1,25.1,0.0,0.0,0.0,17.7,159,115,10.4
+2021-10-31,202110310DAL,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202110310DAL.html,8:40,.333,.333,.333,.000,0.0,11.3,5.5,0.0,0.0,0.0,25.0,19.0,53,114,-17.0
+2021-10-31,202110310DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202110310DAL.html,35:22,.440,.423,.462,.308,8.3,7.8,8.1,0.0,2.8,2.3,6.3,19.8,93,104,-3.9
+2021-10-31,202110310DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202110310DAL.html,35:12,.486,.500,.333,.286,0.0,21.0,10.8,51.7,1.4,2.3,11.3,33.7,102,100,5.4
+2021-10-31,202110310DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202110310DAL.html,33:02,.888,.900,.200,.800,11.9,11.2,11.5,4.3,1.5,2.4,12.9,10.5,163,105,2.9
+2021-10-31,202110310DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202110310DAL.html,32:49,.538,.500,.786,.143,0.0,8.4,4.3,13.4,3.1,0.0,11.8,22.9,101,104,1.4
+2021-10-31,202110310DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202110310DAL.html,7:04,1.167,1.167,.333,.000,0.0,65.3,33.6,0.0,0.0,0.0,0.0,18.9,233,82,26.9
+2021-10-31,202110310DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202110310DAL.html,27:08,.368,.300,.000,.200,0.0,6.8,3.5,10.2,1.8,2.9,15.5,21.1,72,106,-8.3
+2021-10-31,202110310DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202110310DAL.html,21:56,.389,.389,.556,.000,0.0,12.6,6.5,19.6,0.0,0.0,0.0,18.3,95,108,-6.6
+2021-10-31,202110310DAL,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202110310DAL.html,20:43,.872,.833,.333,.333,0.0,13.4,6.9,15.1,2.4,0.0,0.0,14.8,177,103,12.5
+2021-10-31,202110310DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202110310DAL.html,13:44,.500,.500,.000,.000,21.4,20.2,20.8,21.2,0.0,0.0,0.0,13.0,141,105,3.6
+2021-10-31,202110310DAL,DAL,Sterling Brown,https://www.basketball-reference.com/boxscores/202110310DAL.html,11:46,.300,.300,.800,.000,0.0,0.0,0.0,11.4,0.0,0.0,0.0,18.9,74,115,-12.9
+2021-10-31,202110310DAL,DAL,Moses Brown,https://www.basketball-reference.com/boxscores/202110310DAL.html,1:14,,,,,0.0,74.8,38.5,0.0,0.0,0.0,,0.0,0,75,-30.9

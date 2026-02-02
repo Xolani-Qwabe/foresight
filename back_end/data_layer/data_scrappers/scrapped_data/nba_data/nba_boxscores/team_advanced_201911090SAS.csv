@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-09,201911090SAS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/201911090SAS.html,33:55,.607,.538,.462,.462,3.3,14.9,9.9,14.3,4.1,0.0,11.3,21.8,119,107,2.0
+2019-11-09,201911090SAS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/201911090SAS.html,32:28,.597,.550,.500,.200,6.9,7.8,7.4,34.1,1.4,2.1,0.0,28.1,137,116,9.6
+2019-11-09,201911090SAS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/201911090SAS.html,32:04,.670,.583,.167,.556,3.5,15.8,10.5,13.6,1.4,0.0,0.0,29.3,143,112,5.3
+2019-11-09,201911090SAS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/201911090SAS.html,22:40,.901,.875,.500,.250,4.9,18.6,12.7,10.2,2.0,3.1,31.1,11.9,129,108,1.1
+2019-11-09,201911090SAS,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/201911090SAS.html,14:49,.500,.500,.333,.000,0.0,11.4,6.5,9.2,3.1,4.7,10.0,28.3,90,109,-2.6
+2019-11-09,201911090SAS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/201911090SAS.html,25:24,.735,.700,.900,.200,0.0,9.9,5.7,14.7,3.6,0.0,0.0,18.0,151,111,8.2
+2019-11-09,201911090SAS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/201911090SAS.html,22:29,1.011,1.000,.000,.200,5.0,22.5,14.9,11.4,0.0,18.6,0.0,10.2,211,103,14.5
+2019-11-09,201911090SAS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/201911090SAS.html,18:12,.000,.000,.667,.333,6.1,13.9,10.5,11.0,0.0,7.6,22.5,10.2,48,113,-9.4
+2019-11-09,201911090SAS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/201911090SAS.html,16:41,.700,.700,.200,.000,0.0,5.0,2.9,14.6,5.5,0.0,16.7,15.1,120,110,3.3
+2019-11-09,201911090SAS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/201911090SAS.html,13:23,.600,.600,.200,.000,0.0,0.0,0.0,9.6,0.0,0.0,0.0,15.7,124,125,-7.2
+2019-11-09,201911090SAS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/201911090SAS.html,3:09,1.136,,,,0.0,26.7,15.2,0.0,0.0,0.0,43.1,30.9,133,109,-5.6
+2019-11-09,201911090SAS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/201911090SAS.html,2:23,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.6,0,126,-25.9
+2019-11-09,201911090SAS,BOS,Vincent Poirier,https://www.basketball-reference.com/boxscores/201911090SAS.html,2:23,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.6,0,126,-26.0
+2019-11-09,201911090SAS,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/201911090SAS.html,27:17,.554,.400,.000,.733,0.0,8.2,3.5,24.7,0.0,0.0,9.2,30.2,122,134,0.0
+2019-11-09,201911090SAS,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/201911090SAS.html,26:22,.307,.250,.000,.500,3.2,12.7,7.3,4.9,0.0,3.2,29.1,9.8,61,131,-12.9
+2019-11-09,201911090SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/201911090SAS.html,24:09,.250,.250,.125,.000,3.5,27.7,13.9,22.7,1.9,0.0,33.3,18.8,57,127,-13.6
+2019-11-09,201911090SAS,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/201911090SAS.html,21:23,.919,.900,1.000,.200,0.0,41.8,18.0,0.0,0.0,3.9,26.9,13.1,119,126,3.5
+2019-11-09,201911090SAS,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/201911090SAS.html,20:40,.568,.500,.636,.273,4.1,0.0,2.3,15.6,0.0,0.0,7.5,24.3,126,135,0.4
+2019-11-09,201911090SAS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/201911090SAS.html,26:15,.455,.389,.222,.222,6.4,8.5,7.3,5.5,0.0,9.6,0.0,14.2,120,126,-1.7
+2019-11-09,201911090SAS,SAS,Marco Belinelli,https://www.basketball-reference.com/boxscores/201911090SAS.html,18:32,.571,.571,.429,.286,0.0,6.0,2.6,24.9,0.0,0.0,0.0,16.0,139,134,2.5
+2019-11-09,201911090SAS,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/201911090SAS.html,18:05,.727,.708,.500,.333,4.7,0.0,2.7,26.0,0.0,0.0,6.8,30.8,143,135,14.4
+2019-11-09,201911090SAS,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/201911090SAS.html,14:57,.500,.500,.167,.000,22.5,22.4,22.5,10.9,0.0,0.0,14.3,17.7,113,132,-1.7
+2019-11-09,201911090SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/201911090SAS.html,12:36,.307,.250,.000,.500,20.1,26.6,22.9,32.5,0.0,0.0,17.0,17.6,99,131,-5.0
+2019-11-09,201911090SAS,SAS,DeMarre Carroll,https://www.basketball-reference.com/boxscores/201911090SAS.html,11:40,.750,.750,1.000,.000,7.2,38.3,20.6,0.0,0.0,0.0,0.0,12.9,161,130,5.7
+2019-11-09,201911090SAS,SAS,Chimezie Metu,https://www.basketball-reference.com/boxscores/201911090SAS.html,9:02,.444,.429,.000,.286,55.9,24.7,42.5,46.1,0.0,18.6,0.0,32.9,133,116,18.6
+2019-11-09,201911090SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/201911090SAS.html,9:02,.134,.143,.143,.143,9.3,24.7,15.9,15.8,0.0,9.3,11.8,35.3,44,124,-22.3

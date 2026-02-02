@@ -1,0 +1,20 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-01-02,202301020MIN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202301020MIN.html,35.88,6,12,.500,1,3,.333,1,1,1.000,1,2,3,4,1,0,2,0,14,11.1,-5
+2023-01-02,202301020MIN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202301020MIN.html,33.42,4,18,.222,0,3,.000,4,6,.667,12,4,16,6,1,0,1,3,12,12.8,-10
+2023-01-02,202301020MIN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202301020MIN.html,33.28,10,20,.500,1,3,.333,3,4,.750,1,6,7,9,2,0,5,4,24,17.8,-9
+2023-01-02,202301020MIN,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202301020MIN.html,32.85,3,7,.429,1,2,.500,3,3,1.000,1,3,4,2,0,0,1,4,10,6.7,-11
+2023-01-02,202301020MIN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202301020MIN.html,27.43,6,9,.667,4,6,.667,2,2,1.000,0,2,2,0,0,1,2,2,18,12.6,-4
+2023-01-02,202301020MIN,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202301020MIN.html,22.47,3,6,.500,0,2,.000,2,2,1.000,0,4,4,3,1,0,0,1,8,8.9,-7
+2023-01-02,202301020MIN,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202301020MIN.html,22.33,7,12,.583,4,7,.571,0,0,,1,5,6,2,2,0,1,2,18,16.2,-15
+2023-01-02,202301020MIN,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202301020MIN.html,16.9,1,3,.333,0,2,.000,0,0,,0,1,1,1,0,0,0,3,2,0.1,-7
+2023-01-02,202301020MIN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202301020MIN.html,12.4,1,3,.333,0,1,.000,1,2,.500,2,0,2,0,1,0,2,2,3,0.5,0
+2023-01-02,202301020MIN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202301020MIN.html,3.03,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+3
+2023-01-02,202301020MIN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202301020MIN.html,36.28,10,24,.417,3,11,.273,6,6,1.000,1,9,10,5,1,0,3,5,29,19.1,+13
+2023-01-02,202301020MIN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202301020MIN.html,31.38,8,16,.500,1,7,.143,0,0,,0,4,4,2,1,0,2,3,17,9.4,+3
+2023-01-02,202301020MIN,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202301020MIN.html,31.28,6,12,.500,3,4,.750,4,4,1.000,1,3,4,8,3,0,1,2,19,21.4,+6
+2023-01-02,202301020MIN,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202301020MIN.html,27.47,3,3,1.000,0,0,,2,4,.500,2,2,4,3,0,2,1,5,8,8.8,-4
+2023-01-02,202301020MIN,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202301020MIN.html,24.6,9,10,.900,2,2,1.000,1,2,.500,2,2,4,4,1,1,2,4,21,20.1,+13
+2023-01-02,202301020MIN,MIN,Austin Rivers,https://www.basketball-reference.com/boxscores/202301020MIN.html,31.78,2,5,.400,2,5,.400,2,2,1.000,0,1,1,5,1,0,0,1,8,9.7,+6
+2023-01-02,202301020MIN,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202301020MIN.html,21.77,2,4,.500,1,1,1.000,3,6,.500,4,4,8,2,0,0,0,1,8,9.8,+12
+2023-01-02,202301020MIN,MIN,Matt Ryan,https://www.basketball-reference.com/boxscores/202301020MIN.html,21.07,2,5,.400,1,4,.250,0,0,,0,0,0,0,0,0,1,0,5,1.3,+5
+2023-01-02,202301020MIN,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202301020MIN.html,14.37,3,8,.375,0,2,.000,3,3,1.000,1,5,6,0,0,1,1,1,9,6.1,+11

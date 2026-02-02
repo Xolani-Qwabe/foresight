@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-27,202203270NOP,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202203270NOP.html,41:38,.658,.648,.481,.222,3.2,21.0,13.0,22.3,0.0,1.8,11.9,38.0,119,124,8.2
+2022-03-27,202203270NOP,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202203270NOP.html,33:22,.680,.600,.000,.400,8.0,26.2,18.0,0.0,0.0,0.0,14.5,9.7,127,123,-5.9
+2022-03-27,202203270NOP,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202203270NOP.html,31:41,.600,.600,.333,.000,12.6,13.8,13.3,30.4,1.6,0.0,16.7,26.7,118,123,2.6
+2022-03-27,202203270NOP,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202203270NOP.html,19:44,.000,.000,.500,.000,6.8,27.6,18.2,34.7,2.6,0.0,33.3,7.2,106,117,2.2
+2022-03-27,202203270NOP,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202203270NOP.html,17:32,.463,.667,.000,1.000,0.0,12.4,6.8,0.0,2.9,0.0,31.6,17.0,53,121,-14.9
+2022-03-27,202203270NOP,LAL,Malik Monk,https://www.basketball-reference.com/boxscores/202203270NOP.html,28:50,.628,.588,.471,.176,0.0,0.0,0.0,37.0,0.0,0.0,9.8,33.2,124,131,3.0
+2022-03-27,202203270NOP,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202203270NOP.html,21:03,.717,.750,.250,.500,0.0,5.2,2.9,6.5,0.0,0.0,0.0,10.9,148,130,-3.0
+2022-03-27,202203270NOP,LAL,Stanley Johnson,https://www.basketball-reference.com/boxscores/202203270NOP.html,19:07,,,,,0.0,5.7,3.1,0.0,2.7,0.0,,0.0,0,123,-6.9
+2022-03-27,202203270NOP,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202203270NOP.html,14:38,.375,.375,1.000,.000,0.0,14.9,8.2,8.5,0.0,5.1,20.0,16.1,71,122,-10.1
+2022-03-27,202203270NOP,LAL,D.J. Augustin,https://www.basketball-reference.com/boxscores/202203270NOP.html,12:25,1.000,1.000,1.000,.000,0.0,8.8,4.8,11.3,4.1,0.0,25.0,15.2,133,119,8.0
+2022-03-27,202203270NOP,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202203270NOP.html,38:01,.538,.536,.500,.143,2.9,3.5,3.2,6.9,8.1,0.0,0.0,17.3,120,104,5.8
+2022-03-27,202203270NOP,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202203270NOP.html,37:44,.507,.500,.313,.250,0.0,14.1,6.4,21.7,1.4,0.0,5.3,22.0,112,118,-2.0
+2022-03-27,202203270NOP,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202203270NOP.html,36:53,.607,.538,.000,.462,5.9,36.2,19.5,11.2,1.4,2.9,11.3,21.1,122,112,0.6
+2022-03-27,202203270NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202203270NOP.html,25:35,.647,.588,.118,.412,4.3,31.3,16.4,37.2,0.0,0.0,4.7,36.4,137,118,11.9
+2022-03-27,202203270NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202203270NOP.html,17:43,.820,.750,.000,.500,6.2,0.0,3.4,15.1,0.0,0.0,17.0,14.7,147,123,1.6
+2022-03-27,202203270NOP,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202203270NOP.html,25:12,.788,.750,.583,.250,8.7,10.6,9.5,0.0,0.0,0.0,0.0,23.4,163,122,10.7
+2022-03-27,202203270NOP,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202203270NOP.html,21:17,.200,.200,.200,.000,20.5,12.5,16.9,16.2,4.8,0.0,0.0,10.4,111,110,0.6
+2022-03-27,202203270NOP,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202203270NOP.html,17:18,.500,.500,.250,.000,0.0,15.4,6.9,7.2,0.0,0.0,20.0,12.8,87,121,-10.5
+2022-03-27,202203270NOP,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202203270NOP.html,16:45,.167,.167,.667,.000,6.5,8.0,7.2,13.9,0.0,0.0,0.0,15.8,69,122,-13.7
+2022-03-27,202203270NOP,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202203270NOP.html,3:32,,,,,0.0,37.7,17.0,30.9,0.0,0.0,100.0,12.5,43,115,-11.6

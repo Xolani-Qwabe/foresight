@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-17,202401170TOR,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202401170TOR.html,35:49,.559,.538,.000,.231,3.0,14.1,8.2,17.0,1.5,0.0,12.3,20.0,110,132,-1.9
+2024-01-17,202401170TOR,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202401170TOR.html,32:23,.400,.400,.450,.000,3.4,23.4,12.7,14.5,0.0,0.0,13.0,31.2,80,132,-10.5
+2024-01-17,202401170TOR,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202401170TOR.html,30:48,.606,.545,.000,.455,7.1,12.3,9.5,24.6,3.4,0.0,7.0,20.3,131,129,6.8
+2024-01-17,202401170TOR,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202401170TOR.html,29:00,.222,.222,.667,.000,3.8,4.4,4.0,13.2,0.0,3.3,10.0,15.1,65,137,-12.9
+2024-01-17,202401170TOR,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202401170TOR.html,21:01,.506,.500,.222,.222,15.6,24.0,19.5,14.3,0.0,4.6,16.8,24.8,100,130,-1.2
+2024-01-17,202401170TOR,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202401170TOR.html,25:37,.850,.800,.000,.400,4.3,9.9,6.9,28.0,0.0,0.0,14.5,11.8,158,137,5.3
+2024-01-17,202401170TOR,MIA,Josh Richardson,https://www.basketball-reference.com/boxscores/202401170TOR.html,23:23,.357,.357,.571,.000,0.0,5.4,2.5,0.0,2.2,8.2,12.5,15.0,66,128,-8.6
+2024-01-17,202401170TOR,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202401170TOR.html,21:19,.636,.636,.455,.000,5.1,11.9,8.2,8.2,0.0,0.0,15.4,26.8,107,137,-0.2
+2024-01-17,202401170TOR,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202401170TOR.html,11:32,.500,.500,.500,.000,18.9,11.0,15.2,0.0,0.0,8.3,0.0,7.6,134,133,-0.7
+2024-01-17,202401170TOR,MIA,Thomas Bryant,https://www.basketball-reference.com/boxscores/202401170TOR.html,4:26,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.9,200,138,-3.7
+2024-01-17,202401170TOR,MIA,Orlando Robinson,https://www.basketball-reference.com/boxscores/202401170TOR.html,2:21,,,,,0.0,53.8,24.9,49.8,0.0,0.0,,0.0,215,123,14.6
+2024-01-17,202401170TOR,MIA,Cole Swider,https://www.basketball-reference.com/boxscores/202401170TOR.html,2:21,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,56.1,58,141,-26.4
+2024-01-17,202401170TOR,TOR,RJ Barrett,https://www.basketball-reference.com/boxscores/202401170TOR.html,36:20,.659,.679,.214,.929,10.4,15.0,12.9,12.0,0.0,0.0,0.0,24.6,148,110,3.2
+2024-01-17,202401170TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202401170TOR.html,33:57,.608,.594,.375,.063,7.4,9.6,8.6,35.0,3.1,2.3,23.3,28.6,115,104,3.2
+2024-01-17,202401170TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202401170TOR.html,30:52,1.077,1.077,.692,.000,0.0,7.1,3.8,0.0,1.7,0.0,0.0,19.1,199,109,18.0
+2024-01-17,202401170TOR,TOR,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202401170TOR.html,30:18,.504,.469,.375,.125,4.2,25.2,15.5,40.2,0.0,0.0,10.6,28.2,125,107,0.2
+2024-01-17,202401170TOR,TOR,Jontay Porter,https://www.basketball-reference.com/boxscores/202401170TOR.html,18:10,.429,.429,.571,.000,13.9,12.0,12.9,13.3,0.0,8.5,0.0,17.5,127,105,-1.0
+2024-01-17,202401170TOR,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202401170TOR.html,28:02,.363,.333,.000,.333,9.0,23.3,16.7,8.2,1.9,0.0,0.0,11.1,116,104,-7.2
+2024-01-17,202401170TOR,TOR,Dennis Schröder,https://www.basketball-reference.com/boxscores/202401170TOR.html,26:43,.750,.750,.833,.000,0.0,4.1,2.2,27.2,2.0,0.0,14.3,11.9,155,109,3.3
+2024-01-17,202401170TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202401170TOR.html,17:35,.333,.333,.333,.000,14.4,31.0,23.3,0.0,0.0,4.4,0.0,7.7,114,102,-6.5
+2024-01-17,202401170TOR,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202401170TOR.html,11:33,1.500,1.500,1.000,.000,0.0,0.0,0.0,45.3,9.0,0.0,50.0,15.7,142,96,22.0
+2024-01-17,202401170TOR,TOR,Javon Freeman-Liberty,https://www.basketball-reference.com/boxscores/202401170TOR.html,2:21,.333,.333,.000,.000,53.8,0.0,24.9,0.0,0.0,0.0,0.0,57.9,97,115,-23.9
+2024-01-17,202401170TOR,TOR,Garrett Temple,https://www.basketball-reference.com/boxscores/202401170TOR.html,2:21,.000,.000,1.000,.000,0.0,46.4,24.9,0.0,22.2,0.0,0.0,19.3,0,54,0.4
+2024-01-17,202401170TOR,TOR,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202401170TOR.html,1:48,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,29.0,0.0,0.0,25.2,0,55,-1.9

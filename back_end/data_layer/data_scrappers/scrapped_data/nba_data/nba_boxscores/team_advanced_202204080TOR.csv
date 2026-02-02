@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-08,202204080TOR,HOU,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202204080TOR.html,38:52,.671,.609,.391,.304,3.5,23.6,15.1,17.5,2.5,0.0,7.1,31.7,132,113,8.8
+2022-04-08,202204080TOR,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202204080TOR.html,36:40,.340,.300,.300,.400,3.7,13.9,9.6,10.1,0.0,0.0,29.8,20.0,63,121,-15.2
+2022-04-08,202204080TOR,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202204080TOR.html,32:42,.638,.583,.167,.250,0.0,6.2,3.6,13.5,1.5,0.0,7.0,19.2,127,121,-1.2
+2022-04-08,202204080TOR,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202204080TOR.html,26:15,.505,.500,.273,.182,15.7,11.7,13.4,16.2,0.0,0.0,14.4,23.2,106,122,-6.3
+2022-04-08,202204080TOR,HOU,Garrison Mathews,https://www.basketball-reference.com/boxscores/202204080TOR.html,25:40,.865,1.000,1.000,1.667,0.0,19.9,11.4,9.5,0.0,2.8,27.8,12.3,123,118,2.0
+2022-04-08,202204080TOR,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202204080TOR.html,30:08,.833,.833,.333,.000,0.0,16.9,9.7,22.2,1.6,0.0,20.0,21.8,130,117,4.7
+2022-04-08,202204080TOR,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202204080TOR.html,21:27,.336,.286,.571,.143,0.0,9.5,5.5,11.6,0.0,3.3,0.0,15.2,87,120,-7.8
+2022-04-08,202204080TOR,HOU,Usman Garuba,https://www.basketball-reference.com/boxscores/202204080TOR.html,15:18,1.250,1.250,.500,.000,9.0,13.4,11.5,17.1,6.3,4.7,0.0,5.7,238,104,16.2
+2022-04-08,202204080TOR,HOU,Daishen Nix,https://www.basketball-reference.com/boxscores/202204080TOR.html,12:58,1.064,1.000,.000,2.000,10.6,7.9,9.0,9.4,0.0,0.0,61.5,16.5,93,123,-8.7
+2022-04-08,202204080TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202204080TOR.html,39:33,.544,.500,.083,.250,7.7,31.2,17.8,28.9,3.7,2.3,7.0,30.2,120,110,6.2
+2022-04-08,202204080TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202204080TOR.html,38:03,.582,.548,.381,.143,2.7,0.0,1.5,0.0,3.8,0.0,0.0,24.5,127,116,2.3
+2022-04-08,202204080TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202204080TOR.html,33:40,.576,.538,.154,.154,6.1,8.1,7.0,8.4,1.4,0.0,12.6,19.7,113,120,-4.3
+2022-04-08,202204080TOR,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202204080TOR.html,27:25,.571,.571,.143,.000,11.2,5.0,8.5,9.5,3.5,3.4,12.5,12.2,123,114,-0.1
+2022-04-08,202204080TOR,TOR,Armoni Brooks,https://www.basketball-reference.com/boxscores/202204080TOR.html,14:50,.258,.000,1.000,.667,6.9,27.7,15.8,22.1,0.0,0.0,0.0,10.9,105,120,-7.0
+2022-04-08,202204080TOR,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202204080TOR.html,24:18,.788,.750,.250,.250,4.2,16.9,9.6,18.4,2.0,0.0,10.1,17.0,151,118,4.4
+2022-04-08,202204080TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202204080TOR.html,19:53,.444,.200,.600,.800,10.3,20.7,14.7,5.8,0.0,4.6,0.0,14.2,122,118,-5.1
+2022-04-08,202204080TOR,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202204080TOR.html,12:29,.633,.500,.600,.600,0.0,11.0,4.7,0.0,0.0,7.4,24.0,27.8,99,117,-8.1
+2022-04-08,202204080TOR,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202204080TOR.html,12:00,.436,.333,.333,.333,0.0,34.3,14.6,0.0,8.0,0.0,0.0,12.0,100,102,0.3
+2022-04-08,202204080TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202204080TOR.html,10:38,.200,.200,.400,.000,0.0,12.9,5.5,22.9,0.0,0.0,0.0,19.6,67,123,-14.3
+2022-04-08,202204080TOR,TOR,Justin Champagnie,https://www.basketball-reference.com/boxscores/202204080TOR.html,7:11,.750,.750,1.000,.000,0.0,38.2,16.3,0.0,6.7,0.0,33.3,17.4,91,105,2.5

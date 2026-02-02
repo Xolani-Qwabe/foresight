@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-12,202103120CHI,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202103120CHI.html,33:12,.409,.409,.364,.000,0.0,25.0,14.3,13.9,1.5,2.7,0.0,16.3,87,91,-2.7
+2021-03-12,202103120CHI,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202103120CHI.html,33:01,.628,.529,.059,.706,0.0,8.4,4.8,48.6,6.0,2.7,8.2,36.1,125,88,14.5
+2021-03-12,202103120CHI,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202103120CHI.html,29:40,.833,.833,.889,.000,0.0,15.6,8.9,11.2,5.0,0.0,0.0,14.9,145,89,12.1
+2021-03-12,202103120CHI,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202103120CHI.html,25:45,.455,.455,.636,.000,0.0,7.2,4.1,31.5,3.9,0.0,8.3,22.9,93,95,1.2
+2021-03-12,202103120CHI,MIA,KZ Okpala,https://www.basketball-reference.com/boxscores/202103120CHI.html,25:16,.667,.667,.333,.000,4.9,14.6,10.4,5.7,0.0,3.5,25.0,7.8,110,99,-5.6
+2021-03-12,202103120CHI,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202103120CHI.html,32:15,.746,.733,.533,.267,0.0,20.0,11.4,31.5,0.0,0.0,19.3,31.6,114,99,4.2
+2021-03-12,202103120CHI,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202103120CHI.html,23:18,.228,.143,.429,.571,0.0,15.8,9.1,5.9,2.1,0.0,10.2,20.6,47,96,-16.0
+2021-03-12,202103120CHI,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202103120CHI.html,22:43,.000,.000,.750,.000,0.0,8.1,4.6,5.7,0.0,3.9,0.0,8.6,16,102,-11.7
+2021-03-12,202103120CHI,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/202103120CHI.html,11:45,1.000,1.000,.000,.000,0.0,23.6,13.5,0.0,0.0,15.1,0.0,8.4,200,87,6.4
+2021-03-12,202103120CHI,MIA,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202103120CHI.html,3:02,1.000,1.000,.000,.000,0.0,30.4,17.4,0.0,0.0,0.0,0.0,16.2,200,95,8.4
+2021-03-12,202103120CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202103120CHI.html,37:36,.845,.813,.500,.250,0.0,19.6,8.4,36.1,0.0,5.7,22.0,26.2,126,103,14.0
+2021-03-12,202103120CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202103120CHI.html,33:45,.308,.308,.615,.000,2.7,7.3,4.7,23.9,3.0,0.0,0.0,16.6,87,102,-2.9
+2021-03-12,202103120CHI,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202103120CHI.html,33:03,.556,.556,.556,.000,2.8,18.6,9.6,13.0,0.0,0.0,10.0,26.1,99,109,1.4
+2021-03-12,202103120CHI,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202103120CHI.html,22:27,.340,.200,.000,.400,16.4,32.9,23.5,20.1,0.0,0.0,0.0,11.3,118,108,-1.3
+2021-03-12,202103120CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202103120CHI.html,20:36,.250,.250,.167,.000,4.5,6.0,5.1,0.0,2.4,0.0,33.3,18.9,39,104,-14.4
+2021-03-12,202103120CHI,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202103120CHI.html,25:33,.484,.462,.000,.077,14.5,28.9,20.6,24.8,2.0,4.2,13.0,26.1,100,100,4.5
+2021-03-12,202103120CHI,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202103120CHI.html,21:23,.417,.417,.500,.000,0.0,5.8,2.5,0.0,0.0,0.0,14.3,14.1,69,109,-10.3
+2021-03-12,202103120CHI,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202103120CHI.html,17:23,.417,.417,.667,.000,5.3,42.5,21.2,9.7,2.9,0.0,14.3,17.4,82,102,-2.7
+2021-03-12,202103120CHI,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202103120CHI.html,15:46,.167,.167,.500,.000,0.0,7.8,3.3,29.5,0.0,0.0,14.3,19.2,54,109,-14.3
+2021-03-12,202103120CHI,CHI,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202103120CHI.html,12:27,.000,.000,.333,.000,0.0,39.5,16.9,22.7,0.0,0.0,25.0,13.9,29,108,-14.8

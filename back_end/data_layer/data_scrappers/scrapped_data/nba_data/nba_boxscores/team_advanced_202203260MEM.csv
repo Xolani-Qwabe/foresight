@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-26,202203260MEM,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202203260MEM.html,29:58,.583,.583,.500,.000,0.0,10.0,4.8,5.0,0.0,0.0,25.0,10.9,88,131,-9.0
+2022-03-26,202203260MEM,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202203260MEM.html,28:42,.440,.344,.250,.313,0.0,17.4,8.4,29.2,0.0,0.0,21.6,33.0,82,129,-8.1
+2022-03-26,202203260MEM,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202203260MEM.html,28:17,.615,.550,.050,.500,6.5,31.8,18.7,37.0,0.0,10.4,7.6,38.2,125,117,19.1
+2022-03-26,202203260MEM,MIL,George Hill,https://www.basketball-reference.com/boxscores/202203260MEM.html,24:12,.417,.417,.667,.000,0.0,4.1,2.0,18.0,0.0,0.0,14.3,11.8,90,134,-6.2
+2022-03-26,202203260MEM,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202203260MEM.html,21:43,.556,.556,.556,.000,8.5,18.4,13.3,0.0,4.4,3.4,0.0,16.9,123,116,4.1
+2022-03-26,202203260MEM,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202203260MEM.html,22:56,.900,.900,.200,.000,0.0,4.4,2.1,21.9,2.1,0.0,16.7,10.7,150,129,4.1
+2022-03-26,202203260MEM,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202203260MEM.html,21:59,.514,.429,.571,.571,4.2,13.6,8.7,7.2,0.0,0.0,10.2,18.1,105,130,-4.4
+2022-03-26,202203260MEM,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202203260MEM.html,20:31,.244,.192,.308,.231,36.0,14.6,25.7,0.0,0.0,3.6,0.0,28.5,84,127,-11.9
+2022-03-26,202203260MEM,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202203260MEM.html,17:06,.000,.000,1.000,.000,0.0,0.0,0.0,7.6,2.8,4.3,0.0,4.8,28,126,-5.2
+2022-03-26,202203260MEM,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202203260MEM.html,10:30,.400,.400,.400,.000,0.0,19.0,9.1,0.0,0.0,0.0,0.0,19.5,86,128,-7.3
+2022-03-26,202203260MEM,MIL,Lindell Wigginton,https://www.basketball-reference.com/boxscores/202203260MEM.html,5:20,.387,.333,.667,.667,0.0,0.0,0.0,32.1,0.0,0.0,20.5,37.4,73,135,-12.3
+2022-03-26,202203260MEM,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202203260MEM.html,4:23,.532,.000,.000,2.000,21.1,22.8,21.9,0.0,0.0,0.0,0.0,17.5,141,127,1.1
+2022-03-26,202203260MEM,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202203260MEM.html,4:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,134,-12.8
+2022-03-26,202203260MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202203260MEM.html,28:57,.604,.556,.444,.444,3.5,9.6,6.6,39.1,1.7,0.0,0.0,14.9,159,107,8.7
+2022-03-26,202203260MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202203260MEM.html,28:13,.526,.526,.368,.000,0.0,9.8,5.1,25.2,3.4,0.0,0.0,26.9,125,103,6.4
+2022-03-26,202203260MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202203260MEM.html,27:17,.481,.357,.286,.429,7.3,13.5,10.6,0.0,1.8,5.8,10.7,27.3,102,101,-8.2
+2022-03-26,202203260MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202203260MEM.html,24:30,.531,.529,.176,.118,4.1,7.5,5.9,6.2,0.0,0.0,5.3,30.8,109,111,-7.0
+2022-03-26,202203260MEM,MEM,Steven Adams,https://www.basketball-reference.com/boxscores/202203260MEM.html,24:12,.286,.286,.000,.000,24.8,19.1,21.8,22.0,2.0,6.5,12.5,13.2,115,98,2.7
+2022-03-26,202203260MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202203260MEM.html,21:51,.940,1.000,.818,.364,4.6,8.4,6.6,14.0,6.6,0.0,13.6,27.0,150,96,25.1
+2022-03-26,202203260MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202203260MEM.html,21:31,.481,.429,.143,.429,23.2,25.7,24.5,15.8,0.0,0.0,19.4,19.2,114,104,-2.5
+2022-03-26,202203260MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202203260MEM.html,20:02,.654,.583,.333,.333,0.0,18.4,9.6,0.0,2.4,7.9,0.0,13.7,143,97,6.3
+2022-03-26,202203260MEM,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202203260MEM.html,17:42,.509,.583,.667,.333,0.0,15.6,8.1,19.9,2.7,4.4,0.0,15.5,122,99,5.9
+2022-03-26,202203260MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202203260MEM.html,15:39,.500,.500,.667,.000,0.0,29.5,15.3,6.7,0.0,5.0,0.0,7.7,125,99,1.0
+2022-03-26,202203260MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202203260MEM.html,3:22,1.000,1.000,.000,.000,0.0,27.4,14.3,0.0,0.0,0.0,0.0,11.9,200,102,1.9
+2022-03-26,202203260MEM,MEM,Jarrett Culver,https://www.basketball-reference.com/boxscores/202203260MEM.html,3:22,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,23.4,0.0,11.9,200,100,20.4
+2022-03-26,202203260MEM,MEM,Yves Pons,https://www.basketball-reference.com/boxscores/202203260MEM.html,3:22,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.9,0,114,-19.4

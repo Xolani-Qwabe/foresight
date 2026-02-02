@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-04-14,202404140BOS,WAS,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202404140BOS.html,33:23,.743,.727,.636,.091,0.0,26.5,12.0,0.0,2.8,2.5,8.0,15.1,124,122,0.1
+2024-04-14,202404140BOS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202404140BOS.html,32:56,.405,.333,.556,.222,0.0,11.5,5.2,26.1,1.4,0.0,0.0,12.2,116,130,-4.0
+2024-04-14,202404140BOS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202404140BOS.html,30:43,.379,.318,.455,.182,0.0,12.3,5.6,7.1,0.0,2.7,7.8,17.0,79,131,-12.7
+2024-04-14,202404140BOS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202404140BOS.html,26:35,.600,.600,.000,.000,0.0,4.8,2.1,8.3,3.5,0.0,37.5,12.2,77,126,-10.0
+2024-04-14,202404140BOS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202404140BOS.html,17:26,.482,.458,.417,.083,18.0,14.5,16.4,23.4,0.0,0.0,0.0,28.9,117,132,-2.9
+2024-04-14,202404140BOS,WAS,Jared Butler,https://www.basketball-reference.com/boxscores/202404140BOS.html,30:51,.553,.526,.211,.105,3.4,4.1,3.7,31.1,1.5,2.7,16.8,31.4,102,128,-4.2
+2024-04-14,202404140BOS,WAS,Jules Bernard,https://www.basketball-reference.com/boxscores/202404140BOS.html,24:18,.623,.600,.400,.100,8.6,20.8,14.1,15.1,1.9,0.0,16.1,20.8,114,127,-0.5
+2024-04-14,202404140BOS,WAS,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202404140BOS.html,23:01,.765,.765,.353,.000,4.5,5.5,5.0,40.0,0.0,0.0,0.0,29.9,152,134,16.1
+2024-04-14,202404140BOS,WAS,Justin Champagnie,https://www.basketball-reference.com/boxscores/202404140BOS.html,20:47,.477,.444,.222,.111,5.0,36.5,19.2,17.4,4.4,4.1,0.0,18.4,114,115,2.4
+2024-04-14,202404140BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202404140BOS.html,43:43,.835,.810,.286,.190,2.9,19.1,11.8,38.2,0.0,0.0,8.1,24.2,168,125,7.6
+2024-04-14,202404140BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202404140BOS.html,37:16,1.000,1.000,.615,.000,3.4,11.2,7.7,16.9,0.0,2.0,7.1,16.1,185,124,7.9
+2024-04-14,202404140BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202404140BOS.html,35:16,.400,.400,.550,.000,3.6,11.8,8.1,6.4,2.6,2.1,0.0,24.3,97,118,-10.2
+2024-04-14,202404140BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202404140BOS.html,27:07,.870,.800,.000,.600,14.0,19.2,16.9,20.2,0.0,8.2,0.0,10.0,199,117,8.8
+2024-04-14,202404140BOS,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202404140BOS.html,17:08,.174,.000,.500,1.000,0.0,18.3,10.0,5.5,5.4,0.0,25.8,9.7,47,113,-9.6
+2024-04-14,202404140BOS,BOS,Jaden Springer,https://www.basketball-reference.com/boxscores/202404140BOS.html,20:02,.717,.625,.500,.500,0.0,10.4,5.7,0.0,6.9,3.7,17.0,12.6,120,108,0.6
+2024-04-14,202404140BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202404140BOS.html,19:30,.745,.727,.000,.364,19.4,32.1,26.4,7.9,0.0,22.7,19.0,34.6,126,101,4.8
+2024-04-14,202404140BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202404140BOS.html,15:36,.273,.333,.167,.500,0.0,13.4,7.3,6.9,2.9,14.2,29.1,28.3,45,106,-16.2
+2024-04-14,202404140BOS,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202404140BOS.html,10:26,.174,.000,.500,1.000,0.0,30.0,16.4,18.0,4.4,0.0,25.8,15.9,63,113,-14.7
+2024-04-14,202404140BOS,BOS,Drew Peterson,https://www.basketball-reference.com/boxscores/202404140BOS.html,8:08,.000,.000,1.000,.000,0.0,12.8,7.0,0.0,5.7,0.0,50.0,10.5,0,113,-15.1
+2024-04-14,202404140BOS,BOS,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202404140BOS.html,5:47,1.014,1.125,.250,.250,21.8,0.0,9.9,0.0,0.0,0.0,18.4,40.2,136,128,12.8

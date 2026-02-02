@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-12-06,202112060GSW,ORL,Q1,Franz Wagner,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.12,2,4,.500,0,1,.000,0,0,1,0,1,4,1,0,0,0,4,6.5,+2,
+2021-12-06,202112060GSW,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,8.7,1,2,.500,1,2,.500,3,4,0,2,2,0,1,0,0,0,6,6.2,-4,.750
+2021-12-06,202112060GSW,ORL,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.73,3,5,.600,1,3,.333,0,1,0,1,1,0,1,0,2,1,7,3.2,-5,.000
+2021-12-06,202112060GSW,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202112060GSW.html,7.88,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-3,
+2021-12-06,202112060GSW,ORL,Q1,Mo Bamba,https://www.basketball-reference.com/boxscores/202112060GSW.html,7.7,1,2,.500,0,1,.000,0,0,0,2,2,1,0,1,0,0,2,3.0,-3,
+2021-12-06,202112060GSW,ORL,Q1,Chuma Okeke,https://www.basketball-reference.com/boxscores/202112060GSW.html,4.3,0,0,,0,0,,1,2,0,0,0,0,1,0,0,0,1,1.6,-2,.500
+2021-12-06,202112060GSW,ORL,Q1,R.J. Hampton,https://www.basketball-reference.com/boxscores/202112060GSW.html,4.12,2,2,1.000,1,1,1.000,1,1,0,0,0,0,0,0,1,0,6,4.4,-2,1.000
+2021-12-06,202112060GSW,ORL,Q1,Terrence Ross,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.18,0,2,.000,0,2,.000,0,0,0,2,2,0,0,0,1,0,0,-1.8,-8,
+2021-12-06,202112060GSW,ORL,Q1,Mychal Mulder,https://www.basketball-reference.com/boxscores/202112060GSW.html,2.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2021-12-06,202112060GSW,ORL,Q2,Franz Wagner,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.78,1,5,.200,0,1,.000,0,0,2,0,2,0,1,0,0,0,2,1.3,-16,
+2021-12-06,202112060GSW,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.87,1,2,.500,0,0,,0,0,1,6,7,1,0,0,1,0,2,3.2,-13,
+2021-12-06,202112060GSW,ORL,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202112060GSW.html,8.87,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,1,2,0.9,-15,
+2021-12-06,202112060GSW,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.87,3,7,.429,0,2,.000,1,1,0,0,0,0,0,0,4,2,7,-1.5,-13,1.000
+2021-12-06,202112060GSW,ORL,Q2,Mo Bamba,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.7,0,2,.000,0,2,.000,0,0,0,0,0,0,0,1,1,0,0,-1.7,-5,
+2021-12-06,202112060GSW,ORL,Q2,Chuma Okeke,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.3,0,1,.000,0,1,.000,0,0,0,0,0,1,0,1,0,1,0,0.3,-11,
+2021-12-06,202112060GSW,ORL,Q2,R.J. Hampton,https://www.basketball-reference.com/boxscores/202112060GSW.html,2.13,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2021-12-06,202112060GSW,ORL,Q2,Terrence Ross,https://www.basketball-reference.com/boxscores/202112060GSW.html,7.48,2,3,.667,1,2,.500,0,0,1,1,2,0,0,0,1,0,5,3.7,-4,
+2021-12-06,202112060GSW,ORL,Q3,Franz Wagner,https://www.basketball-reference.com/boxscores/202112060GSW.html,8.25,4,4,1.000,1,1,1.000,0,0,0,1,1,1,1,0,1,0,9,8.8,-5,
+2021-12-06,202112060GSW,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,8.25,2,2,1.000,1,1,1.000,1,1,0,2,2,2,0,0,0,2,6,6.6,-5,1.000
+2021-12-06,202112060GSW,ORL,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.07,2,3,.667,2,3,.667,2,2,0,1,1,1,0,0,0,1,8,7.3,+6,1.000
+2021-12-06,202112060GSW,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.7,0,2,.000,0,2,.000,2,2,0,1,1,0,0,0,0,0,2,0.9,-1,1.000
+2021-12-06,202112060GSW,ORL,Q3,Mo Bamba,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.55,0,0,,0,0,,0,0,0,1,1,1,0,0,2,1,0,-1.4,+3,
+2021-12-06,202112060GSW,ORL,Q3,Chuma Okeke,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.75,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,1,0,-0.1,+8,
+2021-12-06,202112060GSW,ORL,Q3,R.J. Hampton,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.23,3,4,.750,0,0,,3,3,0,1,1,0,1,0,0,2,9,7.9,-1,1.000
+2021-12-06,202112060GSW,ORL,Q3,Terrence Ross,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.75,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+7,
+2021-12-06,202112060GSW,ORL,Q3,Moritz Wagner,https://www.basketball-reference.com/boxscores/202112060GSW.html,8.45,0,3,.000,0,1,.000,1,1,0,1,1,1,1,0,1,3,1,-1.3,-2,1.000
+2021-12-06,202112060GSW,ORL,Q4,Franz Wagner,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.35,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+3,
+2021-12-06,202112060GSW,ORL,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,2.72,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,-1,
+2021-12-06,202112060GSW,ORL,Q4,Chuma Okeke,https://www.basketball-reference.com/boxscores/202112060GSW.html,12.0,3,7,.429,1,3,.333,2,2,0,2,2,0,0,1,0,0,9,6.6,-12,1.000
+2021-12-06,202112060GSW,ORL,Q4,R.J. Hampton,https://www.basketball-reference.com/boxscores/202112060GSW.html,12.0,0,0,,0,0,,1,2,0,1,1,0,0,0,5,1,1,-4.5,-12,.500
+2021-12-06,202112060GSW,ORL,Q4,Terrence Ross,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.9,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,0,3,2.0,-1,
+2021-12-06,202112060GSW,ORL,Q4,Moritz Wagner,https://www.basketball-reference.com/boxscores/202112060GSW.html,8.65,0,2,.000,0,2,.000,0,0,0,2,2,2,0,0,0,2,0,-0.2,-15,
+2021-12-06,202112060GSW,ORL,Q4,Mychal Mulder,https://www.basketball-reference.com/boxscores/202112060GSW.html,12.0,1,3,.333,1,3,.333,0,0,0,3,3,0,1,0,1,1,3,1.8,-12,
+2021-12-06,202112060GSW,ORL,Q4,Ignas Brazdeikis,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.38,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-0.4,-10,
+2021-12-06,202112060GSW,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.88,1,6,.167,1,3,.333,0,0,0,3,3,2,1,0,1,0,3,1.5,+5,
+2021-12-06,202112060GSW,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202112060GSW.html,7.93,3,4,.750,3,3,1.000,0,0,0,0,0,1,0,0,1,1,9,6.7,-3,
+2021-12-06,202112060GSW,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202112060GSW.html,8.7,1,3,.333,1,2,.500,0,0,0,1,1,1,0,0,1,1,3,0.9,+4,
+2021-12-06,202112060GSW,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.88,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,1,1,4,2.3,+5,
+2021-12-06,202112060GSW,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.82,0,0,,0,0,,0,0,1,1,2,1,0,0,0,1,0,1.3,-3,
+2021-12-06,202112060GSW,GSW,Q1,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.18,0,3,.000,0,2,.000,0,0,0,1,1,0,1,0,0,1,0,-1.2,+8,
+2021-12-06,202112060GSW,GSW,Q1,Gary Payton II,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.18,2,2,1.000,1,1,1.000,0,0,0,2,2,1,0,0,0,1,5,5.3,+8,
+2021-12-06,202112060GSW,GSW,Q1,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.3,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,1,0,2,1.4,+1,
+2021-12-06,202112060GSW,GSW,Q1,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202112060GSW.html,2.12,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,5,4.4,0,
+2021-12-06,202112060GSW,GSW,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202112060GSW.html,7.65,2,3,.667,1,2,.500,2,2,0,1,1,3,0,0,0,0,7,8.1,+13,1.000
+2021-12-06,202112060GSW,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.87,2,4,.500,1,2,.500,5,5,0,2,2,3,1,0,0,0,10,11.7,+16,1.000
+2021-12-06,202112060GSW,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202112060GSW.html,7.65,3,6,.500,2,2,1.000,0,0,1,1,2,1,0,0,0,0,8,6.7,+13,
+2021-12-06,202112060GSW,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.52,0,0,,0,0,,0,0,0,2,2,1,1,1,1,2,0,1.2,+13,
+2021-12-06,202112060GSW,GSW,Q2,Damion Lee,https://www.basketball-reference.com/boxscores/202112060GSW.html,11.42,1,5,.200,0,2,.000,0,0,0,2,2,0,2,0,0,0,2,1.5,+18,
+2021-12-06,202112060GSW,GSW,Q2,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,4.35,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2021-12-06,202112060GSW,GSW,Q2,Gary Payton II,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.1,1,3,.333,0,1,.000,0,0,0,0,0,0,0,0,0,1,2,-0.1,+3,
+2021-12-06,202112060GSW,GSW,Q2,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202112060GSW.html,0.97,0,0,,0,0,,0,0,0,0,0,0,0,1,1,0,0,-0.3,-2,
+2021-12-06,202112060GSW,GSW,Q2,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.48,2,3,.667,1,2,.500,0,0,0,2,2,1,1,0,1,0,5,5.0,+3,
+2021-12-06,202112060GSW,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.5,0,3,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-1.8,0,
+2021-12-06,202112060GSW,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.27,1,4,.250,1,4,.250,3,3,0,1,1,3,0,0,2,1,6,3.6,-5,1.000
+2021-12-06,202112060GSW,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202112060GSW.html,10.0,5,6,.833,5,6,.833,2,4,0,0,0,0,1,0,0,1,17,14.6,+1,.500
+2021-12-06,202112060GSW,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/202112060GSW.html,9.5,1,2,.500,0,0,,1,2,1,3,4,2,2,0,0,0,3,6.6,0,.500
+2021-12-06,202112060GSW,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.77,2,3,.667,0,0,,3,4,2,1,3,0,0,0,0,1,7,6.6,-2,.750
+2021-12-06,202112060GSW,GSW,Q3,Damion Lee,https://www.basketball-reference.com/boxscores/202112060GSW.html,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,
+2021-12-06,202112060GSW,GSW,Q3,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.23,0,1,.000,0,1,.000,0,0,0,0,0,2,0,0,0,1,0,0.3,+1,
+2021-12-06,202112060GSW,GSW,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.23,0,0,,0,0,,0,0,1,1,2,0,0,0,0,1,0,0.6,+1,
+2021-12-06,202112060GSW,GSW,Q3,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202112060GSW.html,2.0,0,0,,0,0,,0,2,0,1,1,0,0,0,0,0,0,-0.5,-3,.000
+2021-12-06,202112060GSW,GSW,Q3,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202112060GSW.html,2.5,0,0,,0,0,,0,2,0,1,1,0,0,0,2,1,0,-2.9,-2,.000
+2021-12-06,202112060GSW,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202112060GSW.html,5.3,1,3,.333,0,0,,0,0,0,3,3,1,0,0,0,0,2,1.9,+4,
+2021-12-06,202112060GSW,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.9,2,4,.500,2,4,.500,0,0,0,0,0,1,1,0,0,0,6,5.7,+1,
+2021-12-06,202112060GSW,GSW,Q4,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.6,0,2,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,-0.7,0,
+2021-12-06,202112060GSW,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.6,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,0,
+2021-12-06,202112060GSW,GSW,Q4,Damion Lee,https://www.basketball-reference.com/boxscores/202112060GSW.html,12.0,1,1,1.000,0,0,,1,1,0,3,3,1,2,0,1,2,3,4.5,+12,1.000
+2021-12-06,202112060GSW,GSW,Q4,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,3.9,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+1,
+2021-12-06,202112060GSW,GSW,Q4,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202112060GSW.html,6.7,0,0,,0,0,,2,2,0,1,1,0,0,0,1,0,2,1.3,+8,1.000
+2021-12-06,202112060GSW,GSW,Q4,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202112060GSW.html,12.0,4,7,.571,0,1,.000,1,2,1,2,3,0,1,0,0,0,9,7.6,+12,.500
+2021-12-06,202112060GSW,GSW,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202112060GSW.html,4.5,2,3,.667,0,0,,0,0,0,0,0,0,0,0,0,0,4,2.7,+11,
+2021-12-06,202112060GSW,GSW,Q4,Moses Moody,https://www.basketball-reference.com/boxscores/202112060GSW.html,4.5,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,+11,

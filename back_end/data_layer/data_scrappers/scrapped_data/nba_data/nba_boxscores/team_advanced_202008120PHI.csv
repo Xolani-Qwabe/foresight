@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-12,202008120PHI,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202008120PHI.html,29:22,.439,.429,.429,.500,13.3,18.2,15.6,20.5,0.0,3.7,5.5,24.7,107,118,-2.3
+2020-08-12,202008120PHI,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202008120PHI.html,26:29,.697,.650,.600,.500,3.7,8.1,5.8,5.9,0.0,0.0,14.1,21.5,120,122,-1.7
+2020-08-12,202008120PHI,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202008120PHI.html,25:32,.406,.318,.273,.273,0.0,8.4,4.0,32.8,0.0,0.0,0.0,19.4,112,122,-5.8
+2020-08-12,202008120PHI,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202008120PHI.html,24:56,.635,.591,.364,.818,0.0,4.3,2.0,20.3,3.7,0.0,0.0,24.1,138,114,4.5
+2020-08-12,202008120PHI,TOR,Marc Gasol,https://www.basketball-reference.com/boxscores/202008120PHI.html,19:04,.652,.625,.500,.125,0.0,28.0,13.4,8.4,4.8,5.7,19.2,22.0,100,103,4.8
+2020-08-12,202008120PHI,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202008120PHI.html,24:47,.840,.833,.667,1.333,0.0,25.8,12.4,21.4,1.8,0.0,0.0,7.7,187,114,5.0
+2020-08-12,202008120PHI,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202008120PHI.html,23:02,.429,.429,.714,.000,4.3,9.3,6.7,0.0,0.0,0.0,12.5,13.9,81,122,-9.5
+2020-08-12,202008120PHI,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202008120PHI.html,21:59,.738,.750,.500,.167,17.8,24.3,20.9,0.0,0.0,19.8,7.2,25.3,135,107,12.3
+2020-08-12,202008120PHI,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202008120PHI.html,15:56,.363,.250,.833,.333,0.0,20.1,9.6,16.3,5.7,0.0,22.5,22.4,72,105,-11.2
+2020-08-12,202008120PHI,TOR,Malcolm Miller,https://www.basketball-reference.com/boxscores/202008120PHI.html,10:46,,,,,0.0,9.9,4.7,0.0,0.0,0.0,100.0,3.7,0,122,-14.4
+2020-08-12,202008120PHI,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202008120PHI.html,8:47,.512,.500,.250,.500,11.2,36.4,23.3,75.2,0.0,12.4,0.0,22.3,143,109,19.4
+2020-08-12,202008120PHI,TOR,Paul Watson,https://www.basketball-reference.com/boxscores/202008120PHI.html,5:08,1.064,1.000,.000,2.000,0.0,20.8,9.9,30.5,8.9,0.0,34.7,22.5,143,99,18.1
+2020-08-12,202008120PHI,TOR,Dewan Hernandez,https://www.basketball-reference.com/boxscores/202008120PHI.html,4:12,.694,.833,.333,1.000,0.0,0.0,0.0,100.0,0.0,0.0,18.8,50.8,123,124,23.4
+2020-08-12,202008120PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202008120PHI.html,24:46,.666,.654,.308,.615,4.3,19.8,12.4,41.2,0.0,8.2,0.0,27.7,147,119,12.4
+2020-08-12,202008120PHI,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/202008120PHI.html,24:11,.536,.438,.375,.375,4.4,16.2,10.6,0.0,3.8,4.2,30.0,22.9,77,114,-8.6
+2020-08-12,202008120PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202008120PHI.html,22:11,.405,.333,.667,.222,4.8,13.2,9.2,31.2,0.0,0.0,9.2,20.4,104,125,-7.0
+2020-08-12,202008120PHI,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202008120PHI.html,18:25,.654,.667,.833,.333,5.8,16.0,11.1,41.8,0.0,5.5,12.7,17.8,137,122,7.6
+2020-08-12,202008120PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202008120PHI.html,13:35,.434,.250,.000,1.000,7.9,57.7,33.8,0.0,3.4,7.5,46.5,32.9,53,101,-19.8
+2020-08-12,202008120PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202008120PHI.html,29:41,.714,.714,.571,.000,0.0,9.9,5.2,5.0,3.1,0.0,12.5,11.2,117,120,-0.7
+2020-08-12,202008120PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202008120PHI.html,29:17,.831,.750,.900,.600,3.6,13.4,8.7,21.3,3.1,0.0,13.7,20.8,148,119,11.1
+2020-08-12,202008120PHI,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202008120PHI.html,26:57,.521,.467,.400,.200,0.0,3.6,1.9,31.5,1.7,3.8,5.8,26.7,113,123,-0.2
+2020-08-12,202008120PHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202008120PHI.html,21:33,.949,1.000,.600,.600,9.9,13.6,11.8,14.8,0.0,0.0,0.0,12.2,194,125,5.3
+2020-08-12,202008120PHI,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/202008120PHI.html,19:47,.500,.500,.000,.000,5.4,9.9,7.7,0.0,2.3,15.5,20.0,10.5,86,111,-7.0
+2020-08-12,202008120PHI,PHI,Marial Shayok,https://www.basketball-reference.com/boxscores/202008120PHI.html,9:37,.387,.333,.000,.667,0.0,20.4,10.6,0.0,0.0,10.6,20.5,21.1,62,116,-16.3

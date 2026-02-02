@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-02-10,202502100MIL,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202502100MIL.html,33:59,.680,.625,.667,.375,0.0,22.3,10.0,23.5,0.0,0.0,6.7,35.6,135,116,11.0
+2025-02-10,202502100MIL,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202502100MIL.html,32:58,.597,.550,.500,.200,0.0,11.5,5.1,4.3,4.3,3.4,8.4,14.6,117,105,0.2
+2025-02-10,202502100MIL,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202502100MIL.html,32:11,.342,.286,.429,.571,3.2,7.8,5.3,19.6,7.3,3.5,10.2,12.3,97,99,0.1
+2025-02-10,202502100MIL,GSW,Jimmy Butler,https://www.basketball-reference.com/boxscores/202502100MIL.html,31:23,.538,.333,.167,1.250,19.5,12.1,16.2,26.3,6.0,0.0,5.1,25.3,137,103,8.7
+2025-02-10,202502100MIL,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202502100MIL.html,30:11,.533,.533,.533,.000,3.4,25.1,13.1,5.3,3.1,0.0,16.7,24.1,93,108,-5.9
+2025-02-10,202502100MIL,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202502100MIL.html,32:08,.383,.350,.500,.400,6.4,27.5,15.8,12.3,2.9,0.0,0.0,14.8,107,109,-2.4
+2025-02-10,202502100MIL,GSW,Quinten Post,https://www.basketball-reference.com/boxscores/202502100MIL.html,15:06,1.105,1.100,.800,.400,13.5,16.7,15.0,11.2,0.0,0.0,0.0,15.7,219,116,18.4
+2025-02-10,202502100MIL,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202502100MIL.html,12:14,.340,.200,.000,.400,25.0,20.7,23.1,21.2,0.0,0.0,14.5,22.7,102,115,-11.3
+2025-02-10,202502100MIL,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202502100MIL.html,9:55,1.000,1.000,.000,.000,0.0,0.0,0.0,46.4,0.0,0.0,0.0,8.2,211,117,6.8
+2025-02-10,202502100MIL,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202502100MIL.html,6:22,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.4,0,117,-18.2
+2025-02-10,202502100MIL,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202502100MIL.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,115,-24.7
+2025-02-10,202502100MIL,GSW,Jackson Rowe,https://www.basketball-reference.com/boxscores/202502100MIL.html,1:11,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68.3,102,118,-7.1
+2025-02-10,202502100MIL,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202502100MIL.html,1:11,,,,,0.0,100.0,95.4,98.9,0.0,0.0,,0.0,232,96,28.2
+2025-02-10,202502100MIL,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202502100MIL.html,38:52,.739,.675,.450,.650,0.0,13.1,7.3,37.3,1.2,0.0,28.0,39.8,111,124,3.8
+2025-02-10,202502100MIL,MIL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202502100MIL.html,33:43,.713,.667,.111,1.444,7.5,12.1,10.0,0.0,0.0,0.0,12.0,21.5,131,127,-0.3
+2025-02-10,202502100MIL,MIL,Taurean Prince,https://www.basketball-reference.com/boxscores/202502100MIL.html,32:26,.962,.944,.778,.222,0.0,25.2,13.9,10.2,0.0,0.0,9.2,14.5,168,122,10.2
+2025-02-10,202502100MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202502100MIL.html,24:51,.615,.500,.250,.500,5.1,12.3,9.1,17.0,0.0,12.1,29.1,12.0,109,122,2.5
+2025-02-10,202502100MIL,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202502100MIL.html,13:09,.400,.400,.200,.000,0.0,7.8,4.3,11.9,3.6,0.0,0.0,16.4,89,121,-1.9
+2025-02-10,202502100MIL,MIL,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202502100MIL.html,28:29,.444,.500,.714,.286,0.0,7.2,4.0,5.1,0.0,3.5,11.3,13.5,81,128,-6.0
+2025-02-10,202502100MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202502100MIL.html,26:23,.295,.273,.364,.182,4.8,23.2,15.0,5.6,1.8,0.0,7.8,21.1,65,118,-12.8
+2025-02-10,202502100MIL,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202502100MIL.html,21:49,.313,.313,.500,.000,0.0,9.4,5.2,0.0,0.0,0.0,0.0,15.9,64,128,-12.1
+2025-02-10,202502100MIL,MIL,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202502100MIL.html,10:09,1.000,1.000,.000,.000,0.0,10.1,5.6,28.4,4.6,0.0,66.7,12.8,85,117,-1.7
+2025-02-10,202502100MIL,MIL,Ryan Rollins,https://www.basketball-reference.com/boxscores/202502100MIL.html,6:36,.500,.500,.500,.000,19.1,0.0,8.6,0.0,0.0,0.0,0.0,13.1,121,132,-2.6
+2025-02-10,202502100MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202502100MIL.html,3:33,,,,,0.0,0.0,0.0,35.6,13.3,0.0,100.0,12.2,48,101,3.7

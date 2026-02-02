@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-25,202201250WAS,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202201250WAS.html,36:48,.613,.548,.429,.286,7.2,5.7,6.5,5.0,2.5,2.5,4.1,27.1,124,111,6.0
+2022-01-25,202201250WAS,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202201250WAS.html,32:27,.601,.542,.167,.250,2.7,12.9,7.4,14.7,4.3,0.0,0.0,16.6,132,106,3.7
+2022-01-25,202201250WAS,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202201250WAS.html,15:49,.202,.111,.222,.222,5.6,6.6,6.1,8.4,2.9,0.0,9.2,27.8,53,111,-19.3
+2022-01-25,202201250WAS,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202201250WAS.html,12:13,.148,.000,.000,.800,14.6,17.1,15.7,20.1,0.0,7.4,0.0,22.4,68,110,-12.2
+2022-01-25,202201250WAS,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202201250WAS.html,8:14,.000,.000,.000,.000,0.0,50.7,23.3,0.0,0.0,0.0,0.0,4.9,0,107,-14.6
+2022-01-25,202201250WAS,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202201250WAS.html,29:54,.847,.808,.615,.308,3.0,24.4,12.8,36.8,1.5,0.0,0.0,20.0,174,110,17.5
+2022-01-25,202201250WAS,LAC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202201250WAS.html,25:39,.563,.500,.083,.417,3.5,16.3,9.4,40.4,1.8,3.5,12.3,25.6,114,109,4.2
+2022-01-25,202201250WAS,LAC,Justise Winslow,https://www.basketball-reference.com/boxscores/202201250WAS.html,23:09,.333,.333,.500,.000,7.7,18.0,12.4,23.8,0.0,0.0,25.0,14.0,83,114,-9.4
+2022-01-25,202201250WAS,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202201250WAS.html,19:59,.285,.143,.143,.571,4.4,15.7,9.6,0.0,2.3,0.0,10.2,19.8,64,110,-12.6
+2022-01-25,202201250WAS,LAC,Jay Scrubb,https://www.basketball-reference.com/boxscores/202201250WAS.html,16:46,.901,.875,.500,.250,0.0,24.9,11.5,9.4,0.0,0.0,31.1,15.5,109,113,-1.4
+2022-01-25,202201250WAS,LAC,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202201250WAS.html,14:55,.902,.833,.333,.667,0.0,7.0,3.2,39.5,0.0,12.1,20.5,13.2,154,109,9.5
+2022-01-25,202201250WAS,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202201250WAS.html,4:07,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,19.7,0,119,-29.0
+2022-01-25,202201250WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202201250WAS.html,39:37,.652,.600,.333,.400,2.6,17.9,10.9,26.6,1.2,0.0,22.1,23.7,109,111,-0.4
+2022-01-25,202201250WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202201250WAS.html,34:37,.542,.464,.357,.571,6.0,25.7,16.6,14.5,1.3,2.1,18.6,25.8,99,107,-0.6
+2022-01-25,202201250WAS,WAS,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202201250WAS.html,33:38,.250,.250,.700,.000,3.1,13.2,8.6,16.7,2.7,0.0,23.1,16.0,60,109,-10.4
+2022-01-25,202201250WAS,WAS,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202201250WAS.html,29:17,.652,.500,.286,.714,3.6,6.1,4.9,5.1,0.0,0.0,0.0,13.0,145,118,-1.2
+2022-01-25,202201250WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202201250WAS.html,12:12,.685,.571,.000,.571,8.6,14.6,11.8,18.5,0.0,12.1,18.6,36.6,115,106,3.0
+2022-01-25,202201250WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202201250WAS.html,21:27,.590,.563,.250,.375,0.0,12.4,6.7,16.0,0.0,0.0,9.7,20.0,111,116,-1.3
+2022-01-25,202201250WAS,WAS,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202201250WAS.html,20:20,.638,.600,.000,2.000,15.4,21.9,18.9,15.8,0.0,7.3,0.0,19.2,148,107,9.0
+2022-01-25,202201250WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202201250WAS.html,20:08,.375,.375,.750,.000,0.0,8.8,4.8,20.7,0.0,0.0,0.0,8.2,107,117,-3.0
+2022-01-25,202201250WAS,WAS,Thomas Bryant,https://www.basketball-reference.com/boxscores/202201250WAS.html,15:21,.955,.875,.250,1.000,6.8,17.4,12.5,11.3,0.0,4.8,14.8,18.3,164,110,10.5
+2022-01-25,202201250WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202201250WAS.html,13:23,.583,.583,.333,.000,0.0,13.3,7.2,27.3,0.0,5.5,25.0,24.8,90,111,0.1

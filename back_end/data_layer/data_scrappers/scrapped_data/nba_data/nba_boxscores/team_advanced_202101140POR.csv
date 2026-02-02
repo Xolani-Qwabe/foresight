@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-14,202101140POR,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202101140POR.html,38:27,.582,.556,.111,.222,14.9,24.5,20.1,19.8,2.7,0.0,13.2,25.4,119,88,6.1
+2021-01-14,202101140POR,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202101140POR.html,37:19,.349,.286,.357,.286,3.1,22.7,13.8,0.0,1.4,11.7,16.0,21.6,68,87,-9.1
+2021-01-14,202101140POR,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202101140POR.html,34:50,.662,.639,.333,.111,6.6,8.1,7.4,31.9,4.4,0.0,9.6,25.7,134,93,14.4
+2021-01-14,202101140POR,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202101140POR.html,25:09,.917,.917,.667,.000,4.5,7.5,6.2,5.2,0.0,4.3,14.3,11.9,148,101,4.7
+2021-01-14,202101140POR,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/202101140POR.html,19:32,.438,.438,.500,.000,11.7,4.8,7.9,13.4,5.2,0.0,0.0,17.6,116,92,4.3
+2021-01-14,202101140POR,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202101140POR.html,25:09,.522,.464,.429,.214,0.0,11.2,6.2,17.6,0.0,0.0,6.1,27.8,113,102,-0.4
+2021-01-14,202101140POR,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202101140POR.html,21:28,.667,.667,.000,.000,5.3,17.5,12.0,45.3,7.1,0.0,40.0,10.0,125,81,10.4
+2021-01-14,202101140POR,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202101140POR.html,21:00,.500,.500,.333,.000,0.0,4.5,2.5,18.5,0.0,0.0,0.0,12.3,124,105,-1.9
+2021-01-14,202101140POR,IND,JaKarr Sampson,https://www.basketball-reference.com/boxscores/202101140POR.html,12:18,.307,.250,.000,.500,9.3,30.6,21.0,0.0,0.0,0.0,0.0,17.0,83,92,-9.1
+2021-01-14,202101140POR,IND,Kelan Martin,https://www.basketball-reference.com/boxscores/202101140POR.html,2:24,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.9,300,108,38.5
+2021-01-14,202101140POR,IND,Cassius Stanley,https://www.basketball-reference.com/boxscores/202101140POR.html,2:24,.758,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.6,165,108,6.3
+2021-01-14,202101140POR,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202101140POR.html,35:46,.590,.500,.313,.375,5.3,12.8,8.7,23.7,1.4,0.0,21.2,29.0,105,120,1.0
+2021-01-14,202101140POR,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202101140POR.html,34:04,.583,.556,.556,.111,2.8,6.7,4.5,27.2,1.5,0.0,5.0,25.6,125,122,7.2
+2021-01-14,202101140POR,POR,Robert Covington,https://www.basketball-reference.com/boxscores/202101140POR.html,26:32,.214,.214,.714,.000,0.0,4.3,1.9,6.0,3.8,2.9,22.2,14.9,43,116,-8.0
+2021-01-14,202101140POR,POR,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202101140POR.html,21:51,1.125,1.125,.250,.000,8.6,20.9,14.2,0.0,0.0,10.6,33.3,12.0,132,114,7.7
+2021-01-14,202101140POR,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202101140POR.html,20:43,.313,.313,.375,.000,9.1,33.1,19.9,16.9,0.0,3.7,20.0,21.2,71,114,-6.9
+2021-01-14,202101140POR,POR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202101140POR.html,24:32,.389,.389,.667,.000,0.0,0.0,0.0,7.5,0.0,0.0,0.0,16.1,91,127,-8.3
+2021-01-14,202101140POR,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202101140POR.html,21:59,.455,.455,.455,.000,0.0,10.4,4.7,9.4,4.6,0.0,15.4,25.9,83,114,-1.2
+2021-01-14,202101140POR,POR,Enes Freedom,https://www.basketball-reference.com/boxscores/202101140POR.html,15:22,.410,.250,.000,.500,36.7,22.3,30.2,21.6,0.0,0.0,29.1,19.6,101,120,-6.2
+2021-01-14,202101140POR,POR,Harry Giles,https://www.basketball-reference.com/boxscores/202101140POR.html,11:19,.333,.333,.333,.000,8.3,40.4,22.8,0.0,9.0,0.0,0.0,11.6,87,95,0.0
+2021-01-14,202101140POR,POR,Rodney Hood,https://www.basketball-reference.com/boxscores/202101140POR.html,10:28,.000,.000,1.000,.000,0.0,10.9,4.9,0.0,0.0,0.0,0.0,4.2,0,124,-14.1
+2021-01-14,202101140POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202101140POR.html,9:04,.000,.000,1.000,.000,0.0,25.2,11.4,16.5,0.0,0.0,16.7,29.0,11,119,-29.1
+2021-01-14,202101140POR,POR,CJ Elleby,https://www.basketball-reference.com/boxscores/202101140POR.html,4:10,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.5,300,127,15.5
+2021-01-14,202101140POR,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202101140POR.html,4:10,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,10.5,0,127,-20.1

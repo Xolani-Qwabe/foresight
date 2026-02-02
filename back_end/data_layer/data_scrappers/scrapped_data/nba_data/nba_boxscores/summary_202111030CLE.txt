@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202111030CLE.html
+Scraped: 2025-12-14 22:45:14
+
+line_scores: 2 rows (nba_boxscores/line_scores_202111030CLE.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202111030CLE.csv)
+team_basic: 18 rows (nba_boxscores/team_basic_202111030CLE.csv)
+team_advanced: 18 rows (nba_boxscores/team_advanced_202111030CLE.csv)
+quarters: 68 rows (nba_boxscores/quarters_202111030CLE.csv)

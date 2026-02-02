@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-04-05,202304050ATL,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202304050ATL.html,35:36,.495,.472,.222,.278,0.0,24.2,10.8,11.8,2.6,5.0,16.5,27.3,89,124,-5.1
+2023-04-05,202304050ATL,WAS,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202304050ATL.html,29:29,.460,.400,.300,.200,0.0,8.3,3.7,25.4,6.3,3.0,8.4,16.2,107,121,3.3
+2023-04-05,202304050ATL,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202304050ATL.html,28:03,.466,.500,.667,.167,0.0,8.8,3.9,4.7,1.6,0.0,7.2,19.9,90,133,-8.8
+2023-04-05,202304050ATL,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202304050ATL.html,22:47,.895,.800,.000,.900,17.6,32.4,24.2,7.5,2.0,7.8,17.7,29.9,152,122,13.5
+2023-04-05,202304050ATL,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202304050ATL.html,19:52,.410,.500,.250,.500,15.1,12.4,13.9,0.0,0.0,0.0,0.0,9.9,109,136,-10.5
+2023-04-05,202304050ATL,WAS,Jay Huff,https://www.basketball-reference.com/boxscores/202304050ATL.html,29:34,1.017,1.000,.500,.333,6.8,8.3,7.5,13.2,1.6,9.0,12.7,10.7,179,128,7.6
+2023-04-05,202304050ATL,WAS,Quenton Jackson,https://www.basketball-reference.com/boxscores/202304050ATL.html,27:57,.421,.364,.273,.182,3.6,4.4,3.9,9.0,0.0,0.0,7.8,18.5,93,138,-12.0
+2023-04-05,202304050ATL,WAS,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202304050ATL.html,26:06,.441,.441,.353,.000,0.0,4.7,2.1,22.9,0.0,0.0,5.6,27.7,96,138,-8.8
+2023-04-05,202304050ATL,WAS,Xavier Cooks,https://www.basketball-reference.com/boxscores/202304050ATL.html,17:13,.510,.400,.000,.400,11.6,28.6,19.2,21.2,2.7,5.2,14.5,16.1,117,123,1.6
+2023-04-05,202304050ATL,WAS,Isaiah Todd,https://www.basketball-reference.com/boxscores/202304050ATL.html,3:23,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,23.8,0,139,-33.5
+2023-04-05,202304050ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202304050ATL.html,38:32,.698,.450,.400,1.800,0.0,5.2,2.9,52.4,0.0,0.0,18.2,23.2,146,119,3.3
+2023-04-05,202304050ATL,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202304050ATL.html,30:15,.684,.654,.231,.154,0.0,23.1,12.8,10.5,3.1,0.0,22.4,24.1,105,108,-1.0
+2023-04-05,202304050ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202304050ATL.html,25:35,.998,.938,.500,1.000,0.0,11.7,6.5,0.0,0.0,0.0,0.0,18.4,206,117,9.3
+2023-04-05,202304050ATL,ATL,Saddiq Bey,https://www.basketball-reference.com/boxscores/202304050ATL.html,25:15,.556,.556,.556,.000,9.7,7.9,8.7,5.4,1.8,0.0,18.2,17.8,103,114,-5.4
+2023-04-05,202304050ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202304050ATL.html,15:06,.666,.600,.000,.800,32.6,26.5,29.2,0.0,3.1,14.4,12.9,21.0,139,96,3.5
+2023-04-05,202304050ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202304050ATL.html,23:51,.338,.250,.125,.250,10.3,16.8,13.9,15.5,3.9,3.0,10.1,16.9,98,105,-5.5
+2023-04-05,202304050ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202304050ATL.html,23:23,.627,.636,.182,.364,0.0,34.2,18.9,14.3,0.0,0.0,13.6,25.8,110,112,-2.1
+2023-04-05,202304050ATL,ATL,AJ Griffin,https://www.basketball-reference.com/boxscores/202304050ATL.html,22:38,.889,.889,.667,.000,5.4,8.8,7.3,7.0,0.0,0.0,0.0,16.2,175,118,9.7
+2023-04-05,202304050ATL,ATL,Aaron Holiday,https://www.basketball-reference.com/boxscores/202304050ATL.html,21:28,1.031,1.000,.667,.667,5.7,0.0,2.6,23.2,6.5,3.4,20.5,9.3,175,104,15.7
+2023-04-05,202304050ATL,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202304050ATL.html,3:01,.000,.000,.500,.000,40.8,0.0,18.3,0.0,0.0,0.0,0.0,27.1,48,119,-44.8
+2023-04-05,202304050ATL,ATL,Trent Forrest,https://www.basketball-reference.com/boxscores/202304050ATL.html,3:01,.000,.000,.000,.000,0.0,33.1,18.3,37.0,0.0,0.0,33.3,40.6,25,112,-38.6
+2023-04-05,202304050ATL,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202304050ATL.html,3:01,.000,.000,.500,.000,40.8,66.3,54.9,0.0,15.3,0.0,0.0,27.1,48,72,-6.2
+2023-04-05,202304050ATL,ATL,Tyrese Martin,https://www.basketball-reference.com/boxscores/202304050ATL.html,2:27,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.7,200,121,7.8
+2023-04-05,202304050ATL,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202304050ATL.html,2:27,.000,.000,1.000,.000,0.0,40.8,22.5,0.0,0.0,0.0,0.0,16.7,0,110,-22.3

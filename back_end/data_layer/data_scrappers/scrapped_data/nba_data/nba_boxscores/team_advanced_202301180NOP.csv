@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-18,202301180NOP,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202301180NOP.html,35:08,.635,.571,.571,.286,0.0,9.8,5.1,0.0,4.3,0.0,20.2,12.3,97,100,-2.6
+2023-01-18,202301180NOP,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202301180NOP.html,30:34,.737,.733,.000,.400,12.1,18.7,15.5,4.8,3.3,3.1,10.2,28.0,134,97,7.0
+2023-01-18,202301180NOP,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202301180NOP.html,26:34,.628,.615,.077,.231,4.6,8.6,6.7,35.6,0.0,0.0,12.3,26.8,126,110,2.9
+2023-01-18,202301180NOP,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202301180NOP.html,24:20,.504,.462,.538,.154,0.0,18.8,9.7,36.2,4.1,0.0,6.7,26.7,117,98,6.0
+2023-01-18,202301180NOP,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202301180NOP.html,22:01,.643,.700,.600,.200,11.2,31.1,21.5,20.1,2.3,0.0,15.5,12.8,133,99,4.2
+2023-01-18,202301180NOP,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202301180NOP.html,26:53,.615,.615,.769,.000,4.6,4.3,4.4,45.4,0.0,0.0,7.1,22.7,139,110,10.3
+2023-01-18,202301180NOP,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202301180NOP.html,25:59,.571,.571,.571,.000,0.0,22.0,11.4,14.2,0.0,0.0,0.0,23.5,122,106,0.1
+2023-01-18,202301180NOP,MIA,Victor Oladipo,https://www.basketball-reference.com/boxscores/202301180NOP.html,25:25,.583,.583,.333,.000,0.0,22.5,11.7,17.0,0.0,3.8,0.0,10.3,139,103,-0.3
+2023-01-18,202301180NOP,MIA,Orlando Robinson,https://www.basketball-reference.com/boxscores/202301180NOP.html,17:26,.635,.571,.000,.286,14.1,13.1,13.6,7.1,5.7,0.0,0.0,19.7,145,94,1.5
+2023-01-18,202301180NOP,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202301180NOP.html,5:40,.000,.000,.000,.000,21.7,0.0,10.5,0.0,8.8,0.0,0.0,7.7,77,92,-2.8
+2023-01-18,202301180NOP,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301180NOP.html,33:24,.533,.500,.125,.125,3.4,18.4,10.6,13.8,1.5,0.0,37.2,18.2,76,128,-9.7
+2023-01-18,202301180NOP,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202301180NOP.html,31:53,.419,.346,.385,.231,0.0,19.3,9.3,19.4,0.0,0.0,6.5,21.8,95,131,-7.3
+2023-01-18,202301180NOP,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202301180NOP.html,31:03,.618,.618,.529,.000,0.0,7.9,3.8,25.1,1.6,2.6,15.0,29.2,104,128,1.4
+2023-01-18,202301180NOP,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301180NOP.html,28:45,.278,.278,.667,.000,0.0,12.8,6.2,14.9,3.5,0.0,10.0,15.8,69,125,-7.2
+2023-01-18,202301180NOP,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301180NOP.html,25:00,.731,.727,.000,.273,18.3,29.5,23.7,0.0,0.0,0.0,24.5,29.6,107,129,-5.1
+2023-01-18,202301180NOP,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301180NOP.html,24:41,.611,.611,.556,.000,0.0,5.0,2.4,6.7,0.0,6.6,10.0,18.4,105,129,0.1
+2023-01-18,202301180NOP,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301180NOP.html,19:50,.773,1.000,.667,.667,0.0,18.6,9.0,22.6,0.0,0.0,20.5,11.2,120,131,-2.8
+2023-01-18,202301180NOP,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301180NOP.html,17:20,.347,.500,.000,1.000,6.6,7.1,6.8,48.5,0.0,0.0,0.0,7.5,141,134,5.7
+2023-01-18,202301180NOP,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202301180NOP.html,11:04,.673,.667,.000,1.667,20.7,11.1,16.1,30.6,4.5,0.0,16.1,25.4,133,123,8.6
+2023-01-18,202301180NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202301180NOP.html,5:40,.515,.333,.333,.667,20.2,21.7,20.9,0.0,0.0,0.0,0.0,31.0,122,131,-3.3
+2023-01-18,202301180NOP,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202301180NOP.html,5:40,1.500,1.500,1.000,.000,0.0,0.0,0.0,29.7,0.0,0.0,50.0,16.0,116,135,6.4
+2023-01-18,202301180NOP,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202301180NOP.html,5:40,.000,.000,.000,.000,0.0,21.7,10.5,0.0,0.0,0.0,0.0,8.0,0,130,-18.9

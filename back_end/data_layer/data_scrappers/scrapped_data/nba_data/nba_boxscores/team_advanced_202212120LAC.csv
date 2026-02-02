@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-12,202212120LAC,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202212120LAC.html,36:34,.460,.400,.400,.200,6.6,28.1,17.6,22.1,1.4,0.0,12.1,31.7,89,116,-3.3
+2022-12-12,202212120LAC,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202212120LAC.html,31:39,.250,.250,.667,.000,0.0,3.6,1.8,14.5,0.0,2.3,33.3,13.3,48,124,-15.9
+2022-12-12,202212120LAC,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202212120LAC.html,29:41,.595,.633,.400,.400,0.0,15.4,7.9,17.5,3.4,0.0,10.2,31.0,99,115,1.4
+2022-12-12,202212120LAC,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202212120LAC.html,20:41,.481,.333,.667,1.667,5.8,27.6,17.0,37.8,0.0,0.0,0.0,11.8,133,120,4.6
+2022-12-12,202212120LAC,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202212120LAC.html,15:24,.500,.500,1.000,.000,0.0,0.0,0.0,10.4,0.0,0.0,0.0,9.1,103,127,-5.6
+2022-12-12,202212120LAC,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202212120LAC.html,31:28,.654,.583,.500,.333,3.8,10.9,7.4,38.4,0.0,2.3,22.5,26.4,108,122,2.8
+2022-12-12,202212120LAC,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202212120LAC.html,29:28,.694,.643,.429,1.000,4.1,11.6,7.9,12.3,3.4,0.0,9.0,17.6,130,116,5.0
+2022-12-12,202212120LAC,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202212120LAC.html,14:58,1.000,1.000,.000,.000,0.0,15.3,7.8,12.1,0.0,9.9,0.0,6.3,205,115,5.5
+2022-12-12,202212120LAC,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202212120LAC.html,13:10,.357,.357,.857,.000,0.0,8.7,4.4,14.2,0.0,0.0,0.0,24.9,74,125,-8.1
+2022-12-12,202212120LAC,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202212120LAC.html,7:14,.000,.000,1.000,.000,0.0,0.0,0.0,40.2,0.0,0.0,50.0,13.0,46,127,-11.5
+2022-12-12,202212120LAC,BOS,Noah Vonleh,https://www.basketball-reference.com/boxscores/202212120LAC.html,6:27,,,,,0.0,35.4,18.2,0.0,0.0,11.4,,0.0,0,108,-2.1
+2022-12-12,202212120LAC,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202212120LAC.html,3:16,,,,,0.0,35.0,17.9,0.0,0.0,22.6,100.0,14.3,0,100,-4.4
+2022-12-12,202212120LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202212120LAC.html,35:27,.501,.409,.227,.409,0.0,20.3,9.9,12.2,1.4,0.0,7.2,35.0,107,100,-0.1
+2022-12-12,202212120LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202212120LAC.html,29:12,.854,.917,.250,.500,0.0,37.0,18.0,35.8,1.7,0.0,12.0,25.3,155,97,20.6
+2022-12-12,202212120LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202212120LAC.html,26:47,.438,.438,.500,.000,0.0,9.0,4.4,9.3,3.8,0.0,20.0,16.6,82,96,-3.3
+2022-12-12,202212120LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202212120LAC.html,26:32,.813,.813,.250,.000,0.0,9.0,4.4,0.0,0.0,0.0,0.0,13.4,163,105,4.6
+2022-12-12,202212120LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202212120LAC.html,17:06,.725,1.000,.000,4.000,6.7,14.0,10.3,6.8,0.0,7.6,26.6,9.8,121,98,-2.9
+2022-12-12,202212120LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202212120LAC.html,26:47,1.215,1.250,.500,1.000,8.5,22.4,15.3,0.0,3.8,0.0,25.8,6.4,178,94,4.9
+2022-12-12,202212120LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202212120LAC.html,25:44,.667,.667,.556,.000,0.0,0.0,0.0,5.4,3.9,0.0,10.0,17.2,124,97,3.7
+2022-12-12,202212120LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202212120LAC.html,20:06,.500,.500,.222,.000,28.4,11.9,20.4,0.0,0.0,6.5,0.0,19.9,129,100,3.4
+2022-12-12,202212120LAC,LAC,John Wall,https://www.basketball-reference.com/boxscores/202212120LAC.html,18:33,.300,.300,.200,.000,0.0,25.9,12.6,28.6,2.7,0.0,0.0,23.9,88,96,-3.0
+2022-12-12,202212120LAC,LAC,Moses Brown,https://www.basketball-reference.com/boxscores/202212120LAC.html,3:37,.500,.500,.000,.000,31.6,66.4,48.6,0.0,0.0,0.0,0.0,24.5,126,97,3.6
+2022-12-12,202212120LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202212120LAC.html,3:37,.000,.000,.500,.000,0.0,0.0,0.0,0.0,14.0,0.0,0.0,24.5,0,76,-11.1
+2022-12-12,202212120LAC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202212120LAC.html,3:16,.000,.000,.000,.000,0.0,0.0,0.0,33.4,0.0,0.0,0.0,40.7,24,106,-32.0
+2022-12-12,202212120LAC,LAC,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202212120LAC.html,3:16,.500,.500,.000,.000,70.0,36.7,53.8,0.0,0.0,0.0,0.0,27.2,140,101,4.8

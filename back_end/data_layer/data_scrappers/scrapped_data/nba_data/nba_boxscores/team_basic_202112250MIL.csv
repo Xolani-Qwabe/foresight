@@ -1,0 +1,19 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-12-25,202112250MIL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202112250MIL.html,40.25,6,14,.429,3,10,.300,4,4,1.000,0,2,2,7,1,0,4,3,19,12.9,-13
+2021-12-25,202112250MIL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112250MIL.html,39.8,7,20,.350,4,10,.400,7,8,.875,1,8,9,4,2,2,4,3,25,17.5,-7
+2021-12-25,202112250MIL,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202112250MIL.html,38.67,5,7,.714,0,0,,1,2,.500,6,8,14,4,0,2,2,4,11,14.9,+3
+2021-12-25,202112250MIL,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202112250MIL.html,37.23,8,18,.444,2,7,.286,7,7,1.000,1,3,4,3,2,1,3,4,25,17.4,-15
+2021-12-25,202112250MIL,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202112250MIL.html,25.67,2,4,.500,1,2,.500,0,0,,0,2,2,0,2,1,0,4,5,4.7,0
+2021-12-25,202112250MIL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202112250MIL.html,30.45,6,14,.429,4,8,.500,0,0,,1,4,5,5,1,1,0,3,16,14.5,+14
+2021-12-25,202112250MIL,BOS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202112250MIL.html,15.53,1,5,.200,1,4,.250,0,2,.000,1,4,5,1,0,1,0,1,3,2.0,-3
+2021-12-25,202112250MIL,BOS,Jabari Parker,https://www.basketball-reference.com/boxscores/202112250MIL.html,12.4,3,7,.429,2,4,.500,1,1,1.000,1,2,3,0,1,0,1,1,9,6.2,+1
+2021-12-25,202112250MIL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202112250MIL.html,37.05,8,14,.571,1,4,.250,0,0,,0,5,5,3,4,1,2,3,17,15.5,+19
+2021-12-25,202112250MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202112250MIL.html,35.78,5,13,.385,4,9,.444,3,4,.750,1,2,3,7,1,1,4,1,17,13.0,+21
+2021-12-25,202112250MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202112250MIL.html,29.8,13,23,.565,0,2,.000,10,15,.667,3,9,12,5,0,2,2,4,36,29.2,-1
+2021-12-25,202112250MIL,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202112250MIL.html,25.7,0,4,.000,0,3,.000,2,2,1.000,0,2,2,3,1,0,0,1,2,2.5,-4
+2021-12-25,202112250MIL,MIL,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202112250MIL.html,17.13,4,10,.400,0,2,.000,1,3,.333,3,5,8,0,0,0,1,4,9,3.8,-5
+2021-12-25,202112250MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202112250MIL.html,22.28,6,13,.462,2,4,.500,2,2,1.000,6,4,10,4,0,0,4,3,16,12.3,0
+2021-12-25,202112250MIL,MIL,George Hill,https://www.basketball-reference.com/boxscores/202112250MIL.html,21.22,2,4,.500,1,3,.333,0,0,,1,1,2,1,0,1,0,3,5,4.2,-4
+2021-12-25,202112250MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202112250MIL.html,17.68,1,2,.500,1,2,.500,0,0,,0,3,3,1,1,1,0,1,3,4.9,-15
+2021-12-25,202112250MIL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202112250MIL.html,17.67,3,4,.750,2,2,1.000,1,1,1.000,1,0,1,0,0,0,0,0,9,8.1,-4
+2021-12-25,202112250MIL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202112250MIL.html,15.68,1,4,.250,1,2,.500,0,0,,0,2,2,0,0,0,0,0,3,1.2,+13

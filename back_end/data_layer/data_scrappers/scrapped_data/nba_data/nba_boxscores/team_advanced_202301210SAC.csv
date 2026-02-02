@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-21,202301210SAC,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202301210SAC.html,41:17,.506,.448,.276,.207,0.0,10.3,4.7,19.9,0.0,0.0,5.9,33.1,120,132,-5.0
+2023-01-21,202301210SAC,PHI,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202301210SAC.html,33:07,.833,.875,.000,.625,17.7,8.5,13.5,7.5,0.0,2.8,0.0,12.5,182,130,6.0
+2023-01-21,202301210SAC,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202301210SAC.html,31:19,.717,.625,.500,.500,7.5,22.5,14.3,17.9,4.7,3.0,29.1,17.9,123,118,7.1
+2023-01-21,202301210SAC,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202301210SAC.html,25:10,.632,.615,.462,.077,0.0,28.0,12.7,32.1,0.0,0.0,27.1,29.8,107,130,-3.3
+2023-01-21,202301210SAC,PHI,P.J. Tucker,https://www.basketball-reference.com/boxscores/202301210SAC.html,19:13,.000,.000,1.000,.000,6.1,14.7,10.0,0.0,0.0,0.0,0.0,2.1,75,132,-8.4
+2023-01-21,202301210SAC,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202301210SAC.html,29:34,.528,.458,.167,.417,7.9,19.1,13.0,27.8,1.6,0.0,6.6,20.9,136,128,3.3
+2023-01-21,202301210SAC,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202301210SAC.html,27:02,.708,.708,.417,.000,8.7,20.9,14.2,4.9,0.0,0.0,14.3,21.0,130,131,1.6
+2023-01-21,202301210SAC,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202301210SAC.html,14:47,.654,.667,.000,.333,31.7,28.6,30.3,0.0,0.0,6.4,12.7,21.7,133,124,-3.6
+2023-01-21,202301210SAC,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202301210SAC.html,13:03,1.000,1.000,.000,.000,0.0,21.6,9.8,0.0,0.0,0.0,0.0,3.1,200,131,-5.7
+2023-01-21,202301210SAC,PHI,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202301210SAC.html,5:28,1.000,1.000,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.3,194,133,21.5
+2023-01-21,202301210SAC,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202301210SAC.html,41:26,.658,.611,.889,.222,3.4,8.5,6.2,2.8,0.0,1.8,0.0,10.9,135,135,-3.1
+2023-01-21,202301210SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202301210SAC.html,38:13,.662,.579,.105,.526,0.0,12.3,6.7,35.1,2.5,0.0,4.1,29.3,141,129,5.6
+2023-01-21,202301210SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202301210SAC.html,37:56,.840,.846,.692,.538,3.7,9.3,6.7,3.5,0.0,0.0,0.0,19.4,162,135,4.9
+2023-01-21,202301210SAC,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202301210SAC.html,37:41,.680,.700,.100,.400,3.7,24.9,15.3,34.3,0.0,0.0,25.4,19.2,123,130,0.8
+2023-01-21,202301210SAC,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202301210SAC.html,30:44,.776,.750,.333,.167,4.6,7.6,6.2,14.0,4.7,0.0,0.0,19.2,158,125,7.4
+2023-01-21,202301210SAC,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202301210SAC.html,20:15,.414,.350,.500,.200,0.0,11.6,6.3,18.3,2.4,7.3,0.0,24.6,98,125,-3.5
+2023-01-21,202301210SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202301210SAC.html,11:52,.375,.375,.750,.000,0.0,0.0,0.0,9.6,0.0,0.0,0.0,15.4,86,138,-13.4
+2023-01-21,202301210SAC,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202301210SAC.html,11:26,.258,.333,.333,.667,0.0,10.2,5.6,0.0,0.0,0.0,0.0,15.5,50,135,-18.4
+2023-01-21,202301210SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202301210SAC.html,5:33,1.000,1.000,.000,.000,0.0,21.1,11.5,0.0,0.0,26.6,0.0,16.5,200,117,18.2
+2023-01-21,202301210SAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202301210SAC.html,4:41,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,39.1,43,138,-35.1
+2023-01-21,202301210SAC,SAC,KZ Okpala,https://www.basketball-reference.com/boxscores/202301210SAC.html,0:11,,,,,0.0,100.0,100.0,0.0,0.0,0.0,100.0,100.0,0,-77,-220.7
+2023-01-21,202301210SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202301210SAC.html,0:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,138,-8.1

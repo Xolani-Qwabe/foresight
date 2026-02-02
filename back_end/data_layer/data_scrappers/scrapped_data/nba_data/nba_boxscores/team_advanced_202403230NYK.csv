@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-23,202403230NYK,BRK,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403230NYK.html,36:38,.643,.643,.643,.000,0.0,10.7,6.0,26.4,1.5,0.0,17.6,22.8,107,119,1.7
+2024-03-23,202403230NYK,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202403230NYK.html,36:01,.571,.464,.357,.429,0.0,13.6,7.6,30.8,0.0,0.0,23.1,29.5,99,121,-4.5
+2024-03-23,202403230NYK,BRK,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403230NYK.html,33:47,.321,.321,.286,.000,7.3,14.5,11.3,15.1,0.0,7.5,12.5,23.3,74,116,-7.3
+2024-03-23,202403230NYK,BRK,Cameron Johnson,https://www.basketball-reference.com/boxscores/202403230NYK.html,31:33,.742,.643,.857,.571,0.0,6.2,3.5,10.3,1.7,0.0,0.0,13.7,155,120,2.4
+2024-03-23,202403230NYK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202403230NYK.html,30:56,.425,.400,.000,.400,11.9,19.0,15.9,10.0,1.7,5.4,14.5,10.9,104,112,-1.6
+2024-03-23,202403230NYK,BRK,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403230NYK.html,21:15,.200,.200,.800,.000,0.0,18.4,10.3,14.2,0.0,0.0,0.0,11.6,66,117,-12.7
+2024-03-23,202403230NYK,BRK,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403230NYK.html,14:08,.820,.875,.500,.500,0.0,0.0,0.0,14.3,7.6,0.0,29.1,23.9,99,110,6.0
+2024-03-23,202403230NYK,BRK,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403230NYK.html,12:02,.750,.750,.500,.000,0.0,16.3,9.1,22.1,0.0,0.0,14.3,28.6,115,120,5.4
+2024-03-23,202403230NYK,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403230NYK.html,10:24,.563,.500,.000,.250,35.5,9.4,21.0,37.3,0.0,8.1,0.0,21.0,150,116,6.4
+2024-03-23,202403230NYK,BRK,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403230NYK.html,6:46,.500,.500,.000,.000,0.0,29.0,16.1,26.4,0.0,0.0,33.3,21.8,76,113,-9.6
+2024-03-23,202403230NYK,BRK,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202403230NYK.html,2:10,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-9.1
+2024-03-23,202403230NYK,BRK,Noah Clowney,https://www.basketball-reference.com/boxscores/202403230NYK.html,2:10,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-9.2
+2024-03-23,202403230NYK,BRK,Trendon Watford,https://www.basketball-reference.com/boxscores/202403230NYK.html,2:10,1.500,1.500,1.000,.000,0.0,90.4,50.3,100.0,0.0,0.0,0.0,22.7,283,80,65.0
+2024-03-23,202403230NYK,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202403230NYK.html,48:00,.770,.750,.750,.125,2.0,2.6,2.3,9.1,1.1,0.0,0.0,15.2,166,112,6.1
+2024-03-23,202403230NYK,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202403230NYK.html,44:06,.355,.375,.375,.125,6.7,27.9,16.1,14.0,1.2,2.6,0.0,8.3,118,103,-1.1
+2024-03-23,202403230NYK,NYK,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202403230NYK.html,40:52,.602,.583,.542,.167,4.8,12.0,8.0,21.0,2.6,2.8,7.2,29.3,127,104,10.3
+2024-03-23,202403230NYK,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202403230NYK.html,32:49,.354,.354,.167,.000,3.0,11.3,6.6,36.8,1.6,0.0,4.0,32.9,97,108,-1.5
+2024-03-23,202403230NYK,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202403230NYK.html,26:11,.781,.800,.000,.200,15.0,23.5,18.7,13.4,8.2,8.7,21.6,22.9,126,84,16.2
+2024-03-23,202403230NYK,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202403230NYK.html,18:14,.000,.000,.000,.000,10.7,33.8,20.9,0.0,2.9,0.0,50.0,9.5,30,99,-15.2
+2024-03-23,202403230NYK,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202403230NYK.html,15:11,.265,.278,.556,.111,6.5,8.1,7.2,8.9,0.0,0.0,0.0,26.8,75,113,-13.5
+2024-03-23,202403230NYK,NYK,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202403230NYK.html,7:29,.000,.000,.500,1.000,26.2,16.4,21.9,15.3,0.0,0.0,0.0,16.6,59,111,-13.3
+2024-03-23,202403230NYK,NYK,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202403230NYK.html,7:08,.750,.750,1.000,.000,0.0,17.3,7.6,0.0,0.0,0.0,33.3,18.1,87,111,-7.5

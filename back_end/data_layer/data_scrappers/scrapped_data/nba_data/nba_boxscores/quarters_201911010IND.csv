@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-11-01,201911010IND,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/201911010IND.html,9.23,3,4,.750,2,2,1.000,0,0,0,2,2,0,1,0,1,0,8,7.0,+9,
+2019-11-01,201911010IND,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/201911010IND.html,9.23,2,6,.333,0,1,.000,0,0,0,1,1,2,0,0,0,1,4,1.9,+9,
+2019-11-01,201911010IND,CLE,Q1,Kevin Love,https://www.basketball-reference.com/boxscores/201911010IND.html,8.62,2,4,.500,1,1,1.000,2,2,1,6,7,2,1,0,3,1,7,6.5,+3,1.000
+2019-11-01,201911010IND,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911010IND.html,10.0,2,3,.667,0,0,,1,2,0,3,3,0,0,0,0,0,5,4.2,+9,.500
+2019-11-01,201911010IND,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/201911010IND.html,6.62,0,2,.000,0,1,.000,2,2,0,0,0,1,0,0,0,0,2,1.3,+5,1.000
+2019-11-01,201911010IND,CLE,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911010IND.html,5.38,0,2,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,-0.4,+2,
+2019-11-01,201911010IND,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,5.38,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2019-11-01,201911010IND,CLE,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,2.77,0,0,,0,0,,0,0,0,3,3,0,0,0,1,1,0,-0.5,-2,
+2019-11-01,201911010IND,CLE,Q1,Brandon Knight,https://www.basketball-reference.com/boxscores/201911010IND.html,2.77,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,1,0,-2.1,-2,
+2019-11-01,201911010IND,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/201911010IND.html,8.72,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,-4,
+2019-11-01,201911010IND,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/201911010IND.html,7.38,1,3,.333,0,0,,0,0,0,1,1,0,1,0,0,1,2,1.2,-6,
+2019-11-01,201911010IND,CLE,Q2,Kevin Love,https://www.basketball-reference.com/boxscores/201911010IND.html,7.82,0,1,.000,0,0,,1,2,0,5,5,1,0,0,1,0,1,1.1,-7,.500
+2019-11-01,201911010IND,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911010IND.html,7.97,1,2,.500,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.0,-6,
+2019-11-01,201911010IND,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/201911010IND.html,7.27,0,4,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,-2.1,-3,
+2019-11-01,201911010IND,CLE,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911010IND.html,6.07,2,2,1.000,0,0,,0,0,0,0,0,0,0,1,2,1,4,1.7,-7,
+2019-11-01,201911010IND,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,8.22,1,3,.333,0,1,.000,0,0,0,2,2,0,0,0,2,1,2,-1.5,-11,
+2019-11-01,201911010IND,CLE,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,3.28,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.7,-8,
+2019-11-01,201911010IND,CLE,Q2,Brandon Knight,https://www.basketball-reference.com/boxscores/201911010IND.html,3.28,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-8,
+2019-11-01,201911010IND,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/201911010IND.html,12.0,0,1,.000,0,1,.000,2,2,0,1,1,1,2,0,0,1,2,3.9,-2,1.000
+2019-11-01,201911010IND,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/201911010IND.html,8.75,2,6,.333,0,1,.000,0,0,0,0,0,0,1,0,0,0,4,1.6,-1,
+2019-11-01,201911010IND,CLE,Q3,Kevin Love,https://www.basketball-reference.com/boxscores/201911010IND.html,8.75,3,6,.500,3,6,.500,0,0,0,2,2,0,0,0,1,0,9,5.6,-1,
+2019-11-01,201911010IND,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911010IND.html,6.35,0,3,.000,0,0,,0,0,0,2,2,2,1,0,0,4,0,-0.7,+1,
+2019-11-01,201911010IND,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/201911010IND.html,8.5,0,2,.000,0,1,.000,0,2,0,1,1,1,0,0,0,0,0,-1.2,+2,.000
+2019-11-01,201911010IND,CLE,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911010IND.html,6.75,1,2,.500,0,1,.000,5,5,0,1,1,1,0,0,0,0,7,7.0,-5,1.000
+2019-11-01,201911010IND,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,5.65,1,2,.500,0,0,,0,0,0,2,2,0,0,0,1,0,2,0.6,-3,
+2019-11-01,201911010IND,CLE,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,3.25,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-1,
+2019-11-01,201911010IND,CLE,Q4,Cedi Osman,https://www.basketball-reference.com/boxscores/201911010IND.html,7.63,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+4,
+2019-11-01,201911010IND,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/201911010IND.html,12.0,4,6,.667,2,3,.667,1,2,0,1,1,0,0,0,0,1,11,7.9,0,.500
+2019-11-01,201911010IND,CLE,Q4,Kevin Love,https://www.basketball-reference.com/boxscores/201911010IND.html,9.75,2,5,.400,1,4,.250,0,0,0,3,3,1,0,0,1,1,5,2.5,-2,
+2019-11-01,201911010IND,CLE,Q4,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911010IND.html,7.15,0,0,,0,0,,0,0,1,2,3,1,1,0,0,2,0,2.2,+6,
+2019-11-01,201911010IND,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/201911010IND.html,3.13,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-1.4,-2,
+2019-11-01,201911010IND,CLE,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911010IND.html,8.87,3,6,.500,1,4,.250,2,2,0,0,0,3,1,0,0,2,9,8.3,+2,1.000
+2019-11-01,201911010IND,CLE,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,6.85,1,2,.500,0,0,,2,2,1,0,1,1,0,0,0,1,4,4.0,-3,1.000
+2019-11-01,201911010IND,CLE,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911010IND.html,4.62,1,1,1.000,1,1,1.000,2,2,0,1,1,0,0,0,1,0,5,4.0,-5,1.000
+2019-11-01,201911010IND,IND,Q1,Domantas Sabonis,https://www.basketball-reference.com/boxscores/201911010IND.html,10.0,1,3,.333,0,0,,0,0,1,6,7,0,0,0,1,0,2,1.8,-9,
+2019-11-01,201911010IND,IND,Q1,Jeremy Lamb,https://www.basketball-reference.com/boxscores/201911010IND.html,9.23,2,2,1.000,1,1,1.000,2,2,0,0,0,0,1,0,0,1,7,7.0,-9,1.000
+2019-11-01,201911010IND,IND,Q1,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/201911010IND.html,9.23,3,6,.500,0,1,.000,0,0,0,1,1,2,0,1,1,0,6,4.4,-9,
+2019-11-01,201911010IND,IND,Q1,T.J. Warren,https://www.basketball-reference.com/boxscores/201911010IND.html,9.23,0,3,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-2.2,-9,
+2019-11-01,201911010IND,IND,Q1,T.J. Leaf,https://www.basketball-reference.com/boxscores/201911010IND.html,2.8,0,0,,0,0,,0,0,0,0,0,0,1,0,0,2,0,0.2,-2,
+2019-11-01,201911010IND,IND,Q1,Goga Bitadze,https://www.basketball-reference.com/boxscores/201911010IND.html,2.0,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+2,
+2019-11-01,201911010IND,IND,Q1,Justin Holiday,https://www.basketball-reference.com/boxscores/201911010IND.html,2.77,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,+2,
+2019-11-01,201911010IND,IND,Q1,Doug McDermott,https://www.basketball-reference.com/boxscores/201911010IND.html,2.77,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,+2,
+2019-11-01,201911010IND,IND,Q1,T.J. McConnell,https://www.basketball-reference.com/boxscores/201911010IND.html,2.77,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+2,
+2019-11-01,201911010IND,IND,Q1,JaKarr Sampson,https://www.basketball-reference.com/boxscores/201911010IND.html,6.43,1,6,.167,0,2,.000,0,0,1,0,1,0,0,1,0,2,2,-1.2,-7,
+2019-11-01,201911010IND,IND,Q1,Aaron Holiday,https://www.basketball-reference.com/boxscores/201911010IND.html,2.77,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,+2,
+2019-11-01,201911010IND,IND,Q2,Domantas Sabonis,https://www.basketball-reference.com/boxscores/201911010IND.html,7.97,3,5,.600,0,0,,0,0,2,3,5,2,0,0,1,1,6,6.0,+6,
+2019-11-01,201911010IND,IND,Q2,Jeremy Lamb,https://www.basketball-reference.com/boxscores/201911010IND.html,6.97,1,3,.333,0,2,.000,0,0,0,2,2,0,0,0,0,1,2,0.5,+5,
+2019-11-01,201911010IND,IND,Q2,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/201911010IND.html,7.97,2,4,.500,1,1,1.000,0,0,0,1,1,2,0,0,0,1,5,4.3,+6,
+2019-11-01,201911010IND,IND,Q2,T.J. Warren,https://www.basketball-reference.com/boxscores/201911010IND.html,7.38,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-1.1,+6,
+2019-11-01,201911010IND,IND,Q2,Goga Bitadze,https://www.basketball-reference.com/boxscores/201911010IND.html,9.1,2,3,.667,0,0,,0,0,2,2,4,0,0,3,2,1,4,4.4,+12,
+2019-11-01,201911010IND,IND,Q2,Justin Holiday,https://www.basketball-reference.com/boxscores/201911010IND.html,6.93,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,0.3,+6,
+2019-11-01,201911010IND,IND,Q2,Doug McDermott,https://www.basketball-reference.com/boxscores/201911010IND.html,6.07,2,3,.667,0,1,.000,0,0,0,0,0,0,1,0,0,2,4,2.9,+7,
+2019-11-01,201911010IND,IND,Q2,T.J. McConnell,https://www.basketball-reference.com/boxscores/201911010IND.html,4.03,1,2,.500,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.7,+6,
+2019-11-01,201911010IND,IND,Q2,Aaron Holiday,https://www.basketball-reference.com/boxscores/201911010IND.html,3.58,0,2,.000,0,0,,0,0,0,0,0,1,2,0,0,0,0,1.3,+6,
+2019-11-01,201911010IND,IND,Q3,Domantas Sabonis,https://www.basketball-reference.com/boxscores/201911010IND.html,9.32,2,3,.667,0,0,,0,0,0,3,3,2,0,2,0,0,4,6.4,0,
+2019-11-01,201911010IND,IND,Q3,Jeremy Lamb,https://www.basketball-reference.com/boxscores/201911010IND.html,9.05,1,5,.200,0,2,.000,2,2,1,4,5,0,0,1,1,0,4,2.5,0,1.000
+2019-11-01,201911010IND,IND,Q3,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/201911010IND.html,9.18,3,5,.600,0,1,.000,4,4,2,3,5,1,1,0,3,0,10,8.7,+3,1.000
+2019-11-01,201911010IND,IND,Q3,T.J. Warren,https://www.basketball-reference.com/boxscores/201911010IND.html,10.35,1,3,.333,0,1,.000,0,0,1,0,1,0,0,0,0,2,2,0.2,+1,
+2019-11-01,201911010IND,IND,Q3,T.J. Leaf,https://www.basketball-reference.com/boxscores/201911010IND.html,5.25,0,4,.000,0,2,.000,0,0,1,2,3,0,0,0,0,0,0,-1.5,-3,
+2019-11-01,201911010IND,IND,Q3,Goga Bitadze,https://www.basketball-reference.com/boxscores/201911010IND.html,2.68,0,1,.000,0,1,.000,1,2,0,1,1,0,0,0,0,2,1,-0.6,+2,.500
+2019-11-01,201911010IND,IND,Q3,Justin Holiday,https://www.basketball-reference.com/boxscores/201911010IND.html,4.6,1,1,1.000,1,1,1.000,0,0,0,2,2,0,1,0,0,1,3,3.9,+3,
+2019-11-01,201911010IND,IND,Q3,Doug McDermott,https://www.basketball-reference.com/boxscores/201911010IND.html,2.82,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2019-11-01,201911010IND,IND,Q3,T.J. McConnell,https://www.basketball-reference.com/boxscores/201911010IND.html,2.82,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,-1,
+2019-11-01,201911010IND,IND,Q3,JaKarr Sampson,https://www.basketball-reference.com/boxscores/201911010IND.html,3.93,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+6,
+2019-11-01,201911010IND,IND,Q4,Domantas Sabonis,https://www.basketball-reference.com/boxscores/201911010IND.html,10.0,3,4,.750,0,0,,0,0,0,2,2,0,0,0,0,3,6,3.8,+3,
+2019-11-01,201911010IND,IND,Q4,Jeremy Lamb,https://www.basketball-reference.com/boxscores/201911010IND.html,9.6,3,3,1.000,0,0,,2,2,0,3,3,1,1,0,0,1,8,9.3,-3,1.000
+2019-11-01,201911010IND,IND,Q4,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/201911010IND.html,6.65,0,1,.000,0,1,.000,4,4,0,1,1,1,0,0,1,1,4,2.9,-1,1.000
+2019-11-01,201911010IND,IND,Q4,T.J. Warren,https://www.basketball-reference.com/boxscores/201911010IND.html,0.87,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,+1,.500
+2019-11-01,201911010IND,IND,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/201911010IND.html,11.13,1,2,.500,1,2,.500,2,2,2,3,5,0,0,1,1,0,5,6.0,-1,1.000
+2019-11-01,201911010IND,IND,Q4,Justin Holiday,https://www.basketball-reference.com/boxscores/201911010IND.html,8.65,1,2,.500,1,2,.500,0,0,0,0,0,0,0,1,1,0,3,1.7,-4,
+2019-11-01,201911010IND,IND,Q4,Doug McDermott,https://www.basketball-reference.com/boxscores/201911010IND.html,7.75,2,6,.333,0,1,.000,0,0,0,1,1,1,0,0,1,1,4,0.2,+4,
+2019-11-01,201911010IND,IND,Q4,T.J. McConnell,https://www.basketball-reference.com/boxscores/201911010IND.html,5.35,1,1,1.000,0,0,,1,1,0,0,0,3,0,0,0,1,3,4.4,+1,1.000

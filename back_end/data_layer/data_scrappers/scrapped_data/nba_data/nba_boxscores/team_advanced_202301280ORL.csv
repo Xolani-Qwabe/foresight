@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-28,202301280ORL,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202301280ORL.html,39:11,.689,.667,.278,.111,14.4,27.6,21.5,17.7,0.0,4.5,13.7,26.4,132,111,3.3
+2023-01-28,202301280ORL,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202301280ORL.html,38:18,.962,.964,.357,.429,0.0,6.3,3.4,29.3,0.0,2.3,15.3,24.3,163,116,11.9
+2023-01-28,202301280ORL,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202301280ORL.html,36:45,.759,.694,.389,.389,0.0,9.8,5.3,7.8,0.0,0.0,4.5,28.5,143,118,2.9
+2023-01-28,202301280ORL,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202301280ORL.html,36:32,.727,.727,.364,.000,0.0,19.7,10.7,6.8,1.4,2.4,8.3,15.6,129,111,2.1
+2023-01-28,202301280ORL,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202301280ORL.html,21:57,.375,.375,1.000,.000,0.0,21.9,11.8,4.8,0.0,8.0,0.0,8.6,87,108,-3.8
+2023-01-28,202301280ORL,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202301280ORL.html,20:48,.902,1.000,.000,.667,0.0,11.5,6.2,16.9,4.8,0.0,20.5,11.1,153,106,4.0
+2023-01-28,202301280ORL,CHI,Coby White,https://www.basketball-reference.com/boxscores/202301280ORL.html,19:14,.000,.000,.600,.000,0.0,18.7,10.1,15.6,2.6,0.0,28.6,17.2,33,111,-15.7
+2023-01-28,202301280ORL,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202301280ORL.html,14:37,.833,.833,.667,.000,0.0,8.2,4.4,7.9,3.4,0.0,0.0,9.7,164,110,4.3
+2023-01-28,202301280ORL,CHI,Goran Dragić,https://www.basketball-reference.com/boxscores/202301280ORL.html,12:38,.595,.600,1.000,.400,0.0,38.0,20.5,47.0,0.0,0.0,14.5,25.8,128,113,3.5
+2023-01-28,202301280ORL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202301280ORL.html,24:53,.539,.500,.250,.625,4.8,22.7,13.0,11.6,0.0,0.0,16.4,22.3,98,134,-7.5
+2023-01-28,202301280ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202301280ORL.html,24:45,.286,.214,.286,.286,9.7,28.5,18.3,16.5,2.0,0.0,6.0,30.8,74,129,-13.3
+2023-01-28,202301280ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202301280ORL.html,22:30,.415,.375,.250,.125,0.0,12.5,5.8,24.7,0.0,0.0,10.6,19.1,92,135,-7.9
+2023-01-28,202301280ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202301280ORL.html,21:32,.444,.429,.000,.286,0.0,6.6,3.0,19.5,0.0,0.0,20.2,20.9,82,135,-14.5
+2023-01-28,202301280ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202301280ORL.html,19:30,.875,.875,.500,.000,0.0,0.0,0.0,0.0,2.5,0.0,0.0,9.3,159,130,1.4
+2023-01-28,202301280ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202301280ORL.html,30:28,.700,.700,.333,.000,0.0,27.8,12.8,35.2,0.0,0.0,6.3,23.9,132,134,8.0
+2023-01-28,202301280ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202301280ORL.html,26:28,.751,.833,.667,.500,9.1,10.7,9.8,26.9,1.9,0.0,21.5,16.0,129,130,1.7
+2023-01-28,202301280ORL,ORL,Bol Bol,https://www.basketball-reference.com/boxscores/202301280ORL.html,23:15,.667,.667,.333,.000,0.0,30.4,13.9,11.2,0.0,0.0,40.0,9.8,85,134,-5.2
+2023-01-28,202301280ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202301280ORL.html,23:07,.902,.864,.364,.818,0.0,12.2,5.6,25.5,2.1,0.0,0.0,29.4,180,130,23.3
+2023-01-28,202301280ORL,ORL,Admiral Schofield,https://www.basketball-reference.com/boxscores/202301280ORL.html,14:49,,,,,0.0,0.0,0.0,7.9,0.0,0.0,100.0,3.1,47,135,-12.1
+2023-01-28,202301280ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202301280ORL.html,8:43,.357,.357,.571,.000,13.8,48.6,29.8,0.0,5.7,0.0,0.0,36.5,78,119,-8.2

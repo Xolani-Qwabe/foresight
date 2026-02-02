@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-06-05,202106050BRK,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202106050BRK.html,36.65,7,19,.368,2,7,.286,1,3,.333,4,5,9,6,0,0,3,1,17,10.8,-13
+2021-06-05,202106050BRK,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202106050BRK.html,36.17,6,23,.261,0,5,.000,1,2,.500,3,10,13,4,0,0,2,2,13,4.0,-6
+2021-06-05,202106050BRK,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202106050BRK.html,35.25,16,24,.667,2,5,.400,0,3,.000,0,11,11,4,0,2,5,3,34,23.7,-7
+2021-06-05,202106050BRK,MIL,P.J. Tucker,https://www.basketball-reference.com/boxscores/202106050BRK.html,27.95,2,5,.400,1,4,.250,2,2,1.000,0,4,4,1,2,0,1,3,7,6.0,-13
+2021-06-05,202106050BRK,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202106050BRK.html,27.53,8,11,.727,0,1,.000,3,3,1.000,5,0,5,1,0,0,1,2,19,16.9,-8
+2021-06-05,202106050BRK,MIL,Bryn Forbes,https://www.basketball-reference.com/boxscores/202106050BRK.html,21.85,2,8,.250,1,5,.200,0,0,,0,2,2,1,0,0,0,2,5,0.7,0
+2021-06-05,202106050BRK,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202106050BRK.html,19.93,1,2,.500,0,1,.000,1,1,1.000,0,4,4,1,1,1,1,0,3,4.6,+1
+2021-06-05,202106050BRK,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202106050BRK.html,17.22,3,7,.429,0,1,.000,0,1,.000,2,5,7,0,1,0,1,1,6,4.4,-3
+2021-06-05,202106050BRK,MIL,Jeff Teague,https://www.basketball-reference.com/boxscores/202106050BRK.html,13.78,0,2,.000,0,1,.000,2,2,1.000,0,1,1,1,0,0,0,0,2,1.6,-2
+2021-06-05,202106050BRK,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202106050BRK.html,3.67,0,0,,0,0,,1,2,.500,1,1,2,2,0,0,0,1,1,2.6,+11
+2021-06-05,202106050BRK,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202106050BRK.html,44.58,11,26,.423,3,11,.273,0,0,,2,3,5,8,1,1,1,1,25,19.4,+14
+2021-06-05,202106050BRK,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202106050BRK.html,40.1,12,25,.480,1,4,.250,4,4,1.000,1,9,10,3,1,2,3,5,29,19.2,+14
+2021-06-05,202106050BRK,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202106050BRK.html,35.05,7,13,.538,4,9,.444,0,0,,2,12,14,3,2,0,3,6,18,15.4,+2
+2021-06-05,202106050BRK,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202106050BRK.html,34.3,7,11,.636,5,9,.556,0,0,,0,2,2,2,1,0,1,0,19,16.1,+6
+2021-06-05,202106050BRK,BRK,James Harden,https://www.basketball-reference.com/boxscores/202106050BRK.html,0.72,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2021-06-05,202106050BRK,BRK,Mike James,https://www.basketball-reference.com/boxscores/202106050BRK.html,30.25,5,11,.455,2,4,.500,0,0,,1,6,7,3,0,0,0,3,12,9.7,+12
+2021-06-05,202106050BRK,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202106050BRK.html,21.33,2,5,.400,0,1,.000,2,2,1.000,0,4,4,3,1,2,0,3,6,7.8,+3
+2021-06-05,202106050BRK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202106050BRK.html,14.33,1,2,.500,0,0,,2,3,.667,0,3,3,1,1,1,0,2,4,5.1,+11
+2021-06-05,202106050BRK,BRK,Landry Shamet,https://www.basketball-reference.com/boxscores/202106050BRK.html,12.17,1,3,.333,0,1,.000,0,0,,0,0,0,2,0,0,0,0,2,1.7,+10
+2021-06-05,202106050BRK,BRK,Chris Chiozza,https://www.basketball-reference.com/boxscores/202106050BRK.html,1.43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6
+2021-06-05,202106050BRK,BRK,Alize Johnson,https://www.basketball-reference.com/boxscores/202106050BRK.html,1.43,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-6
+2021-06-05,202106050BRK,BRK,Tyler Johnson,https://www.basketball-reference.com/boxscores/202106050BRK.html,1.43,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-6
+2021-06-05,202106050BRK,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202106050BRK.html,1.43,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-6
+2021-06-05,202106050BRK,BRK,Reggie Perry,https://www.basketball-reference.com/boxscores/202106050BRK.html,1.43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-6

@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202101250DET.html
+Scraped: 2025-12-14 19:10:49
+
+line_scores: 2 rows (nba_boxscores/line_scores_202101250DET.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202101250DET.csv)
+team_basic: 25 rows (nba_boxscores/team_basic_202101250DET.csv)
+team_advanced: 25 rows (nba_boxscores/team_advanced_202101250DET.csv)
+quarters: 83 rows (nba_boxscores/quarters_202101250DET.csv)

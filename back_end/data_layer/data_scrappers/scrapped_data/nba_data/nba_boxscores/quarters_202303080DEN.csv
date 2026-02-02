@@ -1,0 +1,74 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-03-08,202303080DEN,CHI,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202303080DEN.html,10.77,2,4,.500,0,1,.000,2,2,1.000,0,1,1,2,0,0,0,0,6,5.7,-6
+2023-03-08,202303080DEN,CHI,Q1,Nikola Vučević,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.38,2,6,.333,0,1,.000,0,0,,2,3,5,1,0,0,0,1,4,3.2,-5
+2023-03-08,202303080DEN,CHI,Q1,Zach LaVine,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.83,3,6,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,0,7,4.7,-5
+2023-03-08,202303080DEN,CHI,Q1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.83,0,2,.000,0,1,.000,0,0,,1,1,2,2,0,0,0,1,0,0.6,-5
+2023-03-08,202303080DEN,CHI,Q1,Alex Caruso,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.6,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,2,0,0,-2.0,-7
+2023-03-08,202303080DEN,CHI,Q1,Patrick Williams,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.4,3,3,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,6,5.1,+3
+2023-03-08,202303080DEN,CHI,Q1,Coby White,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.4,1,3,.333,0,2,.000,0,0,,0,1,1,2,0,0,0,0,2,2.0,+3
+2023-03-08,202303080DEN,CHI,Q1,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+1
+2023-03-08,202303080DEN,CHI,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.62,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1
+2023-03-08,202303080DEN,CHI,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.33,1,3,.333,0,1,.000,0,0,,0,0,0,2,2,0,1,0,2,2.7,+2
+2023-03-08,202303080DEN,CHI,Q2,Nikola Vučević,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.33,3,4,.750,1,1,1.000,2,2,1.000,0,3,3,0,0,0,0,0,9,8.3,+2
+2023-03-08,202303080DEN,CHI,Q2,Zach LaVine,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.98,3,4,.750,0,0,,2,2,1.000,0,1,1,0,1,0,0,0,8,7.7,+6
+2023-03-08,202303080DEN,CHI,Q2,Patrick Beverley,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.73,0,1,.000,0,1,.000,0,0,,0,3,3,2,0,0,0,0,0,1.6,0
+2023-03-08,202303080DEN,CHI,Q2,Alex Caruso,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.07,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,2,0,-2.9,-1
+2023-03-08,202303080DEN,CHI,Q2,Patrick Williams,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.93,1,2,.500,0,1,.000,1,1,1.000,1,1,2,0,0,0,0,0,3,3.0,+4
+2023-03-08,202303080DEN,CHI,Q2,Coby White,https://www.basketball-reference.com/boxscores/202303080DEN.html,2.53,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,+3
+2023-03-08,202303080DEN,CHI,Q2,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.42,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,1,2,0.3,-2
+2023-03-08,202303080DEN,CHI,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202303080DEN.html,2.67,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,+1
+2023-03-08,202303080DEN,CHI,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202303080DEN.html,8.33,1,4,.250,0,0,,2,2,1.000,0,1,1,2,1,0,0,2,4,3.5,+9
+2023-03-08,202303080DEN,CHI,Q3,Nikola Vučević,https://www.basketball-reference.com/boxscores/202303080DEN.html,8.22,1,2,.500,1,1,1.000,2,2,1.000,0,3,3,1,0,0,1,1,5,4.2,+11
+2023-03-08,202303080DEN,CHI,Q3,Zach LaVine,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.63,4,6,.667,1,2,.500,0,0,,0,2,2,1,1,0,1,2,9,6.9,+9
+2023-03-08,202303080DEN,CHI,Q3,Patrick Beverley,https://www.basketball-reference.com/boxscores/202303080DEN.html,8.25,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,1,0,0,3,3.7,+11
+2023-03-08,202303080DEN,CHI,Q3,Alex Caruso,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.97,3,4,.750,0,0,,0,0,,0,2,2,2,1,0,0,0,6,7.4,+6
+2023-03-08,202303080DEN,CHI,Q3,Patrick Williams,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.03,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,5,4.7,+6
+2023-03-08,202303080DEN,CHI,Q3,Coby White,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.0,0,0,,0,0,,0,0,,0,1,1,2,0,0,1,1,0,0.3,+6
+2023-03-08,202303080DEN,CHI,Q3,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202303080DEN.html,3.78,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+1
+2023-03-08,202303080DEN,CHI,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202303080DEN.html,3.78,1,2,.500,0,0,,0,0,,1,2,3,0,0,1,0,0,2,3.0,+1
+2023-03-08,202303080DEN,CHI,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.75,2,5,.400,0,0,,1,2,.500,1,3,4,2,0,0,1,1,5,3.5,+9
+2023-03-08,202303080DEN,CHI,Q4,Nikola Vučević,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.75,3,5,.600,0,1,.000,1,1,1.000,0,4,4,1,0,0,0,1,7,6.2,+9
+2023-03-08,202303080DEN,CHI,Q4,Zach LaVine,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.53,2,2,1.000,1,1,1.000,0,0,,0,2,2,2,0,0,0,0,5,6.4,+5
+2023-03-08,202303080DEN,CHI,Q4,Patrick Williams,https://www.basketball-reference.com/boxscores/202303080DEN.html,12.0,2,2,1.000,0,0,,0,0,,1,0,1,0,1,0,0,1,4,4.7,+10
+2023-03-08,202303080DEN,CHI,Q4,Coby White,https://www.basketball-reference.com/boxscores/202303080DEN.html,12.0,1,5,.200,1,3,.333,0,0,,0,1,1,0,0,0,0,0,3,0.2,+10
+2023-03-08,202303080DEN,CHI,Q4,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.47,0,2,.000,0,0,,4,4,1.000,0,1,1,0,2,0,0,0,4,4.9,+5
+2023-03-08,202303080DEN,CHI,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202303080DEN.html,2.25,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,+1
+2023-03-08,202303080DEN,CHI,Q4,Dalen Terry,https://www.basketball-reference.com/boxscores/202303080DEN.html,2.25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2023-03-08,202303080DEN,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.25,0,0,,0,0,,0,0,,0,0,0,3,0,0,0,0,0,2.1,+7
+2023-03-08,202303080DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.35,2,2,1.000,0,0,,1,2,.500,0,2,2,5,0,0,0,0,5,8.1,+4
+2023-03-08,202303080DEN,DEN,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.35,2,6,.333,1,3,.333,0,0,,1,1,2,0,1,0,0,1,5,3.2,+4
+2023-03-08,202303080DEN,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.83,2,2,1.000,0,0,,1,2,.500,0,0,0,0,0,0,0,0,5,4.0,+5
+2023-03-08,202303080DEN,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.38,1,5,.200,1,3,.333,0,0,,0,3,3,0,0,0,0,1,3,0.4,+5
+2023-03-08,202303080DEN,DEN,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.62,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2023-03-08,202303080DEN,DEN,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.4,1,2,.500,1,1,1.000,0,0,,0,2,2,2,0,0,1,1,3,2.6,-3
+2023-03-08,202303080DEN,DEN,Q1,Jeff Green,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.17,2,2,1.000,2,2,1.000,0,0,,0,1,1,0,0,0,0,0,6,5.7,-1
+2023-03-08,202303080DEN,DEN,Q1,Thomas Bryant,https://www.basketball-reference.com/boxscores/202303080DEN.html,2.65,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,0
+2023-03-08,202303080DEN,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.33,4,9,.444,1,3,.333,0,0,,0,1,1,0,0,0,1,2,9,2.8,-2
+2023-03-08,202303080DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.73,2,3,.667,0,0,,0,0,,1,3,4,0,0,0,2,1,4,1.9,0
+2023-03-08,202303080DEN,DEN,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.73,0,1,.000,0,1,.000,0,0,,0,0,0,3,1,0,0,1,0,2.0,0
+2023-03-08,202303080DEN,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.0,0,1,.000,0,1,.000,0,0,,1,2,3,0,0,1,0,0,0,1.3,+2
+2023-03-08,202303080DEN,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.0,3,4,.750,1,2,.500,0,0,,0,0,0,0,0,0,0,0,7,5.4,+2
+2023-03-08,202303080DEN,DEN,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.93,1,4,.250,1,2,.500,0,0,,0,0,0,1,0,0,0,1,3,0.9,-4
+2023-03-08,202303080DEN,DEN,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.0,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,0,0,1.0,-5
+2023-03-08,202303080DEN,DEN,Q2,Jeff Green,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.0,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,1,0,-0.5,-5
+2023-03-08,202303080DEN,DEN,Q2,Thomas Bryant,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2023-03-08,202303080DEN,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202303080DEN.html,8.33,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,-9
+2023-03-08,202303080DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202303080DEN.html,12.0,1,7,.143,1,5,.200,0,2,.000,0,3,3,2,0,0,2,0,3,-2.0,-12
+2023-03-08,202303080DEN,DEN,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.63,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1.7,-9
+2023-03-08,202303080DEN,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202303080DEN.html,9.63,4,10,.400,1,1,1.000,3,7,.429,5,1,6,1,0,0,0,0,12,9.5,-9
+2023-03-08,202303080DEN,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.65,0,3,.000,0,2,.000,0,0,,0,2,2,0,0,1,0,0,0,-0.8,-9
+2023-03-08,202303080DEN,DEN,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.35,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,-3
+2023-03-08,202303080DEN,DEN,Q3,Bruce Brown,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.03,3,3,1.000,0,0,,0,0,,1,1,2,0,1,0,1,2,6,5.3,-6
+2023-03-08,202303080DEN,DEN,Q3,Jeff Green,https://www.basketball-reference.com/boxscores/202303080DEN.html,2.37,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3
+2023-03-08,202303080DEN,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202303080DEN.html,8.28,0,4,.000,0,3,.000,2,2,1.000,0,1,1,2,0,0,1,0,2,-0.1,-10
+2023-03-08,202303080DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202303080DEN.html,5.95,2,4,.500,2,4,.500,0,0,,0,3,3,1,0,0,1,0,6,4.6,-6
+2023-03-08,202303080DEN,DEN,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.33,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2023-03-08,202303080DEN,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202303080DEN.html,4.33,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-2
+2023-03-08,202303080DEN,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202303080DEN.html,1.93,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,0
+2023-03-08,202303080DEN,DEN,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202303080DEN.html,7.67,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-8
+2023-03-08,202303080DEN,DEN,Q4,Bruce Brown,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.35,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,0.6,-10
+2023-03-08,202303080DEN,DEN,Q4,Jeff Green,https://www.basketball-reference.com/boxscores/202303080DEN.html,3.95,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-8
+2023-03-08,202303080DEN,DEN,Q4,Thomas Bryant,https://www.basketball-reference.com/boxscores/202303080DEN.html,6.05,3,4,.750,2,2,1.000,0,0,,0,0,0,0,0,0,0,1,8,6.0,-4
+2023-03-08,202303080DEN,DEN,Q4,Ish Smith,https://www.basketball-reference.com/boxscores/202303080DEN.html,3.72,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,1,1,2,1.3,0
+2023-03-08,202303080DEN,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202303080DEN.html,3.72,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,0
+2023-03-08,202303080DEN,DEN,Q4,Jack White,https://www.basketball-reference.com/boxscores/202303080DEN.html,3.72,0,0,,0,0,,0,0,,0,1,1,1,1,0,0,1,0,1.6,0

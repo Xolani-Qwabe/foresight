@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-01-25,202201250BOS,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202201250BOS.html,29.8,1,12,.083,0,6,.000,2,2,1.000,2,2,4,2,0,0,0,0,4,-0.6,-34
+2022-01-25,202201250BOS,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202201250BOS.html,27.3,2,9,.222,0,5,.000,3,3,1.000,3,2,5,7,1,1,2,1,7,8.4,-40
+2022-01-25,202201250BOS,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202201250BOS.html,23.53,4,6,.667,0,0,,1,2,.500,1,8,9,0,0,0,0,1,9,8.7,-29
+2022-01-25,202201250BOS,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202201250BOS.html,20.55,3,7,.429,0,1,.000,0,0,,0,6,6,0,1,1,1,1,6,4.4,-29
+2022-01-25,202201250BOS,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202201250BOS.html,9.55,2,5,.400,1,2,.500,2,3,.667,0,2,2,1,0,0,0,0,7,5.2,-17
+2022-01-25,202201250BOS,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202201250BOS.html,29.65,3,15,.200,0,5,.000,0,0,,0,1,1,2,1,0,3,1,6,-4.0,-34
+2022-01-25,202201250BOS,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202201250BOS.html,24.03,4,14,.286,3,9,.333,0,0,,2,3,5,1,1,0,2,2,11,4.0,-11
+2022-01-25,202201250BOS,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202201250BOS.html,16.22,1,2,.500,0,0,,2,2,1.000,2,0,2,0,1,2,0,1,4,6.4,-16
+2022-01-25,202201250BOS,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202201250BOS.html,14.65,3,7,.429,0,0,,0,0,,1,1,2,0,0,0,2,2,6,0.5,-12
+2022-01-25,202201250BOS,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202201250BOS.html,12.47,1,5,.200,1,2,.500,0,0,,1,1,2,0,2,1,0,1,3,3.2,-13
+2022-01-25,202201250BOS,SAC,Louis King,https://www.basketball-reference.com/boxscores/202201250BOS.html,12.0,2,5,.400,1,2,.500,1,2,.500,0,1,1,1,0,0,0,2,6,3.1,-11
+2022-01-25,202201250BOS,SAC,Robert Woodard II,https://www.basketball-reference.com/boxscores/202201250BOS.html,12.0,0,4,.000,0,1,.000,0,0,,2,2,4,1,0,1,0,0,0,0.6,-11
+2022-01-25,202201250BOS,SAC,Neemias Queta,https://www.basketball-reference.com/boxscores/202201250BOS.html,8.25,3,4,.750,0,0,,0,1,.000,1,1,2,0,0,2,0,2,6,5.6,-8
+2022-01-25,202201250BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202201250BOS.html,31.05,14,23,.609,7,14,.500,1,2,.500,2,2,4,6,0,1,2,2,36,29.2,+36
+2022-01-25,202201250BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202201250BOS.html,27.37,6,8,.750,0,0,,1,1,1.000,7,10,17,4,3,2,0,0,13,24.9,+42
+2022-01-25,202201250BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202201250BOS.html,23.95,11,19,.579,5,12,.417,3,3,1.000,0,10,10,3,0,0,0,3,30,25.0,+35
+2022-01-25,202201250BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202201250BOS.html,23.63,0,3,.000,0,1,.000,0,0,,0,3,3,7,1,0,3,0,0,1.7,+36
+2022-01-25,202201250BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202201250BOS.html,22.72,1,9,.111,1,2,.500,0,0,,3,5,8,2,0,1,0,0,3,2.8,+19
+2022-01-25,202201250BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202201250BOS.html,23.45,3,6,.500,2,3,.667,0,0,,2,1,3,3,0,1,1,1,8,8.1,+28
+2022-01-25,202201250BOS,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202201250BOS.html,22.47,6,9,.667,2,4,.500,0,0,,1,7,8,1,0,1,2,2,14,11.5,+21
+2022-01-25,202201250BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202201250BOS.html,19.23,4,8,.500,1,4,.250,1,1,1.000,1,3,4,0,0,0,0,2,10,6.8,+12
+2022-01-25,202201250BOS,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202201250BOS.html,16.03,1,5,.200,0,1,.000,0,0,,0,4,4,2,1,0,1,1,2,1.1,+9
+2022-01-25,202201250BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202201250BOS.html,12.0,0,2,.000,0,0,,0,0,,1,3,4,0,0,0,2,1,0,-2.2,+11
+2022-01-25,202201250BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202201250BOS.html,9.05,4,8,.500,1,3,.333,0,0,,0,1,1,3,1,0,0,0,9,8.4,+8
+2022-01-25,202201250BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202201250BOS.html,9.05,1,3,.333,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,2.3,+8

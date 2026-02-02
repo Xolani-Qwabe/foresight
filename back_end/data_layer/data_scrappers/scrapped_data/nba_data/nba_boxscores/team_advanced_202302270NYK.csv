@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-27,202302270NYK,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202302270NYK.html,36:41,.380,.361,.500,.056,5.9,18.7,11.6,40.4,1.4,0.0,17.8,29.0,84,119,-1.1
+2023-02-27,202302270NYK,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202302270NYK.html,33:35,.567,.533,.467,.267,3.2,12.3,7.2,10.6,1.5,6.1,5.6,25.1,111,115,4.8
+2023-02-27,202302270NYK,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202302270NYK.html,31:38,.492,.364,.455,.455,3.4,21.7,11.5,19.6,0.0,3.2,13.2,22.8,101,119,-1.7
+2023-02-27,202302270NYK,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202302270NYK.html,28:56,.615,.750,.000,.500,7.5,23.7,14.7,0.0,0.0,7.1,0.0,8.0,130,116,-2.4
+2023-02-27,202302270NYK,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202302270NYK.html,27:53,.722,.722,.778,.000,0.0,9.8,4.4,6.1,0.0,0.0,0.0,15.3,138,123,4.2
+2023-02-27,202302270NYK,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202302270NYK.html,27:31,.688,.688,.313,.000,0.0,10.0,4.4,17.8,1.9,3.7,0.0,27.6,133,116,12.6
+2023-02-27,202302270NYK,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202302270NYK.html,16:09,.347,.000,1.000,1.000,0.0,17.0,7.5,16.1,3.2,0.0,41.0,14.3,61,114,-9.5
+2023-02-27,202302270NYK,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202302270NYK.html,15:56,.250,.250,.750,.000,6.8,8.6,7.6,0.0,3.2,6.4,20.0,14.9,53,112,-7.3
+2023-02-27,202302270NYK,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202302270NYK.html,11:29,.750,.750,1.000,.000,0.0,11.9,5.3,0.0,0.0,8.9,0.0,8.3,139,116,0.6
+2023-02-27,202302270NYK,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202302270NYK.html,5:36,.000,.000,1.000,.000,0.0,24.5,10.8,23.2,0.0,0.0,33.3,25.4,19,118,-27.0
+2023-02-27,202302270NYK,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202302270NYK.html,2:36,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,125,-7.8
+2023-02-27,202302270NYK,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202302270NYK.html,2:00,.000,.000,.000,.000,0.0,68.6,30.4,0.0,0.0,0.0,0.0,23.7,0,113,-23.7
+2023-02-27,202302270NYK,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202302270NYK.html,39:32,.492,.333,.333,1.000,0.0,11.0,6.1,11.3,1.3,0.0,5.5,21.3,108,103,-1.9
+2023-02-27,202302270NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202302270NYK.html,35:53,.576,.531,.563,.563,3.8,18.2,11.9,19.4,0.0,0.0,4.8,27.0,123,105,6.2
+2023-02-27,202302270NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202302270NYK.html,31:41,.740,1.000,.000,.800,8.7,37.9,24.9,0.0,3.3,7.2,12.9,11.3,123,89,8.1
+2023-02-27,202302270NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202302270NYK.html,25:48,.346,.321,.214,.071,5.3,25.4,16.5,12.6,0.0,0.0,25.7,34.8,62,103,-17.0
+2023-02-27,202302270NYK,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202302270NYK.html,21:22,.500,.500,.600,.000,0.0,0.0,0.0,27.6,0.0,5.3,0.0,10.8,131,105,6.3
+2023-02-27,202302270NYK,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202302270NYK.html,30:33,.735,.692,.538,.462,0.0,10.7,6.0,12.1,1.7,0.0,0.0,23.6,152,103,13.5
+2023-02-27,202302270NYK,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202302270NYK.html,26:45,.750,.750,.375,.000,5.1,16.3,11.4,32.0,3.9,0.0,11.1,15.5,148,97,15.8
+2023-02-27,202302270NYK,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202302270NYK.html,16:16,.000,.000,.000,.000,0.0,6.7,3.7,0.0,0.0,0.0,50.0,5.7,0,107,-12.1
+2023-02-27,202302270NYK,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202302270NYK.html,12:07,.922,.875,.500,.500,22.6,18.0,20.1,0.0,0.0,0.0,17.0,22.4,154,105,11.5
+2023-02-27,202302270NYK,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202302270NYK.html,0:03,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,109,-4.1

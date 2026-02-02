@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-17,202303170CHO,PHI,James Harden,https://www.basketball-reference.com/boxscores/202303170CHO.html,31:23,.328,.267,.400,.267,10.9,22.2,17.3,38.3,4.6,0.0,10.7,24.7,102,77,2.4
+2023-03-17,202303170CHO,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202303170CHO.html,29:10,.789,.762,.000,.333,3.9,35.9,22.1,41.8,0.0,12.9,11.1,38.4,146,74,27.6
+2023-03-17,202303170CHO,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202303170CHO.html,28:55,.597,.550,.700,.200,4.0,3.0,3.4,8.4,0.0,0.0,15.5,18.4,116,92,-3.5
+2023-03-17,202303170CHO,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202303170CHO.html,22:33,.758,.773,.455,.182,5.1,15.5,11.0,0.0,2.1,0.0,7.8,23.6,140,84,8.8
+2023-03-17,202303170CHO,PHI,P.J. Tucker,https://www.basketball-reference.com/boxscores/202303170CHO.html,22:03,.000,.000,.000,.000,0.0,19.8,11.2,4.7,4.3,0.0,0.0,1.9,63,78,0.8
+2023-03-17,202303170CHO,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202303170CHO.html,25:57,.968,.875,.500,1.250,4.4,10.1,7.6,9.1,0.0,3.6,13.9,11.5,177,88,6.9
+2023-03-17,202303170CHO,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202303170CHO.html,19:09,.667,.667,.667,.000,0.0,22.8,12.9,6.5,2.5,0.0,14.3,15.1,120,81,2.6
+2023-03-17,202303170CHO,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202303170CHO.html,18:24,.137,.000,.833,.500,6.2,4.7,5.4,5.7,0.0,0.0,0.0,16.5,56,91,-15.2
+2023-03-17,202303170CHO,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202303170CHO.html,12:27,.500,.500,.000,.000,55.1,28.0,39.7,0.0,0.0,22.7,20.0,33.2,107,69,-1.1
+2023-03-17,202303170CHO,PHI,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202303170CHO.html,9:30,.700,.700,.600,.000,0.0,18.4,10.4,0.0,0.0,9.9,16.7,26.1,110,81,6.6
+2023-03-17,202303170CHO,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202303170CHO.html,7:03,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.7,0,93,-17.6
+2023-03-17,202303170CHO,PHI,Jaden Springer,https://www.basketball-reference.com/boxscores/202303170CHO.html,7:03,.500,.500,.000,.000,0.0,0.0,0.0,17.4,6.8,0.0,0.0,11.7,128,77,2.4
+2023-03-17,202303170CHO,PHI,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202303170CHO.html,6:23,.532,1.000,.000,2.000,0.0,41.0,23.3,19.5,7.5,0.0,0.0,12.2,113,65,8.6
+2023-03-17,202303170CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202303170CHO.html,30:46,.389,.389,.611,.000,0.0,7.4,3.2,31.8,4.7,0.0,5.3,26.8,77,119,-0.6
+2023-03-17,202303170CHO,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202303170CHO.html,30:41,.335,.167,.500,.833,0.0,7.4,3.2,6.0,1.6,0.0,5.7,24.6,69,125,-11.3
+2023-03-17,202303170CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202303170CHO.html,30:34,.355,.344,.313,.125,8.6,11.2,9.7,7.4,3.1,2.6,10.6,26.8,70,119,-5.3
+2023-03-17,202303170CHO,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202303170CHO.html,21:48,.615,.500,.000,.500,0.0,26.2,11.3,17.9,2.2,0.0,17.0,11.7,107,118,-3.0
+2023-03-17,202303170CHO,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202303170CHO.html,13:13,1.136,,,,6.6,8.6,7.5,0.0,0.0,6.1,69.4,9.5,82,124,-16.9
+2023-03-17,202303170CHO,CHO,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202303170CHO.html,31:57,.210,.182,.364,.182,0.0,17.9,7.7,46.2,0.0,2.5,14.4,18.9,57,124,-10.6
+2023-03-17,202303170CHO,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202303170CHO.html,27:21,.625,.625,.000,.000,6.4,29.3,16.3,8.7,1.8,2.9,11.1,14.3,110,117,0.6
+2023-03-17,202303170CHO,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202303170CHO.html,24:52,.563,.563,.625,.000,0.0,9.2,4.0,0.0,1.9,3.2,11.1,15.7,88,122,-3.6
+2023-03-17,202303170CHO,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202303170CHO.html,20:02,.726,.500,.250,1.250,4.4,0.0,2.5,19.8,2.4,4.0,24.4,17.8,118,123,1.6
+2023-03-17,202303170CHO,CHO,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202303170CHO.html,8:46,.316,.300,.600,.600,0.0,13.0,5.6,23.3,0.0,0.0,0.0,31.3,69,127,-6.5

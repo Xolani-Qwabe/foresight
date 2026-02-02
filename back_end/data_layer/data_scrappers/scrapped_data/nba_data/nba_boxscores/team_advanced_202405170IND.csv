@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-05-17,202405170IND,NYK,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202405170IND.html,39:18,.555,.536,.571,.214,2.7,10.2,6.0,8.5,2.8,1.9,0.0,18.6,126,132,1.3
+2024-05-17,202405170IND,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202405170IND.html,37:33,.517,.481,.308,.346,0.0,3.6,1.6,29.1,0.0,0.0,3.2,39.4,114,142,-0.3
+2024-05-17,202405170IND,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202405170IND.html,35:25,.833,.833,.500,.000,0.0,7.5,3.3,5.4,1.6,0.0,20.0,20.2,122,137,0.9
+2024-05-17,202405170IND,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202405170IND.html,33:03,.515,.333,.000,.667,9.5,16.1,12.4,25.2,1.7,0.0,20.5,7.1,143,134,0.6
+2024-05-17,202405170IND,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202405170IND.html,30:45,.313,.313,.500,.000,13.6,17.3,15.2,14.2,0.0,2.4,20.0,15.5,89,136,-8.6
+2024-05-17,202405170IND,NYK,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202405170IND.html,25:37,.588,.625,.125,.625,16.3,20.8,18.3,0.0,4.4,5.8,0.0,19.0,134,123,2.4
+2024-05-17,202405170IND,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202405170IND.html,24:40,.496,.313,.625,.875,4.2,10.8,7.1,6.1,0.0,0.0,0.0,21.5,122,139,-6.1
+2024-05-17,202405170IND,NYK,Shake Milton,https://www.basketball-reference.com/boxscores/202405170IND.html,3:39,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.1,0,143,-23.2
+2024-05-17,202405170IND,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202405170IND.html,3:39,,,,,0.0,36.5,16.0,36.5,0.0,20.2,,0.0,236,119,19.8
+2024-05-17,202405170IND,NYK,DaQuan Jeffries,https://www.basketball-reference.com/boxscores/202405170IND.html,3:25,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,300,143,24.8
+2024-05-17,202405170IND,NYK,Mamadi Diakite,https://www.basketball-reference.com/boxscores/202405170IND.html,2:56,.000,.000,1.000,.000,0.0,45.5,20.0,45.5,0.0,0.0,0.0,16.3,60,127,-12.8
+2024-05-17,202405170IND,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202405170IND.html,37:41,.625,.625,.333,.000,7.1,11.1,9.3,18.5,0.0,2.7,0.0,14.6,155,123,3.2
+2024-05-17,202405170IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202405170IND.html,32:09,.625,.625,.667,.000,0.0,19.5,10.9,33.6,0.0,6.2,7.7,18.5,144,118,9.1
+2024-05-17,202405170IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202405170IND.html,31:29,.697,.650,.300,.500,12.7,16.6,14.9,11.5,0.0,6.4,7.6,19.2,149,118,5.3
+2024-05-17,202405170IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202405170IND.html,31:01,.474,.500,.500,.125,12.9,10.1,11.3,14.5,0.0,0.0,10.6,14.0,119,125,-5.5
+2024-05-17,202405170IND,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202405170IND.html,30:41,.549,.524,.095,.190,13.0,13.6,13.4,24.6,3.6,0.0,4.2,35.5,129,115,6.6
+2024-05-17,202405170IND,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202405170IND.html,18:53,.515,.500,.667,.667,7.1,16.6,12.4,0.0,0.0,0.0,20.5,11.8,96,122,-9.8
+2024-05-17,202405170IND,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202405170IND.html,18:30,.917,.917,.333,.000,0.0,22.6,12.7,7.2,0.0,0.0,14.3,17.3,145,120,5.1
+2024-05-17,202405170IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202405170IND.html,16:10,.558,.538,.077,.077,8.2,6.5,7.2,42.1,3.4,0.0,6.9,40.9,125,119,7.6
+2024-05-17,202405170IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202405170IND.html,11:55,1.000,1.000,.000,.000,11.2,17.5,14.7,29.5,0.0,25.2,0.0,7.7,209,106,20.1
+2024-05-17,202405170IND,IND,Kendall Brown,https://www.basketball-reference.com/boxscores/202405170IND.html,3:25,.333,.333,.000,.000,0.0,30.5,17.1,0.0,0.0,0.0,0.0,40.2,79,115,-28.5
+2024-05-17,202405170IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202405170IND.html,3:25,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.4,0,130,-23.4
+2024-05-17,202405170IND,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202405170IND.html,3:25,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,13.4,0,130,-25.9
+2024-05-17,202405170IND,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202405170IND.html,1:16,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,130,-8.6

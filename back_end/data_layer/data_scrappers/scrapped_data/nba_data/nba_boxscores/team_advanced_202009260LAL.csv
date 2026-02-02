@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-09-26,202009260LAL,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/202009260LAL.html,45:37,.506,.444,.444,.222,0.0,29.6,12.0,3.4,1.1,2.0,4.8,19.4,100,117,-0.3
+2020-09-26,202009260LAL,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202009260LAL.html,43:05,.495,.412,.235,.294,4.7,7.0,5.6,29.5,1.1,0.0,20.7,24.0,95,121,-1.8
+2020-09-26,202009260LAL,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202009260LAL.html,30:42,.506,.188,.625,1.375,3.3,14.7,7.9,4.3,0.0,0.0,7.2,19.2,109,123,-3.3
+2020-09-26,202009260LAL,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202009260LAL.html,29:57,.608,.594,.250,.063,6.8,25.0,14.2,34.0,4.9,0.0,5.7,24.9,125,111,13.6
+2020-09-26,202009260LAL,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/202009260LAL.html,13:14,.375,.375,.750,.000,0.0,22.7,9.2,10.6,0.0,0.0,42.9,22.6,46,122,-18.4
+2020-09-26,202009260LAL,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202009260LAL.html,28:01,.506,.444,.111,.222,0.0,10.7,4.3,38.5,0.0,0.0,0.0,15.1,125,124,3.0
+2020-09-26,202009260LAL,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/202009260LAL.html,18:03,.470,.429,.000,.143,22.6,8.3,16.8,0.0,0.0,0.0,0.0,17.6,119,124,-3.7
+2020-09-26,202009260LAL,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202009260LAL.html,17:07,.635,.714,.571,.286,0.0,17.5,7.1,0.0,0.0,0.0,0.0,19.7,114,123,3.0
+2020-09-26,202009260LAL,DEN,Torrey Craig,https://www.basketball-reference.com/boxscores/202009260LAL.html,7:29,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,12.1,0.0,5.7,0,114,-4.1
+2020-09-26,202009260LAL,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202009260LAL.html,6:45,.833,.833,.333,.000,0.0,22.2,9.0,0.0,0.0,0.0,0.0,19.0,148,122,9.9
+2020-09-26,202009260LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202009260LAL.html,40:01,.666,.620,.160,.320,11.2,33.2,24.3,50.0,1.2,0.0,6.6,35.6,140,107,14.0
+2020-09-26,202009260LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202009260LAL.html,35:09,.678,.750,.000,1.500,8.5,20.3,15.6,0.0,0.0,4.6,23.1,11.5,112,109,-3.9
+2020-09-26,202009260LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202009260LAL.html,34:43,.676,.563,.250,.563,0.0,14.7,8.8,13.4,2.8,2.3,4.8,28.2,136,106,9.0
+2020-09-26,202009260LAL,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202009260LAL.html,28:06,.628,.571,.571,.571,0.0,0.0,0.0,9.3,0.0,5.7,0.0,14.6,134,113,4.4
+2020-09-26,202009260LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202009260LAL.html,26:21,.500,.500,.500,.000,0.0,3.9,2.3,0.0,3.7,0.0,33.3,5.3,61,109,-5.5
+2020-09-26,202009260LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202009260LAL.html,25:39,.739,.714,.143,.143,0.0,8.0,4.7,22.9,1.9,3.1,28.7,19.0,112,109,2.9
+2020-09-26,202009260LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202009260LAL.html,20:44,.538,.500,.429,.143,0.0,14.8,8.8,6.6,0.0,3.9,0.0,16.8,113,111,-1.5
+2020-09-26,202009260LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202009260LAL.html,14:13,.500,.500,1.000,.000,0.0,21.6,12.8,0.0,0.0,5.6,40.0,16.4,54,108,-7.1
+2020-09-26,202009260LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202009260LAL.html,12:49,.800,.800,.800,.000,0.0,23.9,14.2,48.7,0.0,0.0,16.7,21.9,144,111,9.5
+2020-09-26,202009260LAL,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202009260LAL.html,2:15,.000,.000,.000,.000,0.0,45.4,27.0,0.0,0.0,0.0,50.0,41.5,0,106,-58.4

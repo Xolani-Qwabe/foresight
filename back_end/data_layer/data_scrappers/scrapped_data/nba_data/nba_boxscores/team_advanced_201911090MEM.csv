@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-09,201911090MEM,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/201911090MEM.html,28:41,.659,.625,.375,.313,12.2,40.9,27.2,36.2,3.2,0.0,9.9,28.2,144,109,14.2
+2019-11-09,201911090MEM,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/201911090MEM.html,24:50,.563,.458,.583,.417,0.0,4.3,2.2,4.4,0.0,0.0,12.3,26.1,110,123,-9.2
+2019-11-09,201911090MEM,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201911090MEM.html,24:20,.611,.611,.444,.000,9.6,4.4,6.9,4.7,1.9,3.3,18.2,18.1,112,116,-2.0
+2019-11-09,201911090MEM,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911090MEM.html,23:33,.786,.786,.714,.000,0.0,18.1,9.5,4.6,0.0,3.5,0.0,11.9,164,118,4.6
+2019-11-09,201911090MEM,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/201911090MEM.html,16:20,.712,.600,.000,.600,14.3,19.6,17.1,13.6,2.8,5.0,24.0,20.4,129,110,3.8
+2019-11-09,201911090MEM,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/201911090MEM.html,29:16,.590,.625,.125,.375,8.0,18.2,13.3,11.2,3.1,5.6,17.7,15.5,116,109,1.6
+2019-11-09,201911090MEM,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/201911090MEM.html,25:27,.781,.800,.700,.200,9.2,8.4,8.8,0.0,0.0,0.0,0.0,17.1,163,122,4.6
+2019-11-09,201911090MEM,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/201911090MEM.html,23:40,.375,.375,.375,.000,4.9,27.0,16.5,26.5,0.0,0.0,11.1,15.2,112,119,-5.3
+2019-11-09,201911090MEM,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201911090MEM.html,22:13,.693,.679,.643,.071,0.0,0.0,0.0,5.9,0.0,0.0,0.0,26.0,146,124,4.2
+2019-11-09,201911090MEM,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911090MEM.html,18:49,.770,.750,.000,.125,0.0,11.3,5.9,27.8,4.9,0.0,26.2,24.4,123,111,3.9
+2019-11-09,201911090MEM,DAL,Ryan Broekhoff,https://www.basketball-reference.com/boxscores/201911090MEM.html,2:51,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,124,-6.9
+2019-11-09,201911090MEM,MEM,Jae Crowder,https://www.basketball-reference.com/boxscores/201911090MEM.html,30:39,.699,.667,.750,.167,0.0,15.3,7.3,15.4,4.5,5.7,7.2,18.7,136,123,9.8
+2019-11-09,201911090MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/201911090MEM.html,29:33,.643,.647,.353,.118,3.6,11.9,7.6,9.6,0.0,3.0,18.3,30.6,103,136,-5.7
+2019-11-09,201911090MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/201911090MEM.html,27:50,.829,.875,.375,.125,0.0,8.4,4.0,34.8,1.6,0.0,26.2,17.0,131,135,2.2
+2019-11-09,201911090MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/201911090MEM.html,23:18,.392,.273,.364,.364,4.6,10.0,7.2,14.1,0.0,3.7,7.3,24.4,94,136,-10.4
+2019-11-09,201911090MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/201911090MEM.html,19:49,.313,.313,.625,.000,21.5,5.9,14.1,21.5,0.0,0.0,20.0,20.9,92,139,-13.2
+2019-11-09,201911090MEM,MEM,Marko Gudurić,https://www.basketball-reference.com/boxscores/201911090MEM.html,28:11,.678,.611,.222,.333,3.8,8.3,5.9,16.4,3.2,0.0,8.8,16.6,138,132,3.7
+2019-11-09,201911090MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/201911090MEM.html,26:28,.750,.750,.125,.000,4.0,17.7,10.5,13.9,1.7,3.3,0.0,12.5,160,131,3.1
+2019-11-09,201911090MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/201911090MEM.html,20:10,.500,.500,.364,.000,0.0,17.4,8.3,12.5,4.5,0.0,15.4,26.6,89,126,-5.7
+2019-11-09,201911090MEM,MEM,Solomon Hill,https://www.basketball-reference.com/boxscores/201911090MEM.html,14:39,.387,.500,.667,.667,7.3,32.0,19.0,0.0,0.0,0.0,0.0,10.9,90,133,-12.1
+2019-11-09,201911090MEM,MEM,Bruno Caboclo,https://www.basketball-reference.com/boxscores/201911090MEM.html,9:45,.667,.667,.000,.000,10.9,36.0,22.9,16.2,4.7,9.0,14.3,29.7,117,116,7.6
+2019-11-09,201911090MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/201911090MEM.html,6:47,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,141,-11.0
+2019-11-09,201911090MEM,MEM,Yuta Watanabe,https://www.basketball-reference.com/boxscores/201911090MEM.html,2:51,1.000,1.000,.000,.000,0.0,41.1,19.6,0.0,0.0,0.0,0.0,29.0,200,131,12.8

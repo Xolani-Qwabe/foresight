@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-02,202104020NYK,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202104020NYK.html,35:34,.700,.700,.600,.000,0.0,18.2,10.5,7.3,2.8,0.0,0.0,6.6,145,87,5.8
+2021-04-02,202104020NYK,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202104020NYK.html,35:02,.525,.543,.348,.174,0.0,21.1,12.2,37.0,1.4,0.0,16.8,39.8,94,90,5.4
+2021-04-02,202104020NYK,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202104020NYK.html,33:39,.391,.382,.412,.118,0.0,21.9,12.7,4.4,0.0,2.8,14.4,29.1,68,91,-7.0
+2021-04-02,202104020NYK,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202104020NYK.html,32:38,.375,.375,.750,.000,11.6,17.0,14.7,0.0,0.0,0.0,0.0,11.5,95,95,-2.6
+2021-04-02,202104020NYK,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202104020NYK.html,27:29,.550,.550,.400,.000,0.0,13.4,7.8,5.4,1.8,0.0,9.1,18.8,99,92,0.7
+2021-04-02,202104020NYK,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202104020NYK.html,25:13,.759,.722,.222,.222,5.0,22.0,14.8,32.2,0.0,0.0,9.2,20.2,149,93,13.0
+2021-04-02,202104020NYK,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202104020NYK.html,20:48,.709,.722,.667,.222,0.0,13.3,7.7,7.8,4.9,0.0,0.0,22.3,137,84,15.4
+2021-04-02,202104020NYK,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202104020NYK.html,12:21,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,7.6,0.0,15.2,97,95,-1.8
+2021-04-02,202104020NYK,DAL,Nicolò Melli,https://www.basketball-reference.com/boxscores/202104020NYK.html,11:37,.000,.000,1.000,.000,0.0,7.9,4.6,10.1,0.0,0.0,0.0,4.0,52,98,-7.9
+2021-04-02,202104020NYK,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202104020NYK.html,5:39,.500,.500,.000,.000,0.0,0.0,0.0,26.1,0.0,0.0,0.0,16.6,116,101,1.4
+2021-04-02,202104020NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202104020NYK.html,37:04,.328,.275,.350,.150,0.0,27.3,11.5,55.8,1.4,2.5,19.0,32.6,74,102,0.0
+2021-04-02,202104020NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202104020NYK.html,30:47,.364,.364,.455,.000,0.0,24.6,10.4,0.0,0.0,0.0,0.0,16.4,74,108,-7.5
+2021-04-02,202104020NYK,NYK,Reggie Bullock,https://www.basketball-reference.com/boxscores/202104020NYK.html,22:25,.623,.600,.900,.100,0.0,11.3,4.8,9.1,0.0,0.0,0.0,21.4,123,109,6.3
+2021-04-02,202104020NYK,NYK,Nerlens Noel,https://www.basketball-reference.com/boxscores/202104020NYK.html,20:03,.500,.500,.000,.000,9.2,18.9,13.3,0.0,2.5,0.0,33.3,13.8,76,103,-6.7
+2021-04-02,202104020NYK,NYK,Elfrid Payton,https://www.basketball-reference.com/boxscores/202104020NYK.html,13:46,.500,.500,.333,.000,6.7,27.5,15.5,16.2,0.0,0.0,0.0,20.0,110,108,2.4
+2021-04-02,202104020NYK,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202104020NYK.html,29:10,.784,.727,.545,.364,0.0,8.7,3.7,7.4,3.5,0.0,7.3,21.7,141,102,13.5
+2021-04-02,202104020NYK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202104020NYK.html,27:57,.667,.667,.333,.000,3.3,13.6,7.6,0.0,3.6,6.7,0.0,4.9,140,95,1.9
+2021-04-02,202104020NYK,NYK,Derrick Rose,https://www.basketball-reference.com/boxscores/202104020NYK.html,25:24,.100,.100,.200,.000,10.9,9.9,10.5,25.1,0.0,0.0,0.0,18.1,58,110,-9.4
+2021-04-02,202104020NYK,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202104020NYK.html,22:28,.318,.278,.556,.111,4.1,22.5,11.9,0.0,0.0,0.0,17.5,23.4,58,108,-12.3
+2021-04-02,202104020NYK,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202104020NYK.html,10:56,.827,.800,.200,.200,8.4,11.6,9.8,0.0,4.6,0.0,15.5,27.1,130,98,11.6

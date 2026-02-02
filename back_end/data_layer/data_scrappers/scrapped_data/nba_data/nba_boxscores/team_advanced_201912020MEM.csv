@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-02,201912020MEM,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/201912020MEM.html,32:28,.644,.615,.385,.308,7.8,13.4,10.8,39.5,0.0,0.0,16.9,24.0,129,110,4.9
+2019-12-02,201912020MEM,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/201912020MEM.html,32:28,.631,.591,.364,.182,0.0,23.5,12.6,12.6,3.0,0.0,14.4,18.7,113,100,2.9
+2019-12-02,201912020MEM,IND,Myles Turner,https://www.basketball-reference.com/boxscores/201912020MEM.html,30:52,.604,.500,.455,.636,8.2,14.1,11.4,8.6,1.6,3.0,0.0,20.0,138,103,3.6
+2019-12-02,201912020MEM,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/201912020MEM.html,29:50,.500,.500,.056,.000,16.9,36.6,27.5,43.6,0.0,0.0,14.3,30.8,112,104,1.9
+2019-12-02,201912020MEM,IND,T.J. Warren,https://www.basketball-reference.com/boxscores/201912020MEM.html,24:45,.778,.778,.667,.000,0.0,8.8,4.7,11.3,2.0,0.0,10.0,17.7,132,106,4.9
+2019-12-02,201912020MEM,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/201912020MEM.html,29:14,1.071,1.071,.857,.000,0.0,11.2,6.0,4.6,0.0,0.0,22.2,13.5,134,110,6.6
+2019-12-02,201912020MEM,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/201912020MEM.html,21:25,.500,.500,.818,.000,0.0,5.1,2.7,12.8,0.0,4.4,8.3,24.5,97,108,-1.1
+2019-12-02,201912020MEM,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/201912020MEM.html,20:01,.410,.250,.500,.500,0.0,16.4,8.8,5.8,0.0,0.0,0.0,10.7,101,109,-7.6
+2019-12-02,201912020MEM,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/201912020MEM.html,15:32,.500,.500,.000,.000,0.0,14.0,7.5,24.5,0.0,0.0,33.3,16.9,87,109,-8.4
+2019-12-02,201912020MEM,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/201912020MEM.html,2:55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,15.0,0,113,-33.4
+2019-12-02,201912020MEM,IND,Alize Johnson,https://www.basketball-reference.com/boxscores/201912020MEM.html,0:30,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,-4.9
+2019-12-02,201912020MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/201912020MEM.html,33:49,.675,.579,.421,.474,3.2,11.2,6.9,11.9,1.4,5.7,8.0,32.7,128,117,8.0
+2019-12-02,201912020MEM,MEM,Solomon Hill,https://www.basketball-reference.com/boxscores/201912020MEM.html,33:20,.786,.786,.429,.000,3.3,18.9,10.5,11.5,4.4,0.0,12.5,21.3,130,112,10.5
+2019-12-02,201912020MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/201912020MEM.html,30:37,.167,.167,.167,.000,0.0,12.4,5.7,25.8,0.0,3.1,0.0,8.7,80,122,-7.6
+2019-12-02,201912020MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/201912020MEM.html,30:06,.535,.500,.375,.250,7.2,21.0,13.6,11.9,1.6,0.0,5.3,27.6,109,118,-1.5
+2019-12-02,201912020MEM,MEM,Jae Crowder,https://www.basketball-reference.com/boxscores/201912020MEM.html,29:43,.159,.111,.778,.111,3.7,12.8,7.9,4.4,0.0,3.2,9.6,15.6,44,122,-14.3
+2019-12-02,201912020MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/201912020MEM.html,27:01,.436,.333,.167,.333,0.0,9.4,4.3,15.5,0.0,0.0,12.7,12.9,93,125,-6.8
+2019-12-02,201912020MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/201912020MEM.html,24:55,.707,.650,.200,.300,13.1,30.4,21.1,29.1,0.0,0.0,15.0,23.7,133,120,5.4
+2019-12-02,201912020MEM,MEM,Marko Gudurić,https://www.basketball-reference.com/boxscores/201912020MEM.html,16:18,.300,.300,1.000,.000,0.0,23.2,10.8,16.8,0.0,5.9,16.7,16.3,66,118,-6.4
+2019-12-02,201912020MEM,MEM,Bruno Caboclo,https://www.basketball-reference.com/boxscores/201912020MEM.html,14:11,.250,.250,.500,.000,0.0,0.0,0.0,9.8,0.0,6.8,20.0,15.6,50,121,-12.7

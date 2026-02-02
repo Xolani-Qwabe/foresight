@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-29,202101290ORL,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202101290ORL.html,28.58,8,15,.533,2,6,.333,6,6,1.000,0,4,4,3,0,0,0,1,24,19.6,+23
+2021-01-29,202101290ORL,LAC,Paul George,https://www.basketball-reference.com/boxscores/202101290ORL.html,27.92,10,19,.526,3,9,.333,3,3,1.000,2,7,9,5,2,0,4,2,26,20.9,+27
+2021-01-29,202101290ORL,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202101290ORL.html,27.57,1,4,.250,1,4,.250,0,0,,0,4,4,3,0,0,0,0,3,3.9,+28
+2021-01-29,202101290ORL,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202101290ORL.html,24.6,4,7,.571,2,4,.500,0,0,,1,3,4,3,2,0,1,2,10,10.6,+23
+2021-01-29,202101290ORL,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202101290ORL.html,23.43,6,10,.600,0,2,.000,1,1,1.000,1,8,9,1,0,3,1,0,13,13.3,+24
+2021-01-29,202101290ORL,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202101290ORL.html,23.85,5,10,.500,2,4,.500,1,1,1.000,0,1,1,2,2,1,0,0,13,12.4,+6
+2021-01-29,202101290ORL,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202101290ORL.html,22.65,2,5,.400,2,4,.500,0,0,,0,3,3,1,0,0,0,2,6,4.1,0
+2021-01-29,202101290ORL,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202101290ORL.html,20.6,2,5,.400,0,0,,0,0,,3,4,7,1,0,0,1,2,4,3.5,0
+2021-01-29,202101290ORL,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202101290ORL.html,17.45,4,11,.364,1,1,1.000,0,0,,0,2,2,3,1,0,2,2,9,3.8,+7
+2021-01-29,202101290ORL,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202101290ORL.html,12.18,2,5,.400,0,2,.000,0,0,,1,3,4,2,1,0,0,2,4,4.5,-8
+2021-01-29,202101290ORL,LAC,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202101290ORL.html,3.72,2,2,1.000,0,0,,0,0,,1,1,2,1,0,0,1,1,4,3.7,0
+2021-01-29,202101290ORL,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202101290ORL.html,3.72,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0
+2021-01-29,202101290ORL,LAC,Daniel Oturu,https://www.basketball-reference.com/boxscores/202101290ORL.html,3.72,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,1,0,-0.7,0
+2021-01-29,202101290ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202101290ORL.html,30.1,2,10,.200,0,5,.000,2,2,1.000,0,3,3,6,0,0,4,2,6,0.1,-8
+2021-01-29,202101290ORL,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/202101290ORL.html,28.73,4,13,.308,1,1,1.000,0,0,,2,5,7,2,1,0,6,3,9,-0.4,-27
+2021-01-29,202101290ORL,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/202101290ORL.html,28.53,4,13,.308,2,4,.500,0,0,,2,4,6,1,0,0,3,2,10,2.0,-27
+2021-01-29,202101290ORL,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/202101290ORL.html,25.62,3,13,.231,1,6,.167,1,1,1.000,0,4,4,3,1,0,0,2,8,3.6,-29
+2021-01-29,202101290ORL,ORL,James Ennis III,https://www.basketball-reference.com/boxscores/202101290ORL.html,18.38,2,2,1.000,2,2,1.000,0,0,,1,4,5,1,2,0,2,1,6,7.6,-18
+2021-01-29,202101290ORL,ORL,Gary Clark,https://www.basketball-reference.com/boxscores/202101290ORL.html,26.42,2,7,.286,2,7,.286,0,0,,4,3,7,0,0,0,0,1,6,5.2,-16
+2021-01-29,202101290ORL,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/202101290ORL.html,23.8,2,4,.500,0,0,,3,4,.750,1,2,3,2,0,2,0,0,7,8.7,+1
+2021-01-29,202101290ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202101290ORL.html,23.43,8,12,.667,1,3,.333,7,7,1.000,0,4,4,1,0,0,1,1,24,19.3,-9
+2021-01-29,202101290ORL,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202101290ORL.html,22.62,1,7,.143,1,3,.333,3,4,.750,0,6,6,4,2,0,1,0,6,6.7,+1
+2021-01-29,202101290ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202101290ORL.html,6.17,4,6,.667,0,1,.000,0,0,,2,2,4,0,0,0,0,0,8,7.4,+1
+2021-01-29,202101290ORL,ORL,Jordan Bone,https://www.basketball-reference.com/boxscores/202101290ORL.html,6.17,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+1

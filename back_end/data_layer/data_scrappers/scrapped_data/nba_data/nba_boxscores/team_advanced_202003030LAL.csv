@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-03-03,202003030LAL,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202003030LAL.html,36:25,.750,.750,.875,.000,2.9,23.1,12.4,8.1,0.0,0.0,11.1,10.9,137,129,-0.4
+2020-03-03,202003030LAL,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202003030LAL.html,33:06,.392,.250,.250,.625,9.7,29.0,18.8,12.4,3.1,2.7,16.4,16.3,96,119,-3.6
+2020-03-03,202003030LAL,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202003030LAL.html,33:04,.488,.500,.333,.056,6.5,18.1,12.0,11.0,0.0,0.0,14.0,28.6,92,130,-9.3
+2020-03-03,202003030LAL,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202003030LAL.html,28:39,.558,.556,.667,.444,0.0,4.2,2.0,32.1,7.1,0.0,31.7,24.3,91,117,-0.5
+2020-03-03,202003030LAL,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202003030LAL.html,18:01,.333,.333,.667,.000,17.8,6.7,12.5,22.6,2.8,0.0,25.0,9.8,113,127,0.3
+2020-03-03,202003030LAL,PHI,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202003030LAL.html,31:29,.787,.767,.333,.133,3.4,11.4,7.2,6.7,1.6,0.0,0.0,22.3,159,128,10.6
+2020-03-03,202003030LAL,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202003030LAL.html,23:32,.550,.550,.500,.000,0.0,10.2,4.8,13.7,4.3,0.0,0.0,18.7,122,123,4.8
+2020-03-03,202003030LAL,PHI,Alec Burks,https://www.basketball-reference.com/boxscores/202003030LAL.html,22:06,.570,.357,.714,1.143,4.8,16.3,10.2,6.5,0.0,0.0,8.7,23.0,122,131,-4.3
+2020-03-03,202003030LAL,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202003030LAL.html,10:21,.700,.700,.400,.000,0.0,0.0,0.0,77.0,0.0,0.0,28.6,29.8,119,134,4.6
+2020-03-03,202003030LAL,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/202003030LAL.html,3:17,.000,.000,.000,.000,32.5,0.0,17.2,0.0,0.0,0.0,0.0,26.9,39,134,-43.5
+2020-03-03,202003030LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202003030LAL.html,38:58,.821,.789,.263,.421,9.2,27.4,18.8,8.2,5.2,5.5,8.2,28.2,156,99,19.9
+2020-03-03,202003030LAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202003030LAL.html,34:23,.556,.556,.556,.000,0.0,15.5,8.2,10.4,2.9,0.0,0.0,11.8,128,112,2.1
+2020-03-03,202003030LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202003030LAL.html,33:45,.635,.625,.313,.188,3.6,19.0,11.7,60.0,1.5,6.3,14.8,27.0,136,110,15.1
+2020-03-03,202003030LAL,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202003030LAL.html,26:08,.500,.500,.571,.000,13.8,8.2,10.8,9.1,0.0,0.0,12.5,13.7,118,121,-4.1
+2020-03-03,202003030LAL,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202003030LAL.html,14:55,.750,.750,.000,.000,8.0,28.6,18.9,0.0,0.0,7.2,20.0,15.0,120,110,-2.3
+2020-03-03,202003030LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202003030LAL.html,23:34,.635,.643,.286,.286,5.1,0.0,2.4,0.0,0.0,0.0,0.0,15.0,134,124,-4.9
+2020-03-03,202003030LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202003030LAL.html,19:43,.350,.350,.500,.000,6.1,21.6,14.3,0.0,0.0,0.0,9.1,25.0,74,116,-17.2
+2020-03-03,202003030LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202003030LAL.html,19:33,.500,.500,.625,.000,0.0,0.0,0.0,19.1,2.6,0.0,20.0,23.0,94,117,-7.9
+2020-03-03,202003030LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202003030LAL.html,13:22,1.034,1.000,.000,.750,0.0,8.0,4.2,0.0,3.8,0.0,0.0,17.9,216,112,13.2
+2020-03-03,202003030LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202003030LAL.html,12:57,.347,.000,1.000,1.000,0.0,0.0,0.0,0.0,0.0,8.2,41.0,16.9,44,120,-14.4
+2020-03-03,202003030LAL,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/202003030LAL.html,1:21,,,,,0.0,0.0,0.0,77.3,0.0,0.0,100.0,33.3,50,124,-16.8
+2020-03-03,202003030LAL,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202003030LAL.html,1:21,,,,,0.0,79.0,41.8,0.0,0.0,0.0,,0.0,0,97,-0.5

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-08,202412080MIA,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202412080MIA.html,32:23,.554,.526,.316,.211,0.0,18.1,8.9,26.8,0.0,0.0,8.8,32.8,107,129,-1.6
+2024-12-08,202412080MIA,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202412080MIA.html,30:50,.365,.344,.313,.063,0.0,3.8,1.9,23.4,3.2,0.0,15.4,29.4,74,125,-8.8
+2024-12-08,202412080MIA,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202412080MIA.html,29:05,.698,.643,1.000,.286,3.9,28.2,15.9,0.0,1.7,3.4,0.0,12.6,139,120,5.2
+2024-12-08,202412080MIA,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202412080MIA.html,28:38,.429,.429,.000,.000,0.0,28.6,14.1,4.7,0.0,0.0,12.5,13.0,77,126,-8.3
+2024-12-08,202412080MIA,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202412080MIA.html,11:46,.500,.500,.250,.000,0.0,29.8,14.7,0.0,4.2,0.0,20.0,19.8,72,115,-5.5
+2024-12-08,202412080MIA,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202412080MIA.html,31:28,.952,.929,.571,.286,7.3,14.9,11.0,9.1,1.6,0.0,11.3,13.2,168,126,8.2
+2024-12-08,202412080MIA,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202412080MIA.html,28:55,.874,.857,.286,.143,0.0,8.1,4.0,20.3,0.0,0.0,0.0,12.0,178,131,4.2
+2024-12-08,202412080MIA,CLE,Ty Jerome,https://www.basketball-reference.com/boxscores/202412080MIA.html,21:17,.513,.364,.182,.545,10.7,11.0,10.9,42.3,0.0,0.0,0.0,29.9,130,130,2.6
+2024-12-08,202412080MIA,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202412080MIA.html,20:41,.727,.667,.833,.333,0.0,0.0,0.0,13.6,0.0,0.0,12.7,17.8,128,133,-1.5
+2024-12-08,202412080MIA,CLE,JT Thor,https://www.basketball-reference.com/boxscores/202412080MIA.html,1:39,1.250,1.250,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.5,250,133,81.9
+2024-12-08,202412080MIA,CLE,Luke Travers,https://www.basketball-reference.com/boxscores/202412080MIA.html,1:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-5.3
+2024-12-08,202412080MIA,CLE,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202412080MIA.html,1:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-6.4
+2024-12-08,202412080MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202412080MIA.html,36:02,.571,.571,.286,.000,3.2,38.1,20.9,25.2,0.0,2.5,6.7,18.3,126,115,4.7
+2024-12-08,202412080MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202412080MIA.html,35:52,.740,.658,.474,.474,6.5,12.7,9.7,33.9,0.0,0.0,8.0,30.5,150,121,13.0
+2024-12-08,202412080MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202412080MIA.html,35:16,.580,.500,.167,.667,3.3,6.5,4.9,20.7,2.8,0.0,6.1,20.5,129,115,2.8
+2024-12-08,202412080MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202412080MIA.html,27:48,.871,.818,.545,.455,0.0,12.3,6.2,6.0,1.8,0.0,7.0,22.4,158,117,10.4
+2024-12-08,202412080MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202412080MIA.html,23:31,.000,.000,1.000,.000,0.0,24.3,12.3,5.0,0.0,0.0,50.0,7.5,17,120,-13.1
+2024-12-08,202412080MIA,MIA,Terry Rozier,https://www.basketball-reference.com/boxscores/202412080MIA.html,27:58,.500,.500,.357,.000,8.4,28.6,18.6,16.8,0.0,3.2,0.0,22.0,120,116,1.6
+2024-12-08,202412080MIA,MIA,Dru Smith,https://www.basketball-reference.com/boxscores/202412080MIA.html,25:38,.611,.611,.667,.000,13.7,4.5,9.0,11.2,0.0,0.0,18.2,18.8,116,122,-2.0
+2024-12-08,202412080MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202412080MIA.html,15:57,.410,.250,.500,.500,7.3,14.3,10.9,15.8,3.1,0.0,29.1,18.9,85,114,-7.8
+2024-12-08,202412080MIA,MIA,Thomas Bryant,https://www.basketball-reference.com/boxscores/202412080MIA.html,7:08,1.136,,,,0.0,16.0,8.1,0.0,0.0,25.4,0.0,5.4,250,96,8.4
+2024-12-08,202412080MIA,MIA,Kevin Love,https://www.basketball-reference.com/boxscores/202412080MIA.html,4:50,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.1,0,123,-16.1

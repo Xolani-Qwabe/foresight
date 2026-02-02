@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-16,202201160SAC,HOU,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202201160SAC.html,36:17,.786,.708,.750,.500,0.0,10.6,6.3,28.0,2.5,0.0,29.1,25.2,120,106,3.4
+2022-01-16,202201160SAC,HOU,Christian Wood,https://www.basketball-reference.com/boxscores/202201160SAC.html,33:14,.636,.633,.467,.467,4.2,37.6,24.1,14.7,2.8,2.7,14.2,28.0,114,99,4.9
+2022-01-16,202201160SAC,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202201160SAC.html,31:52,.656,.636,.455,.091,0.0,24.1,14.3,9.4,0.0,0.0,14.9,18.6,112,110,-2.9
+2022-01-16,202201160SAC,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202201160SAC.html,29:01,.689,.650,.300,.200,4.9,9.9,7.9,21.3,0.0,0.0,26.9,22.7,111,112,-4.0
+2022-01-16,202201160SAC,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202201160SAC.html,26:30,.833,.833,.167,.000,5.3,10.9,8.6,11.3,1.7,0.0,40.0,16.7,103,108,-4.4
+2022-01-16,202201160SAC,HOU,Garrison Mathews,https://www.basketball-reference.com/boxscores/202201160SAC.html,23:25,1.037,1.000,1.000,.833,0.0,4.1,2.4,0.0,0.0,0.0,0.0,15.5,202,113,6.9
+2022-01-16,202201160SAC,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202201160SAC.html,21:30,.750,.750,.333,.000,0.0,17.9,10.6,7.0,0.0,4.2,0.0,12.3,148,107,3.4
+2022-01-16,202201160SAC,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202201160SAC.html,14:46,.564,.500,.250,.750,0.0,0.0,0.0,18.8,0.0,6.1,36.1,24.9,83,109,-7.0
+2022-01-16,202201160SAC,HOU,Armoni Brooks,https://www.basketball-reference.com/boxscores/202201160SAC.html,12:06,.000,.000,1.000,.000,0.0,39.7,23.6,9.7,0.0,0.0,0.0,18.3,17,107,-20.5
+2022-01-16,202201160SAC,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202201160SAC.html,11:18,.000,.000,1.000,.000,12.5,17.0,15.2,0.0,4.1,0.0,0.0,3.9,74,102,-2.1
+2022-01-16,202201160SAC,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202201160SAC.html,37:29,.555,.500,.714,.214,2.6,18.8,9.1,19.2,4.9,0.0,6.1,18.4,116,110,1.4
+2022-01-16,202201160SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202201160SAC.html,32:19,.595,.357,.714,1.000,0.0,8.7,3.5,11.7,2.9,0.0,9.0,14.5,122,116,-1.9
+2022-01-16,202201160SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202201160SAC.html,26:16,.526,.542,.167,.250,0.0,16.1,6.5,24.3,0.0,0.0,18.4,26.3,90,122,-10.2
+2022-01-16,202201160SAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202201160SAC.html,26:04,.485,.464,.429,.071,0.0,37.9,15.3,6.1,1.8,0.0,6.5,25.0,89,116,-7.4
+2022-01-16,202201160SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202201160SAC.html,14:55,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,3.1,0.0,33.3,8.5,109,115,-9.2
+2022-01-16,202201160SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202201160SAC.html,29:53,.742,.719,.563,.313,0.0,23.6,9.6,12.1,6.2,0.0,14.2,30.0,118,106,10.2
+2022-01-16,202201160SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202201160SAC.html,27:53,.643,.667,.333,.083,6.9,10.1,8.2,41.6,6.6,0.0,13.9,21.9,124,107,10.5
+2022-01-16,202201160SAC,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202201160SAC.html,18:56,.512,.500,.250,.500,5.1,7.5,6.0,7.1,0.0,7.0,0.0,10.9,118,118,-3.6
+2022-01-16,202201160SAC,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202201160SAC.html,13:40,.143,.143,.143,.000,7.0,31.0,16.7,9.4,0.0,0.0,0.0,21.6,49,120,-20.8
+2022-01-16,202201160SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202201160SAC.html,12:33,.129,.000,.000,.667,15.3,22.5,18.2,18.7,0.0,10.6,0.0,13.1,82,114,-11.8

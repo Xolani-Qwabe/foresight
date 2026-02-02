@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-12,202312120LAC,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202312120LAC.html,31:16,.511,.429,.357,.429,0.0,29.0,12.4,5.7,4.5,0.0,0.0,23.1,104,110,1.5
+2023-12-12,202312120LAC,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202312120LAC.html,25:44,.517,.455,.182,.727,18.7,25.2,21.4,21.0,3.7,0.0,12.1,27.9,108,113,2.7
+2023-12-12,202312120LAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202312120LAC.html,25:02,.426,.406,.438,.063,0.0,15.5,6.6,21.8,0.0,0.0,19.6,35.4,70,122,-11.8
+2023-12-12,202312120LAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202312120LAC.html,18:53,.333,.333,.667,.000,0.0,6.9,2.9,7.6,0.0,0.0,0.0,6.9,79,123,-10.1
+2023-12-12,202312120LAC,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202312120LAC.html,16:31,.188,.188,.500,.000,0.0,31.4,13.4,26.3,2.9,0.0,0.0,21.0,57,114,-7.0
+2023-12-12,202312120LAC,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202312120LAC.html,21:38,.500,.500,.625,.000,0.0,0.0,0.0,37.8,0.0,0.0,33.3,24.1,76,124,-10.4
+2023-12-12,202312120LAC,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202312120LAC.html,20:18,.307,.250,.750,.500,4.7,32.0,16.3,21.1,2.3,0.0,0.0,10.4,96,115,-0.7
+2023-12-12,202312120LAC,SAC,Sasha Vezenkov,https://www.basketball-reference.com/boxscores/202312120LAC.html,20:00,.643,.643,.429,.000,0.0,19.5,8.3,27.3,2.4,0.0,0.0,15.2,131,116,8.0
+2023-12-12,202312120LAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202312120LAC.html,14:36,.129,.000,.333,.667,0.0,0.0,0.0,18.3,0.0,0.0,0.0,11.5,53,124,-12.9
+2023-12-12,202312120LAC,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202312120LAC.html,12:00,.630,.333,.667,1.333,0.0,21.6,9.2,12.5,0.0,7.3,0.0,17.2,140,115,4.5
+2023-12-12,202312120LAC,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202312120LAC.html,11:35,1.500,1.500,1.000,.000,0.0,0.0,0.0,13.0,0.0,7.5,66.7,11.2,67,118,-0.6
+2023-12-12,202312120LAC,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202312120LAC.html,8:10,1.167,1.167,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.9,233,124,15.4
+2023-12-12,202312120LAC,SAC,Jordan Ford,https://www.basketball-reference.com/boxscores/202312120LAC.html,8:10,1.250,1.250,.500,.000,0.0,15.9,6.8,24.2,0.0,0.0,33.3,15.9,128,122,7.3
+2023-12-12,202312120LAC,SAC,JaVale McGee,https://www.basketball-reference.com/boxscores/202312120LAC.html,6:07,.872,1.000,.000,.333,15.7,0.0,9.0,0.0,0.0,0.0,22.5,31.5,114,124,2.3
+2023-12-12,202312120LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202312120LAC.html,31:16,.907,.857,.214,.500,0.0,12.3,7.1,17.0,1.5,3.1,5.5,25.6,174,97,19.8
+2023-12-12,202312120LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202312120LAC.html,29:48,.727,.667,.500,.333,4.4,12.9,9.3,8.2,1.6,0.0,12.7,11.7,138,99,4.8
+2023-12-12,202312120LAC,LAC,James Harden,https://www.basketball-reference.com/boxscores/202312120LAC.html,28:18,.621,.444,.444,.778,0.0,20.4,11.7,31.9,3.3,0.0,14.2,22.1,128,93,6.0
+2023-12-12,202312120LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202312120LAC.html,22:47,.551,.600,.000,.200,0.0,37.9,21.8,0.0,0.0,0.0,15.5,12.5,88,97,-5.6
+2023-12-12,202312120LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202312120LAC.html,15:50,.605,.571,.714,.143,0.0,36.4,20.9,8.7,6.0,0.0,28.7,29.2,86,85,3.8
+2023-12-12,202312120LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202312120LAC.html,27:17,.609,.545,.364,.273,0.0,3.5,2.0,10.0,0.0,0.0,7.5,21.7,119,104,0.2
+2023-12-12,202312120LAC,LAC,Kobe Brown,https://www.basketball-reference.com/boxscores/202312120LAC.html,24:19,.700,.700,.600,.000,5.3,19.7,13.6,0.0,0.0,4.0,16.7,10.9,118,97,-0.9
+2023-12-12,202312120LAC,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202312120LAC.html,20:01,.500,.500,.125,.000,13.0,24.0,19.3,20.9,0.0,0.0,33.3,26.6,86,100,-5.9
+2023-12-12,202312120LAC,LAC,Daniel Theis,https://www.basketball-reference.com/boxscores/202312120LAC.html,16:20,.500,.500,.125,.000,7.9,11.8,10.1,0.0,2.9,0.0,0.0,21.7,106,96,-3.2
+2023-12-12,202312120LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202312120LAC.html,8:45,1.000,1.000,.000,.000,14.8,0.0,6.3,0.0,0.0,0.0,0.0,5.1,210,105,3.3
+2023-12-12,202312120LAC,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202312120LAC.html,8:45,.375,.375,.500,.000,0.0,11.0,6.3,16.6,0.0,0.0,0.0,40.5,84,103,-8.7
+2023-12-12,202312120LAC,LAC,Xavier Moon,https://www.basketball-reference.com/boxscores/202312120LAC.html,6:34,.500,.500,.500,.000,0.0,0.0,0.0,39.8,0.0,0.0,33.3,20.3,93,104,-3.8

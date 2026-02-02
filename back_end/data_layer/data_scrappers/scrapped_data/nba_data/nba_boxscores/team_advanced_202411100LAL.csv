@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-10,202411100LAL,TOR,RJ Barrett,https://www.basketball-reference.com/boxscores/202411100LAL.html,36:25,.475,.367,.467,.600,0.0,24.3,12.6,17.3,0.0,0.0,17.4,27.6,95,134,-8.7
+2024-11-10,202411100LAL,TOR,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202411100LAL.html,33:22,1.015,1.000,.714,.286,4.1,18.9,11.8,4.8,0.0,2.9,20.2,13.0,148,134,5.6
+2024-11-10,202411100LAL,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202411100LAL.html,32:48,.643,.600,.300,.200,0.0,3.9,2.0,14.8,0.0,0.0,8.4,15.9,132,139,-1.0
+2024-11-10,202411100LAL,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202411100LAL.html,31:08,.583,.583,.000,.000,17.6,24.3,21.1,23.5,1.7,0.0,7.7,18.3,131,131,2.9
+2024-11-10,202411100LAL,TOR,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202411100LAL.html,27:12,.368,.300,.267,.200,0.0,4.6,2.4,23.6,0.0,0.0,5.8,27.9,95,139,-11.6
+2024-11-10,202411100LAL,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202411100LAL.html,19:59,.804,.778,.444,.556,13.7,19.0,16.5,31.9,2.6,0.0,8.2,26.7,157,130,21.2
+2024-11-10,202411100LAL,TOR,Davion Mitchell,https://www.basketball-reference.com/boxscores/202411100LAL.html,18:32,.200,.200,.600,.000,14.8,13.6,14.2,37.6,0.0,0.0,16.7,14.2,93,137,-9.9
+2024-11-10,202411100LAL,TOR,Jamison Battle,https://www.basketball-reference.com/boxscores/202411100LAL.html,12:53,.000,.000,1.000,.000,21.3,9.8,15.3,10.1,0.0,0.0,66.7,10.2,49,138,-12.3
+2024-11-10,202411100LAL,TOR,Bruno Fernando,https://www.basketball-reference.com/boxscores/202411100LAL.html,10:29,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,9.3,0.0,8.3,200,134,0.4
+2024-11-10,202411100LAL,TOR,Jamal Shead,https://www.basketball-reference.com/boxscores/202411100LAL.html,9:09,.250,.250,.500,.000,0.0,0.0,0.0,16.5,0.0,0.0,42.9,33.5,38,140,-33.3
+2024-11-10,202411100LAL,TOR,Jonathan Mogbo,https://www.basketball-reference.com/boxscores/202411100LAL.html,8:03,.615,.500,.000,.500,17.0,31.4,24.5,0.0,0.0,0.0,0.0,13.3,149,133,-2.5
+2024-11-10,202411100LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202411100LAL.html,34:47,.556,.429,.214,.500,7.3,31.5,18.9,61.8,1.5,0.0,14.9,26.8,133,109,10.4
+2024-11-10,202411100LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202411100LAL.html,32:35,.703,.676,.529,.294,0.0,4.2,2.0,30.2,1.6,0.0,0.0,27.4,152,118,8.3
+2024-11-10,202411100LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202411100LAL.html,31:40,.182,.182,.455,.000,12.0,8.7,10.4,0.0,3.3,2.9,0.0,16.1,66,111,-13.9
+2024-11-10,202411100LAL,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202411100LAL.html,28:40,.786,.786,.429,.000,4.4,4.8,4.6,4.7,1.8,0.0,0.0,11.3,161,117,1.0
+2024-11-10,202411100LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202411100LAL.html,25:53,.887,.875,.250,1.250,4.9,15.9,10.2,16.9,2.0,7.0,0.0,22.3,187,110,19.3
+2024-11-10,202411100LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202411100LAL.html,26:46,.577,.577,.692,.000,0.0,10.2,4.9,5.4,2.0,0.0,7.1,24.3,107,115,-3.4
+2024-11-10,202411100LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202411100LAL.html,21:22,.694,.667,.000,1.000,17.7,19.3,18.5,6.4,0.0,4.2,0.0,18.8,159,114,-0.1
+2024-11-10,202411100LAL,LAL,Gabe Vincent,https://www.basketball-reference.com/boxscores/202411100LAL.html,18:29,.500,.500,.600,.000,0.0,7.4,3.6,0.0,2.8,0.0,16.7,15.1,80,114,-8.9
+2024-11-10,202411100LAL,LAL,Dalton Knecht,https://www.basketball-reference.com/boxscores/202411100LAL.html,14:48,.625,.625,.500,.000,0.0,9.3,4.4,17.3,0.0,0.0,0.0,12.6,142,120,0.6
+2024-11-10,202411100LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202411100LAL.html,1:40,1.500,1.500,1.000,.000,0.0,82.3,39.5,0.0,31.5,0.0,0.0,27.9,300,25,97.9
+2024-11-10,202411100LAL,LAL,Bronny James,https://www.basketball-reference.com/boxscores/202411100LAL.html,1:40,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-20.4
+2024-11-10,202411100LAL,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202411100LAL.html,1:40,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-8.3

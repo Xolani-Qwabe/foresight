@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-02-01,202002010SAC,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202002010SAC.html,33.57,6,15,.400,1,4,.250,2,3,.667,0,10,10,11,2,0,2,3,15,16.0,+33
+2020-02-01,202002010SAC,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202002010SAC.html,29.67,5,9,.556,1,2,.500,10,10,1.000,1,3,4,6,2,1,2,1,21,22.8,+20
+2020-02-01,202002010SAC,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202002010SAC.html,21.85,3,8,.375,3,8,.375,0,0,,2,2,4,3,2,1,2,1,9,9.0,+14
+2020-02-01,202002010SAC,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202002010SAC.html,20.08,7,13,.538,5,9,.556,0,0,,0,2,2,0,0,0,0,3,19,12.1,+21
+2020-02-01,202002010SAC,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202002010SAC.html,15.12,2,2,1.000,0,0,,3,4,.750,3,5,8,1,0,0,1,1,7,8.9,+12
+2020-02-01,202002010SAC,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202002010SAC.html,26.67,6,11,.545,1,5,.200,0,0,,0,3,3,8,2,0,1,0,13,15.2,-3
+2020-02-01,202002010SAC,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202002010SAC.html,25.88,4,7,.571,3,6,.500,4,5,.800,1,1,2,2,0,0,1,1,15,12.3,+9
+2020-02-01,202002010SAC,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202002010SAC.html,20.18,4,10,.400,1,2,.500,3,4,.750,1,1,2,1,0,1,1,3,12,6.4,+5
+2020-02-01,202002010SAC,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202002010SAC.html,18.33,0,1,.000,0,0,,0,0,,3,6,9,0,0,2,2,4,0,1.0,-4
+2020-02-01,202002010SAC,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202002010SAC.html,16.18,5,6,.833,3,4,.750,0,1,.000,0,1,1,1,2,0,1,4,13,10.8,-13
+2020-02-01,202002010SAC,LAL,Troy Daniels,https://www.basketball-reference.com/boxscores/202002010SAC.html,5.8,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.8,-6
+2020-02-01,202002010SAC,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/202002010SAC.html,3.33,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,5,4.4,-4
+2020-02-01,202002010SAC,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202002010SAC.html,3.33,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-4
+2020-02-01,202002010SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202002010SAC.html,32.95,7,17,.412,0,2,.000,10,13,.769,1,5,6,5,0,1,7,1,24,12.7,-15
+2020-02-01,202002010SAC,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202002010SAC.html,30.08,3,8,.375,3,8,.375,0,0,,2,1,3,3,0,1,1,5,9,6.1,-24
+2020-02-01,202002010SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202002010SAC.html,29.03,1,8,.125,0,2,.000,0,0,,1,5,6,0,0,1,0,3,2,-1.5,-19
+2020-02-01,202002010SAC,SAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202002010SAC.html,27.82,3,8,.375,1,6,.167,1,1,1.000,0,2,2,1,1,0,1,3,8,3.7,-16
+2020-02-01,202002010SAC,SAC,Harry Giles,https://www.basketball-reference.com/boxscores/202002010SAC.html,16.68,7,8,.875,0,0,,2,2,1.000,3,5,8,1,0,0,1,1,16,16.1,-13
+2020-02-01,202002010SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202002010SAC.html,29.55,8,16,.500,6,13,.462,0,0,,2,2,4,2,1,1,2,2,22,16.3,-10
+2020-02-01,202002010SAC,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202002010SAC.html,23.98,3,9,.333,3,6,.500,0,0,,1,5,6,5,0,0,2,2,9,6.8,0
+2020-02-01,202002010SAC,SAC,Eric Mika,https://www.basketball-reference.com/boxscores/202002010SAC.html,19.05,2,3,.667,0,0,,2,2,1.000,2,5,7,0,0,0,0,5,6,5.6,+8
+2020-02-01,202002010SAC,SAC,Kent Bazemore,https://www.basketball-reference.com/boxscores/202002010SAC.html,13.02,3,7,.429,0,3,.000,4,5,.800,1,0,1,1,1,0,0,2,10,7.5,-6
+2020-02-01,202002010SAC,SAC,Anthony Tolliver,https://www.basketball-reference.com/boxscores/202002010SAC.html,10.1,1,2,.500,1,2,.500,1,2,.500,0,0,0,0,2,0,0,0,4,4.6,+4
+2020-02-01,202002010SAC,SAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/202002010SAC.html,7.67,1,5,.200,0,2,.000,1,1,1.000,0,1,1,3,0,0,2,0,3,0.3,+11
+2020-02-01,202002010SAC,SAC,Justin James,https://www.basketball-reference.com/boxscores/202002010SAC.html,0.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

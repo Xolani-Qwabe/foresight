@@ -1,0 +1,29 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-04-30,202504300HOU,GSW,Jimmy Butler,https://www.basketball-reference.com/boxscores/202504300HOU.html,25:21,.328,.200,.300,.500,13.5,5.9,10.8,9.7,3.9,0.0,0.0,18.2,111,134,-4.9
+2025-04-30,202504300HOU,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202504300HOU.html,23:27,.488,.458,.750,.250,3.7,12.8,7.0,41.2,0.0,0.0,18.4,26.4,112,142,-1.1
+2025-04-30,202504300HOU,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202504300HOU.html,20:54,.571,.571,.571,.000,0.0,14.4,5.2,25.4,0.0,0.0,22.2,16.3,113,142,-2.7
+2025-04-30,202504300HOU,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202504300HOU.html,17:54,.875,.875,.500,.000,0.0,8.4,3.0,7.7,5.5,0.0,33.3,12.7,108,130,1.1
+2025-04-30,202504300HOU,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202504300HOU.html,17:50,.333,.333,.333,.000,9.6,0.0,6.1,7.2,2.8,5.6,0.0,12.7,108,134,-3.9
+2025-04-30,202504300HOU,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202504300HOU.html,25:55,.633,.583,.389,.222,16.5,23.2,18.9,14.1,3.8,3.9,0.0,28.9,157,129,18.1
+2025-04-30,202504300HOU,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202504300HOU.html,17:52,.717,.750,1.000,.500,0.0,16.8,6.1,14.3,0.0,0.0,0.0,10.3,170,141,2.8
+2025-04-30,202504300HOU,GSW,Kevin Knox,https://www.basketball-reference.com/boxscores/202504300HOU.html,17:50,.489,.423,.308,.231,9.6,16.8,12.2,18.2,0.0,5.6,0.0,30.4,133,138,4.8
+2025-04-30,202504300HOU,GSW,Quinten Post,https://www.basketball-reference.com/boxscores/202504300HOU.html,13:55,.625,.625,.500,.000,0.0,21.6,7.8,0.0,0.0,14.4,42.9,19.1,65,131,-14.3
+2025-04-30,202504300HOU,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202504300HOU.html,13:36,.739,.714,.143,.143,12.6,22.1,16.0,27.8,3.6,0.0,21.2,26.3,126,132,9.4
+2025-04-30,202504300HOU,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202504300HOU.html,12:00,.532,1.000,.000,2.000,14.3,25.0,18.2,0.0,4.1,0.0,0.0,11.9,102,130,-5.5
+2025-04-30,202504300HOU,GSW,Braxton Key,https://www.basketball-reference.com/boxscores/202504300HOU.html,12:00,.000,.000,.143,.000,35.7,25.0,31.8,0.0,4.1,0.0,22.2,28.4,32,130,-29.8
+2025-04-30,202504300HOU,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202504300HOU.html,10:56,.333,.333,.000,.000,15.7,13.7,15.0,0.0,0.0,0.0,0.0,10.4,111,141,-15.4
+2025-04-30,202504300HOU,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202504300HOU.html,10:30,.667,.667,.833,.000,0.0,14.3,5.2,31.2,0.0,0.0,0.0,21.7,164,141,9.6
+2025-04-30,202504300HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202504300HOU.html,34:41,.783,.708,.083,.750,17.3,4.9,9.4,13.0,7.1,7.0,15.8,24.4,147,110,14.8
+2025-04-30,202504300HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202504300HOU.html,33:07,.831,.769,.462,.462,0.0,2.6,1.6,9.2,0.0,2.5,6.0,22.4,162,130,6.9
+2025-04-30,202504300HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202504300HOU.html,30:51,.697,.667,.000,.444,4.9,22.2,15.9,41.6,3.2,5.3,8.5,17.0,157,107,13.1
+2025-04-30,202504300HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202504300HOU.html,28:59,.726,.615,.538,.615,0.0,3.0,1.9,10.5,0.0,0.0,5.7,26.9,148,130,0.6
+2025-04-30,202504300HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202504300HOU.html,27:50,.539,.500,.500,.625,0.0,24.6,15.7,9.1,0.0,0.0,0.0,16.3,124,116,-2.7
+2025-04-30,202504300HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202504300HOU.html,19:16,.900,.900,.400,.000,0.0,22.2,14.2,7.5,0.0,0.0,37.5,18.5,101,116,-5.4
+2025-04-30,202504300HOU,HOU,Steven Adams,https://www.basketball-reference.com/boxscores/202504300HOU.html,17:09,.000,.000,.000,.000,26.2,15.0,19.1,6.5,0.0,0.0,0.0,5.2,118,122,-7.6
+2025-04-30,202504300HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202504300HOU.html,16:24,.580,.583,.500,.667,0.0,0.0,0.0,17.1,0.0,0.0,11.4,23.8,115,133,-5.8
+2025-04-30,202504300HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202504300HOU.html,15:09,.509,.417,.833,.333,0.0,11.3,7.2,0.0,0.0,0.0,12.7,23.2,95,125,-11.4
+2025-04-30,202504300HOU,HOU,Reed Sheppard,https://www.basketball-reference.com/boxscores/202504300HOU.html,6:34,,,,,0.0,13.1,8.3,17.0,15.1,12.4,100.0,6.8,53,85,18.2
+2025-04-30,202504300HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202504300HOU.html,4:51,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.4,103,133,-9.5
+2025-04-30,202504300HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202504300HOU.html,1:43,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,300,133,50.0
+2025-04-30,202504300HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202504300HOU.html,1:43,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-6.5
+2025-04-30,202504300HOU,HOU,Jeenathan Williams,https://www.basketball-reference.com/boxscores/202504300HOU.html,1:43,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,0,130,-46.7

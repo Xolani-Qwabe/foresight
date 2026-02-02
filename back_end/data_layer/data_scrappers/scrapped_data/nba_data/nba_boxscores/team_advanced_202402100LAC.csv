@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-02-10,202402100LAC,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202402100LAC.html,35:58,.536,.524,.286,.048,2.7,9.3,5.8,8.4,0.0,0.0,12.3,27.4,100,113,-3.9
+2024-02-10,202402100LAC,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202402100LAC.html,35:26,.417,.417,.000,.000,8.3,47.3,26.5,3.5,2.6,3.2,20.0,17.1,79,104,-5.5
+2024-02-10,202402100LAC,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202402100LAC.html,34:44,.569,.528,.167,.167,0.0,19.3,9.0,42.4,0.0,3.2,9.4,24.7,123,110,6.4
+2024-02-10,202402100LAC,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202402100LAC.html,27:30,.417,.417,.167,.000,14.2,16.2,15.2,24.1,3.4,0.0,14.3,20.5,99,105,1.8
+2024-02-10,202402100LAC,DET,Mike Muscala,https://www.basketball-reference.com/boxscores/202402100LAC.html,9:45,.000,.000,1.000,.000,0.0,11.4,5.4,0.0,0.0,0.0,0.0,8.3,0,113,-15.7
+2024-02-10,202402100LAC,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202402100LAC.html,32:06,.514,.500,.474,.053,6.1,24.3,14.6,4.5,1.5,0.0,4.9,25.7,108,110,1.7
+2024-02-10,202402100LAC,DET,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202402100LAC.html,19:27,.680,.600,1.000,.400,0.0,11.5,5.4,12.3,0.0,0.0,0.0,12.2,154,113,4.1
+2024-02-10,202402100LAC,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202402100LAC.html,14:29,.625,.625,.500,.000,0.0,15.4,7.2,34.5,3.2,0.0,33.3,16.7,101,106,-1.8
+2024-02-10,202402100LAC,DET,James Wiseman,https://www.basketball-reference.com/boxscores/202402100LAC.html,12:34,.500,.500,.000,.000,15.6,8.9,12.5,10.2,0.0,0.0,20.0,16.0,101,113,-4.2
+2024-02-10,202402100LAC,DET,Shake Milton,https://www.basketball-reference.com/boxscores/202402100LAC.html,11:52,.400,.400,.200,.000,8.3,18.8,13.2,0.0,4.0,0.0,0.0,17.0,95,104,-3.1
+2024-02-10,202402100LAC,DET,Stanley Umude,https://www.basketball-reference.com/boxscores/202402100LAC.html,6:09,,,,,15.9,0.0,8.5,17.3,0.0,0.0,,0.0,221,113,0.5
+2024-02-10,202402100LAC,LAC,James Harden,https://www.basketball-reference.com/boxscores/202402100LAC.html,36:15,.549,.455,.727,.364,0.0,16.2,8.6,33.4,1.3,1.8,28.2,22.5,94,105,-2.2
+2024-02-10,202402100LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202402100LAC.html,36:11,.675,.667,.542,.042,0.0,13.5,7.2,21.6,3.9,0.0,3.9,32.3,121,101,10.2
+2024-02-10,202402100LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202402100LAC.html,35:17,.569,.472,.389,.389,0.0,11.1,5.9,24.8,2.7,0.0,12.5,31.4,104,105,1.9
+2024-02-10,202402100LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202402100LAC.html,23:37,.258,.000,.667,.667,0.0,12.4,6.6,5.5,0.0,0.0,0.0,7.6,65,110,-9.3
+2024-02-10,202402100LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202402100LAC.html,19:47,.773,.667,.000,.667,0.0,24.8,13.2,7.5,0.0,6.7,0.0,9.0,159,101,4.7
+2024-02-10,202402100LAC,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202402100LAC.html,27:30,.597,.600,.400,.200,0.0,10.7,5.7,12.3,1.7,0.0,8.4,19.9,106,107,-0.5
+2024-02-10,202402100LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202402100LAC.html,26:44,.615,.500,.625,.500,0.0,3.7,2.0,0.0,1.8,2.5,0.0,16.8,118,108,1.0
+2024-02-10,202402100LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202402100LAC.html,23:00,.333,.333,.000,.000,0.0,12.8,6.8,0.0,2.0,2.9,0.0,6.0,62,103,-5.3
+2024-02-10,202402100LAC,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202402100LAC.html,11:39,.798,.500,.000,2.000,0.0,42.0,22.4,0.0,0.0,5.7,21.0,18.8,128,95,1.5

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-26,202201260CLE,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202201260CLE.html,35:22,.661,.633,.467,.133,3.5,9.5,6.6,20.8,1.5,0.0,15.9,24.0,118,126,2.6
+2022-01-26,202201260CLE,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202201260CLE.html,32:27,.693,.700,.267,.133,11.4,13.8,12.6,6.7,0.0,3.3,11.2,24.7,124,127,3.3
+2022-01-26,202201260CLE,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202201260CLE.html,32:18,.786,.786,.857,.000,0.0,17.3,9.1,4.8,0.0,0.0,0.0,9.7,157,127,2.2
+2022-01-26,202201260CLE,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202201260CLE.html,31:41,.222,.222,.222,.000,7.8,14.1,11.1,31.2,0.0,3.4,18.2,15.6,80,126,-8.5
+2022-01-26,202201260CLE,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202201260CLE.html,29:20,.711,.577,.231,.923,4.2,30.4,18.0,19.2,1.8,0.0,27.7,38.7,108,119,3.9
+2022-01-26,202201260CLE,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202201260CLE.html,28:22,.409,.409,.455,.000,8.7,11.8,10.3,16.8,3.6,0.0,26.7,23.7,76,120,-5.1
+2022-01-26,202201260CLE,MIL,George Hill,https://www.basketball-reference.com/boxscores/202201260CLE.html,22:34,.000,.000,.667,.000,5.5,9.9,7.8,11.5,4.6,4.7,0.0,6.0,59,116,-0.1
+2022-01-26,202201260CLE,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202201260CLE.html,15:04,.340,.200,.600,.400,0.0,14.8,7.8,9.4,3.4,0.0,14.5,20.5,73,120,-7.9
+2022-01-26,202201260CLE,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202201260CLE.html,5:03,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-6.9
+2022-01-26,202201260CLE,MIL,Rodney Hood,https://www.basketball-reference.com/boxscores/202201260CLE.html,3:58,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,0,133,-16.8
+2022-01-26,202201260CLE,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202201260CLE.html,1:57,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-16.1
+2022-01-26,202201260CLE,MIL,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202201260CLE.html,1:54,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.6,200,133,17.5
+2022-01-26,202201260CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202201260CLE.html,33:54,.531,.458,.250,.583,9.9,14.5,12.1,4.2,0.0,5.9,0.0,20.1,127,109,-1.4
+2022-01-26,202201260CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202201260CLE.html,33:11,.506,.444,.000,.222,13.5,22.3,17.6,4.1,1.6,0.0,0.0,13.4,132,107,-3.9
+2022-01-26,202201260CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202201260CLE.html,28:55,.500,.500,1.000,.000,0.0,8.5,4.0,12.7,1.8,3.5,0.0,4.7,144,108,0.6
+2022-01-26,202201260CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202201260CLE.html,25:56,.713,.708,.417,.250,0.0,9.5,4.5,52.8,2.0,0.0,7.0,24.9,153,109,14.3
+2022-01-26,202201260CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202201260CLE.html,13:32,1.000,1.000,.600,.000,0.0,9.1,4.3,39.7,0.0,0.0,0.0,16.7,205,114,17.7
+2022-01-26,202201260CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202201260CLE.html,34:09,.659,.647,.824,.059,3.3,7.2,5.1,18.9,3.0,0.0,10.3,25.7,127,108,8.0
+2022-01-26,202201260CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202201260CLE.html,26:51,.741,.719,.563,.125,8.3,32.1,19.6,14.4,3.8,0.0,22.9,36.7,111,99,10.2
+2022-01-26,202201260CLE,CLE,Rajon Rondo,https://www.basketball-reference.com/boxscores/202201260CLE.html,20:19,.313,.313,.625,.000,0.0,12.1,5.8,32.6,2.5,0.0,27.3,24.4,75,107,-10.9
+2022-01-26,202201260CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202201260CLE.html,19:05,.340,.200,.000,.400,11.7,19.3,15.3,0.0,8.1,0.0,14.5,16.3,84,93,-2.4
+2022-01-26,202201260CLE,CLE,Ed Davis,https://www.basketball-reference.com/boxscores/202201260CLE.html,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-5.3
+2022-01-26,202201260CLE,CLE,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202201260CLE.html,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-8.4
+2022-01-26,202201260CLE,CLE,Kevin Pangos,https://www.basketball-reference.com/boxscores/202201260CLE.html,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-7.4
+2022-01-26,202201260CLE,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202201260CLE.html,1:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-5.8

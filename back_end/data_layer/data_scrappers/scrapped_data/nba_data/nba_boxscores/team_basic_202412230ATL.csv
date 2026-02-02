@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-12-23,202412230ATL,MIN,Julius Randle,https://www.basketball-reference.com/boxscores/202412230ATL.html,35.62,6,15,.400,2,7,.286,5,6,.833,6,7,13,7,0,1,8,3,19,13.2,-5
+2024-12-23,202412230ATL,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202412230ATL.html,32.28,7,20,.350,1,7,.143,1,1,1.000,2,4,6,4,2,0,5,1,16,6.8,-23
+2024-12-23,202412230ATL,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202412230ATL.html,28.32,1,4,.250,0,0,,0,0,,2,4,6,0,0,1,3,1,2,-0.5,-16
+2024-12-23,202412230ATL,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202412230ATL.html,27.18,4,6,.667,3,5,.600,0,0,,0,2,2,6,3,0,1,1,11,14.8,-8
+2024-12-23,202412230ATL,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202412230ATL.html,20.23,3,6,.500,0,1,.000,0,0,,1,1,2,0,1,1,0,4,6,4.1,-16
+2024-12-23,202412230ATL,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202412230ATL.html,28.8,10,19,.526,3,10,.300,0,0,,2,1,3,3,1,0,1,2,23,16.7,-13
+2024-12-23,202412230ATL,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202412230ATL.html,28.7,4,7,.571,3,6,.500,0,0,,0,4,4,4,1,0,2,2,11,9.9,+1
+2024-12-23,202412230ATL,MIN,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202412230ATL.html,19.18,2,8,.250,2,6,.333,2,2,1.000,1,2,3,3,1,0,0,1,8,7.2,-9
+2024-12-23,202412230ATL,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202412230ATL.html,13.15,1,5,.200,0,1,.000,2,2,1.000,2,2,4,3,2,0,0,2,4,6.2,+8
+2024-12-23,202412230ATL,MIN,Leonard Miller,https://www.basketball-reference.com/boxscores/202412230ATL.html,1.63,0,0,,0,0,,2,2,1.000,0,0,0,0,1,0,0,0,2,3.0,+4
+2024-12-23,202412230ATL,MIN,Terrence Shannon Jr.,https://www.basketball-reference.com/boxscores/202412230ATL.html,1.63,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+4
+2024-12-23,202412230ATL,MIN,Rob Dillingham,https://www.basketball-reference.com/boxscores/202412230ATL.html,1.63,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,+4
+2024-12-23,202412230ATL,MIN,PJ Dozier,https://www.basketball-reference.com/boxscores/202412230ATL.html,1.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4
+2024-12-23,202412230ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202412230ATL.html,35.0,8,14,.571,0,3,.000,1,1,1.000,2,9,11,7,2,0,1,2,17,19.6,+5
+2024-12-23,202412230ATL,ATL,Dyson Daniels,https://www.basketball-reference.com/boxscores/202412230ATL.html,34.05,4,10,.400,1,2,.500,1,2,.500,0,4,4,4,8,2,2,1,10,15.2,+16
+2024-12-23,202412230ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202412230ATL.html,31.3,8,15,.533,4,7,.571,9,12,.750,0,2,2,7,0,0,5,2,29,20.2,+9
+2024-12-23,202412230ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202412230ATL.html,25.5,2,6,.333,0,0,,0,0,,4,4,8,2,1,0,3,2,4,3.2,+7
+2024-12-23,202412230ATL,ATL,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202412230ATL.html,19.18,2,5,.400,1,4,.250,0,0,,0,0,0,1,0,0,3,1,5,-0.4,-1
+2024-12-23,202412230ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202412230ATL.html,28.42,5,9,.556,3,7,.429,6,6,1.000,0,4,4,2,0,0,3,3,19,13.1,+15
+2024-12-23,202412230ATL,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202412230ATL.html,25.95,7,8,.875,7,8,.875,4,5,.800,0,2,2,1,2,1,1,2,25,24.0,+6
+2024-12-23,202412230ATL,ATL,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202412230ATL.html,21.1,2,4,.500,2,4,.500,0,0,,0,4,4,2,2,3,0,1,6,10.3,+8
+2024-12-23,202412230ATL,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202412230ATL.html,16.7,1,2,.500,0,1,.000,0,0,,0,3,3,1,0,0,2,0,2,0.6,+4
+2024-12-23,202412230ATL,ATL,David Roddy,https://www.basketball-reference.com/boxscores/202412230ATL.html,1.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2024-12-23,202412230ATL,ATL,Keaton Wallace,https://www.basketball-reference.com/boxscores/202412230ATL.html,1.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-2

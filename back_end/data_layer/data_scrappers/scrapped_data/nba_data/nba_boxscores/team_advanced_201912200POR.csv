@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-20,201912200POR,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/201912200POR.html,33:07,.498,.450,.150,.350,9.5,28.3,17.1,5.6,8.5,6.0,0.0,26.2,115,96,12.4
+2019-12-20,201912200POR,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/201912200POR.html,30:06,.465,.389,.111,.444,2.6,11.7,6.3,0.0,6.2,6.6,21.8,17.2,79,105,-3.4
+2019-12-20,201912200POR,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/201912200POR.html,29:48,.293,.235,.118,.235,15.8,19.6,17.4,19.8,0.0,3.4,0.0,23.7,90,121,-3.9
+2019-12-20,201912200POR,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/201912200POR.html,29:10,.447,.441,.294,.118,0.0,8.0,3.2,18.0,1.6,0.0,0.0,23.1,103,122,-0.8
+2019-12-20,201912200POR,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/201912200POR.html,26:01,.635,.643,.143,.286,0.0,9.0,3.6,23.3,1.8,0.0,20.2,14.3,110,121,-4.0
+2019-12-20,201912200POR,ORL,D.J. Augustin,https://www.basketball-reference.com/boxscores/201912200POR.html,29:16,.479,.438,.500,.250,0.0,4.0,1.6,16.9,0.0,0.0,5.3,24.1,103,127,-2.6
+2019-12-20,201912200POR,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/201912200POR.html,22:17,.365,.318,.545,.273,3.5,5.3,4.2,0.0,2.1,0.0,14.0,24.2,72,121,-12.6
+2019-12-20,201912200POR,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/201912200POR.html,12:44,.500,.500,.000,.000,18.5,27.6,22.2,21.4,3.7,0.0,0.0,5.9,152,111,6.1
+2019-12-20,201912200POR,ORL,Wes Iwundu,https://www.basketball-reference.com/boxscores/201912200POR.html,12:34,.333,.333,.333,.000,18.8,0.0,11.2,32.6,0.0,0.0,0.0,9.0,127,128,0.6
+2019-12-20,201912200POR,ORL,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/201912200POR.html,8:30,.000,.000,.000,.000,0.0,27.5,11.1,14.5,0.0,0.0,33.3,13.3,16,120,-18.4
+2019-12-20,201912200POR,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/201912200POR.html,2:09,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.5,0,128,-24.4
+2019-12-20,201912200POR,ORL,Melvin Frazier,https://www.basketball-reference.com/boxscores/201912200POR.html,2:09,1.500,1.500,1.000,.000,0.0,54.5,21.9,0.0,0.0,0.0,0.0,17.5,300,113,42.9
+2019-12-20,201912200POR,ORL,Amile Jefferson,https://www.basketball-reference.com/boxscores/201912200POR.html,2:09,,,,,0.0,100.0,43.8,0.0,0.0,0.0,100.0,17.5,0,99,-23.2
+2019-12-20,201912200POR,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/201912200POR.html,37:26,.727,.700,.400,.150,0.0,14.7,8.8,19.3,1.3,0.0,8.6,26.6,144,101,10.3
+2019-12-20,201912200POR,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/201912200POR.html,36:26,.806,.786,.619,.143,0.0,6.5,3.9,31.8,1.3,0.0,18.3,32.0,140,105,12.5
+2019-12-20,201912200POR,POR,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201912200POR.html,32:39,.430,.333,.111,.667,10.8,33.7,24.5,3.9,0.0,9.4,30.0,21.8,77,88,-6.1
+2019-12-20,201912200POR,POR,Kent Bazemore,https://www.basketball-reference.com/boxscores/201912200POR.html,32:10,.652,.625,.500,.125,0.0,9.8,5.9,0.0,1.5,1.9,26.2,15.2,95,102,-0.5
+2019-12-20,201912200POR,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/201912200POR.html,9:24,.363,.250,.333,.333,37.4,25.1,30.0,0.0,0.0,19.6,12.7,35.8,94,85,0.3
+2019-12-20,201912200POR,POR,Skal Labissière,https://www.basketball-reference.com/boxscores/201912200POR.html,23:51,.694,.500,.000,1.000,9.8,13.2,11.8,15.9,0.0,5.2,14.8,12.1,150,101,5.9
+2019-12-20,201912200POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/201912200POR.html,20:20,.500,.500,.250,.000,11.5,15.5,13.9,7.3,0.0,0.0,11.1,18.9,109,103,-3.3
+2019-12-20,201912200POR,POR,Anthony Tolliver,https://www.basketball-reference.com/boxscores/201912200POR.html,18:47,.750,.750,1.000,.000,6.2,0.0,2.5,6.5,2.5,0.0,33.3,6.8,123,105,-1.4
+2019-12-20,201912200POR,POR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/201912200POR.html,17:38,.750,.750,.750,.000,0.0,4.5,2.7,0.0,0.0,0.0,20.0,12.1,117,109,-2.5
+2019-12-20,201912200POR,POR,Mario Hezonja,https://www.basketball-reference.com/boxscores/201912200POR.html,11:19,.000,.000,.500,.000,0.0,20.9,12.5,0.0,0.0,0.0,0.0,7.5,0,99,-15.3

@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-08,202412080ATL,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202412080ATL.html,35:45,.745,.735,.294,.059,8.1,12.2,10.7,10.1,0.0,0.0,5.4,20.7,143,111,1.9
+2024-12-08,202412080ATL,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202412080ATL.html,35:03,.691,.638,.207,.448,12.4,27.4,21.8,33.5,3.9,0.0,8.0,43.2,137,94,15.7
+2024-12-08,202412080ATL,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202412080ATL.html,32:12,.715,.727,.182,.182,9.0,16.3,13.6,13.1,2.8,2.4,7.8,16.1,141,101,6.0
+2024-12-08,202412080ATL,DEN,Russell Westbrook,https://www.basketball-reference.com/boxscores/202412080ATL.html,30:42,.699,.750,.500,.167,0.0,2.8,1.8,34.6,2.9,2.6,38.3,13.7,117,108,4.0
+2024-12-08,202412080ATL,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202412080ATL.html,22:53,.366,.167,.667,.833,0.0,7.6,4.8,23.3,0.0,3.4,26.8,19.6,87,112,-8.1
+2024-12-08,202412080ATL,DEN,Julian Strawther,https://www.basketball-reference.com/boxscores/202412080ATL.html,21:40,1.083,1.083,.667,.000,0.0,8.1,5.0,14.8,0.0,0.0,33.3,16.7,122,113,3.3
+2024-12-08,202412080ATL,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202412080ATL.html,18:02,.410,.500,.500,.500,0.0,4.8,3.0,0.0,2.5,8.7,0.0,5.4,78,105,-2.8
+2024-12-08,202412080ATL,DEN,Jalen Pickett,https://www.basketball-reference.com/boxscores/202412080ATL.html,17:18,1.250,1.250,.500,.000,0.0,10.1,6.3,27.5,2.6,0.0,50.0,9.3,135,105,3.8
+2024-12-08,202412080ATL,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202412080ATL.html,10:07,1.000,1.000,.000,.000,0.0,34.5,21.6,20.4,0.0,0.0,33.3,11.9,135,100,7.9
+2024-12-08,202412080ATL,DEN,Hunter Tyson,https://www.basketball-reference.com/boxscores/202412080ATL.html,7:48,1.250,1.250,.500,.000,0.0,11.2,7.0,14.1,0.0,0.0,0.0,10.3,242,111,13.2
+2024-12-08,202412080ATL,DEN,Trey Alexander,https://www.basketball-reference.com/boxscores/202412080ATL.html,2:50,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.3,96,117,-13.6
+2024-12-08,202412080ATL,DEN,PJ Hall,https://www.basketball-reference.com/boxscores/202412080ATL.html,2:50,.500,.500,.000,.000,0.0,30.8,19.3,0.0,0.0,0.0,0.0,28.3,96,102,-9.9
+2024-12-08,202412080ATL,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202412080ATL.html,2:50,.410,.500,.000,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.6,76,117,-20.9
+2024-12-08,202412080ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202412080ATL.html,35:08,.540,.538,.538,.154,2.5,12.4,6.2,41.6,3.9,0.0,22.4,19.6,105,129,0.6
+2024-12-08,202412080ATL,ATL,Dyson Daniels,https://www.basketball-reference.com/boxscores/202412080ATL.html,33:31,.537,.533,.333,.267,2.6,13.0,6.5,27.7,6.7,2.3,15.2,22.7,106,121,6.3
+2024-12-08,202412080ATL,ATL,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202412080ATL.html,29:28,.367,.273,.182,.545,5.9,9.9,7.4,0.0,1.5,0.0,6.8,19.1,86,134,-11.7
+2024-12-08,202412080ATL,ATL,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202412080ATL.html,24:24,.673,.636,.636,.182,0.0,23.8,8.9,20.2,3.7,0.0,0.0,18.7,150,128,9.3
+2024-12-08,202412080ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202412080ATL.html,19:01,.571,.571,.000,.286,27.5,30.6,28.7,8.2,0.0,0.0,0.0,15.9,143,135,-3.3
+2024-12-08,202412080ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202412080ATL.html,24:52,.595,.500,.000,.400,24.6,11.7,19.7,6.2,1.8,0.0,7.8,19.7,135,133,-0.6
+2024-12-08,202412080ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202412080ATL.html,24:27,.469,.425,.450,.150,3.6,11.9,6.7,7.2,0.0,0.0,0.0,33.5,110,137,-2.5
+2024-12-08,202412080ATL,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202412080ATL.html,20:50,.205,.000,1.000,.500,0.0,14.0,5.2,5.6,0.0,0.0,0.0,9.0,66,136,-16.0
+2024-12-08,202412080ATL,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202412080ATL.html,20:05,.218,.167,.667,.333,4.3,7.2,5.4,18.6,0.0,0.0,22.5,17.0,60,138,-14.6
+2024-12-08,202412080ATL,ATL,Kobe Bufkin,https://www.basketball-reference.com/boxscores/202412080ATL.html,4:07,.667,.667,.333,.000,0.0,70.7,26.5,0.0,0.0,0.0,25.0,37.3,86,131,-7.9
+2024-12-08,202412080ATL,ATL,David Roddy,https://www.basketball-reference.com/boxscores/202412080ATL.html,4:07,.000,.000,1.000,.000,0.0,35.3,13.2,0.0,0.0,18.8,0.0,9.3,0,120,-6.9

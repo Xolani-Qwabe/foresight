@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-27,201911270MEM,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/201911270MEM.html,33:49,.375,.375,.750,.000,3.0,19.8,10.9,37.9,1.3,4.4,27.3,12.9,101,111,2.2
+2019-11-27,201911270MEM,LAC,Paul George,https://www.basketball-reference.com/boxscores/201911270MEM.html,29:05,.693,.667,.733,.133,3.4,15.4,9.1,10.7,1.6,0.0,20.1,27.1,108,115,1.3
+2019-11-27,201911270MEM,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/201911270MEM.html,22:58,.500,.500,.429,.000,8.7,14.6,11.5,5.5,3.9,0.0,0.0,12.1,121,110,1.5
+2019-11-27,201911270MEM,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/201911270MEM.html,15:33,.833,.833,.000,.000,6.4,7.2,6.8,0.0,2.9,4.8,0.0,15.3,165,111,6.8
+2019-11-27,201911270MEM,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/201911270MEM.html,11:32,.625,.625,.500,.000,0.0,9.7,4.6,0.0,0.0,13.0,20.0,17.2,91,112,-3.9
+2019-11-27,201911270MEM,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/201911270MEM.html,32:22,.506,.417,.389,.722,0.0,3.4,1.6,54.9,2.8,0.0,14.4,34.0,112,115,4.1
+2019-11-27,201911270MEM,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/201911270MEM.html,30:20,.500,.500,.571,.000,6.6,22.1,13.9,8.1,3.0,0.0,12.5,10.5,109,109,-1.8
+2019-11-27,201911270MEM,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/201911270MEM.html,29:31,.611,.588,.000,.353,16.9,18.9,17.9,5.9,0.0,2.5,4.8,27.7,128,115,0.7
+2019-11-27,201911270MEM,LAC,Jerome Robinson,https://www.basketball-reference.com/boxscores/201911270MEM.html,14:06,.000,.000,.500,.000,0.0,15.8,7.5,0.0,0.0,0.0,20.0,14.1,0,118,-23.3
+2019-11-27,201911270MEM,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/201911270MEM.html,13:44,.773,.667,.333,.667,0.0,0.0,0.0,0.0,6.6,0.0,0.0,11.2,163,108,2.0
+2019-11-27,201911270MEM,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/201911270MEM.html,7:00,.727,.667,.833,.333,14.3,15.9,15.1,0.0,0.0,0.0,0.0,39.0,149,118,18.3
+2019-11-27,201911270MEM,MEM,Jae Crowder,https://www.basketball-reference.com/boxscores/201911270MEM.html,36:32,.733,.682,.545,.545,3.1,8.2,5.8,0.0,1.2,0.0,6.8,15.6,143,118,2.4
+2019-11-27,201911270MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/201911270MEM.html,33:59,.781,.765,.176,.294,23.0,26.5,24.8,16.3,1.3,2.6,9.4,24.3,152,111,15.0
+2019-11-27,201911270MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/201911270MEM.html,33:46,.549,.469,.125,.313,6.6,8.9,7.8,47.3,5.4,2.6,9.9,23.3,130,107,13.7
+2019-11-27,201911270MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/201911270MEM.html,30:28,.433,.382,.529,.353,3.7,16.4,10.4,9.0,0.0,2.9,9.2,27.6,93,117,-6.5
+2019-11-27,201911270MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/201911270MEM.html,25:48,.250,.250,.250,.000,4.3,0.0,2.0,9.5,1.8,0.0,33.3,18.1,50,119,-17.3
+2019-11-27,201911270MEM,MEM,Solomon Hill,https://www.basketball-reference.com/boxscores/201911270MEM.html,19:18,1.000,1.000,.667,.000,0.0,25.9,13.7,0.0,2.3,0.0,50.0,12.1,75,110,-3.2
+2019-11-27,201911270MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/201911270MEM.html,18:24,.167,.167,.167,.000,0.0,21.7,11.5,12.9,0.0,0.0,25.0,16.9,43,117,-16.3
+2019-11-27,201911270MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/201911270MEM.html,18:07,.625,.625,.125,.000,6.2,27.6,17.5,17.8,0.0,0.0,11.1,19.3,122,115,2.4
+2019-11-27,201911270MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/201911270MEM.html,14:14,.773,.667,.000,.667,0.0,7.0,3.7,27.9,0.0,0.0,20.5,13.3,141,122,0.7
+2019-11-27,201911270MEM,MEM,Marko Gudurić,https://www.basketball-reference.com/boxscores/201911270MEM.html,9:24,.515,.333,.667,.667,0.0,0.0,0.0,13.5,4.8,0.0,34.0,24.3,79,112,-8.6

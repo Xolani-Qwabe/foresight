@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-19,202201190ATL,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202201190ATL.html,34:56,.706,.694,.722,.500,0.0,7.4,3.3,24.3,2.7,2.9,15.4,29.1,129,131,8.9
+2022-01-19,202201190ATL,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202201190ATL.html,34:20,.543,.500,.385,.462,3.0,34.0,16.6,29.1,2.8,2.9,20.4,22.4,109,127,0.9
+2022-01-19,202201190ATL,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202201190ATL.html,23:49,.592,.563,.625,.125,8.6,16.3,12.0,0.0,0.0,0.0,0.0,27.7,135,138,2.3
+2022-01-19,202201190ATL,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202201190ATL.html,20:41,.635,.571,.000,.286,24.7,18.8,22.1,21.3,6.9,0.0,11.3,16.8,147,122,6.4
+2022-01-19,202201190ATL,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202201190ATL.html,6:12,.000,.000,.000,.000,16.5,0.0,9.2,36.9,0.0,0.0,0.0,12.6,88,141,-7.8
+2022-01-19,202201190ATL,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202201190ATL.html,31:11,.487,.500,.750,.063,3.3,8.3,5.5,4.7,0.0,0.0,0.0,20.6,115,140,-4.2
+2022-01-19,202201190ATL,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202201190ATL.html,20:33,.400,.286,.143,.571,14.9,18.9,16.7,6.3,0.0,4.9,18.6,20.5,91,134,-10.5
+2022-01-19,202201190ATL,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202201190ATL.html,19:44,.833,.833,.333,.000,0.0,19.7,8.7,6.6,2.4,0.0,25.0,7.9,126,132,-0.5
+2022-01-19,202201190ATL,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202201190ATL.html,17:17,.400,.400,.000,.000,0.0,7.5,3.3,0.0,2.7,0.0,16.7,13.6,72,133,-12.8
+2022-01-19,202201190ATL,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202201190ATL.html,17:11,.699,.667,.500,.167,5.9,15.1,10.0,8.3,0.0,0.0,0.0,14.7,161,138,0.9
+2022-01-19,202201190ATL,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202201190ATL.html,14:06,.260,.000,.250,1.000,14.5,9.2,12.2,0.0,3.4,0.0,0.0,16.0,87,132,-11.2
+2022-01-19,202201190ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202201190ATL.html,37:31,.667,.667,.556,.000,0.0,2.7,1.5,19.9,0.0,0.0,10.0,11.5,134,130,-2.4
+2022-01-19,202201190ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202201190ATL.html,35:49,.847,.765,.588,.647,0.0,14.3,8.0,59.4,1.3,0.0,18.6,32.3,149,123,15.2
+2022-01-19,202201190ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202201190ATL.html,34:00,.711,.625,.000,1.125,7.6,18.0,13.4,3.7,1.4,13.8,0.0,15.1,157,115,5.3
+2022-01-19,202201190ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202201190ATL.html,33:54,.652,.656,.438,.125,3.8,12.1,8.4,4.4,1.4,0.0,10.6,24.0,112,123,-3.9
+2022-01-19,202201190ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202201190ATL.html,33:12,.479,.438,.125,.250,15.6,24.6,20.7,12.4,2.9,5.7,10.1,25.6,107,112,-5.0
+2022-01-19,202201190ATL,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202201190ATL.html,24:58,.689,.650,.700,.200,5.2,20.5,13.7,5.4,0.0,0.0,8.4,20.5,127,123,-0.1
+2022-01-19,202201190ATL,ATL,Delon Wright,https://www.basketball-reference.com/boxscores/202201190ATL.html,18:39,.833,.833,.667,.000,0.0,0.0,0.0,19.4,2.5,5.0,0.0,6.9,180,124,6.6
+2022-01-19,202201190ATL,ATL,Lou Williams,https://www.basketball-reference.com/boxscores/202201190ATL.html,14:51,.486,.200,.800,1.000,0.0,13.8,7.7,31.0,3.2,0.0,0.0,20.9,132,119,0.8
+2022-01-19,202201190ATL,ATL,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202201190ATL.html,3:50,,,,,0.0,0.0,0.0,27.8,0.0,24.6,,0.0,233,118,-0.6
+2022-01-19,202201190ATL,ATL,Kevin Knox,https://www.basketball-reference.com/boxscores/202201190ATL.html,3:16,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.4,96,132,-11.5

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-03-24,202503240ORL,LAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202503240ORL.html,38:06,.575,.478,.435,.478,0.0,22.0,10.8,34.4,1.4,0.0,9.7,37.6,119,130,6.9
+2025-03-24,202503240ORL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202503240ORL.html,37:40,.569,.500,.167,.389,9.1,9.6,9.3,34.9,0.0,0.0,8.7,28.5,126,137,3.7
+2025-03-24,202503240ORL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202503240ORL.html,35:39,.507,.469,.375,.250,0.0,20.2,9.9,19.5,0.0,0.0,14.5,27.1,98,134,-8.4
+2025-03-24,202503240ORL,LAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202503240ORL.html,35:28,1.000,1.000,.857,.000,9.7,13.5,11.6,0.0,3.0,0.0,0.0,9.2,199,129,10.0
+2025-03-24,202503240ORL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202503240ORL.html,18:28,.500,.500,.000,.000,12.4,13.0,12.7,0.0,0.0,5.8,20.0,12.6,99,132,-12.1
+2025-03-24,202503240ORL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202503240ORL.html,23:59,.512,.500,.500,.500,4.8,10.0,7.3,0.0,2.2,0.0,17.0,11.4,94,132,-6.8
+2025-03-24,202503240ORL,LAL,Gabe Vincent,https://www.basketball-reference.com/boxscores/202503240ORL.html,20:07,.333,.333,.667,.000,0.0,6.0,2.9,0.0,5.3,0.0,0.0,13.9,73,126,-9.5
+2025-03-24,202503240ORL,LAL,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202503240ORL.html,13:17,.568,,,,8.6,0.0,4.4,0.0,0.0,0.0,0.0,3.1,153,140,-5.8
+2025-03-24,202503240ORL,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202503240ORL.html,12:03,.266,.000,.000,2.000,9.5,29.9,19.4,10.8,4.4,0.0,0.0,7.2,108,120,-3.5
+2025-03-24,202503240ORL,LAL,Dalton Knecht,https://www.basketball-reference.com/boxscores/202503240ORL.html,4:38,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,300,140,11.9
+2025-03-24,202503240ORL,LAL,Trey Jemison,https://www.basketball-reference.com/boxscores/202503240ORL.html,0:35,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,140,-7.3
+2025-03-24,202503240ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202503240ORL.html,39:34,.673,.588,.353,.706,0.0,20.2,10.4,3.9,0.0,2.5,15.2,30.6,118,119,-1.0
+2025-03-24,202503240ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202503240ORL.html,38:15,.586,.558,.385,.115,0.0,14.9,7.7,44.0,1.4,0.0,6.8,35.3,129,119,7.3
+2025-03-24,202503240ORL,ORL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202503240ORL.html,33:53,.750,.750,1.000,.000,10.6,3.4,6.9,11.3,0.0,0.0,0.0,8.2,177,125,2.2
+2025-03-24,202503240ORL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202503240ORL.html,31:32,.510,.450,.300,.400,11.4,18.1,14.9,0.0,0.0,0.0,0.0,17.2,125,121,-6.4
+2025-03-24,202503240ORL,ORL,Cory Joseph,https://www.basketball-reference.com/boxscores/202503240ORL.html,17:12,.625,.625,.750,.000,7.0,19.9,13.6,38.3,0.0,0.0,0.0,10.7,171,120,4.8
+2025-03-24,202503240ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202503240ORL.html,30:17,.850,.850,.500,.000,7.9,11.3,9.7,30.8,1.8,3.3,9.1,16.7,169,117,14.6
+2025-03-24,202503240ORL,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202503240ORL.html,17:16,.571,.571,.857,.000,6.9,6.6,6.8,8.3,0.0,0.0,0.0,18.7,133,124,-2.1
+2025-03-24,202503240ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202503240ORL.html,9:17,.347,.000,.500,1.000,0.0,24.6,12.6,0.0,5.8,10.8,0.0,14.3,88,100,-0.7
+2025-03-24,202503240ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202503240ORL.html,8:41,.000,.000,.000,.000,27.6,26.3,27.0,0.0,6.2,0.0,0.0,10.6,78,104,-13.4
+2025-03-24,202503240ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202503240ORL.html,7:07,.568,,,,0.0,16.1,8.2,0.0,7.5,14.1,0.0,5.7,122,97,12.1
+2025-03-24,202503240ORL,ORL,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202503240ORL.html,6:56,1.000,1.000,.000,.000,0.0,16.5,8.4,0.0,7.7,0.0,50.0,13.3,75,104,-1.2

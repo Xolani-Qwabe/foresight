@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2021-05-07,202105070SAC,SAS,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202105070SAC.html,12.0,3,6,.500,0,0,6,6,1.000,0,3,3,0,1,1,1,0,12,10.6,+4,
+2021-05-07,202105070SAC,SAS,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.62,1,4,.250,0,0,0,0,,0,0,0,2,0,0,0,0,2,1.0,+4,
+2021-05-07,202105070SAC,SAS,Q1,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.62,1,1,1.000,0,0,0,0,,0,0,0,2,0,2,0,0,2,4.5,+4,
+2021-05-07,202105070SAC,SAS,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202105070SAC.html,7.78,2,6,.333,0,3,0,0,,0,1,1,2,0,0,0,0,4,2.3,+8,.000
+2021-05-07,202105070SAC,SAS,Q1,Keldon Johnson,https://www.basketball-reference.com/boxscores/202105070SAC.html,7.1,1,2,.500,1,1,0,0,,1,2,3,0,0,0,0,1,3,2.9,+10,1.000
+2021-05-07,202105070SAC,SAS,Q1,Rudy Gay,https://www.basketball-reference.com/boxscores/202105070SAC.html,4.9,1,3,.333,0,1,0,0,,0,0,0,0,0,1,0,0,2,1.0,-6,.000
+2021-05-07,202105070SAC,SAS,Q1,Patty Mills,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.38,0,1,.000,0,0,0,0,,0,2,2,0,0,0,0,0,0,-0.1,0,
+2021-05-07,202105070SAC,SAS,Q1,Devin Vassell,https://www.basketball-reference.com/boxscores/202105070SAC.html,4.22,0,1,.000,0,1,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-4,.000
+2021-05-07,202105070SAC,SAS,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.38,0,0,,0,0,0,0,,1,4,5,0,0,0,0,0,0,1.9,0,
+2021-05-07,202105070SAC,SAS,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.97,3,4,.750,0,0,0,0,,0,0,0,0,0,0,0,0,6,4.4,+2,
+2021-05-07,202105070SAC,SAS,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202105070SAC.html,9.25,3,5,.600,0,1,0,0,,0,1,1,3,1,0,1,0,6,6.1,+2,.000
+2021-05-07,202105070SAC,SAS,Q2,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202105070SAC.html,9.1,1,1,1.000,0,0,0,0,,0,1,1,1,1,1,1,1,2,3.0,-4,
+2021-05-07,202105070SAC,SAS,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.67,1,3,.333,0,1,0,0,,0,0,0,0,0,0,0,0,2,0.3,-1,.000
+2021-05-07,202105070SAC,SAS,Q2,Keldon Johnson,https://www.basketball-reference.com/boxscores/202105070SAC.html,8.22,1,4,.250,0,2,2,2,1.000,0,0,0,1,0,0,1,1,4,0.9,-6,.000
+2021-05-07,202105070SAC,SAS,Q2,Rudy Gay,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.53,1,4,.250,1,3,0,0,,0,3,3,0,1,1,1,1,3,1.8,+2,.333
+2021-05-07,202105070SAC,SAS,Q2,Patty Mills,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.13,1,1,1.000,0,0,0,0,,0,0,0,0,0,0,0,0,2,1.7,-3,
+2021-05-07,202105070SAC,SAS,Q2,Devin Vassell,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.33,1,2,.500,0,1,0,0,,0,0,0,0,1,0,0,0,2,2.0,0,.000
+2021-05-07,202105070SAC,SAS,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202105070SAC.html,2.8,0,0,,0,0,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3,
+2021-05-07,202105070SAC,SAS,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.33,1,3,.333,0,0,0,1,.000,0,0,0,2,0,0,1,3,2,-0.9,-8,
+2021-05-07,202105070SAC,SAS,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202105070SAC.html,8.28,2,5,.400,0,3,0,0,,0,1,1,0,0,0,2,0,4,-0.4,-2,.000
+2021-05-07,202105070SAC,SAS,Q3,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202105070SAC.html,8.28,1,1,1.000,0,0,0,0,,2,3,5,1,0,0,0,0,2,4.7,-2,
+2021-05-07,202105070SAC,SAS,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202105070SAC.html,8.35,1,2,.500,0,1,0,0,,0,0,0,0,1,0,0,0,2,2.0,-6,.000
+2021-05-07,202105070SAC,SAS,Q3,Keldon Johnson,https://www.basketball-reference.com/boxscores/202105070SAC.html,8.35,4,5,.800,0,0,1,1,1.000,1,1,2,1,0,0,0,0,9,8.8,-6,
+2021-05-07,202105070SAC,SAS,Q3,Rudy Gay,https://www.basketball-reference.com/boxscores/202105070SAC.html,3.65,1,1,1.000,0,0,0,0,,0,0,0,0,0,0,1,0,2,0.7,0,
+2021-05-07,202105070SAC,SAS,Q3,Patty Mills,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.38,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-05-07,202105070SAC,SAS,Q3,Devin Vassell,https://www.basketball-reference.com/boxscores/202105070SAC.html,3.65,1,2,.500,1,2,0,0,,0,1,1,0,1,0,1,1,3,1.9,0,.500
+2021-05-07,202105070SAC,SAS,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202105070SAC.html,3.72,1,2,.500,0,0,0,0,,0,1,1,0,0,0,0,0,2,1.3,-4,
+2021-05-07,202105070SAC,SAS,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202105070SAC.html,7.93,0,1,.000,0,0,5,6,.833,0,3,3,1,0,0,0,1,5,5.1,+2,
+2021-05-07,202105070SAC,SAS,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202105070SAC.html,12.0,5,8,.625,0,1,0,0,,1,2,3,2,0,0,3,1,10,5.7,+12,.000
+2021-05-07,202105070SAC,SAS,Q4,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202105070SAC.html,12.0,2,4,.500,0,0,1,1,1.000,1,3,4,0,0,1,0,2,5,4.5,+12,
+2021-05-07,202105070SAC,SAS,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.05,3,3,1.000,0,0,2,2,1.000,0,0,0,0,0,0,0,0,8,7.1,+5,
+2021-05-07,202105070SAC,SAS,Q4,Keldon Johnson,https://www.basketball-reference.com/boxscores/202105070SAC.html,3.58,0,1,.000,0,0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,
+2021-05-07,202105070SAC,SAS,Q4,Rudy Gay,https://www.basketball-reference.com/boxscores/202105070SAC.html,8.42,3,3,1.000,1,1,0,0,,0,2,2,1,0,0,0,0,7,7.4,+16,1.000
+2021-05-07,202105070SAC,SAS,Q4,Patty Mills,https://www.basketball-reference.com/boxscores/202105070SAC.html,4.07,0,0,,0,0,0,0,,0,1,1,1,1,0,0,0,0,2.0,+10,
+2021-05-07,202105070SAC,SAS,Q4,Devin Vassell,https://www.basketball-reference.com/boxscores/202105070SAC.html,1.95,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,+7,
+2021-05-07,202105070SAC,SAC,Q1,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105070SAC.html,12.0,1,2,.500,1,2,0,0,,0,2,2,2,0,0,0,0,3,4.0,-4,.500
+2021-05-07,202105070SAC,SAC,Q1,Delon Wright,https://www.basketball-reference.com/boxscores/202105070SAC.html,12.0,1,5,.200,0,1,0,0,,1,1,2,1,0,0,0,1,2,0.2,-4,.000
+2021-05-07,202105070SAC,SAC,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202105070SAC.html,7.78,0,3,.000,0,2,0,0,,0,0,0,2,0,0,1,1,0,-2.1,-8,.000
+2021-05-07,202105070SAC,SAC,Q1,Richaun Holmes,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.15,1,3,.333,0,0,0,0,,0,1,1,1,0,0,0,1,2,0.9,-8,
+2021-05-07,202105070SAC,SAC,Q1,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.15,1,2,.500,0,0,0,2,.000,0,0,0,1,0,0,0,0,2,0.9,-8,
+2021-05-07,202105070SAC,SAC,Q1,Terence Davis,https://www.basketball-reference.com/boxscores/202105070SAC.html,4.22,3,3,1.000,2,2,0,0,,0,0,0,0,0,0,0,0,8,7.1,+4,1.000
+2021-05-07,202105070SAC,SAC,Q1,Damian Jones,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.85,1,2,.500,0,0,0,0,,1,4,5,0,0,0,0,1,2,2.5,+4,
+2021-05-07,202105070SAC,SAC,Q1,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.85,1,3,.333,0,1,0,0,,0,1,1,0,0,0,0,0,2,0.6,+4,.000
+2021-05-07,202105070SAC,SAC,Q2,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.97,0,0,,0,0,0,0,,0,2,2,0,0,0,0,0,0,0.6,-2,
+2021-05-07,202105070SAC,SAC,Q2,Delon Wright,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.87,3,3,1.000,0,0,0,0,,0,0,0,2,1,0,1,1,6,6.1,-2,
+2021-05-07,202105070SAC,SAC,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.73,1,2,.500,1,2,0,0,,0,4,4,3,0,0,2,0,3,3.3,+1,.500
+2021-05-07,202105070SAC,SAC,Q2,Richaun Holmes,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.27,3,3,1.000,0,0,0,0,,0,2,2,0,0,0,1,2,6,3.9,+1,
+2021-05-07,202105070SAC,SAC,Q2,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202105070SAC.html,7.5,0,2,.000,0,1,2,4,.500,0,1,1,0,0,0,0,0,2,0.1,+1,.000
+2021-05-07,202105070SAC,SAC,Q2,Terence Davis,https://www.basketball-reference.com/boxscores/202105070SAC.html,9.6,3,4,.750,1,2,0,0,,0,0,0,0,2,0,2,1,7,5.0,+4,.500
+2021-05-07,202105070SAC,SAC,Q2,Damian Jones,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.63,1,1,1.000,0,0,2,2,1.000,0,2,2,0,1,0,2,1,4,2.9,0,
+2021-05-07,202105070SAC,SAC,Q2,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105070SAC.html,2.3,0,2,.000,0,0,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-1,
+2021-05-07,202105070SAC,SAC,Q2,Kyle Guy,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.03,0,1,.000,0,1,0,0,,0,0,0,1,0,0,0,1,0,-0.4,+3,.000
+2021-05-07,202105070SAC,SAC,Q2,Justin James,https://www.basketball-reference.com/boxscores/202105070SAC.html,0.1,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,
+2021-05-07,202105070SAC,SAC,Q3,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.97,3,5,.600,1,2,0,0,,0,1,1,1,1,0,0,0,7,6.7,+8,.500
+2021-05-07,202105070SAC,SAC,Q3,Delon Wright,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.33,2,4,.500,0,1,0,0,,1,3,4,4,0,0,0,1,4,6.0,+8,.000
+2021-05-07,202105070SAC,SAC,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.33,3,4,.750,3,4,2,2,1.000,0,1,1,0,1,0,2,0,11,8.7,+8,.750
+2021-05-07,202105070SAC,SAC,Q3,Richaun Holmes,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.33,2,3,.667,0,0,0,0,,0,0,0,3,1,1,0,0,4,6.5,+8,
+2021-05-07,202105070SAC,SAC,Q3,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202105070SAC.html,5.23,0,1,.000,0,0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,-1,
+2021-05-07,202105070SAC,SAC,Q3,Terence Davis,https://www.basketball-reference.com/boxscores/202105070SAC.html,6.77,1,2,.500,0,1,0,0,,0,1,1,1,1,0,1,0,2,2.0,+7,.000
+2021-05-07,202105070SAC,SAC,Q3,Damian Jones,https://www.basketball-reference.com/boxscores/202105070SAC.html,1.67,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-05-07,202105070SAC,SAC,Q3,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105070SAC.html,1.67,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-05-07,202105070SAC,SAC,Q3,Kyle Guy,https://www.basketball-reference.com/boxscores/202105070SAC.html,1.67,1,2,.500,0,0,2,2,1.000,0,0,0,0,0,0,0,0,4,3.0,-2,
+2021-05-07,202105070SAC,SAC,Q3,Justin James,https://www.basketball-reference.com/boxscores/202105070SAC.html,1.03,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-05-07,202105070SAC,SAC,Q4,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.05,1,2,.500,0,1,0,0,,0,0,0,1,1,0,0,0,2,2.7,-5,.000
+2021-05-07,202105070SAC,SAC,Q4,Delon Wright,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.77,2,4,.500,1,1,0,0,,0,1,1,2,0,0,3,1,5,1.3,-8,1.000
+2021-05-07,202105070SAC,SAC,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202105070SAC.html,10.05,1,5,.200,1,4,0,0,,0,0,0,1,1,0,1,1,3,0.2,-5,.250
+2021-05-07,202105070SAC,SAC,Q4,Richaun Holmes,https://www.basketball-reference.com/boxscores/202105070SAC.html,9.97,1,3,.333,0,0,1,1,1.000,1,1,2,1,0,1,0,3,3,2.5,-5,
+2021-05-07,202105070SAC,SAC,Q4,Terence Davis,https://www.basketball-reference.com/boxscores/202105070SAC.html,12.0,3,7,.429,1,3,0,0,,0,2,2,0,0,0,0,1,7,3.5,-12,.333
+2021-05-07,202105070SAC,SAC,Q4,Damian Jones,https://www.basketball-reference.com/boxscores/202105070SAC.html,2.03,0,0,,0,0,0,2,.000,0,0,0,0,0,1,0,0,0,-0.1,-7,
+2021-05-07,202105070SAC,SAC,Q4,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105070SAC.html,1.95,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-7,
+2021-05-07,202105070SAC,SAC,Q4,Kyle Guy,https://www.basketball-reference.com/boxscores/202105070SAC.html,3.18,1,1,1.000,1,1,0,0,,0,0,0,0,0,0,0,0,3,2.7,-11,1.000

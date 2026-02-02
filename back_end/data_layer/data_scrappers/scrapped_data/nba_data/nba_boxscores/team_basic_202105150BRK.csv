@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-05-15,202105150BRK,CHI,Coby White,https://www.basketball-reference.com/boxscores/202105150BRK.html,34.42,1,10,.100,1,6,.167,0,0,2,5,7,6,0,0,3,3,3,-0.7,-17,
+2021-05-15,202105150BRK,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202105150BRK.html,32.87,9,14,.643,3,4,.750,3,4,2,3,5,1,2,0,0,1,24,22.0,-14,.750
+2021-05-15,202105150BRK,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202105150BRK.html,30.25,4,18,.222,0,8,.000,2,2,2,9,11,3,0,1,2,4,10,2.3,-11,1.000
+2021-05-15,202105150BRK,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202105150BRK.html,30.05,9,18,.500,0,1,.000,1,3,8,5,13,4,1,0,0,0,19,20.1,-4,.333
+2021-05-15,202105150BRK,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202105150BRK.html,27.4,3,11,.273,2,7,.286,0,0,1,1,2,1,1,2,1,2,8,3.8,-6,
+2021-05-15,202105150BRK,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202105150BRK.html,30.38,5,10,.500,4,7,.571,0,0,0,2,2,1,1,0,1,0,14,10.3,-23,
+2021-05-15,202105150BRK,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202105150BRK.html,17.25,0,2,.000,0,1,.000,4,4,3,1,4,1,0,1,0,2,4,5.6,-2,1.000
+2021-05-15,202105150BRK,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202105150BRK.html,16.0,0,7,.000,0,3,.000,0,0,0,2,2,2,0,0,0,0,0,-2.9,-12,
+2021-05-15,202105150BRK,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202105150BRK.html,13.58,2,5,.400,1,3,.333,0,0,0,2,2,5,1,0,1,1,5,6.0,+3,
+2021-05-15,202105150BRK,CHI,Cristiano Felício,https://www.basketball-reference.com/boxscores/202105150BRK.html,2.83,1,1,1.000,0,0,,2,4,1,3,4,0,1,0,0,0,4,5.5,+4,.500
+2021-05-15,202105150BRK,CHI,Devon Dotson,https://www.basketball-reference.com/boxscores/202105150BRK.html,2.48,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+6,
+2021-05-15,202105150BRK,CHI,Adam Mokoka,https://www.basketball-reference.com/boxscores/202105150BRK.html,2.48,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.7,+6,
+2021-05-15,202105150BRK,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202105150BRK.html,29.68,4,17,.235,1,6,.167,3,4,1,8,9,6,0,0,5,1,12,3.2,+10,.750
+2021-05-15,202105150BRK,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202105150BRK.html,29.53,9,16,.563,3,7,.429,1,1,0,2,2,0,1,1,0,1,22,16.3,+5,1.000
+2021-05-15,202105150BRK,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202105150BRK.html,28.57,8,13,.615,0,1,.000,0,0,3,9,12,3,2,1,2,2,16,16.9,+8,
+2021-05-15,202105150BRK,BRK,James Harden,https://www.basketball-reference.com/boxscores/202105150BRK.html,25.02,2,4,.500,1,3,.333,0,2,0,5,5,7,1,2,0,2,5,10.2,+5,.000
+2021-05-15,202105150BRK,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202105150BRK.html,19.7,0,6,.000,0,2,.000,2,2,2,2,4,1,1,0,0,1,2,1.1,-8,1.000
+2021-05-15,202105150BRK,BRK,Landry Shamet,https://www.basketball-reference.com/boxscores/202105150BRK.html,26.32,3,8,.375,2,6,.333,0,0,0,2,2,2,1,0,0,0,8,6.6,+19,
+2021-05-15,202105150BRK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202105150BRK.html,25.47,4,4,1.000,0,0,,2,4,1,7,8,0,0,3,0,4,10,11.3,+26,.500
+2021-05-15,202105150BRK,BRK,Jeff Green,https://www.basketball-reference.com/boxscores/202105150BRK.html,16.6,7,8,.875,5,6,.833,0,0,0,0,0,0,0,0,0,0,19,16.2,+10,
+2021-05-15,202105150BRK,BRK,Mike James,https://www.basketball-reference.com/boxscores/202105150BRK.html,16.2,3,8,.375,1,2,.500,1,2,0,4,4,5,0,0,1,0,8,6.9,+6,.500
+2021-05-15,202105150BRK,BRK,Tyler Johnson,https://www.basketball-reference.com/boxscores/202105150BRK.html,14.42,1,1,1.000,1,1,1.000,0,0,0,3,3,2,0,0,0,1,3,4.6,+1,
+2021-05-15,202105150BRK,BRK,Alize Johnson,https://www.basketball-reference.com/boxscores/202105150BRK.html,2.83,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,1,0,-0.4,-4,
+2021-05-15,202105150BRK,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202105150BRK.html,2.83,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2021-05-15,202105150BRK,BRK,Reggie Perry,https://www.basketball-reference.com/boxscores/202105150BRK.html,2.83,0,1,.000,0,0,,0,0,1,2,3,0,0,0,1,3,0,-1.6,-4,

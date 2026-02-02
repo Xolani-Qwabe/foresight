@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-21,202312210OKC,LAC,James Harden,https://www.basketball-reference.com/boxscores/202312210OKC.html,33:51,.557,.500,.500,.333,6.4,29.2,16.4,25.0,4.3,2.7,12.7,29.6,118,128,6.4
+2023-12-21,202312210OKC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202312210OKC.html,32:54,.643,.643,.571,.000,6.6,8.6,7.5,3.8,0.0,0.0,12.5,10.3,126,143,-6.5
+2023-12-21,202312210OKC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202312210OKC.html,28:49,.718,.679,.571,.214,0.0,19.6,8.5,20.6,1.7,3.1,6.1,24.0,147,135,8.6
+2023-12-21,202312210OKC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202312210OKC.html,23:31,.313,.313,.500,.000,0.0,6.0,2.6,5.1,6.2,3.9,11.1,16.2,68,125,-7.5
+2023-12-21,202312210OKC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202312210OKC.html,16:56,.750,.750,.000,.000,12.9,8.3,10.9,24.0,0.0,0.0,0.0,10.0,180,143,2.8
+2023-12-21,202312210OKC,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202312210OKC.html,29:42,.603,.583,.167,.083,14.7,42.8,26.9,19.8,0.0,0.0,28.7,24.9,104,139,-6.8
+2023-12-21,202312210OKC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202312210OKC.html,23:11,.727,.727,.727,.000,4.7,18.3,10.6,6.6,0.0,3.9,8.3,21.9,136,138,5.6
+2023-12-21,202312210OKC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202312210OKC.html,16:26,.350,.350,.500,.000,6.6,0.0,3.7,8.3,3.0,0.0,0.0,25.8,90,137,-11.0
+2023-12-21,202312210OKC,LAC,Daniel Theis,https://www.basketball-reference.com/boxscores/202312210OKC.html,14:58,1.000,1.000,.000,.000,0.0,9.4,4.1,0.0,0.0,6.1,50.0,11.3,79,138,-8.9
+2023-12-21,202312210OKC,LAC,Kobe Brown,https://www.basketball-reference.com/boxscores/202312210OKC.html,9:51,.333,.333,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.9,74,144,-15.7
+2023-12-21,202312210OKC,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202312210OKC.html,9:51,.615,.625,.250,.500,0.0,0.0,0.0,28.5,4.9,0.0,17.0,25.3,117,132,3.9
+2023-12-21,202312210OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202312210OKC.html,32:08,.535,.460,.240,.360,8.8,20.4,15.3,17.3,6.1,6.0,3.3,42.3,117,103,4.4
+2023-12-21,202312210OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202312210OKC.html,31:17,.815,.792,.500,.167,4.5,7.0,5.9,15.8,0.0,3.1,0.0,18.7,168,123,6.1
+2023-12-21,202312210OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202312210OKC.html,29:33,.933,.909,.273,.273,0.0,22.2,12.5,31.3,0.0,0.0,7.5,20.4,178,120,14.4
+2023-12-21,202312210OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202312210OKC.html,28:50,.591,.591,.273,.000,4.9,11.4,8.5,28.4,3.4,0.0,15.4,20.4,123,116,0.8
+2023-12-21,202312210OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202312210OKC.html,14:23,1.100,1.100,.600,.000,9.8,15.2,12.8,35.5,0.0,0.0,50.0,31.5,108,123,5.7
+2023-12-21,202312210OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202312210OKC.html,25:21,.581,.583,.333,.333,0.0,30.1,17.0,4.2,1.9,0.0,12.7,14.1,102,113,-7.8
+2023-12-21,202312210OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202312210OKC.html,25:14,.688,.688,.875,.000,5.6,4.3,4.9,0.0,0.0,3.8,0.0,14.4,134,124,-3.5
+2023-12-21,202312210OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202312210OKC.html,19:51,.250,.250,.500,.000,0.0,0.0,0.0,14.9,0.0,4.8,20.0,11.4,77,124,-11.4
+2023-12-21,202312210OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202312210OKC.html,17:55,1.250,1.250,.500,.000,0.0,12.2,6.9,17.6,5.4,0.0,0.0,5.1,241,111,11.2
+2023-12-21,202312210OKC,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202312210OKC.html,7:38,1.215,1.250,.500,1.000,0.0,14.3,8.1,0.0,0.0,0.0,0.0,17.1,250,123,13.2
+2023-12-21,202312210OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202312210OKC.html,5:49,1.000,1.000,.000,.000,0.0,37.5,21.2,19.3,0.0,0.0,0.0,7.8,211,116,6.9
+2023-12-21,202312210OKC,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202312210OKC.html,2:01,,,,,0.0,0.0,0.0,46.7,0.0,0.0,,0.0,231,127,6.6

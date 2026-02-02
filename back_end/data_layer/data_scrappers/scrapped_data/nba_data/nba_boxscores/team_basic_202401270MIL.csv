@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2024-01-27,202401270MIL,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202401270MIL.html,29.07,8,14,.571,0,0,7,7,1.000,1,1,2,2,1,0,5,0,23,14.8,-20,
+2024-01-27,202401270MIL,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202401270MIL.html,27.87,9,18,.500,2,2,6,8,.750,0,6,6,1,0,0,1,0,26,17.7,-22,1.000
+2024-01-27,202401270MIL,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202401270MIL.html,23.7,6,8,.750,1,3,0,0,,1,9,10,6,0,0,0,3,13,16.2,-8,.333
+2024-01-27,202401270MIL,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202401270MIL.html,22.55,2,7,.286,1,4,2,2,1.000,0,1,1,4,0,1,2,2,7,3.9,-30,.250
+2024-01-27,202401270MIL,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202401270MIL.html,19.62,4,9,.444,1,4,0,0,,0,0,0,0,0,1,0,3,9,3.8,-14,.250
+2024-01-27,202401270MIL,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202401270MIL.html,29.33,2,10,.200,2,6,2,2,1.000,1,6,7,1,0,0,3,0,8,2.0,-11,.333
+2024-01-27,202401270MIL,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202401270MIL.html,20.77,1,2,.500,0,0,2,2,1.000,0,1,1,2,2,0,0,4,4,5.1,0,
+2024-01-27,202401270MIL,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202401270MIL.html,17.98,0,1,.000,0,0,0,0,,0,2,2,3,1,1,2,1,0,1.3,-2,
+2024-01-27,202401270MIL,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202401270MIL.html,17.5,3,6,.500,2,3,2,2,1.000,2,3,5,0,0,0,0,2,10,8.5,-21,.667
+2024-01-27,202401270MIL,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202401270MIL.html,15.23,3,6,.500,0,0,2,6,.333,1,0,1,1,1,0,1,2,8,4.0,-7,
+2024-01-27,202401270MIL,NOP,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202401270MIL.html,6.8,2,3,.667,0,1,4,5,.800,3,0,3,0,0,0,0,0,8,8.4,+5,.000
+2024-01-27,202401270MIL,NOP,Cody Zeller,https://www.basketball-reference.com/boxscores/202401270MIL.html,6.8,0,1,.000,0,0,1,2,.500,0,3,3,0,0,0,0,0,1,0.8,+5,
+2024-01-27,202401270MIL,NOP,E.J. Liddell,https://www.basketball-reference.com/boxscores/202401270MIL.html,2.78,0,0,,0,0,0,0,,0,2,2,0,0,0,0,0,0,0.6,+5,
+2024-01-27,202401270MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202401270MIL.html,34.6,8,11,.727,6,9,2,2,1.000,0,3,3,0,1,0,2,2,24,18.6,+29,.667
+2024-01-27,202401270MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202401270MIL.html,28.92,11,16,.688,1,1,7,11,.636,1,11,12,4,2,0,1,3,30,28.2,+23,1.000
+2024-01-27,202401270MIL,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202401270MIL.html,28.53,7,14,.500,3,7,9,10,.900,0,6,6,9,2,0,0,1,26,28.3,+23,.429
+2024-01-27,202401270MIL,MIL,Malik Beasley,https://www.basketball-reference.com/boxscores/202401270MIL.html,28.37,3,10,.300,1,7,1,2,.500,1,3,4,2,2,0,2,2,8,4.0,+26,.143
+2024-01-27,202401270MIL,MIL,Jae Crowder,https://www.basketball-reference.com/boxscores/202401270MIL.html,22.4,2,5,.400,1,4,0,0,,1,3,4,1,0,0,0,3,5,3.4,+18,.250
+2024-01-27,202401270MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202401270MIL.html,22.15,9,15,.600,2,5,0,0,,1,6,7,2,1,0,1,6,20,14.6,+2,.400
+2024-01-27,202401270MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202401270MIL.html,19.67,2,4,.500,1,3,0,0,,2,1,3,4,1,0,1,1,5,7.1,+10,.333
+2024-01-27,202401270MIL,MIL,Cameron Payne,https://www.basketball-reference.com/boxscores/202401270MIL.html,17.68,4,7,.571,3,4,0,0,,0,2,2,5,2,0,0,0,11,13.8,+4,.750
+2024-01-27,202401270MIL,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202401270MIL.html,17.4,1,1,1.000,1,1,0,0,,0,2,2,2,1,0,0,3,3,4.5,+8,1.000
+2024-01-27,202401270MIL,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202401270MIL.html,5.93,3,3,1.000,0,0,0,0,,0,0,0,0,0,0,0,0,6,5.1,-4,
+2024-01-27,202401270MIL,MIL,Robin Lopez,https://www.basketball-reference.com/boxscores/202401270MIL.html,5.05,0,1,.000,0,1,0,0,,0,0,0,1,0,0,0,1,0,-0.4,-3,.000
+2024-01-27,202401270MIL,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202401270MIL.html,4.35,1,3,.333,1,3,0,0,,0,1,1,0,0,0,1,1,3,0.2,-8,.333
+2024-01-27,202401270MIL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202401270MIL.html,3.17,0,0,,0,0,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-5,
+2024-01-27,202401270MIL,MIL,Chris Livingston,https://www.basketball-reference.com/boxscores/202401270MIL.html,1.78,0,1,.000,0,0,0,0,,0,1,1,0,0,0,0,2,0,-1.2,-3,

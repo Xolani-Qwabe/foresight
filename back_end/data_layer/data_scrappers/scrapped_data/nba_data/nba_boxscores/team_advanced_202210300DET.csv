@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-30,202210300DET,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202210300DET.html,36:02,.647,.595,.619,.238,2.8,6.5,4.5,20.8,2.7,0.0,11.5,29.8,123,129,4.6
+2022-10-30,202210300DET,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202210300DET.html,34:58,.572,.500,.583,.375,0.0,20.1,9.3,16.3,2.7,0.0,3.5,34.0,122,124,6.8
+2022-10-30,202210300DET,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202210300DET.html,26:00,.595,.500,.400,.400,0.0,31.5,14.5,36.6,0.0,3.7,40.5,15.6,95,125,-3.0
+2022-10-30,202210300DET,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202210300DET.html,25:06,.324,.300,.200,.067,8.0,4.7,6.4,6.1,1.9,3.8,6.1,26.9,77,129,-12.1
+2022-10-30,202210300DET,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202210300DET.html,21:32,.250,.250,.000,.000,27.9,16.3,22.5,12.1,0.0,0.0,0.0,7.6,131,132,-6.7
+2022-10-30,202210300DET,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202210300DET.html,23:50,.500,.500,.571,.000,8.4,9.8,9.1,0.0,2.0,4.0,22.2,15.5,87,127,-6.0
+2022-10-30,202210300DET,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202210300DET.html,19:11,.515,.333,.333,.667,5.2,6.1,5.6,20.6,0.0,0.0,20.5,10.4,116,135,-6.0
+2022-10-30,202210300DET,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202210300DET.html,15:52,.500,.500,.333,.000,0.0,14.8,6.8,0.0,6.0,6.1,14.3,18.1,84,115,-5.3
+2022-10-30,202210300DET,GSW,Ty Jerome,https://www.basketball-reference.com/boxscores/202210300DET.html,14:19,1.064,1.000,.000,2.000,0.0,0.0,0.0,10.4,0.0,0.0,0.0,10.8,227,137,3.0
+2022-10-30,202210300DET,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202210300DET.html,13:04,.615,.500,.000,.500,7.7,26.9,16.5,11.6,0.0,0.0,0.0,15.3,146,129,-1.8
+2022-10-30,202210300DET,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202210300DET.html,8:34,1.000,1.000,.000,.000,0.0,27.3,12.6,16.8,0.0,0.0,0.0,4.8,208,129,-2.2
+2022-10-30,202210300DET,GSW,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202210300DET.html,0:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,137,-9.5
+2022-10-30,202210300DET,GSW,Ryan Rollins,https://www.basketball-reference.com/boxscores/202210300DET.html,0:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,53.5,0,137,-69.8
+2022-10-30,202210300DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202210300DET.html,39:14,.528,.475,.150,.200,3.0,22.9,13.7,38.0,0.0,2.3,15.5,27.5,113,112,-0.2
+2022-10-30,202210300DET,DET,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202210300DET.html,34:48,.911,.813,.750,1.000,0.0,8.6,4.6,12.5,0.0,0.0,8.0,15.1,178,119,7.5
+2022-10-30,202210300DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202210300DET.html,34:32,.713,.647,.529,.353,0.0,17.4,9.4,15.2,0.0,0.0,13.3,27.4,130,116,4.6
+2022-10-30,202210300DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202210300DET.html,32:56,.809,.700,.500,1.100,17.8,24.3,21.3,0.0,0.0,0.0,0.0,18.9,181,113,7.9
+2022-10-30,202210300DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202210300DET.html,31:29,.568,.545,.455,.455,3.7,9.5,6.9,14.1,1.5,2.9,13.2,20.2,113,113,-0.7
+2022-10-30,202210300DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202210300DET.html,17:53,.286,.286,.143,.000,0.0,11.2,6.0,38.8,2.7,0.0,22.2,21.1,79,112,-11.4
+2022-10-30,202210300DET,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202210300DET.html,16:55,.750,.750,1.000,.000,6.9,11.8,9.6,0.0,0.0,0.0,0.0,9.9,159,118,0.8
+2022-10-30,202210300DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202210300DET.html,15:04,.387,.333,.000,.667,23.3,6.6,14.3,0.0,0.0,6.0,20.5,13.6,99,116,-9.1
+2022-10-30,202210300DET,DET,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202210300DET.html,12:13,.515,.333,.000,.667,9.6,8.2,8.8,10.9,7.8,0.0,34.0,20.1,89,101,-1.9
+2022-10-30,202210300DET,DET,Cory Joseph,https://www.basketball-reference.com/boxscores/202210300DET.html,4:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-7.1

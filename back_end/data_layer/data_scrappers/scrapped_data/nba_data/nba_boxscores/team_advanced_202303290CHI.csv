@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-29,202303290CHI,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202303290CHI.html,38:38,.726,.675,.050,.700,15.9,13.1,14.5,17.2,2.5,4.5,0.0,28.5,164,108,18.2
+2023-03-29,202303290CHI,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202303290CHI.html,35:47,.638,.667,.333,.250,3.4,10.6,7.0,15.1,1.4,0.0,18.4,19.2,115,114,-0.3
+2023-03-29,202303290CHI,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202303290CHI.html,31:16,.602,.553,.158,.211,11.8,20.2,15.9,20.7,3.1,0.0,16.2,33.3,117,109,4.9
+2023-03-29,202303290CHI,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202303290CHI.html,28:52,.973,.938,.250,.500,0.0,8.8,4.3,24.9,1.7,0.0,9.3,15.7,183,114,13.7
+2023-03-29,202303290CHI,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303290CHI.html,24:44,.800,.800,.600,.000,5.0,30.6,17.6,9.9,2.0,0.0,0.0,8.5,178,110,6.9
+2023-03-29,202303290CHI,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303290CHI.html,20:57,.435,.286,.286,.714,11.7,6.0,8.9,5.7,0.0,4.2,17.9,22.5,94,114,-6.8
+2023-03-29,202303290CHI,LAL,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303290CHI.html,20:19,.000,.000,.667,.000,0.0,24.9,12.3,0.0,2.4,0.0,0.0,6.2,0,110,-11.5
+2023-03-29,202303290CHI,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303290CHI.html,16:12,.500,.500,.167,.000,7.6,23.4,15.4,8.2,0.0,0.0,14.3,18.2,103,116,-5.0
+2023-03-29,202303290CHI,LAL,Malik Beasley,https://www.basketball-reference.com/boxscores/202303290CHI.html,10:25,.000,.000,.333,.000,0.0,12.1,6.0,10.2,9.3,0.0,57.1,28.2,9,97,-20.4
+2023-03-29,202303290CHI,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202303290CHI.html,10:13,.000,.000,.000,.000,0.0,37.1,18.3,0.0,0.0,0.0,0.0,4.1,0,114,-7.0
+2023-03-29,202303290CHI,LAL,Davon Reed,https://www.basketball-reference.com/boxscores/202303290CHI.html,1:18,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-6.4
+2023-03-29,202303290CHI,LAL,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202303290CHI.html,1:18,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64.7,0,118,-86.3
+2023-03-29,202303290CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202303290CHI.html,38:31,.624,.600,.133,.400,0.0,12.8,6.5,18.4,2.5,3.8,14.5,23.9,111,120,2.7
+2023-03-29,202303290CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202303290CHI.html,36:27,.859,.844,.250,.125,10.4,30.4,20.5,27.1,0.0,0.0,10.6,23.1,154,123,13.2
+2023-03-29,202303290CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202303290CHI.html,35:33,.571,.571,.143,.000,0.0,6.9,3.5,23.7,4.1,0.0,26.3,23.8,90,120,-3.8
+2023-03-29,202303290CHI,CHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202303290CHI.html,24:45,.000,.000,1.000,.000,0.0,9.9,5.0,4.3,2.0,2.9,16.7,10.8,12,122,-13.0
+2023-03-29,202303290CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202303290CHI.html,18:52,.625,.625,.750,.000,6.7,6.5,6.6,19.1,2.6,0.0,0.0,9.4,147,124,3.6
+2023-03-29,202303290CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202303290CHI.html,25:39,.715,.682,.636,.182,0.0,9.6,4.9,49.9,1.9,0.0,7.8,22.4,145,124,12.0
+2023-03-29,202303290CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202303290CHI.html,24:10,.143,.143,.714,.000,0.0,5.1,2.6,4.6,2.0,3.0,12.5,14.8,34,123,-14.0
+2023-03-29,202303290CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202303290CHI.html,18:55,.636,.611,.333,.111,0.0,19.5,9.9,0.0,0.0,0.0,0.0,22.2,120,126,-3.9
+2023-03-29,202303290CHI,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202303290CHI.html,12:03,.500,.500,.200,.000,10.5,10.2,10.3,0.0,4.0,0.0,16.7,22.2,86,120,-5.9
+2023-03-29,202303290CHI,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202303290CHI.html,2:29,.000,.000,.000,.000,50.9,0.0,25.1,0.0,0.0,0.0,0.0,17.9,70,129,-33.4
+2023-03-29,202303290CHI,CHI,Carlik Jones,https://www.basketball-reference.com/boxscores/202303290CHI.html,1:18,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-9.1
+2023-03-29,202303290CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202303290CHI.html,1:18,.532,.000,1.000,2.000,0.0,94.7,48.0,0.0,0.0,0.0,0.0,64.4,120,106,0.6

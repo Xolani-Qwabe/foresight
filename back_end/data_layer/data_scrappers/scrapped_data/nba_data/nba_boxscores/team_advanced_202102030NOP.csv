@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-03,202102030NOP,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202102030NOP.html,32:57,.333,.333,.583,.000,10.2,3.6,7.0,13.6,1.6,7.7,7.7,18.1,87,132,-4.6
+2021-02-03,202102030NOP,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202102030NOP.html,31:50,.531,.450,.200,.400,0.0,15.1,7.3,12.3,0.0,0.0,11.3,38.2,100,137,-6.3
+2021-02-03,202102030NOP,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202102030NOP.html,29:06,.689,.667,.000,.111,15.3,28.9,21.9,11.7,0.0,2.9,9.6,16.4,138,131,1.6
+2021-02-03,202102030NOP,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202102030NOP.html,26:14,.444,.444,.778,.000,4.3,13.7,8.8,16.9,0.0,0.0,10.0,17.5,98,138,-6.2
+2021-02-03,202102030NOP,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202102030NOP.html,25:01,.672,.643,.286,.143,0.0,0.0,0.0,25.3,2.1,0.0,11.8,15.5,129,137,-1.1
+2021-02-03,202102030NOP,PHO,Frank Kaminsky,https://www.basketball-reference.com/boxscores/202102030NOP.html,17:07,.500,.500,.333,.000,13.0,35.1,23.7,9.5,0.0,9.8,0.0,16.1,121,125,2.3
+2021-02-03,202102030NOP,PHO,E'Twaun Moore,https://www.basketball-reference.com/boxscores/202102030NOP.html,16:50,.902,.833,.667,.667,0.0,7.1,3.4,17.7,3.1,0.0,20.5,13.3,146,133,6.5
+2021-02-03,202102030NOP,PHO,Langston Galloway,https://www.basketball-reference.com/boxscores/202102030NOP.html,16:10,.833,.833,.333,.000,0.0,7.4,3.6,18.5,0.0,0.0,25.0,11.3,124,139,-1.5
+2021-02-03,202102030NOP,PHO,Abdel Nader,https://www.basketball-reference.com/boxscores/202102030NOP.html,13:27,.709,.667,.833,.667,0.0,8.9,4.3,0.0,0.0,0.0,27.9,36.6,92,139,-7.5
+2021-02-03,202102030NOP,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202102030NOP.html,12:51,.375,.375,1.000,.000,0.0,18.7,9.0,10.9,0.0,0.0,20.0,17.8,70,136,-11.2
+2021-02-03,202102030NOP,PHO,Jevon Carter,https://www.basketball-reference.com/boxscores/202102030NOP.html,6:09,,,,,0.0,0.0,0.0,100.0,0.0,0.0,100.0,7.4,120,142,13.3
+2021-02-03,202102030NOP,PHO,Damian Jones,https://www.basketball-reference.com/boxscores/202102030NOP.html,6:09,.906,1.000,.000,4.000,18.2,39.0,28.2,0.0,0.0,0.0,0.0,20.6,194,130,9.8
+2021-02-03,202102030NOP,PHO,Jalen Smith,https://www.basketball-reference.com/boxscores/202102030NOP.html,6:09,.000,.000,.500,.000,0.0,19.5,9.4,20.5,0.0,0.0,0.0,14.9,32,136,-12.7
+2021-02-03,202102030NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202102030NOP.html,32:58,.573,.471,.294,.412,0.0,13.5,7.0,24.4,0.0,6.2,0.0,27.5,139,111,6.6
+2021-02-03,202102030NOP,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202102030NOP.html,32:20,.888,.893,.071,.286,11.1,13.8,12.5,31.6,1.6,0.0,0.0,22.0,189,111,20.2
+2021-02-03,202102030NOP,NOP,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202102030NOP.html,29:12,.786,.786,.857,.000,0.0,11.5,5.9,12.5,0.0,0.0,12.5,12.4,142,115,1.9
+2021-02-03,202102030NOP,NOP,Steven Adams,https://www.basketball-reference.com/boxscores/202102030NOP.html,28:35,.468,.400,.000,.400,33.6,19.5,26.3,17.1,1.8,0.0,0.0,18.6,144,109,2.8
+2021-02-03,202102030NOP,NOP,Lonzo Ball,https://www.basketball-reference.com/boxscores/202102030NOP.html,24:23,.692,.692,.538,.000,4.9,22.9,14.2,6.1,2.1,0.0,13.3,27.8,118,107,2.5
+2021-02-03,202102030NOP,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202102030NOP.html,22:30,.714,.714,.429,.000,0.0,14.9,7.7,11.4,0.0,0.0,0.0,14.1,152,114,4.6
+2021-02-03,202102030NOP,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202102030NOP.html,20:25,.300,.300,.500,.000,0.0,10.9,5.7,30.2,7.7,0.0,23.1,28.8,72,98,-8.7
+2021-02-03,202102030NOP,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202102030NOP.html,19:25,.420,.333,.000,1.333,0.0,28.7,14.9,11.4,0.0,5.3,0.0,11.1,112,107,-3.3
+2021-02-03,202102030NOP,NOP,JJ Redick,https://www.basketball-reference.com/boxscores/202102030NOP.html,17:56,.635,.571,.714,.286,0.0,6.2,3.2,7.0,0.0,0.0,0.0,19.9,140,117,0.8
+2021-02-03,202102030NOP,NOP,Nicolò Melli,https://www.basketball-reference.com/boxscores/202102030NOP.html,5:39,,,,,0.0,0.0,0.0,0.0,9.3,0.0,100.0,8.0,0,98,-14.4
+2021-02-03,202102030NOP,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202102030NOP.html,2:33,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.4,101,119,-10.5
+2021-02-03,202102030NOP,NOP,Sindarius Thornwell,https://www.basketball-reference.com/boxscores/202102030NOP.html,2:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-14.2
+2021-02-03,202102030NOP,NOP,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202102030NOP.html,1:31,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-6.7

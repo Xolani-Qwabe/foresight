@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-11,202212110HOU,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202212110HOU.html,36:46,.407,.412,.118,.353,2.5,45.3,23.3,21.9,1.3,4.1,13.3,26.2,82,90,0.3
+2022-12-11,202212110HOU,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202212110HOU.html,35:14,.586,.550,.450,.150,0.0,16.7,8.1,52.6,4.2,0.0,19.0,31.8,107,95,11.5
+2022-12-11,202212110HOU,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202212110HOU.html,32:42,.394,.313,.500,.250,5.6,3.0,4.4,0.0,0.0,6.9,10.1,12.8,86,102,-5.5
+2022-12-11,202212110HOU,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202212110HOU.html,28:47,.387,.250,.750,.417,3.2,3.4,3.3,5.6,0.0,0.0,17.4,25.4,75,108,-9.8
+2022-12-11,202212110HOU,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202212110HOU.html,6:29,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.1,0,108,-19.3
+2022-12-11,202212110HOU,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202212110HOU.html,28:19,.535,.500,.333,.133,19.6,31.1,25.2,16.0,0.0,0.0,0.0,23.8,128,100,8.3
+2022-12-11,202212110HOU,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202212110HOU.html,27:59,.900,.900,1.000,.000,3.3,3.5,3.4,6.2,0.0,2.7,0.0,7.6,181,105,4.8
+2022-12-11,202212110HOU,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202212110HOU.html,24:43,.350,.350,.600,.000,3.7,7.9,5.8,7.1,2.0,0.0,9.1,18.9,75,102,-4.3
+2022-12-11,202212110HOU,MIL,George Hill,https://www.basketball-reference.com/boxscores/202212110HOU.html,13:47,,,,,0.0,14.2,6.9,10.6,0.0,0.0,100.0,3.1,40,105,-8.9
+2022-12-11,202212110HOU,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202212110HOU.html,5:14,.000,.000,1.000,.000,17.6,0.0,9.1,0.0,0.0,0.0,50.0,16.2,26,108,-19.1
+2022-12-11,202212110HOU,HOU,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202212110HOU.html,35:44,.533,.500,.188,.125,2.7,5.2,4.0,32.1,2.8,2.9,19.2,25.9,98,99,1.9
+2022-12-11,202212110HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202212110HOU.html,34:54,.279,.111,.444,.444,5.6,21.2,13.6,7.1,4.3,2.9,15.7,16.2,67,88,-5.6
+2022-12-11,202212110HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202212110HOU.html,33:36,.659,.643,.286,.190,0.0,19.2,9.9,18.8,0.0,0.0,8.1,32.7,120,101,9.0
+2022-12-11,202212110HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202212110HOU.html,30:28,.450,.450,.500,.000,0.0,9.1,4.7,4.7,1.6,0.0,9.1,16.0,84,102,-5.6
+2022-12-11,202212110HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202212110HOU.html,27:12,.400,.400,.000,.000,7.2,20.4,14.0,16.1,1.8,3.8,9.1,17.9,91,94,-1.4
+2022-12-11,202212110HOU,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202212110HOU.html,21:52,.556,.556,.111,.000,13.4,16.9,15.2,15.1,2.3,4.7,10.0,20.3,114,94,5.6
+2022-12-11,202212110HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202212110HOU.html,13:06,.000,.000,.000,.000,0.0,7.0,3.6,0.0,7.6,0.0,0.0,6.8,0,88,-9.0
+2022-12-11,202212110HOU,HOU,Daishen Nix,https://www.basketball-reference.com/boxscores/202212110HOU.html,12:16,.625,.625,.750,.000,0.0,7.5,3.9,48.6,4.0,0.0,0.0,14.5,147,97,14.3
+2022-12-11,202212110HOU,HOU,Usman Garuba,https://www.basketball-reference.com/boxscores/202212110HOU.html,10:32,.333,.333,.667,.000,0.0,17.5,9.0,0.0,0.0,9.7,0.0,12.6,69,96,-5.0
+2022-12-11,202212110HOU,HOU,Garrison Mathews,https://www.basketball-reference.com/boxscores/202212110HOU.html,10:22,.625,.625,.750,.000,0.0,8.9,4.6,0.0,0.0,19.7,0.0,17.1,120,95,11.4
+2022-12-11,202212110HOU,HOU,Bruno Fernando,https://www.basketball-reference.com/boxscores/202212110HOU.html,9:58,.515,.333,.000,.667,19.7,37.0,28.6,13.7,0.0,10.2,20.5,21.7,107,86,-5.2

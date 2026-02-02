@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-04-10,202404100OKC,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202404100OKC.html,27.68,6,14,.429,1,4,.250,0,0,0,6,6,7,3,1,2,1,13,13.6,-23,
+2024-04-10,202404100OKC,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202404100OKC.html,26.22,8,17,.471,2,5,.400,2,3,0,7,7,2,1,2,5,3,20,10.6,-30,.667
+2024-04-10,202404100OKC,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202404100OKC.html,25.52,0,8,.000,0,3,.000,0,0,0,11,11,2,0,0,1,0,0,-1.9,-28,
+2024-04-10,202404100OKC,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202404100OKC.html,24.13,1,7,.143,0,6,.000,3,4,0,3,3,0,1,1,2,3,5,-0.5,-35,.750
+2024-04-10,202404100OKC,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202404100OKC.html,19.8,3,8,.375,1,4,.250,0,0,0,2,2,1,0,0,1,2,7,2.1,-21,
+2024-04-10,202404100OKC,SAS,Sidy Cissoko,https://www.basketball-reference.com/boxscores/202404100OKC.html,28.28,4,7,.571,1,3,.333,5,7,3,2,5,3,0,0,0,3,14,13.5,-17,.714
+2024-04-10,202404100OKC,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202404100OKC.html,25.27,1,11,.091,1,4,.250,4,4,0,2,2,1,0,0,2,1,7,-1.4,-9,1.000
+2024-04-10,202404100OKC,SAS,Devonte' Graham,https://www.basketball-reference.com/boxscores/202404100OKC.html,20.55,1,7,.143,0,4,.000,0,0,0,3,3,1,0,0,1,0,2,-1.9,-21,
+2024-04-10,202404100OKC,SAS,David Duke Jr.,https://www.basketball-reference.com/boxscores/202404100OKC.html,18.0,2,8,.250,0,2,.000,2,2,1,6,7,4,1,0,1,1,6,6.1,-5,1.000
+2024-04-10,202404100OKC,SAS,RaiQuan Gray,https://www.basketball-reference.com/boxscores/202404100OKC.html,12.55,5,8,.625,3,5,.600,0,0,0,0,0,2,1,0,0,0,13,11.8,+3,
+2024-04-10,202404100OKC,SAS,Jamaree Bouyea,https://www.basketball-reference.com/boxscores/202404100OKC.html,12.0,1,1,1.000,0,0,,0,0,0,1,1,1,1,0,0,0,2,3.7,-4,
+2024-04-10,202404100OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202404100OKC.html,28.62,7,12,.583,1,3,.333,5,5,0,12,12,7,1,0,3,1,20,20.5,+22,1.000
+2024-04-10,202404100OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202404100OKC.html,26.25,10,18,.556,1,3,.333,5,5,0,6,6,5,0,0,1,1,26,21.3,+26,1.000
+2024-04-10,202404100OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202404100OKC.html,24.5,0,5,.000,0,4,.000,0,0,0,4,4,3,3,1,0,1,0,3.1,+24,
+2024-04-10,202404100OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202404100OKC.html,23.58,5,11,.455,0,2,.000,0,0,0,7,7,2,3,1,1,1,10,10.1,+25,
+2024-04-10,202404100OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202404100OKC.html,14.62,3,8,.375,1,2,.500,2,2,1,5,6,2,1,0,0,3,9,8.0,+8,1.000
+2024-04-10,202404100OKC,OKC,Gordon Hayward,https://www.basketball-reference.com/boxscores/202404100OKC.html,19.82,6,8,.750,2,3,.667,4,6,0,1,1,0,1,0,3,1,18,11.9,+23,.667
+2024-04-10,202404100OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202404100OKC.html,17.22,2,6,.333,2,2,1.000,1,2,0,2,2,3,2,0,1,1,7,6.5,+17,.500
+2024-04-10,202404100OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202404100OKC.html,15.4,1,6,.167,1,3,.333,0,0,0,1,1,3,0,0,1,0,3,0.6,+11,
+2024-04-10,202404100OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202404100OKC.html,15.23,0,4,.000,0,1,.000,0,0,2,2,4,2,0,0,1,3,0,-1.6,-1,
+2024-04-10,202404100OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202404100OKC.html,13.32,3,4,.750,2,2,1.000,0,1,2,6,8,3,1,1,0,1,8,12.6,+22,.000
+2024-04-10,202404100OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202404100OKC.html,12.42,3,6,.500,2,4,.500,0,0,1,2,3,0,0,2,1,2,8,5.9,+9,
+2024-04-10,202404100OKC,OKC,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202404100OKC.html,12.0,3,3,1.000,0,0,,0,0,1,5,6,0,0,1,0,0,6,8.0,+4,
+2024-04-10,202404100OKC,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202404100OKC.html,8.52,3,6,.500,3,6,.500,0,0,0,2,2,0,0,0,0,1,9,6.2,0,
+2024-04-10,202404100OKC,OKC,Adam Flagler,https://www.basketball-reference.com/boxscores/202404100OKC.html,8.52,1,4,.250,1,3,.333,0,0,0,0,0,3,0,0,0,0,3,2.7,0,

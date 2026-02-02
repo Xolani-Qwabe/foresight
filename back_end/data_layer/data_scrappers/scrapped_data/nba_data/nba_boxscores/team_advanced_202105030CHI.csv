@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-03,202105030CHI,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202105030CHI.html,35:10,.883,.850,.500,.300,0.0,11.1,6.5,17.9,1.5,0.0,8.1,16.8,165,106,9.0
+2021-05-03,202105030CHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202105030CHI.html,34:37,.781,.769,.000,.077,11.9,17.0,14.9,15.9,3.0,0.0,18.2,22.7,133,100,6.6
+2021-05-03,202105030CHI,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202105030CHI.html,33:26,.815,.857,.000,.714,0.0,17.6,10.3,22.9,4.6,0.0,17.9,16.0,142,96,7.2
+2021-05-03,202105030CHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202105030CHI.html,32:57,.416,.308,.231,.462,4.2,26.8,17.3,12.8,0.0,8.2,20.4,28.5,81,98,-8.7
+2021-05-03,202105030CHI,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202105030CHI.html,28:43,.700,.700,.900,.000,0.0,13.6,8.0,15.8,7.2,0.0,0.0,16.7,145,92,13.8
+2021-05-03,202105030CHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202105030CHI.html,20:16,.500,.500,.625,.000,0.0,0.0,0.0,0.0,2.5,13.4,20.0,23.6,76,99,-0.3
+2021-05-03,202105030CHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202105030CHI.html,14:34,.765,.800,.600,.400,0.0,6.7,3.9,32.8,0.0,0.0,14.5,22.6,138,111,8.1
+2021-05-03,202105030CHI,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202105030CHI.html,14:28,.174,.000,.000,1.000,28.4,27.1,27.6,0.0,0.0,0.0,0.0,9.5,100,103,-9.9
+2021-05-03,202105030CHI,PHI,George Hill,https://www.basketball-reference.com/boxscores/202105030CHI.html,13:20,.644,.667,.333,.667,0.0,14.7,8.6,11.0,0.0,0.0,43.6,24.7,73,108,-13.2
+2021-05-03,202105030CHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202105030CHI.html,5:29,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.7,0,113,-14.4
+2021-05-03,202105030CHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202105030CHI.html,4:37,.000,.000,.000,.000,0.0,21.2,12.4,26.0,0.0,0.0,0.0,10.4,61,105,-12.1
+2021-05-03,202105030CHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202105030CHI.html,2:23,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.2,0,113,-46.3
+2021-05-03,202105030CHI,CHI,Daniel Theis,https://www.basketball-reference.com/boxscores/202105030CHI.html,40:11,.506,.450,.200,.200,7.3,17.1,11.4,11.5,2.6,0.0,8.4,13.1,113,112,-0.6
+2021-05-03,202105030CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202105030CHI.html,28:48,.578,.553,.526,.105,3.4,4.8,4.0,36.8,0.0,0.0,13.1,35.3,107,120,6.3
+2021-05-03,202105030CHI,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202105030CHI.html,27:43,.468,.462,.077,.154,3.5,14.8,8.2,20.3,1.9,0.0,17.8,27.0,85,114,-3.8
+2021-05-03,202105030CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202105030CHI.html,27:40,.282,.250,.125,.250,7.1,24.8,14.5,21.3,3.7,0.0,10.1,15.8,82,108,-3.2
+2021-05-03,202105030CHI,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202105030CHI.html,27:30,.583,.583,.333,.000,0.0,5.0,2.1,0.0,0.0,3.7,14.3,11.3,93,117,-5.1
+2021-05-03,202105030CHI,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202105030CHI.html,22:39,.556,.556,.444,.000,4.3,18.2,10.1,50.1,0.0,4.5,25.0,23.5,101,115,1.0
+2021-05-03,202105030CHI,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202105030CHI.html,16:48,.313,.313,.750,.000,11.7,16.3,13.6,0.0,0.0,0.0,20.0,26.4,61,118,-16.4
+2021-05-03,202105030CHI,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202105030CHI.html,16:33,.698,.643,.857,.286,0.0,16.6,6.9,42.5,0.0,0.0,11.3,23.8,136,118,12.9
+2021-05-03,202105030CHI,CHI,Al-Farouq Aminu,https://www.basketball-reference.com/boxscores/202105030CHI.html,16:18,.431,.000,1.000,3.000,6.0,33.7,17.5,0.0,3.2,0.0,0.0,6.3,115,108,-3.5
+2021-05-03,202105030CHI,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202105030CHI.html,11:13,.788,.750,.000,.250,8.7,24.5,15.3,0.0,4.6,0.0,0.0,17.6,161,106,11.3
+2021-05-03,202105030CHI,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202105030CHI.html,4:37,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.2,0,120,-29.5

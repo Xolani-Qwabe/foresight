@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-09-22,202009220DEN,LAL,Q1,Anthony Davis,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,2,5,.400,0,1,.000,3,4,.750,0,0,0,1,0,0,1,1,7,3.2,-2
+2020-09-22,202009220DEN,LAL,Q1,LeBron James,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.72,3,5,.600,0,1,.000,0,0,,1,2,3,5,1,0,2,0,6,7.5,+4
+2020-09-22,202009220DEN,LAL,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202009220DEN.html,10.0,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,2.0,-4
+2020-09-22,202009220DEN,LAL,Q1,Danny Green,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.72,1,1,1.000,1,1,1.000,0,0,,1,1,2,0,0,0,0,0,3,3.7,+2
+2020-09-22,202009220DEN,LAL,Q1,JaVale McGee,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.08,2,2,1.000,0,0,,0,1,.000,0,1,1,0,1,0,0,2,4,3.5,+2
+2020-09-22,202009220DEN,LAL,Q1,Rajon Rondo,https://www.basketball-reference.com/boxscores/202009220DEN.html,5.28,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.0,-4
+2020-09-22,202009220DEN,LAL,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202009220DEN.html,5.28,2,3,.667,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,5,3.7,-4
+2020-09-22,202009220DEN,LAL,Q1,Alex Caruso,https://www.basketball-reference.com/boxscores/202009220DEN.html,3.92,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-4
+2020-09-22,202009220DEN,LAL,Q2,Anthony Davis,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.8,3,3,1.000,0,0,,3,3,1.000,0,0,0,0,1,0,0,0,9,9.1,+4
+2020-09-22,202009220DEN,LAL,Q2,LeBron James,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.77,2,2,1.000,0,0,,0,0,,0,1,1,4,0,0,3,0,4,3.5,-8
+2020-09-22,202009220DEN,LAL,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.15,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,3,2.6,+4
+2020-09-22,202009220DEN,LAL,Q2,Danny Green,https://www.basketball-reference.com/boxscores/202009220DEN.html,5.32,0,3,.000,0,2,.000,1,2,.500,0,0,0,0,0,0,0,1,1,-1.9,+1
+2020-09-22,202009220DEN,LAL,Q2,Rajon Rondo,https://www.basketball-reference.com/boxscores/202009220DEN.html,7.75,1,4,.250,0,0,,0,0,,0,1,1,3,0,0,1,0,2,1.0,-13
+2020-09-22,202009220DEN,LAL,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8
+2020-09-22,202009220DEN,LAL,Q2,Alex Caruso,https://www.basketball-reference.com/boxscores/202009220DEN.html,5.85,0,4,.000,0,2,.000,0,0,,0,0,0,0,1,0,1,1,0,-3.2,-12
+2020-09-22,202009220DEN,LAL,Q2,Dwight Howard,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.98,2,3,.667,0,0,,0,1,.000,1,0,1,0,1,1,0,2,4,3.9,+1
+2020-09-22,202009220DEN,LAL,Q2,Markieff Morris,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.35,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.2,-9
+2020-09-22,202009220DEN,LAL,Q3,Anthony Davis,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,2,6,.333,0,2,.000,0,0,,0,0,0,0,0,0,2,1,4,-1.8,-8
+2020-09-22,202009220DEN,LAL,Q3,LeBron James,https://www.basketball-reference.com/boxscores/202009220DEN.html,7.77,3,8,.375,0,1,.000,1,2,.500,0,3,3,0,0,1,0,1,7,3.4,-4
+2020-09-22,202009220DEN,LAL,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.97,3,4,.750,1,2,.500,0,0,,1,0,1,0,1,0,0,0,7,7.1,-8
+2020-09-22,202009220DEN,LAL,Q3,Danny Green,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.12,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,3,0,0.1,-6
+2020-09-22,202009220DEN,LAL,Q3,Rajon Rondo,https://www.basketball-reference.com/boxscores/202009220DEN.html,4.92,2,2,1.000,0,0,,0,1,.000,0,0,0,1,0,0,0,0,4,3.7,-6
+2020-09-22,202009220DEN,LAL,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202009220DEN.html,3.03,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,0
+2020-09-22,202009220DEN,LAL,Q3,Alex Caruso,https://www.basketball-reference.com/boxscores/202009220DEN.html,3.88,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2020-09-22,202009220DEN,LAL,Q3,Dwight Howard,https://www.basketball-reference.com/boxscores/202009220DEN.html,7.08,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,-2
+2020-09-22,202009220DEN,LAL,Q3,Markieff Morris,https://www.basketball-reference.com/boxscores/202009220DEN.html,4.23,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-4
+2020-09-22,202009220DEN,LAL,Q4,Anthony Davis,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,2,3,.667,0,1,.000,3,3,1.000,0,2,2,0,0,0,0,2,7,5.5,+10
+2020-09-22,202009220DEN,LAL,Q4,LeBron James,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,6,8,.750,1,2,.500,0,0,,0,3,3,2,1,1,1,0,13,12.8,+10
+2020-09-22,202009220DEN,LAL,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202009220DEN.html,1.65,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1
+2020-09-22,202009220DEN,LAL,Q4,Rajon Rondo,https://www.basketball-reference.com/boxscores/202009220DEN.html,11.65,1,3,.333,0,2,.000,1,2,.500,0,1,1,3,3,0,2,4,3,2.7,+10
+2020-09-22,202009220DEN,LAL,Q4,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202009220DEN.html,11.67,2,4,.500,0,1,.000,2,3,.667,0,1,1,1,0,0,0,1,6,4.2,+9
+2020-09-22,202009220DEN,LAL,Q4,Alex Caruso,https://www.basketball-reference.com/boxscores/202009220DEN.html,11.03,1,2,.500,0,1,.000,0,0,,0,0,0,3,1,0,0,1,2,3.7,+12
+2020-09-22,202009220DEN,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202009220DEN.html,10.07,1,3,.333,1,2,.500,0,0,,1,1,2,4,1,0,0,0,3,6.1,+4
+2020-09-22,202009220DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,5,7,.714,0,1,.000,1,2,.500,1,3,4,2,0,0,2,1,11,8.3,+2
+2020-09-22,202009220DEN,DEN,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/202009220DEN.html,9.47,2,3,.667,1,2,.500,0,0,,0,2,2,0,1,0,0,1,5,4.9,-3
+2020-09-22,202009220DEN,DEN,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202009220DEN.html,9.57,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,0,0,2,1.7,+2
+2020-09-22,202009220DEN,DEN,Q1,Paul Millsap,https://www.basketball-reference.com/boxscores/202009220DEN.html,10.62,1,2,.500,0,1,.000,2,2,1.000,1,1,2,0,0,0,1,1,4,2.6,+3
+2020-09-22,202009220DEN,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202009220DEN.html,3.92,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,4,4.1,+4
+2020-09-22,202009220DEN,DEN,Q1,Monte Morris,https://www.basketball-reference.com/boxscores/202009220DEN.html,2.43,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,0
+2020-09-22,202009220DEN,DEN,Q1,Torrey Craig,https://www.basketball-reference.com/boxscores/202009220DEN.html,1.93,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2020-09-22,202009220DEN,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202009220DEN.html,9.65,3,4,.750,1,2,.500,2,3,.667,0,0,0,2,1,0,2,0,9,7.4,+6
+2020-09-22,202009220DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202009220DEN.html,7.42,1,2,.500,0,0,,2,2,1.000,1,1,2,2,0,1,1,0,4,5.1,-2
+2020-09-22,202009220DEN,DEN,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/202009220DEN.html,2.1,0,0,,0,0,,4,4,1.000,0,0,0,0,0,0,0,1,4,3.6,+3
+2020-09-22,202009220DEN,DEN,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2020-09-22,202009220DEN,DEN,Q2,Paul Millsap,https://www.basketball-reference.com/boxscores/202009220DEN.html,5.32,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-5
+2020-09-22,202009220DEN,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202009220DEN.html,10.13,2,3,.667,1,1,1.000,0,0,,1,4,5,0,2,0,1,3,5,5.4,+12
+2020-09-22,202009220DEN,DEN,Q2,Monte Morris,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.2,4,5,.800,2,3,.667,2,2,1.000,0,1,1,0,0,0,0,0,12,10.4,+14
+2020-09-22,202009220DEN,DEN,Q2,Torrey Craig,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.45,0,2,.000,0,1,.000,0,0,,1,2,3,0,1,0,0,0,0,0.9,+6
+2020-09-22,202009220DEN,DEN,Q2,Mason Plumlee,https://www.basketball-reference.com/boxscores/202009220DEN.html,4.58,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,1,1,0,-0.4,+10
+2020-09-22,202009220DEN,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,2,5,.400,0,2,.000,2,4,.500,1,4,5,5,0,0,0,1,6,7.5,+8
+2020-09-22,202009220DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202009220DEN.html,10.05,3,4,.750,1,2,.500,0,0,,1,0,1,1,0,0,0,0,7,6.8,+8
+2020-09-22,202009220DEN,DEN,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/202009220DEN.html,10.12,4,6,.667,1,2,.500,3,4,.750,0,0,0,0,1,0,1,0,12,9.0,+2
+2020-09-22,202009220DEN,DEN,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.97,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+8
+2020-09-22,202009220DEN,DEN,Q3,Paul Millsap,https://www.basketball-reference.com/boxscores/202009220DEN.html,8.97,0,2,.000,0,0,,0,0,,0,2,2,1,0,1,0,2,0,-0.2,+8
+2020-09-22,202009220DEN,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202009220DEN.html,1.95,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,0
+2020-09-22,202009220DEN,DEN,Q3,Monte Morris,https://www.basketball-reference.com/boxscores/202009220DEN.html,4.92,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9,+6
+2020-09-22,202009220DEN,DEN,Q3,Torrey Craig,https://www.basketball-reference.com/boxscores/202009220DEN.html,3.03,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,1,0,-1.5,0
+2020-09-22,202009220DEN,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,4,5,.800,2,2,1.000,0,0,,0,1,1,1,0,0,2,0,10,7.1,-10
+2020-09-22,202009220DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202009220DEN.html,7.93,0,1,.000,0,0,,0,0,,0,3,3,0,1,0,2,3,0,-2.0,-1
+2020-09-22,202009220DEN,DEN,Q4,Jerami Grant,https://www.basketball-reference.com/boxscores/202009220DEN.html,12.0,1,2,.500,0,1,.000,3,4,.750,0,1,1,1,0,0,1,1,5,3.2,-10
+2020-09-22,202009220DEN,DEN,Q4,Gary Harris,https://www.basketball-reference.com/boxscores/202009220DEN.html,7.63,0,1,.000,0,1,.000,2,2,1.000,0,0,0,1,0,0,1,0,2,1.0,0
+2020-09-22,202009220DEN,DEN,Q4,Paul Millsap,https://www.basketball-reference.com/boxscores/202009220DEN.html,6.12,1,2,.500,0,0,,0,0,,0,4,4,0,0,0,0,0,2,2.2,+5
+2020-09-22,202009220DEN,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202009220DEN.html,5.88,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,2,1,0,-2.8,-15
+2020-09-22,202009220DEN,DEN,Q4,Monte Morris,https://www.basketball-reference.com/boxscores/202009220DEN.html,4.37,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-10
+2020-09-22,202009220DEN,DEN,Q4,Torrey Craig,https://www.basketball-reference.com/boxscores/202009220DEN.html,4.07,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,-9

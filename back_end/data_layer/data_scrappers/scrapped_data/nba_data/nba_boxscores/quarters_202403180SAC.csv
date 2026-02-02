@@ -1,0 +1,79 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-03-18,202403180SAC,MEM,Q1,GG Jackson II,https://www.basketball-reference.com/boxscores/202403180SAC.html,12.0,3,3,1.000,3,3,1.000,2,2,1.000,0,1,1,0,0,0,0,0,11,10.4,+4
+2024-03-18,202403180SAC,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.93,1,7,.143,0,3,.000,3,3,1.000,0,0,0,0,0,0,1,2,5,-1.3,-4
+2024-03-18,202403180SAC,MEM,Q1,Santi Aldama,https://www.basketball-reference.com/boxscores/202403180SAC.html,8.0,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,-1
+2024-03-18,202403180SAC,MEM,Q1,Desmond Bane,https://www.basketball-reference.com/boxscores/202403180SAC.html,4.85,1,2,.500,1,1,1.000,2,2,1.000,0,1,1,1,0,0,0,2,5,4.2,+1
+2024-03-18,202403180SAC,MEM,Q1,John Konchar,https://www.basketball-reference.com/boxscores/202403180SAC.html,12.0,0,0,,0,0,,0,0,,1,3,4,2,1,0,0,1,0,3.6,+4
+2024-03-18,202403180SAC,MEM,Q1,Jake LaRavia,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.15,2,5,.400,1,3,.333,0,0,,1,1,2,3,0,0,1,1,5,4.0,+3
+2024-03-18,202403180SAC,MEM,Q1,DeJon Jarreau,https://www.basketball-reference.com/boxscores/202403180SAC.html,4.0,1,2,.500,1,1,1.000,0,2,.000,0,0,0,2,0,0,0,0,3,2.6,+5
+2024-03-18,202403180SAC,MEM,Q1,Trey Jemison,https://www.basketball-reference.com/boxscores/202403180SAC.html,2.07,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,+8
+2024-03-18,202403180SAC,MEM,Q2,GG Jackson II,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.8,1,3,.333,0,2,.000,0,0,,0,2,2,0,0,0,1,0,2,-0.1,-7
+2024-03-18,202403180SAC,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.58,0,2,.000,0,0,,0,0,,0,0,0,0,0,2,0,0,0,0.0,-1
+2024-03-18,202403180SAC,MEM,Q2,Santi Aldama,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.73,1,4,.250,0,1,.000,0,0,,1,1,2,0,0,1,1,0,2,0.3,-8
+2024-03-18,202403180SAC,MEM,Q2,Desmond Bane,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.52,1,5,.200,0,3,.000,2,2,1.000,0,4,4,1,1,0,1,0,4,2.8,-13
+2024-03-18,202403180SAC,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.8,1,4,.250,0,2,.000,0,0,,1,1,2,0,1,0,1,1,2,0.2,-7
+2024-03-18,202403180SAC,MEM,Q2,Jake LaRavia,https://www.basketball-reference.com/boxscores/202403180SAC.html,10.02,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0,-14
+2024-03-18,202403180SAC,MEM,Q2,DeJon Jarreau,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.18,1,3,.333,0,1,.000,0,0,,1,1,2,0,0,0,0,1,2,0.9,-7
+2024-03-18,202403180SAC,MEM,Q2,Trey Jemison,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.37,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,0,1,0,0.3,-13
+2024-03-18,202403180SAC,MEM,Q3,GG Jackson II,https://www.basketball-reference.com/boxscores/202403180SAC.html,12.0,1,2,.500,1,1,1.000,0,0,,1,1,2,0,2,0,1,0,3,4.0,+2
+2024-03-18,202403180SAC,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.27,3,7,.429,1,2,.500,0,0,,0,1,1,3,1,0,0,1,7,6.3,+5
+2024-03-18,202403180SAC,MEM,Q3,Santi Aldama,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.03,2,3,.667,1,2,.500,0,0,,0,2,2,1,1,0,1,1,5,4.6,+5
+2024-03-18,202403180SAC,MEM,Q3,Desmond Bane,https://www.basketball-reference.com/boxscores/202403180SAC.html,8.32,3,5,.600,1,1,1.000,4,4,1.000,0,0,0,2,1,0,0,0,11,11.1,+4
+2024-03-18,202403180SAC,MEM,Q3,John Konchar,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.03,0,0,,0,0,,2,2,1.000,0,1,1,0,0,2,0,1,2,3.3,+5
+2024-03-18,202403180SAC,MEM,Q3,Jake LaRavia,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.65,0,3,.000,0,2,.000,1,2,.500,0,1,1,0,0,0,0,0,1,-1.2,-5
+2024-03-18,202403180SAC,MEM,Q3,DeJon Jarreau,https://www.basketball-reference.com/boxscores/202403180SAC.html,2.97,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-3
+2024-03-18,202403180SAC,MEM,Q3,Trey Jemison,https://www.basketball-reference.com/boxscores/202403180SAC.html,4.73,0,0,,0,0,,0,0,,2,1,3,1,0,0,0,1,0,2.0,-3
+2024-03-18,202403180SAC,MEM,Q4,GG Jackson II,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.77,1,2,.500,0,1,.000,0,0,,0,2,2,0,0,0,0,1,2,1.2,+6
+2024-03-18,202403180SAC,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202403180SAC.html,12.0,3,10,.300,0,1,.000,5,6,.833,1,0,1,1,0,2,2,0,11,5.6,+8
+2024-03-18,202403180SAC,MEM,Q4,Santi Aldama,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.0,1,1,1.000,0,0,,2,3,.667,0,4,4,0,1,0,0,1,4,5.1,+11
+2024-03-18,202403180SAC,MEM,Q4,Desmond Bane,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.68,2,5,.400,0,0,,0,0,,0,0,0,0,1,0,0,0,4,2.3,+1
+2024-03-18,202403180SAC,MEM,Q4,John Konchar,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.97,1,2,.500,0,0,,0,0,,2,1,3,1,2,0,0,2,2,4.6,+6
+2024-03-18,202403180SAC,MEM,Q4,Jake LaRavia,https://www.basketball-reference.com/boxscores/202403180SAC.html,12.0,1,3,.333,0,0,,1,2,.500,2,2,4,1,0,0,0,2,3,2.8,+8
+2024-03-18,202403180SAC,MEM,Q4,DeJon Jarreau,https://www.basketball-reference.com/boxscores/202403180SAC.html,2.58,1,3,.333,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,1.6,0
+2024-03-18,202403180SAC,MEM,OT1,GG Jackson II,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,2,3,.667,0,1,.000,0,0,,0,0,0,0,1,0,0,1,4,3.3,-10
+2024-03-18,202403180SAC,MEM,OT1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202403180SAC.html,4.62,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,3,2,-0.5,-10
+2024-03-18,202403180SAC,MEM,OT1,Santi Aldama,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,-10
+2024-03-18,202403180SAC,MEM,OT1,Desmond Bane,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-10
+2024-03-18,202403180SAC,MEM,OT1,John Konchar,https://www.basketball-reference.com/boxscores/202403180SAC.html,0.38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-03-18,202403180SAC,MEM,OT1,Jake LaRavia,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-10
+2024-03-18,202403180SAC,SAC,Q1,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202403180SAC.html,8.32,1,1,1.000,1,1,1.000,1,2,.500,0,2,2,1,0,0,0,1,4,4.2,-10
+2024-03-18,202403180SAC,SAC,Q1,Keegan Murray,https://www.basketball-reference.com/boxscores/202403180SAC.html,8.65,1,4,.250,0,0,,0,0,,1,0,1,2,0,0,0,2,2,0.9,+3
+2024-03-18,202403180SAC,SAC,Q1,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202403180SAC.html,11.92,2,5,.400,0,2,.000,6,6,1.000,1,4,5,2,0,1,0,1,10,10.9,-4
+2024-03-18,202403180SAC,SAC,Q1,Harrison Barnes,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.68,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,0,0,4,2.7,-9
+2024-03-18,202403180SAC,SAC,Q1,Kevin Huerter,https://www.basketball-reference.com/boxscores/202403180SAC.html,1.85,0,0,,0,0,,0,0,,0,1,1,1,1,0,1,0,0,1.0,+2
+2024-03-18,202403180SAC,SAC,Q1,Malik Monk,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.75,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,2,0,0,-2.7,-2
+2024-03-18,202403180SAC,SAC,Q1,Keon Ellis,https://www.basketball-reference.com/boxscores/202403180SAC.html,2.9,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2
+2024-03-18,202403180SAC,SAC,Q1,Chris Duarte,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.42,2,3,.667,2,3,.667,0,0,,1,1,2,0,0,0,0,1,6,5.3,-5
+2024-03-18,202403180SAC,SAC,Q1,Alex Len,https://www.basketball-reference.com/boxscores/202403180SAC.html,0.83,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-3
+2024-03-18,202403180SAC,SAC,Q1,Davion Mitchell,https://www.basketball-reference.com/boxscores/202403180SAC.html,3.68,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+6
+2024-03-18,202403180SAC,SAC,Q2,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202403180SAC.html,10.02,2,4,.500,0,1,.000,0,0,,0,2,2,6,1,0,0,0,4,7.8,+14
+2024-03-18,202403180SAC,SAC,Q2,Keegan Murray,https://www.basketball-reference.com/boxscores/202403180SAC.html,8.17,3,5,.600,1,2,.500,0,0,,1,4,5,0,0,0,1,0,7,5.6,+7
+2024-03-18,202403180SAC,SAC,Q2,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.8,1,1,1.000,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,2.6,+7
+2024-03-18,202403180SAC,SAC,Q2,Harrison Barnes,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.25,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,0,0,2,0.9,+7
+2024-03-18,202403180SAC,SAC,Q2,Malik Monk,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.82,2,5,.400,1,2,.500,1,1,1.000,0,2,2,2,0,0,1,1,6,3.9,+13
+2024-03-18,202403180SAC,SAC,Q2,Keon Ellis,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.75,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,1,0,1,2,3,2.2,+7
+2024-03-18,202403180SAC,SAC,Q2,Chris Duarte,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.53,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,+5
+2024-03-18,202403180SAC,SAC,Q2,Alex Len,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.2,2,2,1.000,0,0,,0,0,,0,1,1,0,0,1,0,1,4,4.0,+7
+2024-03-18,202403180SAC,SAC,Q2,Davion Mitchell,https://www.basketball-reference.com/boxscores/202403180SAC.html,2.47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3
+2024-03-18,202403180SAC,SAC,Q3,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202403180SAC.html,8.35,3,4,.750,3,3,1.000,0,0,,0,0,0,0,0,0,3,1,9,4.0,-4
+2024-03-18,202403180SAC,SAC,Q3,Keegan Murray,https://www.basketball-reference.com/boxscores/202403180SAC.html,12.0,2,5,.400,1,4,.250,1,2,.500,0,1,1,1,2,0,0,0,6,5.9,-2
+2024-03-18,202403180SAC,SAC,Q3,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202403180SAC.html,9.07,1,4,.250,0,0,,2,2,1.000,2,5,7,3,0,0,0,0,4,6.6,-5
+2024-03-18,202403180SAC,SAC,Q3,Harrison Barnes,https://www.basketball-reference.com/boxscores/202403180SAC.html,3.62,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,1,0,-2.4,-7
+2024-03-18,202403180SAC,SAC,Q3,Malik Monk,https://www.basketball-reference.com/boxscores/202403180SAC.html,6.88,1,3,.333,0,2,.000,2,2,1.000,0,0,0,2,0,0,0,1,4,3.3,+6
+2024-03-18,202403180SAC,SAC,Q3,Keon Ellis,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.88,1,2,.500,0,0,,0,0,,1,1,2,0,0,1,0,1,2,2.3,-3
+2024-03-18,202403180SAC,SAC,Q3,Chris Duarte,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.62,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,0
+2024-03-18,202403180SAC,SAC,Q3,Alex Len,https://www.basketball-reference.com/boxscores/202403180SAC.html,2.93,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,1,0,0.3,+3
+2024-03-18,202403180SAC,SAC,Q3,Davion Mitchell,https://www.basketball-reference.com/boxscores/202403180SAC.html,3.65,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+2
+2024-03-18,202403180SAC,SAC,Q4,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202403180SAC.html,11.23,2,6,.333,0,1,.000,0,0,,1,2,3,2,2,1,3,2,4,2.2,-10
+2024-03-18,202403180SAC,SAC,Q4,Keegan Murray,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.77,0,2,.000,0,1,.000,0,2,.000,1,2,3,0,0,0,0,0,0,-0.9,-6
+2024-03-18,202403180SAC,SAC,Q4,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202403180SAC.html,7.77,1,5,.200,0,0,,4,5,.800,4,1,5,0,0,1,2,3,6,3.1,-6
+2024-03-18,202403180SAC,SAC,Q4,Harrison Barnes,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.8,2,5,.400,1,2,.500,0,0,,0,3,3,0,0,0,0,0,5,3.2,-5
+2024-03-18,202403180SAC,SAC,Q4,Malik Monk,https://www.basketball-reference.com/boxscores/202403180SAC.html,12.0,3,5,.600,0,1,.000,0,0,,1,1,2,0,0,0,0,1,6,4.3,-8
+2024-03-18,202403180SAC,SAC,Q4,Keon Ellis,https://www.basketball-reference.com/boxscores/202403180SAC.html,11.2,0,1,.000,0,1,.000,0,0,,1,0,1,3,0,3,0,0,0,4.2,-3
+2024-03-18,202403180SAC,SAC,Q4,Alex Len,https://www.basketball-reference.com/boxscores/202403180SAC.html,4.23,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,2,0,0.5,-2
+2024-03-18,202403180SAC,SAC,OT1,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,0,1,.000,0,1,.000,2,2,1.000,0,0,0,1,0,0,0,0,2,2.0,+10
+2024-03-18,202403180SAC,SAC,OT1,Keegan Murray,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+10
+2024-03-18,202403180SAC,SAC,OT1,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202403180SAC.html,4.62,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+10
+2024-03-18,202403180SAC,SAC,OT1,Malik Monk,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,4,4,1.000,0,0,,4,4,1.000,0,2,2,1,0,0,0,0,12,12.1,+10
+2024-03-18,202403180SAC,SAC,OT1,Keon Ellis,https://www.basketball-reference.com/boxscores/202403180SAC.html,5.0,0,0,,0,0,,0,0,,0,2,2,0,0,1,1,1,0,-0.1,+10
+2024-03-18,202403180SAC,SAC,OT1,Chris Duarte,https://www.basketball-reference.com/boxscores/202403180SAC.html,0.38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

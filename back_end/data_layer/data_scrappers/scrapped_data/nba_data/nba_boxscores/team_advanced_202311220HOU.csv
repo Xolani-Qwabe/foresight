@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-22,202311220HOU,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202311220HOU.html,36:52,.438,.333,.190,.571,2.5,18.2,9.6,0.0,1.3,2.7,7.1,34.6,86,113,-5.6
+2023-11-22,202311220HOU,MEM,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202311220HOU.html,31:27,.512,.500,.000,.500,0.0,17.7,8.0,12.7,1.6,6.2,17.0,8.4,92,110,-0.7
+2023-11-22,202311220HOU,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202311220HOU.html,25:31,.701,.583,.500,.833,3.6,26.2,13.9,47.9,1.9,0.0,10.9,32.5,132,113,13.8
+2023-11-22,202311220HOU,MEM,Jacob Gilyard,https://www.basketball-reference.com/boxscores/202311220HOU.html,24:08,.417,.417,.667,.000,3.8,0.0,2.1,34.6,0.0,0.0,0.0,11.2,108,122,-4.9
+2023-11-22,202311220HOU,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202311220HOU.html,22:15,.633,.500,.600,.600,0.0,10.0,4.5,0.0,0.0,4.4,0.0,12.8,130,116,-4.5
+2023-11-22,202311220HOU,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202311220HOU.html,29:02,.000,.000,.667,.000,15.9,23.1,19.1,12.2,0.0,6.7,0.0,9.3,61,112,-7.6
+2023-11-22,202311220HOU,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202311220HOU.html,21:37,.286,.286,.143,.000,0.0,31.0,14.0,9.8,0.0,0.0,22.2,18.8,48,117,-12.8
+2023-11-22,202311220HOU,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202311220HOU.html,20:06,.574,.500,.500,.300,0.0,11.1,5.0,0.0,0.0,0.0,0.0,25.4,113,120,0.3
+2023-11-22,202311220HOU,MEM,Derrick Rose,https://www.basketball-reference.com/boxscores/202311220HOU.html,16:16,.735,.500,.667,1.333,0.0,6.9,3.1,24.5,0.0,0.0,29.6,18.7,111,121,-3.1
+2023-11-22,202311220HOU,MEM,GG Jackson II,https://www.basketball-reference.com/boxscores/202311220HOU.html,4:15,.000,.000,.333,.000,21.7,52.5,35.7,0.0,0.0,0.0,0.0,31.8,24,113,-24.6
+2023-11-22,202311220HOU,MEM,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202311220HOU.html,4:15,.338,.250,.250,.250,0.0,0.0,0.0,100.0,0.0,23.0,0.0,47.1,88,103,17.5
+2023-11-22,202311220HOU,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202311220HOU.html,4:15,.000,.000,1.000,.000,0.0,26.3,11.9,0.0,0.0,0.0,0.0,10.6,0,117,-16.5
+2023-11-22,202311220HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202311220HOU.html,39:22,.601,.583,.667,.250,2.8,14.1,9.0,14.4,2.5,0.0,7.0,16.3,121,95,3.7
+2023-11-22,202311220HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202311220HOU.html,31:43,.533,.500,.111,.333,3.5,17.5,11.2,13.4,0.0,9.1,16.2,17.5,101,93,-1.4
+2023-11-22,202311220HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202311220HOU.html,29:41,.603,.558,.500,.192,3.8,3.1,3.4,34.1,1.7,0.0,3.4,44.2,120,101,13.6
+2023-11-22,202311220HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202311220HOU.html,27:00,.765,.750,.400,.400,0.0,30.8,16.8,12.1,0.0,3.6,0.0,19.6,153,92,12.4
+2023-11-22,202311220HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202311220HOU.html,26:31,.401,.286,.357,.357,4.2,13.9,9.5,5.5,1.9,0.0,5.8,29.2,85,96,-9.9
+2023-11-22,202311220HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202311220HOU.html,26:06,.250,.250,.750,.000,4.3,28.3,17.4,19.3,1.9,0.0,0.0,6.9,104,91,-0.8
+2023-11-22,202311220HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202311220HOU.html,19:10,.750,.750,.750,.000,5.8,19.3,13.2,14.3,2.6,5.0,20.0,11.7,129,89,7.7
+2023-11-22,202311220HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202311220HOU.html,16:37,.583,.583,.667,.000,0.0,16.7,9.1,18.4,0.0,0.0,0.0,16.2,124,99,-1.4
+2023-11-22,202311220HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202311220HOU.html,12:01,.000,.000,.333,.000,0.0,7.7,4.2,0.0,0.0,8.0,0.0,11.2,0,97,-14.2
+2023-11-22,202311220HOU,HOU,Reggie Bullock,https://www.basketball-reference.com/boxscores/202311220HOU.html,4:15,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.6,0,106,-16.1
+2023-11-22,202311220HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202311220HOU.html,4:15,1.000,1.000,.000,.000,0.0,21.7,11.9,0.0,0.0,0.0,0.0,10.6,200,98,5.2
+2023-11-22,202311220HOU,HOU,Jeenathan Williams,https://www.basketball-reference.com/boxscores/202311220HOU.html,3:16,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.5,94,105,-11.2

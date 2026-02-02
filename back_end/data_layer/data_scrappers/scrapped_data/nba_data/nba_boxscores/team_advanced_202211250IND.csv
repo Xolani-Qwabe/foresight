@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-25,202211250IND,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202211250IND.html,40:44,.563,.563,.875,.000,0.0,12.4,6.0,8.1,1.1,0.0,38.5,13.9,73,125,-5.3
+2022-11-25,202211250IND,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202211250IND.html,38:50,.549,.532,.387,.129,6.0,22.8,14.1,34.7,0.0,4.8,13.2,42.3,106,122,2.9
+2022-11-25,202211250IND,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202211250IND.html,38:08,.573,.559,.529,.059,0.0,13.2,6.4,13.6,0.0,0.0,5.4,21.0,113,127,-2.7
+2022-11-25,202211250IND,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202211250IND.html,34:11,.980,1.000,.000,.625,3.4,18.5,10.7,11.8,0.0,2.7,22.7,16.8,152,124,2.7
+2022-11-25,202211250IND,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202211250IND.html,28:04,1.000,1.000,.000,.000,8.3,40.5,23.8,4.7,0.0,16.4,14.3,10.8,172,110,7.5
+2022-11-25,202211250IND,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202211250IND.html,27:50,.778,.778,.667,.000,0.0,9.1,4.4,22.5,0.0,0.0,18.2,17.2,130,127,4.0
+2022-11-25,202211250IND,BRK,Markieff Morris,https://www.basketball-reference.com/boxscores/202211250IND.html,13:10,.375,.375,.750,.000,0.0,9.6,4.6,0.0,3.5,0.0,0.0,13.2,74,119,-6.5
+2022-11-25,202211250IND,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202211250IND.html,12:02,.000,.000,1.000,.000,0.0,10.5,5.0,8.5,0.0,0.0,0.0,10.8,24,127,-17.4
+2022-11-25,202211250IND,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202211250IND.html,5:05,1.500,1.500,1.000,.000,0.0,0.0,0.0,50.3,0.0,0.0,50.0,17.1,156,128,12.2
+2022-11-25,202211250IND,BRK,David Duke Jr.,https://www.basketball-reference.com/boxscores/202211250IND.html,0:58,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-5.5
+2022-11-25,202211250IND,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202211250IND.html,0:58,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0,128,-52.0
+2022-11-25,202211250IND,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202211250IND.html,38:49,.797,.767,.533,.200,0.0,9.0,4.7,11.6,3.6,0.0,19.7,22.5,120,112,4.0
+2022-11-25,202211250IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202211250IND.html,34:25,.595,.500,.400,.400,0.0,20.4,10.6,62.9,5.3,0.0,0.0,22.0,147,107,14.0
+2022-11-25,202211250IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202211250IND.html,34:00,.901,.909,.273,.364,0.0,27.5,14.3,14.0,0.0,6.0,7.3,17.4,162,113,10.4
+2022-11-25,202211250IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202211250IND.html,25:38,.571,.500,.571,.571,4.9,4.6,4.7,5.0,3.6,4.0,10.2,16.4,111,109,0.6
+2022-11-25,202211250IND,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202211250IND.html,20:35,.579,.417,.667,1.000,0.0,28.4,14.8,0.0,0.0,0.0,0.0,18.0,120,118,-5.9
+2022-11-25,202211250IND,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202211250IND.html,29:40,.527,.467,.467,.600,4.3,11.8,8.2,0.0,3.1,3.4,0.0,27.5,109,110,-0.3
+2022-11-25,202211250IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202211250IND.html,21:18,.581,.500,.000,.333,11.9,11.0,11.4,31.1,2.2,0.0,22.5,17.9,120,115,-0.3
+2022-11-25,202211250IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202211250IND.html,14:00,.387,.333,.000,.667,0.0,33.4,17.4,0.0,0.0,0.0,11.4,26.9,69,117,-16.3
+2022-11-25,202211250IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202211250IND.html,11:46,.333,.333,.333,.000,10.7,29.8,20.7,0.0,3.9,0.0,0.0,11.0,90,109,-5.2
+2022-11-25,202211250IND,IND,James Johnson,https://www.basketball-reference.com/boxscores/202211250IND.html,9:49,.500,.500,.500,.000,0.0,11.9,6.2,12.8,0.0,0.0,0.0,8.8,116,119,-6.5

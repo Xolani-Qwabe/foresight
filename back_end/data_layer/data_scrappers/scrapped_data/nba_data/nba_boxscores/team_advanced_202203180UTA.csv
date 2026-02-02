@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-18,202203180UTA,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202203180UTA.html,30:06,.167,.167,.500,.000,0.0,9.6,4.7,0.0,0.0,3.0,0.0,8.9,35,130,-15.0
+2022-03-18,202203180UTA,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202203180UTA.html,20:37,.436,.333,.000,.333,13.4,14.0,13.7,9.7,2.4,4.4,8.8,24.6,96,121,-7.4
+2022-03-18,202203180UTA,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202203180UTA.html,14:38,.389,.389,.222,.000,0.0,13.1,6.4,15.5,3.3,0.0,10.0,30.6,69,122,-8.7
+2022-03-18,202203180UTA,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202203180UTA.html,13:30,.434,.250,.500,1.000,0.0,7.1,3.5,25.9,0.0,0.0,25.8,25.7,76,132,-11.8
+2022-03-18,202203180UTA,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202203180UTA.html,11:10,1.000,1.000,.000,.000,0.0,8.6,4.2,0.0,0.0,0.0,0.0,4.0,200,131,-10.6
+2022-03-18,202203180UTA,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202203180UTA.html,29:47,.605,.571,.714,.143,0.0,19.3,9.5,7.6,4.9,6.1,6.3,23.9,106,113,8.0
+2022-03-18,202203180UTA,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202203180UTA.html,27:09,.595,.500,.500,.400,0.0,7.1,3.5,44.3,1.8,0.0,20.3,24.3,105,128,1.1
+2022-03-18,202203180UTA,LAC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202203180UTA.html,25:00,.333,.333,.167,.000,11.1,23.0,16.9,56.6,3.9,14.5,25.0,14.3,98,109,8.8
+2022-03-18,202203180UTA,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202203180UTA.html,24:50,.542,.542,.750,.000,0.0,15.5,7.6,18.1,0.0,0.0,7.7,23.4,95,129,-2.4
+2022-03-18,202203180UTA,LAC,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202203180UTA.html,24:07,.558,.389,.222,.667,3.8,19.9,11.7,8.0,4.1,0.0,0.0,21.6,122,118,3.7
+2022-03-18,202203180UTA,LAC,Rodney Hood,https://www.basketball-reference.com/boxscores/202203180UTA.html,19:06,.363,.333,.167,.333,4.8,10.1,7.4,9.7,0.0,0.0,12.7,18.5,74,131,-12.2
+2022-03-18,202203180UTA,UTA,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202203180UTA.html,32:37,.523,.500,.500,.083,0.0,11.3,5.8,18.6,1.5,0.0,7.4,17.2,118,98,-0.2
+2022-03-18,202203180UTA,UTA,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202203180UTA.html,27:26,.500,.500,1.000,.000,0.0,23.6,12.0,8.0,3.6,10.3,25.0,12.2,86,82,3.8
+2022-03-18,202203180UTA,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202203180UTA.html,26:32,.771,.727,.000,.273,28.9,27.8,28.4,11.1,0.0,3.5,14.0,22.5,151,94,10.5
+2022-03-18,202203180UTA,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202203180UTA.html,26:20,.500,.500,.800,.000,0.0,10.5,5.4,8.4,1.9,0.0,28.6,11.1,83,98,-4.2
+2022-03-18,202203180UTA,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202203180UTA.html,23:29,.291,.208,.500,.333,4.1,11.8,8.0,19.1,2.1,0.0,0.0,24.4,91,97,-9.0
+2022-03-18,202203180UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202203180UTA.html,29:00,.559,.529,.294,.118,6.6,19.1,13.0,24.5,3.4,0.0,18.3,31.4,106,91,3.2
+2022-03-18,202203180UTA,UTA,Jared Butler,https://www.basketball-reference.com/boxscores/202203180UTA.html,24:31,.808,.808,.769,.000,0.0,11.3,5.8,43.7,2.0,0.0,7.1,23.8,160,97,18.7
+2022-03-18,202203180UTA,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202203180UTA.html,22:35,.750,.750,.333,.000,8.5,28.6,18.8,5.5,2.2,0.0,0.0,11.1,164,91,7.1
+2022-03-18,202203180UTA,UTA,Eric Paschall,https://www.basketball-reference.com/boxscores/202203180UTA.html,18:29,.539,.536,.286,.286,10.4,10.0,10.2,18.0,0.0,5.1,0.0,35.5,123,98,6.0
+2022-03-18,202203180UTA,UTA,Xavier Sneed,https://www.basketball-reference.com/boxscores/202203180UTA.html,9:01,1.500,1.500,1.000,.000,0.0,10.2,5.2,0.0,0.0,0.0,0.0,4.6,300,102,6.7

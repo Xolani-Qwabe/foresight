@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-26,202303260TOR,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202303260TOR.html,39:55,.594,.594,.688,.000,0.0,7.1,3.7,0.0,0.0,0.0,20.0,21.7,88,125,-7.2
+2023-03-26,202303260TOR,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202303260TOR.html,34:26,.508,.500,.308,.308,8.9,16.4,12.8,32.9,1.5,0.0,16.9,22.3,109,117,1.5
+2023-03-26,202303260TOR,WAS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202303260TOR.html,33:56,.677,.647,.412,.294,3.0,13.9,8.7,11.2,2.9,0.0,13.5,28.3,118,115,6.6
+2023-03-26,202303260TOR,WAS,Delon Wright,https://www.basketball-reference.com/boxscores/202303260TOR.html,33:56,.278,.278,.444,.000,0.0,19.4,10.1,32.2,2.9,0.0,10.0,12.8,95,112,-2.6
+2023-03-26,202303260TOR,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202303260TOR.html,28:54,.430,.333,.000,.667,17.7,9.8,13.6,15.1,0.0,2.5,7.9,18.9,112,122,-3.9
+2023-03-26,202303260TOR,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202303260TOR.html,29:52,.768,.813,.500,.500,3.4,9.5,6.6,10.7,1.7,0.0,9.3,15.6,140,120,6.2
+2023-03-26,202303260TOR,WAS,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202303260TOR.html,20:27,.500,.500,.333,.000,5.0,13.8,9.6,16.4,0.0,3.5,18.2,23.3,92,119,-3.9
+2023-03-26,202303260TOR,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202303260TOR.html,8:13,.410,.500,.000,.500,12.4,22.9,17.9,0.0,0.0,0.0,0.0,12.9,99,117,-5.9
+2023-03-26,202303260TOR,WAS,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202303260TOR.html,8:09,.500,.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,21.3,70,128,-16.4
+2023-03-26,202303260TOR,WAS,Xavier Cooks,https://www.basketball-reference.com/boxscores/202303260TOR.html,2:12,,,,,0.0,42.8,22.3,57.4,0.0,0.0,,0.0,242,108,17.5
+2023-03-26,202303260TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202303260TOR.html,37:02,.637,.619,.476,.190,5.1,16.5,10.6,4.2,1.3,7.8,4.2,26.5,135,107,8.7
+2023-03-26,202303260TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202303260TOR.html,35:38,.627,.595,.429,.143,0.0,11.5,5.5,29.9,4.2,2.7,4.3,27.1,141,106,15.3
+2023-03-26,202303260TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202303260TOR.html,33:34,.506,.441,.176,.235,5.6,27.4,16.1,8.2,1.5,0.0,13.8,26.8,104,108,-4.3
+2023-03-26,202303260TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202303260TOR.html,32:02,.424,.357,.143,.214,5.9,9.6,7.6,24.0,4.7,3.0,6.1,21.1,113,105,2.4
+2023-03-26,202303260TOR,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202303260TOR.html,26:08,.667,.667,.000,.000,21.6,23.4,22.5,5.4,1.9,0.0,25.0,19.0,116,108,-2.1
+2023-03-26,202303260TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202303260TOR.html,22:12,.600,.600,.200,.000,12.7,18.4,15.4,0.0,0.0,0.0,16.7,11.2,119,114,-7.9
+2023-03-26,202303260TOR,TOR,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202303260TOR.html,19:12,.750,.750,.500,.000,0.0,10.6,5.1,23.5,0.0,0.0,0.0,4.3,189,118,1.7
+2023-03-26,202303260TOR,TOR,Christian Koloko,https://www.basketball-reference.com/boxscores/202303260TOR.html,15:19,.000,.000,.000,.000,6.1,0.0,3.2,0.0,9.8,6.3,0.0,5.4,39,95,-1.3
+2023-03-26,202303260TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202303260TOR.html,7:13,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.2,0,121,-25.6
+2023-03-26,202303260TOR,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202303260TOR.html,5:43,.347,.500,.500,1.000,32.9,0.0,17.1,0.0,0.0,0.0,25.8,28.1,73,120,-21.6
+2023-03-26,202303260TOR,TOR,Will Barton,https://www.basketball-reference.com/boxscores/202303260TOR.html,3:45,1.000,1.000,.000,.000,0.0,27.2,13.1,39.8,13.3,0.0,0.0,11.0,206,81,31.7
+2023-03-26,202303260TOR,TOR,Ron Harper Jr.,https://www.basketball-reference.com/boxscores/202303260TOR.html,2:12,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.8,0,121,-26.8

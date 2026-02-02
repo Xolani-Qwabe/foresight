@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg
+2024-04-19,202404190MIA,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202404190MIA.html,41:10,.315,.267,.733,.133,2.6,8.7,5.5,14.8,3.6,4.8,5.9,18.2,74,113
+2024-04-19,202404190MIA,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202404190MIA.html,40:47,.619,.594,.375,.250,0.0,8.8,4.2,18.4,1.2,2.4,5.3,20.4,118,120
+2024-04-19,202404190MIA,CHI,Coby White,https://www.basketball-reference.com/boxscores/202404190MIA.html,36:10,.385,.375,.500,.125,0.0,6.6,3.1,18.7,1.4,0.0,19.2,25.6,68,122
+2024-04-19,202404190MIA,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202404190MIA.html,35:26,.471,.471,.294,.000,3.0,44.0,22.3,26.5,2.8,2.8,10.5,23.7,92,108
+2024-04-19,202404190MIA,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202404190MIA.html,33:10,.375,.375,.750,.000,0.0,10.9,5.1,18.0,0.0,3.0,11.1,12.0,82,122
+2024-04-19,202404190MIA,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202404190MIA.html,17:27,.872,.833,.167,.333,12.2,6.9,9.7,38.8,5.7,0.0,0.0,17.5,186,112
+2024-04-19,202404190MIA,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202404190MIA.html,13:17,.250,.250,.250,.000,8.0,0.0,4.3,11.5,0.0,0.0,20.0,16.7,59,127
+2024-04-19,202404190MIA,CHI,Torrey Craig,https://www.basketball-reference.com/boxscores/202404190MIA.html,10:38,.600,.600,1.000,.000,20.1,11.3,15.9,17.4,9.3,9.2,0.0,20.8,128,96
+2024-04-19,202404190MIA,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202404190MIA.html,7:56,.250,.250,.000,.000,0.0,60.5,28.5,0.0,6.2,0.0,33.3,33.5,31,97
+2024-04-19,202404190MIA,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202404190MIA.html,3:59,1.000,1.000,.000,.000,0.0,30.1,14.2,52.5,0.0,0.0,0.0,11.1,210,120
+2024-04-19,202404190MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202404190MIA.html,34:40,.591,.531,.188,.250,3.5,15.4,9.8,30.9,0.0,0.0,5.3,24.1,129,99
+2024-04-19,202404190MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202404190MIA.html,33:18,.640,.588,.529,.235,3.6,28.8,17.0,49.0,0.0,0.0,21.0,31.8,116,96
+2024-04-19,202404190MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202404190MIA.html,31:43,.666,.688,.250,.500,0.0,13.5,7.1,19.9,0.0,6.2,9.3,15.1,130,95
+2024-04-19,202404190MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202404190MIA.html,26:47,.417,.417,.667,.000,4.5,19.9,12.7,10.4,0.0,3.7,25.0,13.3,80,96
+2024-04-19,202404190MIA,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202404190MIA.html,25:13,.500,.500,.286,.000,4.8,12.7,9.0,5.9,2.0,7.8,0.0,12.4,114,90
+2024-04-19,202404190MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202404190MIA.html,31:14,.450,.450,.400,.000,7.7,3.4,5.4,0.0,4.7,0.0,23.1,18.6,75,91
+2024-04-19,202404190MIA,MIA,Delon Wright,https://www.basketball-reference.com/boxscores/202404190MIA.html,22:47,.625,.625,.500,.000,0.0,4.7,2.5,0.0,2.2,4.3,0.0,7.8,121,94
+2024-04-19,202404190MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202404190MIA.html,12:19,.667,.667,.667,.000,9.7,17.3,13.8,14.8,0.0,0.0,33.3,32.6,86,99
+2024-04-19,202404190MIA,MIA,Kevin Love,https://www.basketball-reference.com/boxscores/202404190MIA.html,12:18,.769,.500,.500,1.667,9.8,52.0,32.1,12.9,0.0,0.0,0.0,37.7,172,90
+2024-04-19,202404190MIA,MIA,Thomas Bryant,https://www.basketball-reference.com/boxscores/202404190MIA.html,3:59,.694,.500,.000,1.000,30.1,53.6,42.5,0.0,0.0,0.0,0.0,32.3,160,90
+2024-04-19,202404190MIA,MIA,Patty Mills,https://www.basketball-reference.com/boxscores/202404190MIA.html,3:17,,,,,0.0,0.0,0.0,38.5,0.0,0.0,,0.0,237,103
+2024-04-19,202404190MIA,MIA,Orlando Robinson,https://www.basketball-reference.com/boxscores/202404190MIA.html,2:24,,,,,0.0,0.0,0.0,52.6,20.6,0.0,,0.0,237,56

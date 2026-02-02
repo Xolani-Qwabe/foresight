@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-02-14,202402140UTA,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202402140UTA.html,38:00,.602,.540,.120,.520,11.1,32.3,23.4,3.6,0.0,4.5,6.1,37.4,119,115,-2.5
+2024-02-14,202402140UTA,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202402140UTA.html,33:40,.818,.808,.385,.077,0.0,12.1,7.0,25.5,4.2,0.0,18.2,21.2,136,115,8.4
+2024-02-14,202402140UTA,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202402140UTA.html,33:38,.849,.842,.421,.263,0.0,6.1,3.5,4.3,0.0,2.5,0.0,27.4,160,125,10.7
+2024-02-14,202402140UTA,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202402140UTA.html,33:19,.590,.500,.125,.375,4.2,24.5,16.0,53.0,1.4,0.0,17.7,14.8,147,117,4.7
+2024-02-14,202402140UTA,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202402140UTA.html,32:37,.619,.563,.250,.250,0.0,9.4,5.5,3.2,0.0,2.6,0.0,11.8,127,124,-4.9
+2024-02-14,202402140UTA,LAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202402140UTA.html,27:37,.833,.833,.667,.000,0.0,0.0,0.0,15.4,3.4,0.0,14.3,11.0,146,121,3.0
+2024-02-14,202402140UTA,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202402140UTA.html,16:14,.200,.200,.800,.000,8.7,18.9,14.6,6.0,0.0,0.0,16.7,16.0,60,122,-19.0
+2024-02-14,202402140UTA,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202402140UTA.html,11:40,1.000,1.000,.000,.000,0.0,0.0,0.0,9.4,8.0,0.0,0.0,7.4,206,110,8.1
+2024-02-14,202402140UTA,LAL,Dylan Windler,https://www.basketball-reference.com/boxscores/202402140UTA.html,8:21,.375,.375,1.000,.000,0.0,0.0,0.0,12.4,0.0,0.0,0.0,20.8,88,129,-12.8
+2024-02-14,202402140UTA,LAL,Colin Castleton,https://www.basketball-reference.com/boxscores/202402140UTA.html,2:27,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.7,200,129,4.9
+2024-02-14,202402140UTA,LAL,Skylar Mays,https://www.basketball-reference.com/boxscores/202402140UTA.html,2:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-8.9
+2024-02-14,202402140UTA,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202402140UTA.html,33:41,.504,.467,.467,.133,6.1,25.1,14.1,3.5,0.0,2.4,11.2,21.3,103,136,-7.3
+2024-02-14,202402140UTA,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202402140UTA.html,32:59,.722,.722,.556,.000,0.0,21.4,9.0,24.4,2.8,0.0,18.2,13.4,135,132,2.3
+2024-02-14,202402140UTA,UTA,John Collins,https://www.basketball-reference.com/boxscores/202402140UTA.html,27:51,.486,.500,.300,.300,11.0,35.5,21.3,8.5,1.7,2.9,15.0,19.2,101,131,-6.7
+2024-02-14,202402140UTA,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202402140UTA.html,27:41,.462,.462,.077,.000,18.4,10.2,15.0,4.5,0.0,8.7,13.3,21.7,102,131,-9.5
+2024-02-14,202402140UTA,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202402140UTA.html,26:05,.600,.600,.333,.000,0.0,0.0,0.0,16.1,0.0,6.1,0.0,23.1,134,135,3.3
+2024-02-14,202402140UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202402140UTA.html,32:29,.571,.536,.571,.143,0.0,13.0,5.5,18.4,0.0,0.0,21.2,23.3,103,139,-7.3
+2024-02-14,202402140UTA,UTA,Kris Dunn,https://www.basketball-reference.com/boxscores/202402140UTA.html,17:21,.932,.917,.333,.167,5.9,0.0,3.4,23.6,2.7,0.0,0.0,14.9,197,134,10.5
+2024-02-14,202402140UTA,UTA,Taylor Hendricks,https://www.basketball-reference.com/boxscores/202402140UTA.html,16:11,.500,.500,.667,.000,12.6,26.2,18.3,8.0,0.0,0.0,0.0,22.3,122,138,-4.9
+2024-02-14,202402140UTA,UTA,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202402140UTA.html,15:54,.595,.500,.800,.400,6.4,8.9,7.5,28.1,0.0,0.0,14.5,17.3,134,140,-1.0
+2024-02-14,202402140UTA,UTA,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202402140UTA.html,2:27,.000,.000,1.000,.000,0.0,0.0,0.0,80.0,19.1,0.0,0.0,16.4,100,98,22.4
+2024-02-14,202402140UTA,UTA,Luka Šamanić,https://www.basketball-reference.com/boxscores/202402140UTA.html,2:27,1.500,1.500,1.000,.000,0.0,57.6,24.2,0.0,0.0,0.0,0.0,16.4,300,136,34.0
+2024-02-14,202402140UTA,UTA,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202402140UTA.html,2:27,.436,.333,.667,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.3,100,141,-16.3
+2024-02-14,202402140UTA,UTA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202402140UTA.html,2:27,.568,,,,41.7,57.6,48.4,0.0,0.0,0.0,0.0,14.4,151,136,-0.9

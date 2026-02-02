@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-23,202501230ATL,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202501230ATL.html,38:48,.584,.500,.118,.588,3.7,14.7,9.9,10.0,1.2,0.0,4.5,24.8,122,117,-1.4
+2025-01-23,202501230ATL,TOR,RJ Barrett,https://www.basketball-reference.com/boxscores/202501230ATL.html,35:40,.759,.833,.333,.222,4.1,16.0,10.8,10.4,2.6,0.0,33.6,18.0,95,114,-1.7
+2025-01-23,202501230ATL,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202501230ATL.html,31:33,.689,.650,.500,.200,0.0,10.9,6.1,12.1,2.9,0.0,26.9,20.3,101,114,-2.1
+2025-01-23,202501230ATL,TOR,Davion Mitchell,https://www.basketball-reference.com/boxscores/202501230ATL.html,31:09,.333,.333,.000,.000,0.0,3.7,2.1,23.7,0.0,0.0,40.0,6.9,98,122,-8.3
+2025-01-23,202501230ATL,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202501230ATL.html,28:08,.751,.700,.000,.300,15.5,24.4,20.5,24.3,3.3,6.8,20.9,21.9,133,106,7.9
+2025-01-23,202501230ATL,TOR,Bruce Brown,https://www.basketball-reference.com/boxscores/202501230ATL.html,19:31,.723,.708,.250,.083,0.0,29.3,16.4,36.0,2.4,0.0,13.9,31.8,125,112,7.4
+2025-01-23,202501230ATL,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202501230ATL.html,17:51,.781,.800,.400,.200,8.1,6.4,7.2,0.0,2.6,0.0,8.4,28.6,131,116,5.1
+2025-01-23,202501230ATL,TOR,Jamal Shead,https://www.basketball-reference.com/boxscores/202501230ATL.html,16:51,.250,.250,.250,.000,0.0,13.6,7.6,12.9,0.0,0.0,0.0,10.2,80,120,-12.1
+2025-01-23,202501230ATL,TOR,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202501230ATL.html,13:44,.955,.875,.500,1.000,0.0,33.3,18.6,47.9,3.4,0.0,14.8,21.2,174,109,23.3
+2025-01-23,202501230ATL,TOR,Ja'Kobe Walter,https://www.basketball-reference.com/boxscores/202501230ATL.html,6:45,.000,.000,.500,.000,0.0,16.9,9.5,0.0,0.0,0.0,0.0,12.7,0,118,-29.0
+2025-01-23,202501230ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202501230ATL.html,39:11,.434,.421,.421,.211,0.0,3.7,1.6,47.6,0.0,0.0,12.6,25.3,102,124,-6.6
+2025-01-23,202501230ATL,ATL,Dyson Daniels,https://www.basketball-reference.com/boxscores/202501230ATL.html,36:42,.679,.643,.286,.357,12.5,15.9,14.0,20.7,5.0,0.0,11.0,20.7,135,112,9.0
+2025-01-23,202501230ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202501230ATL.html,30:23,.825,.750,.125,1.000,18.8,33.5,25.3,19.4,3.0,2.6,14.8,18.5,157,112,9.8
+2025-01-23,202501230ATL,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202501230ATL.html,24:38,.650,.650,.700,.000,0.0,11.8,5.2,12.1,3.8,0.0,0.0,16.9,131,115,4.3
+2025-01-23,202501230ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202501230ATL.html,10:47,.521,.500,.000,1.000,0.0,13.5,5.9,11.9,4.3,0.0,41.0,18.9,68,113,-11.2
+2025-01-23,202501230ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202501230ATL.html,32:26,.810,.792,.417,.417,0.0,13.5,5.9,0.0,0.0,2.5,17.4,22.1,120,121,-0.6
+2025-01-23,202501230ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202501230ATL.html,30:36,.364,.364,.727,.000,0.0,9.5,4.2,8.4,0.0,0.0,15.4,17.7,70,123,-14.4
+2025-01-23,202501230ATL,ATL,Dominick Barlow,https://www.basketball-reference.com/boxscores/202501230ATL.html,17:22,.799,.750,.167,.333,0.0,16.8,7.4,8.9,5.3,0.0,0.0,16.5,161,111,9.8
+2025-01-23,202501230ATL,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202501230ATL.html,11:19,.000,.000,1.000,.000,0.0,38.6,17.0,10.1,0.0,0.0,0.0,11.0,24,120,-17.8
+2025-01-23,202501230ATL,ATL,David Roddy,https://www.basketball-reference.com/boxscores/202501230ATL.html,6:36,.266,.000,.000,2.000,0.0,44.1,19.4,17.3,0.0,0.0,0.0,23.7,75,120,-13.9

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-23,202110230SAS,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202110230SAS.html,36:57,.847,.833,.556,.111,3.7,16.6,11.1,0.0,1.3,0.0,9.6,12.0,150,109,3.9
+2021-10-23,202110230SAS,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202110230SAS.html,35:00,.668,.588,.412,.529,0.0,5.8,3.3,13.0,2.7,0.0,22.3,32.8,109,109,0.5
+2021-10-23,202110230SAS,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202110230SAS.html,30:24,.567,.500,.133,.533,0.0,26.9,15.4,38.3,0.0,7.9,21.3,33.0,108,104,4.9
+2021-10-23,202110230SAS,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202110230SAS.html,26:01,.455,.455,.727,.000,0.0,19.6,11.2,5.0,1.8,0.0,0.0,18.0,99,108,-2.1
+2021-10-23,202110230SAS,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202110230SAS.html,25:25,.810,.833,.444,.222,5.4,12.1,9.2,28.9,0.0,0.0,33.6,24.9,116,113,0.3
+2021-10-23,202110230SAS,MIL,George Hill,https://www.basketball-reference.com/boxscores/202110230SAS.html,25:11,1.090,1.083,.500,.333,5.4,4.1,4.6,5.5,1.9,0.0,12.7,13.3,185,111,10.7
+2021-10-23,202110230SAS,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202110230SAS.html,21:36,.400,.400,.000,.000,25.4,14.2,19.0,11.2,0.0,0.0,28.6,13.8,101,113,-5.3
+2021-10-23,202110230SAS,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202110230SAS.html,20:52,.500,.500,.714,.000,0.0,29.4,16.8,6.2,0.0,7.7,0.0,14.3,110,103,3.4
+2021-10-23,202110230SAS,MIL,Justin Robinson,https://www.basketball-reference.com/boxscores/202110230SAS.html,12:46,.667,.667,.333,.000,0.0,24.0,13.8,0.0,3.7,0.0,0.0,10.0,132,102,2.3
+2021-10-23,202110230SAS,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202110230SAS.html,5:48,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0,116,-15.2
+2021-10-23,202110230SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202110230SAS.html,34:35,.556,.556,.000,.000,17.7,7.9,13.5,20.3,2.7,5.8,18.2,13.4,125,115,3.8
+2021-10-23,202110230SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202110230SAS.html,34:25,.357,.357,.143,.000,0.0,35.9,15.3,23.8,1.4,0.0,0.0,17.2,97,118,-4.8
+2021-10-23,202110230SAS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202110230SAS.html,32:27,.962,.962,.846,.000,0.0,16.9,7.2,8.5,0.0,0.0,0.0,16.9,181,124,14.0
+2021-10-23,202110230SAS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202110230SAS.html,31:15,.563,.542,.417,.083,0.0,8.8,3.7,31.7,6.0,3.2,13.9,19.5,115,109,7.1
+2021-10-23,202110230SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202110230SAS.html,29:29,.518,.500,.222,.167,0.0,9.3,4.0,14.6,1.6,0.0,9.4,30.5,99,121,-4.2
+2021-10-23,202110230SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202110230SAS.html,24:56,.535,.500,.533,.133,0.0,11.0,4.7,11.2,1.9,0.0,5.9,28.6,105,120,-2.1
+2021-10-23,202110230SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202110230SAS.html,19:06,.333,.333,.667,.000,10.7,7.2,9.2,0.0,2.4,0.0,25.0,17.7,64,119,-14.3
+2021-10-23,202110230SAS,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202110230SAS.html,14:04,.375,.375,1.000,.000,0.0,19.5,8.3,0.0,0.0,0.0,0.0,12.0,78,123,-11.7
+2021-10-23,202110230SAS,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202110230SAS.html,12:37,.500,.500,.000,.000,8.1,32.6,18.6,9.4,0.0,7.9,33.3,20.1,78,116,-6.1
+2021-10-23,202110230SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202110230SAS.html,4:42,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,99,126,-8.5
+2021-10-23,202110230SAS,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202110230SAS.html,0:48,.000,.000,1.000,.000,0.0,100.0,73.2,0.0,0.0,0.0,0.0,52.8,0,102,-46.3
+2021-10-23,202110230SAS,SAS,Jock Landale,https://www.basketball-reference.com/boxscores/202110230SAS.html,0:48,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,52.8,0,126,-65.9
+2021-10-23,202110230SAS,SAS,Joshua Primo,https://www.basketball-reference.com/boxscores/202110230SAS.html,0:48,1.000,1.000,.000,.000,100.0,0.0,73.2,0.0,0.0,0.0,0.0,52.8,205,126,68.6

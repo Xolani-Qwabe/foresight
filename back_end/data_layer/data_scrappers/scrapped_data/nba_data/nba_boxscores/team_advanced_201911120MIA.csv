@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-12,201911120MIA,DET,Luke Kennard,https://www.basketball-reference.com/boxscores/201911120MIA.html,37:57,.569,.556,.667,.167,0.0,4.0,1.7,26.5,2.6,0.0,4.9,23.3,114,122,2.2
+2019-11-12,201911120MIA,DET,Bruce Brown,https://www.basketball-reference.com/boxscores/201911120MIA.html,35:30,.255,.200,.000,.400,0.0,29.6,12.8,45.6,0.0,0.0,14.5,8.4,112,124,-1.7
+2019-11-12,201911120MIA,DET,Andre Drummond,https://www.basketball-reference.com/boxscores/201911120MIA.html,27:39,.687,.667,.000,.667,16.5,27.1,21.1,0.0,3.5,7.7,30.0,26.2,98,111,-5.1
+2019-11-12,201911120MIA,DET,Tony Snell,https://www.basketball-reference.com/boxscores/201911120MIA.html,23:38,.429,.429,.857,.000,0.0,6.3,2.7,6.8,0.0,0.0,0.0,12.9,91,128,-6.9
+2019-11-12,201911120MIA,DET,Markieff Morris,https://www.basketball-reference.com/boxscores/201911120MIA.html,21:01,.630,.611,.778,.333,0.0,21.4,9.3,27.6,2.3,0.0,8.8,23.4,118,119,3.3
+2019-11-12,201911120MIA,DET,Langston Galloway,https://www.basketball-reference.com/boxscores/201911120MIA.html,28:39,.446,.364,.727,.273,4.0,10.5,6.8,5.8,0.0,3.7,19.6,23.3,78,124,-13.2
+2019-11-12,201911120MIA,DET,Christian Wood,https://www.basketball-reference.com/boxscores/201911120MIA.html,26:21,.617,.611,.333,1.000,4.3,11.4,7.4,0.0,3.7,8.1,0.0,21.4,125,113,3.5
+2019-11-12,201911120MIA,DET,Thon Maker,https://www.basketball-reference.com/boxscores/201911120MIA.html,20:21,.847,.875,.500,1.750,5.6,7.4,6.4,8.8,0.0,15.7,12.4,17.3,150,118,8.6
+2019-11-12,201911120MIA,DET,Tim Frazier,https://www.basketball-reference.com/boxscores/201911120MIA.html,13:08,.315,.000,.333,1.333,0.0,0.0,0.0,53.7,7.4,8.1,38.7,25.7,73,107,-1.4
+2019-11-12,201911120MIA,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/201911120MIA.html,5:46,1.000,1.000,.667,.000,19.8,52.0,33.7,0.0,0.0,0.0,25.0,30.2,118,119,12.2
+2019-11-12,201911120MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/201911120MIA.html,38:57,.561,.462,.154,.846,0.0,8.8,5.0,47.7,2.5,0.0,0.0,20.4,148,109,9.3
+2019-11-12,201911120MIA,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201911120MIA.html,36:39,.549,.500,.500,.313,4.1,6.2,5.3,19.8,2.7,0.0,18.0,27.0,103,109,-1.4
+2019-11-12,201911120MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/201911120MIA.html,29:17,.550,.550,.800,.000,0.0,7.8,4.4,0.0,0.0,0.0,28.6,21.3,68,114,-13.0
+2019-11-12,201911120MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/201911120MIA.html,27:40,.911,.889,.000,.222,21.7,41.3,32.8,12.8,0.0,0.0,28.8,22.3,129,106,2.1
+2019-11-12,201911120MIA,MIA,Meyers Leonard,https://www.basketball-reference.com/boxscores/201911120MIA.html,18:14,.820,1.000,.000,.500,8.2,25.1,17.8,7.4,0.0,0.0,55.1,13.3,70,111,-6.5
+2019-11-12,201911120MIA,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/201911120MIA.html,32:55,.610,.577,.615,.308,0.0,3.5,2.0,27.1,1.5,0.0,6.3,21.3,130,112,2.8
+2019-11-12,201911120MIA,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201911120MIA.html,29:08,.825,.786,.571,.286,0.0,11.8,6.7,23.9,1.7,0.0,0.0,12.0,177,110,10.0
+2019-11-12,201911120MIA,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/201911120MIA.html,15:21,.680,.600,.200,.400,19.5,52.1,38.0,19.8,0.0,8.5,33.8,25.7,105,99,-3.7
+2019-11-12,201911120MIA,MIA,Daryl Macon,https://www.basketball-reference.com/boxscores/201911120MIA.html,6:50,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,300,116,6.3
+2019-11-12,201911120MIA,MIA,Udonis Haslem,https://www.basketball-reference.com/boxscores/201911120MIA.html,4:59,1.000,1.000,.000,.000,0.0,45.9,26.0,0.0,0.0,0.0,0.0,8.9,200,104,-0.6

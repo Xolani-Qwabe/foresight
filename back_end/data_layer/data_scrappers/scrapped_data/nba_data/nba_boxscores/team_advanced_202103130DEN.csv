@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-13,202103130DEN,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202103130DEN.html,35:11,.784,.727,.455,.364,10.0,2.8,6.1,16.1,3.0,0.0,7.3,18.6,162,115,10.9
+2021-03-13,202103130DEN,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202103130DEN.html,32:48,.563,.531,.625,.375,0.0,14.9,8.1,55.3,0.0,0.0,13.9,31.3,125,117,5.7
+2021-03-13,202103130DEN,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103130DEN.html,31:25,.667,.667,.667,.000,7.5,15.6,11.9,4.1,0.0,0.0,25.0,12.1,111,117,-3.4
+2021-03-13,202103130DEN,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103130DEN.html,28:56,.833,.833,.467,.000,0.0,20.3,11.1,6.5,1.8,10.2,0.0,24.6,161,104,18.0
+2021-03-13,202103130DEN,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202103130DEN.html,27:39,.652,.625,.625,.125,8.5,21.3,15.4,9.9,1.9,0.0,0.0,14.5,152,110,6.7
+2021-03-13,202103130DEN,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103130DEN.html,25:04,.487,.409,.455,.273,4.7,11.7,8.5,22.3,0.0,0.0,0.0,23.3,127,118,-2.1
+2021-03-13,202103130DEN,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103130DEN.html,23:43,.444,.444,.556,.000,0.0,12.4,6.7,6.0,0.0,0.0,18.2,22.0,77,118,-12.0
+2021-03-13,202103130DEN,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202103130DEN.html,19:04,.615,.500,.250,.500,18.4,36.0,28.0,0.0,2.8,0.0,0.0,12.2,156,102,-0.7
+2021-03-13,202103130DEN,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202103130DEN.html,12:38,.500,.500,.800,.000,0.0,0.0,0.0,11.0,0.0,0.0,0.0,18.8,114,123,-6.0
+2021-03-13,202103130DEN,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202103130DEN.html,2:24,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.8,0,123,-27.0
+2021-03-13,202103130DEN,DAL,Tyler Bey,https://www.basketball-reference.com/boxscores/202103130DEN.html,1:08,,,,,0.0,86.4,47.1,0.0,0.0,0.0,,0.0,0,89,2.6
+2021-03-13,202103130DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202103130DEN.html,36:24,.643,.618,.588,.118,2.7,9.6,5.9,10.0,1.5,0.0,10.1,24.3,116,130,3.3
+2021-03-13,202103130DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103130DEN.html,36:02,.574,.525,.250,.300,5.4,22.7,13.3,61.9,0.0,0.0,15.0,32.9,118,130,11.0
+2021-03-13,202103130DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202103130DEN.html,35:39,.372,.346,.385,.077,2.7,3.3,3.0,21.3,1.5,0.0,13.0,19.3,87,132,-7.5
+2021-03-13,202103130DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103130DEN.html,23:04,.952,1.000,.556,.778,12.7,25.4,18.5,0.0,0.0,0.0,0.0,23.3,185,129,18.4
+2021-03-13,202103130DEN,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202103130DEN.html,22:45,.253,.278,.556,.222,4.3,15.4,9.4,6.4,4.7,5.3,0.0,19.3,66,117,-5.4
+2021-03-13,202103130DEN,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103130DEN.html,26:47,.000,.000,.500,.000,0.0,8.7,4.0,29.1,0.0,0.0,33.3,5.0,89,134,-10.7
+2021-03-13,202103130DEN,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202103130DEN.html,23:15,.357,.357,.429,.000,4.2,10.1,6.9,6.3,2.3,0.0,0.0,13.4,90,128,-6.1
+2021-03-13,202103130DEN,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202103130DEN.html,18:02,.417,.417,.500,.000,5.4,26.0,14.8,0.0,0.0,0.0,14.3,17.3,78,129,-11.1
+2021-03-13,202103130DEN,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202103130DEN.html,6:07,.000,.000,1.000,.000,16.0,0.0,8.7,0.0,0.0,0.0,0.0,7.3,64,137,-12.1
+2021-03-13,202103130DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202103130DEN.html,4:43,,,,,20.8,49.6,33.9,27.5,0.0,0.0,,0.0,239,121,8.3
+2021-03-13,202103130DEN,DEN,Bol Bol,https://www.basketball-reference.com/boxscores/202103130DEN.html,2:24,.750,.750,.500,.000,0.0,48.8,22.2,0.0,0.0,0.0,0.0,37.1,132,122,26.2
+2021-03-13,202103130DEN,DEN,Markus Howard,https://www.basketball-reference.com/boxscores/202103130DEN.html,2:24,.500,.500,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.6,96,136,-2.7
+2021-03-13,202103130DEN,DEN,Greg Whittington,https://www.basketball-reference.com/boxscores/202103130DEN.html,2:24,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.5,0,137,-25.8

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-03,202103030DAL,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202103030DAL.html,34:37,.425,.367,.267,.400,0.0,9.5,4.2,18.9,0.0,3.2,10.2,25.3,83,96,-0.2
+2021-03-03,202103030DAL,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202103030DAL.html,30:44,.550,.550,.500,.000,0.0,10.6,4.8,7.4,1.6,0.0,23.1,18.9,82,94,-2.8
+2021-03-03,202103030DAL,OKC,Al Horford,https://www.basketball-reference.com/boxscores/202103030DAL.html,29:07,.417,.417,.250,.000,6.1,7.5,6.7,7.9,0.0,7.7,7.7,19.9,85,93,-1.7
+2021-03-03,202103030DAL,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202103030DAL.html,28:01,.403,.364,.727,.545,3.2,35.0,17.5,0.0,0.0,0.0,6.8,23.3,80,92,-0.7
+2021-03-03,202103030DAL,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202103030DAL.html,24:31,.253,.167,.556,.222,3.6,17.8,10.0,14.5,0.0,0.0,23.3,23.5,50,95,-12.5
+2021-03-03,202103030DAL,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202103030DAL.html,28:35,.929,.929,.571,.000,3.1,7.6,5.1,16.3,1.8,0.0,0.0,10.9,184,94,8.9
+2021-03-03,202103030DAL,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202103030DAL.html,21:38,.253,.222,.333,.222,8.2,30.3,18.1,9.0,7.0,5.2,16.8,24.5,54,74,-0.2
+2021-03-03,202103030DAL,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202103030DAL.html,21:17,.538,.500,.286,.143,4.2,15.4,9.2,10.1,2.4,0.0,11.8,17.7,101,91,3.5
+2021-03-03,202103030DAL,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202103030DAL.html,14:13,.000,.000,1.000,.000,0.0,23.0,10.3,11.6,0.0,0.0,0.0,9.4,16,94,-9.8
+2021-03-03,202103030DAL,OKC,Justin Jackson,https://www.basketball-reference.com/boxscores/202103030DAL.html,7:17,.000,.000,.500,.000,0.0,30.0,13.4,22.7,0.0,0.0,0.0,24.5,12,93,-15.5
+2021-03-03,202103030DAL,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202103030DAL.html,35:29,.494,.393,.571,.357,0.0,15.0,8.3,5.4,5.7,0.0,11.0,23.8,91,74,2.7
+2021-03-03,202103030DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202103030DAL.html,34:22,.286,.286,.571,.000,6.3,15.5,11.4,4.8,1.5,0.0,12.5,10.8,68,83,-5.0
+2021-03-03,202103030DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103030DAL.html,33:49,.567,.567,.400,.267,3.2,31.5,18.8,0.0,0.0,0.0,5.6,24.4,105,82,4.2
+2021-03-03,202103030DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103030DAL.html,32:53,.481,.455,.364,.091,0.0,16.2,8.9,23.6,3.0,0.0,14.9,19.0,91,80,0.7
+2021-03-03,202103030DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103030DAL.html,31:16,.474,.438,.625,.125,3.5,17.1,11.0,5.6,0.0,6.4,19.2,15.5,82,81,-2.4
+2021-03-03,202103030DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103030DAL.html,31:24,.539,.467,.467,.400,6.9,11.3,9.4,13.4,0.0,0.0,18.5,32.0,94,88,-0.8
+2021-03-03,202103030DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202103030DAL.html,21:35,.500,.500,.444,.000,0.0,8.2,4.5,57.8,2.3,0.0,0.0,19.4,120,84,9.9
+2021-03-03,202103030DAL,DAL,James Johnson,https://www.basketball-reference.com/boxscores/202103030DAL.html,13:00,.102,.000,.500,.500,0.0,27.4,15.1,34.6,0.0,7.7,0.0,17.4,51,77,-1.7
+2021-03-03,202103030DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202103030DAL.html,3:59,,,,,27.4,0.0,12.3,0.0,0.0,0.0,,0.0,222,90,-8.6
+2021-03-03,202103030DAL,DAL,Wes Iwundu,https://www.basketball-reference.com/boxscores/202103030DAL.html,2:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,92,-4.9

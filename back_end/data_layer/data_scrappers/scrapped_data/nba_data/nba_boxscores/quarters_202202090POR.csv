@@ -1,0 +1,70 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-02-09,202202090POR,LAL,Q1,Anthony Davis,https://www.basketball-reference.com/boxscores/202202090POR.html,12.0,1,3,.333,0,1,.000,1,4,.250,0,3,3,0,1,0,0,1,3,1.6,0
+2022-02-09,202202090POR,LAL,Q1,LeBron James,https://www.basketball-reference.com/boxscores/202202090POR.html,9.82,4,5,.800,0,0,,0,0,,0,3,3,1,1,0,1,0,8,7.7,+1
+2022-02-09,202202090POR,LAL,Q1,Avery Bradley,https://www.basketball-reference.com/boxscores/202202090POR.html,8.97,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0
+2022-02-09,202202090POR,LAL,Q1,Malik Monk,https://www.basketball-reference.com/boxscores/202202090POR.html,9.78,0,2,.000,0,2,.000,0,0,,0,2,2,1,0,0,2,0,0,-2.1,0
+2022-02-09,202202090POR,LAL,Q1,Trevor Ariza,https://www.basketball-reference.com/boxscores/202202090POR.html,7.6,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,0,0,3,2.6,+1
+2022-02-09,202202090POR,LAL,Q1,Stanley Johnson,https://www.basketball-reference.com/boxscores/202202090POR.html,4.4,1,1,1.000,1,1,1.000,1,2,.500,0,1,1,0,0,0,1,0,4,2.6,-1
+2022-02-09,202202090POR,LAL,Q1,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202202090POR.html,4.4,0,0,,0,0,,0,0,,0,1,1,1,0,0,2,1,0,-1.4,-1
+2022-02-09,202202090POR,LAL,Q1,Austin Reaves,https://www.basketball-reference.com/boxscores/202202090POR.html,3.03,0,0,,0,0,,0,2,.000,0,0,0,0,0,0,0,0,0,-0.8,0
+2022-02-09,202202090POR,LAL,Q2,Anthony Davis,https://www.basketball-reference.com/boxscores/202202090POR.html,7.6,1,1,1.000,0,0,,0,0,,0,2,2,2,0,0,1,1,2,2.3,+1
+2022-02-09,202202090POR,LAL,Q2,LeBron James,https://www.basketball-reference.com/boxscores/202202090POR.html,7.73,2,3,.667,1,2,.500,1,1,1.000,0,2,2,3,0,0,1,1,6,6.0,+4
+2022-02-09,202202090POR,LAL,Q2,Avery Bradley,https://www.basketball-reference.com/boxscores/202202090POR.html,8.7,1,2,.500,1,2,.500,0,0,,0,1,1,1,0,0,2,0,3,1.0,+4
+2022-02-09,202202090POR,LAL,Q2,Malik Monk,https://www.basketball-reference.com/boxscores/202202090POR.html,2.25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2022-02-09,202202090POR,LAL,Q2,Trevor Ariza,https://www.basketball-reference.com/boxscores/202202090POR.html,6.52,1,2,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,1,3,2.6,+3
+2022-02-09,202202090POR,LAL,Q2,Stanley Johnson,https://www.basketball-reference.com/boxscores/202202090POR.html,5.48,0,1,.000,0,0,,0,0,,0,2,2,1,0,1,0,1,0,0.9,+4
+2022-02-09,202202090POR,LAL,Q2,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202202090POR.html,7.57,4,6,.667,3,4,.750,0,0,,0,0,0,1,1,0,0,1,11,9.7,+6
+2022-02-09,202202090POR,LAL,Q2,Wayne Ellington,https://www.basketball-reference.com/boxscores/202202090POR.html,9.75,2,3,.667,2,3,.667,0,0,,1,0,1,1,1,0,0,0,6,7.1,+7
+2022-02-09,202202090POR,LAL,Q2,Austin Reaves,https://www.basketball-reference.com/boxscores/202202090POR.html,4.4,2,3,.667,1,1,1.000,0,0,,1,0,1,0,0,0,0,0,5,4.4,+6
+2022-02-09,202202090POR,LAL,Q3,Anthony Davis,https://www.basketball-reference.com/boxscores/202202090POR.html,12.0,6,7,.857,0,0,,0,0,,0,1,1,1,0,3,0,0,12,12.6,-5
+2022-02-09,202202090POR,LAL,Q3,LeBron James,https://www.basketball-reference.com/boxscores/202202090POR.html,7.13,1,5,.200,0,3,.000,0,0,,0,0,0,3,1,0,2,0,2,0.0,-6
+2022-02-09,202202090POR,LAL,Q3,Avery Bradley,https://www.basketball-reference.com/boxscores/202202090POR.html,9.02,0,1,.000,0,1,.000,0,0,,1,1,2,0,0,1,0,0,0,1.0,-4
+2022-02-09,202202090POR,LAL,Q3,Malik Monk,https://www.basketball-reference.com/boxscores/202202090POR.html,11.33,3,5,.600,1,2,.500,0,0,,0,2,2,0,0,0,1,0,7,4.3,-3
+2022-02-09,202202090POR,LAL,Q3,Trevor Ariza,https://www.basketball-reference.com/boxscores/202202090POR.html,5.58,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,-5
+2022-02-09,202202090POR,LAL,Q3,Stanley Johnson,https://www.basketball-reference.com/boxscores/202202090POR.html,4.87,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1
+2022-02-09,202202090POR,LAL,Q3,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202202090POR.html,6.42,1,2,.500,1,2,.500,0,0,,0,1,1,4,0,0,1,2,3,3.3,0
+2022-02-09,202202090POR,LAL,Q3,Wayne Ellington,https://www.basketball-reference.com/boxscores/202202090POR.html,0.67,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2022-02-09,202202090POR,LAL,Q3,Austin Reaves,https://www.basketball-reference.com/boxscores/202202090POR.html,2.98,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-1
+2022-02-09,202202090POR,LAL,Q4,Anthony Davis,https://www.basketball-reference.com/boxscores/202202090POR.html,9.15,0,0,,0,0,,0,0,,0,1,1,3,0,2,1,0,0,2.8,+3
+2022-02-09,202202090POR,LAL,Q4,LeBron James,https://www.basketball-reference.com/boxscores/202202090POR.html,12.0,6,9,.667,2,2,1.000,0,0,,0,2,2,0,1,0,2,0,14,9.7,-4
+2022-02-09,202202090POR,LAL,Q4,Avery Bradley,https://www.basketball-reference.com/boxscores/202202090POR.html,9.1,1,2,.500,1,2,.500,0,0,,0,1,1,1,0,0,1,0,3,2.0,0
+2022-02-09,202202090POR,LAL,Q4,Malik Monk,https://www.basketball-reference.com/boxscores/202202090POR.html,5.8,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,2,2,0,-2.8,+3
+2022-02-09,202202090POR,LAL,Q4,Stanley Johnson,https://www.basketball-reference.com/boxscores/202202090POR.html,10.92,2,2,1.000,0,0,,3,4,.750,0,3,3,0,1,0,0,2,7,7.1,-9
+2022-02-09,202202090POR,LAL,Q4,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202202090POR.html,5.47,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,-6
+2022-02-09,202202090POR,LAL,Q4,Wayne Ellington,https://www.basketball-reference.com/boxscores/202202090POR.html,4.67,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3,-3
+2022-02-09,202202090POR,LAL,Q4,Austin Reaves,https://www.basketball-reference.com/boxscores/202202090POR.html,2.9,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-4
+2022-02-09,202202090POR,POR,Q1,CJ Elleby,https://www.basketball-reference.com/boxscores/202202090POR.html,9.78,1,4,.250,0,1,.000,0,0,,2,3,5,3,0,0,0,0,2,4.0,0
+2022-02-09,202202090POR,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/202202090POR.html,10.42,1,6,.167,0,3,.000,0,0,,0,0,0,3,0,0,0,0,2,0.3,+1
+2022-02-09,202202090POR,POR,Q1,Justise Winslow,https://www.basketball-reference.com/boxscores/202202090POR.html,12.0,3,5,.600,0,1,.000,0,0,,1,4,5,0,1,0,0,1,6,6.2,0
+2022-02-09,202202090POR,POR,Q1,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202202090POR.html,9.78,3,3,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,6,5.0,0
+2022-02-09,202202090POR,POR,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/202202090POR.html,12.0,1,6,.167,0,4,.000,0,0,,0,0,0,0,2,0,1,1,2,-1.2,0
+2022-02-09,202202090POR,POR,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202202090POR.html,1.58,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-1
+2022-02-09,202202090POR,POR,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202202090POR.html,2.22,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,0
+2022-02-09,202202090POR,POR,Q1,Keljin Blevins,https://www.basketball-reference.com/boxscores/202202090POR.html,2.22,0,2,.000,0,1,.000,0,0,,2,1,3,0,0,0,0,1,0,-0.1,0
+2022-02-09,202202090POR,POR,Q2,CJ Elleby,https://www.basketball-reference.com/boxscores/202202090POR.html,12.0,2,4,.500,0,0,,0,0,,0,0,0,1,0,1,0,0,4,3.4,-7
+2022-02-09,202202090POR,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/202202090POR.html,8.7,1,4,.250,0,1,.000,0,0,,0,0,0,1,0,0,0,0,2,0.3,-4
+2022-02-09,202202090POR,POR,Q2,Justise Winslow,https://www.basketball-reference.com/boxscores/202202090POR.html,6.52,0,1,.000,0,0,,0,0,,1,0,1,1,1,0,0,0,0,1.7,-3
+2022-02-09,202202090POR,POR,Q2,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202202090POR.html,7.6,3,4,.750,0,0,,3,5,.600,1,4,5,1,0,0,1,1,9,7.8,-1
+2022-02-09,202202090POR,POR,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/202202090POR.html,6.52,1,2,.500,1,2,.500,0,0,,0,0,0,0,1,0,0,0,3,3.0,-3
+2022-02-09,202202090POR,POR,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202202090POR.html,5.48,1,1,1.000,0,0,,1,1,1.000,0,1,1,3,1,0,1,1,3,4.7,-4
+2022-02-09,202202090POR,POR,Q2,Greg Brown III,https://www.basketball-reference.com/boxscores/202202090POR.html,4.4,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,2,2.4,-6
+2022-02-09,202202090POR,POR,Q2,Trendon Watford,https://www.basketball-reference.com/boxscores/202202090POR.html,5.48,1,2,.500,0,0,,2,2,1.000,0,0,0,0,1,0,0,0,4,4.0,-4
+2022-02-09,202202090POR,POR,Q2,Keljin Blevins,https://www.basketball-reference.com/boxscores/202202090POR.html,3.3,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-3
+2022-02-09,202202090POR,POR,Q3,CJ Elleby,https://www.basketball-reference.com/boxscores/202202090POR.html,9.45,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+5
+2022-02-09,202202090POR,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/202202090POR.html,11.33,6,8,.750,3,5,.600,0,0,,0,0,0,1,0,0,2,0,15,10.5,+3
+2022-02-09,202202090POR,POR,Q3,Justise Winslow,https://www.basketball-reference.com/boxscores/202202090POR.html,9.02,2,3,.667,0,1,.000,1,2,.500,1,0,1,1,2,0,0,1,5,6.3,+4
+2022-02-09,202202090POR,POR,Q3,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202202090POR.html,8.28,1,1,1.000,0,0,,0,0,,0,3,3,2,0,0,1,1,2,2.6,+6
+2022-02-09,202202090POR,POR,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/202202090POR.html,9.02,1,5,.200,1,5,.200,0,0,,1,1,2,0,0,1,0,0,3,1.6,+4
+2022-02-09,202202090POR,POR,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202202090POR.html,2.98,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,2.3,+1
+2022-02-09,202202090POR,POR,Q3,Greg Brown III,https://www.basketball-reference.com/boxscores/202202090POR.html,5.53,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,0,2,0.3,+1
+2022-02-09,202202090POR,POR,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202202090POR.html,3.72,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-1
+2022-02-09,202202090POR,POR,Q3,Keljin Blevins,https://www.basketball-reference.com/boxscores/202202090POR.html,0.67,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2022-02-09,202202090POR,POR,Q4,CJ Elleby,https://www.basketball-reference.com/boxscores/202202090POR.html,12.0,1,3,.333,0,0,,0,0,,1,1,2,0,1,0,1,0,2,1.3,+4
+2022-02-09,202202090POR,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/202202090POR.html,7.73,3,5,.600,2,2,1.000,2,2,1.000,0,0,0,0,0,0,1,0,10,6.7,-2
+2022-02-09,202202090POR,POR,Q4,Justise Winslow,https://www.basketball-reference.com/boxscores/202202090POR.html,5.95,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4,+1
+2022-02-09,202202090POR,POR,Q4,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202202090POR.html,7.68,1,3,.333,0,0,,0,0,,1,2,3,0,0,0,0,0,2,1.6,+1
+2022-02-09,202202090POR,POR,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/202202090POR.html,0.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2022-02-09,202202090POR,POR,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202202090POR.html,11.98,1,3,.333,0,0,,0,0,,0,0,0,7,5,0,1,1,2,8.8,+2
+2022-02-09,202202090POR,POR,Q4,Greg Brown III,https://www.basketball-reference.com/boxscores/202202090POR.html,6.05,1,1,1.000,1,1,1.000,4,4,1.000,0,2,2,0,0,0,1,1,7,5.9,+3
+2022-02-09,202202090POR,POR,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202202090POR.html,4.27,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,1,2,1.9,+6
+2022-02-09,202202090POR,POR,Q4,Keljin Blevins,https://www.basketball-reference.com/boxscores/202202090POR.html,4.27,2,4,.500,2,3,.667,0,0,,0,0,0,0,0,0,0,1,6,3.6,+6

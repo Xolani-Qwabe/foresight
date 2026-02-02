@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2025-02-27,202502270MIL,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.43,0,1,.000,0,0,0,0,0,1,1,1,1,0,1,0,0,0.3,-1,,
+2025-02-27,202502270MIL,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202502270MIL.html,11.97,6,7,.857,1,2,3,3,0,5,5,2,0,0,1,1,16,15.0,+3,.500,1.000
+2025-02-27,202502270MIL,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,10.38,1,8,.125,0,3,0,0,3,1,4,2,1,0,0,0,2,1.6,-3,.000,
+2025-02-27,202502270MIL,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.47,0,3,.000,0,1,0,0,0,0,0,1,1,0,1,0,0,-1.4,-4,.000,
+2025-02-27,202502270MIL,DEN,Q1,Christian Braun,https://www.basketball-reference.com/boxscores/202502270MIL.html,8.52,2,5,.400,0,0,0,0,0,1,1,0,2,0,0,1,4,3.2,-6,,
+2025-02-27,202502270MIL,DEN,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.05,3,4,.750,1,1,1,1,1,1,2,2,0,0,0,1,8,8.4,+7,1.000,1.000
+2025-02-27,202502270MIL,DEN,Q1,Julian Strawther,https://www.basketball-reference.com/boxscores/202502270MIL.html,1.62,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,,
+2025-02-27,202502270MIL,DEN,Q1,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202502270MIL.html,2.57,0,0,,0,0,0,0,0,0,0,0,1,0,0,1,0,0.6,+1,,
+2025-02-27,202502270MIL,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.57,3,6,.500,0,0,0,0,0,0,0,0,0,0,0,0,6,3.0,+2,,
+2025-02-27,202502270MIL,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.7,1,1,1.000,0,0,0,0,1,4,5,3,1,0,2,0,2,4.7,0,,
+2025-02-27,202502270MIL,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,2.13,1,3,.333,0,2,0,0,1,1,2,0,0,0,0,1,2,0.9,-2,.000,
+2025-02-27,202502270MIL,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.7,1,3,.333,1,2,0,0,0,0,0,0,0,0,0,1,3,0.9,0,.500,
+2025-02-27,202502270MIL,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.7,1,3,.333,0,1,0,0,0,3,3,1,0,0,0,0,2,1.9,0,.000,
+2025-02-27,202502270MIL,DEN,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.73,0,4,.000,0,0,0,0,0,2,2,2,1,0,1,0,0,-0.8,+4,,
+2025-02-27,202502270MIL,DEN,Q2,Julian Strawther,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.87,3,4,.750,2,2,0,0,0,0,0,0,0,0,2,0,8,4.4,+5,1.000,
+2025-02-27,202502270MIL,DEN,Q2,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202502270MIL.html,5.3,1,1,1.000,0,0,0,0,1,2,3,0,0,0,0,0,2,3.0,+3,,
+2025-02-27,202502270MIL,DEN,Q2,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202502270MIL.html,5.3,1,1,1.000,0,0,0,0,1,1,2,0,0,1,0,0,2,3.4,+3,,
+2025-02-27,202502270MIL,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202502270MIL.html,8.63,2,6,.333,1,4,0,0,1,0,1,1,0,0,0,0,5,3.0,-8,.250,
+2025-02-27,202502270MIL,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202502270MIL.html,11.82,4,5,.800,0,0,0,0,0,4,4,4,0,0,0,1,8,9.7,-6,,
+2025-02-27,202502270MIL,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,10.52,2,5,.400,1,2,0,0,0,1,1,0,0,0,1,0,5,1.6,-9,.500,
+2025-02-27,202502270MIL,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.62,1,4,.250,0,2,0,0,0,3,3,0,0,1,1,1,2,-0.2,-8,.000,
+2025-02-27,202502270MIL,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202502270MIL.html,8.92,0,1,.000,0,1,2,2,0,3,3,2,0,0,0,1,2,3.2,-4,.000,1.000
+2025-02-27,202502270MIL,DEN,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.45,0,4,.000,0,3,0,0,1,0,1,1,0,0,0,1,0,-1.8,0,.000,
+2025-02-27,202502270MIL,DEN,Q3,Julian Strawther,https://www.basketball-reference.com/boxscores/202502270MIL.html,3.37,1,1,1.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1.7,+2,,
+2025-02-27,202502270MIL,DEN,Q3,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202502270MIL.html,0.68,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,,
+2025-02-27,202502270MIL,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202502270MIL.html,12.0,4,7,.571,1,1,0,0,0,1,1,3,0,0,1,0,9,7.1,-6,1.000,
+2025-02-27,202502270MIL,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.05,2,3,.667,0,0,2,4,0,0,0,1,0,0,2,2,6,1.8,-2,,.500
+2025-02-27,202502270MIL,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,12.0,1,6,.167,1,4,0,0,2,1,3,1,0,0,0,1,3,1.2,-6,.250,
+2025-02-27,202502270MIL,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.05,2,3,.667,0,1,0,0,1,1,2,1,0,0,0,0,4,4.4,-2,.000,
+2025-02-27,202502270MIL,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.05,2,2,1.000,0,0,1,1,1,2,3,0,0,0,0,2,5,4.9,-2,,1.000
+2025-02-27,202502270MIL,DEN,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/202502270MIL.html,4.95,1,1,1.000,0,0,0,0,0,1,1,0,0,0,0,0,2,2.0,-4,,
+2025-02-27,202502270MIL,DEN,Q4,Julian Strawther,https://www.basketball-reference.com/boxscores/202502270MIL.html,4.95,1,3,.333,0,2,0,0,0,0,0,0,0,0,0,1,2,-0.1,-4,.000,
+2025-02-27,202502270MIL,DEN,Q4,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202502270MIL.html,4.95,0,0,,0,0,0,0,0,2,2,0,0,0,0,1,0,0.2,-4,,
+2025-02-27,202502270MIL,MIL,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202502270MIL.html,8.52,2,4,.500,1,3,0,0,0,2,2,1,0,2,0,0,5,5.7,+6,.333,
+2025-02-27,202502270MIL,MIL,Q1,Brook Lopez,https://www.basketball-reference.com/boxscores/202502270MIL.html,12.0,3,5,.600,1,2,3,3,0,1,1,2,0,0,0,1,10,9.0,0,.500,1.000
+2025-02-27,202502270MIL,MIL,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202502270MIL.html,12.0,1,3,.333,1,3,2,2,0,1,1,2,1,0,4,0,5,2.0,0,.333,1.000
+2025-02-27,202502270MIL,MIL,Q1,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.43,3,4,.750,0,0,0,0,0,4,4,2,0,1,2,0,6,5.7,+1,,
+2025-02-27,202502270MIL,MIL,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.43,2,3,.667,0,1,0,0,0,2,2,0,0,0,0,1,4,2.9,+1,.000,
+2025-02-27,202502270MIL,MIL,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,2.57,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,.000,
+2025-02-27,202502270MIL,MIL,Q1,A.J. Green,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.05,0,1,.000,0,1,0,0,0,1,1,2,1,0,0,1,0,1.6,-7,.000,
+2025-02-27,202502270MIL,MIL,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.88,3,5,.600,0,1,2,2,1,3,4,1,0,0,1,0,8,7.0,+1,.000,1.000
+2025-02-27,202502270MIL,MIL,Q2,Brook Lopez,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.25,1,3,.333,0,1,0,0,0,0,0,0,0,0,0,0,2,0.3,-2,.000,
+2025-02-27,202502270MIL,MIL,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202502270MIL.html,4.27,1,3,.333,0,1,0,0,0,0,0,0,0,0,0,0,2,0.3,+1,.000,
+2025-02-27,202502270MIL,MIL,Q2,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.25,2,5,.400,0,0,0,0,1,2,3,2,0,0,0,0,4,4.0,-2,,
+2025-02-27,202502270MIL,MIL,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202502270MIL.html,6.7,0,2,.000,0,2,0,0,0,2,2,0,1,0,0,0,0,0.2,0,.000,
+2025-02-27,202502270MIL,MIL,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.87,2,3,.667,1,1,0,0,1,1,2,1,2,0,1,0,5,6.4,-5,1.000,
+2025-02-27,202502270MIL,MIL,Q2,A.J. Green,https://www.basketball-reference.com/boxscores/202502270MIL.html,5.3,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-3,,
+2025-02-27,202502270MIL,MIL,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.73,1,3,.333,1,2,0,0,0,1,1,0,0,0,1,1,3,0.2,-4,.500,
+2025-02-27,202502270MIL,MIL,Q2,Jericho Sims,https://www.basketball-reference.com/boxscores/202502270MIL.html,5.75,0,2,.000,0,0,0,0,1,1,2,0,0,0,0,0,0,-0.4,-1,,
+2025-02-27,202502270MIL,MIL,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202502270MIL.html,10.75,0,4,.000,0,1,0,0,0,3,3,1,0,0,0,0,0,-1.2,+7,.000,
+2025-02-27,202502270MIL,MIL,Q3,Brook Lopez,https://www.basketball-reference.com/boxscores/202502270MIL.html,12.0,1,5,.200,0,2,3,4,1,1,2,1,0,1,1,1,5,2.5,+6,.000,.750
+2025-02-27,202502270MIL,MIL,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202502270MIL.html,12.0,2,2,1.000,1,1,2,2,1,0,1,2,0,0,0,0,7,8.5,+6,1.000,1.000
+2025-02-27,202502270MIL,MIL,Q3,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202502270MIL.html,9.88,4,9,.444,1,2,0,2,0,9,9,1,0,0,0,0,9,6.9,+7,.500,.000
+2025-02-27,202502270MIL,MIL,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202502270MIL.html,8.63,2,2,1.000,2,2,0,0,0,0,0,1,1,0,0,0,6,7.1,+8,1.000,
+2025-02-27,202502270MIL,MIL,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,3.37,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,-2,1.000,
+2025-02-27,202502270MIL,MIL,Q3,A.J. Green,https://www.basketball-reference.com/boxscores/202502270MIL.html,3.37,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,,
+2025-02-27,202502270MIL,MIL,Q4,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202502270MIL.html,10.33,0,2,.000,0,0,3,4,0,0,0,2,0,0,0,0,3,2.6,+5,,.750
+2025-02-27,202502270MIL,MIL,Q4,Brook Lopez,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.05,2,3,.667,0,1,1,1,0,1,1,0,0,0,0,2,5,3.2,+2,.000,1.000
+2025-02-27,202502270MIL,MIL,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.05,1,1,1.000,1,1,2,2,0,2,2,0,1,0,0,0,5,6.3,+2,1.000,1.000
+2025-02-27,202502270MIL,MIL,Q4,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202502270MIL.html,7.05,2,5,.400,0,0,5,6,1,2,3,2,0,0,0,3,9,7.4,+2,,.833
+2025-02-27,202502270MIL,MIL,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202502270MIL.html,5.0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,,
+2025-02-27,202502270MIL,MIL,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,8.67,3,3,1.000,1,1,0,0,0,0,0,0,1,0,0,0,7,7.1,+6,1.000,
+2025-02-27,202502270MIL,MIL,Q4,A.J. Green,https://www.basketball-reference.com/boxscores/202502270MIL.html,4.95,2,2,1.000,2,2,0,0,0,0,0,0,0,0,0,0,6,5.4,+4,1.000,
+2025-02-27,202502270MIL,MIL,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202502270MIL.html,4.95,0,1,.000,0,1,0,0,0,0,0,2,0,0,1,0,0,-0.3,+4,.000,
+2025-02-27,202502270MIL,MIL,Q4,Jericho Sims,https://www.basketball-reference.com/boxscores/202502270MIL.html,4.95,1,2,.500,0,0,0,0,0,2,2,0,0,0,0,0,2,1.6,+4,,

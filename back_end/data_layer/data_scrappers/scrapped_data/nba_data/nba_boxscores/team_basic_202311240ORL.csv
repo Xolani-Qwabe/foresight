@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-24,202311240ORL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202311240ORL.html,38.92,7,16,.438,0,3,.000,12,13,.923,0,5,5,3,2,0,2,3,26,19.6,-21
+2023-11-24,202311240ORL,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202311240ORL.html,38.88,6,22,.273,2,8,.250,4,7,.571,0,3,3,2,3,1,3,3,18,5.6,+1
+2023-11-24,202311240ORL,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202311240ORL.html,37.4,3,9,.333,1,5,.200,9,12,.750,0,5,5,4,1,1,3,1,16,12.3,-6
+2023-11-24,202311240ORL,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202311240ORL.html,32.97,1,5,.200,1,5,.200,0,0,,0,5,5,3,0,0,1,4,3,0.9,-26
+2023-11-24,202311240ORL,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202311240ORL.html,22.28,4,9,.444,1,4,.250,0,1,.000,1,3,4,2,2,0,2,3,9,5.7,+6
+2023-11-24,202311240ORL,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202311240ORL.html,25.28,4,6,.667,2,4,.500,0,0,,1,1,2,0,0,0,1,0,10,7.4,-16
+2023-11-24,202311240ORL,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202311240ORL.html,24.7,5,6,.833,0,0,,2,2,1.000,2,4,6,1,2,2,1,2,12,14.7,-2
+2023-11-24,202311240ORL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202311240ORL.html,13.12,1,2,.500,0,0,,0,0,,0,1,1,2,0,0,1,0,2,1.7,-6
+2023-11-24,202311240ORL,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202311240ORL.html,5.32,0,0,,0,0,,0,2,.000,0,0,0,0,0,0,0,2,0,-1.6,-11
+2023-11-24,202311240ORL,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202311240ORL.html,0.53,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2023-11-24,202311240ORL,BOS,Lamar Stevens,https://www.basketball-reference.com/boxscores/202311240ORL.html,0.53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2023-11-24,202311240ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202311240ORL.html,34.93,8,17,.471,1,6,.167,0,0,,0,8,8,6,0,1,3,2,17,11.8,+10
+2023-11-24,202311240ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202311240ORL.html,34.53,10,16,.625,2,6,.333,1,2,.500,1,6,7,5,0,0,3,4,23,16.8,+7
+2023-11-24,202311240ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202311240ORL.html,28.22,3,8,.375,3,4,.750,1,2,.500,0,4,4,1,1,0,3,2,10,4.3,0
+2023-11-24,202311240ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202311240ORL.html,18.7,3,5,.600,0,0,,0,0,,2,3,5,3,1,1,0,5,6,7.8,-1
+2023-11-24,202311240ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202311240ORL.html,6.23,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.8,-6
+2023-11-24,202311240ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202311240ORL.html,28.52,6,17,.353,2,4,.500,2,4,.500,1,2,3,6,2,1,3,4,16,9.3,+17
+2023-11-24,202311240ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202311240ORL.html,23.75,9,13,.692,1,3,.333,8,9,.889,2,1,3,0,0,0,1,5,27,19.8,+15
+2023-11-24,202311240ORL,ORL,Joe Ingles,https://www.basketball-reference.com/boxscores/202311240ORL.html,21.05,2,3,.667,1,1,1.000,0,0,,1,4,5,2,0,0,2,1,5,4.6,+2
+2023-11-24,202311240ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202311240ORL.html,19.42,1,3,.333,1,3,.333,1,1,1.000,2,1,3,0,0,0,2,1,4,1.6,+9
+2023-11-24,202311240ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202311240ORL.html,15.87,1,2,.500,0,1,.000,3,4,.750,3,4,7,0,0,0,0,3,5,5.7,+17
+2023-11-24,202311240ORL,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202311240ORL.html,8.77,0,0,,0,0,,0,0,,1,1,2,0,1,0,0,0,0,2.0,+15

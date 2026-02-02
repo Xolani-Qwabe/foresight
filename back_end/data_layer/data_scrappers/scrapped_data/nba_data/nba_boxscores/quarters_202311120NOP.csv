@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-11-12,202311120NOP,DAL,Q1,Kyrie Irving,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.67,5,9,.556,1,3,.333,0,0,0,2,2,3,0,0,0,0,11,9.4,+14,
+2023-11-12,202311120NOP,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202311120NOP.html,9.28,3,7,.429,1,3,.333,1,2,0,4,4,2,0,0,0,0,8,6.5,-3,.500
+2023-11-12,202311120NOP,DAL,Q1,Dereck Lively II,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.92,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,+2,
+2023-11-12,202311120NOP,DAL,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,9.28,0,3,.000,0,3,.000,0,0,0,0,0,1,0,0,0,0,0,-1.4,-3,
+2023-11-12,202311120NOP,DAL,Q1,Grant Williams,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.92,0,0,,0,0,,0,0,0,0,0,0,0,1,0,1,0,0.3,+2,
+2023-11-12,202311120NOP,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.05,1,2,.500,1,2,.500,4,4,0,1,1,0,0,0,0,0,7,6.3,+3,1.000
+2023-11-12,202311120NOP,DAL,Q1,Josh Green,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.08,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,+5,
+2023-11-12,202311120NOP,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.08,2,2,1.000,0,0,,0,0,1,2,3,0,0,0,0,1,4,4.3,+5,
+2023-11-12,202311120NOP,DAL,Q1,Dante Exum,https://www.basketball-reference.com/boxscores/202311120NOP.html,2.72,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,+10,
+2023-11-12,202311120NOP,DAL,Q2,Kyrie Irving,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.18,3,4,.750,3,3,1.000,2,2,0,2,2,1,0,1,1,0,11,10.4,-1,1.000
+2023-11-12,202311120NOP,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.9,3,5,.600,1,3,.333,0,0,0,0,0,2,0,0,1,0,7,5.1,+5,
+2023-11-12,202311120NOP,DAL,Q2,Dereck Lively II,https://www.basketball-reference.com/boxscores/202311120NOP.html,4.38,1,2,.500,0,0,,0,0,0,0,0,0,1,0,1,2,2,0.2,+9,
+2023-11-12,202311120NOP,DAL,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,0.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-11-12,202311120NOP,DAL,Q2,Grant Williams,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.83,0,3,.000,0,2,.000,0,0,1,1,2,0,1,0,0,0,0,-0.1,+11,
+2023-11-12,202311120NOP,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.18,1,4,.250,1,2,.500,0,0,0,2,2,1,0,0,0,0,3,1.9,-1,
+2023-11-12,202311120NOP,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202311120NOP.html,9.23,1,4,.250,1,3,.333,0,0,0,1,1,2,1,0,1,0,3,2.3,+5,
+2023-11-12,202311120NOP,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.62,0,1,.000,0,0,,1,2,1,2,3,2,1,0,0,2,1,2.8,-3,.500
+2023-11-12,202311120NOP,DAL,Q2,Dante Exum,https://www.basketball-reference.com/boxscores/202311120NOP.html,2.15,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,0,
+2023-11-12,202311120NOP,DAL,Q2,Jaden Hardy,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.23,1,2,.500,0,1,.000,0,0,1,0,1,1,0,0,0,1,2,2.0,+5,
+2023-11-12,202311120NOP,DAL,Q3,Kyrie Irving,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.22,2,4,.500,2,3,.667,0,0,1,1,2,1,0,0,0,1,6,5.3,-3,
+2023-11-12,202311120NOP,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202311120NOP.html,9.8,5,6,.833,2,3,.667,3,3,0,0,0,5,1,0,1,0,15,16.3,+12,1.000
+2023-11-12,202311120NOP,DAL,Q3,Dereck Lively II,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.75,2,2,1.000,0,0,,0,0,0,1,1,0,0,2,0,0,4,5.1,+6,
+2023-11-12,202311120NOP,DAL,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,12.0,2,3,.667,2,3,.667,1,2,0,1,1,1,0,0,1,0,7,5.3,+11,.500
+2023-11-12,202311120NOP,DAL,Q3,Grant Williams,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.75,0,1,.000,0,0,,0,0,0,0,0,1,0,1,0,0,0,0.7,+6,
+2023-11-12,202311120NOP,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.98,2,4,.500,1,3,.333,0,0,0,3,3,1,0,0,0,1,5,4.2,+13,
+2023-11-12,202311120NOP,DAL,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.25,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,2.3,+5,
+2023-11-12,202311120NOP,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.25,1,1,1.000,0,0,,0,0,1,3,4,0,0,0,0,1,2,2.9,+5,
+2023-11-12,202311120NOP,DAL,Q4,Kyrie Irving,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.95,3,3,1.000,1,1,1.000,0,0,0,0,0,2,0,0,0,0,7,7.5,-1,
+2023-11-12,202311120NOP,DAL,Q4,Dereck Lively II,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.22,0,0,,0,0,,2,4,1,0,1,0,0,0,0,2,2,1.1,-4,.500
+2023-11-12,202311120NOP,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.95,0,4,.000,0,3,.000,0,0,0,3,3,0,0,0,0,0,0,-1.9,-1,
+2023-11-12,202311120NOP,DAL,Q4,Josh Green,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.22,2,4,.500,1,3,.333,0,0,0,0,0,1,1,0,0,0,5,4.7,-4,
+2023-11-12,202311120NOP,DAL,Q4,Dante Exum,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.22,1,4,.250,0,0,,0,0,0,1,1,1,1,1,0,0,2,2.3,-4,
+2023-11-12,202311120NOP,DAL,Q4,Jaden Hardy,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.78,2,4,.500,1,3,.333,0,0,0,1,1,1,0,0,0,0,5,4.0,-8,
+2023-11-12,202311120NOP,DAL,Q4,Olivier-Maxence Prosper,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.05,1,3,.333,0,2,.000,2,2,0,0,0,0,0,0,0,2,4,1.5,-11,1.000
+2023-11-12,202311120NOP,DAL,Q4,Seth Curry,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.05,0,2,.000,0,1,.000,0,0,1,0,1,0,0,0,0,0,0,-0.7,-11,
+2023-11-12,202311120NOP,DAL,Q4,Richaun Holmes,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.78,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,-8,
+2023-11-12,202311120NOP,DAL,Q4,Markieff Morris,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.78,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,-8,
+2023-11-12,202311120NOP,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.38,2,3,.667,1,2,.500,0,0,0,2,2,1,0,0,0,0,5,5.0,-2,
+2023-11-12,202311120NOP,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202311120NOP.html,10.28,3,7,.429,0,1,.000,1,2,0,3,3,2,0,0,0,0,7,5.2,+2,.500
+2023-11-12,202311120NOP,NOP,Q1,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.35,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-10,
+2023-11-12,202311120NOP,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.63,1,2,.500,0,0,,4,6,0,0,0,0,0,0,3,1,6,0.8,-11,.667
+2023-11-12,202311120NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.03,1,3,.333,1,2,.500,0,0,1,4,5,0,0,1,0,0,3,3.9,-2,
+2023-11-12,202311120NOP,NOP,Q1,Matt Ryan,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.08,0,0,,0,0,,0,0,0,0,0,1,0,0,0,2,0,-0.1,-5,
+2023-11-12,202311120NOP,NOP,Q1,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.62,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2023-11-12,202311120NOP,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.65,1,1,1.000,1,1,1.000,3,3,0,0,0,0,0,0,0,2,6,4.9,+3,1.000
+2023-11-12,202311120NOP,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.97,0,0,,0,0,,0,0,0,2,2,0,0,0,0,1,0,0.2,-5,
+2023-11-12,202311120NOP,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202311120NOP.html,9.67,3,3,1.000,1,1,1.000,0,0,1,3,4,1,0,0,1,2,7,6.6,-11,
+2023-11-12,202311120NOP,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.57,2,3,.667,0,0,,0,2,0,1,1,3,0,0,1,1,4,2.9,-1,.000
+2023-11-12,202311120NOP,NOP,Q2,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.53,1,4,.250,1,3,.333,2,2,0,1,1,0,0,0,1,0,5,1.9,-7,1.000
+2023-11-12,202311120NOP,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.43,4,7,.571,0,0,,0,0,1,1,2,0,1,0,2,0,8,4.7,0,
+2023-11-12,202311120NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.07,0,3,.000,0,1,.000,0,0,1,1,2,1,0,1,0,0,0,0.3,-5,
+2023-11-12,202311120NOP,NOP,Q2,Matt Ryan,https://www.basketball-reference.com/boxscores/202311120NOP.html,4.77,0,0,,0,0,,0,0,2,0,2,0,0,0,0,0,0,1.4,-2,
+2023-11-12,202311120NOP,NOP,Q2,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.62,1,4,.250,1,2,.500,0,0,1,2,3,0,0,0,0,1,3,1.5,-3,
+2023-11-12,202311120NOP,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.47,0,0,,0,0,,0,0,1,0,1,1,0,0,2,0,0,-0.6,+3,
+2023-11-12,202311120NOP,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,2.88,0,2,.000,0,1,.000,0,0,1,0,1,0,0,0,1,0,0,-1.7,-4,
+2023-11-12,202311120NOP,NOP,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202311120NOP.html,9.47,2,5,.400,1,2,.500,0,0,1,0,1,1,0,0,1,1,5,2.3,-12,
+2023-11-12,202311120NOP,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202311120NOP.html,12.0,4,7,.571,1,2,.500,0,0,0,1,1,0,0,0,0,1,9,5.6,-11,
+2023-11-12,202311120NOP,NOP,Q3,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.27,0,3,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-1.4,-9,
+2023-11-12,202311120NOP,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.75,0,0,,0,0,,0,0,0,0,0,3,0,0,1,2,0,0.3,-6,
+2023-11-12,202311120NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202311120NOP.html,6.75,5,5,1.000,2,2,1.000,0,0,0,3,3,2,0,0,0,0,12,12.8,-6,
+2023-11-12,202311120NOP,NOP,Q3,Matt Ryan,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.25,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-5,
+2023-11-12,202311120NOP,NOP,Q3,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202311120NOP.html,2.53,1,2,.500,1,2,.500,0,0,0,0,0,0,1,0,0,0,3,3.0,+1,
+2023-11-12,202311120NOP,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202311120NOP.html,4.73,1,2,.500,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.0,-2,
+2023-11-12,202311120NOP,NOP,Q3,Cody Zeller,https://www.basketball-reference.com/boxscores/202311120NOP.html,5.25,0,1,.000,0,0,,0,0,1,1,2,1,0,0,0,0,0,1.0,-5,
+2023-11-12,202311120NOP,NOP,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.92,0,1,.000,0,1,.000,0,0,0,2,2,1,0,0,1,0,0,-0.4,-4,
+2023-11-12,202311120NOP,NOP,Q4,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202311120NOP.html,4.42,2,4,.500,1,2,.500,0,0,0,1,1,0,0,0,1,1,5,1.9,-2,
+2023-11-12,202311120NOP,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202311120NOP.html,3.92,2,2,1.000,0,0,,0,2,0,0,0,1,0,0,0,0,4,3.3,-4,.000
+2023-11-12,202311120NOP,NOP,Q4,Matt Ryan,https://www.basketball-reference.com/boxscores/202311120NOP.html,12.0,5,6,.833,4,5,.800,0,0,1,3,4,1,0,0,0,1,14,13.7,+12,
+2023-11-12,202311120NOP,NOP,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202311120NOP.html,12.0,2,2,1.000,1,1,1.000,0,0,0,3,3,1,0,0,1,1,5,4.6,+12,
+2023-11-12,202311120NOP,NOP,Q4,Cody Zeller,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.08,1,1,1.000,0,0,,1,2,0,3,3,1,0,0,1,1,3,2.5,+16,.500
+2023-11-12,202311120NOP,NOP,Q4,Dereon Seabron,https://www.basketball-reference.com/boxscores/202311120NOP.html,8.08,1,1,1.000,0,0,,1,2,0,3,3,2,0,1,0,2,3,4.5,+16,.500
+2023-11-12,202311120NOP,NOP,Q4,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202311120NOP.html,7.58,2,5,.400,0,0,,1,1,1,0,1,4,0,0,1,0,5,4.8,+14,1.000

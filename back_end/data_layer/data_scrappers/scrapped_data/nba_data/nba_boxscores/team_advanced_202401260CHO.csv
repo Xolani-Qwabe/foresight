@@ -1,0 +1,29 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-26,202401260CHO,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202401260CHO.html,29:45,.742,.722,.556,.111,0.0,10.3,5.7,11.5,1.6,17.3,0.0,13.3,159,89,11.3
+2024-01-26,202401260CHO,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202401260CHO.html,28:18,.712,.625,.350,.600,0.0,36.1,20.0,22.9,3.3,0.0,10.6,41.8,135,97,8.8
+2024-01-26,202401260CHO,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202401260CHO.html,25:10,.698,.714,.000,.286,10.0,16.2,13.5,33.0,0.0,3.4,20.2,16.4,139,104,3.8
+2024-01-26,202401260CHO,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202401260CHO.html,24:46,.622,.500,.429,.857,0.0,0.0,0.0,4.4,0.0,3.5,0.0,16.3,140,106,-5.2
+2024-01-26,202401260CHO,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202401260CHO.html,17:17,.000,.000,1.000,.000,0.0,5.9,3.3,0.0,0.0,0.0,0.0,2.4,0,108,-11.6
+2024-01-26,202401260CHO,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202401260CHO.html,22:44,.752,.750,.167,1.000,11.1,18.0,14.9,40.6,4.1,0.0,10.4,17.8,163,98,15.5
+2024-01-26,202401260CHO,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202401260CHO.html,20:16,.636,.611,.500,.111,12.5,45.4,30.7,16.5,0.0,0.0,0.0,39.0,138,103,6.6
+2024-01-26,202401260CHO,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202401260CHO.html,18:36,.833,.833,.667,.000,0.0,5.5,3.0,39.0,0.0,0.0,25.0,18.0,139,108,3.0
+2024-01-26,202401260CHO,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202401260CHO.html,15:11,.600,.600,.000,.000,33.3,13.5,22.3,15.6,3.1,5.6,0.0,13.8,162,95,5.8
+2024-01-26,202401260CHO,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202401260CHO.html,10:49,.333,.333,.333,.000,0.0,9.4,5.2,0.0,0.0,0.0,25.0,15.5,51,108,-18.6
+2024-01-26,202401260CHO,HOU,Reggie Bullock,https://www.basketball-reference.com/boxscores/202401260CHO.html,7:39,.833,.833,.667,.000,0.0,0.0,0.0,0.0,6.1,0.0,25.0,21.9,102,96,3.4
+2024-01-26,202401260CHO,HOU,Nate Hinton,https://www.basketball-reference.com/boxscores/202401260CHO.html,6:45,.500,.500,.000,.000,0.0,45.4,25.1,16.6,0.0,12.7,33.3,18.6,81,91,-6.8
+2024-01-26,202401260CHO,HOU,Boban Marjanović,https://www.basketball-reference.com/boxscores/202401260CHO.html,6:45,.798,1.000,.000,2.000,0.0,45.4,25.1,0.0,0.0,0.0,34.7,17.9,88,103,-6.8
+2024-01-26,202401260CHO,HOU,Jermaine Samuels,https://www.basketball-reference.com/boxscores/202401260CHO.html,5:59,.000,.000,.000,.000,21.1,17.1,18.9,0.0,0.0,0.0,0.0,7.0,83,107,-12.3
+2024-01-26,202401260CHO,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202401260CHO.html,35:47,.795,.727,.364,.455,2.9,21.2,11.0,15.7,1.3,0.0,23.3,20.6,122,134,1.3
+2024-01-26,202401260CHO,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202401260CHO.html,26:50,.646,.500,.000,1.833,7.6,23.5,14.7,6.0,0.0,9.6,0.0,17.3,143,131,2.8
+2024-01-26,202401260CHO,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202401260CHO.html,23:16,.444,.438,.563,.125,0.0,10.9,4.9,73.0,4.0,0.0,15.1,36.6,89,130,-1.2
+2024-01-26,202401260CHO,CHO,Brandon Miller,https://www.basketball-reference.com/boxscores/202401260CHO.html,19:37,.313,.313,.375,.000,0.0,6.4,2.9,16.3,0.0,0.0,0.0,17.5,72,140,-13.6
+2024-01-26,202401260CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202401260CHO.html,19:17,.355,.375,.125,.125,0.0,6.6,2.9,0.0,0.0,0.0,0.0,18.7,68,140,-15.3
+2024-01-26,202401260CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202401260CHO.html,28:34,.536,.444,.222,.556,0.0,8.8,4.0,11.9,0.0,9.0,15.2,19.8,95,134,-3.7
+2024-01-26,202401260CHO,CHO,Ish Smith,https://www.basketball-reference.com/boxscores/202401260CHO.html,19:48,.000,.000,.000,.000,0.0,31.9,14.3,13.9,0.0,0.0,25.0,8.7,25,135,-17.5
+2024-01-26,202401260CHO,CHO,Nick Smith Jr.,https://www.basketball-reference.com/boxscores/202401260CHO.html,17:21,.833,.833,.333,.000,0.0,7.3,3.3,0.0,0.0,0.0,33.3,22.2,88,140,-7.3
+2024-01-26,202401260CHO,CHO,Leaky Black,https://www.basketball-reference.com/boxscores/202401260CHO.html,13:07,.129,.000,.333,.667,15.6,19.3,17.2,0.0,0.0,0.0,0.0,12.7,62,137,-19.7
+2024-01-26,202401260CHO,CHO,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202401260CHO.html,9:23,.868,.750,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.1,172,142,1.9
+2024-01-26,202401260CHO,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202401260CHO.html,6:45,.417,.417,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.1,76,142,-9.1
+2024-01-26,202401260CHO,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202401260CHO.html,6:45,.680,.600,.200,.400,0.0,18.7,8.4,0.0,0.0,0.0,0.0,37.3,131,137,4.4
+2024-01-26,202401260CHO,CHO,Nathan Mensah,https://www.basketball-reference.com/boxscores/202401260CHO.html,6:45,,,,,0.0,0.0,0.0,20.3,6.9,12.7,,0.0,226,117,4.8
+2024-01-26,202401260CHO,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202401260CHO.html,6:45,.347,.000,.000,1.000,0.0,18.7,8.4,20.3,13.8,0.0,0.0,18.3,88,106,8.9

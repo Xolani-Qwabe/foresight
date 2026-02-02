@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-28,202303280WAS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202303280WAS.html,31:52,.674,.632,.368,.211,0.0,36.6,16.7,26.5,0.0,2.4,12.6,32.6,119,126,4.7
+2023-03-28,202303280WAS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202303280WAS.html,30:14,.875,.875,.875,.000,0.0,0.0,0.0,21.4,3.1,0.0,11.1,13.0,152,125,5.1
+2023-03-28,202303280WAS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202303280WAS.html,26:42,.474,.474,.211,.000,4.1,9.7,6.7,25.0,1.7,0.0,17.4,37.6,84,127,-8.7
+2023-03-28,202303280WAS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202303280WAS.html,25:40,.250,.250,.700,.000,0.0,20.2,9.2,13.6,0.0,6.0,0.0,17.0,67,124,-8.9
+2023-03-28,202303280WAS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202303280WAS.html,23:59,.595,.500,.600,.400,0.0,16.2,7.4,4.9,0.0,6.5,14.5,12.5,105,124,-3.6
+2023-03-28,202303280WAS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202303280WAS.html,25:55,.488,.333,.667,.833,8.4,20.0,13.7,9.0,0.0,3.0,10.9,15.5,109,127,-5.1
+2023-03-28,202303280WAS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202303280WAS.html,23:05,.591,.591,.364,.000,0.0,16.9,7.7,12.8,0.0,0.0,0.0,20.8,119,130,-3.5
+2023-03-28,202303280WAS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202303280WAS.html,15:09,,,,,14.4,17.1,15.6,7.0,3.1,10.2,100.0,2.9,112,114,-3.0
+2023-03-28,202303280WAS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202303280WAS.html,9:21,.625,.625,.750,.000,0.0,13.9,6.3,29.6,5.0,0.0,0.0,18.7,135,120,11.3
+2023-03-28,202303280WAS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202303280WAS.html,9:21,.800,.800,.200,.000,23.3,13.9,19.0,42.0,0.0,0.0,0.0,23.4,172,131,16.3
+2023-03-28,202303280WAS,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202303280WAS.html,9:21,.000,.000,1.000,.000,0.0,0.0,0.0,11.4,0.0,0.0,0.0,4.7,54,132,-9.3
+2023-03-28,202303280WAS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202303280WAS.html,9:21,.500,.500,.600,.000,0.0,27.7,12.7,14.8,0.0,0.0,16.7,28.0,85,129,-7.7
+2023-03-28,202303280WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202303280WAS.html,36:31,.687,.688,.313,.313,0.0,29.9,16.2,16.1,1.3,0.0,18.0,25.7,114,107,3.3
+2023-03-28,202303280WAS,WAS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202303280WAS.html,33:58,.746,.738,.238,.048,7.6,35.3,22.7,24.8,1.4,2.9,0.0,26.6,155,104,18.6
+2023-03-28,202303280WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202303280WAS.html,33:11,.631,.591,.545,.182,3.9,3.3,3.6,6.2,0.0,0.0,0.0,15.1,134,114,-1.2
+2023-03-28,202303280WAS,WAS,Delon Wright,https://www.basketball-reference.com/boxscores/202303280WAS.html,30:35,.633,.700,.400,.600,0.0,17.8,9.7,6.4,3.0,0.0,13.7,10.1,112,105,-2.1
+2023-03-28,202303280WAS,WAS,Monte Morris,https://www.basketball-reference.com/boxscores/202303280WAS.html,28:30,.633,.633,.400,.000,0.0,11.5,6.2,39.0,1.6,6.9,0.0,22.2,143,104,13.2
+2023-03-28,202303280WAS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202303280WAS.html,23:14,.389,.389,.556,.000,11.2,28.2,20.4,4.3,0.0,0.0,0.0,16.4,98,110,-7.1
+2023-03-28,202303280WAS,WAS,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202303280WAS.html,17:15,.462,.462,.538,.000,0.0,6.3,3.4,13.9,0.0,0.0,0.0,31.8,98,114,-6.4
+2023-03-28,202303280WAS,WAS,Taj Gibson,https://www.basketball-reference.com/boxscores/202303280WAS.html,11:52,.694,.500,.000,1.000,10.9,0.0,5.0,8.1,3.9,0.0,41.0,17.4,101,106,-8.3
+2023-03-28,202303280WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202303280WAS.html,11:34,.667,.667,.000,.000,0.0,0.0,0.0,18.2,0.0,0.0,25.0,14.6,111,115,-1.2
+2023-03-28,202303280WAS,WAS,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202303280WAS.html,11:15,.333,.333,.333,.000,0.0,0.0,0.0,25.7,4.1,0.0,0.0,11.3,110,105,1.9
+2023-03-28,202303280WAS,WAS,Xavier Cooks,https://www.basketball-reference.com/boxscores/202303280WAS.html,2:05,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,40.5,65,115,-10.8

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-02,202101020ATL,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101020ATL.html,36:37,.414,.350,.400,.200,10.9,19.9,15.3,23.1,4.1,0.0,8.4,13.7,113,90,7.2
+2021-01-02,202101020ATL,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202101020ATL.html,35:54,.668,.611,.278,.278,2.8,2.9,2.8,16.3,4.2,0.0,0.0,23.8,149,96,15.0
+2021-01-02,202101020ATL,CLE,Dante Exum,https://www.basketball-reference.com/boxscores/202101020ATL.html,34:37,.375,.375,.375,.000,2.9,12.1,7.4,4.1,1.5,0.0,20.0,12.2,72,98,-7.3
+2021-01-02,202101020ATL,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202101020ATL.html,34:20,.261,.214,.214,.214,0.0,6.1,3.0,8.3,1.5,2.6,24.6,25.0,49,99,-16.6
+2021-01-02,202101020ATL,CLE,Andre Drummond,https://www.basketball-reference.com/boxscores/202101020ATL.html,20:21,.600,.600,.000,.000,19.7,35.9,27.6,0.0,0.0,0.0,28.6,29.1,90,91,-4.8
+2021-01-02,202101020ATL,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202101020ATL.html,25:50,.458,.458,.750,.000,0.0,16.2,7.9,12.2,0.0,0.0,0.0,19.6,109,100,0.7
+2021-01-02,202101020ATL,CLE,JaVale McGee,https://www.basketball-reference.com/boxscores/202101020ATL.html,24:56,.530,.545,.000,.455,20.1,16.7,18.4,29.1,4.0,3.6,13.2,25.8,113,88,9.5
+2021-01-02,202101020ATL,CLE,Damyean Dotson,https://www.basketball-reference.com/boxscores/202101020ATL.html,13:23,.583,.583,.500,.000,0.0,7.8,3.8,0.0,0.0,0.0,0.0,19.0,123,104,0.6
+2021-01-02,202101020ATL,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202101020ATL.html,9:08,.000,.000,1.000,.000,0.0,11.4,5.6,0.0,0.0,0.0,0.0,9.3,0,102,-15.6
+2021-01-02,202101020ATL,CLE,Thon Maker,https://www.basketball-reference.com/boxscores/202101020ATL.html,4:54,1.136,,,,0.0,0.0,0.0,25.8,0.0,0.0,53.2,16.2,118,106,1.2
+2021-01-02,202101020ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202101020ATL.html,34:08,.425,.350,.500,.400,0.0,11.7,6.0,22.8,0.0,2.3,14.5,17.1,97,106,-1.9
+2021-01-02,202101020ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202101020ATL.html,34:06,.450,.438,.313,.250,3.1,8.8,6.0,53.0,1.5,0.0,25.3,29.5,90,105,-2.5
+2021-01-02,202101020ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202101020ATL.html,30:55,.563,.667,.000,.417,27.0,25.9,26.4,0.0,4.9,5.0,17.4,23.6,98,88,3.5
+2021-01-02,202101020ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202101020ATL.html,30:55,.623,.545,.364,.545,3.4,12.9,8.3,11.4,3.3,2.5,18.0,22.8,112,98,6.3
+2021-01-02,202101020ATL,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202101020ATL.html,23:57,.250,.250,.250,.000,4.4,4.2,4.3,6.1,2.1,0.0,33.3,10.6,51,106,-10.4
+2021-01-02,202101020ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202101020ATL.html,27:57,.591,.591,.455,.000,11.2,25.0,18.3,6.5,1.8,2.8,21.4,21.2,99,96,3.8
+2021-01-02,202101020ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202101020ATL.html,23:11,.458,.458,.750,.000,0.0,8.6,4.4,15.5,2.2,0.0,7.7,23.7,99,104,1.5
+2021-01-02,202101020ATL,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202101020ATL.html,13:54,.750,.750,.000,.000,0.0,0.0,0.0,14.0,0.0,0.0,0.0,12.2,157,112,2.6
+2021-01-02,202101020ATL,ATL,Solomon Hill,https://www.basketball-reference.com/boxscores/202101020ATL.html,10:31,.000,.000,1.000,.000,0.0,9.5,4.9,0.0,0.0,0.0,0.0,8.1,0,108,-19.9
+2021-01-02,202101020ATL,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202101020ATL.html,10:26,.000,.000,.333,.000,10.0,28.8,19.6,0.0,0.0,0.0,0.0,12.2,20,100,-15.5

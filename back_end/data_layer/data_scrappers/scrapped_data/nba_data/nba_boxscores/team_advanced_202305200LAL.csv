@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-05-20,202305200LAL,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202305200LAL.html,41:36,.619,.603,.379,.069,0.0,17.9,9.6,25.9,2.4,0.0,3.2,35.2,122,111,8.2
+2023-05-20,202305200LAL,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202305200LAL.html,38:15,.543,.526,.263,.368,3.2,13.9,9.0,30.7,1.3,0.0,8.3,29.8,114,114,2.7
+2023-05-20,202305200LAL,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202305200LAL.html,38:06,.589,.545,.909,.182,3.2,25.2,15.0,19.4,1.3,0.0,0.0,14.8,136,111,5.8
+2023-05-20,202305200LAL,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202305200LAL.html,34:14,.781,.800,.700,.200,0.0,9.3,5.0,0.0,2.9,0.0,8.4,16.4,125,112,3.3
+2023-05-20,202305200LAL,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202305200LAL.html,32:12,.518,.400,.200,.800,3.8,6.6,5.3,14.5,0.0,2.9,12.9,11.4,120,118,-2.0
+2023-05-20,202305200LAL,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202305200LAL.html,28:48,.631,.591,.455,.182,8.5,11.1,9.9,24.5,1.8,0.0,0.0,19.5,145,114,4.6
+2023-05-20,202305200LAL,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202305200LAL.html,23:27,.833,.833,.667,.000,0.0,18.2,9.7,5.1,0.0,0.0,0.0,6.1,162,116,-2.4
+2023-05-20,202305200LAL,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202305200LAL.html,3:22,,,,,0.0,31.7,17.0,0.0,0.0,0.0,,0.0,0,111,-9.9
+2023-05-20,202305200LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202305200LAL.html,42:57,.521,.500,.474,.368,0.0,20.1,9.3,46.2,0.0,0.0,8.3,24.7,116,128,6.5
+2023-05-20,202305200LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202305200LAL.html,41:52,.651,.611,.000,.444,12.7,38.2,24.6,4.5,0.0,4.9,4.4,23.7,134,121,6.1
+2023-05-20,202305200LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202305200LAL.html,39:40,.910,.850,.500,.600,5.4,15.5,10.1,20.5,1.3,0.0,24.0,18.5,140,125,8.7
+2023-05-20,202305200LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202305200LAL.html,20:01,.188,.188,.750,.000,0.0,18.4,8.6,26.9,0.0,0.0,27.3,24.3,49,128,-16.3
+2023-05-20,202305200LAL,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202305200LAL.html,13:34,.250,.250,.250,.000,0.0,9.1,4.2,0.0,0.0,0.0,0.0,13.0,55,129,-12.6
+2023-05-20,202305200LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202305200LAL.html,33:44,.505,.458,.250,.167,3.2,18.2,10.2,4.6,1.5,0.0,7.2,18.2,102,124,-2.3
+2023-05-20,202305200LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202305200LAL.html,24:39,.425,.400,.400,.400,0.0,0.0,0.0,5.7,2.0,0.0,14.5,12.3,80,125,-11.0
+2023-05-20,202305200LAL,LAL,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202305200LAL.html,18:48,.666,.600,.800,.800,5.7,0.0,3.0,15.5,0.0,0.0,0.0,15.9,150,130,4.8
+2023-05-20,202305200LAL,LAL,Malik Beasley,https://www.basketball-reference.com/boxscores/202305200LAL.html,0:57,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.5,0,130,-50.3
+2023-05-20,202305200LAL,LAL,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202305200LAL.html,0:57,.500,.500,.500,.000,100.0,0.0,60.2,0.0,0.0,0.0,0.0,92.9,129,130,17.5
+2023-05-20,202305200LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202305200LAL.html,0:57,,,,,100.0,0.0,60.2,0.0,0.0,0.0,,0.0,221,130,15.5
+2023-05-20,202305200LAL,LAL,Shaquille Harrison,https://www.basketball-reference.com/boxscores/202305200LAL.html,0:57,,,,,0.0,0.0,0.0,100.0,0.0,0.0,,0.0,226,130,12.1
+2023-05-20,202305200LAL,LAL,Tristan Thompson,https://www.basketball-reference.com/boxscores/202305200LAL.html,0:57,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,130,-12.7

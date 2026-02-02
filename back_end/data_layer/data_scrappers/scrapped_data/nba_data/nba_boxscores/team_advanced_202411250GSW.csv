@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-25,202411250GSW,BRK,Jalen Wilson,https://www.basketball-reference.com/boxscores/202411250GSW.html,40:51,.682,.591,.727,.455,0.0,17.9,9.7,6.7,0.0,2.5,7.0,15.4,134,122,-0.9
+2024-11-25,202411250GSW,BRK,Ziaire Williams,https://www.basketball-reference.com/boxscores/202411250GSW.html,37:17,.696,.636,.273,.545,6.6,22.4,15.1,15.5,2.6,0.0,18.0,19.8,129,116,2.6
+2024-11-25,202411250GSW,BRK,Dennis Schröder,https://www.basketball-reference.com/boxscores/202411250GSW.html,31:13,.735,.667,.444,.389,3.9,13.4,9.0,42.0,3.1,0.0,12.5,34.2,141,117,9.9
+2024-11-25,202411250GSW,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202411250GSW.html,23:09,.792,.682,.636,.727,0.0,13.5,7.3,7.3,0.0,0.0,6.4,29.7,151,124,6.1
+2024-11-25,202411250GSW,BRK,Cameron Johnson,https://www.basketball-reference.com/boxscores/202411250GSW.html,13:56,.833,.833,.333,.000,17.7,0.0,8.1,20.2,3.5,0.0,0.0,9.6,193,120,9.3
+2024-11-25,202411250GSW,BRK,Keon Johnson,https://www.basketball-reference.com/boxscores/202411250GSW.html,29:31,.405,.444,.778,.222,0.0,7.1,3.8,0.0,0.0,0.0,0.0,14.8,80,126,-12.3
+2024-11-25,202411250GSW,BRK,Shake Milton,https://www.basketball-reference.com/boxscores/202411250GSW.html,28:29,.597,.600,.300,.200,0.0,11.0,5.9,15.5,0.0,0.0,8.4,18.5,119,125,-4.3
+2024-11-25,202411250GSW,BRK,Tyrese Martin,https://www.basketball-reference.com/boxscores/202411250GSW.html,17:50,.300,.300,1.000,.000,6.9,29.3,19.0,21.1,2.7,5.7,16.7,14.9,91,110,-2.0
+2024-11-25,202411250GSW,BRK,Trendon Watford,https://www.basketball-reference.com/boxscores/202411250GSW.html,17:44,.800,.800,.600,.000,6.9,17.7,12.7,8.2,0.0,5.8,16.7,15.0,136,119,0.9
+2024-11-25,202411250GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202411250GSW.html,32:57,.628,.615,.308,.231,6.3,11.2,8.6,4.2,0.0,0.0,6.5,19.7,123,135,-5.2
+2024-11-25,202411250GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202411250GSW.html,29:28,.746,.706,.941,.235,0.0,16.7,7.7,35.7,1.6,0.0,13.8,31.2,134,130,12.6
+2024-11-25,202411250GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202411250GSW.html,28:55,.387,.417,.500,.667,0.0,25.5,11.7,27.9,0.0,0.0,20.5,14.3,96,133,-8.3
+2024-11-25,202411250GSW,GSW,Lindy Waters III,https://www.basketball-reference.com/boxscores/202411250GSW.html,27:42,.623,.600,.500,.100,0.0,17.8,8.2,4.8,1.7,4.6,16.1,19.0,102,127,-6.0
+2024-11-25,202411250GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202411250GSW.html,17:05,.571,.571,.000,.000,6.1,14.4,9.9,8.3,0.0,7.4,22.2,22.3,93,130,-10.6
+2024-11-25,202411250GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202411250GSW.html,22:38,.595,.500,.600,.400,4.6,0.0,2.5,31.2,0.0,5.6,0.0,11.0,162,134,2.1
+2024-11-25,202411250GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202411250GSW.html,21:48,.444,.444,.222,.000,19.1,28.2,23.3,24.3,4.4,0.0,0.0,17.5,131,121,2.0
+2024-11-25,202411250GSW,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202411250GSW.html,16:44,.362,.333,.667,.083,6.2,14.7,10.1,7.9,5.8,0.0,0.0,31.4,88,121,-8.1
+2024-11-25,202411250GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202411250GSW.html,16:07,.938,.938,.625,.000,6.5,7.6,7.0,11.0,0.0,15.7,0.0,21.0,177,126,17.6
+2024-11-25,202411250GSW,GSW,Kyle Anderson,https://www.basketball-reference.com/boxscores/202411250GSW.html,14:05,.667,.667,.000,.000,0.0,17.5,8.0,26.8,0.0,0.0,25.0,12.0,122,134,-4.0
+2024-11-25,202411250GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202411250GSW.html,12:31,.515,.667,.000,.667,8.3,29.5,18.0,0.0,7.7,0.0,20.5,16.5,82,113,-8.7

@@ -1,0 +1,64 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2021-03-26,202103260NOP,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103260NOP.html,9.87,3,5,.600,0,0,0,0,0,0,0,1,0,0,0,0,6,4.4,-3,,
+2021-03-26,202103260NOP,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.83,3,6,.500,1,1,0,0,1,1,2,2,0,1,0,0,7,7.1,-2,1.000,
+2021-03-26,202103260NOP,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202103260NOP.html,10.85,3,6,.500,1,4,0,0,0,0,0,2,0,0,0,0,7,5.4,-8,.250,
+2021-03-26,202103260NOP,DEN,Q1,Will Barton,https://www.basketball-reference.com/boxscores/202103260NOP.html,7.18,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,0,0,-2.7,-6,,
+2021-03-26,202103260NOP,DEN,Q1,Paul Millsap,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.73,1,3,.333,0,0,1,2,2,2,4,1,0,0,0,0,3,3.6,-5,,.500
+2021-03-26,202103260NOP,DEN,Q1,PJ Dozier,https://www.basketball-reference.com/boxscores/202103260NOP.html,4.82,0,1,.000,0,0,0,0,0,2,2,0,0,0,0,0,0,-0.1,-1,,
+2021-03-26,202103260NOP,DEN,Q1,JaMychal Green,https://www.basketball-reference.com/boxscores/202103260NOP.html,2.77,0,1,.000,0,1,0,0,1,1,2,0,0,0,0,2,0,-0.5,-5,.000,
+2021-03-26,202103260NOP,DEN,Q1,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103260NOP.html,4.82,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.1,-1,,
+2021-03-26,202103260NOP,DEN,Q1,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202103260NOP.html,2.13,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,-4,1.000,
+2021-03-26,202103260NOP,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103260NOP.html,10.55,4,8,.500,1,2,0,0,1,1,2,4,1,0,0,1,9,9.4,+5,.500,
+2021-03-26,202103260NOP,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103260NOP.html,10.55,3,5,.600,1,1,0,0,1,1,2,0,0,0,0,1,7,5.3,+5,1.000,
+2021-03-26,202103260NOP,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202103260NOP.html,7.92,2,3,.667,0,0,0,0,0,0,0,2,0,0,1,1,4,2.7,-4,,
+2021-03-26,202103260NOP,DEN,Q2,Will Barton,https://www.basketball-reference.com/boxscores/202103260NOP.html,10.55,1,1,1.000,1,1,0,0,0,0,0,1,1,0,0,0,3,4.4,+5,1.000,
+2021-03-26,202103260NOP,DEN,Q2,Paul Millsap,https://www.basketball-reference.com/boxscores/202103260NOP.html,4.73,1,1,1.000,0,0,1,1,1,0,1,0,0,0,0,0,3,3.4,+2,,1.000
+2021-03-26,202103260NOP,DEN,Q2,PJ Dozier,https://www.basketball-reference.com/boxscores/202103260NOP.html,4.67,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.1,-6,,
+2021-03-26,202103260NOP,DEN,Q2,JaMychal Green,https://www.basketball-reference.com/boxscores/202103260NOP.html,5.53,1,2,.500,0,1,0,0,1,0,1,1,0,0,0,0,2,2.4,-5,.000,
+2021-03-26,202103260NOP,DEN,Q2,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103260NOP.html,4.05,0,1,.000,0,0,0,0,0,1,1,0,0,0,0,1,0,-0.8,-5,,
+2021-03-26,202103260NOP,DEN,Q2,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202103260NOP.html,1.45,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-7,,
+2021-03-26,202103260NOP,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,5,9,.556,1,1,0,0,0,2,2,4,1,1,0,1,11,11.4,+8,1.000,
+2021-03-26,202103260NOP,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103260NOP.html,10.93,3,4,.750,2,2,0,1,0,0,0,0,0,0,1,0,8,5.0,+12,1.000,.000
+2021-03-26,202103260NOP,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,4,5,.800,1,1,0,0,1,1,2,5,0,0,1,0,9,10.6,+8,1.000,
+2021-03-26,202103260NOP,DEN,Q3,Will Barton,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,0,1,.000,0,1,0,0,0,0,0,0,0,2,0,1,0,0.3,+8,.000,
+2021-03-26,202103260NOP,DEN,Q3,Paul Millsap,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.18,1,2,.500,1,1,0,0,0,1,1,0,1,1,1,1,3,2.6,+4,1.000,
+2021-03-26,202103260NOP,DEN,Q3,PJ Dozier,https://www.basketball-reference.com/boxscores/202103260NOP.html,3.82,0,1,.000,0,0,0,0,0,3,3,0,0,0,0,0,0,0.2,+4,,
+2021-03-26,202103260NOP,DEN,Q3,JaMychal Green,https://www.basketball-reference.com/boxscores/202103260NOP.html,1.07,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,,
+2021-03-26,202103260NOP,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.7,5,8,.625,1,2,0,0,1,1,2,0,0,0,1,1,11,7.0,+13,.500,
+2021-03-26,202103260NOP,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103260NOP.html,9.2,1,2,.500,1,2,0,0,1,0,1,0,0,0,1,0,3,1.7,+1,.500,
+2021-03-26,202103260NOP,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.7,1,4,.250,0,1,1,1,0,1,1,2,1,0,0,0,3,3.3,+13,.000,1.000
+2021-03-26,202103260NOP,DEN,Q4,Will Barton,https://www.basketball-reference.com/boxscores/202103260NOP.html,6.93,0,0,,0,0,2,2,0,2,2,0,0,1,0,0,2,3.3,+16,,1.000
+2021-03-26,202103260NOP,DEN,Q4,Paul Millsap,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.67,3,6,.500,1,3,0,0,0,1,1,2,1,0,0,1,7,6.3,+2,.333,
+2021-03-26,202103260NOP,DEN,Q4,PJ Dozier,https://www.basketball-reference.com/boxscores/202103260NOP.html,7.87,1,3,.333,0,1,0,0,0,1,1,1,0,0,0,0,2,1.3,-5,.000,
+2021-03-26,202103260NOP,DEN,Q4,JaMychal Green,https://www.basketball-reference.com/boxscores/202103260NOP.html,6.63,0,1,.000,0,1,0,0,0,1,1,0,1,1,0,3,0,0.1,-3,.000,
+2021-03-26,202103260NOP,DEN,Q4,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103260NOP.html,3.3,0,0,,0,0,0,0,0,2,2,0,0,0,0,0,0,0.6,-7,,
+2021-03-26,202103260NOP,NOP,Q1,Steven Adams,https://www.basketball-reference.com/boxscores/202103260NOP.html,9.87,1,1,1.000,0,0,0,0,0,0,0,0,1,0,0,0,2,2.7,+3,,
+2021-03-26,202103260NOP,NOP,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,1,2,.500,1,2,0,0,0,1,1,4,0,2,0,1,3,6.1,+7,.500,
+2021-03-26,202103260NOP,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202103260NOP.html,9.95,5,6,.833,1,1,4,5,0,2,2,1,0,0,0,0,15,13.7,+11,1.000,.800
+2021-03-26,202103260NOP,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202103260NOP.html,9.23,3,7,.429,2,2,0,0,1,0,1,1,0,0,0,0,8,5.7,+2,1.000,
+2021-03-26,202103260NOP,NOP,Q1,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202103260NOP.html,7.18,1,2,.500,1,2,0,0,0,1,1,5,0,0,0,0,3,5.8,+6,.500,
+2021-03-26,202103260NOP,NOP,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202103260NOP.html,4.82,0,1,.000,0,1,0,0,0,1,1,0,0,0,0,0,0,-0.4,+1,.000,
+2021-03-26,202103260NOP,NOP,Q1,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202103260NOP.html,4.82,1,2,.500,0,1,0,0,0,1,1,1,0,0,0,1,2,1.6,+1,.000,
+2021-03-26,202103260NOP,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202103260NOP.html,2.13,0,0,,0,0,0,0,0,2,2,0,0,0,1,0,0,-0.4,+4,,
+2021-03-26,202103260NOP,NOP,Q2,Steven Adams,https://www.basketball-reference.com/boxscores/202103260NOP.html,10.55,1,3,.333,0,1,2,2,0,2,2,0,0,0,0,1,4,2.5,-5,.000,1.000
+2021-03-26,202103260NOP,NOP,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202103260NOP.html,6.47,2,3,.667,2,3,0,0,0,0,0,0,0,0,1,0,6,3.7,-3,.667,
+2021-03-26,202103260NOP,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202103260NOP.html,6.97,2,2,1.000,0,0,0,0,0,1,1,1,0,0,0,1,4,4.0,+6,,
+2021-03-26,202103260NOP,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.38,0,2,.000,0,0,0,0,0,0,0,1,0,1,0,0,0,0.0,-4,,
+2021-03-26,202103260NOP,NOP,Q2,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,2,3,.667,1,2,4,5,1,0,1,2,1,0,1,0,9,9.4,+2,.500,.800
+2021-03-26,202103260NOP,NOP,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.65,2,2,1.000,1,1,0,0,1,2,3,1,0,0,0,0,5,6.4,+2,1.000,
+2021-03-26,202103260NOP,NOP,Q2,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202103260NOP.html,5.53,1,2,.500,0,1,0,0,0,0,0,1,0,0,0,1,2,1.3,+5,.000,
+2021-03-26,202103260NOP,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202103260NOP.html,1.45,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+7,,
+2021-03-26,202103260NOP,NOP,Q3,Steven Adams,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,1,3,.333,0,0,0,0,0,1,1,1,0,1,0,0,2,2.0,-8,,
+2021-03-26,202103260NOP,NOP,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,2,5,.400,1,2,0,0,0,1,1,0,1,0,0,0,5,3.6,-8,.500,
+2021-03-26,202103260NOP,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202103260NOP.html,9.77,5,5,1.000,0,0,0,0,0,2,2,2,1,1,2,1,10,9.8,+2,,
+2021-03-26,202103260NOP,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202103260NOP.html,10.42,1,3,.333,0,1,0,0,1,1,2,3,0,0,2,0,2,1.4,-14,.000,
+2021-03-26,202103260NOP,NOP,Q3,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,2,5,.400,0,0,0,0,0,2,2,1,1,0,0,1,4,3.2,-8,,
+2021-03-26,202103260NOP,NOP,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202103260NOP.html,3.82,0,0,,0,0,0,0,0,0,0,1,0,1,0,0,0,1.4,-4,,
+2021-03-26,202103260NOP,NOP,Q4,Steven Adams,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.7,0,0,,0,0,0,0,1,0,1,0,0,0,1,0,0,-0.3,-13,,
+2021-03-26,202103260NOP,NOP,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.67,0,3,.000,0,3,0,0,1,2,3,1,1,0,2,1,0,-1.5,-2,.000,
+2021-03-26,202103260NOP,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202103260NOP.html,12.0,4,6,.667,0,0,2,2,0,5,5,1,0,1,1,1,10,8.9,-6,,1.000
+2021-03-26,202103260NOP,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202103260NOP.html,8.7,1,5,.200,1,3,0,0,0,0,0,0,0,0,0,1,3,-0.5,-13,.333,
+2021-03-26,202103260NOP,NOP,Q4,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202103260NOP.html,2.92,0,1,.000,0,1,0,0,0,0,0,1,0,0,0,0,0,0.0,-2,.000,
+2021-03-26,202103260NOP,NOP,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202103260NOP.html,9.85,1,3,.333,1,1,2,2,0,4,4,0,1,0,1,1,5,4.1,-4,1.000,1.000
+2021-03-26,202103260NOP,NOP,Q4,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202103260NOP.html,5.87,0,1,.000,0,1,2,2,0,0,0,1,0,0,0,0,2,2.0,+3,.000,1.000
+2021-03-26,202103260NOP,NOP,Q4,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202103260NOP.html,3.3,0,0,,0,0,2,2,0,0,0,0,0,0,0,0,2,2.0,+7,,1.000

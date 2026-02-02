@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-15,202001150PHI,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202001150PHI.html,36:48,.320,.310,.095,.095,8.3,8.5,8.4,17.3,2.7,2.2,8.4,27.5,79,118,-5.6
+2020-01-15,202001150PHI,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202001150PHI.html,36:39,.637,.594,.500,.625,0.0,5.7,2.8,38.1,0.0,0.0,8.9,25.9,131,126,5.2
+2020-01-15,202001150PHI,BRK,Taurean Prince,https://www.basketball-reference.com/boxscores/202001150PHI.html,32:48,.727,.722,.444,.333,0.0,22.3,11.0,0.0,4.5,0.0,27.9,18.5,96,111,1.6
+2020-01-15,202001150PHI,BRK,Jarrett Allen,https://www.basketball-reference.com/boxscores/202001150PHI.html,31:24,.833,.875,.000,.625,6.5,26.6,16.4,5.6,0.0,0.0,8.9,15.1,154,119,3.2
+2020-01-15,202001150PHI,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202001150PHI.html,26:13,.304,.333,.333,.222,7.8,15.9,11.8,0.0,1.9,0.0,16.8,19.2,62,118,-11.8
+2020-01-15,202001150PHI,BRK,Caris LeVert,https://www.basketball-reference.com/boxscores/202001150PHI.html,22:33,.475,.450,.300,.600,4.5,9.3,6.9,21.7,2.2,0.0,7.3,25.6,104,120,-0.5
+2020-01-15,202001150PHI,BRK,Wilson Chandler,https://www.basketball-reference.com/boxscores/202001150PHI.html,16:08,.850,.800,.600,.400,0.0,12.9,6.4,10.2,0.0,0.0,0.0,15.5,175,124,10.9
+2020-01-15,202001150PHI,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202001150PHI.html,15:05,.250,.250,.500,.000,6.8,6.9,6.8,0.0,3.2,0.0,0.0,11.2,70,117,-11.4
+2020-01-15,202001150PHI,BRK,Rodions Kurucs,https://www.basketball-reference.com/boxscores/202001150PHI.html,12:09,.000,.000,.000,.000,0.0,25.8,12.7,0.0,0.0,0.0,0.0,7.0,0,121,-12.0
+2020-01-15,202001150PHI,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202001150PHI.html,10:13,.667,.667,.000,.000,20.0,10.2,15.2,49.3,4.8,0.0,25.0,16.6,134,114,13.1
+2020-01-15,202001150PHI,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202001150PHI.html,41:07,.622,.692,.000,.538,5.1,9.9,7.5,37.2,1.2,1.9,19.9,21.1,120,111,1.9
+2020-01-15,202001150PHI,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/202001150PHI.html,36:41,.545,.458,.333,.333,2.8,11.1,7.0,6.8,1.3,6.3,12.7,18.6,109,107,-0.6
+2020-01-15,202001150PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202001150PHI.html,35:22,.797,.800,.300,.150,3.0,26.0,14.6,15.7,1.4,0.0,0.0,26.1,164,108,16.3
+2020-01-15,202001150PHI,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202001150PHI.html,32:40,.444,.357,.643,.286,6.4,18.8,12.6,22.5,3.0,2.4,6.0,22.2,114,104,3.2
+2020-01-15,202001150PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202001150PHI.html,26:56,.625,.625,.750,.000,0.0,11.4,5.7,4.3,3.6,11.5,0.0,6.4,137,97,6.3
+2020-01-15,202001150PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202001150PHI.html,20:51,.493,.500,.462,.385,10.0,0.0,5.0,0.0,0.0,0.0,11.6,35.7,94,119,-8.4
+2020-01-15,202001150PHI,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/202001150PHI.html,15:28,.600,.600,.200,.000,13.5,19.8,16.7,0.0,0.0,0.0,16.7,16.8,112,111,-9.2
+2020-01-15,202001150PHI,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/202001150PHI.html,12:39,1.000,1.000,.000,.000,8.2,48.4,28.6,0.0,0.0,12.2,50.0,13.7,90,94,-0.4
+2020-01-15,202001150PHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202001150PHI.html,11:23,.000,.000,.000,.000,18.3,9.0,13.6,0.0,0.0,0.0,0.0,3.8,108,115,-9.1
+2020-01-15,202001150PHI,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202001150PHI.html,6:53,.410,.250,.250,.500,0.0,0.0,0.0,36.7,0.0,0.0,0.0,30.7,113,117,-6.9

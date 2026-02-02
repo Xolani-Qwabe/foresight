@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-12,202111120GSW,CHI,Lonzo Ball,https://www.basketball-reference.com/boxscores/202111120GSW.html,36:40,.227,.227,.636,.000,0.0,9.1,4.6,12.5,5.2,2.8,15.4,15.8,52,112,-3.6
+2021-11-12,202111120GSW,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202111120GSW.html,35:47,.517,.346,.231,.769,3.2,3.1,3.2,23.4,1.3,0.0,10.3,24.2,109,124,-0.5
+2021-11-12,202111120GSW,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202111120GSW.html,34:27,.643,.647,.235,.118,0.0,19.4,9.8,0.0,1.4,0.0,28.1,32.2,82,119,-5.0
+2021-11-12,202111120GSW,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202111120GSW.html,16:11,.255,.200,.600,.400,0.0,27.6,14.0,0.0,0.0,0.0,14.5,19.0,46,120,-16.6
+2021-11-12,202111120GSW,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202111120GSW.html,13:36,.387,.333,.000,.667,8.4,32.8,20.8,11.6,0.0,0.0,20.5,16.0,81,118,-5.7
+2021-11-12,202111120GSW,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202111120GSW.html,24:45,.400,.400,.600,.000,0.0,13.5,6.8,32.2,1.9,0.0,16.7,10.8,96,119,-3.4
+2021-11-12,202111120GSW,CHI,Alize Johnson,https://www.basketball-reference.com/boxscores/202111120GSW.html,21:11,.507,.500,.125,.250,16.2,21.1,18.7,0.0,2.3,0.0,10.1,20.8,102,117,-0.9
+2021-11-12,202111120GSW,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202111120GSW.html,20:30,1.160,1.167,.333,.667,11.1,21.8,16.5,8.7,2.3,0.0,20.5,10.6,182,116,10.1
+2021-11-12,202111120GSW,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202111120GSW.html,16:17,.500,.500,.500,.000,0.0,0.0,0.0,10.5,0.0,0.0,25.0,21.9,76,128,-8.1
+2021-11-12,202111120GSW,CHI,Tyler Cook,https://www.basketball-reference.com/boxscores/202111120GSW.html,12:00,.773,.667,.000,.667,0.0,18.6,9.4,30.8,0.0,0.0,20.5,18.1,133,122,6.4
+2021-11-12,202111120GSW,CHI,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202111120GSW.html,4:18,1.250,1.250,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,31.1,108,128,17.9
+2021-11-12,202111120GSW,CHI,Matt Thomas,https://www.basketball-reference.com/boxscores/202111120GSW.html,4:18,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,23.8,0.0,20.7,97,115,7.3
+2021-11-12,202111120GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202111120GSW.html,34:13,.818,.813,.708,.042,0.0,13.4,6.6,29.3,1.4,2.8,19.7,36.8,125,96,18.3
+2021-11-12,202111120GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202111120GSW.html,31:47,.543,.500,.750,.167,0.0,3.6,1.8,8.1,4.5,0.0,23.7,22.0,89,93,-3.6
+2021-11-12,202111120GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202111120GSW.html,29:20,.415,.333,.267,.467,11.4,15.6,13.5,8.9,3.3,3.2,5.2,26.9,101,91,-1.9
+2021-11-12,202111120GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202111120GSW.html,28:01,.750,.750,.167,.000,4.0,32.6,18.1,31.4,1.7,0.0,25.0,11.8,138,94,6.8
+2021-11-12,202111120GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202111120GSW.html,20:27,.340,.200,.000,.400,16.4,39.1,27.6,5.5,0.0,0.0,0.0,11.9,113,97,-3.5
+2021-11-12,202111120GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202111120GSW.html,20:51,.581,.500,.500,.333,10.7,16.4,13.5,0.0,6.9,0.0,0.0,13.6,137,85,4.2
+2021-11-12,202111120GSW,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202111120GSW.html,18:13,.820,.750,.250,.500,0.0,6.3,3.1,21.3,2.6,5.2,0.0,11.1,183,93,12.7
+2021-11-12,202111120GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202111120GSW.html,15:41,.667,.667,.167,.000,0.0,7.3,3.6,9.3,0.0,0.0,0.0,15.8,140,102,-1.6
+2021-11-12,202111120GSW,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202111120GSW.html,15:33,.429,.429,.714,.000,7.2,14.7,10.9,31.8,3.1,0.0,22.2,23.9,96,94,2.4
+2021-11-12,202111120GSW,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202111120GSW.html,15:21,.500,.500,.800,.000,14.5,7.4,11.0,8.1,6.3,0.0,16.7,16.2,107,89,4.1
+2021-11-12,202111120GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202111120GSW.html,6:14,.500,.500,.500,.000,0.0,18.3,9.1,0.0,0.0,0.0,0.0,13.3,104,100,-7.9
+2021-11-12,202111120GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202111120GSW.html,4:18,.000,.000,.000,.000,0.0,53.2,26.3,24.8,11.2,0.0,0.0,9.6,64,69,9.1

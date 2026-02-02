@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-04-16,202304160DEN,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202304160DEN.html,29.57,5,15,.333,1,7,.143,0,2,.000,1,9,10,2,0,0,4,2,11,1.7,-11
+2023-04-16,202304160DEN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202304160DEN.html,27.68,6,15,.400,1,4,.250,5,6,.833,0,2,2,5,2,1,1,4,18,13.7,-12
+2023-04-16,202304160DEN,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202304160DEN.html,25.72,3,5,.600,0,0,,2,4,.500,2,11,13,0,0,2,1,3,8,8.8,-28
+2023-04-16,202304160DEN,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202304160DEN.html,24.95,3,5,.600,2,3,.667,0,0,,0,4,4,3,0,0,0,0,8,9.0,-18
+2023-04-16,202304160DEN,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202304160DEN.html,23.5,2,6,.333,2,4,.500,1,2,.500,0,1,1,0,0,1,0,1,7,3.8,-6
+2023-04-16,202304160DEN,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202304160DEN.html,25.95,5,11,.455,1,3,.333,0,0,,0,1,1,3,2,1,0,1,11,10.0,-15
+2023-04-16,202304160DEN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202304160DEN.html,21.9,4,10,.400,3,6,.500,1,2,.500,1,0,1,2,0,0,1,1,12,6.9,-13
+2023-04-16,202304160DEN,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202304160DEN.html,21.28,0,4,.000,0,3,.000,0,0,,0,0,0,2,0,0,0,1,0,-1.8,-14
+2023-04-16,202304160DEN,MIN,Austin Rivers,https://www.basketball-reference.com/boxscores/202304160DEN.html,16.2,1,2,.500,1,2,.500,0,0,,0,3,3,0,0,0,1,0,3,1.9,-12
+2023-04-16,202304160DEN,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202304160DEN.html,10.32,0,3,.000,0,1,.000,0,0,,0,2,2,1,0,0,0,2,0,-1.6,-8
+2023-04-16,202304160DEN,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202304160DEN.html,6.32,0,1,.000,0,1,.000,0,0,,0,0,0,0,2,1,1,1,0,0.6,-4
+2023-04-16,202304160DEN,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202304160DEN.html,4.55,1,4,.250,0,2,.000,0,0,,1,0,1,0,0,0,1,0,2,-0.7,-5
+2023-04-16,202304160DEN,MIN,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202304160DEN.html,2.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+1
+2023-04-16,202304160DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202304160DEN.html,33.15,9,22,.409,4,10,.400,2,2,1.000,0,8,8,8,0,1,1,3,24,18.7,+24
+2023-04-16,202304160DEN,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202304160DEN.html,31.38,6,11,.545,3,6,.500,0,0,,1,3,4,1,0,0,1,0,15,11.0,+21
+2023-04-16,202304160DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202304160DEN.html,31.18,7,17,.412,4,9,.444,0,1,.000,1,10,11,2,1,0,0,1,18,14.2,+22
+2023-04-16,202304160DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202304160DEN.html,28.48,6,12,.500,0,0,,1,3,.333,5,9,14,6,1,0,1,6,13,14.2,+15
+2023-04-16,202304160DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202304160DEN.html,23.33,3,7,.429,2,4,.500,5,6,.833,2,3,5,1,1,0,1,3,13,10.7,+15
+2023-04-16,202304160DEN,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202304160DEN.html,25.33,5,8,.625,2,4,.500,2,3,.667,0,3,3,1,0,1,1,1,14,10.9,+11
+2023-04-16,202304160DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202304160DEN.html,22.68,0,4,.000,0,3,.000,0,0,,0,2,2,1,1,1,1,3,0,-2.0,+11
+2023-04-16,202304160DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202304160DEN.html,19.45,1,1,1.000,0,0,,1,2,.500,1,2,3,1,0,1,0,0,3,5.0,+12
+2023-04-16,202304160DEN,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202304160DEN.html,5.93,2,3,.667,0,0,,0,0,,0,0,0,1,0,0,2,2,4,0.6,+7
+2023-04-16,202304160DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202304160DEN.html,4.25,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,1,0,1,0,5,4.7,+2
+2023-04-16,202304160DEN,DEN,Reggie Jackson,https://www.basketball-reference.com/boxscores/202304160DEN.html,4.25,0,0,,0,0,,0,0,,0,0,0,1,1,0,1,0,0,0.7,+2
+2023-04-16,202304160DEN,DEN,Ish Smith,https://www.basketball-reference.com/boxscores/202304160DEN.html,4.25,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+2
+2023-04-16,202304160DEN,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202304160DEN.html,4.25,0,1,.000,0,1,.000,0,0,,1,0,1,1,0,0,0,0,0,0.7,+2
+2023-04-16,202304160DEN,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202304160DEN.html,2.07,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1

@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-01-28,202301280POR,TOR,Q1,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301280POR.html,12.0,0,1,.000,0,1,.000,0,0,0,1,1,3,0,0,0,1,0,1.3,+23,
+2023-01-28,202301280POR,TOR,Q1,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301280POR.html,9.28,2,4,.500,0,0,,0,0,0,0,0,1,0,0,0,1,4,2.3,+16,
+2023-01-28,202301280POR,TOR,Q1,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301280POR.html,9.5,2,2,1.000,0,0,,0,0,1,4,5,4,0,0,0,0,4,8.1,+23,
+2023-01-28,202301280POR,TOR,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301280POR.html,10.47,5,7,.714,3,4,.750,0,0,0,0,0,0,0,0,0,1,13,9.7,+21,
+2023-01-28,202301280POR,TOR,Q1,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301280POR.html,7.02,4,4,1.000,0,0,,0,0,0,5,5,0,0,0,0,0,8,8.3,+19,
+2023-01-28,202301280POR,TOR,Q1,Chris Boucher,https://www.basketball-reference.com/boxscores/202301280POR.html,5.22,1,2,.500,1,2,.500,1,2,1,2,3,1,0,0,0,0,4,4.6,+7,.500
+2023-01-28,202301280POR,TOR,Q1,Malachi Flynn,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+2,
+2023-01-28,202301280POR,TOR,Q1,Thaddeus Young,https://www.basketball-reference.com/boxscores/202301280POR.html,4.98,2,2,1.000,0,0,,0,0,0,0,0,0,0,1,0,1,4,3.7,+4,
+2023-01-28,202301280POR,TOR,Q2,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301280POR.html,8.58,0,3,.000,0,2,.000,0,0,2,0,2,1,2,0,0,0,0,2.0,0,
+2023-01-28,202301280POR,TOR,Q2,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301280POR.html,8.58,2,3,.667,0,0,,0,0,0,2,2,3,0,0,0,0,4,5.4,0,
+2023-01-28,202301280POR,TOR,Q2,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301280POR.html,8.65,3,6,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,6,3.0,-2,
+2023-01-28,202301280POR,TOR,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301280POR.html,6.62,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,0,
+2023-01-28,202301280POR,TOR,Q2,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301280POR.html,8.58,3,6,.500,0,0,,2,2,3,2,5,0,1,1,1,2,8,7.6,0,1.000
+2023-01-28,202301280POR,TOR,Q2,Chris Boucher,https://www.basketball-reference.com/boxscores/202301280POR.html,3.42,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,-4,
+2023-01-28,202301280POR,TOR,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202301280POR.html,6.77,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,1,1,3,0.9,-6,
+2023-01-28,202301280POR,TOR,Q2,Malachi Flynn,https://www.basketball-reference.com/boxscores/202301280POR.html,5.38,0,0,,0,0,,0,0,1,1,2,0,0,0,0,1,0,0.6,-4,
+2023-01-28,202301280POR,TOR,Q2,Thaddeus Young,https://www.basketball-reference.com/boxscores/202301280POR.html,3.42,1,2,.500,0,0,,1,1,1,0,1,1,0,0,0,1,3,3.0,-4,1.000
+2023-01-28,202301280POR,TOR,Q3,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301280POR.html,12.0,2,4,.500,2,3,.667,0,0,0,0,0,0,1,0,1,2,6,3.2,-14,
+2023-01-28,202301280POR,TOR,Q3,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301280POR.html,10.8,2,5,.400,0,1,.000,3,3,0,0,0,0,0,0,1,1,7,2.9,-11,1.000
+2023-01-28,202301280POR,TOR,Q3,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301280POR.html,9.12,1,3,.333,0,0,,2,2,2,0,2,3,0,0,0,1,4,5.4,-7,1.000
+2023-01-28,202301280POR,TOR,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301280POR.html,12.0,2,6,.333,1,3,.333,1,1,0,1,1,0,0,0,0,0,6,2.9,-14,1.000
+2023-01-28,202301280POR,TOR,Q3,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301280POR.html,7.35,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,0,2,1.3,-4,
+2023-01-28,202301280POR,TOR,Q3,Chris Boucher,https://www.basketball-reference.com/boxscores/202301280POR.html,4.65,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-10,
+2023-01-28,202301280POR,TOR,Q3,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202301280POR.html,3.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-9,
+2023-01-28,202301280POR,TOR,Q3,Thaddeus Young,https://www.basketball-reference.com/boxscores/202301280POR.html,0.75,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,
+2023-01-28,202301280POR,TOR,Q4,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301280POR.html,8.53,2,5,.400,0,2,.000,1,1,1,2,3,5,1,1,1,1,5,7.4,+10,1.000
+2023-01-28,202301280POR,TOR,Q4,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301280POR.html,10.47,3,5,.600,1,1,1.000,2,2,0,1,1,0,0,0,0,2,9,6.2,+12,1.000
+2023-01-28,202301280POR,TOR,Q4,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301280POR.html,10.47,1,1,1.000,0,0,,2,2,1,2,3,0,0,0,0,0,4,5.0,+12,1.000
+2023-01-28,202301280POR,TOR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301280POR.html,6.57,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+11,
+2023-01-28,202301280POR,TOR,Q4,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301280POR.html,10.47,3,4,.750,1,2,.500,2,2,0,2,2,0,1,0,1,1,9,7.6,+12,1.000
+2023-01-28,202301280POR,TOR,Q4,Chris Boucher,https://www.basketball-reference.com/boxscores/202301280POR.html,3.9,2,2,1.000,0,0,,0,0,1,0,1,0,0,0,0,1,4,3.7,+1,
+2023-01-28,202301280POR,TOR,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2023-01-28,202301280POR,TOR,Q4,Malachi Flynn,https://www.basketball-reference.com/boxscores/202301280POR.html,3.47,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,+3,
+2023-01-28,202301280POR,TOR,Q4,Ron Harper Jr.,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,1,1,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,2,2.4,+1,
+2023-01-28,202301280POR,TOR,Q4,Christian Koloko,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,2,2.0,+1,
+2023-01-28,202301280POR,TOR,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+1,
+2023-01-28,202301280POR,POR,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/202301280POR.html,12.0,1,6,.167,0,0,,1,1,0,2,2,1,0,0,0,0,3,0.5,-23,1.000
+2023-01-28,202301280POR,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/202301280POR.html,8.32,1,3,.333,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-18,
+2023-01-28,202301280POR,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202301280POR.html,10.47,1,6,.167,0,3,.000,1,2,0,1,1,0,0,0,1,1,3,-2.3,-21,.500
+2023-01-28,202301280POR,POR,Q1,Nassir Little,https://www.basketball-reference.com/boxscores/202301280POR.html,7.02,1,2,.500,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.7,-19,
+2023-01-28,202301280POR,POR,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202301280POR.html,6.78,1,3,.333,0,0,,0,0,1,1,2,0,0,0,0,0,2,1.3,-16,
+2023-01-28,202301280POR,POR,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202301280POR.html,5.22,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,-7,
+2023-01-28,202301280POR,POR,Q1,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202301280POR.html,5.22,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,
+2023-01-28,202301280POR,POR,Q1,Gary Payton II,https://www.basketball-reference.com/boxscores/202301280POR.html,4.98,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-4,
+2023-01-28,202301280POR,POR,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/202301280POR.html,8.27,1,2,.500,0,1,.000,0,1,0,1,1,0,0,2,0,0,2,2.3,0,.000
+2023-01-28,202301280POR,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/202301280POR.html,12.0,2,4,.500,0,1,.000,0,0,1,0,1,2,0,0,1,1,4,2.7,+4,
+2023-01-28,202301280POR,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202301280POR.html,8.27,2,3,.667,0,0,,2,2,0,2,2,2,0,0,2,1,6,4.3,0,1.000
+2023-01-28,202301280POR,POR,Q2,Nassir Little,https://www.basketball-reference.com/boxscores/202301280POR.html,6.62,2,2,1.000,2,2,1.000,0,0,0,0,0,0,0,0,0,0,6,5.4,0,
+2023-01-28,202301280POR,POR,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202301280POR.html,6.77,0,1,.000,0,0,,0,0,0,0,0,1,0,1,1,1,0,-0.7,+2,
+2023-01-28,202301280POR,POR,Q2,Trendon Watford,https://www.basketball-reference.com/boxscores/202301280POR.html,5.23,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,+2,
+2023-01-28,202301280POR,POR,Q2,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202301280POR.html,3.73,2,3,.667,0,1,.000,1,1,0,1,1,0,1,1,0,0,5,5.7,+4,1.000
+2023-01-28,202301280POR,POR,Q2,Gary Payton II,https://www.basketball-reference.com/boxscores/202301280POR.html,5.38,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,1,3,3.0,+4,
+2023-01-28,202301280POR,POR,Q2,Jabari Walker,https://www.basketball-reference.com/boxscores/202301280POR.html,3.73,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+4,
+2023-01-28,202301280POR,POR,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/202301280POR.html,12.0,5,5,1.000,1,1,1.000,4,4,0,4,4,2,1,0,0,1,15,16.7,+14,1.000
+2023-01-28,202301280POR,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/202301280POR.html,9.68,4,5,.800,0,0,,0,0,0,3,3,2,0,0,0,1,8,8.0,+11,
+2023-01-28,202301280POR,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202301280POR.html,9.67,3,4,.750,1,2,.500,2,2,0,0,0,0,0,0,0,2,9,6.6,+7,1.000
+2023-01-28,202301280POR,POR,Q3,Nassir Little,https://www.basketball-reference.com/boxscores/202301280POR.html,7.35,0,1,.000,0,1,.000,0,0,0,1,1,1,0,1,1,0,0,0.0,+4,
+2023-01-28,202301280POR,POR,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202301280POR.html,7.35,2,2,1.000,0,0,,1,2,0,1,1,0,1,1,1,1,5,4.6,+4,.500
+2023-01-28,202301280POR,POR,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202301280POR.html,4.65,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,+10,
+2023-01-28,202301280POR,POR,Q3,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202301280POR.html,4.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+10,
+2023-01-28,202301280POR,POR,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202301280POR.html,4.65,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+10,
+2023-01-28,202301280POR,POR,Q4,Jerami Grant,https://www.basketball-reference.com/boxscores/202301280POR.html,8.5,2,6,.333,0,2,.000,2,3,0,1,1,0,0,0,1,1,6,1.1,-13,.667
+2023-01-28,202301280POR,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/202301280POR.html,10.47,0,0,,0,0,,0,0,0,1,1,0,0,0,2,2,0,-2.5,-12,
+2023-01-28,202301280POR,POR,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202301280POR.html,8.53,4,7,.571,1,4,.250,3,3,1,0,1,1,0,0,1,0,12,9.1,-10,1.000
+2023-01-28,202301280POR,POR,Q4,Nassir Little,https://www.basketball-reference.com/boxscores/202301280POR.html,8.53,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-0.1,-10,
+2023-01-28,202301280POR,POR,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202301280POR.html,1.22,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-5,
+2023-01-28,202301280POR,POR,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202301280POR.html,10.78,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,-8,
+2023-01-28,202301280POR,POR,Q4,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202301280POR.html,5.43,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,-2,.500
+2023-01-28,202301280POR,POR,Q4,Gary Payton II,https://www.basketball-reference.com/boxscores/202301280POR.html,1.93,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2023-01-28,202301280POR,POR,Q4,Jabari Walker,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2023-01-28,202301280POR,POR,Q4,Keon Johnson,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-1,
+2023-01-28,202301280POR,POR,Q4,John Butler,https://www.basketball-reference.com/boxscores/202301280POR.html,1.53,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,

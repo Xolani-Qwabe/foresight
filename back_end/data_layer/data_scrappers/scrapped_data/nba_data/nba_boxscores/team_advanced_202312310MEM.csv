@@ -1,0 +1,29 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-31,202312310MEM,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202312310MEM.html,34:16,.476,.457,.348,.217,3.3,8.2,6.0,16.3,0.0,3.3,3.8,32.9,104,92,-2.1
+2023-12-31,202312310MEM,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202312310MEM.html,31:52,.492,.455,.091,.455,7.2,56.1,34.0,45.8,1.5,0.0,18.5,21.9,119,89,11.2
+2023-12-31,202312310MEM,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202312310MEM.html,26:20,.556,.556,.444,.000,4.3,7.1,5.9,4.6,0.0,0.0,10.0,16.4,107,95,-2.2
+2023-12-31,202312310MEM,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202312310MEM.html,26:07,.509,.417,.333,.333,4.4,18.0,11.9,0.0,0.0,0.0,12.7,13.0,99,95,-5.0
+2023-12-31,202312310MEM,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202312310MEM.html,19:55,.652,.625,.625,.125,0.0,9.5,5.2,0.0,0.0,5.7,10.6,20.4,111,90,0.4
+2023-12-31,202312310MEM,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202312310MEM.html,21:01,.943,.923,.385,.231,0.0,17.9,9.8,47.3,0.0,0.0,0.0,29.3,191,95,30.6
+2023-12-31,202312310MEM,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202312310MEM.html,18:54,1.351,1.375,.750,.250,0.0,14.9,8.2,0.0,2.5,0.0,18.4,12.4,187,89,14.9
+2023-12-31,202312310MEM,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202312310MEM.html,16:46,.500,.500,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.1,99,95,-6.2
+2023-12-31,202312310MEM,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202312310MEM.html,14:19,1.000,1.000,.000,.000,0.0,13.1,7.2,39.9,0.0,0.0,0.0,12.0,210,94,13.3
+2023-12-31,202312310MEM,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202312310MEM.html,12:22,.000,.000,.000,.000,37.0,38.1,37.6,8.3,0.0,9.2,66.7,10.4,90,85,-7.1
+2023-12-31,202312310MEM,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202312310MEM.html,3:46,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.9,0,96,-28.0
+2023-12-31,202312310MEM,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202312310MEM.html,3:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,94,-9.6
+2023-12-31,202312310MEM,SAC,JaVale McGee,https://www.basketball-reference.com/boxscores/202312310MEM.html,3:46,,,,,0.0,50.0,27.4,0.0,0.0,30.3,100.0,22.9,0,65,-20.9
+2023-12-31,202312310MEM,SAC,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202312310MEM.html,3:25,,,,,0.0,55.1,30.2,29.9,0.0,0.0,,0.0,234,93,14.1
+2023-12-31,202312310MEM,SAC,Sasha Vezenkov,https://www.basketball-reference.com/boxscores/202312310MEM.html,3:25,.500,.500,.000,.000,0.0,27.5,15.1,0.0,0.0,0.0,0.0,25.2,98,95,-4.1
+2023-12-31,202312310MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202312310MEM.html,35:28,.555,.536,.500,.214,0.0,22.6,10.2,37.1,0.0,0.0,11.5,22.9,102,124,-0.2
+2023-12-31,202312310MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202312310MEM.html,30:57,.548,.417,.333,.667,0.0,11.1,5.0,19.6,0.0,0.0,0.0,23.5,113,126,-0.9
+2023-12-31,202312310MEM,MEM,Marcus Smart,https://www.basketball-reference.com/boxscores/202312310MEM.html,30:48,.426,.364,.364,.636,0.0,3.7,1.7,13.1,4.7,0.0,12.4,24.5,77,117,-5.3
+2023-12-31,202312310MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202312310MEM.html,28:32,.541,.464,.286,.429,0.0,12.0,5.4,8.5,1.7,0.0,0.0,27.4,105,122,0.4
+2023-12-31,202312310MEM,MEM,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202312310MEM.html,21:43,,,,,0.0,31.6,14.3,0.0,0.0,3.7,,0.0,0,119,-5.8
+2023-12-31,202312310MEM,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202312310MEM.html,19:51,.944,.944,.889,.000,0.0,17.3,7.8,31.2,0.0,0.0,10.0,23.6,139,124,14.9
+2023-12-31,202312310MEM,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202312310MEM.html,17:41,.000,.000,1.000,.000,0.0,38.8,17.5,9.0,0.0,0.0,0.0,10.6,13,120,-14.1
+2023-12-31,202312310MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202312310MEM.html,14:07,.363,.417,.833,.333,0.0,16.2,7.3,14.7,0.0,0.0,0.0,22.9,72,125,-5.6
+2023-12-31,202312310MEM,MEM,Derrick Rose,https://www.basketball-reference.com/boxscores/202312310MEM.html,12:14,.333,.333,.000,.000,0.0,0.0,0.0,45.1,0.0,0.0,25.0,15.3,76,128,-9.1
+2023-12-31,202312310MEM,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202312310MEM.html,10:54,.258,.000,.667,.667,0.0,0.0,0.0,14.7,0.0,0.0,20.5,21.0,51,128,-14.1
+2023-12-31,202312310MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202312310MEM.html,8:07,.250,.250,.500,.000,11.6,14.1,12.7,0.0,0.0,0.0,0.0,23.1,63,125,-12.7
+2023-12-31,202312310MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202312310MEM.html,4:49,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-9.1
+2023-12-31,202312310MEM,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202312310MEM.html,4:49,.000,.000,.000,.000,0.0,23.7,10.7,0.0,0.0,0.0,33.3,29.2,0,123,-31.3

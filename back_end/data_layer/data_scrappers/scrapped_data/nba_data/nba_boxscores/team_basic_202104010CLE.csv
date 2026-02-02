@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-04-01,202104010CLE,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202104010CLE.html,26.08,3,8,.375,3,7,.429,2,3,.667,3,3,6,2,3,1,1,1,11,12.9,+9
+2021-04-01,202104010CLE,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202104010CLE.html,24.43,2,11,.182,0,0,,1,3,.333,4,9,13,5,1,0,2,2,5,4.5,+3
+2021-04-01,202104010CLE,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202104010CLE.html,24.2,7,15,.467,5,10,.500,0,0,,1,3,4,4,2,0,0,2,19,16.9,+2
+2021-04-01,202104010CLE,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202104010CLE.html,19.93,1,5,.200,0,2,.000,0,0,,1,3,4,1,0,0,0,0,2,1.2,0
+2021-04-01,202104010CLE,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202104010CLE.html,15.08,4,7,.571,0,0,,4,4,1.000,0,1,1,3,0,1,1,4,12,9.2,+11
+2021-04-01,202104010CLE,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202104010CLE.html,27.43,10,14,.714,5,7,.714,2,2,1.000,1,4,5,4,1,0,1,0,27,25.9,+23
+2021-04-01,202104010CLE,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202104010CLE.html,26.17,6,7,.857,0,0,,6,9,.667,2,13,15,1,1,2,2,3,18,19.5,+20
+2021-04-01,202104010CLE,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202104010CLE.html,25.22,2,6,.333,1,4,.250,0,0,,0,2,2,0,2,3,0,1,5,5.9,+18
+2021-04-01,202104010CLE,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202104010CLE.html,21.68,2,8,.250,0,3,.000,2,2,1.000,0,2,2,4,0,1,2,1,6,2.9,+11
+2021-04-01,202104010CLE,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202104010CLE.html,19.32,2,8,.250,1,3,.333,2,2,1.000,0,1,1,3,1,0,0,2,7,4.8,+19
+2021-04-01,202104010CLE,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202104010CLE.html,3.52,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,0,2,2,0.1,-6
+2021-04-01,202104010CLE,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202104010CLE.html,3.52,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-6
+2021-04-01,202104010CLE,PHI,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202104010CLE.html,3.42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2021-04-01,202104010CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202104010CLE.html,37.62,6,14,.429,3,11,.273,1,1,1.000,0,8,8,2,1,0,0,3,16,12.2,-15
+2021-04-01,202104010CLE,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202104010CLE.html,33.48,7,15,.467,1,4,.250,9,9,1.000,1,2,3,3,2,0,3,3,24,17.5,-22
+2021-04-01,202104010CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202104010CLE.html,33.42,3,8,.375,0,3,.000,0,0,,0,4,4,8,1,0,7,2,6,1.6,-15
+2021-04-01,202104010CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202104010CLE.html,28.18,4,4,1.000,0,0,,1,3,.333,0,5,5,1,1,0,1,3,9,8.0,-4
+2021-04-01,202104010CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202104010CLE.html,20.17,4,10,.400,3,6,.500,2,2,1.000,1,3,4,3,0,0,3,1,13,7.9,-2
+2021-04-01,202104010CLE,CLE,Taurean Prince,https://www.basketball-reference.com/boxscores/202104010CLE.html,21.0,2,9,.222,1,4,.250,1,1,1.000,0,3,3,2,0,0,2,2,6,0.0,-16
+2021-04-01,202104010CLE,CLE,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202104010CLE.html,19.78,5,9,.556,1,1,1.000,1,3,.333,0,7,7,1,0,2,0,5,12,9.1,-12
+2021-04-01,202104010CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202104010CLE.html,19.68,2,4,.500,1,3,.333,1,2,.500,0,1,1,1,0,1,0,1,6,4.9,-19
+2021-04-01,202104010CLE,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202104010CLE.html,16.17,0,4,.000,0,1,.000,0,0,,1,1,2,5,0,0,0,2,0,0.9,-1
+2021-04-01,202104010CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202104010CLE.html,6.17,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,0,1,0,2,1.0,+4
+2021-04-01,202104010CLE,CLE,Brodric Thomas,https://www.basketball-reference.com/boxscores/202104010CLE.html,4.33,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,2,0,-2.2,+2

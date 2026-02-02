@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202402220OKC.html
+Scraped: 2025-12-16 06:33:31
+
+line_scores: 2 rows (nba_boxscores/line_scores_202402220OKC.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202402220OKC.csv)
+team_basic: 22 rows (nba_boxscores/team_basic_202402220OKC.csv)
+team_advanced: 22 rows (nba_boxscores/team_advanced_202402220OKC.csv)
+quarters: 74 rows (nba_boxscores/quarters_202402220OKC.csv)

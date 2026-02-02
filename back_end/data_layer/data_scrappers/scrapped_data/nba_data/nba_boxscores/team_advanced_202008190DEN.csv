@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-19,202008190DEN,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202008190DEN.html,35:19,1.125,1.125,1.000,.000,0.0,25.0,12.4,26.6,1.6,5.0,0.0,5.4,228,117,14.7
+2020-08-19,202008190DEN,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202008190DEN.html,34:14,.703,.700,.000,.800,10.8,14.8,12.7,12.0,0.0,5.2,6.9,20.3,148,124,0.8
+2020-08-19,202008190DEN,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202008190DEN.html,33:51,.750,.750,.750,.000,0.0,7.5,3.7,24.3,0.0,0.0,7.7,18.3,150,130,3.7
+2020-08-19,202008190DEN,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202008190DEN.html,33:51,.952,.929,.500,.286,0.0,3.7,1.8,36.8,1.7,0.0,16.0,26.5,162,128,18.1
+2020-08-19,202008190DEN,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/202008190DEN.html,14:17,.625,.625,.750,.000,8.6,8.8,8.7,0.0,0.0,0.0,0.0,13.4,138,129,-9.9
+2020-08-19,202008190DEN,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202008190DEN.html,28:42,.658,.611,.500,.222,0.0,17.6,8.7,16.8,2.0,0.0,0.0,32.9,142,122,8.2
+2020-08-19,202008190DEN,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202008190DEN.html,21:10,.350,.350,.600,.000,5.8,11.9,8.8,5.9,0.0,0.0,9.1,24.8,81,128,-18.5
+2020-08-19,202008190DEN,UTA,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/202008190DEN.html,14:09,.357,.357,.286,.000,0.0,8.9,4.4,8.9,0.0,6.3,0.0,23.6,88,126,-9.9
+2020-08-19,202008190DEN,UTA,Tony Bradley,https://www.basketball-reference.com/boxscores/202008190DEN.html,11:23,.615,.500,.000,.500,43.2,33.3,38.3,10.3,4.9,7.8,0.0,10.2,187,104,11.4
+2020-08-19,202008190DEN,UTA,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202008190DEN.html,4:09,.000,.000,.667,.000,59.3,0.0,30.0,0.0,0.0,0.0,0.0,34.5,64,133,-46.1
+2020-08-19,202008190DEN,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202008190DEN.html,4:09,.333,.333,.667,.000,0.0,0.0,0.0,0.0,13.5,21.4,0.0,34.5,71,89,3.1
+2020-08-19,202008190DEN,UTA,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202008190DEN.html,2:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-17.2
+2020-08-19,202008190DEN,UTA,Nigel Williams-Goss,https://www.basketball-reference.com/boxscores/202008190DEN.html,2:23,,,,,0.0,0.0,0.0,44.8,0.0,0.0,,0.0,244,133,5.8
+2020-08-19,202008190DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202008190DEN.html,32:55,.764,.765,.529,.176,0.0,22.4,11.4,0.0,0.0,3.4,0.0,26.4,155,142,11.7
+2020-08-19,202008190DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202008190DEN.html,31:40,.551,.500,.095,.476,19.9,23.3,21.7,41.6,0.0,0.0,7.3,41.1,128,144,7.2
+2020-08-19,202008190DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202008190DEN.html,30:26,.521,.500,.154,.077,0.0,12.1,6.1,22.9,0.0,0.0,18.2,25.6,100,147,-9.8
+2020-08-19,202008190DEN,DEN,Torrey Craig,https://www.basketball-reference.com/boxscores/202008190DEN.html,27:33,.000,.000,.500,.000,4.6,4.5,4.5,9.4,0.0,0.0,0.0,3.4,89,149,-10.0
+2020-08-19,202008190DEN,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202008190DEN.html,18:04,.460,.400,.200,.200,14.0,0.0,6.9,0.0,3.1,0.0,26.9,19.5,84,143,-13.9
+2020-08-19,202008190DEN,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/202008190DEN.html,27:15,.500,.500,.875,.000,4.6,9.0,6.9,11.1,0.0,8.2,11.1,15.7,110,143,-2.6
+2020-08-19,202008190DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202008190DEN.html,23:20,.727,.667,.667,.333,0.0,5.3,2.7,26.7,0.0,0.0,0.0,14.0,173,149,4.2
+2020-08-19,202008190DEN,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202008190DEN.html,18:47,.525,.333,.000,1.333,6.7,0.0,3.3,14.8,0.0,0.0,17.4,14.6,117,150,-7.8
+2020-08-19,202008190DEN,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/202008190DEN.html,12:44,.000,.000,.000,.000,29.8,48.3,39.2,20.4,0.0,0.0,0.0,11.2,97,136,-9.4
+2020-08-19,202008190DEN,DEN,Troy Daniels,https://www.basketball-reference.com/boxscores/202008190DEN.html,5:22,.833,.833,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.5,159,150,4.5
+2020-08-19,202008190DEN,DEN,Bol Bol,https://www.basketball-reference.com/boxscores/202008190DEN.html,4:09,1.136,,,,0.0,29.7,15.0,0.0,0.0,26.9,53.2,21.5,106,126,3.1
+2020-08-19,202008190DEN,DEN,Tyler Cook,https://www.basketball-reference.com/boxscores/202008190DEN.html,4:09,,,,,0.0,59.3,30.0,0.0,0.0,0.0,,0.0,0,133,-5.2
+2020-08-19,202008190DEN,DEN,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202008190DEN.html,3:36,,,,,0.0,34.2,17.3,0.0,0.0,0.0,,0.0,0,141,-6.4

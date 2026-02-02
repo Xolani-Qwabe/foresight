@@ -1,0 +1,81 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg_pct,fg3_pct,ft_pct
+2025-04-02,202504020LAC,NOP,Q1,Antonio Reeves,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,,,
+2025-04-02,202504020LAC,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.73,1,4,0,2,0,0,1,1,2,2,0,0,1,0,2,1.0,-2,.250,.000,
+2025-04-02,202504020LAC,NOP,Q1,Yves Missi,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.73,2,5,0,0,0,0,0,5,5,1,0,0,0,1,4,3.1,-2,.400,,
+2025-04-02,202504020LAC,NOP,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.73,1,3,0,0,0,2,1,1,2,1,1,0,1,0,2,1.2,-2,.333,,.000
+2025-04-02,202504020LAC,NOP,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.58,1,4,0,0,0,0,0,2,2,0,1,0,1,1,2,-0.2,-4,.250,,
+2025-04-02,202504020LAC,NOP,Q1,Keion Brooks Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.42,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,.000,.000,
+2025-04-02,202504020LAC,NOP,Q1,Jamal Cain,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.42,1,1,0,0,0,0,0,0,0,1,0,0,0,1,2,2.0,-2,1.000,,
+2025-04-02,202504020LAC,NOP,Q1,Elfrid Payton,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.27,1,1,0,0,0,0,0,0,0,0,0,0,2,1,2,-0.7,-4,1.000,,
+2025-04-02,202504020LAC,NOP,Q1,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.27,0,1,0,1,0,0,0,2,2,0,0,0,0,0,0,-0.1,-4,.000,.000,
+2025-04-02,202504020LAC,NOP,Q1,Karlo Matković,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.27,1,3,0,0,0,0,0,1,1,1,2,0,0,0,2,3.3,-4,.333,,
+2025-04-02,202504020LAC,NOP,Q2,Antonio Reeves,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.92,3,5,1,2,0,0,0,0,0,0,0,0,0,0,7,4.7,-2,.600,.500,
+2025-04-02,202504020LAC,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.92,4,6,0,1,0,0,0,0,0,2,0,0,1,2,8,5.0,-2,.667,.000,
+2025-04-02,202504020LAC,NOP,Q2,Yves Missi,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.92,0,1,0,0,0,0,0,1,1,2,0,0,0,0,0,1.0,-2,.000,,
+2025-04-02,202504020LAC,NOP,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202504020LAC.html,9.12,1,2,1,1,2,2,0,2,2,1,0,0,0,0,5,5.3,-2,.500,1.000,1.000
+2025-04-02,202504020LAC,NOP,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.35,1,1,0,0,1,1,0,1,1,0,1,0,0,0,3,4.0,+1,1.000,,1.000
+2025-04-02,202504020LAC,NOP,Q2,Keion Brooks Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.65,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,-0.8,-7,.000,,
+2025-04-02,202504020LAC,NOP,Q2,Jamal Cain,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.08,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,-1.1,-4,.000,.000,
+2025-04-02,202504020LAC,NOP,Q2,Elfrid Payton,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.08,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0.7,-4,1.000,,
+2025-04-02,202504020LAC,NOP,Q2,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202504020LAC.html,2.88,0,2,0,1,2,2,1,1,2,1,0,0,0,0,2,2.3,-4,.000,.000,1.000
+2025-04-02,202504020LAC,NOP,Q2,Karlo Matković,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.08,2,2,0,0,0,0,1,1,2,0,0,0,0,1,4,4.0,-4,1.000,,
+2025-04-02,202504020LAC,NOP,Q3,Antonio Reeves,https://www.basketball-reference.com/boxscores/202504020LAC.html,12.0,2,5,0,2,0,0,0,0,0,1,0,0,1,1,4,0.6,+1,.400,.000,
+2025-04-02,202504020LAC,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.68,1,3,0,1,3,3,0,0,0,3,0,0,1,0,5,4.4,+3,.333,.000,1.000
+2025-04-02,202504020LAC,NOP,Q3,Yves Missi,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.68,1,2,0,0,0,0,2,4,6,1,0,2,0,0,2,5.7,+3,.500,,
+2025-04-02,202504020LAC,NOP,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.68,2,2,1,1,0,0,0,0,0,1,0,0,0,1,5,4.7,+3,1.000,1.000,
+2025-04-02,202504020LAC,NOP,Q3,Bruce Brown,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.77,3,5,1,2,0,0,0,2,2,1,0,0,1,2,7,4.2,+5,.600,.500,
+2025-04-02,202504020LAC,NOP,Q3,Jamal Cain,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.23,0,1,0,1,0,0,0,1,1,0,0,0,1,0,0,-1.4,-4,.000,.000,
+2025-04-02,202504020LAC,NOP,Q3,Elfrid Payton,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.32,1,1,0,0,0,0,0,0,0,1,0,0,0,0,2,2.4,-2,1.000,,
+2025-04-02,202504020LAC,NOP,Q3,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.32,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1.0,-2,,,
+2025-04-02,202504020LAC,NOP,Q3,Karlo Matković,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.32,0,1,0,1,0,0,0,2,2,0,0,0,1,2,0,-1.9,-2,.000,.000,
+2025-04-02,202504020LAC,NOP,Q4,Antonio Reeves,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,,,
+2025-04-02,202504020LAC,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.02,1,3,0,1,0,0,0,0,0,3,1,0,1,0,2,2.4,-4,.333,.000,
+2025-04-02,202504020LAC,NOP,Q4,Yves Missi,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.02,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0.3,-4,,,
+2025-04-02,202504020LAC,NOP,Q4,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202504020LAC.html,1.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,,,
+2025-04-02,202504020LAC,NOP,Q4,Bruce Brown,https://www.basketball-reference.com/boxscores/202504020LAC.html,1.33,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4,3.4,+1,1.000,,
+2025-04-02,202504020LAC,NOP,Q4,Keion Brooks Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,10.67,3,5,0,2,0,0,1,0,1,1,1,0,1,1,6,4.7,-6,.600,.000,
+2025-04-02,202504020LAC,NOP,Q4,Jamal Cain,https://www.basketball-reference.com/boxscores/202504020LAC.html,10.67,4,5,0,0,0,0,0,0,0,0,1,0,0,1,8,6.7,-6,.800,,
+2025-04-02,202504020LAC,NOP,Q4,Elfrid Payton,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.98,0,1,0,0,0,0,0,4,4,3,0,0,1,0,0,1.6,-1,.000,,
+2025-04-02,202504020LAC,NOP,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.98,1,1,0,0,0,0,0,0,0,1,0,0,0,1,2,2.0,-1,1.000,,
+2025-04-02,202504020LAC,NOP,Q4,Karlo Matković,https://www.basketball-reference.com/boxscores/202504020LAC.html,5.3,2,2,0,0,0,1,0,0,0,1,0,0,0,2,4,2.9,-3,1.000,,.000
+2025-04-02,202504020LAC,NOP,Q4,Lester Quiñones,https://www.basketball-reference.com/boxscores/202504020LAC.html,2.68,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0.0,+2,.000,.000,
+2025-04-02,202504020LAC,LAC,Q1,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.58,2,4,1,2,0,0,0,2,2,1,0,0,0,1,5,3.9,+4,.500,.500,
+2025-04-02,202504020LAC,LAC,Q1,James Harden,https://www.basketball-reference.com/boxscores/202504020LAC.html,12.0,4,7,1,4,1,2,0,0,0,0,1,3,0,0,10,9.4,+6,.571,.250,.500
+2025-04-02,202504020LAC,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202504020LAC.html,9.0,0,1,0,0,2,2,1,3,4,1,0,0,1,0,2,2.6,+6,.000,,1.000
+2025-04-02,202504020LAC,LAC,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.77,0,3,0,1,0,0,0,0,0,1,0,0,0,0,0,-1.4,+6,.000,.000,
+2025-04-02,202504020LAC,LAC,Q1,Kris Dunn,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.73,2,4,1,2,0,0,0,3,3,1,1,0,1,1,5,4.2,+2,.500,.500,
+2025-04-02,202504020LAC,LAC,Q1,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.27,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.0,+4,,,
+2025-04-02,202504020LAC,LAC,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.42,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1.3,+2,,,
+2025-04-02,202504020LAC,LAC,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.23,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0.3,0,.000,.000,
+2025-04-02,202504020LAC,LAC,Q1,Ben Simmons,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.0,0,,,
+2025-04-02,202504020LAC,LAC,Q2,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202504020LAC.html,12.0,5,6,1,1,2,3,0,0,0,1,2,0,0,1,13,12.7,+6,.833,1.000,.667
+2025-04-02,202504020LAC,LAC,Q2,James Harden,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.35,1,1,0,0,2,3,0,0,0,4,0,0,0,0,4,6.1,-1,1.000,,.667
+2025-04-02,202504020LAC,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.92,3,3,0,0,0,0,0,3,3,1,0,0,0,1,6,6.3,+2,1.000,,
+2025-04-02,202504020LAC,LAC,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.92,2,4,0,2,0,0,0,0,0,0,0,0,0,0,4,2.0,+2,.500,.000,
+2025-04-02,202504020LAC,LAC,Q2,Kris Dunn,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.95,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,-0.7,-3,,,
+2025-04-02,202504020LAC,LAC,Q2,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.65,1,1,0,0,2,2,0,0,0,1,0,0,0,0,4,4.4,+7,1.000,,1.000
+2025-04-02,202504020LAC,LAC,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.05,1,2,0,0,1,2,0,2,2,0,0,0,0,0,3,2.2,+9,.500,,.500
+2025-04-02,202504020LAC,LAC,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.08,1,2,1,2,0,0,0,0,0,0,0,0,0,0,3,2.0,+4,.500,.500,
+2025-04-02,202504020LAC,LAC,Q2,Ben Simmons,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.08,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0.3,+4,.000,,
+2025-04-02,202504020LAC,LAC,Q3,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.77,1,3,0,1,1,1,0,0,0,0,0,0,0,0,3,1.3,-5,.333,.000,1.000
+2025-04-02,202504020LAC,LAC,Q3,James Harden,https://www.basketball-reference.com/boxscores/202504020LAC.html,12.0,1,4,0,2,2,2,0,0,0,5,0,0,1,0,4,4.1,-1,.250,.000,1.000
+2025-04-02,202504020LAC,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202504020LAC.html,10.72,1,2,0,0,1,2,0,1,1,3,0,0,0,0,3,4.0,+1,.500,,.500
+2025-04-02,202504020LAC,LAC,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.77,2,4,1,2,0,0,0,0,0,0,0,0,1,0,5,2.0,-5,.500,.500,
+2025-04-02,202504020LAC,LAC,Q3,Kris Dunn,https://www.basketball-reference.com/boxscores/202504020LAC.html,7.68,2,4,2,3,0,0,0,3,3,0,0,1,0,1,6,5.2,-3,.500,.667,
+2025-04-02,202504020LAC,LAC,Q3,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.32,1,2,1,2,0,0,0,0,0,0,1,0,0,0,3,3.0,+2,.500,.500,
+2025-04-02,202504020LAC,LAC,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.23,0,1,0,1,0,0,0,1,1,0,1,0,0,1,0,0.2,+4,.000,.000,
+2025-04-02,202504020LAC,LAC,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.23,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,-0.4,+4,.000,.000,
+2025-04-02,202504020LAC,LAC,Q3,Ben Simmons,https://www.basketball-reference.com/boxscores/202504020LAC.html,1.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,,,
+2025-04-02,202504020LAC,LAC,Q4,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202504020LAC.html,8.87,3,5,1,1,0,0,0,1,1,1,0,0,1,0,7,4.7,+9,.600,1.000,
+2025-04-02,202504020LAC,LAC,Q4,James Harden,https://www.basketball-reference.com/boxscores/202504020LAC.html,5.48,1,2,0,0,1,1,0,0,0,1,0,0,1,0,3,1.7,+9,.500,,1.000
+2025-04-02,202504020LAC,LAC,Q4,Ivica Zubac,https://www.basketball-reference.com/boxscores/202504020LAC.html,5.48,2,2,0,0,2,2,1,1,2,1,0,0,0,0,6,7.1,+9,1.000,,1.000
+2025-04-02,202504020LAC,LAC,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202504020LAC.html,5.48,0,0,0,0,2,2,0,1,1,0,0,0,0,0,2,2.3,+9,,,1.000
+2025-04-02,202504020LAC,LAC,Q4,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202504020LAC.html,9.32,3,3,3,3,0,0,0,1,1,0,0,0,0,3,9,7.2,+7,1.000,1.000,
+2025-04-02,202504020LAC,LAC,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,4.28,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,-4,,,
+2025-04-02,202504020LAC,LAC,Q4,Nicolas Batum,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.83,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1.7,-2,,,
+2025-04-02,202504020LAC,LAC,Q4,Ben Simmons,https://www.basketball-reference.com/boxscores/202504020LAC.html,3.83,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,-0.3,-2,,,
+2025-04-02,202504020LAC,LAC,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202504020LAC.html,2.68,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1.0,-2,.500,,
+2025-04-02,202504020LAC,LAC,Q4,Trentyn Flowers,https://www.basketball-reference.com/boxscores/202504020LAC.html,2.68,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,2.0,-2,,,1.000
+2025-04-02,202504020LAC,LAC,Q4,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202504020LAC.html,2.68,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1.0,-2,,,
+2025-04-02,202504020LAC,LAC,Q4,Kobe Brown,https://www.basketball-reference.com/boxscores/202504020LAC.html,2.68,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,-2,,,
+2025-04-02,202504020LAC,LAC,Q4,Cam Christie,https://www.basketball-reference.com/boxscores/202504020LAC.html,2.68,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,.000,.000,

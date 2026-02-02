@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-25,202211250LAC,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202211250LAC.html,33:36,.500,.500,.429,.000,3.7,23.0,12.2,41.3,1.6,0.0,4.5,29.9,117,116,3.8
+2022-11-25,202211250LAC,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202211250LAC.html,32:24,.591,.538,.077,.538,7.6,52.6,27.5,26.4,3.2,3.2,11.1,25.5,124,107,7.8
+2022-11-25,202211250LAC,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202211250LAC.html,31:17,.571,.571,.286,.000,0.0,19.8,8.8,16.2,1.7,0.0,12.5,11.7,116,115,-4.9
+2022-11-25,202211250LAC,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202211250LAC.html,30:50,.615,.625,.500,.500,0.0,0.0,0.0,3.8,1.7,0.0,0.0,7.2,132,118,-4.8
+2022-11-25,202211250LAC,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202211250LAC.html,27:59,.816,.813,.250,.250,22.0,11.1,17.2,22.0,3.7,7.5,5.3,30.6,160,105,22.8
+2022-11-25,202211250LAC,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202211250LAC.html,24:41,.604,.556,.444,.444,0.0,0.0,0.0,10.7,2.1,4.2,8.5,21.8,119,113,0.3
+2022-11-25,202211250LAC,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202211250LAC.html,19:35,.444,.357,.429,.286,6.3,23.7,14.0,0.0,0.0,0.0,0.0,18.4,106,119,-10.6
+2022-11-25,202211250LAC,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202211250LAC.html,15:36,.510,.400,.400,.400,7.9,9.9,8.8,0.0,0.0,0.0,0.0,17.2,120,121,-8.5
+2022-11-25,202211250LAC,DEN,Ish Smith,https://www.basketball-reference.com/boxscores/202211250LAC.html,13:24,.500,.500,.200,.000,0.0,11.6,5.1,19.4,0.0,7.8,0.0,17.0,120,114,0.8
+2022-11-25,202211250LAC,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202211250LAC.html,6:36,.000,,,,0.0,0.0,0.0,0.0,7.9,0.0,0.0,6.1,0,105,-5.5
+2022-11-25,202211250LAC,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202211250LAC.html,2:01,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-9.3
+2022-11-25,202211250LAC,DEN,Jack White,https://www.basketball-reference.com/boxscores/202211250LAC.html,2:01,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.3,0,116,-63.4
+2022-11-25,202211250LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202211250LAC.html,31:10,.563,.563,.250,.000,0.0,19.7,11.0,40.0,0.0,0.0,33.3,19.1,100,126,-3.6
+2022-11-25,202211250LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202211250LAC.html,30:17,.699,.682,.273,.091,0.0,16.3,9.1,30.6,0.0,0.0,8.0,20.3,137,126,3.5
+2022-11-25,202211250LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202211250LAC.html,29:21,.436,.333,.000,.333,10.6,29.4,21.0,0.0,0.0,0.0,12.7,13.3,93,123,-9.0
+2022-11-25,202211250LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202211250LAC.html,26:54,.582,.625,.250,.167,0.0,9.2,5.1,0.0,0.0,0.0,13.4,27.4,90,128,-10.1
+2022-11-25,202211250LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202211250LAC.html,24:48,.654,.667,.667,.333,6.2,5.0,5.5,18.6,0.0,0.0,12.7,15.7,127,129,0.4
+2022-11-25,202211250LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202211250LAC.html,24:11,.000,.000,1.000,.000,6.4,10.2,8.5,0.0,0.0,6.7,0.0,6.1,31,123,-8.5
+2022-11-25,202211250LAC,LAC,John Wall,https://www.basketball-reference.com/boxscores/202211250LAC.html,23:52,.851,.900,.200,.800,0.0,0.0,0.0,19.2,2.2,0.0,6.9,30.1,153,125,11.1
+2022-11-25,202211250LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202211250LAC.html,23:47,.517,.500,.375,.750,0.0,5.2,2.9,13.0,0.0,3.4,15.8,26.3,93,127,-4.4
+2022-11-25,202211250LAC,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202211250LAC.html,19:48,.987,1.000,.667,2.333,0.0,37.3,20.8,15.1,0.0,8.2,24.8,20.2,149,115,12.7
+2022-11-25,202211250LAC,LAC,Moses Brown,https://www.basketball-reference.com/boxscores/202211250LAC.html,5:52,.412,1.000,.000,6.000,0.0,21.0,11.7,0.0,0.0,0.0,0.0,30.7,73,126,-12.2

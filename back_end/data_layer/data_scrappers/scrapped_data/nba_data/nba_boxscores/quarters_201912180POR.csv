@@ -1,0 +1,77 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-12-18,201912180POR,GSW,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912180POR.html,8.22,3,8,.375,2,2,1.000,0,0,0,0,0,1,1,0,1,0,8,4.3,-7,
+2019-12-18,201912180POR,GSW,Q1,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912180POR.html,6.42,3,5,.600,3,4,.750,0,0,1,1,2,0,0,0,0,1,9,7.3,-3,
+2019-12-18,201912180POR,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/201912180POR.html,8.62,0,3,.000,0,0,,1,2,0,1,1,1,1,0,0,1,1,0.1,-7,.500
+2019-12-18,201912180POR,GSW,Q1,Damion Lee,https://www.basketball-reference.com/boxscores/201912180POR.html,8.62,0,1,.000,0,1,.000,0,0,1,1,2,2,0,0,0,1,0,1.3,-7,
+2019-12-18,201912180POR,GSW,Q1,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912180POR.html,6.42,2,2,1.000,0,0,,0,0,1,0,1,1,0,0,1,1,4,3.4,-3,
+2019-12-18,201912180POR,GSW,Q1,Alec Burks,https://www.basketball-reference.com/boxscores/201912180POR.html,5.58,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,1,2,3,1.6,-8,
+2019-12-18,201912180POR,GSW,Q1,Eric Paschall,https://www.basketball-reference.com/boxscores/201912180POR.html,5.58,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-8,
+2019-12-18,201912180POR,GSW,Q1,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912180POR.html,3.38,0,0,,0,0,,2,2,2,0,2,0,0,0,1,1,2,2.0,-4,1.000
+2019-12-18,201912180POR,GSW,Q1,Jacob Evans,https://www.basketball-reference.com/boxscores/201912180POR.html,3.78,0,3,.000,0,1,.000,0,0,0,0,0,1,0,1,0,1,0,-1.1,-4,
+2019-12-18,201912180POR,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/201912180POR.html,3.38,1,3,.333,0,2,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-4,
+2019-12-18,201912180POR,GSW,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912180POR.html,6.32,3,4,.750,1,2,.500,3,4,0,0,0,1,0,0,0,0,10,8.7,+3,.750
+2019-12-18,201912180POR,GSW,Q2,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912180POR.html,7.28,1,1,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,2,2.4,+9,
+2019-12-18,201912180POR,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/201912180POR.html,5.68,0,0,,0,0,,1,2,0,2,2,1,1,0,0,0,1,2.9,+7,.500
+2019-12-18,201912180POR,GSW,Q2,Damion Lee,https://www.basketball-reference.com/boxscores/201912180POR.html,7.72,1,2,.500,0,0,,2,2,0,3,3,2,0,0,0,0,4,5.3,+7,1.000
+2019-12-18,201912180POR,GSW,Q2,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912180POR.html,4.42,1,2,.500,0,0,,0,0,0,0,0,0,1,0,0,2,2,1.2,+3,
+2019-12-18,201912180POR,GSW,Q2,Alec Burks,https://www.basketball-reference.com/boxscores/201912180POR.html,10.4,2,7,.286,2,3,.667,0,0,0,1,1,3,1,1,0,0,6,6.0,+8,
+2019-12-18,201912180POR,GSW,Q2,Eric Paschall,https://www.basketball-reference.com/boxscores/201912180POR.html,5.95,3,5,.600,1,2,.500,0,0,0,1,1,1,1,0,0,2,7,5.9,+10,
+2019-12-18,201912180POR,GSW,Q2,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912180POR.html,3.8,0,0,,0,0,,0,0,0,2,2,0,0,1,0,0,0,1.3,+2,
+2019-12-18,201912180POR,GSW,Q2,Jacob Evans,https://www.basketball-reference.com/boxscores/201912180POR.html,4.28,1,2,.500,0,0,,0,0,1,0,1,0,0,0,0,0,2,1.7,+3,
+2019-12-18,201912180POR,GSW,Q2,Omari Spellman,https://www.basketball-reference.com/boxscores/201912180POR.html,4.15,1,2,.500,0,0,,1,2,1,0,1,0,0,0,0,1,3,1.9,-2,.500
+2019-12-18,201912180POR,GSW,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912180POR.html,8.38,0,4,.000,0,3,.000,0,0,0,0,0,3,0,1,0,0,0,0.0,-3,
+2019-12-18,201912180POR,GSW,Q3,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912180POR.html,8.3,1,3,.333,1,1,1.000,0,0,0,0,0,0,0,0,0,2,3,0.5,-3,
+2019-12-18,201912180POR,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/201912180POR.html,10.53,2,3,.667,1,1,1.000,0,0,0,2,2,0,0,0,0,0,5,4.3,-5,
+2019-12-18,201912180POR,GSW,Q3,Damion Lee,https://www.basketball-reference.com/boxscores/201912180POR.html,3.92,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,3,0,-2.6,-3,
+2019-12-18,201912180POR,GSW,Q3,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912180POR.html,6.3,3,4,.750,0,0,,0,0,2,4,6,0,0,0,0,0,6,7.0,-7,
+2019-12-18,201912180POR,GSW,Q3,Alec Burks,https://www.basketball-reference.com/boxscores/201912180POR.html,8.08,2,5,.400,1,3,.333,0,0,0,1,1,0,0,0,1,0,5,1.6,-1,
+2019-12-18,201912180POR,GSW,Q3,Eric Paschall,https://www.basketball-reference.com/boxscores/201912180POR.html,3.7,1,2,.500,0,0,,0,0,1,0,1,0,0,0,0,1,2,1.3,-1,
+2019-12-18,201912180POR,GSW,Q3,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912180POR.html,5.7,1,1,1.000,0,0,,3,6,3,2,5,1,0,0,0,0,5,6.9,+3,.500
+2019-12-18,201912180POR,GSW,Q3,Jacob Evans,https://www.basketball-reference.com/boxscores/201912180POR.html,3.62,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-1,
+2019-12-18,201912180POR,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/201912180POR.html,1.47,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+1,
+2019-12-18,201912180POR,GSW,Q4,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912180POR.html,10.05,3,7,.429,2,5,.400,0,0,0,1,1,2,0,1,0,1,8,6.3,-6,
+2019-12-18,201912180POR,GSW,Q4,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912180POR.html,7.98,1,4,.250,1,2,.500,0,0,0,1,1,0,0,1,1,0,3,0.6,-3,
+2019-12-18,201912180POR,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/201912180POR.html,4.58,0,0,,0,0,,0,0,0,0,0,0,1,0,0,0,0,1.0,-3,
+2019-12-18,201912180POR,GSW,Q4,Damion Lee,https://www.basketball-reference.com/boxscores/201912180POR.html,4.65,0,2,.000,0,1,.000,0,0,0,1,1,2,0,0,1,1,0,-1.1,+4,
+2019-12-18,201912180POR,GSW,Q4,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912180POR.html,5.47,0,0,,0,0,,0,2,0,0,0,0,0,0,0,0,0,-0.8,0,.000
+2019-12-18,201912180POR,GSW,Q4,Alec Burks,https://www.basketball-reference.com/boxscores/201912180POR.html,9.3,1,7,.143,0,2,.000,0,0,0,4,4,0,0,0,0,0,2,-1.3,-8,
+2019-12-18,201912180POR,GSW,Q4,Eric Paschall,https://www.basketball-reference.com/boxscores/201912180POR.html,2.7,1,2,.500,0,1,.000,0,0,1,1,2,1,0,0,1,0,2,1.7,-3,
+2019-12-18,201912180POR,GSW,Q4,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912180POR.html,4.02,1,1,1.000,0,0,,1,1,0,1,1,0,0,0,0,0,3,3.0,-2,1.000
+2019-12-18,201912180POR,GSW,Q4,Omari Spellman,https://www.basketball-reference.com/boxscores/201912180POR.html,7.23,1,3,.333,0,0,,0,0,2,3,5,0,0,1,0,0,2,3.3,-2,
+2019-12-18,201912180POR,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/201912180POR.html,4.02,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2019-12-18,201912180POR,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/201912180POR.html,8.22,1,3,.333,0,1,.000,4,4,0,1,1,0,0,0,0,0,6,4.6,+7,1.000
+2019-12-18,201912180POR,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/201912180POR.html,12.0,5,7,.714,2,4,.500,4,5,0,3,3,5,1,0,2,1,16,15.7,+11,.800
+2019-12-18,201912180POR,POR,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201912180POR.html,8.92,2,2,1.000,0,0,,0,0,1,4,5,0,0,0,0,1,4,4.9,+7,
+2019-12-18,201912180POR,POR,Q1,Carmelo Anthony,https://www.basketball-reference.com/boxscores/201912180POR.html,6.42,2,3,.667,1,2,.500,0,0,0,1,1,0,0,0,1,0,5,3.0,+3,
+2019-12-18,201912180POR,POR,Q1,Kent Bazemore,https://www.basketball-reference.com/boxscores/201912180POR.html,8.22,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,1,1,1,3,3.0,+7,
+2019-12-18,201912180POR,POR,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/201912180POR.html,3.78,0,1,.000,0,1,.000,2,2,1,0,1,0,0,1,0,0,2,2.7,+4,1.000
+2019-12-18,201912180POR,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/201912180POR.html,3.78,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.0,+4,
+2019-12-18,201912180POR,POR,Q1,Anthony Tolliver,https://www.basketball-reference.com/boxscores/201912180POR.html,5.58,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+8,
+2019-12-18,201912180POR,POR,Q1,Skal Labissière,https://www.basketball-reference.com/boxscores/201912180POR.html,3.08,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,0,2,4,2.9,+4,
+2019-12-18,201912180POR,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/201912180POR.html,9.8,3,6,.500,1,2,.500,0,0,0,2,2,2,0,0,1,0,7,5.0,-7,
+2019-12-18,201912180POR,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/201912180POR.html,5.28,1,5,.200,0,0,,2,2,1,1,2,2,0,0,1,0,4,2.3,-7,1.000
+2019-12-18,201912180POR,POR,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201912180POR.html,7.6,1,2,.500,0,0,,0,0,2,4,6,0,0,1,0,0,2,4.3,-7,
+2019-12-18,201912180POR,POR,Q2,Carmelo Anthony,https://www.basketball-reference.com/boxscores/201912180POR.html,7.62,3,5,.600,0,1,.000,1,1,0,2,2,0,0,0,0,0,7,5.3,-7,1.000
+2019-12-18,201912180POR,POR,Q2,Kent Bazemore,https://www.basketball-reference.com/boxscores/201912180POR.html,4.63,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,2,0,-2.2,-3,
+2019-12-18,201912180POR,POR,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/201912180POR.html,8.67,0,2,.000,0,1,.000,0,0,1,0,1,1,0,0,2,1,0,-2.4,-6,
+2019-12-18,201912180POR,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/201912180POR.html,7.73,0,2,.000,0,0,,0,0,0,0,0,0,0,0,1,2,0,-3.2,-7,
+2019-12-18,201912180POR,POR,Q2,Anthony Tolliver,https://www.basketball-reference.com/boxscores/201912180POR.html,4.38,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,0,1,3,1.9,-3,
+2019-12-18,201912180POR,POR,Q2,Skal Labissière,https://www.basketball-reference.com/boxscores/201912180POR.html,4.28,1,1,1.000,0,0,,2,2,1,0,1,0,0,0,0,1,4,4.0,-3,1.000
+2019-12-18,201912180POR,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/201912180POR.html,8.3,3,4,.750,0,1,.000,1,2,0,1,1,0,0,0,0,1,7,4.9,+3,.500
+2019-12-18,201912180POR,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/201912180POR.html,12.0,2,5,.400,0,2,.000,3,4,0,0,0,3,0,1,0,0,7,6.7,+4,.750
+2019-12-18,201912180POR,POR,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201912180POR.html,8.92,2,6,.333,0,0,,0,0,4,4,8,0,0,1,0,0,4,5.3,+1,
+2019-12-18,201912180POR,POR,Q3,Carmelo Anthony,https://www.basketball-reference.com/boxscores/201912180POR.html,8.3,2,5,.400,0,1,.000,1,1,0,3,3,0,0,1,0,0,5,3.9,+3,1.000
+2019-12-18,201912180POR,POR,Q3,Kent Bazemore,https://www.basketball-reference.com/boxscores/201912180POR.html,8.3,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,+3,
+2019-12-18,201912180POR,POR,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/201912180POR.html,3.7,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,1,2,2.3,+1,
+2019-12-18,201912180POR,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/201912180POR.html,3.7,0,0,,0,0,,0,0,0,0,0,0,0,1,0,1,0,0.3,+1,
+2019-12-18,201912180POR,POR,Q3,Anthony Tolliver,https://www.basketball-reference.com/boxscores/201912180POR.html,3.7,1,1,1.000,0,0,,1,1,0,1,1,0,0,0,0,1,3,2.6,+1,1.000
+2019-12-18,201912180POR,POR,Q3,Skal Labissière,https://www.basketball-reference.com/boxscores/201912180POR.html,3.08,0,2,.000,0,1,.000,2,2,0,0,0,0,0,0,0,1,2,0.2,+3,1.000
+2019-12-18,201912180POR,POR,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/201912180POR.html,12.0,4,6,.667,2,4,.500,0,0,0,1,1,1,1,0,1,1,10,8.0,+5,
+2019-12-18,201912180POR,POR,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/201912180POR.html,7.98,1,3,.333,0,2,.000,2,2,0,0,0,3,0,0,0,0,4,4.4,+3,1.000
+2019-12-18,201912180POR,POR,Q4,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201912180POR.html,7.43,3,4,.750,0,0,,0,0,0,4,4,0,0,0,0,0,6,5.6,+1,
+2019-12-18,201912180POR,POR,Q4,Carmelo Anthony,https://www.basketball-reference.com/boxscores/201912180POR.html,7.98,0,4,.000,0,0,,0,0,1,1,2,0,2,1,0,1,0,0.5,+3,
+2019-12-18,201912180POR,POR,Q4,Kent Bazemore,https://www.basketball-reference.com/boxscores/201912180POR.html,7.98,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,+3,
+2019-12-18,201912180POR,POR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/201912180POR.html,4.57,1,3,.333,1,3,.333,0,0,0,1,1,0,0,0,0,0,3,1.6,+4,
+2019-12-18,201912180POR,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/201912180POR.html,4.02,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-1.5,+2,
+2019-12-18,201912180POR,POR,Q4,Anthony Tolliver,https://www.basketball-reference.com/boxscores/201912180POR.html,4.02,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+2,
+2019-12-18,201912180POR,POR,Q4,Skal Labissière,https://www.basketball-reference.com/boxscores/201912180POR.html,4.02,0,1,.000,0,0,,0,0,1,4,5,0,0,0,0,1,0,0.8,+2,

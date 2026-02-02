@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-15,201912150GSW,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/201912150GSW.html,33:50,.588,.500,.455,.364,0.0,17.3,11.3,13.8,1.5,0.0,0.0,18.7,131,87,2.9
+2019-12-15,201912150GSW,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/201912150GSW.html,33:19,.830,.818,.455,.091,0.0,14.1,9.1,21.8,3.1,0.0,20.8,21.4,129,84,7.6
+2019-12-15,201912150GSW,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/201912150GSW.html,31:25,.444,.357,.286,.286,0.0,7.5,4.9,21.9,1.6,0.0,20.2,15.6,99,89,-2.6
+2019-12-15,201912150GSW,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/201912150GSW.html,25:54,.765,.800,.000,.400,0.0,22.6,14.7,6.1,4.0,3.6,50.5,22.7,66,77,-6.3
+2019-12-15,201912150GSW,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/201912150GSW.html,22:39,.500,.500,.500,.000,0.0,15.5,10.1,23.6,2.3,0.0,50.0,8.7,94,85,0.8
+2019-12-15,201912150GSW,SAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/201912150GSW.html,29:28,1.015,1.000,.455,.273,7.4,15.9,12.9,34.9,1.7,0.0,32.8,30.8,127,86,11.8
+2019-12-15,201912150GSW,SAC,Trevor Ariza,https://www.basketball-reference.com/boxscores/201912150GSW.html,26:24,1.250,1.250,.500,.000,16.5,4.4,8.7,10.6,2.0,7.1,60.0,9.4,106,83,7.6
+2019-12-15,201912150GSW,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/201912150GSW.html,22:06,.594,.577,.154,.231,9.9,26.5,20.7,19.1,0.0,0.0,12.3,36.5,107,87,-5.4
+2019-12-15,201912150GSW,SAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/201912150GSW.html,10:14,.347,.000,1.000,1.000,0.0,45.8,29.8,12.3,0.0,0.0,58.1,16.6,49,84,-11.4
+2019-12-15,201912150GSW,SAC,Justin James,https://www.basketball-reference.com/boxscores/201912150GSW.html,2:44,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,93,-9.2
+2019-12-15,201912150GSW,SAC,Caleb Swanigan,https://www.basketball-reference.com/boxscores/201912150GSW.html,1:57,,,,,0.0,60.0,39.1,0.0,0.0,0.0,100.0,25.4,0,80,-23.1
+2019-12-15,201912150GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/201912150GSW.html,34:30,.421,.400,.333,.067,3.4,25.3,11.0,32.1,1.5,0.0,11.5,23.3,85,111,-2.8
+2019-12-15,201912150GSW,GSW,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912150GSW.html,29:43,.742,.778,.000,.111,0.0,36.7,12.8,17.3,10.4,0.0,24.1,19.3,98,90,9.8
+2019-12-15,201912150GSW,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912150GSW.html,27:13,.372,.278,.333,.444,0.0,0.0,0.0,53.3,0.0,0.0,27.1,25.0,75,116,-11.0
+2019-12-15,201912150GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/201912150GSW.html,26:10,.500,.500,.571,.000,0.0,16.7,5.8,22.5,2.0,0.0,22.2,15.9,82,111,-4.9
+2019-12-15,201912150GSW,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912150GSW.html,24:23,.583,.583,.333,.000,4.8,17.9,9.4,0.0,0.0,0.0,0.0,11.4,112,115,-3.3
+2019-12-15,201912150GSW,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/201912150GSW.html,22:03,.517,.438,.375,.750,10.6,0.0,6.9,27.8,4.7,0.0,32.0,32.8,79,106,-2.3
+2019-12-15,201912150GSW,GSW,Jacob Evans,https://www.basketball-reference.com/boxscores/201912150GSW.html,19:33,.902,.833,.333,.667,0.0,0.0,0.0,9.8,0.0,6.0,34.0,13.9,108,112,-2.3
+2019-12-15,201912150GSW,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/201912150GSW.html,18:16,.512,.500,.250,.500,6.4,11.9,8.3,0.0,2.8,0.0,0.0,12.3,107,109,-3.5
+2019-12-15,201912150GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/201912150GSW.html,16:18,.317,.214,.857,.286,0.0,0.0,0.0,10.9,6.3,0.0,11.3,25.2,64,102,-5.7
+2019-12-15,201912150GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/201912150GSW.html,11:16,.000,.000,.000,.000,10.4,0.0,6.8,14.2,4.6,0.0,0.0,20.5,23,106,-15.9
+2019-12-15,201912150GSW,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912150GSW.html,10:35,.333,.333,.000,.000,11.1,82.5,36.0,0.0,0.0,0.0,25.0,17.5,59,111,-13.7

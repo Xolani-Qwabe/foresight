@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-03-24,202103240MIN,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103240MIN.html,32.83,2,5,.400,2,4,.500,1,2,.500,1,4,5,0,0,1,0,1,7,6.1,+13
+2021-03-24,202103240MIN,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202103240MIN.html,31.1,3,6,.500,2,4,.500,2,2,1.000,2,4,6,3,0,0,1,4,10,9.1,+10
+2021-03-24,202103240MIN,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103240MIN.html,28.67,11,23,.478,3,9,.333,4,4,1.000,1,8,9,4,1,2,1,2,29,23.8,+14
+2021-03-24,202103240MIN,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202103240MIN.html,28.6,4,7,.571,1,3,.333,2,2,1.000,3,1,4,2,1,0,0,2,11,11.7,+11
+2021-03-24,202103240MIN,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202103240MIN.html,27.05,6,16,.375,2,9,.222,1,2,.500,0,4,4,4,1,1,4,1,15,7.1,+7
+2021-03-24,202103240MIN,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103240MIN.html,29.57,7,12,.583,0,2,.000,2,3,.667,3,8,11,5,1,0,2,5,16,15.0,+17
+2021-03-24,202103240MIN,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103240MIN.html,27.38,7,17,.412,5,9,.556,2,4,.500,0,4,4,4,0,0,0,3,21,13.9,+17
+2021-03-24,202103240MIN,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202103240MIN.html,19.33,7,10,.700,1,2,.500,1,1,1.000,4,4,8,2,1,1,0,4,16,17.3,+6
+2021-03-24,202103240MIN,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202103240MIN.html,8.67,0,2,.000,0,2,.000,0,0,,0,0,0,2,0,1,0,0,0,0.7,-1
+2021-03-24,202103240MIN,DAL,Tyler Bey,https://www.basketball-reference.com/boxscores/202103240MIN.html,2.27,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+2
+2021-03-24,202103240MIN,DAL,Nate Hinton,https://www.basketball-reference.com/boxscores/202103240MIN.html,2.27,0,0,,0,0,,1,2,.500,0,1,1,1,0,0,1,0,1,0.6,+2
+2021-03-24,202103240MIN,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202103240MIN.html,2.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+2
+2021-03-24,202103240MIN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202103240MIN.html,37.25,9,23,.391,3,12,.250,8,9,.889,0,5,5,3,1,0,0,3,29,19.5,-7
+2021-03-24,202103240MIN,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202103240MIN.html,33.6,8,20,.400,4,9,.444,2,2,1.000,2,3,5,6,0,0,2,3,22,14.5,-14
+2021-03-24,202103240MIN,MIN,Ricky Rubio,https://www.basketball-reference.com/boxscores/202103240MIN.html,30.5,1,7,.143,1,5,.200,0,0,,1,1,2,7,1,0,3,3,3,1.2,-11
+2021-03-24,202103240MIN,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202103240MIN.html,28.57,4,8,.500,1,3,.333,0,0,,2,3,5,1,1,1,0,5,9,7.7,-11
+2021-03-24,202103240MIN,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202103240MIN.html,13.88,2,3,.667,0,0,,0,0,,1,4,5,0,1,0,0,5,4,3.6,+4
+2021-03-24,202103240MIN,MIN,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202103240MIN.html,35.27,5,9,.556,2,5,.400,5,7,.714,0,5,5,1,0,0,1,1,17,12.7,-23
+2021-03-24,202103240MIN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202103240MIN.html,24.67,4,8,.500,0,2,.000,3,3,1.000,0,2,2,4,1,0,1,2,11,9.6,-14
+2021-03-24,202103240MIN,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202103240MIN.html,14.4,3,4,.750,1,2,.500,1,3,.333,0,6,6,0,1,0,4,1,8,4.0,-6
+2021-03-24,202103240MIN,MIN,Jake Layman,https://www.basketball-reference.com/boxscores/202103240MIN.html,14.05,2,2,1.000,0,0,,0,0,,0,2,2,2,0,1,1,1,4,4.7,-12
+2021-03-24,202103240MIN,MIN,Jarrett Culver,https://www.basketball-reference.com/boxscores/202103240MIN.html,7.82,0,2,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,1,1,-1.2,-6

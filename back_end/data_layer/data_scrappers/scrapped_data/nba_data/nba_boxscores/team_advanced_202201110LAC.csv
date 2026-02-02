@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-11,202201110LAC,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202201110LAC.html,36:38,.706,.679,.214,.143,16.0,22.8,19.6,51.9,1.4,0.0,25.2,24.2,117,93,14.0
+2022-01-11,202201110LAC,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202201110LAC.html,34:39,.786,.719,.250,.438,6.8,30.1,19.1,8.3,0.0,0.0,17.3,29.7,128,95,11.2
+2022-01-11,202201110LAC,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202201110LAC.html,34:11,.500,.500,.545,.000,0.0,9.2,4.8,28.1,1.5,0.0,21.4,18.2,89,94,-0.2
+2022-01-11,202201110LAC,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202201110LAC.html,29:43,.301,.000,1.000,1.500,3.9,14.0,9.3,10.1,0.0,0.0,23.1,12.9,67,97,-9.0
+2022-01-11,202201110LAC,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202201110LAC.html,17:36,.000,.000,.500,.000,0.0,17.8,9.4,8.5,2.9,5.5,0.0,5.1,28,85,-0.7
+2022-01-11,202201110LAC,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202201110LAC.html,28:09,.145,.000,.833,.333,0.0,18.5,9.8,26.6,0.0,3.4,12.7,12.5,61,93,-5.8
+2022-01-11,202201110LAC,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202201110LAC.html,21:11,.346,.313,.250,.188,16.6,4.9,10.4,0.0,0.0,0.0,14.8,42.7,70,98,-12.5
+2022-01-11,202201110LAC,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202201110LAC.html,13:43,.000,.000,1.000,.000,8.5,45.6,28.2,10.9,0.0,0.0,0.0,6.5,51,94,-4.4
+2022-01-11,202201110LAC,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202201110LAC.html,11:22,.625,.625,.250,.000,10.3,0.0,4.9,0.0,4.6,0.0,0.0,15.7,131,88,8.2
+2022-01-11,202201110LAC,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202201110LAC.html,8:28,.000,.000,.600,.000,0.0,37.0,19.5,17.7,0.0,0.0,0.0,26.3,13,94,-23.4
+2022-01-11,202201110LAC,DEN,James Ennis III,https://www.basketball-reference.com/boxscores/202201110LAC.html,4:20,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,10.3,0,98,-21.2
+2022-01-11,202201110LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202201110LAC.html,43:08,.731,.682,.636,.273,0.0,13.6,6.4,28.5,4.8,0.0,7.5,15.1,139,89,12.4
+2022-01-11,202201110LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202201110LAC.html,34:38,.368,.367,.333,.200,0.0,6.8,3.2,5.1,1.5,5.9,5.8,24.4,67,96,-6.4
+2022-01-11,202201110LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202201110LAC.html,31:25,.409,.367,.400,.133,3.3,7.5,5.3,23.2,3.3,0.0,11.2,27.8,81,95,-3.9
+2022-01-11,202201110LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202201110LAC.html,25:49,.500,.500,.833,.000,0.0,18.1,8.5,6.1,2.0,0.0,14.3,13.2,81,93,-5.3
+2022-01-11,202201110LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202201110LAC.html,9:49,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,14.9,58,104,-20.1
+2022-01-11,202201110LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202201110LAC.html,27:36,.547,.545,.455,.182,3.8,4.2,4.0,6.9,0.0,3.7,7.8,22.8,97,102,0.6
+2022-01-11,202201110LAC,LAC,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202201110LAC.html,25:54,.423,.423,.231,.000,4.0,9.0,6.4,67.4,6.0,0.0,13.3,28.3,94,88,9.5
+2022-01-11,202201110LAC,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202201110LAC.html,21:59,.286,.286,.429,.000,0.0,47.9,22.6,0.0,2.4,4.6,0.0,15.6,54,79,-4.8
+2022-01-11,202201110LAC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202201110LAC.html,19:42,.820,.750,.000,.500,0.0,17.8,8.4,0.0,0.0,0.0,0.0,12.1,160,98,2.1

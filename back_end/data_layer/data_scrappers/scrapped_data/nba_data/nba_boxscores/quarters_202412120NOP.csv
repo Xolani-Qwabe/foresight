@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-12-12,202412120NOP,SAC,Q1,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.92,2,6,.333,0,2,.000,1,2,.500,1,4,5,1,0,0,0,0,5,3.8,+8
+2024-12-12,202412120NOP,SAC,Q1,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.58,4,5,.800,0,0,,4,4,1.000,2,6,8,1,0,0,0,1,12,13.6,+3
+2024-12-12,202412120NOP,SAC,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.58,0,3,.000,0,0,,2,2,1.000,0,1,1,2,0,0,0,0,2,1.6,+3
+2024-12-12,202412120NOP,SAC,Q1,Malik Monk,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.58,1,3,.333,1,2,.500,0,0,,0,1,1,1,0,0,0,0,3,2.3,+3
+2024-12-12,202412120NOP,SAC,Q1,Keegan Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.92,1,4,.250,0,2,.000,1,1,1.000,1,1,2,0,0,0,0,2,3,0.8,+8
+2024-12-12,202412120NOP,SAC,Q1,Kevin Huerter,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.5,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,0,3,2.3,-7
+2024-12-12,202412120NOP,SAC,Q1,Keon Ellis,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.5,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-7
+2024-12-12,202412120NOP,SAC,Q1,Isaac Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,3.42,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-1
+2024-12-12,202412120NOP,SAC,Q2,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.72,2,5,.400,1,2,.500,0,0,,0,0,0,1,0,0,2,1,5,0.6,-4
+2024-12-12,202412120NOP,SAC,Q2,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.0,3,4,.750,0,0,,2,2,1.000,1,3,4,0,0,0,1,0,8,7.0,+2
+2024-12-12,202412120NOP,SAC,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.0,1,3,.333,0,0,,5,6,.833,0,2,2,0,1,0,0,2,7,5.7,+2
+2024-12-12,202412120NOP,SAC,Q2,Malik Monk,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.0,1,2,.500,0,0,,0,0,,0,2,2,2,0,0,1,0,2,2.0,+2
+2024-12-12,202412120NOP,SAC,Q2,Keegan Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.23,1,3,.333,1,1,1.000,0,0,,3,0,3,0,0,0,0,1,3,3.0,-6
+2024-12-12,202412120NOP,SAC,Q2,Kevin Huerter,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.77,0,4,.000,0,4,.000,0,0,,1,0,1,0,2,0,1,0,0,-1.1,-4
+2024-12-12,202412120NOP,SAC,Q2,Keon Ellis,https://www.basketball-reference.com/boxscores/202412120NOP.html,3.28,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,0
+2024-12-12,202412120NOP,SAC,Q2,Alex Len,https://www.basketball-reference.com/boxscores/202412120NOP.html,1.65,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,0
+2024-12-12,202412120NOP,SAC,Q2,Isaac Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,1.35,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6
+2024-12-12,202412120NOP,SAC,Q2,Colby Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,3.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6
+2024-12-12,202412120NOP,SAC,Q3,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.37,1,3,.333,0,0,,0,0,,1,0,1,4,0,1,0,0,2,4.5,+4
+2024-12-12,202412120NOP,SAC,Q3,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.48,3,4,.750,1,1,1.000,3,3,1.000,3,3,6,2,1,0,0,2,10,13.0,+11
+2024-12-12,202412120NOP,SAC,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.48,5,7,.714,3,3,1.000,3,3,1.000,0,0,0,0,1,0,1,0,16,13.1,+11
+2024-12-12,202412120NOP,SAC,Q3,Malik Monk,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.48,0,5,.000,0,2,.000,0,0,,0,0,0,3,1,0,1,1,0,-1.8,+11
+2024-12-12,202412120NOP,SAC,Q3,Keegan Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.37,2,3,.667,0,1,.000,0,0,,0,2,2,0,0,0,0,0,4,3.3,+4
+2024-12-12,202412120NOP,SAC,Q3,Kevin Huerter,https://www.basketball-reference.com/boxscores/202412120NOP.html,6.15,1,2,.500,0,1,.000,2,2,1.000,0,1,1,1,0,0,0,1,4,3.6,+5
+2024-12-12,202412120NOP,SAC,Q3,Keon Ellis,https://www.basketball-reference.com/boxscores/202412120NOP.html,6.15,0,0,,0,0,,2,2,1.000,1,1,2,0,1,0,0,0,2,4.0,+5
+2024-12-12,202412120NOP,SAC,Q3,Orlando Robinson,https://www.basketball-reference.com/boxscores/202412120NOP.html,2.52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2024-12-12,202412120NOP,SAC,Q4,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202412120NOP.html,10.43,2,6,.333,0,2,.000,2,2,1.000,1,0,1,2,1,0,3,1,6,2.3,-5
+2024-12-12,202412120NOP,SAC,Q4,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202412120NOP.html,7.22,1,2,.500,0,0,,0,0,,0,2,2,0,1,0,0,0,2,2.6,-10
+2024-12-12,202412120NOP,SAC,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202412120NOP.html,7.22,2,5,.400,0,0,,0,0,,0,0,0,0,2,0,0,1,4,2.9,-10
+2024-12-12,202412120NOP,SAC,Q4,Malik Monk,https://www.basketball-reference.com/boxscores/202412120NOP.html,7.22,0,1,.000,0,1,.000,0,0,,0,0,0,3,0,1,0,1,0,1.7,-10
+2024-12-12,202412120NOP,SAC,Q4,Keegan Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,10.42,3,4,.750,2,3,.667,0,0,,1,1,2,0,0,0,0,1,8,7.0,-5
+2024-12-12,202412120NOP,SAC,Q4,Kevin Huerter,https://www.basketball-reference.com/boxscores/202412120NOP.html,6.37,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,-0.4,+3
+2024-12-12,202412120NOP,SAC,Q4,Keon Ellis,https://www.basketball-reference.com/boxscores/202412120NOP.html,4.78,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+4
+2024-12-12,202412120NOP,SAC,Q4,Alex Len,https://www.basketball-reference.com/boxscores/202412120NOP.html,4.78,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,1,0,0.3,+4
+2024-12-12,202412120NOP,SAC,Q4,Colby Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,1.57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1
+2024-12-12,202412120NOP,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412120NOP.html,12.0,5,7,.714,3,5,.600,3,4,.750,0,3,3,0,0,0,0,0,16,13.6,-2
+2024-12-12,202412120NOP,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.07,2,5,.400,0,2,.000,0,0,,0,0,0,2,0,0,0,1,4,2.3,-7
+2024-12-12,202412120NOP,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,7.35,0,3,.000,0,0,,0,0,,0,0,0,2,0,0,0,2,0,-1.5,-10
+2024-12-12,202412120NOP,NOP,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.43,1,4,.250,0,1,.000,0,0,,0,3,3,1,0,1,0,0,2,1.9,-4
+2024-12-12,202412120NOP,NOP,Q1,Yves Missi,https://www.basketball-reference.com/boxscores/202412120NOP.html,6.5,1,1,1.000,0,0,,0,0,,1,2,3,0,0,0,1,1,2,1.6,-9
+2024-12-12,202412120NOP,NOP,Q1,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.5,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,1,0,1,0,0.6,+7
+2024-12-12,202412120NOP,NOP,Q1,Jamal Cain,https://www.basketball-reference.com/boxscores/202412120NOP.html,4.65,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+8
+2024-12-12,202412120NOP,NOP,Q1,Daniel Theis,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.5,0,1,.000,0,0,,2,2,1.000,0,0,0,2,0,0,0,0,2,2.7,+7
+2024-12-12,202412120NOP,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412120NOP.html,7.0,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,2,2,0,-3.9,+1
+2024-12-12,202412120NOP,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.52,3,6,.500,2,4,.500,0,0,,0,1,1,0,0,0,0,0,8,5.3,+1
+2024-12-12,202412120NOP,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,7.37,0,1,.000,0,1,.000,0,0,,0,2,2,1,0,0,0,0,0,0.6,+3
+2024-12-12,202412120NOP,NOP,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,7.53,2,4,.500,1,2,.500,2,2,1.000,0,1,1,1,1,0,2,0,7,5.0,+1
+2024-12-12,202412120NOP,NOP,Q2,Yves Missi,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.83,0,1,.000,0,0,,0,0,,2,0,2,1,0,1,0,2,0,1.3,+2
+2024-12-12,202412120NOP,NOP,Q2,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.1,3,6,.500,1,2,.500,2,2,1.000,0,1,1,0,1,0,0,0,9,7.3,+4
+2024-12-12,202412120NOP,NOP,Q2,Jamal Cain,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.0,0,0,,0,0,,1,2,.500,1,1,2,0,0,0,0,1,1,1.2,+3
+2024-12-12,202412120NOP,NOP,Q2,Daniel Theis,https://www.basketball-reference.com/boxscores/202412120NOP.html,3.48,1,1,1.000,1,1,1.000,0,0,,1,1,2,0,1,0,1,3,3,2.5,+3
+2024-12-12,202412120NOP,NOP,Q2,Antonio Reeves,https://www.basketball-reference.com/boxscores/202412120NOP.html,3.48,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,0,0,1.4,+3
+2024-12-12,202412120NOP,NOP,Q2,Trey Jemison,https://www.basketball-reference.com/boxscores/202412120NOP.html,2.68,0,0,,0,0,,1,2,.500,0,0,0,0,1,0,0,0,1,1.6,-1
+2024-12-12,202412120NOP,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412120NOP.html,12.0,1,3,.333,0,1,.000,1,1,1.000,0,0,0,0,0,0,0,1,3,0.9,-10
+2024-12-12,202412120NOP,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.83,3,4,.750,0,0,,1,1,1.000,0,0,0,1,0,0,1,0,7,5.1,-4
+2024-12-12,202412120NOP,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.68,2,4,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,0,5,4.0,-4
+2024-12-12,202412120NOP,NOP,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.75,4,7,.571,1,2,.500,0,0,,0,1,1,2,0,0,3,2,9,3.6,-11
+2024-12-12,202412120NOP,NOP,Q3,Yves Missi,https://www.basketball-reference.com/boxscores/202412120NOP.html,6.58,1,1,1.000,0,0,,0,0,,2,3,5,0,0,0,0,1,2,3.6,-5
+2024-12-12,202412120NOP,NOP,Q3,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.42,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,1,1,0,-1.8,-5
+2024-12-12,202412120NOP,NOP,Q3,Jamal Cain,https://www.basketball-reference.com/boxscores/202412120NOP.html,3.32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6
+2024-12-12,202412120NOP,NOP,Q3,Daniel Theis,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.42,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-5
+2024-12-12,202412120NOP,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412120NOP.html,8.8,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,1,0,0,0,2,2.3,+10
+2024-12-12,202412120NOP,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.55,6,9,.667,4,5,.800,1,1,1.000,0,2,2,0,0,0,1,1,17,12.3,+6
+2024-12-12,202412120NOP,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202412120NOP.html,12.0,1,2,.500,0,1,.000,0,0,,1,3,4,0,1,0,2,1,2,1.2,+6
+2024-12-12,202412120NOP,NOP,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412120NOP.html,9.45,1,4,.250,0,2,.000,0,0,,0,2,2,5,0,1,3,0,2,1.4,+8
+2024-12-12,202412120NOP,NOP,Q4,Yves Missi,https://www.basketball-reference.com/boxscores/202412120NOP.html,12.0,1,1,1.000,0,0,,1,1,1.000,0,1,1,0,0,0,0,1,3,2.6,+6
+2024-12-12,202412120NOP,NOP,Q4,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412120NOP.html,5.63,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-4
+2024-12-12,202412120NOP,NOP,Q4,Jamal Cain,https://www.basketball-reference.com/boxscores/202412120NOP.html,2.57,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2

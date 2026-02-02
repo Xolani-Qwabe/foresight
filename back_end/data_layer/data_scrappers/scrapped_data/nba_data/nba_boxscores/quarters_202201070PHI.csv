@@ -1,0 +1,81 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2022-01-07,202201070PHI,SAS,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.43,0,2,.000,0,0,0,0,0,0,0,4,0,1,4,0,0,-1.9,-15,,
+2022-01-07,202201070PHI,SAS,Q1,Bryn Forbes,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.4,1,3,.333,0,0,0,0,0,1,1,0,0,1,0,0,2,1.3,-15,,
+2022-01-07,202201070PHI,SAS,Q1,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201070PHI.html,1.97,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,2,0,-2.2,-7,,
+2022-01-07,202201070PHI,SAS,Q1,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.07,1,2,.500,1,2,0,0,0,1,1,0,0,0,0,0,3,2.3,-13,.500,
+2022-01-07,202201070PHI,SAS,Q1,Joshua Primo,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.07,2,2,1.000,1,1,0,0,0,0,0,0,0,1,1,2,5,3.3,-13,1.000,
+2022-01-07,202201070PHI,SAS,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.93,0,3,.000,0,1,0,0,0,1,1,1,0,0,0,1,0,-1.5,-7,.000,
+2022-01-07,202201070PHI,SAS,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201070PHI.html,10.03,2,2,1.000,0,0,0,0,1,0,1,2,0,0,0,0,4,5.5,-13,,
+2022-01-07,202201070PHI,SAS,Q1,Jock Landale,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.93,2,2,1.000,1,1,0,0,0,1,1,0,0,0,0,0,5,4.7,-7,1.000,
+2022-01-07,202201070PHI,SAS,Q1,Tyler Johnson,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.6,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,,
+2022-01-07,202201070PHI,SAS,Q1,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.57,0,2,.000,0,1,0,0,0,1,1,0,0,0,0,1,0,-1.5,-5,.000,
+2022-01-07,202201070PHI,SAS,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201070PHI.html,9.28,3,5,.600,1,2,3,3,0,0,0,2,1,0,0,0,10,10.1,+2,.500,1.000
+2022-01-07,202201070PHI,SAS,Q2,Bryn Forbes,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.8,1,6,.167,1,5,0,0,1,0,1,3,0,0,0,0,3,2.0,+1,.200,
+2022-01-07,202201070PHI,SAS,Q2,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201070PHI.html,10.12,5,6,.833,0,0,3,4,0,1,1,0,0,0,0,0,13,10.7,+8,,.750
+2022-01-07,202201070PHI,SAS,Q2,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.47,0,1,.000,0,0,2,2,0,1,1,0,0,0,0,1,2,1.2,+5,,1.000
+2022-01-07,202201070PHI,SAS,Q2,Joshua Primo,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.05,0,0,,0,0,0,0,0,1,1,0,0,0,0,1,0,-0.1,+1,,
+2022-01-07,202201070PHI,SAS,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201070PHI.html,6.25,3,5,.600,0,0,0,0,0,1,1,1,0,0,0,0,6,4.7,-3,,
+2022-01-07,202201070PHI,SAS,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201070PHI.html,1.88,0,1,.000,0,0,0,0,2,0,2,0,0,0,0,2,0,-0.1,-6,,
+2022-01-07,202201070PHI,SAS,Q2,Jock Landale,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.5,0,2,.000,0,2,0,0,0,0,0,0,0,1,0,0,0,-0.7,-5,.000,
+2022-01-07,202201070PHI,SAS,Q2,Tyler Johnson,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.67,0,0,,0,0,0,0,2,0,2,2,0,0,1,1,0,1.4,+7,,
+2022-01-07,202201070PHI,SAS,Q2,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202201070PHI.html,1.98,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2022-01-07,202201070PHI,SAS,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201070PHI.html,12.0,5,10,.500,2,4,0,0,0,4,4,2,0,0,1,2,12,7.8,+1,.500,
+2022-01-07,202201070PHI,SAS,Q3,Bryn Forbes,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.95,1,2,.500,0,0,0,0,0,1,1,0,0,0,0,1,2,0.9,+5,,
+2022-01-07,202201070PHI,SAS,Q3,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201070PHI.html,9.57,1,3,.333,0,0,0,0,1,2,3,0,1,1,0,0,2,3.3,+2,,
+2022-01-07,202201070PHI,SAS,Q3,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.95,1,2,.500,0,0,0,0,0,2,2,0,0,0,0,0,2,1.6,+5,,
+2022-01-07,202201070PHI,SAS,Q3,Joshua Primo,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.12,1,2,.500,0,1,0,0,0,0,0,1,0,0,0,1,2,1.3,+4,.000,
+2022-01-07,202201070PHI,SAS,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201070PHI.html,5.58,2,3,.667,1,2,2,2,0,2,2,0,0,0,1,1,7,4.9,-3,.500,1.000
+2022-01-07,202201070PHI,SAS,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.43,0,0,,0,0,0,0,0,1,1,0,0,0,1,0,0,-0.7,-1,,
+2022-01-07,202201070PHI,SAS,Q3,Jock Landale,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.05,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,,
+2022-01-07,202201070PHI,SAS,Q3,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.35,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,.000,
+2022-01-07,202201070PHI,SAS,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201070PHI.html,5.87,2,6,.333,0,0,1,2,1,0,1,1,2,0,1,1,5,3.2,-4,,.500
+2022-01-07,202201070PHI,SAS,Q4,Bryn Forbes,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.13,0,3,.000,0,2,0,0,0,2,2,0,1,0,0,1,0,-0.9,+1,.000,
+2022-01-07,202201070PHI,SAS,Q4,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.13,1,1,1.000,0,0,0,0,1,1,2,1,0,0,0,0,2,3.4,+1,,
+2022-01-07,202201070PHI,SAS,Q4,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.4,1,1,1.000,0,0,0,0,0,1,1,0,0,0,0,0,2,2.0,-2,,
+2022-01-07,202201070PHI,SAS,Q4,Joshua Primo,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.13,1,3,.333,0,1,0,0,1,0,1,1,1,0,1,0,2,1.7,+1,.000,
+2022-01-07,202201070PHI,SAS,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.27,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.0,+5,,
+2022-01-07,202201070PHI,SAS,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.87,0,1,.000,0,0,2,2,0,0,0,0,0,0,0,1,2,0.9,-3,,1.000
+2022-01-07,202201070PHI,SAS,Q4,Jock Landale,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.73,1,2,.500,1,2,0,0,0,1,1,0,0,1,0,0,3,3.0,+3,.500,
+2022-01-07,202201070PHI,SAS,Q4,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.87,0,0,,0,0,1,3,0,1,1,0,0,0,0,0,1,0.5,-3,,.333
+2022-01-07,202201070PHI,SAS,Q4,Devontae Cacok,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.87,1,2,.500,0,0,0,0,1,0,1,0,0,0,0,1,2,1.3,-3,,
+2022-01-07,202201070PHI,SAS,Q4,Jaylen Morris,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.87,0,2,.000,0,1,1,2,0,0,0,0,0,0,0,1,1,-1.2,-3,.000,.500
+2022-01-07,202201070PHI,SAS,Q4,Anthony Lamb,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.87,0,1,.000,0,1,0,0,0,1,1,1,0,0,0,0,0,0.3,-3,.000,
+2022-01-07,202201070PHI,PHI,Q1,Seth Curry,https://www.basketball-reference.com/boxscores/202201070PHI.html,10.63,6,7,.857,1,2,0,0,0,3,3,1,0,0,0,1,13,11.7,+18,.500,
+2022-01-07,202201070PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.07,4,4,1.000,0,0,0,0,0,2,2,1,0,0,0,0,8,8.1,+13,,
+2022-01-07,202201070PHI,PHI,Q1,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.43,1,1,1.000,0,0,0,0,0,1,1,0,2,0,0,0,2,4.0,+17,,
+2022-01-07,202201070PHI,PHI,Q1,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.43,0,3,.000,0,2,0,0,0,1,1,1,0,0,0,0,0,-1.1,+15,.000,
+2022-01-07,202201070PHI,PHI,Q1,Joel Embiid,https://www.basketball-reference.com/boxscores/202201070PHI.html,10.97,2,7,.286,0,0,7,9,1,2,3,5,0,0,0,0,11,10.9,+18,,.778
+2022-01-07,202201070PHI,PHI,Q1,Georges Niang,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.93,0,1,.000,0,1,0,0,1,0,1,1,0,0,0,0,0,0.7,+7,.000,
+2022-01-07,202201070PHI,PHI,Q1,Danny Green,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.9,0,0,,0,0,0,0,0,2,2,1,0,1,0,0,0,2.0,+5,,
+2022-01-07,202201070PHI,PHI,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202201070PHI.html,1.03,1,1,1.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1.7,+2,,
+2022-01-07,202201070PHI,PHI,Q1,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.6,1,2,.500,0,0,1,1,0,0,0,0,2,0,0,0,3,4.0,+5,,1.000
+2022-01-07,202201070PHI,PHI,Q2,Seth Curry,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.32,2,3,.667,1,2,0,0,0,3,3,2,0,0,1,1,5,4.6,+7,.500,
+2022-01-07,202201070PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202201070PHI.html,9.72,3,4,.750,0,0,0,0,1,1,2,1,0,0,0,1,6,5.7,-8,,
+2022-01-07,202201070PHI,PHI,Q2,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202201070PHI.html,9.78,2,2,1.000,1,1,0,0,0,0,0,0,0,0,0,0,5,4.4,-1,1.000,
+2022-01-07,202201070PHI,PHI,Q2,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.18,1,3,.333,0,2,0,0,1,1,2,1,0,0,1,0,2,1.0,-4,.000,
+2022-01-07,202201070PHI,PHI,Q2,Joel Embiid,https://www.basketball-reference.com/boxscores/202201070PHI.html,6.97,4,6,.667,0,0,2,2,0,0,0,1,0,0,1,1,10,6.7,+5,,1.000
+2022-01-07,202201070PHI,PHI,Q2,Georges Niang,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.23,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,1,3,2.3,-1,1.000,
+2022-01-07,202201070PHI,PHI,Q2,Danny Green,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.77,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2022-01-07,202201070PHI,PHI,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202201070PHI.html,5.03,0,1,.000,0,0,1,2,2,1,3,1,0,0,1,3,1,0.1,-7,,.500
+2022-01-07,202201070PHI,PHI,Q3,Seth Curry,https://www.basketball-reference.com/boxscores/202201070PHI.html,12.0,1,6,.167,1,4,0,0,0,1,1,3,0,0,0,0,3,1.6,-1,.250,
+2022-01-07,202201070PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.95,1,1,1.000,0,0,3,4,0,1,1,1,0,0,0,0,5,5.3,-5,,.750
+2022-01-07,202201070PHI,PHI,Q3,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202201070PHI.html,9.57,1,1,1.000,0,0,0,0,0,1,1,1,0,0,0,0,2,2.7,-2,,
+2022-01-07,202201070PHI,PHI,Q3,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202201070PHI.html,8.58,2,3,.667,1,2,0,0,0,1,1,0,0,0,0,0,5,4.0,-3,.500,
+2022-01-07,202201070PHI,PHI,Q3,Joel Embiid,https://www.basketball-reference.com/boxscores/202201070PHI.html,10.55,3,8,.375,0,1,2,4,1,5,6,0,0,1,1,0,8,4.7,-1,.000,.500
+2022-01-07,202201070PHI,PHI,Q3,Georges Niang,https://www.basketball-reference.com/boxscores/202201070PHI.html,4.05,0,0,,0,0,0,0,0,0,0,0,0,0,0,2,0,-0.8,+4,,
+2022-01-07,202201070PHI,PHI,Q3,Danny Green,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.42,1,2,.500,1,2,0,0,0,0,0,0,0,0,0,0,3,2.0,+2,.500,
+2022-01-07,202201070PHI,PHI,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202201070PHI.html,1.45,0,0,,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0,,
+2022-01-07,202201070PHI,PHI,Q3,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.43,0,0,,0,0,0,0,1,0,1,1,0,0,0,0,0,1.4,+1,,
+2022-01-07,202201070PHI,PHI,Q4,Seth Curry,https://www.basketball-reference.com/boxscores/202201070PHI.html,5.58,1,2,.500,0,0,0,0,0,0,0,1,0,0,0,1,2,1.3,+6,,
+2022-01-07,202201070PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202201070PHI.html,9.57,1,3,.333,0,0,2,2,1,1,2,2,0,0,0,1,4,4.3,+2,,1.000
+2022-01-07,202201070PHI,PHI,Q4,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202201070PHI.html,5.58,1,1,1.000,0,0,1,1,0,0,0,0,0,0,0,0,3,2.7,+6,,1.000
+2022-01-07,202201070PHI,PHI,Q4,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202201070PHI.html,7.97,0,2,.000,0,0,0,0,0,1,1,0,0,0,0,1,0,-1.5,-1,,
+2022-01-07,202201070PHI,PHI,Q4,Joel Embiid,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.47,1,2,.500,0,0,0,0,1,2,3,1,0,0,2,0,2,1.0,+4,,
+2022-01-07,202201070PHI,PHI,Q4,Georges Niang,https://www.basketball-reference.com/boxscores/202201070PHI.html,3.98,1,2,.500,0,1,0,0,0,1,1,0,0,0,2,1,2,-1.1,-4,.000,
+2022-01-07,202201070PHI,PHI,Q4,Danny Green,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.7,1,2,.500,1,1,0,0,0,0,0,0,0,0,0,0,3,2.0,+3,1.000,
+2022-01-07,202201070PHI,PHI,Q4,Andre Drummond,https://www.basketball-reference.com/boxscores/202201070PHI.html,6.1,1,2,.500,0,0,0,0,1,2,3,1,2,0,2,0,2,3.0,-2,,
+2022-01-07,202201070PHI,PHI,Q4,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202201070PHI.html,5.32,0,0,,0,0,0,0,0,2,2,0,0,1,1,1,0,-0.1,-4,,
+2022-01-07,202201070PHI,PHI,Q4,Aaron Henry,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.43,1,2,.500,0,0,0,0,0,0,0,0,0,0,0,1,2,0.6,0,,
+2022-01-07,202201070PHI,PHI,Q4,Myles Powell,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.43,0,0,,0,0,2,2,0,0,0,0,0,0,0,1,2,1.6,0,,1.000
+2022-01-07,202201070PHI,PHI,Q4,Charles Bassey,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.43,0,1,.000,0,0,0,0,1,1,2,0,0,1,0,1,0,0.6,0,,
+2022-01-07,202201070PHI,PHI,Q4,Braxton Key,https://www.basketball-reference.com/boxscores/202201070PHI.html,2.43,0,1,.000,0,1,0,0,0,1,1,1,0,0,0,0,0,0.3,0,.000,

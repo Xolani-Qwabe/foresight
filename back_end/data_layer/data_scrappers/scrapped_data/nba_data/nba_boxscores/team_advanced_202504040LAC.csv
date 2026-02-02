@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-04-04,202504040LAC,DAL,Naji Marshall,https://www.basketball-reference.com/boxscores/202504040LAC.html,36:27,.628,.571,.143,.571,3.1,9.0,6.1,21.5,1.3,0.0,18.6,26.6,107,119,1.8
+2025-04-04,202504040LAC,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202504040LAC.html,29:20,.628,.615,.462,.231,0.0,11.2,5.6,27.8,0.0,0.0,6.5,23.6,121,121,4.3
+2025-04-04,202504040LAC,DAL,P.J. Washington,https://www.basketball-reference.com/boxscores/202504040LAC.html,27:46,.571,.643,.286,.286,0.0,39.3,19.9,12.3,0.0,0.0,27.6,17.7,80,114,-2.2
+2025-04-04,202504040LAC,DAL,Daniel Gafford,https://www.basketball-reference.com/boxscores/202504040LAC.html,18:31,.340,.400,.000,.400,12.1,17.7,14.9,0.0,2.7,0.0,14.5,16.8,71,113,-10.0
+2025-04-04,202504040LAC,DAL,Klay Thompson,https://www.basketball-reference.com/boxscores/202504040LAC.html,12:31,.333,.333,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,14.4,48,124,-16.3
+2025-04-04,202504040LAC,DAL,Max Christie,https://www.basketball-reference.com/boxscores/202504040LAC.html,34:09,.370,.321,.357,.143,3.3,16.0,9.7,4.8,1.4,0.0,0.0,19.6,82,117,-5.1
+2025-04-04,202504040LAC,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202504040LAC.html,29:14,.457,.357,.286,.571,3.8,14.9,9.4,30.6,3.4,0.0,18.6,33.2,86,112,-1.8
+2025-04-04,202504040LAC,DAL,Kai Jones,https://www.basketball-reference.com/boxscores/202504040LAC.html,22:23,.699,.667,.000,.167,5.0,9.7,7.4,16.2,2.2,0.0,13.4,15.0,126,116,2.5
+2025-04-04,202504040LAC,DAL,Caleb Martin,https://www.basketball-reference.com/boxscores/202504040LAC.html,17:39,.000,.000,.000,.000,0.0,6.2,3.1,0.0,2.8,0.0,66.7,7.7,0,116,-13.4
+2025-04-04,202504040LAC,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202504040LAC.html,12:00,,,,,0.0,18.2,9.2,11.4,0.0,0.0,,0.0,211,120,-2.4
+2025-04-04,202504040LAC,LAC,James Harden,https://www.basketball-reference.com/boxscores/202504040LAC.html,30:18,.509,.409,.364,.364,0.0,14.7,7.3,21.0,3.2,0.0,28.2,25.8,89,92,-4.6
+2025-04-04,202504040LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202504040LAC.html,29:42,.589,.545,.455,.182,0.0,3.8,1.9,9.0,1.7,0.0,0.0,17.6,131,97,1.7
+2025-04-04,202504040LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202504040LAC.html,26:59,.444,.429,.000,.286,28.3,24.8,26.6,10.7,1.8,3.1,11.3,29.0,106,91,-2.4
+2025-04-04,202504040LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202504040LAC.html,23:44,.559,.529,.294,.118,4.6,23.5,13.9,14.5,2.1,0.0,0.0,33.2,124,93,6.7
+2025-04-04,202504040LAC,LAC,Kris Dunn,https://www.basketball-reference.com/boxscores/202504040LAC.html,23:34,.750,.750,.333,.000,0.0,28.4,14.0,0.0,0.0,0.0,14.3,13.1,121,97,-1.9
+2025-04-04,202504040LAC,LAC,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202504040LAC.html,22:56,1.031,1.167,.333,.667,0.0,4.9,2.4,0.0,4.3,3.7,20.5,9.4,144,89,6.4
+2025-04-04,202504040LAC,LAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202504040LAC.html,21:15,.750,.750,.750,.000,0.0,21.0,10.4,38.8,2.3,0.0,0.0,16.6,171,93,15.8
+2025-04-04,202504040LAC,LAC,Drew Eubanks,https://www.basketball-reference.com/boxscores/202504040LAC.html,17:32,.857,.857,.000,.000,6.2,38.2,22.0,19.9,2.8,4.8,12.5,20.1,152,86,15.4
+2025-04-04,202504040LAC,LAC,Kobe Brown,https://www.basketball-reference.com/boxscores/202504040LAC.html,14:12,.000,.000,.500,.000,7.7,7.9,7.8,30.7,0.0,5.9,42.9,21.7,45,95,-11.7
+2025-04-04,202504040LAC,LAC,Patty Mills,https://www.basketball-reference.com/boxscores/202504040LAC.html,8:10,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.8,148,101,-2.1
+2025-04-04,202504040LAC,LAC,Cam Christie,https://www.basketball-reference.com/boxscores/202504040LAC.html,6:26,.387,.333,.333,.667,17.0,17.4,17.2,0.0,15.3,0.0,0.0,26.5,99,67,8.3
+2025-04-04,202504040LAC,LAC,Trentyn Flowers,https://www.basketball-reference.com/boxscores/202504040LAC.html,6:26,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.8,0,101,-14.5
+2025-04-04,202504040LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202504040LAC.html,5:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,102,-5.2
+2025-04-04,202504040LAC,LAC,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202504040LAC.html,3:29,1.500,1.500,1.000,.000,0.0,64.1,31.7,0.0,0.0,0.0,0.0,25.3,300,89,47.4

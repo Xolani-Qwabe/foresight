@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2020-02-02,202002020HOU,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,4,6,.667,2,3,.667,0,0,1,2,3,1,0,0,2,1,10,7.0,-2,
+2020-02-02,202002020HOU,NOP,Q1,Lonzo Ball,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.47,3,3,1.000,2,2,1.000,0,0,0,4,4,1,0,0,1,1,8,7.6,+4,
+2020-02-02,202002020HOU,NOP,Q1,Jrue Holiday,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,1,3,.333,0,1,.000,0,0,0,1,1,2,0,0,2,0,2,0.0,-2,
+2020-02-02,202002020HOU,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.42,2,3,.667,0,0,,0,0,1,3,4,1,0,0,2,0,4,3.0,+5,
+2020-02-02,202002020HOU,NOP,Q1,Derrick Favors,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.47,0,0,,0,0,,0,0,0,2,2,0,0,0,2,1,0,-1.8,+4,
+2020-02-02,202002020HOU,NOP,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202002020HOU.html,3.53,0,0,,0,0,,2,2,0,1,1,0,0,0,1,0,2,1.3,-6,1.000
+2020-02-02,202002020HOU,NOP,Q1,JJ Redick,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.58,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-7,
+2020-02-02,202002020HOU,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202002020HOU.html,3.53,1,3,.333,0,0,,0,0,1,1,2,0,0,0,0,0,2,1.3,-6,
+2020-02-02,202002020HOU,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.42,1,4,.250,0,2,.000,0,0,0,3,3,2,0,0,0,0,2,1.9,-2,
+2020-02-02,202002020HOU,NOP,Q2,Lonzo Ball,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.22,0,0,,0,0,,0,0,0,2,2,4,0,0,1,0,0,2.4,-4,
+2020-02-02,202002020HOU,NOP,Q2,Jrue Holiday,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.35,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,1,2,0.6,-1,
+2020-02-02,202002020HOU,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202002020HOU.html,9.37,4,6,.667,0,0,,3,5,3,0,3,0,0,0,1,1,11,8.3,0,.600
+2020-02-02,202002020HOU,NOP,Q2,Derrick Favors,https://www.basketball-reference.com/boxscores/202002020HOU.html,3.88,0,2,.000,0,0,,0,0,3,0,3,0,0,0,0,0,0,0.7,+1,
+2020-02-02,202002020HOU,NOP,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,3,6,.500,3,4,.750,0,0,2,2,4,1,0,0,0,0,9,8.7,-3,
+2020-02-02,202002020HOU,NOP,Q2,E'Twaun Moore,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.65,3,4,.750,0,1,.000,0,0,0,0,0,0,0,1,1,1,6,3.7,-2,
+2020-02-02,202002020HOU,NOP,Q2,JJ Redick,https://www.basketball-reference.com/boxscores/202002020HOU.html,3.57,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,0,
+2020-02-02,202002020HOU,NOP,Q2,Nicolò Melli,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.55,1,3,.333,0,1,.000,0,0,0,3,3,0,0,0,1,0,2,0.2,-4,
+2020-02-02,202002020HOU,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,5,9,.556,3,4,.750,3,3,0,5,5,0,0,0,2,0,16,11.2,+6,1.000
+2020-02-02,202002020HOU,NOP,Q3,Lonzo Ball,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.63,0,2,.000,0,2,.000,0,0,0,2,2,3,2,0,1,1,0,1.9,+7,
+2020-02-02,202002020HOU,NOP,Q3,Jrue Holiday,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,2,5,.400,0,1,.000,0,0,0,1,1,4,0,0,1,1,4,3.0,+6,
+2020-02-02,202002020HOU,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202002020HOU.html,5.83,1,2,.500,0,0,,0,0,0,1,1,0,0,1,0,0,2,2.0,+5,
+2020-02-02,202002020HOU,NOP,Q3,Derrick Favors,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.63,4,5,.800,0,0,,1,1,2,3,5,1,0,0,1,0,9,9.1,+7,1.000
+2020-02-02,202002020HOU,NOP,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202002020HOU.html,3.37,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,2,2.0,-1,
+2020-02-02,202002020HOU,NOP,Q3,JJ Redick,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.17,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,2,0,-1.5,+1,
+2020-02-02,202002020HOU,NOP,Q3,Nicolò Melli,https://www.basketball-reference.com/boxscores/202002020HOU.html,3.37,0,0,,0,0,,0,0,0,1,1,0,1,1,0,0,0,2.0,-1,
+2020-02-02,202002020HOU,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.77,0,4,.000,0,2,.000,0,0,0,1,1,0,0,0,0,1,0,-2.9,-7,
+2020-02-02,202002020HOU,NOP,Q4,Lonzo Ball,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,0,2,.000,0,2,.000,2,2,1,2,3,1,1,2,1,0,2,4.0,-9,1.000
+2020-02-02,202002020HOU,NOP,Q4,Jrue Holiday,https://www.basketball-reference.com/boxscores/202002020HOU.html,5.23,1,4,.250,0,2,.000,1,3,0,1,1,0,0,1,1,1,3,-0.6,-5,.333
+2020-02-02,202002020HOU,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202002020HOU.html,10.37,1,3,.333,0,0,,2,2,1,1,2,0,1,0,0,1,4,3.9,-7,1.000
+2020-02-02,202002020HOU,NOP,Q4,Derrick Favors,https://www.basketball-reference.com/boxscores/202002020HOU.html,2.93,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-1,
+2020-02-02,202002020HOU,NOP,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202002020HOU.html,10.7,1,4,.250,0,1,.000,1,2,1,3,4,0,1,0,0,2,3,2.0,-10,.500
+2020-02-02,202002020HOU,NOP,Q4,E'Twaun Moore,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.77,2,4,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,4,2.0,-4,
+2020-02-02,202002020HOU,NOP,Q4,Nicolò Melli,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.23,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2020-02-02,202002020HOU,HOU,Q1,James Harden,https://www.basketball-reference.com/boxscores/202002020HOU.html,9.47,4,7,.571,2,5,.400,4,4,1,0,1,3,0,1,0,1,14,13.8,-6,1.000
+2020-02-02,202002020HOU,HOU,Q1,P.J. Tucker,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.47,0,2,.000,0,1,.000,0,0,1,2,3,0,0,0,0,0,0,-0.1,-4,
+2020-02-02,202002020HOU,HOU,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202002020HOU.html,9.95,1,6,.167,0,0,,0,0,0,1,1,2,0,0,1,1,2,-1.5,+3,
+2020-02-02,202002020HOU,HOU,Q1,Eric Gordon,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.2,0,0,,0,0,,0,0,0,0,0,1,1,0,0,0,0,1.7,-1,
+2020-02-02,202002020HOU,HOU,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.67,1,4,.250,0,3,.000,0,0,0,0,0,0,1,0,0,0,2,0.6,-11,
+2020-02-02,202002020HOU,HOU,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.33,3,4,.750,1,2,.500,0,0,0,0,0,0,1,0,0,0,7,6.4,+11,
+2020-02-02,202002020HOU,HOU,Q1,Austin Rivers,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.58,1,4,.250,0,2,.000,0,0,0,0,0,1,0,0,0,0,2,0.3,+7,
+2020-02-02,202002020HOU,HOU,Q1,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.33,1,1,1.000,1,1,1.000,0,0,0,2,2,0,3,0,0,1,3,5.9,+11,
+2020-02-02,202002020HOU,HOU,Q2,James Harden,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.43,4,6,.667,3,4,.750,1,1,0,3,3,1,0,1,0,1,12,11.3,+3,1.000
+2020-02-02,202002020HOU,HOU,Q2,P.J. Tucker,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,2,0,-1.9,+3,
+2020-02-02,202002020HOU,HOU,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.92,3,6,.500,0,1,.000,3,3,2,0,2,3,0,0,0,0,9,9.5,+1,1.000
+2020-02-02,202002020HOU,HOU,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.65,1,4,.250,1,3,.333,0,0,0,0,0,0,2,0,0,1,3,2.2,+2,
+2020-02-02,202002020HOU,HOU,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.02,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+5,
+2020-02-02,202002020HOU,HOU,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.92,2,3,.667,2,3,.667,3,3,0,0,0,0,0,0,0,0,9,7.7,+1,1.000
+2020-02-02,202002020HOU,HOU,Q2,Austin Rivers,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.65,1,3,.333,0,1,.000,0,0,0,1,1,1,1,0,0,0,2,2.3,+2,
+2020-02-02,202002020HOU,HOU,Q2,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.42,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,-2,
+2020-02-02,202002020HOU,HOU,Q3,James Harden,https://www.basketball-reference.com/boxscores/202002020HOU.html,9.33,1,3,.333,1,2,.500,0,0,0,3,3,3,0,0,3,1,3,0.9,-5,
+2020-02-02,202002020HOU,HOU,Q3,P.J. Tucker,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.23,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-7,
+2020-02-02,202002020HOU,HOU,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202002020HOU.html,10.05,4,9,.444,1,2,.500,0,0,0,0,0,0,1,0,0,1,9,4.9,-9,
+2020-02-02,202002020HOU,HOU,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202002020HOU.html,7.83,1,3,.333,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-7,
+2020-02-02,202002020HOU,HOU,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.27,1,3,.333,0,2,.000,0,0,0,4,4,1,0,0,0,0,2,2.2,-4,
+2020-02-02,202002020HOU,HOU,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.83,1,3,.333,1,2,.500,3,5,0,0,0,0,1,0,0,0,6,4.5,0,.600
+2020-02-02,202002020HOU,HOU,Q3,Austin Rivers,https://www.basketball-reference.com/boxscores/202002020HOU.html,4.62,2,4,.500,0,1,.000,0,0,0,0,0,0,1,0,0,0,4,3.0,+2,
+2020-02-02,202002020HOU,HOU,Q3,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.83,0,0,,0,0,,1,2,0,1,1,1,0,1,0,1,1,1.9,0,.500
+2020-02-02,202002020HOU,HOU,Q4,James Harden,https://www.basketball-reference.com/boxscores/202002020HOU.html,11.55,3,8,.375,1,4,.250,4,4,1,2,3,2,0,0,1,2,11,7.5,+11,1.000
+2020-02-02,202002020HOU,HOU,Q4,P.J. Tucker,https://www.basketball-reference.com/boxscores/202002020HOU.html,12.0,0,1,.000,0,0,,0,0,1,4,5,0,1,0,1,0,0,1.2,+9,
+2020-02-02,202002020HOU,HOU,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/202002020HOU.html,8.12,1,3,.333,0,1,.000,0,0,0,3,3,2,0,0,1,2,2,0.8,+4,
+2020-02-02,202002020HOU,HOU,Q4,Eric Gordon,https://www.basketball-reference.com/boxscores/202002020HOU.html,9.47,2,5,.400,0,3,.000,0,0,1,0,1,1,1,0,0,1,4,3.3,+7,
+2020-02-02,202002020HOU,HOU,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202002020HOU.html,9.12,3,6,.500,2,3,.667,0,0,4,4,8,0,0,0,0,0,8,9.0,+10,
+2020-02-02,202002020HOU,HOU,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/202002020HOU.html,2.53,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,+2,
+2020-02-02,202002020HOU,HOU,Q4,Austin Rivers,https://www.basketball-reference.com/boxscores/202002020HOU.html,6.77,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,+4,
+2020-02-02,202002020HOU,HOU,Q4,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202002020HOU.html,0.45,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,

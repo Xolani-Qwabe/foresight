@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-01,202312010ORL,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312010ORL.html,37:20,.654,.611,.333,.333,3.1,15.3,9.2,4.0,1.2,4.4,22.5,29.4,100,122,-4.8
+2023-12-01,202312010ORL,WAS,Jordan Poole,https://www.basketball-reference.com/boxscores/202312010ORL.html,30:20,.439,.250,.417,.750,0.0,15.1,7.5,15.7,1.5,0.0,11.1,24.4,95,124,-10.6
+2023-12-01,202312010ORL,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202312010ORL.html,27:20,.688,.700,.000,.700,16.7,29.3,23.0,16.1,0.0,9.1,7.1,21.2,144,118,5.6
+2023-12-01,202312010ORL,WAS,Tyus Jones,https://www.basketball-reference.com/boxscores/202312010ORL.html,25:50,.650,.650,.500,.000,0.0,13.3,6.6,31.2,3.5,0.0,0.0,15.9,147,120,6.7
+2023-12-01,202312010ORL,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202312010ORL.html,20:27,.381,.286,.286,.286,0.0,16.8,8.4,29.1,0.0,0.0,0.0,15.9,110,127,-2.5
+2023-12-01,202312010ORL,WAS,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312010ORL.html,31:37,.857,.857,.000,.000,3.6,14.5,9.0,0.0,4.3,0.0,22.2,11.7,124,118,1.5
+2023-12-01,202312010ORL,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202312010ORL.html,22:39,.588,.545,.545,.364,0.0,5.0,2.5,17.4,0.0,0.0,0.0,23.2,129,130,1.5
+2023-12-01,202312010ORL,WAS,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202312010ORL.html,20:40,.875,.875,.250,.000,5.5,27.6,16.6,6.1,2.2,0.0,20.0,10.0,140,120,1.2
+2023-12-01,202312010ORL,WAS,Landry Shamet,https://www.basketball-reference.com/boxscores/202312010ORL.html,17:35,.697,.813,.375,.375,0.0,0.0,0.0,17.4,0.0,0.0,17.7,26.5,108,130,-2.8
+2023-12-01,202312010ORL,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202312010ORL.html,6:10,.000,.000,.000,.000,18.5,0.0,9.3,0.0,0.0,0.0,0.0,13.3,44,131,-20.1
+2023-12-01,202312010ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202312010ORL.html,38:02,.657,.625,.200,.150,9.0,30.0,19.5,27.5,0.0,0.0,8.6,25.0,133,121,4.0
+2023-12-01,202312010ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202312010ORL.html,34:29,.669,.559,.176,.824,3.3,19.9,11.6,33.3,0.0,0.0,0.0,27.4,153,123,8.2
+2023-12-01,202312010ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202312010ORL.html,26:37,.670,.667,.667,.556,0.0,8.6,4.3,19.5,5.1,5.9,21.1,21.8,109,108,4.1
+2023-12-01,202312010ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202312010ORL.html,24:13,1.500,1.500,1.000,.000,4.7,18.9,11.8,18.0,0.0,6.5,75.0,6.7,94,117,-1.6
+2023-12-01,202312010ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202312010ORL.html,23:04,.615,.625,.250,.500,0.0,9.9,5.0,14.9,0.0,3.4,17.0,10.4,116,121,-3.9
+2023-12-01,202312010ORL,ORL,Joe Ingles,https://www.basketball-reference.com/boxscores/202312010ORL.html,24:37,.612,.591,.636,.091,0.0,13.9,7.0,37.7,0.0,0.0,0.0,19.0,142,123,2.1
+2023-12-01,202312010ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202312010ORL.html,22:53,.628,.615,.154,.231,20.0,10.0,15.0,0.0,2.0,3.4,17.3,30.9,108,117,-4.2
+2023-12-01,202312010ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202312010ORL.html,22:16,.405,.389,.667,.222,0.0,0.0,0.0,0.0,0.0,0.0,9.2,20.0,74,126,-15.3
+2023-12-01,202312010ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202312010ORL.html,16:58,.515,.333,.000,.667,0.0,6.7,3.4,13.1,5.3,4.6,20.5,11.7,103,108,-4.1
+2023-12-01,202312010ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202312010ORL.html,6:49,.615,.500,.500,.500,16.8,67.1,41.9,0.0,0.0,11.5,0.0,14.6,145,105,1.3

@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-04-17,202404170PHI,MIA,Q1,Tyler Herro,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.82,3,7,.429,0,3,.000,0,0,0,0,0,1,0,0,2,1,6,0.6,-3,
+2024-04-17,202404170PHI,MIA,Q1,Jimmy Butler,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.58,2,4,.500,0,0,,3,4,0,1,1,2,2,0,0,0,7,8.3,0,.750
+2024-04-17,202404170PHI,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/202404170PHI.html,5.08,0,2,.000,0,2,.000,0,0,0,1,1,0,0,1,0,2,0,-1.2,-7,
+2024-04-17,202404170PHI,MIA,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.55,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,0,2,1.3,-5,
+2024-04-17,202404170PHI,MIA,Q1,Nikola Jović,https://www.basketball-reference.com/boxscores/202404170PHI.html,8.4,1,1,1.000,0,0,,0,0,0,4,4,0,0,0,1,0,2,1.9,-4,
+2024-04-17,202404170PHI,MIA,Q1,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202404170PHI.html,3.6,0,0,,0,0,,1,2,1,0,1,0,1,0,0,0,1,2.3,+5,.500
+2024-04-17,202404170PHI,MIA,Q1,Delon Wright,https://www.basketball-reference.com/boxscores/202404170PHI.html,2.45,0,0,,0,0,,0,0,0,0,0,1,1,0,0,0,0,1.7,+6,
+2024-04-17,202404170PHI,MIA,Q1,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,3.6,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,0,0,1,3,3.3,+5,
+2024-04-17,202404170PHI,MIA,Q1,Kevin Love,https://www.basketball-reference.com/boxscores/202404170PHI.html,6.92,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,0,0,2,1.6,+8,1.000
+2024-04-17,202404170PHI,MIA,Q2,Tyler Herro,https://www.basketball-reference.com/boxscores/202404170PHI.html,8.1,1,5,.200,1,2,.500,0,0,0,0,0,2,0,0,0,0,3,1.3,+5,
+2024-04-17,202404170PHI,MIA,Q2,Jimmy Butler,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.87,0,4,.000,0,2,.000,3,3,0,0,0,2,2,0,1,0,3,2.6,+12,1.000
+2024-04-17,202404170PHI,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/202404170PHI.html,7.32,2,2,1.000,0,0,,0,0,1,3,4,1,0,0,0,0,4,5.7,+7,
+2024-04-17,202404170PHI,MIA,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202404170PHI.html,5.63,1,1,1.000,1,1,1.000,0,0,2,1,3,0,0,0,0,0,3,4.4,+5,
+2024-04-17,202404170PHI,MIA,Q2,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202404170PHI.html,6.37,1,4,.250,0,3,.000,0,0,0,2,2,0,0,1,0,0,2,0.9,+6,
+2024-04-17,202404170PHI,MIA,Q2,Delon Wright,https://www.basketball-reference.com/boxscores/202404170PHI.html,12.0,2,4,.500,2,3,.667,0,0,1,1,2,1,1,0,0,1,6,6.3,+11,
+2024-04-17,202404170PHI,MIA,Q2,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,6.03,2,3,.667,0,1,.000,0,0,1,0,1,1,0,0,2,1,4,1.7,+5,
+2024-04-17,202404170PHI,MIA,Q2,Kevin Love,https://www.basketball-reference.com/boxscores/202404170PHI.html,4.68,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,0,0,1,3,3.3,+4,
+2024-04-17,202404170PHI,MIA,Q3,Tyler Herro,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.87,0,5,.000,0,3,.000,0,0,0,2,2,4,0,0,1,0,0,-1.1,-4,
+2024-04-17,202404170PHI,MIA,Q3,Jimmy Butler,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.87,2,8,.250,2,4,.500,1,1,1,0,1,1,0,0,0,1,7,3.2,-10,1.000
+2024-04-17,202404170PHI,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/202404170PHI.html,8.73,2,4,.500,0,0,,0,0,3,3,6,0,0,1,1,0,4,4.7,-7,
+2024-04-17,202404170PHI,MIA,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202404170PHI.html,8.73,0,0,,0,0,,0,2,0,1,1,1,0,0,1,0,0,-0.8,-7,.000
+2024-04-17,202404170PHI,MIA,Q3,Nikola Jović,https://www.basketball-reference.com/boxscores/202404170PHI.html,5.77,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,2,3,2.2,-6,
+2024-04-17,202404170PHI,MIA,Q3,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202404170PHI.html,6.23,1,1,1.000,0,0,,0,0,1,0,1,0,1,0,0,0,2,3.4,-1,
+2024-04-17,202404170PHI,MIA,Q3,Delon Wright,https://www.basketball-reference.com/boxscores/202404170PHI.html,3.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-04-17,202404170PHI,MIA,Q3,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,3.27,1,2,.500,1,1,1.000,1,2,0,1,1,1,0,0,0,0,4,3.6,0,.500
+2024-04-17,202404170PHI,MIA,Q3,Kevin Love,https://www.basketball-reference.com/boxscores/202404170PHI.html,3.27,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,1,3,1.3,0,
+2024-04-17,202404170PHI,MIA,Q4,Tyler Herro,https://www.basketball-reference.com/boxscores/202404170PHI.html,12.0,5,10,.500,3,6,.500,3,3,0,0,0,2,0,0,2,0,16,10.4,-6,1.000
+2024-04-17,202404170PHI,MIA,Q4,Jimmy Butler,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.33,1,2,.500,0,0,,0,0,1,1,2,0,1,0,0,1,2,2.6,-3,
+2024-04-17,202404170PHI,MIA,Q4,Bam Adebayo,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.65,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,-1,
+2024-04-17,202404170PHI,MIA,Q4,Caleb Martin,https://www.basketball-reference.com/boxscores/202404170PHI.html,0.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,
+2024-04-17,202404170PHI,MIA,Q4,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202404170PHI.html,12.0,2,3,.667,0,1,.000,0,0,1,1,2,3,1,0,0,3,4,5.6,-6,
+2024-04-17,202404170PHI,MIA,Q4,Delon Wright,https://www.basketball-reference.com/boxscores/202404170PHI.html,4.97,0,3,.000,0,0,,0,0,3,1,4,0,0,1,0,0,0,1.0,-9,
+2024-04-17,202404170PHI,MIA,Q4,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.38,2,5,.400,0,1,.000,0,0,1,2,3,0,0,0,1,1,4,1.2,-2,
+2024-04-17,202404170PHI,MIA,Q4,Kevin Love,https://www.basketball-reference.com/boxscores/202404170PHI.html,2.48,1,2,.500,0,1,.000,0,0,1,0,1,0,0,0,0,1,2,1.3,-1,
+2024-04-17,202404170PHI,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202404170PHI.html,12.0,3,6,.500,1,4,.250,0,0,0,2,2,2,0,0,2,0,7,4.0,-1,
+2024-04-17,202404170PHI,PHI,Q1,Joel Embiid,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.32,1,4,.250,0,1,.000,4,5,0,3,3,1,0,0,1,1,6,3.4,-2,.800
+2024-04-17,202404170PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.83,0,2,.000,0,0,,0,0,0,3,3,0,0,1,0,2,0,-0.6,-2,
+2024-04-17,202404170PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.57,2,3,.667,0,1,.000,0,0,0,0,0,1,0,0,1,1,4,2.0,+5,
+2024-04-17,202404170PHI,PHI,Q1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.55,2,3,.667,1,2,.500,0,0,1,1,2,0,1,0,1,2,5,3.9,+5,
+2024-04-17,202404170PHI,PHI,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202404170PHI.html,3.6,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-5,
+2024-04-17,202404170PHI,PHI,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202404170PHI.html,2.45,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,1,0,0,-1.0,-6,
+2024-04-17,202404170PHI,PHI,Q1,Paul Reed,https://www.basketball-reference.com/boxscores/202404170PHI.html,1.68,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2024-04-17,202404170PHI,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.32,0,3,.000,0,1,.000,2,2,0,0,0,0,0,0,1,1,2,-1.5,-6,1.000
+2024-04-17,202404170PHI,PHI,Q2,Joel Embiid,https://www.basketball-reference.com/boxscores/202404170PHI.html,7.4,1,4,.250,0,0,,2,2,1,2,3,0,0,0,1,1,4,1.5,-12,1.000
+2024-04-17,202404170PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,8.1,0,2,.000,0,1,.000,0,0,1,2,3,0,0,0,0,0,0,-0.1,-5,
+2024-04-17,202404170PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.32,1,5,.200,0,1,.000,0,0,4,2,6,2,0,0,0,0,2,3.7,-9,
+2024-04-17,202404170PHI,PHI,Q2,Kyle Lowry,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.18,1,4,.250,0,3,.000,0,0,0,1,1,1,0,0,1,0,2,-0.4,-7,
+2024-04-17,202404170PHI,PHI,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202404170PHI.html,7.4,1,2,.500,1,2,.500,0,0,1,0,1,0,0,0,1,0,3,1.7,-12,
+2024-04-17,202404170PHI,PHI,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202404170PHI.html,1.68,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-5,
+2024-04-17,202404170PHI,PHI,Q2,Paul Reed,https://www.basketball-reference.com/boxscores/202404170PHI.html,4.6,2,2,1.000,0,0,,0,0,0,1,1,0,0,1,0,1,4,4.0,+1,
+2024-04-17,202404170PHI,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202404170PHI.html,12.0,2,4,.500,0,1,.000,0,0,0,0,0,3,0,0,0,0,4,4.1,+7,
+2024-04-17,202404170PHI,PHI,Q3,Joel Embiid,https://www.basketball-reference.com/boxscores/202404170PHI.html,11.13,1,4,.250,0,1,.000,0,0,0,5,5,2,1,0,1,1,2,2.1,+6,
+2024-04-17,202404170PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,10.87,1,3,.333,0,0,,0,0,2,0,2,1,1,0,0,1,2,3.0,+10,
+2024-04-17,202404170PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202404170PHI.html,5.05,1,1,1.000,0,0,,1,2,1,2,3,0,0,0,1,1,3,2.2,+1,.500
+2024-04-17,202404170PHI,PHI,Q3,Kyle Lowry,https://www.basketball-reference.com/boxscores/202404170PHI.html,5.05,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-1.5,+1,
+2024-04-17,202404170PHI,PHI,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202404170PHI.html,6.95,3,4,.750,3,4,.750,0,0,0,2,2,0,0,0,0,0,9,8.0,+6,
+2024-04-17,202404170PHI,PHI,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202404170PHI.html,6.95,3,4,.750,1,2,.500,0,0,1,0,1,2,0,0,0,0,7,7.5,+6,
+2024-04-17,202404170PHI,PHI,Q3,Paul Reed,https://www.basketball-reference.com/boxscores/202404170PHI.html,0.87,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2024-04-17,202404170PHI,PHI,Q3,Cameron Payne,https://www.basketball-reference.com/boxscores/202404170PHI.html,1.13,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-3,
+2024-04-17,202404170PHI,PHI,Q4,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.65,1,3,.333,0,0,,4,4,0,1,1,1,0,0,0,0,6,5.3,+1,1.000
+2024-04-17,202404170PHI,PHI,Q4,Joel Embiid,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.38,3,5,.600,2,2,1.000,3,3,2,2,4,2,0,0,0,0,11,12.1,+6,1.000
+2024-04-17,202404170PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202404170PHI.html,7.48,2,2,1.000,0,0,,5,5,0,0,0,0,0,0,1,2,9,6.6,+8,1.000
+2024-04-17,202404170PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202404170PHI.html,7.8,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,+4,
+2024-04-17,202404170PHI,PHI,Q4,Kyle Lowry,https://www.basketball-reference.com/boxscores/202404170PHI.html,4.2,0,1,.000,0,0,,0,0,0,1,1,0,1,0,0,0,0,0.6,+2,
+2024-04-17,202404170PHI,PHI,Q4,Nicolas Batum,https://www.basketball-reference.com/boxscores/202404170PHI.html,9.65,3,6,.500,2,4,.500,0,0,1,1,2,0,0,1,0,2,8,5.9,+1,
+2024-04-17,202404170PHI,PHI,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202404170PHI.html,6.87,0,2,.000,0,1,.000,0,0,0,0,0,3,0,0,1,0,0,-0.3,+3,
+2024-04-17,202404170PHI,PHI,Q4,Paul Reed,https://www.basketball-reference.com/boxscores/202404170PHI.html,2.62,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,0,
+2024-04-17,202404170PHI,PHI,Q4,Cameron Payne,https://www.basketball-reference.com/boxscores/202404170PHI.html,2.35,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,

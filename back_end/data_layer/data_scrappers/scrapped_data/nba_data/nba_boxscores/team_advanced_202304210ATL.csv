@@ -1,0 +1,19 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-04-21,202304210ATL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202304210ATL.html,40:12,.559,.500,.500,.409,5.6,28.1,15.5,17.4,2.3,0.0,13.4,32.2,107,124,0.2
+2023-04-21,202304210ATL,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202304210ATL.html,33:19,.472,.467,.267,.133,0.0,4.2,1.9,12.4,4.2,0.0,15.9,24.5,84,125,-9.2
+2023-04-21,202304210ATL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202304210ATL.html,32:41,.604,.605,.632,.105,0.0,13.0,5.7,37.0,4.3,0.0,4.8,27.6,125,123,8.9
+2023-04-21,202304210ATL,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202304210ATL.html,30:08,.786,.786,.571,.000,0.0,9.4,4.1,16.5,1.6,0.0,0.0,10.0,162,130,1.1
+2023-04-21,202304210ATL,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202304210ATL.html,28:31,.571,.571,.857,.000,0.0,19.8,8.7,12.6,0.0,0.0,0.0,10.6,126,131,-2.0
+2023-04-21,202304210ATL,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202304210ATL.html,28:31,.551,.567,.400,.067,3.9,0.0,2.2,25.3,0.0,0.0,11.5,26.4,107,135,-3.1
+2023-04-21,202304210ATL,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202304210ATL.html,19:29,1.000,1.000,.000,.000,11.5,21.7,16.0,6.1,2.4,0.0,50.0,8.9,117,125,-3.5
+2023-04-21,202304210ATL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202304210ATL.html,17:42,1.434,1.500,1.000,.500,6.3,8.0,7.0,15.9,2.6,0.0,0.0,11.9,273,127,22.7
+2023-04-21,202304210ATL,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202304210ATL.html,9:27,.000,.000,1.000,.000,0.0,14.9,6.6,0.0,0.0,0.0,0.0,4.6,0,132,-14.3
+2023-04-21,202304210ATL,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202304210ATL.html,37:10,.583,.571,.286,.048,7.6,12.0,10.1,17.6,1.3,0.0,8.5,26.1,128,121,1.7
+2023-04-21,202304210ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202304210ATL.html,36:31,.649,.591,.273,.273,3.9,15.3,10.2,33.6,1.3,6.0,14.0,32.4,134,116,8.4
+2023-04-21,202304210ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202304210ATL.html,35:25,.431,.409,.545,.364,0.0,6.3,3.5,3.0,0.0,0.0,13.6,17.2,86,125,-10.9
+2023-04-21,202304210ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202304210ATL.html,24:41,.625,.625,.000,.000,22.9,31.7,27.8,0.0,1.9,0.0,11.1,15.1,132,117,-1.1
+2023-04-21,202304210ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202304210ATL.html,20:37,.538,.571,.857,.143,0.0,27.1,15.1,5.3,0.0,0.0,21.2,18.9,92,122,-6.0
+2023-04-21,202304210ATL,ATL,Saddiq Bey,https://www.basketball-reference.com/boxscores/202304210ATL.html,26:43,.952,.929,.429,.286,10.6,25.1,18.7,8.6,0.0,0.0,11.3,13.7,178,123,10.2
+2023-04-21,202304210ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202304210ATL.html,23:19,1.000,1.000,.000,.000,12.1,14.4,13.4,4.4,0.0,14.0,50.0,7.1,115,113,-1.7
+2023-04-21,202304210ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202304210ATL.html,22:19,.938,.938,.500,.000,0.0,20.0,11.2,5.6,2.1,4.9,11.1,16.7,164,114,12.3
+2023-04-21,202304210ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202304210ATL.html,13:15,.850,.800,.600,.400,0.0,8.4,4.7,36.1,3.5,0.0,33.8,27.7,128,116,14.1

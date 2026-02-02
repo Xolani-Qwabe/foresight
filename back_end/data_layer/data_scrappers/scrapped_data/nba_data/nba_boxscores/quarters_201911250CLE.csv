@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-11-25,201911250CLE,BRK,Q1,Garrett Temple,https://www.basketball-reference.com/boxscores/201911250CLE.html,9.55,2,3,.667,1,2,.500,0,0,0,0,0,1,0,0,0,1,5,4.0,-2,
+2019-11-25,201911250CLE,BRK,Q1,Jarrett Allen,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.58,2,2,1.000,0,0,,0,0,1,5,6,0,0,0,0,0,4,5.6,+5,
+2019-11-25,201911250CLE,BRK,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/201911250CLE.html,10.47,2,6,.333,1,3,.333,0,0,0,0,0,1,0,0,1,1,5,0.9,-1,
+2019-11-25,201911250CLE,BRK,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.97,2,4,.500,0,1,.000,0,0,0,2,2,3,0,0,0,1,4,4.3,+5,
+2019-11-25,201911250CLE,BRK,Q1,Joe Harris,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.9,3,5,.600,1,2,.500,0,0,0,0,0,0,0,0,0,0,7,4.7,0,
+2019-11-25,201911250CLE,BRK,Q1,Džanan Musa,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.48,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,1,1,0,-1.1,-5,
+2019-11-25,201911250CLE,BRK,Q1,Iman Shumpert,https://www.basketball-reference.com/boxscores/201911250CLE.html,5.1,0,2,.000,0,1,.000,0,0,0,1,1,0,1,0,0,1,0,-0.5,-1,
+2019-11-25,201911250CLE,BRK,Q1,Theo Pinson,https://www.basketball-reference.com/boxscores/201911250CLE.html,1.53,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,
+2019-11-25,201911250CLE,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/201911250CLE.html,3.42,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,-6,
+2019-11-25,201911250CLE,BRK,Q2,Garrett Temple,https://www.basketball-reference.com/boxscores/201911250CLE.html,10.4,0,1,.000,0,1,.000,0,0,0,3,3,1,1,1,2,0,0,0.6,+3,
+2019-11-25,201911250CLE,BRK,Q2,Jarrett Allen,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.4,1,2,.500,0,0,,0,0,1,3,4,1,1,1,0,1,2,4.6,+2,
+2019-11-25,201911250CLE,BRK,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.88,4,6,.667,0,1,.000,0,0,0,0,0,3,0,1,0,0,8,8.2,+2,
+2019-11-25,201911250CLE,BRK,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.6,3,5,.600,2,2,1.000,0,0,1,2,3,0,0,0,2,1,8,4.6,+5,
+2019-11-25,201911250CLE,BRK,Q2,Joe Harris,https://www.basketball-reference.com/boxscores/201911250CLE.html,10.4,2,3,.667,1,2,.500,0,0,0,4,4,1,0,0,0,0,5,5.6,+3,
+2019-11-25,201911250CLE,BRK,Q2,Džanan Musa,https://www.basketball-reference.com/boxscores/201911250CLE.html,1.6,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,-1,
+2019-11-25,201911250CLE,BRK,Q2,Iman Shumpert,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.6,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,0,0,0.3,0,
+2019-11-25,201911250CLE,BRK,Q2,Theo Pinson,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.72,1,2,.500,0,0,,0,0,0,0,0,2,0,0,0,1,2,2.0,-1,
+2019-11-25,201911250CLE,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/201911250CLE.html,3.4,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.0,-3,
+2019-11-25,201911250CLE,BRK,Q3,Garrett Temple,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.47,1,3,.333,0,2,.000,0,0,0,1,1,0,0,0,0,1,2,0.2,+1,
+2019-11-25,201911250CLE,BRK,Q3,Jarrett Allen,https://www.basketball-reference.com/boxscores/201911250CLE.html,10.5,4,4,1.000,0,0,,4,5,5,2,7,1,1,0,0,1,12,15.8,+4,.800
+2019-11-25,201911250CLE,BRK,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.22,2,6,.333,0,1,.000,2,2,0,0,0,2,0,1,0,0,6,4.7,+2,1.000
+2019-11-25,201911250CLE,BRK,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.95,1,3,.333,1,1,1.000,0,0,0,1,1,1,1,0,0,0,3,3.3,+3,
+2019-11-25,201911250CLE,BRK,Q3,Joe Harris,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.88,0,4,.000,0,4,.000,0,0,0,2,2,0,2,0,0,0,0,-0.2,+2,
+2019-11-25,201911250CLE,BRK,Q3,Džanan Musa,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.58,0,3,.000,0,2,.000,1,2,0,1,1,0,0,0,1,2,1,-3.0,+6,.500
+2019-11-25,201911250CLE,BRK,Q3,Iman Shumpert,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.12,1,1,1.000,1,1,1.000,0,0,1,1,2,0,0,0,0,1,3,3.3,+3,
+2019-11-25,201911250CLE,BRK,Q3,Theo Pinson,https://www.basketball-reference.com/boxscores/201911250CLE.html,3.78,0,0,,0,0,,2,2,0,1,1,2,0,0,0,1,2,3.3,+3,1.000
+2019-11-25,201911250CLE,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/201911250CLE.html,1.5,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2019-11-25,201911250CLE,BRK,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/201911250CLE.html,9.07,0,0,,0,0,,0,0,0,1,1,1,0,0,0,1,0,0.6,-3,
+2019-11-25,201911250CLE,BRK,Q4,Jarrett Allen,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.8,2,2,1.000,0,0,,0,0,2,2,4,1,0,1,0,0,4,6.8,-4,
+2019-11-25,201911250CLE,BRK,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.8,2,6,.333,0,0,,0,0,0,1,1,3,0,1,0,2,4,2.9,-4,
+2019-11-25,201911250CLE,BRK,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.8,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,2,3,1.2,-4,
+2019-11-25,201911250CLE,BRK,Q4,Joe Harris,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.8,3,5,.600,1,1,1.000,0,0,0,0,0,0,0,0,0,0,7,4.7,-4,
+2019-11-25,201911250CLE,BRK,Q4,Džanan Musa,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.13,2,3,.667,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.0,-1,
+2019-11-25,201911250CLE,BRK,Q4,Iman Shumpert,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.2,0,2,.000,0,1,.000,0,0,0,0,0,1,0,1,0,1,0,-0.4,0,
+2019-11-25,201911250CLE,BRK,Q4,Theo Pinson,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.2,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,1,0,2,0.0,0,
+2019-11-25,201911250CLE,BRK,Q4,Nic Claxton,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.2,1,1,1.000,0,0,,0,0,1,0,1,2,0,2,1,1,2,3.8,0,
+2019-11-25,201911250CLE,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.93,1,2,.500,0,1,.000,0,0,0,1,1,1,0,0,0,0,2,2.0,+2,
+2019-11-25,201911250CLE,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.58,3,8,.375,0,2,.000,0,0,1,0,1,0,0,0,0,0,6,2.3,-5,
+2019-11-25,201911250CLE,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.58,1,2,.500,0,0,,0,2,0,2,2,1,0,0,1,0,2,0.5,-5,.000
+2019-11-25,201911250CLE,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.97,2,2,1.000,1,1,1.000,0,0,0,2,2,0,1,0,0,0,5,6.0,-5,
+2019-11-25,201911250CLE,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.9,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,0,
+2019-11-25,201911250CLE,CLE,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.48,1,1,1.000,0,0,,0,0,0,2,2,1,0,0,1,0,2,2.0,+5,
+2019-11-25,201911250CLE,CLE,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911250CLE.html,5.1,1,2,.500,1,1,1.000,2,2,0,1,1,0,0,0,0,1,5,3.9,+1,1.000
+2019-11-25,201911250CLE,CLE,Q1,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.03,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,+6,
+2019-11-25,201911250CLE,CLE,Q1,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911250CLE.html,3.42,0,0,,0,0,,2,2,0,1,1,3,0,0,0,0,2,4.4,+6,1.000
+2019-11-25,201911250CLE,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.2,3,4,.750,2,2,1.000,0,0,1,4,5,0,1,1,1,0,8,9.0,+1,
+2019-11-25,201911250CLE,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.88,0,4,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,-2.1,-2,
+2019-11-25,201911250CLE,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911250CLE.html,5.8,1,2,.500,0,0,,0,0,1,2,3,1,0,0,1,0,2,2.0,-3,
+2019-11-25,201911250CLE,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.88,1,1,1.000,0,0,,2,2,0,0,0,0,0,0,0,1,4,3.3,-2,1.000
+2019-11-25,201911250CLE,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.4,2,6,.333,2,4,.500,0,0,0,2,2,0,0,0,1,0,6,2.2,-2,
+2019-11-25,201911250CLE,CLE,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,10.4,1,1,1.000,0,0,,1,2,0,1,1,3,1,0,0,1,3,5.3,-3,.500
+2019-11-25,201911250CLE,CLE,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.72,1,5,.200,0,1,.000,0,1,0,0,0,1,0,0,0,0,2,-0.8,+1,.000
+2019-11-25,201911250CLE,CLE,Q2,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/201911250CLE.html,5.12,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,0,
+2019-11-25,201911250CLE,CLE,Q2,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.6,0,2,.000,0,2,.000,0,0,1,0,1,2,1,0,0,1,0,1.3,0,
+2019-11-25,201911250CLE,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,8.2,2,4,.500,0,1,.000,2,2,3,1,4,0,0,0,0,1,6,6.0,-3,1.000
+2019-11-25,201911250CLE,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/201911250CLE.html,9.72,2,6,.333,1,3,.333,1,1,1,0,1,1,0,0,0,0,6,4.0,-2,1.000
+2019-11-25,201911250CLE,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911250CLE.html,9.72,1,3,.333,0,0,,0,0,0,3,3,0,0,1,0,1,2,1.5,-2,
+2019-11-25,201911250CLE,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.88,2,3,.667,0,1,.000,0,1,0,1,1,0,0,1,0,0,4,3.3,-2,.000
+2019-11-25,201911250CLE,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.75,1,2,.500,1,1,1.000,0,0,0,1,1,1,0,0,4,0,3,-1.0,-2,
+2019-11-25,201911250CLE,CLE,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.08,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,2,0,-1.5,-5,
+2019-11-25,201911250CLE,CLE,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911250CLE.html,2.28,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-3,
+2019-11-25,201911250CLE,CLE,Q3,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.12,1,3,.333,1,1,1.000,0,0,0,1,1,0,0,0,0,1,3,1.2,-3,
+2019-11-25,201911250CLE,CLE,Q3,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.25,0,0,,0,0,,0,0,0,0,0,1,0,0,0,2,0,-0.1,-3,
+2019-11-25,201911250CLE,CLE,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,10.15,2,6,.333,0,2,.000,0,0,1,2,3,1,0,0,0,0,4,2.6,+3,
+2019-11-25,201911250CLE,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.8,2,4,.500,0,1,.000,2,3,0,1,1,0,0,0,0,0,6,3.9,+4,.667
+2019-11-25,201911250CLE,CLE,Q4,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.8,0,1,.000,0,0,,1,2,1,1,2,0,0,1,1,1,1,0.2,+4,.500
+2019-11-25,201911250CLE,CLE,Q4,Cedi Osman,https://www.basketball-reference.com/boxscores/201911250CLE.html,7.8,1,2,.500,0,1,.000,0,0,0,0,0,1,0,0,0,0,2,1.7,+4,
+2019-11-25,201911250CLE,CLE,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911250CLE.html,6.05,0,2,.000,0,1,.000,0,0,1,1,2,3,1,0,0,0,0,2.7,+1,
+2019-11-25,201911250CLE,CLE,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911250CLE.html,12.0,6,8,.750,4,4,1.000,0,0,0,1,1,1,0,0,0,1,16,13.4,+4,
+2019-11-25,201911250CLE,CLE,Q4,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.2,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,0,2,1.3,0,
+2019-11-25,201911250CLE,CLE,Q4,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911250CLE.html,4.2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-01,202111010LAC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202111010LAC.html,39:52,.576,.543,.217,.130,5.0,11.1,8.3,11.1,2.4,2.4,7.6,28.0,113,101,6.9
+2021-11-01,202111010LAC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202111010LAC.html,34:41,.472,.433,.267,.133,0.0,12.8,6.8,36.3,2.8,5.5,15.9,23.1,96,97,3.7
+2021-11-01,202111010LAC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202111010LAC.html,30:23,.545,.542,.667,.333,0.0,17.6,9.3,5.8,0.0,3.2,33.7,29.0,70,104,-6.9
+2021-11-01,202111010LAC,OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202111010LAC.html,23:02,.387,.333,.667,.667,13.0,11.6,12.3,6.3,2.1,0.0,0.0,7.2,118,103,-1.6
+2021-11-01,202111010LAC,OKC,Derrick Favors,https://www.basketball-reference.com/boxscores/202111010LAC.html,15:36,1.160,1.167,.333,.667,0.0,22.8,12.1,0.0,0.0,0.0,0.0,10.6,238,103,9.2
+2021-11-01,202111010LAC,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202111010LAC.html,28:07,.350,.350,.500,.000,7.1,15.8,11.7,5.7,0.0,0.0,23.1,19.6,65,106,-11.7
+2021-11-01,202111010LAC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202111010LAC.html,24:54,.300,.208,.583,.250,0.0,25.0,13.2,18.6,2.0,0.0,0.0,22.7,78,97,-3.0
+2021-11-01,202111010LAC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202111010LAC.html,22:15,.000,.000,.333,.000,9.0,8.0,8.5,6.2,0.0,4.3,25.0,7.6,41,107,-10.4
+2021-11-01,202111010LAC,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202111010LAC.html,15:16,.750,.750,.333,.000,6.6,23.3,15.4,14.0,3.2,6.3,0.0,16.7,155,92,17.0
+2021-11-01,202111010LAC,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202111010LAC.html,5:54,.000,.000,.667,.000,0.0,0.0,0.0,0.0,8.3,0.0,0.0,21.6,0,93,-17.7
+2021-11-01,202111010LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202111010LAC.html,40:23,.601,.563,.333,.250,0.0,22.3,10.5,37.9,3.6,2.2,13.1,32.4,115,89,13.3
+2021-11-01,202111010LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202111010LAC.html,39:14,.400,.353,.412,.235,0.0,7.6,3.6,8.5,0.0,0.0,9.6,22.6,82,103,-7.7
+2021-11-01,202111010LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202111010LAC.html,31:45,.700,.700,.800,.000,5.6,18.9,11.9,5.5,3.1,2.9,0.0,13.5,148,91,10.8
+2021-11-01,202111010LAC,LAC,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202111010LAC.html,26:28,.296,.250,.500,.125,0.0,11.3,5.3,17.3,0.0,6.8,32.2,20.1,54,97,-12.0
+2021-11-01,202111010LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202111010LAC.html,12:32,.798,1.000,.000,2.000,21.3,16.0,18.8,0.0,0.0,0.0,0.0,6.4,185,101,0.0
+2021-11-01,202111010LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202111010LAC.html,32:29,.317,.286,.357,.286,8.2,6.2,7.2,5.1,3.0,0.0,6.0,22.0,77,97,-7.4
+2021-11-01,202111010LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202111010LAC.html,30:06,.643,.600,.800,.200,0.0,13.3,6.3,11.1,0.0,0.0,0.0,15.4,140,102,4.8
+2021-11-01,202111010LAC,LAC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202111010LAC.html,18:01,.333,.333,.333,.000,19.7,44.4,31.3,16.5,2.7,5.0,0.0,7.1,135,82,5.3
+2021-11-01,202111010LAC,LAC,Justise Winslow,https://www.basketball-reference.com/boxscores/202111010LAC.html,8:19,.500,.500,.000,.000,10.7,12.0,11.3,0.0,0.0,0.0,20.0,25.7,85,101,-13.3
+2021-11-01,202111010LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202111010LAC.html,0:43,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.6,0,106,-54.2

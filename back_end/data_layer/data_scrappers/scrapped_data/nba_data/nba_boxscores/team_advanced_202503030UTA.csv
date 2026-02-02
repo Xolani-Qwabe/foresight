@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-03-03,202503030UTA,DET,Malik Beasley,https://www.basketball-reference.com/boxscores/202503030UTA.html,32:33,.441,.441,.824,.000,0.0,3.7,1.8,3.5,0.0,0.0,0.0,21.4,92,108,-12.3
+2025-03-03,202503030UTA,DET,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202503030UTA.html,30:43,.553,.450,.600,.400,7.8,19.5,13.7,10.5,2.9,0.0,7.8,17.0,122,98,-1.2
+2025-03-03,202503030UTA,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202503030UTA.html,30:24,.563,.521,.333,.167,0.0,3.9,2.0,44.3,5.8,0.0,18.9,42.7,103,95,0.5
+2025-03-03,202503030UTA,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202503030UTA.html,30:14,1.022,1.000,.000,.429,7.9,15.9,11.9,19.9,4.4,3.2,0.0,11.3,213,94,15.2
+2025-03-03,202503030UTA,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202503030UTA.html,29:55,.939,1.000,.000,1.600,4.0,44.1,24.1,7.5,2.9,13.1,26.0,15.8,139,85,7.2
+2025-03-03,202503030UTA,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202503030UTA.html,21:54,.506,.556,.556,.222,0.0,21.9,11.0,5.2,4.0,4.5,9.2,20.3,91,93,-1.2
+2025-03-03,202503030UTA,DET,Ron Holland,https://www.basketball-reference.com/boxscores/202503030UTA.html,18:15,.862,1.000,.000,3.000,0.0,6.6,3.3,11.5,0.0,0.0,0.0,10.4,184,107,-0.5
+2025-03-03,202503030UTA,DET,Paul Reed,https://www.basketball-reference.com/boxscores/202503030UTA.html,16:41,.750,.750,.000,.000,14.4,14.4,14.4,13.6,2.6,5.9,0.0,9.8,171,96,4.5
+2025-03-03,202503030UTA,DET,Dennis Schröder,https://www.basketball-reference.com/boxscores/202503030UTA.html,16:37,.415,.438,.500,.125,7.2,14.4,10.8,27.3,0.0,5.9,10.6,23.2,100,102,-5.5
+2025-03-03,202503030UTA,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202503030UTA.html,7:37,1.250,1.250,.500,.000,0.0,0.0,0.0,49.2,5.8,0.0,33.3,16.1,166,96,16.9
+2025-03-03,202503030UTA,DET,Lindy Waters III,https://www.basketball-reference.com/boxscores/202503030UTA.html,5:07,1.000,1.000,.750,.000,0.0,0.0,0.0,0.0,8.6,0.0,0.0,32.0,173,90,35.2
+2025-03-03,202503030UTA,UTA,Isaiah Collier,https://www.basketball-reference.com/boxscores/202503030UTA.html,31:52,.400,.333,.167,.333,0.0,11.3,5.6,10.4,2.8,0.0,17.9,20.3,75,121,-8.9
+2025-03-03,202503030UTA,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202503030UTA.html,27:36,.778,.778,.000,.000,17.4,21.7,19.6,7.6,0.0,3.4,18.2,15.4,131,123,1.6
+2025-03-03,202503030UTA,UTA,Johnny Juzang,https://www.basketball-reference.com/boxscores/202503030UTA.html,23:23,.450,.375,.875,.250,5.1,15.4,10.3,0.0,3.8,0.0,0.0,14.7,104,118,-0.1
+2025-03-03,202503030UTA,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202503030UTA.html,20:04,.546,.417,.250,.500,0.0,6.0,3.0,31.1,6.6,0.0,12.0,32.1,109,113,6.5
+2025-03-03,202503030UTA,UTA,KJ Martin,https://www.basketball-reference.com/boxscores/202503030UTA.html,17:42,.753,1.000,.000,1.500,6.8,6.8,6.8,0.0,0.0,0.0,23.1,9.4,111,127,-6.6
+2025-03-03,202503030UTA,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202503030UTA.html,28:30,.575,.550,.600,.100,0.0,12.6,6.3,17.9,0.0,0.0,16.1,16.9,105,127,-3.3
+2025-03-03,202503030UTA,UTA,Kyle Filipowski,https://www.basketball-reference.com/boxscores/202503030UTA.html,24:24,.757,.692,.538,.615,0.0,39.3,19.7,9.3,0.0,0.0,19.5,32.5,119,123,5.9
+2025-03-03,202503030UTA,UTA,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202503030UTA.html,16:10,.000,.000,.800,.000,0.0,14.8,7.4,0.0,0.0,0.0,50.0,23.9,0,126,-31.4
+2025-03-03,202503030UTA,UTA,Cody Williams,https://www.basketball-reference.com/boxscores/202503030UTA.html,15:45,.577,.333,.333,1.667,7.6,0.0,3.8,28.6,0.0,0.0,36.6,20.1,94,128,-5.4
+2025-03-03,202503030UTA,UTA,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202503030UTA.html,14:40,.901,.875,.500,.250,0.0,16.4,8.2,52.0,0.0,0.0,31.1,17.0,134,126,6.0
+2025-03-03,202503030UTA,UTA,Jaden Springer,https://www.basketball-reference.com/boxscores/202503030UTA.html,14:01,.000,.000,.500,.000,8.6,17.1,12.8,9.8,0.0,0.0,50.0,11.0,28,126,-13.0
+2025-03-03,202503030UTA,UTA,Oscar Tshiebwe,https://www.basketball-reference.com/boxscores/202503030UTA.html,5:53,.174,.000,.000,1.000,20.4,40.8,30.6,23.3,0.0,0.0,25.8,25.5,55,122,-15.4

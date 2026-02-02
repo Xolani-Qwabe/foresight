@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-04-09,202404090MIN,WAS,Q1,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.4,1,1,1.000,1,1,1.000,0,0,1,2,3,3,1,0,1,2,3,5.3,+15,
+2024-04-09,202404090MIN,WAS,Q1,Corey Kispert,https://www.basketball-reference.com/boxscores/202404090MIN.html,10.72,5,7,.714,2,4,.500,0,0,1,1,2,4,0,0,0,0,12,12.9,+18,
+2024-04-09,202404090MIN,WAS,Q1,Anthony Gill,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.4,1,4,.250,0,1,.000,0,0,0,2,2,0,0,3,0,0,2,2.3,+15,
+2024-04-09,202404090MIN,WAS,Q1,Deni Avdija,https://www.basketball-reference.com/boxscores/202404090MIN.html,9.03,1,3,.333,1,1,1.000,0,0,0,2,2,2,0,0,0,1,3,2.9,+18,
+2024-04-09,202404090MIN,WAS,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.4,4,5,.800,3,4,.750,0,0,0,2,2,3,0,0,0,0,11,11.8,+15,
+2024-04-09,202404090MIN,WAS,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202404090MIN.html,3.6,2,3,.667,0,0,,0,0,0,3,3,0,0,0,0,2,4,2.8,+3,
+2024-04-09,202404090MIN,WAS,Q1,Johnny Davis,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.57,2,2,1.000,1,1,1.000,1,2,0,1,1,0,0,0,1,1,6,3.9,+3,.500
+2024-04-09,202404090MIN,WAS,Q1,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202404090MIN.html,3.6,1,2,.500,1,1,1.000,0,0,1,0,1,0,0,0,0,1,3,2.3,+3,
+2024-04-09,202404090MIN,WAS,Q1,Jules Bernard,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-04-09,202404090MIN,WAS,Q2,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202404090MIN.html,7.98,1,3,.333,0,2,.000,0,0,0,0,0,0,0,0,0,1,2,-0.1,-3,
+2024-04-09,202404090MIN,WAS,Q2,Corey Kispert,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.67,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,2.3,-2,
+2024-04-09,202404090MIN,WAS,Q2,Anthony Gill,https://www.basketball-reference.com/boxscores/202404090MIN.html,9.1,1,1,1.000,0,0,,2,2,0,1,1,1,0,0,0,0,4,4.7,-2,1.000
+2024-04-09,202404090MIN,WAS,Q2,Deni Avdija,https://www.basketball-reference.com/boxscores/202404090MIN.html,9.0,2,4,.500,2,2,1.000,0,1,0,1,1,1,0,0,1,0,6,3.6,-3,.000
+2024-04-09,202404090MIN,WAS,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.58,2,6,.333,1,3,.333,1,1,0,0,0,0,1,0,1,1,6,2.2,-12,1.000
+2024-04-09,202404090MIN,WAS,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.32,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-9,
+2024-04-09,202404090MIN,WAS,Q2,Johnny Davis,https://www.basketball-reference.com/boxscores/202404090MIN.html,4.08,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,2,2,1.2,+3,
+2024-04-09,202404090MIN,WAS,Q2,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202404090MIN.html,2.9,0,1,.000,0,0,,1,2,0,0,0,0,0,0,1,1,1,-1.5,-6,.500
+2024-04-09,202404090MIN,WAS,Q2,Jules Bernard,https://www.basketball-reference.com/boxscores/202404090MIN.html,5.37,1,1,1.000,0,0,,0,0,1,1,2,0,0,0,2,2,2,-0.1,-6,
+2024-04-09,202404090MIN,WAS,Q3,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202404090MIN.html,9.97,2,5,.400,1,4,.250,0,0,0,1,1,1,1,0,0,0,5,4.3,-13,
+2024-04-09,202404090MIN,WAS,Q3,Corey Kispert,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.05,2,5,.400,1,4,.250,2,2,0,0,0,0,0,0,0,0,7,4.3,-10,1.000
+2024-04-09,202404090MIN,WAS,Q3,Anthony Gill,https://www.basketball-reference.com/boxscores/202404090MIN.html,7.22,1,2,.500,0,1,.000,0,0,1,2,3,1,0,0,0,2,2,2.2,-6,
+2024-04-09,202404090MIN,WAS,Q3,Deni Avdija,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.48,0,2,.000,0,1,.000,0,0,0,0,0,0,0,1,1,2,0,-2.5,-9,
+2024-04-09,202404090MIN,WAS,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.03,2,6,.333,1,3,.333,0,0,0,0,0,2,0,0,1,1,5,1.6,-9,
+2024-04-09,202404090MIN,WAS,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202404090MIN.html,7.92,0,1,.000,0,1,.000,0,0,0,2,2,1,1,0,0,1,0,1.2,-11,
+2024-04-09,202404090MIN,WAS,Q3,Johnny Davis,https://www.basketball-reference.com/boxscores/202404090MIN.html,5.53,0,1,.000,0,0,,2,3,0,1,1,0,0,0,0,0,2,1.2,-8,.667
+2024-04-09,202404090MIN,WAS,Q3,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202404090MIN.html,4.78,1,1,1.000,1,1,1.000,0,0,1,0,1,0,0,0,1,0,3,2.4,-9,
+2024-04-09,202404090MIN,WAS,Q3,Jules Bernard,https://www.basketball-reference.com/boxscores/202404090MIN.html,0.02,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-04-09,202404090MIN,WAS,Q4,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202404090MIN.html,12.0,2,2,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,1,5,4.6,-4,
+2024-04-09,202404090MIN,WAS,Q4,Corey Kispert,https://www.basketball-reference.com/boxscores/202404090MIN.html,10.82,1,3,.333,1,1,1.000,0,0,0,0,0,1,0,0,2,0,3,0.0,-10,
+2024-04-09,202404090MIN,WAS,Q4,Anthony Gill,https://www.basketball-reference.com/boxscores/202404090MIN.html,10.82,3,4,.750,1,1,1.000,0,0,0,3,3,1,0,0,0,0,7,7.0,-10,
+2024-04-09,202404090MIN,WAS,Q4,Deni Avdija,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.48,1,3,.333,0,1,.000,4,4,0,3,3,2,0,0,0,1,6,6.2,-3,1.000
+2024-04-09,202404090MIN,WAS,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202404090MIN.html,7.77,1,5,.200,0,3,.000,0,0,1,0,1,1,0,0,0,0,2,0.3,-2,
+2024-04-09,202404090MIN,WAS,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202404090MIN.html,4.23,0,0,,0,0,,0,0,0,0,0,2,0,0,0,0,0,1.4,-2,
+2024-04-09,202404090MIN,WAS,Q4,Johnny Davis,https://www.basketball-reference.com/boxscores/202404090MIN.html,3.52,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-1,
+2024-04-09,202404090MIN,WAS,Q4,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.18,0,0,,0,0,,0,0,0,0,0,0,1,0,0,0,0,1.0,+6,
+2024-04-09,202404090MIN,WAS,Q4,Jules Bernard,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.18,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,4,3.7,+6,
+2024-04-09,202404090MIN,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202404090MIN.html,9.38,0,0,,0,0,,2,4,0,2,2,1,1,2,1,0,2,3.9,-16,.500
+2024-04-09,202404090MIN,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202404090MIN.html,12.0,3,7,.429,2,4,.500,4,4,0,1,1,2,0,0,0,0,12,10.0,-18,1.000
+2024-04-09,202404090MIN,MIN,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202404090MIN.html,5.78,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,1,0,0,-1.7,-13,
+2024-04-09,202404090MIN,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.4,1,3,.333,0,2,.000,2,2,0,0,0,1,0,0,0,0,4,3.0,-15,1.000
+2024-04-09,202404090MIN,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.4,1,5,.200,1,2,.500,0,0,0,2,2,0,1,1,0,1,3,1.8,-15,
+2024-04-09,202404090MIN,MIN,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202404090MIN.html,3.6,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,-3,
+2024-04-09,202404090MIN,MIN,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.22,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,-5,.500
+2024-04-09,202404090MIN,MIN,Q1,Monte Morris,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.22,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-5,
+2024-04-09,202404090MIN,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202404090MIN.html,10.4,2,5,.400,0,0,,2,2,5,5,10,0,1,2,0,2,6,9.9,+6,1.000
+2024-04-09,202404090MIN,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.07,1,3,.333,0,0,,7,7,0,0,0,0,0,0,0,0,9,7.3,-3,1.000
+2024-04-09,202404090MIN,MIN,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202404090MIN.html,9.43,0,3,.000,0,2,.000,0,0,0,0,0,0,0,0,1,0,0,-3.1,+10,
+2024-04-09,202404090MIN,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202404090MIN.html,9.1,1,2,.500,1,2,.500,0,0,0,1,1,1,1,0,0,1,3,3.6,+2,
+2024-04-09,202404090MIN,MIN,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202404090MIN.html,7.92,5,12,.417,4,8,.500,0,0,0,3,3,2,1,1,1,0,14,10.6,+11,
+2024-04-09,202404090MIN,MIN,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.9,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,1,0,-0.1,+3,
+2024-04-09,202404090MIN,MIN,Q2,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.18,1,1,1.000,0,0,,0,0,1,0,1,4,0,0,0,0,2,5.2,+11,
+2024-04-09,202404090MIN,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202404090MIN.html,10.07,2,2,1.000,0,0,,4,5,0,4,4,2,0,0,0,1,8,9.2,+12,.800
+2024-04-09,202404090MIN,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202404090MIN.html,12.0,7,11,.636,3,6,.500,0,0,1,1,2,3,0,0,2,0,17,13.2,+15,
+2024-04-09,202404090MIN,MIN,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202404090MIN.html,5.88,3,3,1.000,3,3,1.000,0,0,1,1,2,1,0,0,0,0,9,9.8,+9,
+2024-04-09,202404090MIN,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202404090MIN.html,4.98,0,0,,0,0,,0,0,0,2,2,0,0,1,0,3,0,0.1,+4,
+2024-04-09,202404090MIN,MIN,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.67,1,2,.500,0,0,,1,2,1,0,1,1,1,0,1,1,3,2.6,+9,.500
+2024-04-09,202404090MIN,MIN,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202404090MIN.html,7.02,0,1,.000,0,0,,0,0,0,1,1,2,1,0,0,0,0,2.0,+11,
+2024-04-09,202404090MIN,MIN,Q3,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.12,0,0,,0,0,,2,2,0,0,0,1,1,0,0,0,2,3.7,+6,1.000
+2024-04-09,202404090MIN,MIN,Q3,Monte Morris,https://www.basketball-reference.com/boxscores/202404090MIN.html,5.27,0,2,.000,0,1,.000,0,0,0,3,3,0,0,0,0,0,0,-0.5,+9,
+2024-04-09,202404090MIN,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202404090MIN.html,8.5,1,2,.500,0,0,,1,2,0,0,0,0,0,0,0,0,3,1.6,+10,.500
+2024-04-09,202404090MIN,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202404090MIN.html,7.5,6,8,.750,1,3,.333,0,0,0,3,3,2,0,0,0,0,13,12.1,+12,
+2024-04-09,202404090MIN,MIN,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202404090MIN.html,6.9,2,3,.667,2,3,.667,0,0,0,0,0,1,1,0,0,1,6,6.0,+8,
+2024-04-09,202404090MIN,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202404090MIN.html,5.07,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,2,2,1.5,-1,
+2024-04-09,202404090MIN,MIN,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202404090MIN.html,10.82,1,3,.333,0,1,.000,0,0,0,0,0,2,0,1,0,0,2,2.4,+10,
+2024-04-09,202404090MIN,MIN,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202404090MIN.html,4.28,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-2,
+2024-04-09,202404090MIN,MIN,Q4,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202404090MIN.html,10.82,1,2,.500,0,1,.000,0,0,1,1,2,2,0,0,0,0,2,3.4,+10,
+2024-04-09,202404090MIN,MIN,Q4,Monte Morris,https://www.basketball-reference.com/boxscores/202404090MIN.html,0.2,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+3,
+2024-04-09,202404090MIN,MIN,Q4,Leonard Miller,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2024-04-09,202404090MIN,MIN,Q4,Josh Minott,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2024-04-09,202404090MIN,MIN,Q4,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2024-04-09,202404090MIN,MIN,Q4,Daishen Nix,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.18,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-1.7,-6,
+2024-04-09,202404090MIN,MIN,Q4,T.J. Warren,https://www.basketball-reference.com/boxscores/202404090MIN.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,

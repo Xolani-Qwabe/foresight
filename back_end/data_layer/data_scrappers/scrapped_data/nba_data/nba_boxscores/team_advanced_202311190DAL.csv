@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-19,202311190DAL,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202311190DAL.html,34:43,.825,.867,.133,.667,9.6,30.7,20.4,27.6,0.0,0.0,4.9,25.4,168,118,13.4
+2023-11-19,202311190DAL,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202311190DAL.html,33:58,.487,.409,.636,.273,6.6,6.3,6.4,20.0,1.5,0.0,19.6,19.5,110,122,-5.5
+2023-11-19,202311190DAL,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202311190DAL.html,32:32,.813,.813,.500,.000,0.0,26.2,13.4,14.5,3.1,0.0,11.1,11.9,151,113,5.8
+2023-11-19,202311190DAL,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202311190DAL.html,32:31,.632,.615,.538,.077,10.3,0.0,5.0,15.7,1.5,0.0,6.9,19.2,140,123,-1.0
+2023-11-19,202311190DAL,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202311190DAL.html,31:14,.676,.650,.500,.250,3.6,10.2,7.0,33.0,4.8,0.0,0.0,30.7,155,114,16.7
+2023-11-19,202311190DAL,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202311190DAL.html,18:00,.667,.667,.667,.000,0.0,11.9,6.1,21.4,2.8,4.9,18.2,26.4,116,114,5.3
+2023-11-19,202311190DAL,SAC,Sasha Vezenkov,https://www.basketball-reference.com/boxscores/202311190DAL.html,13:06,.700,.700,.400,.000,8.5,0.0,4.2,9.9,0.0,6.8,16.7,19.8,124,122,-1.2
+2023-11-19,202311190DAL,SAC,JaVale McGee,https://www.basketball-reference.com/boxscores/202311190DAL.html,9:21,.615,.500,.000,.500,23.9,57.0,40.8,13.6,5.4,9.5,17.0,27.1,129,92,7.6
+2023-11-19,202311190DAL,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202311190DAL.html,9:12,,,,,12.1,34.8,23.7,0.0,0.0,0.0,,0.0,231,117,-6.5
+2023-11-19,202311190DAL,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202311190DAL.html,8:57,.000,.000,.000,.000,12.5,0.0,6.1,11.2,0.0,0.0,0.0,4.8,115,127,-7.0
+2023-11-19,202311190DAL,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202311190DAL.html,8:32,.000,.000,.333,.000,0.0,0.0,0.0,11.7,0.0,0.0,40.0,25.3,16,127,-33.8
+2023-11-19,202311190DAL,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202311190DAL.html,3:56,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0,125,-30.1
+2023-11-19,202311190DAL,SAC,Jalen Slawson,https://www.basketball-reference.com/boxscores/202311190DAL.html,3:56,,,,,0.0,27.1,13.9,0.0,0.0,0.0,,0.0,0,120,-6.5
+2023-11-19,202311190DAL,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202311190DAL.html,33:00,.599,.529,.353,.294,0.0,6.8,3.3,5.0,0.0,0.0,5.0,26.8,120,141,-3.8
+2023-11-19,202311190DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202311190DAL.html,31:47,.534,.447,.368,.526,3.4,31.6,17.2,34.7,4.7,0.0,7.9,35.1,117,122,10.3
+2023-11-19,202311190DAL,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202311190DAL.html,29:09,.500,.500,.000,.000,18.3,15.3,16.8,0.0,1.7,6.6,14.3,10.5,117,130,-6.6
+2023-11-19,202311190DAL,DAL,Grant Williams,https://www.basketball-reference.com/boxscores/202311190DAL.html,20:01,.509,.583,.667,.333,10.7,5.6,8.2,14.2,0.0,0.0,12.7,17.3,107,141,-5.0
+2023-11-19,202311190DAL,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202311190DAL.html,18:33,.676,.625,.500,.250,0.0,12.0,5.9,0.0,0.0,0.0,18.4,12.9,107,139,-6.5
+2023-11-19,202311190DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202311190DAL.html,27:29,.589,.545,.364,.182,0.0,8.1,4.0,10.8,0.0,0.0,0.0,19.0,129,140,-3.5
+2023-11-19,202311190DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202311190DAL.html,25:51,.619,.625,.625,.250,4.1,13.0,8.4,27.7,3.9,0.0,10.1,16.8,131,130,5.6
+2023-11-19,202311190DAL,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202311190DAL.html,14:38,.800,.800,.200,.000,0.0,15.3,7.5,47.1,0.0,0.0,0.0,15.0,176,138,9.3
+2023-11-19,202311190DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202311190DAL.html,13:23,,,,,0.0,8.3,4.1,8.7,3.7,0.0,100.0,6.6,25,131,-11.0
+2023-11-19,202311190DAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202311190DAL.html,9:45,.410,.375,.500,.500,0.0,0.0,0.0,0.0,5.1,0.0,17.0,26.5,70,130,-13.6
+2023-11-19,202311190DAL,DAL,Richaun Holmes,https://www.basketball-reference.com/boxscores/202311190DAL.html,5:28,.902,1.000,.000,.667,39.0,0.0,20.0,0.0,0.0,0.0,0.0,31.1,185,142,15.6
+2023-11-19,202311190DAL,DAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202311190DAL.html,5:28,.250,.250,.500,.000,0.0,0.0,0.0,27.3,0.0,0.0,0.0,32.1,70,143,-17.2
+2023-11-19,202311190DAL,DAL,Olivier-Maxence Prosper,https://www.basketball-reference.com/boxscores/202311190DAL.html,5:28,.000,.000,1.000,.000,0.0,61.3,29.9,0.0,0.0,0.0,0.0,8.0,0,124,-12.6

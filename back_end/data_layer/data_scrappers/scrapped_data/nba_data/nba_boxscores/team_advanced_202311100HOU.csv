@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-10,202311100HOU,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202311100HOU.html,41:15,.549,.500,.727,.364,0.0,16.3,9.0,4.0,2.4,0.0,19.0,17.0,93,105,-2.1
+2023-11-10,202311100HOU,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202311100HOU.html,40:50,.579,.333,.500,1.000,5.7,18.8,12.9,7.4,1.2,0.0,18.8,11.6,114,107,-0.2
+2023-11-10,202311100HOU,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202311100HOU.html,38:41,.554,.521,.458,.375,0.0,14.9,8.2,30.5,0.0,2.3,12.5,36.7,106,109,4.1
+2023-11-10,202311100HOU,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202311100HOU.html,33:37,.576,.500,.000,.688,7.0,17.1,12.6,6.3,0.0,2.7,19.3,34.2,100,108,-3.2
+2023-11-10,202311100HOU,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202311100HOU.html,29:25,.603,.625,.083,.083,11.9,19.6,16.1,14.5,0.0,12.3,13.9,21.8,115,100,4.4
+2023-11-10,202311100HOU,NOP,Matt Ryan,https://www.basketball-reference.com/boxscores/202311100HOU.html,16:11,.000,.000,1.000,.000,0.0,11.9,6.5,0.0,3.0,0.0,50.0,5.5,0,105,-7.6
+2023-11-10,202311100HOU,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202311100HOU.html,14:43,.568,,,,8.0,26.1,17.9,9.6,0.0,0.0,53.2,5.7,94,108,-2.5
+2023-11-10,202311100HOU,NOP,Dereon Seabron,https://www.basketball-reference.com/boxscores/202311100HOU.html,12:18,.000,.000,.000,.000,0.0,7.8,4.3,0.0,4.0,0.0,0.0,10.8,0,104,-8.5
+2023-11-10,202311100HOU,NOP,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202311100HOU.html,9:06,1.250,1.250,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.8,250,115,10.3
+2023-11-10,202311100HOU,NOP,Cody Zeller,https://www.basketball-reference.com/boxscores/202311100HOU.html,3:52,1.136,,,,0.0,24.8,13.6,0.0,12.7,0.0,0.0,5.1,250,80,12.8
+2023-11-10,202311100HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202311100HOU.html,40:29,.630,.600,.600,.133,2.4,5.8,3.9,34.2,1.2,2.4,5.9,18.3,132,106,7.5
+2023-11-10,202311100HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202311100HOU.html,34:43,.558,.444,.444,.556,0.0,13.5,6.1,5.3,0.0,0.0,4.3,29.6,112,109,0.6
+2023-11-10,202311100HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202311100HOU.html,33:38,.698,.733,.133,.333,11.4,13.9,12.5,21.1,2.9,2.9,18.9,27.7,117,100,8.0
+2023-11-10,202311100HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202311100HOU.html,23:08,.355,.313,.500,.125,4.1,30.4,16.0,13.0,0.0,0.0,19.2,19.8,72,105,-8.8
+2023-11-10,202311100HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202311100HOU.html,20:53,.543,.500,.143,.714,0.0,11.2,5.1,15.8,4.7,4.6,0.0,19.3,118,95,5.6
+2023-11-10,202311100HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202311100HOU.html,23:58,.500,.500,.571,.000,0.0,14.7,6.6,13.4,6.1,0.0,0.0,12.8,109,95,3.8
+2023-11-10,202311100HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202311100HOU.html,22:53,.579,.333,.667,1.000,4.2,15.3,9.2,0.0,0.0,0.0,18.8,10.2,107,109,-6.3
+2023-11-10,202311100HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202311100HOU.html,19:02,.125,.125,.250,.000,5.0,43.1,22.2,0.0,0.0,10.1,0.0,18.5,37,96,-13.4
+2023-11-10,202311100HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202311100HOU.html,14:22,.425,.300,.600,.400,0.0,0.0,0.0,20.5,3.4,0.0,0.0,18.0,104,105,1.9
+2023-11-10,202311100HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202311100HOU.html,6:52,.000,.000,.000,.000,14.0,34.1,23.0,0.0,0.0,0.0,0.0,12.8,38,105,-13.9

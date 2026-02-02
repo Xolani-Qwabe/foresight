@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-02,202312020MIA,IND,Bruce Brown,https://www.basketball-reference.com/boxscores/202312020MIA.html,36:44,.824,.813,.375,.313,0.0,14.9,8.7,6.3,0.0,0.0,5.2,24.4,151,134,2.4
+2023-12-02,202312020MIA,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202312020MIA.html,34:46,1.126,1.125,.625,.250,0.0,7.9,4.6,6.0,1.4,8.6,0.0,11.9,219,123,11.2
+2023-12-02,202312020MIA,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202312020MIA.html,30:19,.708,.708,.333,.000,12.7,36.2,26.4,3.7,0.0,4.9,14.3,21.6,123,126,-4.3
+2023-12-02,202312020MIA,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202312020MIA.html,24:20,.500,.500,.571,.000,0.0,5.6,3.3,7.9,4.0,0.0,12.5,15.4,97,126,-6.7
+2023-12-02,202312020MIA,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202312020MIA.html,23:21,.202,.111,.444,.222,0.0,5.9,3.4,41.9,2.1,0.0,0.0,19.8,107,130,-7.6
+2023-12-02,202312020MIA,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202312020MIA.html,28:43,.945,1.000,.667,.667,0.0,19.1,11.1,3.8,0.0,2.6,0.0,18.9,181,131,6.1
+2023-12-02,202312020MIA,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202312020MIA.html,25:10,.707,.700,.300,.300,7.6,21.8,15.9,17.1,0.0,0.0,26.1,28.4,113,133,-6.6
+2023-12-02,202312020MIA,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202312020MIA.html,25:06,.909,.909,.000,.000,0.0,10.9,6.4,57.0,0.0,0.0,8.3,22.3,182,134,11.3
+2023-12-02,202312020MIA,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202312020MIA.html,8:05,1.031,1.000,.000,.667,0.0,50.9,29.7,15.6,0.0,9.3,0.0,22.4,217,120,18.3
+2023-12-02,202312020MIA,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202312020MIA.html,3:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,135,-16.4
+2023-12-02,202312020MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202312020MIA.html,37:04,.612,.522,.043,.391,7.4,15.5,10.8,19.9,0.0,0.0,3.6,33.0,132,147,0.0
+2023-12-02,202312020MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202312020MIA.html,30:27,.743,.727,.273,.091,4.5,6.3,5.3,12.8,0.0,0.0,14.9,19.3,130,147,-4.6
+2023-12-02,202312020MIA,MIA,Orlando Robinson,https://www.basketball-reference.com/boxscores/202312020MIA.html,29:09,.727,.727,.182,.000,4.7,26.3,13.7,13.5,0.0,0.0,8.3,18.0,138,146,1.9
+2023-12-02,202312020MIA,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202312020MIA.html,28:35,.347,.000,.750,1.000,4.8,47.0,22.4,7.0,0.0,0.0,0.0,8.8,106,146,-9.5
+2023-12-02,202312020MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202312020MIA.html,2:47,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,31.5,0,147,-48.2
+2023-12-02,202312020MIA,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202312020MIA.html,35:15,.600,.600,.267,.000,3.9,5.4,4.5,11.0,1.4,0.0,16.7,22.4,105,144,-6.0
+2023-12-02,202312020MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202312020MIA.html,28:40,.491,.500,.222,.556,0.0,20.1,8.4,12.2,3.4,0.0,0.0,17.1,111,139,-2.6
+2023-12-02,202312020MIA,MIA,Josh Richardson,https://www.basketball-reference.com/boxscores/202312020MIA.html,23:46,.810,.778,.444,.222,0.0,16.2,6.7,16.9,0.0,3.8,16.8,21.9,135,143,3.9
+2023-12-02,202312020MIA,MIA,Kevin Love,https://www.basketball-reference.com/boxscores/202312020MIA.html,18:50,.956,.917,.833,.500,0.0,10.2,4.2,33.7,0.0,0.0,0.0,17.0,198,147,16.3
+2023-12-02,202312020MIA,MIA,Jamal Cain,https://www.basketball-reference.com/boxscores/202312020MIA.html,5:24,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,147,-14.5

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-31,202412310IND,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202412310IND.html,35:57,.321,.321,.643,.000,4.9,5.7,5.3,16.3,2.5,0.0,22.2,20.1,71,105,-7.9
+2024-12-31,202412310IND,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202412310IND.html,34:49,.583,.550,.000,.650,5.1,29.3,16.4,23.1,2.6,0.0,7.2,32.0,120,99,8.6
+2024-12-31,202412310IND,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202412310IND.html,30:48,.550,.409,.364,.545,5.8,13.3,9.3,28.1,0.0,0.0,22.7,23.0,108,108,-2.3
+2024-12-31,202412310IND,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202412310IND.html,23:48,.673,.636,.273,.182,3.7,17.2,10.0,19.6,0.0,0.0,7.8,21.7,133,108,6.6
+2024-12-31,202412310IND,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202412310IND.html,11:51,.667,.667,.000,.000,0.0,17.2,8.0,0.0,0.0,0.0,0.0,10.2,131,107,-5.2
+2024-12-31,202412310IND,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202412310IND.html,30:56,.470,.429,.143,.143,11.5,36.3,23.0,13.0,2.9,0.0,0.0,19.3,119,98,5.0
+2024-12-31,202412310IND,MIL,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202412310IND.html,28:41,.778,.778,.556,.000,0.0,7.1,3.3,4.6,3.1,0.0,0.0,12.6,152,104,8.1
+2024-12-31,202412310IND,MIL,Taurean Prince,https://www.basketball-reference.com/boxscores/202412310IND.html,25:22,.477,.500,.444,.111,3.5,8.1,5.6,10.1,3.5,0.0,9.6,16.5,98,102,-1.0
+2024-12-31,202412310IND,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202412310IND.html,16:19,.750,.750,1.000,.000,5.4,6.3,5.8,8.1,0.0,0.0,0.0,14.8,154,109,3.2
+2024-12-31,202412310IND,MIL,Ryan Rollins,https://www.basketball-reference.com/boxscores/202412310IND.html,1:29,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-7.9
+2024-12-31,202412310IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202412310IND.html,38:38,.384,.269,.462,.462,5.3,11.5,8.6,24.0,1.2,3.9,6.0,17.1,101,113,-1.5
+2024-12-31,202412310IND,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202412310IND.html,36:58,.619,.639,.278,.278,5.5,16.8,11.6,9.6,1.2,2.0,22.9,28.1,93,112,-0.8
+2024-12-31,202412310IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202412310IND.html,33:23,.667,.667,.417,.000,12.2,16.0,14.2,9.6,0.0,2.2,14.3,16.6,121,115,1.5
+2024-12-31,202412310IND,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202412310IND.html,31:40,.357,.357,.357,.000,0.0,5.6,3.0,13.4,0.0,0.0,12.5,20.0,72,120,-12.0
+2024-12-31,202412310IND,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202412310IND.html,31:00,.571,.536,.500,.571,0.0,20.1,10.7,20.2,0.0,0.0,5.4,23.7,116,115,2.8
+2024-12-31,202412310IND,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202412310IND.html,18:57,.500,.500,.800,.000,0.0,32.8,17.6,0.0,2.4,4.0,0.0,10.4,98,103,0.8
+2024-12-31,202412310IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202412310IND.html,16:20,.510,.600,.200,.400,0.0,16.3,8.7,47.1,5.5,0.0,33.8,21.5,86,104,1.4
+2024-12-31,202412310IND,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202412310IND.html,15:35,.814,.700,.600,.800,0.0,5.7,3.0,10.0,8.6,4.8,0.0,17.2,170,97,19.1
+2024-12-31,202412310IND,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202412310IND.html,12:25,.420,.333,.333,1.333,0.0,14.3,7.7,21.4,0.0,6.0,17.4,18.4,87,113,-1.6
+2024-12-31,202412310IND,IND,Thomas Bryant,https://www.basketball-reference.com/boxscores/202412310IND.html,5:04,1.042,1.000,.000,1.000,20.2,17.5,18.8,0.0,0.0,0.0,0.0,11.3,221,116,5.6

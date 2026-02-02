@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202212120SAS.html
+Scraped: 2025-12-15 03:34:12
+
+line_scores: 2 rows (nba_boxscores/line_scores_202212120SAS.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202212120SAS.csv)
+team_basic: 19 rows (nba_boxscores/team_basic_202212120SAS.csv)
+team_advanced: 19 rows (nba_boxscores/team_advanced_202212120SAS.csv)
+quarters: 71 rows (nba_boxscores/quarters_202212120SAS.csv)

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-18,202211180HOU,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202211180HOU.html,36:28,.548,.500,.563,.188,0.0,16.8,8.4,44.3,1.4,0.0,5.5,22.1,123,97,4.2
+2022-11-18,202211180HOU,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202211180HOU.html,32:39,.324,.300,.867,.067,3.1,9.4,6.3,5.1,1.5,2.5,20.6,26.2,59,99,-11.8
+2022-11-18,202211180HOU,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202211180HOU.html,30:21,.460,.400,.200,.200,13.5,47.1,30.3,23.7,1.6,8.2,8.4,17.3,114,78,6.8
+2022-11-18,202211180HOU,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202211180HOU.html,26:09,.711,.625,.000,1.125,11.7,15.6,13.7,7.7,0.0,12.7,14.3,23.5,131,94,6.1
+2022-11-18,202211180HOU,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202211180HOU.html,21:27,.667,.667,.667,.000,0.0,4.8,2.4,34.1,0.0,0.0,0.0,12.3,149,105,1.7
+2022-11-18,202211180HOU,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202211180HOU.html,29:01,.428,.321,.357,.571,3.5,10.6,7.0,12.5,3.4,0.0,10.2,29.7,90,95,-4.4
+2022-11-18,202211180HOU,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202211180HOU.html,17:39,1.000,1.000,.857,.000,0.0,0.0,0.0,0.0,2.8,0.0,0.0,17.5,175,101,15.1
+2022-11-18,202211180HOU,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202211180HOU.html,17:31,.694,.500,.000,1.000,17.5,11.7,14.6,9.1,0.0,4.7,0.0,7.2,176,100,1.4
+2022-11-18,202211180HOU,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202211180HOU.html,16:01,.333,.333,.333,.000,0.0,0.0,0.0,30.0,6.2,0.0,40.0,13.8,66,94,-5.2
+2022-11-18,202211180HOU,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202211180HOU.html,8:40,.000,.000,1.000,2.000,0.0,0.0,0.0,16.8,0.0,0.0,34.7,14.6,19,108,-16.4
+2022-11-18,202211180HOU,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202211180HOU.html,2:08,,,,,0.0,0.0,0.0,0.0,0.0,38.8,100.0,20.7,0,88,-20.0
+2022-11-18,202211180HOU,IND,James Johnson,https://www.basketball-reference.com/boxscores/202211180HOU.html,1:53,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,23.4,0,107,-42.4
+2022-11-18,202211180HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202211180HOU.html,36:22,.403,.357,.571,.143,2.8,19.7,11.2,5.6,0.0,6.4,11.8,19.0,83,103,-4.3
+2022-11-18,202211180HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202211180HOU.html,36:13,.598,.500,.353,.412,5.6,11.3,8.5,21.6,1.4,6.5,9.1,25.0,123,104,10.4
+2022-11-18,202211180HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202211180HOU.html,31:40,.482,.200,.400,1.500,0.0,16.1,8.1,29.2,3.2,0.0,26.5,29.3,85,100,-3.7
+2022-11-18,202211180HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202211180HOU.html,28:01,.396,.346,.077,.154,10.9,21.9,16.4,30.9,1.8,0.0,6.7,21.8,99,101,1.7
+2022-11-18,202211180HOU,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202211180HOU.html,26:16,.558,.556,.222,.444,15.6,15.6,15.6,9.2,1.9,0.0,15.7,19.9,106,104,0.1
+2022-11-18,202211180HOU,HOU,Daishen Nix,https://www.basketball-reference.com/boxscores/202211180HOU.html,24:36,.300,.300,.600,.000,0.0,8.3,4.2,7.2,2.0,0.0,28.6,11.7,51,106,-9.0
+2022-11-18,202211180HOU,HOU,Usman Garuba,https://www.basketball-reference.com/boxscores/202211180HOU.html,19:58,.500,.500,.000,.000,0.0,20.5,10.2,0.0,2.5,0.0,0.0,8.2,107,100,-2.5
+2022-11-18,202211180HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202211180HOU.html,18:53,.202,.111,.111,.222,16.2,16.2,16.2,0.0,0.0,0.0,16.8,25.8,52,108,-18.5
+2022-11-18,202211180HOU,HOU,Garrison Mathews,https://www.basketball-reference.com/boxscores/202211180HOU.html,14:29,.375,.375,.750,.000,0.0,0.0,0.0,0.0,3.5,0.0,0.0,11.3,87,106,-4.4
+2022-11-18,202211180HOU,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202211180HOU.html,3:31,1.000,1.000,.000,.000,29.0,0.0,14.5,0.0,0.0,0.0,0.0,11.7,206,114,14.4

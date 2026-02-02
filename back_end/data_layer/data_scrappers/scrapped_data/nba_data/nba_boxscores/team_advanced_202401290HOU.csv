@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-29,202401290HOU,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202401290HOU.html,41:10,.542,.500,.632,.263,0.0,2.6,1.3,16.3,1.1,0.0,4.5,22.6,109,131,-3.1
+2024-01-29,202401290HOU,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202401290HOU.html,36:47,.621,.667,.333,.533,0.0,17.4,8.6,39.2,1.2,2.1,5.1,22.3,130,125,5.4
+2024-01-29,202401290HOU,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202401290HOU.html,29:44,.450,.438,.375,.250,3.5,7.2,5.3,20.1,1.5,0.0,18.4,15.3,95,128,-6.3
+2024-01-29,202401290HOU,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202401290HOU.html,28:48,.563,.575,.150,.050,7.2,18.5,12.8,11.8,3.1,2.7,12.8,34.1,97,120,0.2
+2024-01-29,202401290HOU,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202401290HOU.html,25:27,.417,.417,.667,.000,0.0,12.6,6.2,4.6,0.0,3.0,25.0,13.2,64,128,-9.9
+2024-01-29,202401290HOU,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202401290HOU.html,22:17,.939,1.000,.600,1.600,0.0,23.9,11.8,5.9,2.0,0.0,0.0,16.0,188,123,10.4
+2024-01-29,202401290HOU,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202401290HOU.html,20:11,.583,.583,.333,.000,0.0,31.7,15.7,6.3,0.0,3.8,0.0,12.5,115,123,-0.2
+2024-01-29,202401290HOU,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202401290HOU.html,13:42,1.014,1.000,.000,.250,7.6,7.8,7.7,0.0,3.2,5.7,18.4,16.7,159,121,5.2
+2024-01-29,202401290HOU,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202401290HOU.html,10:01,.167,.167,.333,.000,0.0,21.3,10.5,0.0,8.8,0.0,25.0,33.5,25,108,-25.7
+2024-01-29,202401290HOU,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202401290HOU.html,7:27,1.042,1.000,.000,1.000,0.0,0.0,0.0,0.0,5.9,0.0,0.0,8.1,219,121,6.1
+2024-01-29,202401290HOU,LAL,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202401290HOU.html,2:13,.000,.000,1.000,.000,0.0,0.0,0.0,48.1,0.0,34.9,0.0,18.9,54,111,3.1
+2024-01-29,202401290HOU,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202401290HOU.html,2:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,134,-8.0
+2024-01-29,202401290HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202401290HOU.html,40:41,.663,.609,.435,.261,7.9,23.1,15.6,21.8,1.1,0.0,3.8,25.3,146,112,9.6
+2024-01-29,202401290HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202401290HOU.html,39:30,.626,.630,.174,.174,8.1,23.8,16.0,24.3,2.2,2.2,13.9,28.2,120,107,5.5
+2024-01-29,202401290HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202401290HOU.html,37:25,.260,.000,1.000,1.000,2.9,8.4,5.6,34.5,2.4,0.0,25.8,8.0,118,110,-2.1
+2024-01-29,202401290HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202401290HOU.html,36:07,.692,.692,.385,.000,5.9,20.2,13.1,12.9,3.7,2.4,7.1,15.0,141,104,8.6
+2024-01-29,202401290HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202401290HOU.html,28:29,.660,.667,.333,.167,11.2,0.0,5.6,4.2,1.6,0.0,7.2,18.9,131,112,-0.6
+2024-01-29,202401290HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202401290HOU.html,18:51,.500,.500,.286,.000,0.0,5.5,2.8,0.0,0.0,0.0,12.5,16.4,88,115,-10.2
+2024-01-29,202401290HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202401290HOU.html,18:10,.683,.667,.500,.500,5.9,28.7,17.4,0.0,0.0,0.0,0.0,31.2,141,114,7.3
+2024-01-29,202401290HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202401290HOU.html,11:54,.000,.000,.000,.000,9.0,52.6,31.0,23.3,3.7,0.0,83.3,19.5,38,102,-14.5
+2024-01-29,202401290HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202401290HOU.html,8:07,.579,.333,.333,1.000,0.0,25.7,13.0,0.0,0.0,0.0,0.0,20.6,135,114,-3.3
+2024-01-29,202401290HOU,HOU,Nate Hinton,https://www.basketball-reference.com/boxscores/202401290HOU.html,0:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-7.7
+2024-01-29,202401290HOU,HOU,Jermaine Samuels,https://www.basketball-reference.com/boxscores/202401290HOU.html,0:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-6.7

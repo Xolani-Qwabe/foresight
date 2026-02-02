@@ -1,0 +1,84 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-11-10,202411100PHI,CHO,Q1,Brandon Miller,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.55,0,1,.000,0,1,.000,0,0,0,1,1,0,1,1,2,2,0,-1.5,+4,
+2024-11-10,202411100PHI,CHO,Q1,LaMelo Ball,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.07,4,9,.444,2,6,.333,0,0,0,0,0,0,0,0,2,1,10,2.9,+3,
+2024-11-10,202411100PHI,CHO,Q1,Josh Green,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.37,0,2,.000,0,2,.000,0,0,0,0,0,1,1,0,0,0,0,0.3,+1,
+2024-11-10,202411100PHI,CHO,Q1,Tidjane Salaün,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.45,0,0,,0,0,,0,0,1,3,4,1,0,0,2,0,0,0.3,+5,
+2024-11-10,202411100PHI,CHO,Q1,Taj Gibson,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.45,0,0,,0,0,,0,0,1,1,2,0,0,1,0,2,0,0.9,+5,
+2024-11-10,202411100PHI,CHO,Q1,Grant Williams,https://www.basketball-reference.com/boxscores/202411100PHI.html,6.55,1,2,.500,0,1,.000,0,0,0,1,1,0,1,0,1,0,2,1.3,-6,
+2024-11-10,202411100PHI,CHO,Q1,Cody Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.83,0,2,.000,0,1,.000,0,0,0,0,0,0,1,0,0,0,0,-0.4,-4,
+2024-11-10,202411100PHI,CHO,Q1,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.63,0,0,,0,0,,0,0,1,3,4,0,0,0,1,0,0,0.6,-2,
+2024-11-10,202411100PHI,CHO,Q1,Tre Mann,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.65,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,1,0,3,1.0,-6,
+2024-11-10,202411100PHI,CHO,Q1,Seth Curry,https://www.basketball-reference.com/boxscores/202411100PHI.html,3.45,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-5,
+2024-11-10,202411100PHI,CHO,Q2,Brandon Miller,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.6,1,2,.500,0,1,.000,3,3,0,3,3,0,0,0,0,1,5,4.5,+2,1.000
+2024-11-10,202411100PHI,CHO,Q2,LaMelo Ball,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.92,1,4,.250,0,2,.000,1,2,0,0,0,3,1,0,3,2,3,-0.5,-1,.500
+2024-11-10,202411100PHI,CHO,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202411100PHI.html,9.12,0,0,,0,0,,2,2,0,1,1,1,0,0,0,0,2,3.0,+1,1.000
+2024-11-10,202411100PHI,CHO,Q2,Tidjane Salaün,https://www.basketball-reference.com/boxscores/202411100PHI.html,3.82,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,0,
+2024-11-10,202411100PHI,CHO,Q2,Taj Gibson,https://www.basketball-reference.com/boxscores/202411100PHI.html,2.33,0,0,,0,0,,1,2,0,2,2,0,0,0,0,2,1,0.4,0,.500
+2024-11-10,202411100PHI,CHO,Q2,Grant Williams,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.18,3,4,.750,2,3,.667,0,0,0,1,1,0,0,0,1,1,8,5.3,0,
+2024-11-10,202411100PHI,CHO,Q2,Cody Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,6.55,0,0,,0,0,,0,0,0,1,1,2,0,0,1,0,0,0.7,-2,
+2024-11-10,202411100PHI,CHO,Q2,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202411100PHI.html,2.07,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,1,2,2.0,-2,
+2024-11-10,202411100PHI,CHO,Q2,Tre Mann,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.97,0,2,.000,0,1,.000,2,2,0,0,0,0,0,0,0,0,2,0.6,0,1.000
+2024-11-10,202411100PHI,CHO,Q2,Seth Curry,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.45,2,3,.667,1,2,.500,0,0,0,0,0,0,1,0,0,0,5,4.7,+2,
+2024-11-10,202411100PHI,CHO,Q3,Brandon Miller,https://www.basketball-reference.com/boxscores/202411100PHI.html,12.0,4,7,.571,2,5,.400,0,0,1,2,3,1,0,0,1,0,10,7.7,-9,
+2024-11-10,202411100PHI,CHO,Q3,LaMelo Ball,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.67,1,4,.250,0,2,.000,2,2,0,1,1,2,1,0,1,0,4,3.3,-7,1.000
+2024-11-10,202411100PHI,CHO,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.75,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-9,
+2024-11-10,202411100PHI,CHO,Q3,Tidjane Salaün,https://www.basketball-reference.com/boxscores/202411100PHI.html,9.95,0,4,.000,0,3,.000,0,0,0,4,4,0,0,0,0,0,0,-1.6,-5,
+2024-11-10,202411100PHI,CHO,Q3,Taj Gibson,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.5,1,2,.500,0,0,,0,0,2,0,2,0,0,0,0,0,2,2.4,-2,
+2024-11-10,202411100PHI,CHO,Q3,Grant Williams,https://www.basketball-reference.com/boxscores/202411100PHI.html,6.5,1,3,.333,0,1,.000,0,0,0,0,0,0,0,0,1,1,2,-1.1,-7,
+2024-11-10,202411100PHI,CHO,Q3,Cody Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.33,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,1,0,3,2.7,-2,
+2024-11-10,202411100PHI,CHO,Q3,Tre Mann,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.33,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-2,
+2024-11-10,202411100PHI,CHO,Q3,Seth Curry,https://www.basketball-reference.com/boxscores/202411100PHI.html,0.97,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2024-11-10,202411100PHI,CHO,Q4,Brandon Miller,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.47,2,5,.400,1,3,.333,2,2,0,0,0,1,1,0,0,0,7,6.0,+8,1.000
+2024-11-10,202411100PHI,CHO,Q4,LaMelo Ball,https://www.basketball-reference.com/boxscores/202411100PHI.html,11.87,6,9,.667,4,5,.800,0,0,1,2,3,3,0,0,0,0,16,15.5,+10,
+2024-11-10,202411100PHI,CHO,Q4,Josh Green,https://www.basketball-reference.com/boxscores/202411100PHI.html,1.38,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-3,
+2024-11-10,202411100PHI,CHO,Q4,Grant Williams,https://www.basketball-reference.com/boxscores/202411100PHI.html,12.0,1,3,.333,0,2,.000,0,0,0,1,1,2,1,2,0,1,2,4.0,+10,
+2024-11-10,202411100PHI,CHO,Q4,Cody Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,10.75,2,4,.500,0,2,.000,0,0,0,2,2,2,1,0,0,1,4,4.6,+13,
+2024-11-10,202411100PHI,CHO,Q4,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202411100PHI.html,11.92,1,2,.500,0,0,,0,0,2,2,4,0,0,0,0,2,2,2.2,+6,
+2024-11-10,202411100PHI,CHO,Q4,Seth Curry,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.62,0,3,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-2.1,+6,
+2024-11-10,202411100PHI,CHO,OT1,Brandon Miller,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2024-11-10,202411100PHI,CHO,OT1,LaMelo Ball,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,1,4,.250,0,3,.000,3,3,0,0,0,0,0,0,0,0,5,2.6,-2,1.000
+2024-11-10,202411100PHI,CHO,OT1,Grant Williams,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,0,2,.000,0,0,,3,4,1,0,1,0,0,1,0,1,3,2.2,-2,.750
+2024-11-10,202411100PHI,CHO,OT1,Cody Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,1,2,0,-1.9,-2,
+2024-11-10,202411100PHI,CHO,OT1,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.75,0,1,.000,0,0,,0,0,2,1,3,0,0,0,0,1,0,0.6,-1,
+2024-11-10,202411100PHI,CHO,OT1,Seth Curry,https://www.basketball-reference.com/boxscores/202411100PHI.html,0.25,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,
+2024-11-10,202411100PHI,PHI,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,10.08,0,2,.000,0,1,.000,0,0,0,1,1,1,4,0,1,0,0,2.6,-3,
+2024-11-10,202411100PHI,PHI,Q1,Paul George,https://www.basketball-reference.com/boxscores/202411100PHI.html,9.92,2,6,.333,0,3,.000,2,2,0,1,1,2,1,0,2,0,6,3.3,-1,1.000
+2024-11-10,202411100PHI,PHI,Q1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.37,0,0,,0,0,,0,0,0,0,0,1,0,0,2,0,0,-1.3,-1,
+2024-11-10,202411100PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.37,0,4,.000,0,1,.000,0,0,1,0,1,1,0,0,0,1,0,-1.8,-1,
+2024-11-10,202411100PHI,PHI,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.82,1,2,.500,0,0,,1,1,1,1,2,0,0,0,1,1,3,1.6,-5,1.000
+2024-11-10,202411100PHI,PHI,Q1,Jared McCain,https://www.basketball-reference.com/boxscores/202411100PHI.html,2.08,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,+2,
+2024-11-10,202411100PHI,PHI,Q1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411100PHI.html,6.18,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,+6,
+2024-11-10,202411100PHI,PHI,Q1,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.63,1,1,1.000,1,1,1.000,2,2,0,0,0,0,0,0,0,0,5,4.7,+2,1.000
+2024-11-10,202411100PHI,PHI,Q1,Eric Gordon,https://www.basketball-reference.com/boxscores/202411100PHI.html,6.55,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+6,
+2024-11-10,202411100PHI,PHI,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.05,0,1,.000,0,0,,0,0,0,1,1,1,0,0,1,0,0,-0.7,+5,
+2024-11-10,202411100PHI,PHI,Q2,Paul George,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.18,2,4,.500,0,2,.000,0,0,0,1,1,1,1,0,1,1,4,2.6,0,
+2024-11-10,202411100PHI,PHI,Q2,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.72,1,2,.500,0,1,.000,0,0,0,0,0,2,0,0,0,2,2,1.6,+1,
+2024-11-10,202411100PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.72,3,3,1.000,0,0,,0,2,0,2,2,1,0,0,1,1,6,4.2,+1,.000
+2024-11-10,202411100PHI,PHI,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.55,2,3,.667,0,0,,2,3,0,3,3,0,0,0,0,1,6,4.8,-5,.667
+2024-11-10,202411100PHI,PHI,Q2,Jared McCain,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.55,1,2,.500,0,1,.000,2,2,0,0,0,1,0,0,0,1,4,3.3,-5,1.000
+2024-11-10,202411100PHI,PHI,Q2,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.45,1,1,1.000,0,0,,2,2,1,0,1,0,0,0,0,1,4,4.0,+5,1.000
+2024-11-10,202411100PHI,PHI,Q2,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,6.5,2,4,.500,0,2,.000,0,0,0,2,2,0,1,0,0,0,4,3.6,-1,
+2024-11-10,202411100PHI,PHI,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202411100PHI.html,3.28,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-1,
+2024-11-10,202411100PHI,PHI,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,8.95,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,+7,
+2024-11-10,202411100PHI,PHI,Q3,Paul George,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.67,2,3,.667,1,2,.500,0,0,0,1,1,5,0,0,1,0,5,6.5,+7,
+2024-11-10,202411100PHI,PHI,Q3,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.62,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,1,0,0,3,4.1,+5,
+2024-11-10,202411100PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.67,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,+7,
+2024-11-10,202411100PHI,PHI,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.33,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+2,
+2024-11-10,202411100PHI,PHI,Q3,Jared McCain,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.33,4,5,.800,2,3,.667,0,0,0,1,1,0,0,0,0,0,10,8.4,+2,
+2024-11-10,202411100PHI,PHI,Q3,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.67,5,7,.714,2,3,.667,0,0,0,4,4,0,0,0,0,0,12,10.3,+7,
+2024-11-10,202411100PHI,PHI,Q3,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.38,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,+4,
+2024-11-10,202411100PHI,PHI,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.38,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,2,1,0,-2.4,+4,
+2024-11-10,202411100PHI,PHI,Q4,Caleb Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,12.0,1,2,.500,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.0,-10,
+2024-11-10,202411100PHI,PHI,Q4,Paul George,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.47,0,5,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-2.8,-8,
+2024-11-10,202411100PHI,PHI,Q4,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.47,0,0,,0,0,,1,2,0,3,3,1,0,0,1,1,1,0.8,-8,.500
+2024-11-10,202411100PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.53,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,1,0,0,-1.0,-2,
+2024-11-10,202411100PHI,PHI,Q4,Andre Drummond,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.53,2,3,.667,0,0,,0,0,2,0,2,0,0,0,1,1,4,2.7,-2,
+2024-11-10,202411100PHI,PHI,Q4,Jared McCain,https://www.basketball-reference.com/boxscores/202411100PHI.html,12.0,4,6,.667,1,2,.500,2,2,0,2,2,1,0,0,0,1,11,9.3,-10,1.000
+2024-11-10,202411100PHI,PHI,Q4,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411100PHI.html,7.47,0,2,.000,0,0,,0,0,1,1,2,0,0,0,1,1,0,-1.8,-8,
+2024-11-10,202411100PHI,PHI,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,4.53,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-2,
+2024-11-10,202411100PHI,PHI,OT1,Caleb Martin,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,0,0,,0,0,,2,2,1,0,1,0,0,0,0,1,2,2.3,+2,1.000
+2024-11-10,202411100PHI,PHI,OT1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,0,0,,0,0,,2,2,0,1,1,0,1,0,0,0,2,3.3,+2,1.000
+2024-11-10,202411100PHI,PHI,OT1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411100PHI.html,3.4,0,0,,0,0,,2,2,1,0,1,0,0,0,0,1,2,2.3,+2,1.000
+2024-11-10,202411100PHI,PHI,OT1,Andre Drummond,https://www.basketball-reference.com/boxscores/202411100PHI.html,1.6,0,0,,0,0,,0,0,0,2,2,0,0,0,0,1,0,0.2,0,
+2024-11-10,202411100PHI,PHI,OT1,Jared McCain,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,1,4,.250,0,1,.000,0,0,0,0,0,0,0,0,1,0,2,-1.4,+2,
+2024-11-10,202411100PHI,PHI,OT1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411100PHI.html,5.0,1,2,.500,0,1,.000,0,2,0,0,0,0,0,0,0,2,2,-0.6,+2,.000

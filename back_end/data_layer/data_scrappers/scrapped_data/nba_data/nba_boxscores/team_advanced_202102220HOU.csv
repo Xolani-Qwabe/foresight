@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-22,202102220HOU,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202102220HOU.html,34:12,.875,.875,.500,.000,3.3,14.5,9.7,3.5,1.4,2.5,11.1,11.9,153,100,4.4
+2021-02-22,202102220HOU,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202102220HOU.html,31:48,.685,.643,.429,.214,0.0,13.0,7.5,23.6,0.0,0.0,11.5,24.6,132,105,3.6
+2021-02-22,202102220HOU,CHI,Coby White,https://www.basketball-reference.com/boxscores/202102220HOU.html,30:48,.750,.750,.438,.000,3.6,24.2,15.4,9.3,0.0,2.8,0.0,23.4,152,99,8.3
+2021-02-22,202102220HOU,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202102220HOU.html,28:49,.605,.571,.000,.143,15.5,25.8,21.4,4.7,3.4,8.9,16.8,28.0,112,86,1.0
+2021-02-22,202102220HOU,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202102220HOU.html,28:35,.571,.571,.571,.286,3.9,8.7,6.7,15.3,0.0,0.0,0.0,12.4,139,107,1.4
+2021-02-22,202102220HOU,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202102220HOU.html,29:23,.556,.556,.444,.000,0.0,0.0,0.0,15.4,1.6,0.0,18.2,16.9,104,107,-3.9
+2021-02-22,202102220HOU,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202102220HOU.html,20:07,.824,.889,.000,.333,5.5,28.8,18.9,39.9,0.0,0.0,16.2,27.6,146,100,12.6
+2021-02-22,202102220HOU,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202102220HOU.html,18:42,.278,.278,.778,.000,0.0,26.6,15.2,5.9,2.6,0.0,0.0,21.7,66,94,-11.3
+2021-02-22,202102220HOU,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202102220HOU.html,15:03,.200,.200,.800,.000,0.0,11.0,6.3,0.0,0.0,0.0,16.7,18.0,35,106,-20.4
+2021-02-22,202102220HOU,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202102220HOU.html,2:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,110,-7.6
+2021-02-22,202102220HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202102220HOU.html,31:27,.545,.545,.364,.000,13.2,10.6,12.1,10.4,4.6,0.0,8.3,16.2,118,116,2.0
+2021-02-22,202102220HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202102220HOU.html,27:59,.336,.306,.556,.167,0.0,12.0,5.1,24.1,0.0,0.0,9.4,32.3,72,127,-13.7
+2021-02-22,202102220HOU,HOU,John Wall,https://www.basketball-reference.com/boxscores/202102220HOU.html,26:12,.439,.321,.214,.500,0.0,12.8,5.4,43.2,0.0,0.0,10.5,30.8,97,126,-4.6
+2021-02-22,202102220HOU,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202102220HOU.html,26:02,.759,.778,.556,.222,3.2,21.4,11.0,13.3,1.9,0.0,0.0,16.1,153,121,8.6
+2021-02-22,202102220HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202102220HOU.html,22:35,.000,.000,.667,.000,0.0,9.9,4.2,0.0,2.1,0.0,0.0,5.6,0,122,-13.3
+2021-02-22,202102220HOU,HOU,Sterling Brown,https://www.basketball-reference.com/boxscores/202102220HOU.html,27:41,.847,.889,.444,.111,0.0,16.1,6.9,13.0,0.0,0.0,9.6,16.0,143,126,5.4
+2021-02-22,202102220HOU,HOU,David Nwaba,https://www.basketball-reference.com/boxscores/202102220HOU.html,26:51,.604,.594,.188,.313,12.3,20.8,15.9,17.1,3.6,0.0,5.2,30.3,123,117,7.7
+2021-02-22,202102220HOU,HOU,Justin Patton,https://www.basketball-reference.com/boxscores/202102220HOU.html,21:27,.333,.333,.333,.000,3.9,26.0,13.3,0.0,0.0,12.2,0.0,11.8,77,113,-8.6
+2021-02-22,202102220HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202102220HOU.html,11:21,.000,.000,1.000,.000,0.0,19.7,8.4,11.4,0.0,0.0,0.0,18.7,12,125,-22.7
+2021-02-22,202102220HOU,HOU,Rodions Kurucs,https://www.basketball-reference.com/boxscores/202102220HOU.html,9:44,.000,.000,1.000,.000,0.0,11.5,4.9,0.0,0.0,9.0,33.3,13.1,0,119,-17.1
+2021-02-22,202102220HOU,HOU,Mason Jones,https://www.basketball-reference.com/boxscores/202102220HOU.html,8:41,.436,.333,.000,.333,0.0,25.7,10.9,0.0,0.0,0.0,22.5,21.7,68,124,-19.5

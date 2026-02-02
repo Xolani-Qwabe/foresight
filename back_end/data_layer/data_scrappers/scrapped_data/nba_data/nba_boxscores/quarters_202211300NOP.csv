@@ -1,0 +1,78 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-11-30,202211300NOP,TOR,Q1,Pascal Siakam,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.3,5,8,.625,1,2,.500,0,0,1,0,1,0,0,0,2,1,11,5.7,-8,
+2022-11-30,202211300NOP,TOR,Q1,OG Anunoby,https://www.basketball-reference.com/boxscores/202211300NOP.html,5.7,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,2,3,1.9,+1,
+2022-11-30,202211300NOP,TOR,Q1,Scottie Barnes,https://www.basketball-reference.com/boxscores/202211300NOP.html,9.63,0,3,.000,0,2,.000,1,2,0,1,1,3,1,0,3,1,1,-1.5,-2,.500
+2022-11-30,202211300NOP,TOR,Q1,Fred VanVleet,https://www.basketball-reference.com/boxscores/202211300NOP.html,10.07,0,2,.000,0,2,.000,0,0,0,2,2,3,1,0,1,1,0,0.9,-7,
+2022-11-30,202211300NOP,TOR,Q1,Thaddeus Young,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.3,1,1,1.000,0,0,,0,0,0,1,1,1,1,0,0,1,2,3.3,-8,
+2022-11-30,202211300NOP,TOR,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,6.07,3,4,.750,2,3,.667,0,1,0,0,0,1,0,0,0,0,8,6.7,-12,.000
+2022-11-30,202211300NOP,TOR,Q1,Chris Boucher,https://www.basketball-reference.com/boxscores/202211300NOP.html,6.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-12,
+2022-11-30,202211300NOP,TOR,Q1,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,1.93,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,-4,
+2022-11-30,202211300NOP,TOR,Q1,Christian Koloko,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.7,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,4,3.7,-3,
+2022-11-30,202211300NOP,TOR,Q2,Pascal Siakam,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.7,0,2,.000,0,0,,1,2,0,1,1,1,1,1,1,0,1,0.9,-8,.500
+2022-11-30,202211300NOP,TOR,Q2,OG Anunoby,https://www.basketball-reference.com/boxscores/202211300NOP.html,10.28,1,3,.333,0,0,,1,1,0,1,1,1,0,0,1,1,3,0.9,-7,1.000
+2022-11-30,202211300NOP,TOR,Q2,Scottie Barnes,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.3,1,3,.333,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,1.3,-8,
+2022-11-30,202211300NOP,TOR,Q2,Fred VanVleet,https://www.basketball-reference.com/boxscores/202211300NOP.html,9.42,1,6,.167,0,5,.000,0,0,0,3,3,2,0,0,1,1,2,-0.9,-17,
+2022-11-30,202211300NOP,TOR,Q2,Thaddeus Young,https://www.basketball-reference.com/boxscores/202211300NOP.html,1.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-7,
+2022-11-30,202211300NOP,TOR,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,6.68,0,3,.000,0,2,.000,2,2,0,0,0,0,0,0,0,0,2,-0.1,-11,1.000
+2022-11-30,202211300NOP,TOR,Q2,Chris Boucher,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-8,
+2022-11-30,202211300NOP,TOR,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,5.32,2,3,.667,1,2,.500,0,0,1,0,1,0,0,0,0,0,5,4.4,-5,
+2022-11-30,202211300NOP,TOR,Q2,Christian Koloko,https://www.basketball-reference.com/boxscores/202211300NOP.html,5.32,0,0,,0,0,,0,0,0,1,1,0,0,1,0,0,0,1.0,-5,
+2022-11-30,202211300NOP,TOR,Q2,Khem Birch,https://www.basketball-reference.com/boxscores/202211300NOP.html,5.03,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,1,2,0.3,-4,
+2022-11-30,202211300NOP,TOR,Q3,Pascal Siakam,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.27,2,2,1.000,0,0,,2,2,1,1,2,1,0,0,1,0,6,6.1,-2,1.000
+2022-11-30,202211300NOP,TOR,Q3,OG Anunoby,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.27,1,5,.200,0,2,.000,0,0,0,2,2,0,1,0,0,0,2,0.5,-2,
+2022-11-30,202211300NOP,TOR,Q3,Scottie Barnes,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.13,0,1,.000,0,1,.000,0,0,0,0,0,2,0,1,0,0,0,1.4,-4,
+2022-11-30,202211300NOP,TOR,Q3,Fred VanVleet,https://www.basketball-reference.com/boxscores/202211300NOP.html,0.68,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+1,
+2022-11-30,202211300NOP,TOR,Q3,Thaddeus Young,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.87,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+7,
+2022-11-30,202211300NOP,TOR,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,11.32,5,7,.714,2,3,.667,3,4,0,0,0,0,2,0,1,1,15,12.3,+2,.750
+2022-11-30,202211300NOP,TOR,Q3,Chris Boucher,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.87,1,5,.200,0,3,.000,2,2,0,2,2,0,0,0,0,2,4,0.7,+7,1.000
+2022-11-30,202211300NOP,TOR,Q3,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.73,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,
+2022-11-30,202211300NOP,TOR,Q3,Christian Koloko,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.13,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,-4,
+2022-11-30,202211300NOP,TOR,Q3,Dalano Banton,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.73,1,1,1.000,0,0,,0,0,0,0,0,3,1,0,0,0,2,4.8,+5,
+2022-11-30,202211300NOP,TOR,Q4,Pascal Siakam,https://www.basketball-reference.com/boxscores/202211300NOP.html,9.38,2,4,.500,0,0,,1,1,0,2,2,2,1,1,1,2,5,4.9,+6,1.000
+2022-11-30,202211300NOP,TOR,Q4,OG Anunoby,https://www.basketball-reference.com/boxscores/202211300NOP.html,6.27,2,2,1.000,0,0,,0,0,0,2,2,2,0,1,3,1,4,2.7,+4,
+2022-11-30,202211300NOP,TOR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,9.38,4,6,.667,2,3,.667,0,0,0,1,1,0,1,0,0,0,10,8.7,+6,
+2022-11-30,202211300NOP,TOR,Q4,Chris Boucher,https://www.basketball-reference.com/boxscores/202211300NOP.html,10.6,1,1,1.000,0,0,,0,2,0,0,0,0,1,1,0,1,2,2.2,+2,.000
+2022-11-30,202211300NOP,TOR,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,12.0,2,3,.667,0,1,.000,0,0,0,2,2,2,0,0,0,1,4,4.3,+6,
+2022-11-30,202211300NOP,TOR,Q4,Christian Koloko,https://www.basketball-reference.com/boxscores/202211300NOP.html,1.4,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+4,
+2022-11-30,202211300NOP,TOR,Q4,Dalano Banton,https://www.basketball-reference.com/boxscores/202211300NOP.html,5.73,2,6,.333,1,3,.333,0,0,0,3,3,1,1,0,0,0,5,4.2,+2,
+2022-11-30,202211300NOP,TOR,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,2.62,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2022-11-30,202211300NOP,TOR,Q4,Malachi Flynn,https://www.basketball-reference.com/boxscores/202211300NOP.html,2.62,0,1,.000,0,1,.000,0,0,0,0,0,2,0,0,0,1,0,0.3,0,
+2022-11-30,202211300NOP,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202211300NOP.html,9.17,5,5,1.000,0,0,,1,2,0,1,1,4,1,0,0,0,11,13.2,+7,.500
+2022-11-30,202211300NOP,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202211300NOP.html,9.17,1,1,1.000,1,1,1.000,0,0,0,1,1,1,1,0,0,1,3,4.3,+7,
+2022-11-30,202211300NOP,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202211300NOP.html,6.55,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+1,
+2022-11-30,202211300NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.3,2,5,.400,0,1,.000,0,0,1,4,5,2,0,0,2,0,4,2.6,+8,
+2022-11-30,202211300NOP,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.3,3,4,.750,1,1,1.000,0,0,0,1,1,0,0,0,1,1,7,4.3,+8,
+2022-11-30,202211300NOP,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.7,1,1,1.000,1,1,1.000,1,2,0,0,0,3,0,0,0,0,4,5.4,+3,.500
+2022-11-30,202211300NOP,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202211300NOP.html,5.45,0,1,.000,0,1,.000,2,2,0,0,0,0,0,0,0,1,2,0.9,+10,1.000
+2022-11-30,202211300NOP,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.7,2,2,1.000,1,1,1.000,0,0,0,1,1,0,1,0,0,0,5,5.7,+3,
+2022-11-30,202211300NOP,NOP,Q1,Garrett Temple,https://www.basketball-reference.com/boxscores/202211300NOP.html,2.83,0,0,,0,0,,0,0,0,0,0,0,1,0,1,0,0,0.0,+4,
+2022-11-30,202211300NOP,NOP,Q1,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,2.83,2,2,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,4,4.0,+4,
+2022-11-30,202211300NOP,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.53,2,3,.667,0,0,,2,2,2,2,4,0,1,0,2,0,6,5.7,+17,1.000
+2022-11-30,202211300NOP,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.53,4,6,.667,3,5,.600,1,1,0,0,0,0,0,0,0,0,12,9.4,+17,1.000
+2022-11-30,202211300NOP,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.3,0,0,,0,0,,0,0,0,0,0,2,1,0,0,1,0,2.0,+8,
+2022-11-30,202211300NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202211300NOP.html,6.68,2,3,.667,1,2,.500,0,0,0,5,5,0,0,0,0,0,5,5.2,+11,
+2022-11-30,202211300NOP,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.82,1,3,.333,1,2,.500,2,2,0,1,1,1,0,0,1,0,5,3.3,+15,1.000
+2022-11-30,202211300NOP,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.7,2,4,.500,0,1,.000,0,0,1,2,3,2,1,0,0,1,4,5.3,+8,
+2022-11-30,202211300NOP,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202211300NOP.html,5.32,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,1.0,+5,
+2022-11-30,202211300NOP,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.18,0,0,,0,0,,0,0,0,1,1,1,0,0,0,2,0,0.2,+1,
+2022-11-30,202211300NOP,NOP,Q2,Garrett Temple,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.47,1,1,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,2,2.4,-1,
+2022-11-30,202211300NOP,NOP,Q2,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.47,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.7,-1,
+2022-11-30,202211300NOP,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202211300NOP.html,9.13,2,3,.667,0,0,,2,2,0,3,3,1,0,0,2,2,6,3.5,-3,1.000
+2022-11-30,202211300NOP,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.88,1,4,.250,1,3,.333,2,2,0,1,1,0,0,1,1,1,5,2.2,-1,1.000
+2022-11-30,202211300NOP,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.13,0,1,.000,0,0,,0,0,1,0,1,2,1,0,0,1,0,2.0,+4,
+2022-11-30,202211300NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.27,2,3,.667,1,2,.500,2,2,1,2,3,1,0,0,1,1,7,6.3,+2,1.000
+2022-11-30,202211300NOP,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.13,0,2,.000,0,2,.000,0,0,1,1,2,0,0,0,0,0,0,-0.4,-4,
+2022-11-30,202211300NOP,NOP,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.87,2,2,1.000,0,0,,0,0,0,2,2,2,0,0,0,0,4,5.4,+1,
+2022-11-30,202211300NOP,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.87,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,1,0,0,-2.4,-7,
+2022-11-30,202211300NOP,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.73,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,2,1,3,0.3,-5,
+2022-11-30,202211300NOP,NOP,Q3,Garrett Temple,https://www.basketball-reference.com/boxscores/202211300NOP.html,3.12,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.0,-2,
+2022-11-30,202211300NOP,NOP,Q3,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,2.87,0,0,,0,0,,0,0,0,1,1,1,0,0,1,0,0,0.0,0,
+2022-11-30,202211300NOP,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202211300NOP.html,10.6,3,4,.750,0,0,,4,6,1,1,2,0,2,2,0,0,10,12.0,-2,.667
+2022-11-30,202211300NOP,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202211300NOP.html,10.6,2,6,.333,1,3,.333,1,1,1,2,3,0,0,0,1,1,6,2.5,-2,1.000
+2022-11-30,202211300NOP,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202211300NOP.html,8.88,1,2,.500,0,0,,2,2,0,1,1,0,0,0,2,0,4,1.3,-4,1.000
+2022-11-30,202211300NOP,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202211300NOP.html,2.67,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-6,
+2022-11-30,202211300NOP,NOP,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202211300NOP.html,12.0,1,2,.500,0,0,,0,0,1,2,3,2,0,0,1,0,2,2.7,-6,
+2022-11-30,202211300NOP,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202211300NOP.html,4.52,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-6,
+2022-11-30,202211300NOP,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202211300NOP.html,7.93,1,4,.250,0,0,,0,0,1,2,3,0,0,1,0,2,2,0.8,+4,
+2022-11-30,202211300NOP,NOP,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/202211300NOP.html,1.4,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2022-11-30,202211300NOP,NOP,Q4,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202211300NOP.html,1.4,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,

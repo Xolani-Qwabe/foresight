@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-08,202101080SAC,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202101080SAC.html,33.23,13,22,.591,5,9,.556,3,3,1.000,1,2,3,7,1,0,3,1,34,27.6,+13
+2021-01-08,202101080SAC,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202101080SAC.html,33.15,7,11,.636,1,2,.500,2,2,1.000,3,6,9,12,1,1,2,5,17,22.1,+17
+2021-01-08,202101080SAC,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202101080SAC.html,28.6,2,8,.250,0,4,.000,4,6,.667,0,2,2,2,2,0,3,5,8,1.4,+17
+2021-01-08,202101080SAC,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202101080SAC.html,26.7,6,8,.750,4,5,.800,6,6,1.000,0,2,2,0,2,0,1,0,22,20.4,+4
+2021-01-08,202101080SAC,TOR,Alex Len,https://www.basketball-reference.com/boxscores/202101080SAC.html,4.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-12
+2021-01-08,202101080SAC,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202101080SAC.html,29.2,9,12,.750,2,4,.500,3,5,.600,4,6,10,2,1,3,0,2,23,25.7,+14
+2021-01-08,202101080SAC,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202101080SAC.html,22.27,7,13,.538,4,8,.500,0,0,,0,1,1,3,0,0,1,1,18,12.7,+25
+2021-01-08,202101080SAC,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202101080SAC.html,19.17,1,5,.200,1,2,.500,0,0,,2,5,7,0,0,1,0,1,3,3.1,+16
+2021-01-08,202101080SAC,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202101080SAC.html,16.8,5,6,.833,2,3,.667,0,0,,0,5,5,2,0,0,1,3,12,10.5,+6
+2021-01-08,202101080SAC,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202101080SAC.html,15.48,0,2,.000,0,1,.000,0,0,,1,3,4,1,0,0,0,1,0,0.5,+11
+2021-01-08,202101080SAC,TOR,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202101080SAC.html,3.83,1,2,.500,0,0,,0,0,,0,0,0,1,1,0,1,0,2,1.7,-3
+2021-01-08,202101080SAC,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202101080SAC.html,2.28,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-1
+2021-01-08,202101080SAC,TOR,Paul Watson,https://www.basketball-reference.com/boxscores/202101080SAC.html,2.28,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,-1
+2021-01-08,202101080SAC,TOR,Jalen Harris,https://www.basketball-reference.com/boxscores/202101080SAC.html,2.28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1
+2021-01-08,202101080SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202101080SAC.html,32.45,6,14,.429,3,9,.333,0,0,,0,5,5,6,1,0,1,3,15,12.1,-18
+2021-01-08,202101080SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202101080SAC.html,30.5,6,8,.750,2,2,1.000,7,10,.700,0,4,4,8,1,0,3,3,21,20.2,-15
+2021-01-08,202101080SAC,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202101080SAC.html,29.27,6,9,.667,1,3,.333,2,5,.400,2,2,4,2,0,1,0,3,15,12.8,-13
+2021-01-08,202101080SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202101080SAC.html,24.9,9,11,.818,0,1,.000,5,7,.714,0,1,1,3,2,1,4,1,23,18.8,-8
+2021-01-08,202101080SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202101080SAC.html,23.57,5,7,.714,0,0,,0,0,,0,0,0,2,1,3,0,4,10,10.0,-4
+2021-01-08,202101080SAC,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202101080SAC.html,29.02,5,10,.500,5,7,.714,0,0,,0,2,2,8,2,1,1,0,15,17.9,-15
+2021-01-08,202101080SAC,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202101080SAC.html,22.85,2,4,.500,2,3,.667,0,0,,0,2,2,3,0,1,0,2,6,6.6,-21
+2021-01-08,202101080SAC,SAC,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202101080SAC.html,17.17,3,5,.600,1,3,.333,2,2,1.000,0,2,2,1,0,0,0,2,9,7.2,-5
+2021-01-08,202101080SAC,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202101080SAC.html,9.82,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,1,0,2,-0.4,-16
+2021-01-08,202101080SAC,SAC,Kyle Guy,https://www.basketball-reference.com/boxscores/202101080SAC.html,5.75,1,3,.333,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,3,3.0,+3
+2021-01-08,202101080SAC,SAC,Justin James,https://www.basketball-reference.com/boxscores/202101080SAC.html,5.75,1,3,.333,0,1,.000,0,4,.000,1,0,1,0,1,0,0,0,2,0.4,+3
+2021-01-08,202101080SAC,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202101080SAC.html,5.13,0,2,.000,0,2,.000,0,0,,0,3,3,1,0,1,1,0,0,-0.1,+1
+2021-01-08,202101080SAC,SAC,Robert Woodard II,https://www.basketball-reference.com/boxscores/202101080SAC.html,3.83,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+3

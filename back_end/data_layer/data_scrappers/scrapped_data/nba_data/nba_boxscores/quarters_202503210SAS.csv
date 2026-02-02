@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-03-21,202503210SAS,PHI,Q1,Justin Edwards,https://www.basketball-reference.com/boxscores/202503210SAS.html,8.8,3,5,.600,1,3,.333,1,2,.500,1,1,2,0,0,1,0,0,8,7.0,-1
+2025-03-21,202503210SAS,PHI,Q1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.33,2,5,.400,0,2,.000,0,0,,0,0,0,1,1,0,0,0,4,3.0,+1
+2025-03-21,202503210SAS,PHI,Q1,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503210SAS.html,10.55,2,3,.667,1,2,.500,0,0,,0,2,2,3,1,0,0,0,5,7.4,-1
+2025-03-21,202503210SAS,PHI,Q1,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503210SAS.html,8.78,0,0,,0,0,,0,0,,0,1,1,2,0,0,0,0,0,1.7,0
+2025-03-21,202503210SAS,PHI,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.33,2,4,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,1,5,2.9,+1
+2025-03-21,202503210SAS,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.67,2,2,1.000,0,0,,0,0,,0,3,3,0,0,0,1,1,4,2.9,-3
+2025-03-21,202503210SAS,PHI,Q1,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.67,0,1,.000,0,0,,0,0,,0,0,0,1,1,1,1,1,0,0.3,-3
+2025-03-21,202503210SAS,PHI,Q1,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.67,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-3
+2025-03-21,202503210SAS,PHI,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202503210SAS.html,3.2,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,0,1,0,0,-0.7,-1
+2025-03-21,202503210SAS,PHI,Q2,Justin Edwards,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.63,0,0,,0,0,,2,2,1.000,0,1,1,1,0,0,1,1,2,1.6,-4
+2025-03-21,202503210SAS,PHI,Q2,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503210SAS.html,8.72,3,5,.600,0,1,.000,0,0,,0,1,1,1,0,0,0,0,6,4.7,-5
+2025-03-21,202503210SAS,PHI,Q2,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.63,3,5,.600,1,2,.500,0,0,,0,0,0,2,1,0,2,2,7,4.3,-4
+2025-03-21,202503210SAS,PHI,Q2,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503210SAS.html,8.53,0,1,.000,0,1,.000,0,0,,0,2,2,1,1,0,0,0,0,1.6,-9
+2025-03-21,202503210SAS,PHI,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.28,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-4
+2025-03-21,202503210SAS,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.72,0,1,.000,0,1,.000,3,4,.750,0,1,1,0,0,0,0,0,3,2.2,-6
+2025-03-21,202503210SAS,PHI,Q2,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.37,0,1,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,1,0,1,-1.1,-6
+2025-03-21,202503210SAS,PHI,Q2,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503210SAS.html,3.28,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,0,0,4,2.7,-5
+2025-03-21,202503210SAS,PHI,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.83,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,3,4.4,-7
+2025-03-21,202503210SAS,PHI,Q3,Justin Edwards,https://www.basketball-reference.com/boxscores/202503210SAS.html,9.65,4,4,1.000,2,2,1.000,0,0,,0,1,1,0,0,0,0,1,10,8.7,+9
+2025-03-21,202503210SAS,PHI,Q3,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503210SAS.html,9.85,3,3,1.000,0,0,,0,0,,1,3,4,2,0,0,1,0,6,7.1,+12
+2025-03-21,202503210SAS,PHI,Q3,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503210SAS.html,12.0,4,8,.500,1,4,.250,1,2,.500,0,0,0,5,0,0,1,1,10,7.7,+16
+2025-03-21,202503210SAS,PHI,Q3,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.5,2,2,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,4,4.1,+5
+2025-03-21,202503210SAS,PHI,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202503210SAS.html,9.65,0,1,.000,0,0,,0,0,,0,2,2,2,1,0,2,0,0,0.3,+9
+2025-03-21,202503210SAS,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.5,2,2,1.000,2,2,1.000,2,2,1.000,0,3,3,0,0,0,0,0,8,8.3,+11
+2025-03-21,202503210SAS,PHI,Q3,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503210SAS.html,2.35,0,0,,0,0,,2,2,1.000,0,1,1,1,0,0,0,0,2,3.0,+7
+2025-03-21,202503210SAS,PHI,Q3,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.5,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,+11
+2025-03-21,202503210SAS,PHI,Q4,Justin Edwards,https://www.basketball-reference.com/boxscores/202503210SAS.html,12.0,2,5,.400,0,1,.000,1,2,.500,0,1,1,1,0,0,1,0,5,1.9,-12
+2025-03-21,202503210SAS,PHI,Q4,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503210SAS.html,12.0,3,3,1.000,0,0,,1,2,.500,3,1,4,1,0,0,0,2,7,8.0,-12
+2025-03-21,202503210SAS,PHI,Q4,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.72,1,4,.250,1,3,.333,0,0,,0,0,0,0,0,0,2,0,3,-1.4,-10
+2025-03-21,202503210SAS,PHI,Q4,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503210SAS.html,6.32,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,0,1,3,3.3,-6
+2025-03-21,202503210SAS,PHI,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202503210SAS.html,3.23,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,-6
+2025-03-21,202503210SAS,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503210SAS.html,10.22,2,4,.500,1,2,.500,0,0,,0,1,1,1,1,0,0,0,5,5.0,-10
+2025-03-21,202503210SAS,PHI,Q4,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.28,0,2,.000,0,2,.000,0,0,,0,0,0,2,0,1,0,1,0,0.3,-2
+2025-03-21,202503210SAS,PHI,Q4,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.23,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,-2
+2025-03-21,202503210SAS,SAS,Q1,Devin Vassell,https://www.basketball-reference.com/boxscores/202503210SAS.html,10.3,4,7,.571,3,3,1.000,0,0,,0,1,1,1,0,0,0,0,11,8.7,+1
+2025-03-21,202503210SAS,SAS,Q1,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.33,3,5,.600,0,0,,0,0,,2,2,4,0,0,0,1,0,6,4.7,-1
+2025-03-21,202503210SAS,SAS,Q1,Stephon Castle,https://www.basketball-reference.com/boxscores/202503210SAS.html,9.03,1,4,.250,0,2,.000,2,2,1.000,0,2,2,4,0,0,1,0,4,4.0,0
+2025-03-21,202503210SAS,SAS,Q1,Harrison Barnes,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.33,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-1
+2025-03-21,202503210SAS,SAS,Q1,Chris Paul,https://www.basketball-reference.com/boxscores/202503210SAS.html,8.25,0,0,,0,0,,0,0,,0,2,2,3,0,0,0,1,0,2.3,+3
+2025-03-21,202503210SAS,SAS,Q1,Keldon Johnson,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.67,1,2,.500,0,0,,1,1,1.000,0,1,1,0,0,2,0,0,3,3.7,+3
+2025-03-21,202503210SAS,SAS,Q1,Blake Wesley,https://www.basketball-reference.com/boxscores/202503210SAS.html,3.75,0,1,.000,0,0,,1,2,.500,0,0,0,0,1,0,0,0,1,0.9,-1
+2025-03-21,202503210SAS,SAS,Q1,Julian Champagnie,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.67,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,+3
+2025-03-21,202503210SAS,SAS,Q1,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.67,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,0,0,-1.1,+3
+2025-03-21,202503210SAS,SAS,Q2,Devin Vassell,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.63,1,3,.333,1,3,.333,0,0,,0,1,1,3,1,0,2,1,3,2.3,+4
+2025-03-21,202503210SAS,SAS,Q2,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202503210SAS.html,8.72,4,5,.800,0,0,,0,0,,1,1,2,1,0,0,0,1,8,7.4,+5
+2025-03-21,202503210SAS,SAS,Q2,Stephon Castle,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.83,1,2,.500,0,0,,2,2,1.000,0,1,1,2,1,1,2,0,4,4.4,+7
+2025-03-21,202503210SAS,SAS,Q2,Harrison Barnes,https://www.basketball-reference.com/boxscores/202503210SAS.html,6.02,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,1,1,0,0,-1.7,+5
+2025-03-21,202503210SAS,SAS,Q2,Chris Paul,https://www.basketball-reference.com/boxscores/202503210SAS.html,5.82,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,1,0,3,2.0,+3
+2025-03-21,202503210SAS,SAS,Q2,Keldon Johnson,https://www.basketball-reference.com/boxscores/202503210SAS.html,8.33,3,3,1.000,1,1,1.000,2,2,1.000,0,1,1,1,2,0,0,1,9,10.7,+7
+2025-03-21,202503210SAS,SAS,Q2,Blake Wesley,https://www.basketball-reference.com/boxscores/202503210SAS.html,6.18,2,2,1.000,2,2,1.000,0,0,,0,0,0,1,0,0,0,1,6,5.7,+7
+2025-03-21,202503210SAS,SAS,Q2,Julian Champagnie,https://www.basketball-reference.com/boxscores/202503210SAS.html,6.18,1,4,.250,1,3,.333,0,0,,1,1,2,0,1,0,0,0,3,2.6,+7
+2025-03-21,202503210SAS,SAS,Q2,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202503210SAS.html,3.28,0,0,,0,0,,0,0,,1,1,2,1,0,0,0,1,0,1.3,+5
+2025-03-21,202503210SAS,SAS,Q3,Devin Vassell,https://www.basketball-reference.com/boxscores/202503210SAS.html,12.0,1,5,.200,0,2,.000,0,0,,1,0,1,2,2,0,0,2,2,2.2,-16
+2025-03-21,202503210SAS,SAS,Q3,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.38,2,5,.400,0,0,,1,2,.500,1,0,1,1,0,0,0,0,5,3.3,-4
+2025-03-21,202503210SAS,SAS,Q3,Stephon Castle,https://www.basketball-reference.com/boxscores/202503210SAS.html,5.98,0,1,.000,0,0,,0,0,,1,0,1,4,1,0,0,0,0,3.8,+1
+2025-03-21,202503210SAS,SAS,Q3,Harrison Barnes,https://www.basketball-reference.com/boxscores/202503210SAS.html,5.98,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,+1
+2025-03-21,202503210SAS,SAS,Q3,Chris Paul,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.5,4,4,1.000,4,4,1.000,0,0,,0,1,1,0,0,1,0,0,12,11.8,-5
+2025-03-21,202503210SAS,SAS,Q3,Keldon Johnson,https://www.basketball-reference.com/boxscores/202503210SAS.html,6.02,0,2,.000,0,1,.000,1,2,.500,0,0,0,1,0,0,0,1,1,-0.5,-17
+2025-03-21,202503210SAS,SAS,Q3,Blake Wesley,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.5,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-11
+2025-03-21,202503210SAS,SAS,Q3,Julian Champagnie,https://www.basketball-reference.com/boxscores/202503210SAS.html,6.02,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,-17
+2025-03-21,202503210SAS,SAS,Q3,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.62,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,1,2,-0.1,-12
+2025-03-21,202503210SAS,SAS,Q4,Devin Vassell,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.38,1,1,1.000,0,0,,2,2,1.000,0,2,2,1,0,0,0,0,4,5.0,+16
+2025-03-21,202503210SAS,SAS,Q4,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202503210SAS.html,12.0,2,2,1.000,0,0,,0,0,,0,2,2,0,0,0,0,2,4,3.2,+12
+2025-03-21,202503210SAS,SAS,Q4,Stephon Castle,https://www.basketball-reference.com/boxscores/202503210SAS.html,12.0,4,7,.571,0,1,.000,1,1,1.000,0,1,1,4,1,0,0,0,9,9.8,+12
+2025-03-21,202503210SAS,SAS,Q4,Harrison Barnes,https://www.basketball-reference.com/boxscores/202503210SAS.html,12.0,3,4,.750,1,2,.500,2,2,1.000,0,0,0,3,0,0,1,0,9,8.5,+12
+2025-03-21,202503210SAS,SAS,Q4,Chris Paul,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.62,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,2,1,3,-0.4,-4
+2025-03-21,202503210SAS,SAS,Q4,Keldon Johnson,https://www.basketball-reference.com/boxscores/202503210SAS.html,7.38,2,3,.667,1,1,1.000,0,0,,1,2,3,1,1,0,0,0,5,6.7,+16
+2025-03-21,202503210SAS,SAS,Q4,Blake Wesley,https://www.basketball-reference.com/boxscores/202503210SAS.html,4.62,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,2.7,-4

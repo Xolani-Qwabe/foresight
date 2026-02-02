@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202203060DEN.html
+Scraped: 2025-12-15 01:18:13
+
+line_scores: 2 rows (nba_boxscores/line_scores_202203060DEN.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202203060DEN.csv)
+team_basic: 20 rows (nba_boxscores/team_basic_202203060DEN.csv)
+team_advanced: 20 rows (nba_boxscores/team_advanced_202203060DEN.csv)
+quarters: 86 rows (nba_boxscores/quarters_202203060DEN.csv)

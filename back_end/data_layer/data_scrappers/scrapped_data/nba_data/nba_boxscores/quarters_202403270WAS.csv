@@ -1,0 +1,83 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-03-27,202403270WAS,BRK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403270WAS.html,10.98,1,2,.500,1,2,.500,0,0,0,0,0,0,0,1,0,0,3,2.7,-5,
+2024-03-27,202403270WAS,BRK,Q1,Cam Thomas,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.78,6,9,.667,2,3,.667,3,3,0,0,0,1,1,0,0,0,17,14.8,0,1.000
+2024-03-27,202403270WAS,BRK,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.68,2,5,.400,0,1,.000,0,0,0,1,1,3,0,0,1,0,4,2.7,-2,
+2024-03-27,202403270WAS,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/202403270WAS.html,7.15,0,1,.000,0,0,,0,0,0,1,1,0,1,0,0,0,0,0.6,-3,
+2024-03-27,202403270WAS,BRK,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403270WAS.html,7.75,1,3,.333,0,1,.000,0,0,0,2,2,1,0,0,0,0,2,1.6,-6,
+2024-03-27,202403270WAS,BRK,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.85,1,2,.500,0,0,,0,0,0,0,0,1,1,0,0,0,2,2.7,+1,
+2024-03-27,202403270WAS,BRK,Q1,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.52,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-2,
+2024-03-27,202403270WAS,BRK,Q1,Noah Clowney,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.25,0,1,.000,0,0,,1,2,2,0,2,0,0,0,0,1,1,0.9,+4,.500
+2024-03-27,202403270WAS,BRK,Q1,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403270WAS.html,1.02,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2024-03-27,202403270WAS,BRK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.97,2,4,.500,1,3,.333,1,1,0,3,3,2,0,1,0,1,6,6.6,+10,1.000
+2024-03-27,202403270WAS,BRK,Q2,Cam Thomas,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.8,2,5,.400,0,2,.000,3,3,0,0,0,4,0,0,1,1,7,5.7,+11,1.000
+2024-03-27,202403270WAS,BRK,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.97,2,2,1.000,1,1,1.000,0,0,0,0,0,2,0,0,0,0,5,5.8,+10,
+2024-03-27,202403270WAS,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.9,4,5,.800,0,0,,1,1,3,2,5,1,1,0,0,2,9,10.7,+2,1.000
+2024-03-27,202403270WAS,BRK,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.1,1,3,.333,0,1,.000,0,0,0,3,3,0,0,0,0,0,2,1.2,+9,
+2024-03-27,202403270WAS,BRK,Q2,Trendon Watford,https://www.basketball-reference.com/boxscores/202403270WAS.html,2.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,
+2024-03-27,202403270WAS,BRK,Q2,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403270WAS.html,2.1,0,1,.000,0,1,.000,1,2,0,0,0,0,0,0,1,0,1,-1.1,+7,.500
+2024-03-27,202403270WAS,BRK,Q2,Noah Clowney,https://www.basketball-reference.com/boxscores/202403270WAS.html,2.9,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-1.5,0,
+2024-03-27,202403270WAS,BRK,Q2,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.23,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,-3,
+2024-03-27,202403270WAS,BRK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.43,1,2,.500,0,0,,1,1,1,0,1,1,0,0,0,0,3,3.4,-4,1.000
+2024-03-27,202403270WAS,BRK,Q3,Cam Thomas,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.55,3,5,.600,0,0,,0,0,0,1,1,0,0,0,1,0,6,3.0,-8,
+2024-03-27,202403270WAS,BRK,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.28,2,7,.286,2,3,.667,0,0,0,1,1,2,0,1,0,0,6,4.3,-7,
+2024-03-27,202403270WAS,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.75,2,2,1.000,0,0,,0,0,0,2,2,0,0,0,1,1,4,2.6,-6,
+2024-03-27,202403270WAS,BRK,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.55,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-8,
+2024-03-27,202403270WAS,BRK,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.25,3,3,1.000,1,1,1.000,0,0,0,0,0,0,0,1,0,1,7,6.4,0,
+2024-03-27,202403270WAS,BRK,Q3,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.0,1,1,1.000,0,0,,3,4,1,4,5,0,0,0,2,3,5,3.0,0,.750
+2024-03-27,202403270WAS,BRK,Q3,Noah Clowney,https://www.basketball-reference.com/boxscores/202403270WAS.html,3.43,0,1,.000,0,1,.000,0,0,0,1,1,0,0,1,0,0,0,0.3,+2,
+2024-03-27,202403270WAS,BRK,Q3,Jacob Gilyard,https://www.basketball-reference.com/boxscores/202403270WAS.html,2.7,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+1,
+2024-03-27,202403270WAS,BRK,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403270WAS.html,12.0,3,6,.500,1,2,.500,0,0,0,2,2,0,2,0,0,0,7,6.6,-1,
+2024-03-27,202403270WAS,BRK,Q4,Cam Thomas,https://www.basketball-reference.com/boxscores/202403270WAS.html,12.0,1,5,.200,0,1,.000,2,2,0,0,0,2,0,1,0,1,4,2.6,-1,1.000
+2024-03-27,202403270WAS,BRK,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.78,2,4,.500,0,1,.000,0,0,1,1,2,1,1,0,0,0,4,4.7,-3,
+2024-03-27,202403270WAS,BRK,Q4,Nic Claxton,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.68,0,1,.000,0,0,,0,0,0,2,2,0,0,1,0,0,0,0.6,-4,
+2024-03-27,202403270WAS,BRK,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.73,0,1,.000,0,1,.000,0,0,1,0,1,0,0,0,1,0,0,-1.0,-5,
+2024-03-27,202403270WAS,BRK,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.25,1,2,.500,1,2,.500,0,0,0,3,3,1,0,0,0,1,3,3.2,+4,
+2024-03-27,202403270WAS,BRK,Q4,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403270WAS.html,1.52,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2024-03-27,202403270WAS,BRK,Q4,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403270WAS.html,3.22,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+2,
+2024-03-27,202403270WAS,BRK,Q4,Jacob Gilyard,https://www.basketball-reference.com/boxscores/202403270WAS.html,0.8,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-03-27,202403270WAS,BRK,OT1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.0,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,+3,
+2024-03-27,202403270WAS,BRK,OT1,Cam Thomas,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.0,2,3,.667,0,0,,0,0,0,1,1,0,0,0,0,1,4,2.6,+3,
+2024-03-27,202403270WAS,BRK,OT1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.0,0,1,.000,0,0,,2,2,0,0,0,0,0,0,0,1,2,0.9,+3,1.000
+2024-03-27,202403270WAS,BRK,OT1,Nic Claxton,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.0,2,2,1.000,0,0,,0,0,1,2,3,0,0,2,0,0,4,6.1,+3,
+2024-03-27,202403270WAS,BRK,OT1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.0,0,1,.000,0,1,.000,0,2,0,2,2,0,1,0,0,0,0,0.1,+3,.000
+2024-03-27,202403270WAS,WAS,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202403270WAS.html,11.9,4,6,.667,0,1,.000,0,0,0,1,1,3,0,0,1,1,8,6.4,+5,
+2024-03-27,202403270WAS,WAS,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.37,4,5,.800,1,1,1.000,0,0,0,2,2,3,0,0,0,1,9,9.4,+5,
+2024-03-27,202403270WAS,WAS,Q1,Corey Kispert,https://www.basketball-reference.com/boxscores/202403270WAS.html,7.75,2,3,.667,1,1,1.000,0,0,0,0,0,0,0,0,1,0,5,2.7,+6,
+2024-03-27,202403270WAS,WAS,Q1,Deni Avdija,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.78,2,4,.500,1,1,1.000,2,2,0,4,4,1,1,0,1,0,7,6.9,0,1.000
+2024-03-27,202403270WAS,WAS,Q1,Richaun Holmes,https://www.basketball-reference.com/boxscores/202403270WAS.html,7.15,0,0,,0,0,,0,0,0,2,2,0,0,0,0,0,0,0.6,+3,
+2024-03-27,202403270WAS,WAS,Q1,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.85,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-1,
+2024-03-27,202403270WAS,WAS,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.25,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,-4,
+2024-03-27,202403270WAS,WAS,Q1,Johnny Davis,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.85,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,0,1,2,2.0,-1,
+2024-03-27,202403270WAS,WAS,Q1,Anthony Gill,https://www.basketball-reference.com/boxscores/202403270WAS.html,0.08,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2024-03-27,202403270WAS,WAS,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202403270WAS.html,7.28,0,2,.000,0,2,.000,2,2,0,0,0,1,0,0,1,0,2,0.3,-9,1.000
+2024-03-27,202403270WAS,WAS,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.95,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,-2,
+2024-03-27,202403270WAS,WAS,Q2,Corey Kispert,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.95,2,4,.500,0,2,.000,0,0,0,2,2,0,0,0,0,1,4,2.2,-2,
+2024-03-27,202403270WAS,WAS,Q2,Deni Avdija,https://www.basketball-reference.com/boxscores/202403270WAS.html,7.28,1,1,1.000,0,0,,3,4,0,2,2,2,0,0,0,2,5,5.5,-9,.750
+2024-03-27,202403270WAS,WAS,Q2,Richaun Holmes,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.13,0,1,.000,0,0,,0,0,0,1,1,0,0,0,1,0,0,-1.4,-13,
+2024-03-27,202403270WAS,WAS,Q2,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.87,3,4,.750,2,2,1.000,2,2,0,2,2,0,0,0,0,0,10,9.0,+4,1.000
+2024-03-27,202403270WAS,WAS,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202403270WAS.html,7.77,0,1,.000,0,1,.000,0,0,0,0,0,1,1,0,2,1,0,-1.4,-7,
+2024-03-27,202403270WAS,WAS,Q2,Tristan Vukcevic,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.23,0,2,.000,0,1,.000,0,0,0,1,1,0,1,1,1,1,0,-0.8,+3,
+2024-03-27,202403270WAS,WAS,Q2,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202403270WAS.html,3.53,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-10,
+2024-03-27,202403270WAS,WAS,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.32,4,6,.667,3,4,.750,1,1,0,3,3,4,0,0,0,0,12,13.1,+8,1.000
+2024-03-27,202403270WAS,WAS,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.32,3,5,.600,0,0,,0,0,0,2,2,4,0,0,0,1,6,6.7,+8,
+2024-03-27,202403270WAS,WAS,Q3,Corey Kispert,https://www.basketball-reference.com/boxscores/202403270WAS.html,12.0,2,6,.333,1,4,.250,0,0,0,0,0,0,0,0,1,1,5,0.2,+6,
+2024-03-27,202403270WAS,WAS,Q3,Deni Avdija,https://www.basketball-reference.com/boxscores/202403270WAS.html,9.43,2,3,.667,0,1,.000,1,2,1,1,2,0,0,0,0,0,5,4.3,+4,.500
+2024-03-27,202403270WAS,WAS,Q3,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202403270WAS.html,3.82,2,3,.667,0,0,,0,0,0,0,0,0,0,0,0,0,4,2.7,+5,
+2024-03-27,202403270WAS,WAS,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202403270WAS.html,3.68,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,0.3,-2,
+2024-03-27,202403270WAS,WAS,Q3,Johnny Davis,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.25,0,1,.000,0,0,,0,0,0,1,1,1,0,1,0,0,0,1.0,0,
+2024-03-27,202403270WAS,WAS,Q3,Anthony Gill,https://www.basketball-reference.com/boxscores/202403270WAS.html,8.18,2,3,.667,1,2,.500,0,0,1,1,2,1,1,0,0,1,5,6.0,+1,
+2024-03-27,202403270WAS,WAS,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202403270WAS.html,12.0,6,7,.857,2,3,.667,0,0,0,3,3,0,0,0,2,2,14,9.6,+1,
+2024-03-27,202403270WAS,WAS,Q4,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202403270WAS.html,12.0,2,4,.500,2,3,.667,1,2,0,2,2,1,0,0,0,1,7,5.5,+1,.500
+2024-03-27,202403270WAS,WAS,Q4,Corey Kispert,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.4,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+5,
+2024-03-27,202403270WAS,WAS,Q4,Deni Avdija,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.4,0,2,.000,0,1,.000,0,0,1,1,2,0,0,0,0,0,0,-0.4,+5,
+2024-03-27,202403270WAS,WAS,Q4,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.6,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-4,
+2024-03-27,202403270WAS,WAS,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.6,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-4,
+2024-03-27,202403270WAS,WAS,Q4,Johnny Davis,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.6,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,
+2024-03-27,202403270WAS,WAS,Q4,Anthony Gill,https://www.basketball-reference.com/boxscores/202403270WAS.html,6.4,0,1,.000,0,1,.000,0,0,1,0,1,1,0,0,1,1,0,-0.7,+5,
+2024-03-27,202403270WAS,WAS,OT1,Jordan Poole,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.0,1,3,.333,0,2,.000,0,0,0,0,0,0,0,0,0,1,2,-0.1,-3,
+2024-03-27,202403270WAS,WAS,OT1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.92,1,4,.250,0,0,,0,0,0,0,0,1,0,0,0,2,2,-0.5,-3,
+2024-03-27,202403270WAS,WAS,OT1,Corey Kispert,https://www.basketball-reference.com/boxscores/202403270WAS.html,5.0,0,1,.000,0,0,,1,2,0,0,0,0,0,0,0,0,1,-0.1,-3,.500
+2024-03-27,202403270WAS,WAS,OT1,Deni Avdija,https://www.basketball-reference.com/boxscores/202403270WAS.html,4.92,0,0,,0,0,,0,0,0,2,2,0,0,0,1,0,0,-0.4,-3,
+2024-03-27,202403270WAS,WAS,OT1,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202403270WAS.html,3.7,1,1,1.000,0,0,,0,0,1,2,3,0,0,1,0,0,2,3.7,-1,
+2024-03-27,202403270WAS,WAS,OT1,Jared Butler,https://www.basketball-reference.com/boxscores/202403270WAS.html,0.15,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-03-27,202403270WAS,WAS,OT1,Anthony Gill,https://www.basketball-reference.com/boxscores/202403270WAS.html,1.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-15,201911150CHO,DET,Andre Drummond,https://www.basketball-reference.com/boxscores/201911150CHO.html,38:09,.500,.500,.000,.000,11.1,43.7,30.3,8.4,0.0,0.0,20.0,24.0,90,105,-6.6
+2019-11-15,201911150CHO,DET,Luke Kennard,https://www.basketball-reference.com/boxscores/201911150CHO.html,37:29,.500,.500,.800,.000,0.0,13.1,7.7,17.1,0.0,2.1,0.0,6.1,138,115,-2.0
+2019-11-15,201911150CHO,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/201911150CHO.html,29:38,.439,.342,.421,.316,4.8,6.6,5.9,32.1,1.7,2.7,15.6,39.6,93,114,-5.1
+2019-11-15,201911150CHO,DET,Bruce Brown,https://www.basketball-reference.com/boxscores/201911150CHO.html,22:29,.625,.625,.500,.000,0.0,4.4,2.6,41.8,2.2,3.5,20.0,10.2,142,112,8.1
+2019-11-15,201911150CHO,DET,Tony Snell,https://www.basketball-reference.com/boxscores/201911150CHO.html,8:36,,,,,0.0,11.4,6.7,0.0,0.0,0.0,,0.0,0,117,-8.1
+2019-11-15,201911150CHO,DET,Langston Galloway,https://www.basketball-reference.com/boxscores/201911150CHO.html,37:34,.924,.906,.688,.188,3.8,2.6,3.1,4.9,0.0,0.0,0.0,21.1,179,121,13.9
+2019-11-15,201911150CHO,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/201911150CHO.html,26:02,1.015,1.000,.286,.286,0.0,7.5,4.4,19.1,0.0,0.0,43.2,24.4,105,119,-2.9
+2019-11-15,201911150CHO,DET,Markieff Morris,https://www.basketball-reference.com/boxscores/201911150CHO.html,18:22,.444,.444,.556,.000,15.4,26.7,22.0,8.1,2.7,0.0,25.0,29.9,78,105,-8.2
+2019-11-15,201911150CHO,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/201911150CHO.html,11:50,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.7,0,121,-16.5
+2019-11-15,201911150CHO,DET,Christian Wood,https://www.basketball-reference.com/boxscores/201911150CHO.html,6:23,.833,.833,.333,.000,0.0,15.3,9.1,0.0,0.0,0.0,25.0,28.7,98,115,-0.2
+2019-11-15,201911150CHO,DET,Thon Maker,https://www.basketball-reference.com/boxscores/201911150CHO.html,3:28,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-11.7
+2019-11-15,201911150CHO,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/201911150CHO.html,38:27,.391,.391,.522,.000,7.6,7.3,7.5,37.8,0.0,0.0,4.2,26.5,107,119,-3.1
+2019-11-15,201911150CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/201911150CHO.html,32:40,.515,.500,.333,.056,3.0,17.3,8.9,9.4,4.6,0.0,5.1,25.3,110,106,2.5
+2019-11-15,201911150CHO,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/201911150CHO.html,28:00,.530,.500,.111,.111,14.0,15.1,14.5,4.7,1.8,0.0,9.6,15.8,119,113,-4.9
+2019-11-15,201911150CHO,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/201911150CHO.html,24:39,.583,.583,.333,.000,0.0,11.5,4.7,5.2,0.0,4.2,33.3,15.5,78,115,-9.0
+2019-11-15,201911150CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/201911150CHO.html,18:51,.786,.786,.429,.000,0.0,37.4,15.3,7.8,2.7,5.5,12.5,18.0,135,103,10.7
+2019-11-15,201911150CHO,CHO,Marvin Williams,https://www.basketball-reference.com/boxscores/201911150CHO.html,29:08,.500,.500,.625,.000,3.4,14.5,7.9,0.0,3.4,0.0,11.1,13.1,97,109,-3.8
+2019-11-15,201911150CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/201911150CHO.html,26:18,.405,.333,.333,1.000,11.2,16.1,13.2,23.2,5.7,0.0,0.0,13.9,124,103,6.0
+2019-11-15,201911150CHO,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/201911150CHO.html,21:57,.738,.750,.333,.167,0.0,25.7,10.5,8.6,0.0,0.0,13.4,28.8,123,115,4.1
+2019-11-15,201911150CHO,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/201911150CHO.html,20:00,.519,.429,.000,.857,9.8,7.1,8.7,6.7,0.0,5.2,0.0,20.5,126,115,-3.5

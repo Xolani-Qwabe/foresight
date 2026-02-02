@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-12,202203120DEN,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202203120DEN.html,39:06,.586,.600,.200,.150,6.9,17.1,11.0,35.6,2.6,2.4,4.5,22.8,143,119,10.5
+2022-03-12,202203120DEN,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202203120DEN.html,35:45,.647,.591,.182,.364,2.5,14.9,7.5,29.5,2.8,0.0,3.8,29.7,150,121,12.1
+2022-03-12,202203120DEN,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202203120DEN.html,31:01,.263,.192,.462,.385,0.0,12.9,5.2,3.4,3.2,0.0,6.2,20.9,70,120,-16.9
+2022-03-12,202203120DEN,TOR,Armoni Brooks,https://www.basketball-reference.com/boxscores/202203120DEN.html,21:31,.375,.375,1.000,.000,8.4,12.4,10.0,9.7,4.7,4.4,0.0,7.4,136,114,2.8
+2022-03-12,202203120DEN,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202203120DEN.html,20:30,.718,.700,.600,.100,4.4,19.5,10.5,0.0,0.0,0.0,16.1,24.3,125,126,-1.7
+2022-03-12,202203120DEN,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202203120DEN.html,29:38,.610,.567,.333,.333,27.5,18.0,23.7,0.0,1.7,12.7,0.0,23.2,154,114,5.6
+2022-03-12,202203120DEN,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202203120DEN.html,22:44,.699,.667,.167,.167,4.0,11.7,7.1,16.0,6.6,0.0,13.4,13.1,141,113,5.7
+2022-03-12,202203120DEN,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202203120DEN.html,20:54,.581,.500,.000,.333,26.0,12.8,20.6,0.0,0.0,0.0,12.7,15.1,137,127,-6.6
+2022-03-12,202203120DEN,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202203120DEN.html,16:47,.250,.250,.000,.000,0.0,15.9,6.4,31.7,0.0,0.0,0.0,9.5,121,126,-7.3
+2022-03-12,202203120DEN,TOR,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202203120DEN.html,1:02,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.7,0,130,-50.8
+2022-03-12,202203120DEN,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202203120DEN.html,1:02,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.7,300,130,93.6
+2022-03-12,202203120DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202203120DEN.html,32:06,.615,.615,.308,.000,4.2,11.3,8.4,18.4,0.0,0.0,23.5,23.6,100,136,-7.0
+2022-03-12,202203120DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202203120DEN.html,30:31,.767,.692,.000,.692,17.5,17.8,17.7,38.2,0.0,4.4,15.0,29.2,147,130,13.5
+2022-03-12,202203120DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202203120DEN.html,27:37,.654,.667,.167,.333,0.0,6.6,3.9,28.9,0.0,0.0,12.7,12.7,136,139,-1.1
+2022-03-12,202203120DEN,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202203120DEN.html,27:27,.460,.400,.600,.200,0.0,16.5,9.8,8.9,1.8,0.0,26.9,12.1,81,129,-8.8
+2022-03-12,202203120DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202203120DEN.html,24:10,.742,.857,.143,.571,0.0,7.5,4.5,6.4,0.0,2.8,18.6,19.9,106,136,-4.2
+2022-03-12,202203120DEN,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202203120DEN.html,24:23,.820,.750,.750,.500,5.5,3.7,4.4,20.2,2.1,0.0,17.0,10.8,154,136,5.3
+2022-03-12,202203120DEN,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202203120DEN.html,20:23,.500,.500,.167,.000,6.5,8.9,7.9,0.0,0.0,3.3,25.0,17.5,77,135,-14.3
+2022-03-12,202203120DEN,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202203120DEN.html,19:29,.683,.708,.583,.083,13.7,4.6,8.3,61.1,2.6,0.0,7.4,30.8,143,133,17.3
+2022-03-12,202203120DEN,DEN,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202203120DEN.html,16:16,.427,.167,.333,.833,0.0,27.8,16.6,7.4,3.1,4.2,26.8,30.7,73,117,-12.5
+2022-03-12,202203120DEN,DEN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202203120DEN.html,15:12,.667,.667,.833,.000,0.0,11.9,7.1,0.0,0.0,0.0,0.0,17.6,125,135,-2.4
+2022-03-12,202203120DEN,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202203120DEN.html,1:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,142,-9.3
+2022-03-12,202203120DEN,DEN,Markus Howard,https://www.basketball-reference.com/boxscores/202203120DEN.html,1:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,142,-9.1

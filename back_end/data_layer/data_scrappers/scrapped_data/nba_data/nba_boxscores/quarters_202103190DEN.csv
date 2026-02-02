@@ -1,0 +1,85 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-03-19,202103190DEN,CHI,Q1,Zach LaVine,https://www.basketball-reference.com/boxscores/202103190DEN.html,10.35,2,4,.500,0,2,.000,0,0,0,0,0,1,0,0,0,0,4,2.7,+10,
+2021-03-19,202103190DEN,CHI,Q1,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.1,1,1,1.000,1,1,1.000,0,0,0,0,0,2,0,0,1,0,3,3.1,+6,
+2021-03-19,202103190DEN,CHI,Q1,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.47,2,2,1.000,2,2,1.000,0,0,0,1,1,0,0,0,0,0,6,5.7,+3,
+2021-03-19,202103190DEN,CHI,Q1,Thaddeus Young,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.12,1,2,.500,1,1,1.000,0,0,0,3,3,2,0,0,0,1,3,3.9,+3,
+2021-03-19,202103190DEN,CHI,Q1,Patrick Williams,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.1,0,2,.000,0,1,.000,0,0,0,2,2,0,1,1,0,0,0,0.9,+6,
+2021-03-19,202103190DEN,CHI,Q1,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.88,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,0,1,3,1.9,+7,
+2021-03-19,202103190DEN,CHI,Q1,Coby White,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.9,2,3,.667,0,0,,0,0,0,0,0,1,0,0,1,0,4,2.4,+4,
+2021-03-19,202103190DEN,CHI,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.53,2,2,1.000,1,1,1.000,0,0,0,3,3,1,0,0,0,0,5,6.0,+7,
+2021-03-19,202103190DEN,CHI,Q1,Denzel Valentine,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.9,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,1,0,2,1.4,+4,
+2021-03-19,202103190DEN,CHI,Q1,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202103190DEN.html,1.65,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,0,
+2021-03-19,202103190DEN,CHI,Q2,Zach LaVine,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.57,1,4,.250,0,1,.000,2,2,0,1,1,0,0,0,2,0,4,-0.1,0,1.000
+2021-03-19,202103190DEN,CHI,Q2,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.57,1,1,1.000,0,0,,2,2,0,1,1,1,0,0,0,0,4,4.7,0,1.000
+2021-03-19,202103190DEN,CHI,Q2,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202103190DEN.html,8.92,1,4,.250,0,2,.000,0,1,0,0,0,0,0,0,1,0,2,-1.8,0,.000
+2021-03-19,202103190DEN,CHI,Q2,Thaddeus Young,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.43,1,2,.500,0,0,,0,0,0,0,0,2,0,0,0,0,2,2.4,-2,
+2021-03-19,202103190DEN,CHI,Q2,Patrick Williams,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.33,0,2,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,-0.4,-10,
+2021-03-19,202103190DEN,CHI,Q2,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.23,2,2,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,1,5,3.3,+1,
+2021-03-19,202103190DEN,CHI,Q2,Coby White,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.43,0,1,.000,0,0,,0,0,0,2,2,0,0,0,1,0,0,-1.1,-2,
+2021-03-19,202103190DEN,CHI,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.57,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,0,
+2021-03-19,202103190DEN,CHI,Q2,Denzel Valentine,https://www.basketball-reference.com/boxscores/202103190DEN.html,2.52,1,3,.333,1,2,.500,0,0,0,2,2,0,0,0,0,0,3,1.9,+5,
+2021-03-19,202103190DEN,CHI,Q2,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.43,2,2,1.000,0,0,,1,1,0,0,0,0,2,0,0,1,5,6.0,-2,1.000
+2021-03-19,202103190DEN,CHI,Q3,Zach LaVine,https://www.basketball-reference.com/boxscores/202103190DEN.html,8.85,4,5,.800,3,4,.750,0,0,0,1,1,3,0,0,0,0,11,11.5,+3,
+2021-03-19,202103190DEN,CHI,Q3,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.85,0,1,.000,0,1,.000,1,2,1,0,1,2,0,0,1,1,1,0.6,+2,.500
+2021-03-19,202103190DEN,CHI,Q3,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.75,0,2,.000,0,1,.000,0,0,1,0,1,1,0,0,0,1,0,-0.4,+4,
+2021-03-19,202103190DEN,CHI,Q3,Thaddeus Young,https://www.basketball-reference.com/boxscores/202103190DEN.html,3.82,1,1,1.000,0,0,,0,1,0,2,2,1,0,0,0,3,2,1.4,+3,.000
+2021-03-19,202103190DEN,CHI,Q3,Patrick Williams,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.05,2,3,.667,1,1,1.000,1,2,1,2,3,0,0,0,0,0,6,5.6,0,.500
+2021-03-19,202103190DEN,CHI,Q3,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.25,3,4,.750,1,1,1.000,0,0,0,1,1,1,0,0,1,0,7,5.4,-4,
+2021-03-19,202103190DEN,CHI,Q3,Coby White,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.15,1,3,.333,1,1,1.000,0,0,0,0,0,1,0,0,0,1,3,1.6,-2,
+2021-03-19,202103190DEN,CHI,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,8.18,0,1,.000,0,0,,1,4,1,0,1,2,0,0,0,2,1,0.4,-3,.250
+2021-03-19,202103190DEN,CHI,Q3,Denzel Valentine,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.95,1,1,1.000,0,0,,1,1,0,1,1,0,0,0,0,0,3,3.0,0,1.000
+2021-03-19,202103190DEN,CHI,Q3,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202103190DEN.html,3.15,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2021-03-19,202103190DEN,CHI,Q4,Zach LaVine,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.88,1,3,.333,0,0,,2,2,0,0,0,0,0,0,1,1,4,0.9,-10,1.000
+2021-03-19,202103190DEN,CHI,Q4,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.88,0,0,,0,0,,0,0,0,1,1,0,0,0,1,1,0,-1.1,-10,
+2021-03-19,202103190DEN,CHI,Q4,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.93,1,3,.333,0,1,.000,0,0,0,0,0,1,1,0,0,0,2,2.0,-5,
+2021-03-19,202103190DEN,CHI,Q4,Thaddeus Young,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.82,1,1,1.000,0,0,,0,0,3,1,4,1,0,0,1,0,2,3.8,-5,
+2021-03-19,202103190DEN,CHI,Q4,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.48,3,4,.750,1,2,.500,0,0,0,1,1,1,0,1,0,0,7,7.1,-8,
+2021-03-19,202103190DEN,CHI,Q4,Coby White,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.8,4,6,.667,2,2,1.000,0,0,1,1,2,0,0,0,1,1,10,7.0,+3,
+2021-03-19,202103190DEN,CHI,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.15,0,2,.000,0,0,,0,0,1,0,1,2,0,0,0,1,0,0.3,-5,
+2021-03-19,202103190DEN,CHI,Q4,Denzel Valentine,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.93,0,1,.000,0,1,.000,0,0,0,1,1,2,1,0,0,0,0,2.0,-2,
+2021-03-19,202103190DEN,CHI,Q4,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.12,1,3,.333,0,1,.000,0,0,0,0,0,1,0,0,0,1,2,0.6,+2,
+2021-03-19,202103190DEN,CHI,OT1,Zach LaVine,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,2,4,.500,0,2,.000,5,5,0,0,0,0,0,0,0,1,9,6.6,-4,1.000
+2021-03-19,202103190DEN,CHI,OT1,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202103190DEN.html,3.42,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,-5,
+2021-03-19,202103190DEN,CHI,OT1,Thaddeus Young,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,1,1,1.000,0,0,,0,0,0,1,1,0,1,0,1,0,2,2.0,-4,
+2021-03-19,202103190DEN,CHI,OT1,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,-4,
+2021-03-19,202103190DEN,CHI,OT1,Coby White,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2021-03-19,202103190DEN,CHI,OT1,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202103190DEN.html,1.58,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2021-03-19,202103190DEN,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.47,1,4,.250,1,1,1.000,0,0,0,0,0,1,1,0,1,1,3,0.9,-3,
+2021-03-19,202103190DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103190DEN.html,10.35,0,2,.000,0,0,,0,0,1,3,4,1,0,0,1,1,0,-0.5,-10,
+2021-03-19,202103190DEN,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,8.1,2,5,.400,0,2,.000,0,0,1,1,2,1,1,0,1,0,4,3.0,-11,
+2021-03-19,202103190DEN,DEN,Q1,Will Barton,https://www.basketball-reference.com/boxscores/202103190DEN.html,10.35,2,5,.400,0,3,.000,0,2,1,1,2,0,0,0,0,0,4,1.5,-10,.000
+2021-03-19,202103190DEN,DEN,Q1,Paul Millsap,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.1,1,2,.500,0,0,,0,0,1,1,2,0,0,1,0,0,2,2.7,-6,
+2021-03-19,202103190DEN,DEN,Q1,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.18,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-7,
+2021-03-19,202103190DEN,DEN,Q1,PJ Dozier,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.9,1,3,.333,0,0,,0,0,0,0,0,0,0,0,0,0,2,0.3,-4,
+2021-03-19,202103190DEN,DEN,Q1,JaMychal Green,https://www.basketball-reference.com/boxscores/202103190DEN.html,3.9,1,1,1.000,1,1,1.000,2,2,0,0,0,0,0,0,0,0,5,4.7,+1,1.000
+2021-03-19,202103190DEN,DEN,Q1,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202103190DEN.html,1.65,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,0,
+2021-03-19,202103190DEN,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.75,0,0,,0,0,,0,0,0,1,1,1,2,0,4,0,0,-1.0,-6,
+2021-03-19,202103190DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.57,4,4,1.000,1,1,1.000,0,0,0,3,3,0,1,0,0,0,9,9.7,0,
+2021-03-19,202103190DEN,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,9.48,1,4,.250,0,1,.000,2,2,0,3,3,0,0,0,0,0,4,2.5,+7,1.000
+2021-03-19,202103190DEN,DEN,Q2,Will Barton,https://www.basketball-reference.com/boxscores/202103190DEN.html,8.02,1,3,.333,0,2,.000,2,2,0,2,2,3,0,0,0,1,4,4.6,+4,1.000
+2021-03-19,202103190DEN,DEN,Q2,Paul Millsap,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.98,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-3,
+2021-03-19,202103190DEN,DEN,Q2,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.77,0,1,.000,0,1,.000,0,0,0,1,1,3,0,0,0,1,0,1.3,+3,
+2021-03-19,202103190DEN,DEN,Q2,PJ Dozier,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.23,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,1,1,2,-0.1,0,
+2021-03-19,202103190DEN,DEN,Q2,JaMychal Green,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.43,0,1,.000,0,0,,0,0,0,2,2,0,0,0,1,0,0,-1.1,+2,
+2021-03-19,202103190DEN,DEN,Q2,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.77,3,3,1.000,2,2,1.000,0,0,0,0,0,0,1,0,0,2,8,7.3,+3,
+2021-03-19,202103190DEN,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202103190DEN.html,10.27,2,3,.667,1,1,1.000,4,4,0,0,0,1,1,0,0,2,9,8.6,-1,1.000
+2021-03-19,202103190DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103190DEN.html,12.0,4,8,.500,0,1,.000,2,4,2,2,4,3,0,1,0,0,10,10.0,0,.500
+2021-03-19,202103190DEN,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,9.85,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,5,4.4,-1,
+2021-03-19,202103190DEN,DEN,Q3,Will Barton,https://www.basketball-reference.com/boxscores/202103190DEN.html,7.98,2,2,1.000,1,1,1.000,1,2,0,0,0,0,0,0,0,3,6,3.8,-1,.500
+2021-03-19,202103190DEN,DEN,Q3,Paul Millsap,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.75,0,1,.000,0,1,.000,2,2,0,2,2,0,0,0,0,0,2,1.9,-4,1.000
+2021-03-19,202103190DEN,DEN,Q3,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103190DEN.html,3.88,0,0,,0,0,,2,2,0,1,1,0,0,1,0,0,2,3.0,+2,1.000
+2021-03-19,202103190DEN,DEN,Q3,PJ Dozier,https://www.basketball-reference.com/boxscores/202103190DEN.html,6.25,0,1,.000,0,1,.000,0,0,0,1,1,0,1,0,0,2,0,-0.2,+4,
+2021-03-19,202103190DEN,DEN,Q3,JaMychal Green,https://www.basketball-reference.com/boxscores/202103190DEN.html,4.02,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+1,
+2021-03-19,202103190DEN,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202103190DEN.html,12.0,6,9,.667,3,4,.750,0,0,0,0,0,2,0,0,2,1,15,10.1,+8,
+2021-03-19,202103190DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103190DEN.html,8.22,4,6,.667,1,2,.500,0,0,1,2,3,3,0,0,0,0,9,9.8,+11,
+2021-03-19,202103190DEN,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,9.4,2,3,.667,0,1,.000,2,3,0,0,0,1,0,0,0,0,6,5.0,+13,.667
+2021-03-19,202103190DEN,DEN,Q4,Will Barton,https://www.basketball-reference.com/boxscores/202103190DEN.html,9.43,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,+11,
+2021-03-19,202103190DEN,DEN,Q4,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103190DEN.html,12.0,0,0,,0,0,,0,0,0,2,2,4,1,0,0,2,0,3.6,+8,
+2021-03-19,202103190DEN,DEN,Q4,PJ Dozier,https://www.basketball-reference.com/boxscores/202103190DEN.html,2.6,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2021-03-19,202103190DEN,DEN,Q4,JaMychal Green,https://www.basketball-reference.com/boxscores/202103190DEN.html,3.78,2,3,.667,1,2,.500,0,0,0,1,1,0,0,0,1,1,5,2.6,-3,
+2021-03-19,202103190DEN,DEN,Q4,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202103190DEN.html,2.57,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2021-03-19,202103190DEN,DEN,OT1,Jamal Murray,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,3,4,.750,1,1,1.000,0,0,0,1,1,0,0,0,0,0,7,5.7,+4,
+2021-03-19,202103190DEN,DEN,OT1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,2,3,.667,0,0,,2,2,1,0,1,2,1,0,0,3,6,6.6,+4,1.000
+2021-03-19,202103190DEN,DEN,OT1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+4,
+2021-03-19,202103190DEN,DEN,OT1,Will Barton,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,1,3,.333,0,1,.000,0,0,1,1,2,0,0,0,0,0,2,1.3,+4,
+2021-03-19,202103190DEN,DEN,OT1,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202103190DEN.html,5.0,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,+4,

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-14,202202140BRK,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202202140BRK.html,33:11,.617,.556,.278,.389,2.7,3.8,3.1,24.1,0.0,0.0,8.7,28.8,121,115,5.7
+2022-02-14,202202140BRK,SAC,Justin Holiday,https://www.basketball-reference.com/boxscores/202202140BRK.html,31:49,.292,.292,.500,.000,5.6,0.0,3.3,11.4,0.0,2.6,0.0,15.6,77,113,-5.9
+2022-02-14,202202140BRK,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202202140BRK.html,30:24,.333,.333,.333,.000,8.8,16.6,12.0,12.0,0.0,0.0,18.2,15.0,74,114,-8.2
+2022-02-14,202202140BRK,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202202140BRK.html,25:39,.365,.364,.182,.273,3.5,39.4,18.3,15.9,1.9,3.2,19.6,24.7,68,103,-5.9
+2022-02-14,202202140BRK,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202202140BRK.html,17:53,.174,.000,.500,1.000,0.0,14.1,5.8,0.0,0.0,0.0,25.8,9.0,28,114,-13.1
+2022-02-14,202202140BRK,SAC,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202202140BRK.html,26:42,.505,.455,.545,.182,0.0,37.8,15.6,15.1,8.9,0.0,7.8,20.0,102,91,11.0
+2022-02-14,202202140BRK,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202202140BRK.html,26:07,.464,.464,.429,.000,0.0,9.7,4.0,0.0,1.8,3.2,12.5,25.4,82,107,-1.3
+2022-02-14,202202140BRK,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202202140BRK.html,22:21,.333,.333,.000,.000,4.0,28.3,14.0,0.0,2.1,3.7,33.3,16.7,49,104,-11.5
+2022-02-14,202202140BRK,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202202140BRK.html,19:26,.518,.300,.800,.800,13.7,6.5,10.7,8.7,0.0,0.0,22.8,18.7,99,115,-4.0
+2022-02-14,202202140BRK,SAC,Josh Jackson,https://www.basketball-reference.com/boxscores/202202140BRK.html,3:14,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,38.4,0,116,-46.4
+2022-02-14,202202140BRK,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202202140BRK.html,3:14,,,,,0.0,39.1,16.1,0.0,0.0,0.0,100.0,12.8,0,111,-26.8
+2022-02-14,202202140BRK,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202202140BRK.html,37:57,.738,.708,.083,.167,0.0,14.1,8.2,23.1,6.3,6.9,0.0,15.3,157,71,19.6
+2022-02-14,202202140BRK,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202202140BRK.html,32:08,.639,.639,.444,.000,0.0,19.4,11.4,26.6,0.0,0.0,18.2,30.8,105,87,1.3
+2022-02-14,202202140BRK,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202202140BRK.html,31:44,.364,.364,.636,.000,0.0,5.6,3.3,11.8,0.0,0.0,15.4,18.4,72,93,-9.1
+2022-02-14,202202140BRK,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202202140BRK.html,25:15,.300,.300,.600,.000,0.0,17.6,10.3,0.0,0.0,0.0,28.6,12.5,42,88,-9.8
+2022-02-14,202202140BRK,BRK,Andre Drummond,https://www.basketball-reference.com/boxscores/202202140BRK.html,24:07,.628,.571,.000,.571,15.7,22.1,19.5,22.7,4.0,3.6,18.6,20.1,124,75,7.4
+2022-02-14,202202140BRK,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202202140BRK.html,26:28,.658,.500,.125,.750,0.0,16.8,9.9,15.2,0.0,0.0,0.0,18.1,145,89,3.6
+2022-02-14,202202140BRK,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202202140BRK.html,19:42,.500,.500,.250,.000,6.4,13.5,10.6,12.8,0.0,0.0,20.0,11.4,102,89,-5.9
+2022-02-14,202202140BRK,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202202140BRK.html,19:08,.771,.727,.000,.273,13.2,27.9,21.8,0.0,0.0,4.6,28.9,40.8,103,81,-0.4
+2022-02-14,202202140BRK,BRK,Jevon Carter,https://www.basketball-reference.com/boxscores/202202140BRK.html,17:01,.250,.250,.667,.000,0.0,10.4,6.1,14.0,0.0,0.0,0.0,15.9,70,91,-6.5
+2022-02-14,202202140BRK,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202202140BRK.html,3:09,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,95,-5.3
+2022-02-14,202202140BRK,BRK,David Duke Jr.,https://www.basketball-reference.com/boxscores/202202140BRK.html,1:45,1.500,1.500,1.000,.000,0.0,50.8,29.8,0.0,0.0,0.0,0.0,25.7,300,75,55.7
+2022-02-14,202202140BRK,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202202140BRK.html,1:36,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.1,200,95,20.0

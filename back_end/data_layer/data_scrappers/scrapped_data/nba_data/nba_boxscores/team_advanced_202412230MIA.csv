@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-23,202412230MIA,BRK,Cameron Johnson,https://www.basketball-reference.com/boxscores/202412230MIA.html,32:45,.598,.567,.467,.133,2.9,8.1,5.1,12.9,1.6,0.0,11.2,24.3,108,120,0.8
+2024-12-23,202412230MIA,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202412230MIA.html,29:42,.694,.500,.000,1.000,0.0,9.0,3.8,46.3,1.7,0.0,25.8,5.8,156,120,1.0
+2024-12-23,202412230MIA,BRK,Noah Clowney,https://www.basketball-reference.com/boxscores/202412230MIA.html,29:30,.663,.615,.769,.231,0.0,22.6,9.5,7.0,0.0,0.0,6.5,23.1,121,122,2.8
+2024-12-23,202412230MIA,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202412230MIA.html,28:21,.326,.143,.000,.714,6.8,37.6,19.7,10.8,0.0,10.6,17.9,17.6,76,114,-8.3
+2024-12-23,202412230MIA,BRK,Keon Johnson,https://www.basketball-reference.com/boxscores/202412230MIA.html,28:19,.582,.583,.417,.167,3.4,18.8,9.9,14.9,5.4,0.0,18.9,25.0,95,109,0.8
+2024-12-23,202412230MIA,BRK,Jalen Wilson,https://www.basketball-reference.com/boxscores/202412230MIA.html,29:59,.353,.300,.300,.300,3.2,8.9,5.6,5.7,0.0,0.0,8.1,18.3,76,124,-12.2
+2024-12-23,202412230MIA,BRK,Tyrese Martin,https://www.basketball-reference.com/boxscores/202412230MIA.html,22:03,1.000,1.000,.714,.000,4.4,24.2,12.7,19.7,2.3,0.0,22.2,18.2,134,116,12.8
+2024-12-23,202412230MIA,BRK,Shake Milton,https://www.basketball-reference.com/boxscores/202412230MIA.html,19:14,.225,.125,.250,.250,0.0,13.9,5.8,24.5,5.3,0.0,18.4,25.2,55,110,-13.7
+2024-12-23,202412230MIA,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202412230MIA.html,15:16,.318,.333,.222,.111,31.4,17.5,25.6,13.3,0.0,0.0,0.0,27.5,94,123,-11.6
+2024-12-23,202412230MIA,BRK,Reece Beekman,https://www.basketball-reference.com/boxscores/202412230MIA.html,1:37,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,125,-10.2
+2024-12-23,202412230MIA,BRK,Jaylen Martin,https://www.basketball-reference.com/boxscores/202412230MIA.html,1:37,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.5,0,125,-33.2
+2024-12-23,202412230MIA,BRK,Dariq Whitehead,https://www.basketball-reference.com/boxscores/202412230MIA.html,1:37,,,,,0.0,0.0,0.0,0.0,31.6,0.0,,0.0,0,48,27.6
+2024-12-23,202412230MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202412230MIA.html,38:40,.543,.462,.538,.462,0.0,29.8,17.3,37.5,0.0,2.5,6.0,20.7,127,98,3.7
+2024-12-23,202412230MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202412230MIA.html,30:31,.741,.667,.167,.667,0.0,22.0,12.8,47.0,1.7,0.0,11.4,27.7,145,98,11.9
+2024-12-23,202412230MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202412230MIA.html,25:16,.773,.773,.909,.000,5.3,0.0,2.2,30.9,2.0,0.0,15.4,24.8,128,106,8.0
+2024-12-23,202412230MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202412230MIA.html,24:21,.922,.875,.500,.500,5.5,15.8,11.5,0.0,0.0,0.0,29.1,13.6,121,105,-2.6
+2024-12-23,202412230MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202412230MIA.html,20:24,.375,.375,.750,.000,0.0,9.4,5.5,0.0,0.0,0.0,20.0,11.8,56,107,-12.8
+2024-12-23,202412230MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202412230MIA.html,31:56,.922,.875,.625,.500,0.0,12.0,7.0,21.1,0.0,0.0,9.3,16.2,165,106,8.8
+2024-12-23,202412230MIA,MIA,Alec Burks,https://www.basketball-reference.com/boxscores/202412230MIA.html,24:12,.676,.688,.750,.250,5.5,7.9,6.9,7.1,2.1,4.0,0.0,17.7,133,100,5.6
+2024-12-23,202412230MIA,MIA,Kel'el Ware,https://www.basketball-reference.com/boxscores/202412230MIA.html,17:29,.750,.750,.333,.000,15.3,27.5,22.3,0.0,5.8,5.5,25.0,22.1,107,83,4.0
+2024-12-23,202412230MIA,MIA,Pelle Larsson,https://www.basketball-reference.com/boxscores/202412230MIA.html,16:45,.170,.000,.600,.400,0.0,5.7,3.3,8.0,3.0,0.0,14.5,19.8,42,101,-17.6
+2024-12-23,202412230MIA,MIA,Dru Smith,https://www.basketball-reference.com/boxscores/202412230MIA.html,7:12,.000,.000,.000,.000,0.0,13.3,7.8,18.5,0.0,0.0,66.7,20.1,23,105,-24.0
+2024-12-23,202412230MIA,MIA,Josh Christopher,https://www.basketball-reference.com/boxscores/202412230MIA.html,1:37,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,59.6,0,111,-68.4
+2024-12-23,202412230MIA,MIA,Keshad Johnson,https://www.basketball-reference.com/boxscores/202412230MIA.html,1:37,,,,,0.0,59.4,34.5,0.0,0.0,0.0,,0.0,0,87,-13.2

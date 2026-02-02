@@ -1,0 +1,70 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-02-12,202402120MIL,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202402120MIL.html,11.8,6,12,.500,1,2,.500,1,2,.500,1,1,2,2,0,0,2,0,14,8.0,-3
+2024-02-12,202402120MIL,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.85,1,2,.500,1,1,1.000,0,0,,0,1,1,0,1,0,1,0,3,2.3,-2
+2024-02-12,202402120MIL,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.98,0,2,.000,0,0,,0,0,,1,2,3,0,1,1,1,1,0,0.2,-2
+2024-02-12,202402120MIL,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.75,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-11
+2024-02-12,202402120MIL,DEN,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202402120MIL.html,9.33,0,3,.000,0,1,.000,1,1,1.000,0,2,2,2,0,0,0,0,1,0.9,+1
+2024-02-12,202402120MIL,DEN,Q1,Christian Braun,https://www.basketball-reference.com/boxscores/202402120MIL.html,4.15,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2024-02-12,202402120MIL,DEN,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.92,2,3,.667,1,2,.500,0,0,,0,1,1,2,0,0,0,0,5,5.4,0
+2024-02-12,202402120MIL,DEN,Q1,Peyton Watson,https://www.basketball-reference.com/boxscores/202402120MIL.html,3.2,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-0.1,-5
+2024-02-12,202402120MIL,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.72,4,6,.667,1,3,.333,0,0,,1,3,4,2,0,0,1,0,9,8.4,-1
+2024-02-12,202402120MIL,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.93,0,4,.000,0,3,.000,0,0,,2,0,2,2,0,0,1,1,0,-1.4,-16
+2024-02-12,202402120MIL,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.72,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,1,0,0,0,0.3,-1
+2024-02-12,202402120MIL,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.8,1,3,.333,1,2,.500,0,0,,0,1,1,0,0,0,2,0,3,-0.4,-7
+2024-02-12,202402120MIL,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202402120MIL.html,2.12,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-7
+2024-02-12,202402120MIL,DEN,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.37,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-7
+2024-02-12,202402120MIL,DEN,Q2,Peyton Watson,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.35,2,3,.667,0,1,.000,1,1,1.000,0,1,1,0,0,0,0,1,5,3.6,-5
+2024-02-12,202402120MIL,DEN,Q2,Justin Holiday,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.72,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,1,3,1.6,-1
+2024-02-12,202402120MIL,DEN,Q2,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202402120MIL.html,4.28,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,1,1,0.5,-10
+2024-02-12,202402120MIL,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202402120MIL.html,12.0,3,7,.429,0,0,,0,1,.000,1,5,6,4,0,0,2,1,6,4.5,-12
+2024-02-12,202402120MIL,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.67,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,1,0,0.3,-6
+2024-02-12,202402120MIL,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.85,5,5,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,0,1,11,9.7,-4
+2024-02-12,202402120MIL,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202402120MIL.html,4.15,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-8
+2024-02-12,202402120MIL,DEN,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.47,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2024-02-12,202402120MIL,DEN,Q3,Peyton Watson,https://www.basketball-reference.com/boxscores/202402120MIL.html,4.15,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-8
+2024-02-12,202402120MIL,DEN,Q3,Justin Holiday,https://www.basketball-reference.com/boxscores/202402120MIL.html,11.17,1,4,.250,0,3,.000,0,0,,0,2,2,1,0,0,0,1,2,0.5,-10
+2024-02-12,202402120MIL,DEN,Q3,Collin Gillespie,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.53,0,0,,0,0,,0,0,,0,0,0,0,2,0,2,0,0,0.0,-10
+2024-02-12,202402120MIL,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.35,2,4,.500,1,3,.333,3,3,1.000,1,2,3,0,0,0,0,0,8,7.3,+8
+2024-02-12,202402120MIL,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202402120MIL.html,3.9,1,2,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,0,3,3.0,+8
+2024-02-12,202402120MIL,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202402120MIL.html,12.0,2,6,.333,0,3,.000,3,4,.750,0,2,2,0,2,0,0,1,7,5.4,+11
+2024-02-12,202402120MIL,DEN,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.35,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,+8
+2024-02-12,202402120MIL,DEN,Q4,Peyton Watson,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.4,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,0,0,1.0,+9
+2024-02-12,202402120MIL,DEN,Q4,Collin Gillespie,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.65,2,4,.500,2,4,.500,0,0,,0,1,1,1,0,0,1,0,6,4.0,+3
+2024-02-12,202402120MIL,DEN,Q4,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.1,1,5,.200,0,0,,0,0,,3,0,3,0,1,0,0,1,2,1.6,+3
+2024-02-12,202402120MIL,DEN,Q4,Julian Strawther,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.65,0,3,.000,0,3,.000,2,2,1.000,0,0,0,2,0,0,0,0,2,1.3,+3
+2024-02-12,202402120MIL,DEN,Q4,Braxton Key,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.6,1,1,1.000,0,0,,0,1,.000,1,1,2,0,0,0,0,1,2,1.9,+2
+2024-02-12,202402120MIL,MIL,Q1,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.82,3,3,1.000,0,0,,2,2,1.000,0,5,5,1,0,1,1,2,8,8.2,+5
+2024-02-12,202402120MIL,MIL,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202402120MIL.html,12.0,2,3,.667,2,3,.667,0,0,,0,0,0,0,0,0,0,0,6,4.7,+5
+2024-02-12,202402120MIL,MIL,Q1,Brook Lopez,https://www.basketball-reference.com/boxscores/202402120MIL.html,12.0,2,4,.500,2,3,.667,0,0,,0,2,2,0,0,2,1,1,6,4.6,+5
+2024-02-12,202402120MIL,MIL,Q1,Jae Crowder,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.8,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,1,0,0,-0.7,0
+2024-02-12,202402120MIL,MIL,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.8,1,5,.200,0,1,.000,0,0,,0,2,2,2,0,0,1,2,2,-0.9,0
+2024-02-12,202402120MIL,MIL,Q1,Bobby Portis,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.18,2,4,.500,0,1,.000,0,0,,0,1,1,2,0,0,0,0,4,3.7,0
+2024-02-12,202402120MIL,MIL,Q1,Pat Connaughton,https://www.basketball-reference.com/boxscores/202402120MIL.html,3.2,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3,+5
+2024-02-12,202402120MIL,MIL,Q1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202402120MIL.html,3.2,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,+5
+2024-02-12,202402120MIL,MIL,Q2,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202402120MIL.html,10.13,7,9,.778,0,0,,4,6,.667,2,2,4,0,2,0,0,0,18,17.7,+9
+2024-02-12,202402120MIL,MIL,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.38,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1
+2024-02-12,202402120MIL,MIL,Q2,Brook Lopez,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.38,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,1,0,1,0,-0.1,-1
+2024-02-12,202402120MIL,MIL,Q2,Jae Crowder,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.25,1,3,.333,0,2,.000,0,0,,0,1,1,1,0,0,0,0,2,1.3,-1
+2024-02-12,202402120MIL,MIL,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202402120MIL.html,3.2,0,0,,0,0,,2,2,1.000,1,0,1,2,0,0,0,1,2,3.7,+4
+2024-02-12,202402120MIL,MIL,Q2,Bobby Portis,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.48,3,4,.750,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,7,6.0,+14
+2024-02-12,202402120MIL,MIL,Q2,Pat Connaughton,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.75,0,0,,0,0,,0,0,,0,1,1,3,1,0,0,0,0,3.4,+12
+2024-02-12,202402120MIL,MIL,Q2,Patrick Beverley,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.8,0,2,.000,0,0,,0,0,,0,1,1,2,1,0,0,1,0,0.9,+7
+2024-02-12,202402120MIL,MIL,Q2,A.J. Green,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.62,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,2,3,1.2,+12
+2024-02-12,202402120MIL,MIL,Q3,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202402120MIL.html,8.72,4,5,.800,0,0,,1,4,.250,2,5,7,3,1,0,0,0,9,11.9,+12
+2024-02-12,202402120MIL,MIL,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202402120MIL.html,12.0,1,2,.500,1,2,.500,0,0,,1,3,4,1,0,0,0,0,3,4.3,+12
+2024-02-12,202402120MIL,MIL,Q3,Brook Lopez,https://www.basketball-reference.com/boxscores/202402120MIL.html,10.7,1,4,.250,1,3,.333,0,0,,1,1,2,3,0,0,0,0,3,3.7,+8
+2024-02-12,202402120MIL,MIL,Q3,Jae Crowder,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.85,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,+4
+2024-02-12,202402120MIL,MIL,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202402120MIL.html,10.7,5,10,.500,2,4,.500,2,2,1.000,0,0,0,1,0,0,1,0,14,8.7,+8
+2024-02-12,202402120MIL,MIL,Q3,Bobby Portis,https://www.basketball-reference.com/boxscores/202402120MIL.html,4.58,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,1,0,2,-0.1,+4
+2024-02-12,202402120MIL,MIL,Q3,Pat Connaughton,https://www.basketball-reference.com/boxscores/202402120MIL.html,4.15,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,+8
+2024-02-12,202402120MIL,MIL,Q3,Patrick Beverley,https://www.basketball-reference.com/boxscores/202402120MIL.html,1.3,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+4
+2024-02-12,202402120MIL,MIL,Q4,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.73,0,2,.000,0,0,,1,2,.500,0,2,2,1,0,1,1,0,1,0.2,-8
+2024-02-12,202402120MIL,MIL,Q4,Bobby Portis,https://www.basketball-reference.com/boxscores/202402120MIL.html,7.1,0,3,.000,0,1,.000,0,0,,1,2,3,1,0,0,2,2,0,-2.9,-10
+2024-02-12,202402120MIL,MIL,Q4,Pat Connaughton,https://www.basketball-reference.com/boxscores/202402120MIL.html,9.23,1,1,1.000,1,1,1.000,0,0,,0,2,2,2,0,0,0,0,3,4.7,-6
+2024-02-12,202402120MIL,MIL,Q4,Patrick Beverley,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.4,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,2,5,2.6,-9
+2024-02-12,202402120MIL,MIL,Q4,A.J. Green,https://www.basketball-reference.com/boxscores/202402120MIL.html,9.8,2,3,.667,2,3,.667,0,0,,0,0,0,1,0,0,0,0,6,5.4,-5
+2024-02-12,202402120MIL,MIL,Q4,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202402120MIL.html,6.27,1,2,.500,1,2,.500,0,0,,1,1,2,0,0,0,1,1,3,1.6,-3
+2024-02-12,202402120MIL,MIL,Q4,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202402120MIL.html,5.6,1,1,1.000,1,1,1.000,0,0,,0,2,2,1,0,0,0,1,3,3.6,-2
+2024-02-12,202402120MIL,MIL,Q4,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202402120MIL.html,4.9,0,1,.000,0,0,,0,0,,0,0,0,1,1,0,1,2,0,-0.8,-1
+2024-02-12,202402120MIL,MIL,Q4,TyTy Washington Jr.,https://www.basketball-reference.com/boxscores/202402120MIL.html,2.77,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5
+2024-02-12,202402120MIL,MIL,Q4,Chris Livingston,https://www.basketball-reference.com/boxscores/202402120MIL.html,2.2,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-6

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-31,202101310TOR,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/202101310TOR.html,35:16,.388,.333,.333,.167,0.0,42.3,21.2,20.8,2.8,2.7,13.4,29.1,75,108,-4.1
+2021-01-31,202101310TOR,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202101310TOR.html,32:22,.633,.550,.300,.600,3.3,13.2,8.2,34.8,0.0,0.0,13.7,20.8,124,123,-1.1
+2021-01-31,202101310TOR,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/202101310TOR.html,28:22,.376,.208,.500,.500,3.8,3.8,3.8,17.1,1.7,3.3,6.4,25.4,87,119,-7.1
+2021-01-31,202101310TOR,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/202101310TOR.html,22:45,.658,.625,.625,.750,4.7,18.8,11.7,25.8,2.2,0.0,8.6,23.5,128,117,5.4
+2021-01-31,202101310TOR,ORL,James Ennis III,https://www.basketball-reference.com/boxscores/202101310TOR.html,19:26,.680,.700,.400,.400,0.0,22.0,11.0,0.0,0.0,0.0,0.0,13.9,126,121,-5.4
+2021-01-31,202101310TOR,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202101310TOR.html,28:20,.340,.200,.600,.400,0.0,0.0,0.0,10.8,1.7,0.0,0.0,9.5,87,123,-10.9
+2021-01-31,202101310TOR,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/202101310TOR.html,25:39,.508,.500,.429,.286,12.5,12.5,12.5,0.0,1.9,7.3,20.2,17.7,92,114,-5.4
+2021-01-31,202101310TOR,ORL,Gary Clark,https://www.basketball-reference.com/boxscores/202101310TOR.html,21:46,.750,.750,1.000,.000,0.0,14.7,7.4,7.2,0.0,0.0,0.0,4.2,149,123,-4.1
+2021-01-31,202101310TOR,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202101310TOR.html,19:38,.623,.600,.300,.100,0.0,5.4,2.7,11.8,5.0,0.0,8.7,26.8,106,114,4.7
+2021-01-31,202101310TOR,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202101310TOR.html,3:13,1.167,1.167,.333,.000,0.0,33.2,16.6,0.0,0.0,29.3,0.0,42.9,233,97,60.1
+2021-01-31,202101310TOR,ORL,Jordan Bone,https://www.basketball-reference.com/boxscores/202101310TOR.html,3:13,.750,.750,1.000,.000,0.0,33.2,16.6,100.0,0.0,0.0,0.0,28.6,173,119,28.6
+2021-01-31,202101310TOR,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202101310TOR.html,36:37,.432,.385,.692,.154,0.0,17.5,8.7,55.0,2.7,0.0,17.8,20.0,107,104,2.5
+2021-01-31,202101310TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202101310TOR.html,33:54,.585,.522,.087,.261,9.4,22.0,15.7,17.7,4.3,3.1,7.2,35.4,118,97,9.1
+2021-01-31,202101310TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202101310TOR.html,30:38,.375,.375,.583,.000,0.0,7.0,3.5,22.6,1.6,0.0,25.0,22.7,70,109,-11.7
+2021-01-31,202101310TOR,TOR,Aron Baynes,https://www.basketball-reference.com/boxscores/202101310TOR.html,29:09,.581,.500,.333,.333,11.0,47.6,29.3,4.6,0.0,0.0,0.0,10.2,141,104,-0.1
+2021-01-31,202101310TOR,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202101310TOR.html,26:14,.545,.545,.455,.000,8.1,8.1,8.1,0.0,1.9,0.0,0.0,18.2,115,108,-3.6
+2021-01-31,202101310TOR,TOR,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202101310TOR.html,21:37,.773,.750,.167,.667,0.0,9.9,4.9,13.8,0.0,4.8,0.0,15.6,160,108,6.1
+2021-01-31,202101310TOR,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202101310TOR.html,18:56,1.127,1.125,.750,.500,5.6,0.0,2.8,0.0,2.6,16.5,17.0,13.5,166,95,14.6
+2021-01-31,202101310TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202101310TOR.html,18:20,.507,.438,.625,.250,0.0,23.3,11.6,0.0,0.0,0.0,0.0,21.0,104,109,-4.3
+2021-01-31,202101310TOR,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202101310TOR.html,12:04,.347,.000,.500,1.000,0.0,17.7,8.8,0.0,0.0,0.0,0.0,10.4,81,110,-13.9
+2021-01-31,202101310TOR,TOR,Paul Watson,https://www.basketball-reference.com/boxscores/202101310TOR.html,8:27,1.000,1.000,1.000,.000,0.0,12.6,6.3,19.2,0.0,0.0,0.0,15.4,186,112,17.6
+2021-01-31,202101310TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202101310TOR.html,2:02,1.064,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,34.7,61.4,127,114,13.7
+2021-01-31,202101310TOR,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202101310TOR.html,2:02,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.3,0,114,-28.4

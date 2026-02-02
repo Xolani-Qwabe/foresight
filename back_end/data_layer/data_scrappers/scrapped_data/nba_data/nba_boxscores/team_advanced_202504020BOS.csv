@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-04-02,202504020BOS,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202504020BOS.html,38:01,.558,.444,.333,.556,3.6,15.0,9.8,33.3,3.0,0.0,0.0,28.3,144,119,7.4
+2025-04-02,202504020BOS,MIA,Kel'el Ware,https://www.basketball-reference.com/boxscores/202504020BOS.html,31:59,.518,.400,.000,.800,8.6,10.7,9.7,0.0,1.8,3.4,0.0,10.2,132,123,-5.8
+2025-04-02,202504020BOS,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202504020BOS.html,30:41,.680,.667,.200,.067,0.0,18.6,10.2,32.5,0.0,0.0,0.0,24.2,154,124,8.8
+2025-04-02,202504020BOS,MIA,Pelle Larsson,https://www.basketball-reference.com/boxscores/202504020BOS.html,30:14,.662,.556,.333,.778,13.6,3.8,8.2,17.3,1.9,0.0,7.6,20.8,151,128,3.8
+2025-04-02,202504020BOS,MIA,Alec Burks,https://www.basketball-reference.com/boxscores/202504020BOS.html,19:12,.919,.900,.400,.200,0.0,11.9,6.5,0.0,0.0,0.0,0.0,13.6,183,128,2.8
+2025-04-02,202504020BOS,MIA,Davion Mitchell,https://www.basketball-reference.com/boxscores/202504020BOS.html,33:36,.650,.650,.600,.000,4.1,10.2,7.4,27.9,5.1,0.0,9.1,15.7,145,117,6.8
+2025-04-02,202504020BOS,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202504020BOS.html,25:50,.625,.625,.750,.000,10.6,8.8,9.7,0.0,0.0,4.2,0.0,14.9,141,128,-3.0
+2025-04-02,202504020BOS,MIA,Kyle Anderson,https://www.basketball-reference.com/boxscores/202504020BOS.html,23:47,.745,.682,.182,.364,5.8,0.0,2.6,7.0,2.4,0.0,7.3,27.8,146,129,4.9
+2025-04-02,202504020BOS,MIA,Josh Christopher,https://www.basketball-reference.com/boxscores/202504020BOS.html,1:40,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,57.7,57,133,13.3
+2025-04-02,202504020BOS,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202504020BOS.html,1:40,,,,,82.3,0.0,37.4,67.0,0.0,0.0,,0.0,232,135,31.6
+2025-04-02,202504020BOS,MIA,Keshad Johnson,https://www.basketball-reference.com/boxscores/202504020BOS.html,1:40,,,,,0.0,0.0,0.0,0.0,34.2,0.0,,0.0,0,56,27.2
+2025-04-02,202504020BOS,MIA,Isaiah Stevens,https://www.basketball-reference.com/boxscores/202504020BOS.html,1:40,.000,.000,1.000,.000,0.0,100.0,74.8,0.0,0.0,0.0,0.0,28.8,0,55,-35.2
+2025-04-02,202504020BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202504020BOS.html,31:53,.398,.294,.529,.412,0.0,12.9,5.9,32.0,1.8,0.0,9.1,31.1,110,146,-5.2
+2025-04-02,202504020BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202504020BOS.html,31:07,.606,.545,.636,.455,7.3,8.8,8.0,29.6,1.8,5.8,23.3,24.8,118,144,5.2
+2025-04-02,202504020BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202504020BOS.html,28:47,.563,.550,.300,.150,7.9,33.4,19.5,29.9,0.0,0.0,12.3,37.9,118,145,0.7
+2025-04-02,202504020BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202504020BOS.html,25:38,.600,.600,1.000,.000,4.5,10.7,7.3,0.0,0.0,0.0,0.0,8.7,150,151,-8.8
+2025-04-02,202504020BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202504020BOS.html,21:29,.778,.778,.000,.000,31.9,0.0,17.4,19.1,0.0,0.0,0.0,18.8,178,154,7.3
+2025-04-02,202504020BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202504020BOS.html,31:17,.556,.556,.667,.000,7.3,8.8,8.0,9.3,0.0,2.9,10.0,14.3,128,150,-3.3
+2025-04-02,202504020BOS,BOS,Torrey Craig,https://www.basketball-reference.com/boxscores/202504020BOS.html,19:05,.200,.200,.600,.000,12.0,7.2,9.8,0.0,0.0,4.7,0.0,11.7,79,149,-15.1
+2025-04-02,202504020BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202504020BOS.html,18:45,1.017,1.000,.000,.333,12.2,36.6,23.3,16.3,0.0,4.8,0.0,8.2,214,141,8.5
+2025-04-02,202504020BOS,BOS,Baylor Scheierman,https://www.basketball-reference.com/boxscores/202504020BOS.html,16:53,.500,.500,1.000,.000,13.5,8.1,11.1,0.0,3.4,0.0,0.0,8.0,146,144,-1.5
+2025-04-02,202504020BOS,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202504020BOS.html,5:02,.500,.500,.500,.000,0.0,27.2,12.4,32.4,0.0,18.0,50.0,35.6,60,135,-9.7
+2025-04-02,202504020BOS,BOS,Drew Peterson,https://www.basketball-reference.com/boxscores/202504020BOS.html,5:02,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.8,166,154,0.0
+2025-04-02,202504020BOS,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202504020BOS.html,5:02,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,17.8,0,154,-30.5

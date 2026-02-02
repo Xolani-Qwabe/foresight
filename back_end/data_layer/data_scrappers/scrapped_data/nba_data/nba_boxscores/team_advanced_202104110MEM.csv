@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-11,202104110MEM,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202104110MEM.html,38:40,.613,.595,.429,.286,9.1,12.0,10.8,34.5,1.2,0.0,0.0,24.8,154,124,9.7
+2021-04-11,202104110MEM,IND,Caris LeVert,https://www.basketball-reference.com/boxscores/202104110MEM.html,34:43,.781,.750,.300,.200,6.7,6.7,6.7,12.7,1.4,4.4,4.4,26.6,159,124,13.2
+2021-04-11,202104110MEM,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202104110MEM.html,29:39,.628,.577,.308,.231,15.8,28.7,23.6,35.8,1.6,0.0,12.3,22.3,143,114,8.0
+2021-04-11,202104110MEM,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202104110MEM.html,26:59,.417,.417,.667,.000,4.3,11.5,8.6,18.4,3.5,1.9,14.3,10.5,116,118,1.2
+2021-04-11,202104110MEM,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/202104110MEM.html,20:43,.619,.563,.375,.250,0.0,0.0,0.0,0.0,0.0,2.4,10.1,19.3,118,132,-6.1
+2021-04-11,202104110MEM,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202104110MEM.html,23:25,.833,.833,.000,.000,5.0,13.2,10.0,19.6,0.0,0.0,33.3,15.6,118,125,-6.9
+2021-04-11,202104110MEM,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202104110MEM.html,19:07,.650,.650,.300,.000,12.2,8.1,9.8,13.6,0.0,0.0,23.1,27.6,108,129,-5.4
+2021-04-11,202104110MEM,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202104110MEM.html,18:21,.444,.357,.571,.286,12.8,16.9,15.2,5.6,0.0,13.8,0.0,17.4,125,115,0.7
+2021-04-11,202104110MEM,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202104110MEM.html,15:11,.333,.333,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,10.7,53,133,-16.6
+2021-04-11,202104110MEM,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202104110MEM.html,13:12,.300,.300,.800,.000,0.0,23.5,14.1,0.0,0.0,0.0,0.0,15.3,75,120,-15.0
+2021-04-11,202104110MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202104110MEM.html,34:48,.580,.533,.067,.733,4.4,0.0,2.7,19.7,2.7,0.0,16.8,25.4,112,135,-0.8
+2021-04-11,202104110MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202104110MEM.html,32:14,.657,.640,.000,.080,28.8,36.3,31.8,10.2,0.0,4.8,3.7,30.9,146,127,12.4
+2021-04-11,202104110MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202104110MEM.html,31:39,.382,.382,.118,.000,0.0,3.7,1.5,3.5,0.0,2.4,0.0,19.9,95,139,-11.9
+2021-04-11,202104110MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202104110MEM.html,27:37,.508,.423,.154,.308,8.4,8.5,8.4,7.8,5.2,0.0,0.0,19.8,132,127,2.1
+2021-04-11,202104110MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202104110MEM.html,21:46,.357,.357,.714,.000,0.0,5.4,2.1,18.2,2.2,0.0,12.5,13.6,92,135,-6.4
+2021-04-11,202104110MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202104110MEM.html,26:14,.350,.350,.300,.000,3.0,4.5,3.6,19.3,1.8,3.0,0.0,14.1,109,134,-4.0
+2021-04-11,202104110MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202104110MEM.html,21:54,.253,.273,.091,.182,14.1,16.0,14.9,4.7,0.0,3.5,0.0,20.1,83,134,-13.1
+2021-04-11,202104110MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202104110MEM.html,16:21,.750,.750,.375,.000,4.7,7.2,5.7,23.0,2.9,0.0,0.0,18.2,169,133,13.3
+2021-04-11,202104110MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202104110MEM.html,14:15,.600,.600,.200,.000,0.0,41.1,16.4,7.9,3.3,5.4,0.0,13.0,136,118,3.8
+2021-04-11,202104110MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202104110MEM.html,13:12,.500,.500,.500,.000,5.9,17.7,10.6,15.9,7.2,0.0,0.0,11.2,134,119,6.3

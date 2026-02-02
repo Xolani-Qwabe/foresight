@@ -1,0 +1,68 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-04-08,202504080MIL,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202504080MIL.html,11.73,4,9,.444,0,1,.000,0,0,0,1,1,1,0,0,0,0,8,4.3,+3,
+2025-04-08,202504080MIL,MIN,Q1,Julius Randle,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.45,1,3,.333,1,2,.500,0,0,0,2,2,0,0,0,2,0,3,-0.1,0,
+2025-04-08,202504080MIL,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.12,1,1,1.000,0,0,,0,0,1,2,3,1,0,0,0,0,2,3.7,+6,
+2025-04-08,202504080MIL,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.0,1,2,.500,0,1,.000,1,1,0,2,2,1,0,0,0,1,3,2.9,+8,1.000
+2025-04-08,202504080MIL,MIN,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.57,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+1,
+2025-04-08,202504080MIL,MIN,Q1,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.43,2,3,.667,1,2,.500,0,0,0,0,0,1,0,0,0,0,5,4.4,+4,
+2025-04-08,202504080MIL,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.43,1,3,.333,1,3,.333,0,0,0,0,0,1,0,0,0,1,3,1.6,+4,
+2025-04-08,202504080MIL,MIN,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202504080MIL.html,3.0,0,1,.000,0,0,,2,2,1,0,1,1,0,0,0,0,2,2.7,-3,1.000
+2025-04-08,202504080MIL,MIN,Q1,Jaylen Clark,https://www.basketball-reference.com/boxscores/202504080MIL.html,0.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2025-04-08,202504080MIL,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.93,0,4,.000,0,1,.000,2,2,1,2,3,2,0,0,0,0,2,1.9,+5,1.000
+2025-04-08,202504080MIL,MIN,Q2,Julius Randle,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.6,0,2,.000,0,0,,0,0,1,3,4,1,1,0,1,2,0,0.1,+3,
+2025-04-08,202504080MIL,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202504080MIL.html,10.5,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,1,2,1.9,+4,
+2025-04-08,202504080MIL,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202504080MIL.html,8.2,4,7,.571,0,1,.000,0,0,1,1,2,2,0,0,0,0,8,7.1,+9,
+2025-04-08,202504080MIL,MIN,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.07,1,2,.500,1,2,.500,0,0,0,2,2,1,0,0,0,0,3,3.3,+1,
+2025-04-08,202504080MIL,MIN,Q2,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202504080MIL.html,8.43,1,2,.500,0,0,,0,1,1,2,3,0,0,0,1,1,2,0.5,+7,.000
+2025-04-08,202504080MIL,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.9,4,4,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,9,8.8,+5,
+2025-04-08,202504080MIL,MIN,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202504080MIL.html,3.8,1,3,.333,0,2,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-3,
+2025-04-08,202504080MIL,MIN,Q2,Jaylen Clark,https://www.basketball-reference.com/boxscores/202504080MIL.html,3.57,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,-1,
+2025-04-08,202504080MIL,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202504080MIL.html,12.0,6,10,.600,2,5,.400,0,0,0,1,1,0,1,1,0,2,14,10.6,+9,
+2025-04-08,202504080MIL,MIN,Q3,Julius Randle,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.98,2,2,1.000,0,0,,0,0,0,1,1,4,0,0,0,1,4,6.1,+4,
+2025-04-08,202504080MIL,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202504080MIL.html,7.85,0,0,,0,0,,0,0,0,1,1,1,1,0,1,0,0,1.0,+2,
+2025-04-08,202504080MIL,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.82,1,2,.500,0,1,.000,0,0,0,1,1,0,0,1,0,0,2,2.0,-3,
+2025-04-08,202504080MIL,MIN,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.83,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,-3,
+2025-04-08,202504080MIL,MIN,Q3,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.17,3,4,.750,3,4,.750,0,0,0,0,0,1,0,0,0,1,9,7.7,+12,
+2025-04-08,202504080MIL,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.17,2,2,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,5,5.1,+12,
+2025-04-08,202504080MIL,MIN,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.18,0,1,.000,0,1,.000,0,0,1,0,1,0,0,1,0,0,0,0.7,+12,
+2025-04-08,202504080MIL,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202504080MIL.html,8.35,0,4,.000,0,4,.000,1,1,0,2,2,1,0,0,2,2,1,-3.3,-21,1.000
+2025-04-08,202504080MIL,MIN,Q4,Julius Randle,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.1,0,1,.000,0,1,.000,2,2,0,0,0,1,0,0,2,1,2,-0.4,-23,1.000
+2025-04-08,202504080MIL,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.92,1,2,.500,0,0,,0,0,1,2,3,0,0,0,0,3,2,1.1,-17,
+2025-04-08,202504080MIL,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.07,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.7,-17,
+2025-04-08,202504080MIL,MIN,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202504080MIL.html,10.33,0,3,.000,0,1,.000,0,0,1,0,1,1,0,0,0,0,0,-0.7,-21,
+2025-04-08,202504080MIL,MIN,Q4,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202504080MIL.html,7.6,3,6,.500,2,4,.500,0,0,0,0,0,0,0,0,2,1,8,2.6,-16,
+2025-04-08,202504080MIL,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202504080MIL.html,7.98,0,3,.000,0,2,.000,0,0,1,2,3,0,1,0,0,0,0,0.2,-14,
+2025-04-08,202504080MIL,MIN,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202504080MIL.html,3.65,0,0,,0,0,,0,0,0,1,1,0,0,0,1,2,0,-1.5,-6,
+2025-04-08,202504080MIL,MIL,Q1,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.45,1,2,.500,0,0,,0,0,1,2,3,3,1,1,0,0,2,6.1,0,
+2025-04-08,202504080MIL,MIL,Q1,Brook Lopez,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.12,3,5,.600,1,2,.500,0,0,0,1,1,0,0,0,0,0,7,5.0,-6,
+2025-04-08,202504080MIL,MIL,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.0,1,3,.333,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-8,
+2025-04-08,202504080MIL,MIL,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202504080MIL.html,7.1,0,2,.000,0,1,.000,0,0,0,2,2,0,0,0,1,1,0,-2.2,-4,
+2025-04-08,202504080MIL,MIL,Q1,Ryan Rollins,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.0,1,2,.500,0,0,,0,0,0,1,1,2,0,0,1,1,2,1.3,-8,
+2025-04-08,202504080MIL,MIL,Q1,Bobby Portis,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.43,2,3,.667,0,0,,0,0,2,2,4,0,0,0,0,0,4,4.7,-4,
+2025-04-08,202504080MIL,MIL,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,3.0,2,2,1.000,0,0,,2,2,0,0,0,1,0,0,0,1,6,5.7,+3,1.000
+2025-04-08,202504080MIL,MIL,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,4.9,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-1.5,-1,
+2025-04-08,202504080MIL,MIL,Q1,A.J. Green,https://www.basketball-reference.com/boxscores/202504080MIL.html,3.0,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,1,0,-2.1,+3,
+2025-04-08,202504080MIL,MIL,Q2,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202504080MIL.html,7.68,1,3,.333,0,1,.000,2,6,1,1,2,3,0,0,0,0,4,3.8,+1,.333
+2025-04-08,202504080MIL,MIL,Q2,Brook Lopez,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.42,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,1,2,0,-2.9,-8,
+2025-04-08,202504080MIL,MIL,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.1,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,1,0,0,-2.1,-1,
+2025-04-08,202504080MIL,MIL,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.93,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,-5,
+2025-04-08,202504080MIL,MIL,Q2,Ryan Rollins,https://www.basketball-reference.com/boxscores/202504080MIL.html,3.78,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.0,+1,
+2025-04-08,202504080MIL,MIL,Q2,Bobby Portis,https://www.basketball-reference.com/boxscores/202504080MIL.html,5.07,2,5,.400,0,3,.000,0,0,0,2,2,0,0,0,0,1,4,1.5,-1,
+2025-04-08,202504080MIL,MIL,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,8.22,0,1,.000,0,1,.000,3,3,1,0,1,1,1,0,0,0,3,4.7,-7,1.000
+2025-04-08,202504080MIL,MIL,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.9,1,2,.500,1,2,.500,0,0,0,0,0,2,0,0,0,0,3,3.4,-5,
+2025-04-08,202504080MIL,MIL,Q2,A.J. Green,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.9,1,2,.500,1,2,.500,0,0,0,2,2,0,0,0,0,1,3,2.2,-5,
+2025-04-08,202504080MIL,MIL,Q3,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.98,2,4,.500,0,0,,0,1,0,3,3,2,0,0,0,0,4,3.9,-4,.000
+2025-04-08,202504080MIL,MIL,Q3,Brook Lopez,https://www.basketball-reference.com/boxscores/202504080MIL.html,7.85,1,2,.500,1,1,1.000,0,0,0,0,0,1,0,0,1,0,3,1.7,-2,
+2025-04-08,202504080MIL,MIL,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202504080MIL.html,10.7,2,4,.500,1,3,.333,0,0,0,1,1,1,0,0,0,0,5,4.0,-6,
+2025-04-08,202504080MIL,MIL,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202504080MIL.html,10.7,3,4,.750,0,0,,2,2,1,0,1,0,0,0,2,1,8,4.7,-6,1.000
+2025-04-08,202504080MIL,MIL,Q3,Ryan Rollins,https://www.basketball-reference.com/boxscores/202504080MIL.html,9.98,0,1,.000,0,0,,0,0,1,0,1,2,0,0,0,0,0,1.4,-4,
+2025-04-08,202504080MIL,MIL,Q3,Bobby Portis,https://www.basketball-reference.com/boxscores/202504080MIL.html,6.17,2,3,.667,1,1,1.000,0,0,1,0,1,1,0,0,0,0,5,5.1,-12,
+2025-04-08,202504080MIL,MIL,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,2.02,0,0,,0,0,,0,0,0,0,0,1,0,0,2,1,0,-1.7,-5,
+2025-04-08,202504080MIL,MIL,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,1.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2025-04-08,202504080MIL,MIL,Q3,A.J. Green,https://www.basketball-reference.com/boxscores/202504080MIL.html,1.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2025-04-08,202504080MIL,MIL,Q4,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202504080MIL.html,10.53,5,6,.833,1,1,1.000,2,4,1,4,5,2,0,0,0,0,13,13.3,+29,.500
+2025-04-08,202504080MIL,MIL,Q4,Brook Lopez,https://www.basketball-reference.com/boxscores/202504080MIL.html,1.47,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2025-04-08,202504080MIL,MIL,Q4,Bobby Portis,https://www.basketball-reference.com/boxscores/202504080MIL.html,12.0,1,4,.250,1,2,.500,2,2,0,3,3,0,2,1,0,1,5,5.8,+27,1.000
+2025-04-08,202504080MIL,MIL,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,12.0,4,6,.667,0,1,.000,4,4,2,1,3,2,4,0,1,2,12,14.7,+27,1.000
+2025-04-08,202504080MIL,MIL,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202504080MIL.html,12.0,1,4,.250,1,3,.333,1,1,0,1,1,2,0,0,0,0,4,3.3,+27,1.000
+2025-04-08,202504080MIL,MIL,Q4,A.J. Green,https://www.basketball-reference.com/boxscores/202504080MIL.html,12.0,2,3,.667,2,3,.667,0,0,0,2,2,1,0,0,0,1,6,5.6,+27,

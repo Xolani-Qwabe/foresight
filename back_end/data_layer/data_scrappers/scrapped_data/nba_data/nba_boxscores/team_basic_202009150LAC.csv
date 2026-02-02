@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-09-15,202009150LAC,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202009150LAC.html,44.68,15,26,.577,6,13,.462,4,4,1.000,0,4,4,5,1,0,5,1,40,28.1,+15
+2020-09-15,202009150LAC,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202009150LAC.html,39.7,5,13,.385,0,4,.000,6,6,1.000,3,19,22,13,2,3,5,4,16,23.3,+22
+2020-09-15,202009150LAC,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/202009150LAC.html,36.9,6,11,.545,2,6,.333,0,0,,2,4,6,1,1,1,1,3,14,11.5,+21
+2020-09-15,202009150LAC,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202009150LAC.html,31.52,2,6,.333,2,4,.500,0,0,,1,2,3,1,0,1,1,2,6,3.5,+19
+2020-09-15,202009150LAC,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/202009150LAC.html,30.97,5,10,.500,2,6,.333,2,2,1.000,2,3,5,1,0,0,3,4,14,7.4,+19
+2020-09-15,202009150LAC,DEN,Torrey Craig,https://www.basketball-reference.com/boxscores/202009150LAC.html,19.08,3,6,.500,0,1,.000,0,0,,2,4,6,0,0,0,1,1,6,4.2,-1
+2020-09-15,202009150LAC,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202009150LAC.html,14.78,0,2,.000,0,2,.000,2,2,1.000,1,6,7,0,0,0,1,2,2,1.3,+1
+2020-09-15,202009150LAC,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202009150LAC.html,13.2,2,3,.667,1,1,1.000,0,0,,0,0,0,1,0,0,1,0,5,3.4,-8
+2020-09-15,202009150LAC,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/202009150LAC.html,7.87,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,2,3,1,-2.6,-4
+2020-09-15,202009150LAC,DEN,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202009150LAC.html,0.43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2020-09-15,202009150LAC,DEN,Troy Daniels,https://www.basketball-reference.com/boxscores/202009150LAC.html,0.43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2020-09-15,202009150LAC,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202009150LAC.html,0.43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2020-09-15,202009150LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202009150LAC.html,43.5,6,22,.273,2,7,.286,0,0,,0,6,6,6,2,1,2,1,14,7.3,-21
+2020-09-15,202009150LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202009150LAC.html,38.23,4,16,.250,2,11,.182,0,1,.000,2,2,4,2,1,1,5,4,10,-1.5,-20
+2020-09-15,202009150LAC,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/202009150LAC.html,30.18,4,7,.571,1,2,.500,2,2,1.000,2,3,5,6,3,1,0,3,11,16.7,+4
+2020-09-15,202009150LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202009150LAC.html,26.2,2,9,.222,1,6,.167,2,2,1.000,0,6,6,0,1,0,1,2,7,2.5,-11
+2020-09-15,202009150LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202009150LAC.html,14.3,3,5,.600,0,0,,0,0,,2,0,2,0,0,0,0,3,6,3.9,-10
+2020-09-15,202009150LAC,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202009150LAC.html,25.72,7,10,.700,0,0,,6,9,.667,1,2,3,0,0,0,1,3,20,13.7,-8
+2020-09-15,202009150LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202009150LAC.html,24.62,3,11,.273,1,4,.250,0,0,,3,1,4,6,0,0,1,1,7,5.7,+2
+2020-09-15,202009150LAC,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/202009150LAC.html,23.93,4,7,.571,1,3,.333,2,2,1.000,2,4,6,0,1,0,0,1,11,10.9,0
+2020-09-15,202009150LAC,LAC,Landry Shamet,https://www.basketball-reference.com/boxscores/202009150LAC.html,6.12,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,-10
+2020-09-15,202009150LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202009150LAC.html,4.08,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-9
+2020-09-15,202009150LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202009150LAC.html,1.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3
+2020-09-15,202009150LAC,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/202009150LAC.html,1.4,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,+5

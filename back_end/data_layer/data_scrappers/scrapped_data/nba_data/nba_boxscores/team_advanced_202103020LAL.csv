@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-02,202103020LAL,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202103020LAL.html,35:56,.845,.875,.625,.250,0.0,19.1,9.7,4.3,0.0,2.8,18.4,14.4,116,115,2.9
+2021-03-02,202103020LAL,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202103020LAL.html,35:32,.808,.750,.600,.400,11.9,15.4,13.7,22.6,0.0,0.0,14.5,18.4,149,118,7.3
+2021-03-02,202103020LAL,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202103020LAL.html,33:10,.602,.375,.750,1.500,0.0,20.7,10.5,39.6,0.0,3.0,13.1,10.9,150,114,2.1
+2021-03-02,202103020LAL,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202103020LAL.html,24:44,.555,.500,.000,.214,5.7,27.7,16.9,7.9,0.0,4.0,6.1,31.4,107,113,-5.2
+2021-03-02,202103020LAL,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202103020LAL.html,23:41,.660,.625,.250,.167,0.0,17.4,8.8,51.1,6.5,0.0,18.9,31.9,116,102,9.8
+2021-03-02,202103020LAL,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202103020LAL.html,26:20,.535,.471,.294,.353,5.4,20.8,13.2,21.7,2.0,0.0,9.2,39.1,104,113,-1.9
+2021-03-02,202103020LAL,PHO,Abdel Nader,https://www.basketball-reference.com/boxscores/202103020LAL.html,23:19,.680,.600,.600,.400,0.0,17.6,9.0,6.1,2.2,12.9,25.4,16.1,98,101,2.7
+2021-03-02,202103020LAL,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202103020LAL.html,21:30,.900,.900,.800,.000,0.0,0.0,0.0,7.1,0.0,0.0,0.0,11.1,159,119,3.6
+2021-03-02,202103020LAL,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202103020LAL.html,10:23,.000,.000,.000,.000,0.0,13.2,6.7,12.2,0.0,0.0,0.0,9.2,36,118,-17.7
+2021-03-02,202103020LAL,PHO,E'Twaun Moore,https://www.basketball-reference.com/boxscores/202103020LAL.html,5:25,,,,,0.0,0.0,0.0,23.3,0.0,18.5,,0.0,242,103,7.6
+2021-03-02,202103020LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202103020LAL.html,38:03,.453,.412,.294,.235,0.0,11.1,5.5,23.3,0.0,2.6,13.8,27.9,92,127,-7.4
+2021-03-02,202103020LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202103020LAL.html,37:38,.725,.729,.333,.208,0.0,18.8,9.2,39.1,2.7,2.7,10.3,37.8,133,120,16.3
+2021-03-02,202103020LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202103020LAL.html,33:40,1.000,1.000,.500,.000,4.1,21.0,12.4,0.0,1.5,5.9,25.0,11.6,138,119,3.6
+2021-03-02,202103020LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202103020LAL.html,31:20,.202,.111,.556,.222,0.0,22.5,11.1,4.0,3.3,0.0,0.0,15.4,51,120,-11.6
+2021-03-02,202103020LAL,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202103020LAL.html,18:30,.615,.500,.000,.500,14.8,0.0,7.5,7.5,0.0,5.4,0.0,12.9,148,126,-1.5
+2021-03-02,202103020LAL,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202103020LAL.html,22:43,.000,.000,.500,.000,0.0,6.2,3.1,0.0,2.3,4.4,33.3,6.4,0,121,-7.9
+2021-03-02,202103020LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202103020LAL.html,20:18,.717,.750,.750,.500,6.8,34.8,20.6,26.8,0.0,0.0,17.0,14.1,141,126,4.9
+2021-03-02,202103020LAL,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202103020LAL.html,18:59,.810,.778,.556,.222,7.2,14.9,11.0,0.0,0.0,0.0,16.8,30.5,128,129,0.1
+2021-03-02,202103020LAL,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202103020LAL.html,11:23,.000,.000,.500,.000,0.0,24.8,12.2,0.0,0.0,8.8,0.0,8.6,0,120,-14.0
+2021-03-02,202103020LAL,LAL,Damian Jones,https://www.basketball-reference.com/boxscores/202103020LAL.html,7:26,1.000,1.000,.000,.000,0.0,19.0,9.4,0.0,0.0,13.5,0.0,13.1,200,117,7.7

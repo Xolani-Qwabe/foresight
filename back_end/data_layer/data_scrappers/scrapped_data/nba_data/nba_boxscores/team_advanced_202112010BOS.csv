@@ -1,0 +1,20 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-01,202112010BOS,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202112010BOS.html,35:39,.632,.615,.231,.077,0.0,0.0,0.0,34.3,1.4,0.0,13.0,20.1,115,100,3.4
+2021-12-01,202112010BOS,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202112010BOS.html,33:14,.304,.206,.176,.588,11.6,48.1,28.3,30.2,3.1,8.5,0.0,29.9,85,82,10.5
+2021-12-01,202112010BOS,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202112010BOS.html,32:54,.231,.231,.154,.000,2.9,17.4,9.5,5.1,0.0,0.0,0.0,18.3,56,102,-11.5
+2021-12-01,202112010BOS,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202112010BOS.html,31:53,.364,.364,.364,.000,0.0,21.5,9.8,5.6,1.6,3.0,15.4,18.9,62,95,-5.6
+2021-12-01,202112010BOS,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202112010BOS.html,21:07,.500,.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.2,96,104,-5.5
+2021-12-01,202112010BOS,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202112010BOS.html,22:23,.673,.636,.273,.182,0.0,10.2,4.7,10.7,4.6,4.2,0.0,24.6,131,88,17.5
+2021-12-01,202112010BOS,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202112010BOS.html,22:15,.417,.417,.833,.000,0.0,15.4,7.0,7.5,2.3,4.2,25.0,16.7,63,92,-5.0
+2021-12-01,202112010BOS,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202112010BOS.html,19:23,.510,.400,.500,.400,0.0,5.9,2.7,0.0,0.0,4.9,0.0,28.1,105,98,2.6
+2021-12-01,202112010BOS,PHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202112010BOS.html,14:46,1.000,1.000,.000,.000,19.5,46.4,31.8,12.3,0.0,12.7,0.0,6.3,210,85,9.3
+2021-12-01,202112010BOS,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202112010BOS.html,6:24,,,,,0.0,17.9,8.2,68.2,0.0,0.0,100.0,7.2,83,102,2.8
+2021-12-01,202112010BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112010BOS.html,36:56,.586,.525,.400,.250,0.0,41.6,22.6,12.2,1.4,0.0,8.3,31.9,107,88,9.3
+2021-12-01,202112010BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202112010BOS.html,33:27,.353,.318,.364,.364,0.0,11.5,6.2,15.0,0.0,0.0,7.3,20.0,75,100,-5.1
+2021-12-01,202112010BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202112010BOS.html,32:03,.381,.357,.429,.286,0.0,6.0,3.3,39.9,3.2,0.0,27.6,16.5,83,95,0.3
+2021-12-01,202112010BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202112010BOS.html,30:47,.833,.833,.500,.000,3.7,21.8,13.6,5.8,0.0,10.8,14.3,11.1,136,88,8.5
+2021-12-01,202112010BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202112010BOS.html,25:16,.714,.714,.000,.000,9.0,7.6,8.3,0.0,0.0,9.8,12.5,15.4,124,93,4.8
+2021-12-01,202112010BOS,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202112010BOS.html,29:32,.472,.417,.333,.333,0.0,3.3,1.8,18.4,1.7,0.0,17.9,27.6,83,99,-1.4
+2021-12-01,202112010BOS,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202112010BOS.html,20:17,.500,.500,.429,.000,0.0,14.2,7.7,9.1,0.0,0.0,12.5,19.2,86,99,-3.2
+2021-12-01,202112010BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202112010BOS.html,17:08,.286,.286,.143,.000,6.7,33.6,21.3,0.0,0.0,4.8,12.5,22.7,56,89,-9.1
+2021-12-01,202112010BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202112010BOS.html,14:33,.750,.750,1.000,.000,0.0,6.6,3.6,0.0,3.5,0.0,0.0,6.7,136,93,2.6

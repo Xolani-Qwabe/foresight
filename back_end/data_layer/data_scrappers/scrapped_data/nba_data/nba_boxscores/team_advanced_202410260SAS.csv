@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-10-26,202410260SAS,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202410260SAS.html,38:37,.654,.583,.833,.333,0.0,6.9,3.0,27.4,3.8,0.0,12.7,17.5,127,110,6.6
+2024-10-26,202410260SAS,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202410260SAS.html,35:19,.667,.667,.583,.000,2.9,3.8,3.3,4.6,1.4,2.3,7.7,15.7,121,115,1.9
+2024-10-26,202410260SAS,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202410260SAS.html,33:03,.588,.523,.455,.273,3.1,20.2,10.5,30.9,0.0,0.0,7.5,34.5,117,116,6.5
+2024-10-26,202410260SAS,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202410260SAS.html,31:58,.350,.350,.400,.000,6.4,20.9,12.7,4.5,1.5,0.0,9.1,14.7,78,112,-8.4
+2024-10-26,202410260SAS,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202410260SAS.html,22:02,.338,.313,.250,.250,4.6,24.2,13.1,13.0,4.4,0.0,10.1,19.2,77,105,-4.4
+2024-10-26,202410260SAS,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202410260SAS.html,20:47,.442,.400,.300,.300,4.9,12.8,8.3,0.0,0.0,3.9,0.0,23.3,95,115,-3.5
+2024-10-26,202410260SAS,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202410260SAS.html,19:54,.129,.000,.667,.667,10.3,13.4,11.6,12.7,0.0,0.0,20.5,10.5,66,117,-11.4
+2024-10-26,202410260SAS,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202410260SAS.html,18:19,.500,.500,.333,.000,0.0,14.6,6.3,17.4,8.0,4.4,14.3,16.3,94,96,5.3
+2024-10-26,202410260SAS,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202410260SAS.html,13:37,.742,.714,.000,.571,0.0,19.6,8.5,0.0,0.0,0.0,0.0,27.5,145,116,10.0
+2024-10-26,202410260SAS,HOU,Reed Sheppard,https://www.basketball-reference.com/boxscores/202410260SAS.html,6:24,.000,.000,.500,.000,0.0,20.8,9.0,19.7,0.0,0.0,33.3,20.0,19,116,-20.8
+2024-10-26,202410260SAS,SAS,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202410260SAS.html,36:52,.571,.571,.071,.143,10.8,24.9,18.8,13.7,2.6,0.0,16.8,21.5,108,104,0.4
+2024-10-26,202410260SAS,SAS,Victor Wembanyama,https://www.basketball-reference.com/boxscores/202410260SAS.html,30:12,.707,.647,.294,.471,4.4,20.3,13.4,6.9,0.0,9.3,12.8,34.5,126,105,8.0
+2024-10-26,202410260SAS,SAS,Harrison Barnes,https://www.basketball-reference.com/boxscores/202410260SAS.html,27:42,.854,.833,.500,.167,0.0,11.1,6.3,5.4,0.0,3.4,0.0,10.3,174,111,5.8
+2024-10-26,202410260SAS,SAS,Chris Paul,https://www.basketball-reference.com/boxscores/202410260SAS.html,26:32,.500,.500,.667,.000,0.0,0.0,0.0,43.8,1.8,0.0,57.1,11.7,89,112,-3.5
+2024-10-26,202410260SAS,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202410260SAS.html,25:13,.676,.625,.500,.250,15.9,12.2,13.8,0.0,0.0,0.0,18.4,19.1,119,113,-0.8
+2024-10-26,202410260SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202410260SAS.html,29:26,.587,.500,.273,.545,4.5,24.3,15.7,0.0,1.7,0.0,0.0,20.5,130,107,0.8
+2024-10-26,202410260SAS,SAS,Stephon Castle,https://www.basketball-reference.com/boxscores/202410260SAS.html,26:31,.376,.250,.250,.750,0.0,3.9,2.2,15.3,3.7,3.5,22.0,22.8,75,104,-7.4
+2024-10-26,202410260SAS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202410260SAS.html,17:48,.410,.250,.000,.500,15.0,34.4,26.0,14.9,0.0,0.0,0.0,12.1,126,108,-2.1
+2024-10-26,202410260SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202410260SAS.html,13:41,.643,.600,.000,.200,0.0,22.4,12.7,24.6,0.0,13.8,26.9,24.1,101,101,5.9
+2024-10-26,202410260SAS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202410260SAS.html,6:03,.333,.333,.000,.000,0.0,16.9,9.6,51.1,0.0,0.0,0.0,22.0,104,112,-5.6

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-24,202301240LAL,LAC,Paul George,https://www.basketball-reference.com/boxscores/202301240LAL.html,36:14,.647,.625,.450,.100,4.4,21.6,15.1,14.5,0.0,2.4,16.1,32.1,119,119,-3.7
+2023-01-24,202301240LAL,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202301240LAL.html,35:19,.704,.688,.250,.250,9.1,19.4,15.5,11.3,2.8,4.9,5.3,24.9,147,112,5.2
+2023-01-24,202301240LAL,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202301240LAL.html,34:27,.750,.750,.000,.000,9.3,17.1,14.1,0.0,0.0,2.5,20.0,6.8,135,120,-5.2
+2023-01-24,202301240LAL,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202301240LAL.html,25:31,.723,.700,.700,.400,0.0,11.5,7.1,9.0,3.9,0.0,0.0,21.6,155,116,8.0
+2023-01-24,202301240LAL,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202301240LAL.html,9:32,.625,.625,.500,.000,0.0,10.3,6.4,0.0,0.0,0.0,0.0,19.6,126,124,-6.2
+2023-01-24,202301240LAL,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202301240LAL.html,25:46,.707,.692,.538,.077,0.0,11.4,7.1,24.5,0.0,0.0,13.0,28.0,137,124,0.7
+2023-01-24,202301240LAL,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202301240LAL.html,25:23,.854,.833,.417,.167,6.3,11.6,9.6,21.1,0.0,0.0,13.4,27.4,156,123,7.0
+2023-01-24,202301240LAL,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202301240LAL.html,23:42,.694,.750,1.000,1.000,6.8,20.7,15.4,24.8,0.0,3.7,41.0,9.6,136,119,4.7
+2023-01-24,202301240LAL,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202301240LAL.html,19:08,1.333,1.333,.667,.000,0.0,20.5,12.7,5.8,0.0,18.2,0.0,7.3,262,107,15.0
+2023-01-24,202301240LAL,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202301240LAL.html,2:55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-5.8
+2023-01-24,202301240LAL,LAC,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202301240LAL.html,2:03,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-5.1
+2023-01-24,202301240LAL,LAL,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301240LAL.html,35:12,.188,.188,.750,.000,5.6,0.0,3.5,13.4,1.4,0.0,11.1,11.0,73,142,-12.2
+2023-01-24,202301240LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202301240LAL.html,32:35,.737,.707,.483,.172,3.0,34.4,14.9,56.0,3.0,3.2,0.0,41.2,154,132,34.9
+2023-01-24,202301240LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301240LAL.html,32:15,.389,.389,.333,.000,0.0,9.9,3.8,0.0,3.1,3.2,10.0,13.3,70,134,-10.7
+2023-01-24,202301240LAL,LAL,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301240LAL.html,28:47,.656,.636,.273,.091,0.0,38.9,14.8,0.0,0.0,0.0,14.9,20.1,105,141,-6.4
+2023-01-24,202301240LAL,LAL,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301240LAL.html,27:53,.500,.500,.714,.000,0.0,5.7,2.2,14.0,0.0,3.7,0.0,10.8,117,142,-5.2
+2023-01-24,202301240LAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301240LAL.html,24:43,.454,.346,.308,1.000,4.0,0.0,2.5,28.4,4.0,0.0,9.7,36.1,100,136,-2.3
+2023-01-24,202301240LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202301240LAL.html,17:28,.833,.833,.667,.000,0.0,18.3,7.0,0.0,2.8,0.0,0.0,7.4,160,136,-0.7
+2023-01-24,202301240LAL,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202301240LAL.html,14:06,.546,.667,.000,.500,27.8,22.7,25.9,0.0,0.0,0.0,0.0,22.3,127,142,-7.0
+2023-01-24,202301240LAL,LAL,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202301240LAL.html,11:40,.400,.400,.400,.000,0.0,13.7,5.2,12.2,0.0,0.0,0.0,18.4,91,143,-13.2
+2023-01-24,202301240LAL,LAL,Damian Jones,https://www.basketball-reference.com/boxscores/202301240LAL.html,5:07,.000,.000,.000,.000,0.0,31.3,11.9,0.0,0.0,20.4,0.0,8.4,0,127,-14.4
+2023-01-24,202301240LAL,LAL,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202301240LAL.html,5:07,.521,.500,.000,1.000,0.0,0.0,0.0,28.8,0.0,0.0,0.0,24.2,121,146,-3.8
+2023-01-24,202301240LAL,LAL,Cole Swider,https://www.basketball-reference.com/boxscores/202301240LAL.html,5:07,.000,.000,1.000,.000,19.1,0.0,11.9,0.0,0.0,0.0,0.0,8.4,70,146,-15.8

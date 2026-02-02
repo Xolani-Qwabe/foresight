@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-13,202112130BOS,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202112130BOS.html,33:35,.571,.500,.214,.571,3.2,24.4,13.5,14.3,1.5,0.0,18.6,28.1,102,124,-1.2
+2021-12-13,202112130BOS,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202112130BOS.html,33:04,.577,.563,.188,.188,0.0,0.0,0.0,40.9,4.6,0.0,0.0,22.9,136,120,12.1
+2021-12-13,202112130BOS,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202112130BOS.html,31:30,.556,.556,.667,.000,0.0,3.7,1.8,4.5,3.2,3.9,10.0,13.9,104,120,-0.2
+2021-12-13,202112130BOS,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202112130BOS.html,26:33,.464,.464,.429,.000,12.3,22.0,17.0,12.4,0.0,4.6,6.7,24.7,103,124,-1.8
+2021-12-13,202112130BOS,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202112130BOS.html,23:49,.250,.250,.125,.000,9.2,29.5,19.0,16.8,0.0,0.0,27.3,20.2,62,126,-16.3
+2021-12-13,202112130BOS,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202112130BOS.html,30:25,.609,.545,.636,.273,7.2,26.9,16.7,9.8,1.7,0.0,7.5,19.2,127,123,3.6
+2021-12-13,202112130BOS,MIL,Rodney Hood,https://www.basketball-reference.com/boxscores/202112130BOS.html,24:50,.500,.500,.800,.000,0.0,18.9,9.1,10.7,0.0,0.0,16.7,10.6,96,128,-4.2
+2021-12-13,202112130BOS,MIL,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202112130BOS.html,13:06,.750,.750,.750,.000,8.3,17.9,12.9,11.2,0.0,9.4,0.0,13.4,161,122,11.5
+2021-12-13,202112130BOS,MIL,Javonte Smart,https://www.basketball-reference.com/boxscores/202112130BOS.html,11:44,.375,.375,.250,.000,0.0,10.0,4.8,0.0,4.3,0.0,33.3,22.4,49,119,-12.3
+2021-12-13,202112130BOS,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202112130BOS.html,6:28,.500,.500,.500,.000,16.9,0.0,8.7,0.0,0.0,0.0,0.0,13.5,122,132,-4.3
+2021-12-13,202112130BOS,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202112130BOS.html,2:28,1.025,1.000,.000,.500,44.2,0.0,22.9,0.0,0.0,0.0,0.0,43.3,216,132,47.5
+2021-12-13,202112130BOS,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202112130BOS.html,2:28,.000,.000,1.000,.000,0.0,47.5,22.9,0.0,0.0,0.0,0.0,17.8,0,123,-20.6
+2021-12-13,202112130BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112130BOS.html,38:04,.772,.780,.520,.200,3.1,11.5,7.4,22.1,4.0,0.0,9.9,37.1,132,105,18.0
+2021-12-13,202112130BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202112130BOS.html,34:11,.556,.556,.556,.000,6.8,9.6,8.3,15.0,0.0,2.6,0.0,12.3,136,113,0.5
+2021-12-13,202112130BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202112130BOS.html,29:58,.644,.577,.538,.308,0.0,14.6,7.5,24.0,3.4,3.0,16.9,27.7,115,104,7.1
+2021-12-13,202112130BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202112130BOS.html,29:44,.167,.167,.500,.000,3.9,14.7,9.5,42.9,0.0,0.0,0.0,9.4,127,113,-2.6
+2021-12-13,202112130BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202112130BOS.html,21:51,.833,.833,.000,.000,5.4,30.0,18.1,6.9,2.3,4.1,0.0,12.8,171,100,7.4
+2021-12-13,202112130BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202112130BOS.html,28:36,1.079,1.071,1.000,.286,0.0,26.7,13.8,4.8,0.0,0.0,11.3,14.5,166,109,9.4
+2021-12-13,202112130BOS,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202112130BOS.html,25:00,.322,.250,.500,.200,0.0,8.7,4.5,9.8,0.0,3.6,15.5,24.1,66,112,-14.9
+2021-12-13,202112130BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202112130BOS.html,17:17,.500,.500,.571,.000,6.8,12.6,9.8,16.0,0.0,5.1,0.0,18.9,119,110,2.8
+2021-12-13,202112130BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202112130BOS.html,4:51,.000,.000,1.000,.000,0.0,0.0,0.0,23.0,0.0,0.0,0.0,19.3,38,117,-21.6
+2021-12-13,202112130BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202112130BOS.html,3:00,,,,,39.0,0.0,18.8,0.0,0.0,0.0,100.0,15.6,67,118,-18.7
+2021-12-13,202112130BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202112130BOS.html,1:52,1.500,1.500,1.000,.000,0.0,58.4,30.3,0.0,0.0,0.0,0.0,25.0,300,100,52.3
+2021-12-13,202112130BOS,BOS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202112130BOS.html,1:52,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,25.0,0,118,-30.9
+2021-12-13,202112130BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202112130BOS.html,1:52,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-8.5
+2021-12-13,202112130BOS,BOS,Brodric Thomas,https://www.basketball-reference.com/boxscores/202112130BOS.html,1:52,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-7.5

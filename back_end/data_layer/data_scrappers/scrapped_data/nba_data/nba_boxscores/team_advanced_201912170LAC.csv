@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-17,201912170LAC,PHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/201912170LAC.html,29:22,.658,.679,.357,.071,3.0,12.3,7.0,5.9,4.6,2.9,25.7,25.3,88,107,2.6
+2019-12-17,201912170LAC,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/201912170LAC.html,26:08,.644,.500,1.000,.667,0.0,9.2,3.9,14.1,1.7,3.2,43.6,10.1,85,114,-2.9
+2019-12-17,201912170LAC,PHO,Ricky Rubio,https://www.basketball-reference.com/boxscores/201912170LAC.html,24:15,.167,.167,.250,.000,3.7,19.8,10.5,42.7,0.0,0.0,14.3,22.1,64,119,-13.3
+2019-12-17,201912170LAC,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/201912170LAC.html,24:13,.463,.474,.000,.053,25.7,24.8,25.3,25.7,0.0,3.5,9.3,33.9,100,115,2.2
+2019-12-17,201912170LAC,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/201912170LAC.html,23:42,.571,.571,.571,.000,3.8,25.3,12.9,5.8,0.0,0.0,12.5,12.9,105,118,-3.8
+2019-12-17,201912170LAC,PHO,Jevon Carter,https://www.basketball-reference.com/boxscores/201912170LAC.html,23:48,.450,.450,.500,.000,11.2,5.0,8.6,12.2,1.9,0.0,0.0,16.1,112,116,-0.6
+2019-12-17,201912170LAC,PHO,Elie Okobo,https://www.basketball-reference.com/boxscores/201912170LAC.html,23:45,.536,.500,.250,.375,3.7,5.1,4.3,24.6,3.8,0.0,24.4,19.9,94,112,-1.5
+2019-12-17,201912170LAC,PHO,Frank Kaminsky,https://www.basketball-reference.com/boxscores/201912170LAC.html,22:48,.432,.385,.385,.154,7.8,36.8,20.2,32.3,4.0,0.0,6.7,25.0,105,108,8.2
+2019-12-17,201912170LAC,PHO,Ty Jerome,https://www.basketball-reference.com/boxscores/201912170LAC.html,18:38,.479,.450,.400,.100,0.0,6.4,2.7,25.2,4.9,0.0,8.7,23.5,101,110,4.8
+2019-12-17,201912170LAC,PHO,Aron Baynes,https://www.basketball-reference.com/boxscores/201912170LAC.html,17:42,.200,.200,.800,.000,0.0,27.1,11.5,0.0,0.0,0.0,0.0,10.8,48,118,-13.9
+2019-12-17,201912170LAC,PHO,Cheick Diallo,https://www.basketball-reference.com/boxscores/201912170LAC.html,5:39,1.000,1.000,.000,.000,0.0,21.2,9.0,0.0,0.0,0.0,50.0,13.5,67,119,-7.8
+2019-12-17,201912170LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/201912170LAC.html,27:20,.585,.536,.214,.500,0.0,19.5,11.2,10.7,1.7,0.0,5.5,27.9,116,95,2.6
+2019-12-17,201912170LAC,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/201912170LAC.html,25:49,.643,.643,.429,.000,4.6,6.9,5.9,4.9,0.0,5.6,0.0,11.4,136,101,2.8
+2019-12-17,201912170LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/201912170LAC.html,24:38,.625,.559,.412,.294,0.0,10.8,6.2,6.6,5.5,0.0,13.5,38.1,107,90,6.0
+2019-12-17,201912170LAC,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/201912170LAC.html,22:45,.000,.000,.500,.000,5.3,7.8,6.7,9.4,8.0,3.1,33.3,5.6,61,84,4.9
+2019-12-17,201912170LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/201912170LAC.html,22:05,.685,.714,.000,.571,10.9,8.1,9.2,0.0,0.0,0.0,0.0,16.7,144,103,-1.6
+2019-12-17,201912170LAC,LAC,Landry Shamet,https://www.basketball-reference.com/boxscores/201912170LAC.html,25:30,.273,.167,.667,.500,0.0,7.0,4.0,17.5,0.0,0.0,0.0,12.1,87,104,-7.9
+2019-12-17,201912170LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/201912170LAC.html,22:54,.720,.731,.538,.154,0.0,7.8,4.5,55.3,0.0,0.0,30.2,36.7,110,104,6.1
+2019-12-17,201912170LAC,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/201912170LAC.html,22:44,.558,.538,.000,.077,10.6,11.7,11.2,21.0,2.0,3.2,13.0,28.7,110,96,3.0
+2019-12-17,201912170LAC,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/201912170LAC.html,21:18,.700,.700,.400,.000,0.0,45.9,26.4,0.0,6.4,0.0,16.7,11.9,107,73,6.9
+2019-12-17,201912170LAC,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/201912170LAC.html,12:56,.750,.750,1.000,.000,0.0,27.5,15.8,0.0,0.0,0.0,20.0,16.3,107,95,1.5
+2019-12-17,201912170LAC,LAC,Jerome Robinson,https://www.basketball-reference.com/boxscores/201912170LAC.html,5:39,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,300,107,11.5
+2019-12-17,201912170LAC,LAC,Johnathan Motley,https://www.basketball-reference.com/boxscores/201912170LAC.html,3:11,,,,,0.0,0.0,0.0,33.5,28.5,0.0,,0.0,231,42,26.7
+2019-12-17,201912170LAC,LAC,Derrick Walton,https://www.basketball-reference.com/boxscores/201912170LAC.html,3:11,,,,,0.0,27.9,16.0,33.5,0.0,0.0,,0.0,231,95,4.9

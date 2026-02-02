@@ -1,0 +1,82 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2019-10-23,201910230MIA,MEM,Q1,Jae Crowder,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.07,0,1,.000,0,1,.000,2,2,1.000,0,2,2,1,0,0,1,0,2,1.6,+2
+2019-10-23,201910230MIA,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.27,1,4,.250,0,2,.000,2,2,1.000,0,0,0,0,0,0,1,0,4,0.6,0
+2019-10-23,201910230MIA,MEM,Q1,Ja Morant,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.6,3,3,1.000,0,0,,0,0,,0,1,1,2,1,0,2,0,6,5.8,+1
+2019-10-23,201910230MIA,MEM,Q1,Dillon Brooks,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.6,2,4,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,1,5,2.6,+1
+2019-10-23,201910230MIA,MEM,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/201910230MIA.html,4.5,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,2,0,-0.8,-6
+2019-10-23,201910230MIA,MEM,Q1,Marko Gudurić,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.4,1,2,.500,0,1,.000,1,1,1.000,0,0,0,0,0,0,1,1,3,0.6,+7
+2019-10-23,201910230MIA,MEM,Q1,Tyus Jones,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.4,3,4,.750,0,0,,1,2,.500,0,0,0,1,1,0,0,0,7,6.7,+7
+2019-10-23,201910230MIA,MEM,Q1,Brandon Clarke,https://www.basketball-reference.com/boxscores/201910230MIA.html,7.5,1,2,.500,1,1,1.000,0,0,,0,1,1,1,0,0,0,1,3,2.6,+14
+2019-10-23,201910230MIA,MEM,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.73,1,1,1.000,0,0,,0,0,,0,3,3,0,0,0,0,0,2,2.6,+8
+2019-10-23,201910230MIA,MEM,Q1,Grayson Allen,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.93,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,+6
+2019-10-23,201910230MIA,MEM,Q2,Jae Crowder,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.38,2,4,.500,1,3,.333,1,2,.500,1,0,1,1,1,0,0,0,6,6.0,+8
+2019-10-23,201910230MIA,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.52,2,2,1.000,0,0,,3,3,1.000,0,2,2,0,0,0,0,0,7,7.0,+5
+2019-10-23,201910230MIA,MEM,Q2,Ja Morant,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.33,2,4,.500,0,0,,0,0,,0,2,2,0,0,1,2,3,4,0.1,-7
+2019-10-23,201910230MIA,MEM,Q2,Dillon Brooks,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.98,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-1.8,-6
+2019-10-23,201910230MIA,MEM,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.38,2,3,.667,0,0,,1,2,.500,0,0,0,0,1,0,1,2,5,2.5,-7
+2019-10-23,201910230MIA,MEM,Q2,Marko Gudurić,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.02,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,1,0,2,1.4,+4
+2019-10-23,201910230MIA,MEM,Q2,Tyus Jones,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.67,1,4,.250,0,1,.000,0,0,,0,0,0,3,0,0,1,2,2,-0.1,+5
+2019-10-23,201910230MIA,MEM,Q2,Brandon Clarke,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.83,0,1,.000,0,0,,0,0,,0,3,3,0,0,1,0,0,0,0.9,+9
+2019-10-23,201910230MIA,MEM,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.17,1,2,.500,0,0,,0,0,,3,1,4,0,1,0,1,1,2,3.0,-11
+2019-10-23,201910230MIA,MEM,Q2,Grayson Allen,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.72,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-10
+2019-10-23,201910230MIA,MEM,Q3,Jae Crowder,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.9,1,4,.250,1,4,.250,2,2,1.000,0,0,0,0,0,0,0,0,5,2.6,-6
+2019-10-23,201910230MIA,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.9,2,5,.400,0,3,.000,0,0,,1,0,1,0,0,2,0,3,4,2.2,-6
+2019-10-23,201910230MIA,MEM,Q3,Ja Morant,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.97,0,0,,0,0,,1,2,.500,0,0,0,1,0,0,1,1,1,-0.1,-5
+2019-10-23,201910230MIA,MEM,Q3,Dillon Brooks,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.27,1,1,1.000,0,0,,0,0,,0,4,4,0,1,1,0,2,2,3.8,-6
+2019-10-23,201910230MIA,MEM,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.27,1,4,.250,0,2,.000,0,0,,0,0,0,0,0,1,1,1,2,-1.1,-6
+2019-10-23,201910230MIA,MEM,Q3,Marko Gudurić,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.73,1,2,.500,0,0,,0,0,,0,2,2,1,0,0,1,0,2,1.3,+1
+2019-10-23,201910230MIA,MEM,Q3,Tyus Jones,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.03,2,3,.667,0,0,,1,1,1.000,0,0,0,1,0,0,1,2,5,2.6,0
+2019-10-23,201910230MIA,MEM,Q3,Brandon Clarke,https://www.basketball-reference.com/boxscores/201910230MIA.html,4.75,1,1,1.000,0,0,,1,1,1.000,1,0,1,0,0,0,0,0,3,3.4,+2
+2019-10-23,201910230MIA,MEM,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.1,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+1
+2019-10-23,201910230MIA,MEM,Q3,Grayson Allen,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.1,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,1,0,-1.1,+1
+2019-10-23,201910230MIA,MEM,Q3,Bruno Caboclo,https://www.basketball-reference.com/boxscores/201910230MIA.html,1.98,0,1,.000,0,0,,0,0,,1,2,3,0,0,1,0,0,0,1.3,-1
+2019-10-23,201910230MIA,MEM,Q4,Jae Crowder,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.93,0,2,.000,0,1,.000,0,0,,1,1,2,0,0,0,0,1,0,-0.8,-13
+2019-10-23,201910230MIA,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,7.25,0,1,.000,0,1,.000,2,4,.500,0,0,0,0,1,0,2,2,2,-1.3,-10
+2019-10-23,201910230MIA,MEM,Q4,Ja Morant,https://www.basketball-reference.com/boxscores/201910230MIA.html,9.25,1,5,.200,0,1,.000,1,2,.500,0,1,1,1,0,0,1,0,3,-0.5,-18
+2019-10-23,201910230MIA,MEM,Q4,Dillon Brooks,https://www.basketball-reference.com/boxscores/201910230MIA.html,2.32,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-5
+2019-10-23,201910230MIA,MEM,Q4,Marko Gudurić,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.95,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-6
+2019-10-23,201910230MIA,MEM,Q4,Tyus Jones,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.95,0,1,.000,0,0,,1,2,.500,0,1,1,2,1,0,0,0,1,2.6,-6
+2019-10-23,201910230MIA,MEM,Q4,Brandon Clarke,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.97,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.0,-19
+2019-10-23,201910230MIA,MEM,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.83,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-5
+2019-10-23,201910230MIA,MEM,Q4,Grayson Allen,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.05,2,3,.667,1,2,.500,0,0,,0,1,1,0,0,0,2,0,5,2.0,-14
+2019-10-23,201910230MIA,MEM,Q4,Bruno Caboclo,https://www.basketball-reference.com/boxscores/201910230MIA.html,2.75,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,1,0,2,-0.7,-2
+2019-10-23,201910230MIA,MEM,Q4,De'Anthony Melton,https://www.basketball-reference.com/boxscores/201910230MIA.html,2.75,0,0,,0,0,,0,2,.000,0,0,0,2,1,0,0,0,0,1.6,-2
+2019-10-23,201910230MIA,MIA,Q1,Justise Winslow,https://www.basketball-reference.com/boxscores/201910230MIA.html,10.53,1,4,.250,0,1,.000,4,6,.667,1,0,1,2,0,1,1,1,6,4.2,-7
+2019-10-23,201910230MIA,MIA,Q1,Tyler Herro,https://www.basketball-reference.com/boxscores/201910230MIA.html,9.9,2,4,.500,0,0,,1,1,1.000,0,2,2,1,1,0,0,1,5,4.9,0
+2019-10-23,201910230MIA,MIA,Q1,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.28,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,4,2.6,+6
+2019-10-23,201910230MIA,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.07,1,3,.333,0,0,,0,0,,0,1,1,0,1,0,3,2,2,-2.2,-2
+2019-10-23,201910230MIA,MIA,Q1,Meyers Leonard,https://www.basketball-reference.com/boxscores/201910230MIA.html,7.23,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,0,0,1,0,0.2,-5
+2019-10-23,201910230MIA,MIA,Q1,Goran Dragić,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.72,1,3,.333,0,0,,0,0,,0,3,3,1,0,1,1,0,2,1.6,-14
+2019-10-23,201910230MIA,MIA,Q1,Duncan Robinson,https://www.basketball-reference.com/boxscores/201910230MIA.html,2.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8
+2019-10-23,201910230MIA,MIA,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201910230MIA.html,4.77,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,1,1,3,1.6,-3
+2019-10-23,201910230MIA,MIA,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.4,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,1,2,2,-0.1,-7
+2019-10-23,201910230MIA,MIA,Q2,Justise Winslow,https://www.basketball-reference.com/boxscores/201910230MIA.html,9.68,3,6,.500,0,0,,0,1,.000,1,0,1,2,1,0,0,0,6,5.7,+4
+2019-10-23,201910230MIA,MIA,Q2,Tyler Herro,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.38,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-2.8,-8
+2019-10-23,201910230MIA,MIA,Q2,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.97,1,4,.250,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,4,0.6,-2
+2019-10-23,201910230MIA,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/201910230MIA.html,7.08,2,3,.667,0,0,,3,4,.750,3,5,8,1,0,0,1,1,7,8.2,+6
+2019-10-23,201910230MIA,MIA,Q2,Meyers Leonard,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.95,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-5
+2019-10-23,201910230MIA,MIA,Q2,Goran Dragić,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.13,0,1,.000,0,0,,4,4,1.000,0,0,0,1,0,1,1,0,4,3.7,+5
+2019-10-23,201910230MIA,MIA,Q2,Duncan Robinson,https://www.basketball-reference.com/boxscores/201910230MIA.html,10.9,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,1,2,3,0.9,+1
+2019-10-23,201910230MIA,MIA,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201910230MIA.html,7.95,0,1,.000,0,0,,4,4,1.000,1,2,3,0,1,1,0,1,4,5.9,+7
+2019-10-23,201910230MIA,MIA,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,0.85,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,+2
+2019-10-23,201910230MIA,MIA,Q2,Chris Silva,https://www.basketball-reference.com/boxscores/201910230MIA.html,0.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2019-10-23,201910230MIA,MIA,Q3,Justise Winslow,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.95,2,2,1.000,0,0,,0,0,,0,1,1,1,0,0,1,0,4,3.4,+7
+2019-10-23,201910230MIA,MIA,Q3,Tyler Herro,https://www.basketball-reference.com/boxscores/201910230MIA.html,10.63,2,5,.400,0,1,.000,0,0,,0,4,4,0,0,0,0,1,4,2.1,+4
+2019-10-23,201910230MIA,MIA,Q3,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.58,2,5,.400,0,1,.000,1,1,1.000,0,0,0,1,0,0,0,2,5,2.2,+8
+2019-10-23,201910230MIA,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/201910230MIA.html,8.9,0,1,.000,0,0,,5,6,.833,1,1,2,2,0,0,1,0,5,5.3,+6
+2019-10-23,201910230MIA,MIA,Q3,Meyers Leonard,https://www.basketball-reference.com/boxscores/201910230MIA.html,7.5,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,+4
+2019-10-23,201910230MIA,MIA,Q3,Goran Dragić,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.42,2,3,.667,2,3,.667,5,6,.833,0,0,0,0,0,0,2,1,11,6.9,-1
+2019-10-23,201910230MIA,MIA,Q3,Duncan Robinson,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.42,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-3
+2019-10-23,201910230MIA,MIA,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.1,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-1
+2019-10-23,201910230MIA,MIA,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,4.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2
+2019-10-23,201910230MIA,MIA,Q3,Chris Silva,https://www.basketball-reference.com/boxscores/201910230MIA.html,0.43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2019-10-23,201910230MIA,MIA,Q4,Justise Winslow,https://www.basketball-reference.com/boxscores/201910230MIA.html,9.8,4,9,.444,1,1,1.000,2,2,1.000,0,4,4,2,0,0,1,1,11,7.5,+18
+2019-10-23,201910230MIA,MIA,Q4,Tyler Herro,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.98,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,1,0,0,0,5,5.7,+14
+2019-10-23,201910230MIA,MIA,Q4,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201910230MIA.html,9.68,5,7,.714,1,1,1.000,0,0,,0,2,2,2,2,0,0,1,11,11.7,+15
+2019-10-23,201910230MIA,MIA,Q4,Goran Dragić,https://www.basketball-reference.com/boxscores/201910230MIA.html,3.85,1,2,.500,0,1,.000,0,0,,0,0,0,1,1,0,0,0,2,2.7,+10
+2019-10-23,201910230MIA,MIA,Q4,Duncan Robinson,https://www.basketball-reference.com/boxscores/201910230MIA.html,4.52,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+7
+2019-10-23,201910230MIA,MIA,Q4,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201910230MIA.html,6.4,0,0,,0,0,,0,0,,0,2,2,0,0,1,1,2,0,-0.5,+18
+2019-10-23,201910230MIA,MIA,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201910230MIA.html,5.58,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+7
+2019-10-23,201910230MIA,MIA,Q4,Chris Silva,https://www.basketball-reference.com/boxscores/201910230MIA.html,10.85,3,3,1.000,0,0,,2,2,1.000,3,3,6,0,0,3,2,5,8,8.2,+19
+2019-10-23,201910230MIA,MIA,Q4,Daryl Macon,https://www.basketball-reference.com/boxscores/201910230MIA.html,1.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2019-10-23,201910230MIA,MIA,Q4,KZ Okpala,https://www.basketball-reference.com/boxscores/201910230MIA.html,1.17,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-4

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-27,201912270ATL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/201912270ATL.html,25:19,.605,.605,.316,.000,4.3,22.9,14.9,49.1,0.0,0.0,13.6,36.4,111,85,7.8
+2019-12-27,201912270ATL,MIL,Ersan İlyasova,https://www.basketball-reference.com/boxscores/201912270ATL.html,24:22,1.014,1.000,.250,.250,13.4,47.5,32.8,0.0,0.0,3.9,18.4,18.7,155,76,12.2
+2019-12-27,201912270ATL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/201912270ATL.html,23:29,.638,.643,.286,.143,0.0,7.0,4.0,34.5,0.0,12.3,11.8,30.1,115,81,12.3
+2019-12-27,201912270ATL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/201912270ATL.html,22:42,.512,.375,.125,.500,0.0,7.3,4.1,10.7,5.9,4.2,9.3,19.8,103,73,3.7
+2019-12-27,201912270ATL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/201912270ATL.html,19:16,.000,.000,.667,.000,0.0,17.2,9.8,5.4,0.0,5.0,0.0,6.5,22,82,-9.7
+2019-12-27,201912270ATL,MIL,Sterling Brown,https://www.basketball-reference.com/boxscores/201912270ATL.html,25:00,.357,.357,.571,.000,0.0,9.9,5.6,0.0,1.8,0.0,30.0,16.7,47,84,-13.0
+2019-12-27,201912270ATL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/201912270ATL.html,22:22,.438,.438,.375,.000,4.9,37.0,23.1,21.7,2.0,0.0,27.3,20.6,81,77,-0.6
+2019-12-27,201912270ATL,MIL,Robin Lopez,https://www.basketball-reference.com/boxscores/201912270ATL.html,20:43,.536,.625,.000,.375,0.0,4.0,2.3,6.7,0.0,9.3,0.0,18.8,103,84,0.8
+2019-12-27,201912270ATL,MIL,George Hill,https://www.basketball-reference.com/boxscores/201912270ATL.html,20:04,.571,.571,.000,.000,0.0,12.4,7.0,13.1,2.2,0.0,30.0,20.9,81,83,-6.8
+2019-12-27,201912270ATL,MIL,Kyle Korver,https://www.basketball-reference.com/boxscores/201912270ATL.html,17:37,.820,.750,1.000,.500,0.0,4.7,2.7,20.2,5.1,0.0,17.0,14.0,142,79,11.4
+2019-12-27,201912270ATL,MIL,D.J. Wilson,https://www.basketball-reference.com/boxscores/201912270ATL.html,12:10,.000,.000,.500,.000,0.0,20.4,11.6,17.2,0.0,0.0,0.0,6.9,55,86,-4.2
+2019-12-27,201912270ATL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/201912270ATL.html,6:56,.667,.667,.333,.000,15.7,0.0,6.8,43.1,6.5,0.0,0.0,18.1,155,75,14.5
+2019-12-27,201912270ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/201912270ATL.html,27:04,.607,.556,.444,.222,3.1,8.1,5.2,20.5,0.0,0.0,16.8,18.3,107,112,-1.9
+2019-12-27,201912270ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/201912270ATL.html,26:03,.321,.321,.429,.000,6.4,58.6,28.9,14.4,0.0,8.8,12.5,25.6,66,98,-5.8
+2019-12-27,201912270ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/201912270ATL.html,22:42,.313,.313,.500,.000,0.0,0.0,0.0,7.3,4.0,0.0,27.3,20.2,47,105,-11.9
+2019-12-27,201912270ATL,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/201912270ATL.html,15:39,.361,.429,.286,.429,10.6,34.9,21.0,12.9,2.9,4.9,10.7,24.8,74,98,-5.5
+2019-12-27,201912270ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/201912270ATL.html,15:12,.694,.667,.667,1.000,0.0,0.0,0.0,26.8,0.0,0.0,31.6,34.7,94,113,-3.3
+2019-12-27,201912270ATL,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/201912270ATL.html,30:06,.458,.458,.333,.000,0.0,18.1,7.8,6.4,1.5,2.5,7.7,18.0,83,106,-2.8
+2019-12-27,201912270ATL,ATL,Allen Crabbe,https://www.basketball-reference.com/boxscores/201912270ATL.html,21:01,.883,.900,.700,.300,0.0,20.8,9.0,0.0,6.4,0.0,8.1,24.4,141,97,20.0
+2019-12-27,201912270ATL,ATL,Damian Jones,https://www.basketball-reference.com/boxscores/201912270ATL.html,18:56,.200,.200,.200,.000,13.1,5.8,9.9,8.3,2.4,8.0,16.7,13.2,64,100,-6.9
+2019-12-27,201912270ATL,ATL,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/201912270ATL.html,15:17,.563,.563,.250,.000,0.0,7.1,3.1,30.7,2.9,0.0,11.1,24.5,100,106,4.3
+2019-12-27,201912270ATL,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/201912270ATL.html,14:13,.000,.000,.667,.000,0.0,23.0,9.9,20.5,3.2,0.0,0.0,17.6,19,104,-13.9
+2019-12-27,201912270ATL,ATL,Vince Carter,https://www.basketball-reference.com/boxscores/201912270ATL.html,12:27,.000,.000,1.000,.000,0.0,0.0,0.0,23.4,0.0,0.0,0.0,3.3,77,113,-7.6
+2019-12-27,201912270ATL,ATL,Chandler Parsons,https://www.basketball-reference.com/boxscores/201912270ATL.html,10:57,.000,.000,.500,.000,0.0,10.0,4.3,13.3,0.0,7.0,20.0,19.0,11,106,-16.2
+2019-12-27,201912270ATL,ATL,Evan Turner,https://www.basketball-reference.com/boxscores/201912270ATL.html,10:23,.000,.000,.000,.000,0.0,21.0,9.1,28.0,0.0,0.0,50.0,8.0,43,111,-10.4

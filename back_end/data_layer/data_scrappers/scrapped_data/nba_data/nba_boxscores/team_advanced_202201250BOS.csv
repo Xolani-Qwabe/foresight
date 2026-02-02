@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-25,202201250BOS,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202201250BOS.html,29:48,.155,.083,.500,.167,5.0,6.9,5.8,11.8,0.0,0.0,0.0,18.6,49,141,-14.9
+2022-01-25,202201250BOS,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202201250BOS.html,27:18,.339,.222,.556,.333,8.1,7.5,7.8,48.3,1.8,3.0,16.2,19.4,85,135,-2.1
+2022-01-25,202201250BOS,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202201250BOS.html,23:32,.654,.667,.000,.333,3.1,34.7,16.4,0.0,0.0,0.0,0.0,12.6,133,130,-2.9
+2022-01-25,202201250BOS,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202201250BOS.html,20:33,.429,.429,.143,.000,0.0,29.8,12.5,0.0,2.4,4.0,12.5,16.7,74,124,-6.4
+2022-01-25,202201250BOS,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202201250BOS.html,9:33,.554,.500,.400,.600,0.0,21.4,9.0,26.5,0.0,0.0,0.0,28.5,120,135,9.1
+2022-01-25,202201250BOS,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202201250BOS.html,29:39,.200,.200,.333,.000,0.0,3.4,1.4,13.4,1.7,0.0,16.7,26.1,40,139,-19.6
+2022-01-25,202201250BOS,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202201250BOS.html,24:02,.393,.393,.643,.000,6.1,12.7,8.9,9.5,2.1,0.0,12.5,28.6,76,134,-5.3
+2022-01-25,202201250BOS,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202201250BOS.html,16:13,.694,.500,.000,1.000,9.1,0.0,5.3,0.0,3.1,10.2,0.0,7.6,159,131,-1.0
+2022-01-25,202201250BOS,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202201250BOS.html,14:39,.429,.429,.000,.000,5.0,7.0,5.9,0.0,0.0,0.0,22.2,26.4,67,141,-15.8
+2022-01-25,202201250BOS,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202201250BOS.html,12:28,.300,.300,.400,.000,5.9,8.2,6.9,0.0,8.0,6.6,0.0,17.3,72,118,1.9
+2022-01-25,202201250BOS,SAC,Louis King,https://www.basketball-reference.com/boxscores/202201250BOS.html,12:00,.510,.500,.400,.400,0.0,8.5,3.6,19.0,0.0,0.0,0.0,21.1,110,141,-2.6
+2022-01-25,202201250BOS,SAC,Robert Woodard II,https://www.basketball-reference.com/boxscores/202201250BOS.html,12:00,.000,.000,.250,.000,12.3,17.0,14.3,13.8,0.0,6.9,0.0,14.3,33,133,-10.4
+2022-01-25,202201250BOS,SAC,Neemias Queta,https://www.basketball-reference.com/boxscores/202201250BOS.html,8:15,.676,.750,.000,.250,9.0,12.4,10.4,0.0,0.0,20.1,0.0,23.1,127,128,9.9
+2022-01-25,202201250BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202201250BOS.html,31:03,.754,.761,.609,.087,6.6,4.8,5.5,31.6,0.0,2.5,7.7,34.2,149,87,22.5
+2022-01-25,202201250BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202201250BOS.html,27:22,.770,.750,.000,.125,26.1,27.0,26.6,17.3,5.5,5.7,0.0,12.6,188,60,21.7
+2022-01-25,202201250BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202201250BOS.html,23:57,.738,.711,.632,.158,0.0,30.8,17.9,20.8,0.0,0.0,0.0,34.8,160,73,21.2
+2022-01-25,202201250BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202201250BOS.html,23:38,.000,.000,.333,.000,0.0,9.4,5.4,27.9,2.1,0.0,50.0,10.4,69,82,-7.3
+2022-01-25,202201250BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202201250BOS.html,22:43,.167,.167,.222,.000,13.5,16.3,15.1,8.6,0.0,3.4,0.0,16.2,83,80,-7.6
+2022-01-25,202201250BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202201250BOS.html,23:27,.667,.667,.500,.000,8.7,3.1,5.5,13.7,0.0,3.3,14.3,12.2,142,88,5.6
+2022-01-25,202201250BOS,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202201250BOS.html,22:28,.778,.778,.444,.000,4.5,23.0,15.3,5.6,0.0,3.4,18.2,20.1,125,76,5.9
+2022-01-25,202201250BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202201250BOS.html,19:14,.592,.563,.500,.125,5.3,11.5,8.9,0.0,0.0,0.0,0.0,18.0,135,85,-1.8
+2022-01-25,202201250BOS,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202201250BOS.html,16:02,.200,.200,.200,.000,0.0,18.4,10.7,12.5,3.1,0.0,16.7,15.3,63,74,-10.0
+2022-01-25,202201250BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202201250BOS.html,12:00,.000,.000,.000,.000,8.5,18.5,14.3,0.0,0.0,0.0,50.0,13.7,19,80,-19.4
+2022-01-25,202201250BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202201250BOS.html,9:03,.500,.500,.333,.000,0.0,8.2,4.7,11.6,0.0,0.0,0.0,13.6,131,87,1.4
+2022-01-25,202201250BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202201250BOS.html,9:03,.563,.563,.375,.000,0.0,8.2,4.7,53.4,5.5,0.0,0.0,36.2,140,75,19.7

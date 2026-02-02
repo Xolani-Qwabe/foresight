@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-14,202403140BOS,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202403140BOS.html,37:50,.528,.475,.300,.200,0.0,6.7,3.0,25.0,0.0,0.0,0.0,23.7,138,140,0.8
+2024-03-14,202403140BOS,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202403140BOS.html,35:53,1.111,1.111,.556,.000,2.9,7.0,4.8,0.0,1.4,0.0,18.2,12.6,162,137,5.6
+2024-03-14,202403140BOS,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202403140BOS.html,35:34,.615,.588,.235,.118,2.9,7.1,4.8,27.1,1.4,3.5,14.4,24.2,127,134,5.5
+2024-03-14,202403140BOS,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202403140BOS.html,34:09,.503,.500,.158,.105,0.0,11.1,5.0,4.1,0.0,3.6,13.1,27.6,97,137,-6.9
+2024-03-14,202403140BOS,PHO,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202403140BOS.html,30:47,.405,.444,.000,.222,23.7,53.3,37.1,23.0,1.7,4.0,16.8,15.9,112,127,4.7
+2024-03-14,202403140BOS,PHO,Royce O'Neale,https://www.basketball-reference.com/boxscores/202403140BOS.html,27:02,.000,.000,.714,.000,3.9,18.7,10.6,15.1,0.0,0.0,12.5,12.2,46,139,-13.8
+2024-03-14,202403140BOS,PHO,Bol Bol,https://www.basketball-reference.com/boxscores/202403140BOS.html,15:05,1.000,1.000,.400,.000,13.8,16.7,15.2,0.0,0.0,0.0,0.0,13.7,204,139,11.9
+2024-03-14,202403140BOS,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202403140BOS.html,10:33,.250,.250,.667,.000,29.7,23.9,27.1,10.7,4.9,0.0,14.3,27.4,83,126,-7.2
+2024-03-14,202403140BOS,PHO,Drew Eubanks,https://www.basketball-reference.com/boxscores/202403140BOS.html,4:13,.000,.000,.000,.000,74.2,0.0,40.7,0.0,0.0,0.0,0.0,19.6,84,141,-20.8
+2024-03-14,202403140BOS,PHO,Nassir Little,https://www.basketball-reference.com/boxscores/202403140BOS.html,2:58,.000,.000,1.000,.000,0.0,42.6,19.3,0.0,0.0,0.0,0.0,13.9,0,135,-19.6
+2024-03-14,202403140BOS,PHO,David Roddy,https://www.basketball-reference.com/boxscores/202403140BOS.html,2:58,.667,.667,.333,.000,0.0,42.6,19.3,0.0,0.0,0.0,25.0,55.6,88,135,-5.3
+2024-03-14,202403140BOS,PHO,Thaddeus Young,https://www.basketball-reference.com/boxscores/202403140BOS.html,2:58,1.000,1.000,.000,.000,35.2,0.0,19.3,52.5,0.0,0.0,0.0,13.9,209,141,28.4
+2024-03-14,202403140BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202403140BOS.html,33:26,.722,.717,.391,.261,0.0,15.6,8.5,16.0,3.1,0.0,3.8,37.6,135,118,8.9
+2024-03-14,202403140BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202403140BOS.html,33:26,.500,.500,.692,.000,3.8,21.8,13.7,18.0,3.1,2.1,0.0,18.3,123,114,1.5
+2024-03-14,202403140BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202403140BOS.html,33:05,.900,.900,1.000,.000,0.0,0.0,0.0,34.0,3.1,4.3,0.0,7.1,207,123,13.9
+2024-03-14,202403140BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202403140BOS.html,33:05,.673,.667,.444,.167,3.8,12.6,8.6,22.3,0.0,0.0,13.4,31.8,123,126,-0.5
+2024-03-14,202403140BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202403140BOS.html,32:48,.806,.786,.714,.143,7.7,3.2,5.2,12.4,4.7,2.2,6.3,22.8,153,119,13.0
+2024-03-14,202403140BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202403140BOS.html,22:36,.571,.571,.714,.000,0.0,18.5,10.1,10.5,2.3,0.0,0.0,14.6,124,119,-0.2
+2024-03-14,202403140BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202403140BOS.html,19:07,.500,.500,.333,.000,6.6,10.9,9.0,5.6,2.7,0.0,50.0,14.8,68,121,-12.1
+2024-03-14,202403140BOS,BOS,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202403140BOS.html,17:55,.625,.625,.750,.000,7.1,17.5,12.8,6.4,0.0,3.9,0.0,10.5,143,122,-2.7
+2024-03-14,202403140BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202403140BOS.html,11:34,.500,.500,.000,.000,0.0,9.0,4.9,9.7,4.4,0.0,0.0,8.1,124,118,-2.7
+2024-03-14,202403140BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202403140BOS.html,2:58,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-8.2

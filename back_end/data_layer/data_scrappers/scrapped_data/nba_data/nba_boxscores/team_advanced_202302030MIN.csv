@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-03,202302030MIN,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202302030MIN.html,33:32,.571,.643,.143,.286,3.4,17.5,10.3,14.6,0.0,0.0,33.7,14.6,90,122,-8.4
+2023-02-03,202302030MIN,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202302030MIN.html,33:21,.276,.188,.125,.563,6.9,21.1,13.9,14.2,1.4,0.0,16.7,29.5,69,117,-17.6
+2023-02-03,202302030MIN,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202302030MIN.html,29:54,.638,.600,.100,.400,11.5,3.9,7.7,13.6,3.1,0.0,7.8,17.5,139,119,3.4
+2023-02-03,202302030MIN,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202302030MIN.html,24:47,.750,.750,.833,.000,0.0,14.2,7.0,4.9,0.0,0.0,0.0,10.0,161,123,-1.4
+2023-02-03,202302030MIN,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202302030MIN.html,20:48,.611,.611,.778,.000,5.5,16.9,11.1,12.9,2.2,5.4,10.0,19.8,126,114,3.8
+2023-02-03,202302030MIN,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202302030MIN.html,26:33,.868,.875,.250,1.000,17.2,17.6,17.4,31.8,1.8,4.2,14.8,20.9,165,116,15.2
+2023-02-03,202302030MIN,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202302030MIN.html,21:25,.726,.650,.200,.700,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.1,156,127,2.7
+2023-02-03,202302030MIN,ORL,Bol Bol,https://www.basketball-reference.com/boxscores/202302030MIN.html,16:11,.678,.667,.111,.333,0.0,21.7,10.7,0.0,2.9,6.9,22.5,33.8,99,111,-3.5
+2023-02-03,202302030MIN,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202302030MIN.html,15:51,.868,1.000,.500,1.000,0.0,14.8,7.3,25.3,8.8,0.0,0.0,14.9,183,102,21.6
+2023-02-03,202302030MIN,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202302030MIN.html,9:53,.827,.800,.000,.200,11.6,23.7,17.6,0.0,4.7,0.0,0.0,22.6,172,109,12.5
+2023-02-03,202302030MIN,ORL,Kevon Harris,https://www.basketball-reference.com/boxscores/202302030MIN.html,7:45,.000,.000,.000,.000,14.7,0.0,7.5,0.0,6.0,0.0,0.0,5.3,75,113,-4.3
+2023-02-03,202302030MIN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202302030MIN.html,37:49,.490,.367,.467,.667,0.0,15.1,7.6,18.9,1.2,2.0,17.1,24.9,100,124,-5.5
+2023-02-03,202302030MIN,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202302030MIN.html,37:38,.653,.600,.800,.250,3.1,27.3,15.4,26.8,2.5,2.1,21.3,30.1,115,118,6.2
+2023-02-03,202302030MIN,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202302030MIN.html,26:15,.778,.714,.000,.857,8.9,21.8,15.4,5.9,3.6,0.0,9.4,16.3,153,118,5.3
+2023-02-03,202302030MIN,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202302030MIN.html,22:52,.621,.583,.167,.167,5.1,10.0,7.6,6.2,0.0,6.8,23.7,14.8,105,125,-1.3
+2023-02-03,202302030MIN,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202302030MIN.html,5:22,,,,,0.0,0.0,0.0,0.0,0.0,14.4,,0.0,0,122,-2.5
+2023-02-03,202302030MIN,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202302030MIN.html,20:47,.672,.714,.571,.143,11.3,5.5,8.3,7.5,2.2,3.7,21.2,18.3,113,122,-1.2
+2023-02-03,202302030MIN,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202302030MIN.html,19:25,.667,.667,.667,.000,0.0,11.8,6.0,15.2,0.0,0.0,33.3,18.6,94,129,-4.8
+2023-02-03,202302030MIN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202302030MIN.html,16:53,.254,.143,.286,.286,0.0,20.3,10.3,15.3,0.0,0.0,11.3,21.2,68,126,-16.5
+2023-02-03,202302030MIN,MIN,Matt Ryan,https://www.basketball-reference.com/boxscores/202302030MIN.html,15:07,.667,.667,.833,.000,0.0,0.0,0.0,0.0,3.1,0.0,0.0,16.0,137,124,0.5
+2023-02-03,202302030MIN,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202302030MIN.html,11:03,.347,.000,.500,1.000,10.6,10.3,10.5,0.0,0.0,7.0,0.0,10.5,105,124,-8.2
+2023-02-03,202302030MIN,MIN,Austin Rivers,https://www.basketball-reference.com/boxscores/202302030MIN.html,10:26,.000,.000,.500,.000,0.0,0.0,0.0,11.5,0.0,0.0,0.0,7.7,39,132,-13.1
+2023-02-03,202302030MIN,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202302030MIN.html,10:06,.900,.889,.333,.111,58.0,11.3,34.4,70.6,0.0,0.0,0.0,37.6,188,127,30.9
+2023-02-03,202302030MIN,MIN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202302030MIN.html,6:17,,,,,0.0,0.0,0.0,19.1,0.0,0.0,100.0,6.4,49,130,-13.6

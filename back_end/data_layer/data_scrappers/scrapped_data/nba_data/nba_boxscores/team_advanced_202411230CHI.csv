@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-23,202411230CHI,MEM,Jaylen Wells,https://www.basketball-reference.com/boxscores/202411230CHI.html,31:37,.929,.929,.714,.000,4.0,9.9,7.2,22.9,0.0,0.0,0.0,17.9,194,131,13.2
+2024-11-23,202411230CHI,MEM,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202411230CHI.html,31:28,.912,.906,.375,.063,0.0,6.6,3.6,43.4,0.0,0.0,19.6,26.2,153,132,9.5
+2024-11-23,202411230CHI,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202411230CHI.html,30:03,.391,.321,.357,.429,8.4,17.4,13.3,6.6,0.0,2.9,10.7,25.1,94,127,-14.0
+2024-11-23,202411230CHI,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202411230CHI.html,26:06,.621,.567,.467,.533,9.7,8.0,8.8,17.5,1.8,6.7,5.1,30.2,140,122,5.2
+2024-11-23,202411230CHI,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202411230CHI.html,24:11,.932,1.000,.000,.167,10.4,25.9,18.9,9.2,0.0,0.0,0.0,10.8,193,127,3.7
+2024-11-23,202411230CHI,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202411230CHI.html,23:47,.625,.625,.625,.000,5.3,13.2,9.6,8.6,1.9,0.0,0.0,13.6,148,126,-0.1
+2024-11-23,202411230CHI,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202411230CHI.html,23:36,.460,.450,.400,.200,16.1,31.0,24.2,21.7,3.9,0.0,21.6,23.8,107,117,-2.7
+2024-11-23,202411230CHI,MEM,Jay Huff,https://www.basketball-reference.com/boxscores/202411230CHI.html,19:05,1.017,1.083,.500,.333,6.6,21.9,15.0,5.9,2.4,4.6,0.0,14.6,198,119,14.4
+2024-11-23,202411230CHI,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202411230CHI.html,18:28,.167,.167,.333,.000,6.8,17.0,12.4,29.8,0.0,0.0,14.3,15.3,98,129,-9.8
+2024-11-23,202411230CHI,MEM,Cam Spencer,https://www.basketball-reference.com/boxscores/202411230CHI.html,11:37,1.000,1.000,.000,.000,0.0,9.0,4.9,0.0,0.0,0.0,0.0,3.5,200,131,-9.1
+2024-11-23,202411230CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202411230CHI.html,34:10,.670,.605,.316,.316,0.0,11.1,5.0,0.0,2.7,0.0,4.4,27.3,128,135,1.3
+2024-11-23,202411230CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202411230CHI.html,29:54,.463,.455,.364,.182,7.0,8.4,7.6,18.9,1.5,3.0,7.8,17.8,114,136,-4.0
+2024-11-23,202411230CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202411230CHI.html,29:20,.508,.571,.571,.286,0.0,4.3,1.9,18.6,0.0,0.0,11.3,12.5,112,143,-7.1
+2024-11-23,202411230CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202411230CHI.html,28:02,.781,.714,.286,.429,14.9,18.0,16.3,15.3,1.7,0.0,23.1,31.8,128,135,2.6
+2024-11-23,202411230CHI,CHI,Josh Giddey,https://www.basketball-reference.com/boxscores/202411230CHI.html,21:02,.600,.600,.400,.000,5.0,36.0,19.0,48.6,0.0,8.5,0.0,19.6,153,131,14.4
+2024-11-23,202411230CHI,CHI,Matas Buzelis,https://www.basketball-reference.com/boxscores/202411230CHI.html,29:24,.521,.538,.385,.077,3.5,8.6,5.8,4.2,0.0,3.0,6.9,20.3,102,140,-8.1
+2024-11-23,202411230CHI,CHI,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202411230CHI.html,17:49,.635,.643,.429,.286,0.0,14.2,6.4,35.2,0.0,5.0,11.3,20.6,132,138,5.1
+2024-11-23,202411230CHI,CHI,Jalen Smith,https://www.basketball-reference.com/boxscores/202411230CHI.html,15:22,.700,.700,.600,.000,6.8,32.9,18.6,0.0,0.0,5.8,0.0,13.4,144,133,0.1
+2024-11-23,202411230CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202411230CHI.html,12:48,.200,.200,.600,.000,0.0,0.0,0.0,0.0,0.0,6.9,0.0,16.1,44,140,-16.5
+2024-11-23,202411230CHI,CHI,Torrey Craig,https://www.basketball-reference.com/boxscores/202411230CHI.html,8:21,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,141,-16.6
+2024-11-23,202411230CHI,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202411230CHI.html,4:36,.750,.750,1.000,.000,0.0,0.0,0.0,27.1,0.0,0.0,33.3,26.9,105,144,-1.9
+2024-11-23,202411230CHI,CHI,Chris Duarte,https://www.basketball-reference.com/boxscores/202411230CHI.html,4:36,1.500,1.500,1.000,.000,22.7,27.5,24.8,0.0,0.0,0.0,0.0,9.0,268,138,15.6
+2024-11-23,202411230CHI,CHI,E.J. Liddell,https://www.basketball-reference.com/boxscores/202411230CHI.html,4:36,1.000,1.000,1.000,.000,0.0,0.0,0.0,37.1,0.0,19.3,0.0,26.9,192,134,40.0

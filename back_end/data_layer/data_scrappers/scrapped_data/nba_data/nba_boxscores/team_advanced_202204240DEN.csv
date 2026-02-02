@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-24,202204240DEN,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202204240DEN.html,38:34,.468,.350,.500,.400,6.7,0.0,3.6,28.5,3.6,0.0,20.3,16.0,111,124,-0.5
+2022-04-24,202204240DEN,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202204240DEN.html,37:11,.592,.594,.188,.125,10.5,12.1,11.2,4.1,2.5,6.1,5.6,20.1,121,121,2.2
+2022-04-24,202204240DEN,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202204240DEN.html,34:04,.888,.833,.167,.500,0.0,48.4,22.5,23.5,2.8,0.0,21.5,11.4,151,122,4.2
+2022-04-24,202204240DEN,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202204240DEN.html,30:42,.766,.775,.550,.100,4.2,14.7,9.1,0.0,3.1,0.0,8.7,31.1,130,124,9.8
+2022-04-24,202204240DEN,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202204240DEN.html,11:50,.500,.500,.000,.000,21.9,38.0,29.4,10.4,4.0,0.0,33.3,10.6,108,120,-2.7
+2022-04-24,202204240DEN,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202204240DEN.html,36:50,.566,.500,.478,.609,0.0,12.2,5.7,34.8,5.1,3.1,6.4,35.3,122,118,11.0
+2022-04-24,202204240DEN,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202204240DEN.html,15:26,.568,,,,0.0,29.2,13.5,0.0,0.0,0.0,69.4,7.8,34,129,-16.0
+2022-04-24,202204240DEN,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202204240DEN.html,12:33,.000,.000,.333,.000,10.3,0.0,5.5,0.0,0.0,0.0,40.0,16.6,17,132,-30.3
+2022-04-24,202204240DEN,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202204240DEN.html,11:11,.726,.750,.250,1.250,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.1,146,133,1.8
+2022-04-24,202204240DEN,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202204240DEN.html,6:49,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,6.9,0.0,0.0,6.1,0,117,-5.8
+2022-04-24,202204240DEN,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202204240DEN.html,4:50,.000,.000,.000,.000,0.0,31.0,14.4,23.1,0.0,0.0,0.0,8.6,61,130,-6.7
+2022-04-24,202204240DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202204240DEN.html,37:42,.783,.738,.238,.286,4.0,24.1,14.8,33.0,0.0,0.0,22.8,35.8,122,121,5.6
+2022-04-24,202204240DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202204240DEN.html,34:33,.628,.500,.273,1.182,8.7,15.0,12.1,16.3,1.4,5.3,10.7,23.9,130,117,2.8
+2022-04-24,202204240DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202204240DEN.html,32:09,.429,.429,.714,.000,0.0,20.2,10.8,3.9,2.9,0.0,12.5,11.0,79,116,-4.1
+2022-04-24,202204240DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202204240DEN.html,29:11,.909,.864,.636,.455,0.0,8.9,4.8,27.9,0.0,0.0,18.5,24.5,147,124,7.8
+2022-04-24,202204240DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202204240DEN.html,15:49,1.042,1.000,.000,1.000,9.5,0.0,4.4,0.0,0.0,0.0,0.0,4.0,223,126,-1.0
+2022-04-24,202204240DEN,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202204240DEN.html,35:49,.300,.300,.800,.000,0.0,0.0,0.0,10.1,6.5,0.0,28.6,8.6,69,112,-0.1
+2022-04-24,202204240DEN,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202204240DEN.html,19:39,.638,.650,.600,.400,7.6,19.8,14.2,59.4,2.4,0.0,20.3,33.1,121,117,8.6
+2022-04-24,202204240DEN,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202204240DEN.html,14:05,1.017,1.000,.000,.333,0.0,18.4,9.9,0.0,0.0,0.0,22.5,13.9,140,122,-1.8
+2022-04-24,202204240DEN,DEN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202204240DEN.html,10:33,.000,.000,1.000,.000,0.0,12.3,6.6,0.0,0.0,0.0,0.0,4.2,0,123,-13.6
+2022-04-24,202204240DEN,DEN,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202204240DEN.html,10:07,.887,1.000,.000,2.000,0.0,51.3,27.5,35.5,0.0,0.0,15.1,28.9,156,115,9.8
+2022-04-24,202204240DEN,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202204240DEN.html,0:23,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-5.3

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-22,202101220CLE,BRK,James Harden,https://www.basketball-reference.com/boxscores/202101220CLE.html,37:03,.603,.571,.643,.286,0.0,18.0,8.2,41.6,0.0,0.0,16.0,23.0,120,132,1.6
+2021-01-22,202101220CLE,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202101220CLE.html,31:18,.444,.444,.778,.000,0.0,29.8,13.6,4.1,0.0,0.0,0.0,13.1,92,129,-8.5
+2021-01-22,202101220CLE,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202101220CLE.html,30:50,.713,.667,.375,.250,3.6,0.0,2.0,38.5,0.0,2.5,7.0,42.3,135,136,13.5
+2021-01-22,202101220CLE,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202101220CLE.html,25:54,.922,1.000,.000,.500,0.0,20.6,9.4,5.4,0.0,9.0,45.0,15.6,89,126,-5.2
+2021-01-22,202101220CLE,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202101220CLE.html,22:59,.500,.500,.250,.000,4.9,11.6,7.9,0.0,4.3,6.7,0.0,15.8,104,121,-1.7
+2021-01-22,202101220CLE,BRK,Jeff Green,https://www.basketball-reference.com/boxscores/202101220CLE.html,26:11,.658,.611,.333,.222,0.0,10.2,4.6,5.6,3.8,0.0,0.0,17.2,133,126,-0.1
+2021-01-22,202101220CLE,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202101220CLE.html,26:10,.611,.611,.778,.000,4.3,0.0,2.3,5.3,0.0,0.0,0.0,15.7,125,137,-3.8
+2021-01-22,202101220CLE,BRK,Landry Shamet,https://www.basketball-reference.com/boxscores/202101220CLE.html,18:56,.000,.000,.833,.000,5.9,14.1,9.6,0.0,0.0,4.1,0.0,14.4,17,131,-20.3
+2021-01-22,202101220CLE,BRK,Reggie Perry,https://www.basketball-reference.com/boxscores/202101220CLE.html,15:27,.515,.333,.333,.667,14.5,8.6,11.8,16.0,3.2,5.0,34.0,17.3,101,125,-4.3
+2021-01-22,202101220CLE,BRK,Chris Chiozza,https://www.basketball-reference.com/boxscores/202101220CLE.html,2:36,1.042,1.000,.000,1.000,0.0,0.0,0.0,78.4,0.0,0.0,0.0,25.2,219,137,26.7
+2021-01-22,202101220CLE,BRK,Tyler Johnson,https://www.basketball-reference.com/boxscores/202101220CLE.html,2:36,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,137,-8.7
+2021-01-22,202101220CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202101220CLE.html,31:28,.592,.600,.400,.800,8.5,7.1,7.7,3.8,1.6,0.0,0.0,9.1,142,119,-2.6
+2021-01-22,202101220CLE,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101220CLE.html,31:03,.656,.636,.182,.091,8.6,28.8,19.6,4.5,1.6,3.5,0.0,15.6,149,113,3.4
+2021-01-22,202101220CLE,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202101220CLE.html,29:34,.544,.447,.263,.474,4.5,3.8,4.1,45.6,0.0,0.0,4.2,34.4,135,123,2.4
+2021-01-22,202101220CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202101220CLE.html,28:40,.313,.313,.625,.000,0.0,7.8,4.2,8.0,1.7,0.0,11.1,13.3,78,118,-8.7
+2021-01-22,202101220CLE,CLE,Andre Drummond,https://www.basketball-reference.com/boxscores/202101220CLE.html,27:28,.644,.615,.000,.308,24.3,44.7,35.4,22.5,3.6,4.0,21.3,29.0,121,105,6.7
+2021-01-22,202101220CLE,CLE,Taurean Prince,https://www.basketball-reference.com/boxscores/202101220CLE.html,22:22,.916,.800,.600,1.200,6.0,10.0,8.1,5.6,2.2,4.9,11.6,16.4,175,113,11.5
+2021-01-22,202101220CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202101220CLE.html,22:08,.396,.346,.308,.154,0.0,0.0,0.0,17.9,0.0,0.0,12.6,30.5,90,123,-14.7
+2021-01-22,202101220CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202101220CLE.html,19:18,.816,.778,.000,.667,13.8,23.1,18.9,0.0,0.0,0.0,14.7,30.0,142,120,4.6
+2021-01-22,202101220CLE,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202101220CLE.html,16:18,1.500,1.500,1.000,.000,0.0,41.1,22.4,7.5,3.0,0.0,0.0,5.2,284,110,12.2
+2021-01-22,202101220CLE,CLE,Damyean Dotson,https://www.basketball-reference.com/boxscores/202101220CLE.html,9:37,.750,.750,1.000,.000,0.0,11.6,6.3,25.0,0.0,0.0,0.0,8.8,181,122,6.5
+2021-01-22,202101220CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202101220CLE.html,1:14,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,34.4,0,123,-60.6
+2021-01-22,202101220CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202101220CLE.html,0:50,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-6.6

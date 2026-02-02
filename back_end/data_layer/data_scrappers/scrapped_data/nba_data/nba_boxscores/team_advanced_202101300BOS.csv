@@ -1,0 +1,20 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-30,202101300BOS,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202101300BOS.html,37:21,.547,.529,.647,.294,2.8,18.8,10.3,32.1,0.0,2.1,20.7,29.2,101,105,4.2
+2021-01-30,202101300BOS,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202101300BOS.html,35:48,.481,.460,.080,.280,17.5,26.2,21.6,12.1,2.9,0.0,3.4,36.7,110,100,8.6
+2021-01-30,202101300BOS,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202101300BOS.html,33:04,.588,.438,.625,.625,0.0,10.6,5.0,31.1,1.6,0.0,16.4,16.7,123,105,2.3
+2021-01-30,202101300BOS,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202101300BOS.html,20:12,.000,.000,.500,.000,0.0,11.6,5.5,0.0,0.0,0.0,33.3,13.4,0,109,-18.8
+2021-01-30,202101300BOS,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202101300BOS.html,18:01,.174,.000,1.000,1.000,0.0,6.5,3.1,0.0,2.9,0.0,0.0,7.2,43,104,-6.0
+2021-01-30,202101300BOS,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202101300BOS.html,29:52,.800,.800,.000,.000,10.5,7.8,9.2,6.7,3.5,7.9,16.7,18.1,133,96,12.9
+2021-01-30,202101300BOS,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202101300BOS.html,23:09,.688,.688,.875,.000,4.5,25.3,14.3,0.0,0.0,0.0,0.0,15.6,143,106,7.4
+2021-01-30,202101300BOS,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202101300BOS.html,22:59,.375,.375,.125,.000,4.5,15.3,9.6,13.6,4.5,0.0,20.0,19.6,76,98,-5.7
+2021-01-30,202101300BOS,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202101300BOS.html,19:34,.500,.500,.500,.000,5.3,12.0,8.5,7.1,0.0,0.0,0.0,4.6,135,108,-4.0
+2021-01-30,202101300BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202101300BOS.html,39:47,.727,.722,.167,.333,0.0,23.6,12.5,14.2,2.6,0.0,16.2,28.8,119,102,9.9
+2021-01-30,202101300BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202101300BOS.html,37:57,.704,.737,.211,.105,3.1,0.0,1.5,16.1,1.4,2.4,9.1,26.8,125,111,8.7
+2021-01-30,202101300BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202101300BOS.html,34:51,.589,.545,.273,.182,10.1,12.0,11.1,4.2,1.5,2.6,14.4,18.5,110,107,1.7
+2021-01-30,202101300BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202101300BOS.html,28:12,.155,.083,.417,.167,0.0,22.2,11.7,17.8,0.0,3.2,7.2,22.9,50,106,-13.3
+2021-01-30,202101300BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202101300BOS.html,26:15,.286,.286,.429,.000,0.0,8.0,4.2,35.2,4.0,3.5,12.5,14.2,88,102,1.7
+2021-01-30,202101300BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202101300BOS.html,18:29,1.000,1.000,.000,.000,12.7,28.2,20.9,19.2,5.6,9.8,16.7,15.1,165,86,18.1
+2021-01-30,202101300BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202101300BOS.html,16:11,.000,.000,1.000,.000,0.0,19.3,10.2,7.4,0.0,0.0,50.0,5.8,27,109,-7.1
+2021-01-30,202101300BOS,BOS,Jeff Teague,https://www.basketball-reference.com/boxscores/202101300BOS.html,15:21,.333,.333,.000,.000,0.0,6.8,3.6,18.5,3.4,0.0,0.0,18.2,85,106,-3.3
+2021-01-30,202101300BOS,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202101300BOS.html,14:36,.266,.000,.000,2.000,24.1,14.3,18.9,8.2,3.6,0.0,34.7,9.2,94,103,-1.0
+2021-01-30,202101300BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202101300BOS.html,8:21,.000,.000,1.000,.000,0.0,12.5,6.6,0.0,0.0,0.0,50.0,22.3,0,110,-31.5

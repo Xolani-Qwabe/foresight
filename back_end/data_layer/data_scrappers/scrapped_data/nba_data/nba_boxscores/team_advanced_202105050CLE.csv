@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-05,202105050CLE,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202105050CLE.html,31:19,.797,.765,.588,.412,0.0,8.4,4.8,36.6,3.1,0.0,9.1,29.9,159,108,17.8
+2021-05-05,202105050CLE,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202105050CLE.html,31:17,.317,.250,.357,.286,0.0,2.8,1.6,15.9,1.5,2.8,6.0,22.8,87,111,-10.7
+2021-05-05,202105050CLE,POR,Robert Covington,https://www.basketball-reference.com/boxscores/202105050CLE.html,26:24,.643,.643,1.000,.000,4.4,13.2,9.5,3.8,1.8,3.4,0.0,11.3,146,106,1.6
+2021-05-05,202105050CLE,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202105050CLE.html,20:36,.638,.650,.100,.400,17.0,33.9,26.7,17.9,0.0,17.3,7.8,26.3,139,93,10.8
+2021-05-05,202105050CLE,POR,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202105050CLE.html,20:17,.868,1.000,.000,1.000,0.0,4.3,2.5,0.0,0.0,0.0,51.0,12.3,71,115,-12.6
+2021-05-05,202105050CLE,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202105050CLE.html,25:03,.833,.833,.333,.000,0.0,10.5,6.0,4.2,0.0,0.0,14.3,11.9,141,114,-1.1
+2021-05-05,202105050CLE,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202105050CLE.html,21:42,.820,.750,.500,.500,0.0,20.1,11.5,15.8,2.2,4.1,9.3,21.1,160,102,11.0
+2021-05-05,202105050CLE,POR,Enes Freedom,https://www.basketball-reference.com/boxscores/202105050CLE.html,21:21,.818,.818,.000,.000,27.4,32.7,30.4,0.0,0.0,4.2,0.0,21.9,176,103,9.3
+2021-05-05,202105050CLE,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202105050CLE.html,14:06,1.163,1.167,.333,.333,8.3,6.2,7.1,0.0,0.0,0.0,0.0,10.4,234,116,8.3
+2021-05-05,202105050CLE,POR,Harry Giles,https://www.basketball-reference.com/boxscores/202105050CLE.html,6:01,.551,.600,.400,.200,0.0,0.0,0.0,27.4,8.0,14.8,0.0,38.4,119,88,9.3
+2021-05-05,202105050CLE,POR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202105050CLE.html,6:01,.667,.667,.000,.000,0.0,43.5,24.9,21.5,0.0,0.0,0.0,21.2,148,102,8.0
+2021-05-05,202105050CLE,POR,CJ Elleby,https://www.basketball-reference.com/boxscores/202105050CLE.html,5:55,.694,.500,.000,1.000,19.8,29.5,25.4,36.1,0.0,0.0,0.0,20.7,178,107,16.9
+2021-05-05,202105050CLE,POR,Keljin Blevins,https://www.basketball-reference.com/boxscores/202105050CLE.html,4:59,.000,.000,1.000,.000,0.0,35.0,20.1,0.0,0.0,0.0,50.0,17.0,0,105,-21.8
+2021-05-05,202105050CLE,POR,T.J. Leaf,https://www.basketball-reference.com/boxscores/202105050CLE.html,4:59,.667,.667,.000,.000,0.0,35.0,20.1,0.0,9.7,0.0,0.0,25.6,132,81,7.8
+2021-05-05,202105050CLE,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202105050CLE.html,34:24,.436,.400,.200,.333,0.0,0.0,0.0,19.5,2.8,0.0,5.5,22.8,95,143,-8.8
+2021-05-05,202105050CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202105050CLE.html,31:19,.313,.278,.222,.556,0.0,7.5,3.2,13.6,1.5,0.0,0.0,15.4,80,144,-11.3
+2021-05-05,202105050CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202105050CLE.html,28:33,.461,.375,.125,.500,15.3,32.8,22.8,10.5,1.7,2.8,17.0,17.7,104,137,-8.0
+2021-05-05,202105050CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202105050CLE.html,26:01,.589,.545,.545,.182,0.0,9.0,3.8,13.3,1.9,0.0,7.8,21.3,113,143,-5.4
+2021-05-05,202105050CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202105050CLE.html,25:52,.643,.643,.714,.000,6.7,27.2,15.5,15.5,1.9,0.0,0.0,23.3,133,140,6.7
+2021-05-05,202105050CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202105050CLE.html,28:43,1.031,1.083,.667,.667,6.1,12.2,8.7,0.0,1.7,0.0,11.4,13.1,171,143,2.8
+2021-05-05,202105050CLE,CLE,Damyean Dotson,https://www.basketball-reference.com/boxscores/202105050CLE.html,19:31,.400,.400,.200,.000,0.0,12.0,5.1,15.3,2.5,0.0,16.7,13.2,80,142,-9.8
+2021-05-05,202105050CLE,CLE,Brodric Thomas,https://www.basketball-reference.com/boxscores/202105050CLE.html,13:32,1.031,1.000,1.000,.667,0.0,0.0,0.0,23.7,0.0,0.0,0.0,12.3,209,149,7.9
+2021-05-05,202105050CLE,CLE,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202105050CLE.html,12:50,.450,.375,.125,.250,6.8,9.1,7.8,58.0,0.0,6.3,0.0,29.8,117,142,5.3
+2021-05-05,202105050CLE,CLE,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202105050CLE.html,6:37,.000,.000,.800,.000,0.0,0.0,0.0,19.6,0.0,0.0,0.0,32.5,13,149,-35.9
+2021-05-05,202105050CLE,CLE,Anderson Varejão,https://www.basketball-reference.com/boxscores/202105050CLE.html,6:37,.102,.000,.000,.500,26.4,70.8,45.3,19.6,0.0,12.3,0.0,31.8,61,126,-16.1
+2021-05-05,202105050CLE,CLE,Jeremiah Martin,https://www.basketball-reference.com/boxscores/202105050CLE.html,6:01,.625,.625,.750,.000,0.0,38.9,16.6,0.0,8.0,0.0,33.3,43.0,67,124,-3.5

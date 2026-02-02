@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-16,202312160DEN,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202312160DEN.html,36:55,.531,.450,.100,.400,0.0,16.6,9.1,33.2,2.8,0.0,7.8,31.0,116,120,4.4
+2023-12-16,202312160DEN,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202312160DEN.html,32:53,.575,.550,.050,.100,0.0,3.1,1.7,16.3,1.5,0.0,8.7,31.2,111,129,-0.7
+2023-12-16,202312160DEN,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202312160DEN.html,32:21,.581,.542,.333,.500,3.8,31.6,19.0,4.4,0.0,19.5,6.4,21.6,117,109,7.3
+2023-12-16,202312160DEN,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202312160DEN.html,26:02,.666,.625,.375,.500,9.5,7.8,8.6,10.4,0.0,0.0,0.0,16.8,150,130,2.8
+2023-12-16,202312160DEN,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202312160DEN.html,15:20,.500,.500,.250,.000,0.0,13.3,7.3,34.1,0.0,0.0,20.0,14.6,108,128,1.7
+2023-12-16,202312160DEN,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202312160DEN.html,26:42,.685,.643,.571,.571,0.0,7.7,4.2,5.0,1.9,2.9,25.5,19.7,102,125,-0.7
+2023-12-16,202312160DEN,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202312160DEN.html,21:52,1.127,1.125,1.000,.500,5.6,14.0,10.2,6.0,0.0,0.0,0.0,10.0,222,128,9.0
+2023-12-16,202312160DEN,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202312160DEN.html,18:17,.500,.500,.000,.000,6.7,5.6,6.1,6.5,0.0,0.0,33.3,7.3,95,132,-5.2
+2023-12-16,202312160DEN,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202312160DEN.html,12:30,.250,.250,.250,.000,29.5,16.3,22.3,0.0,0.0,0.0,0.0,14.3,100,127,-13.7
+2023-12-16,202312160DEN,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202312160DEN.html,12:15,1.042,1.000,.000,1.000,10.0,8.3,9.1,11.1,0.0,0.0,0.0,10.5,217,130,8.3
+2023-12-16,202312160DEN,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202312160DEN.html,4:50,.532,.000,1.000,2.000,0.0,21.1,11.5,0.0,0.0,0.0,0.0,17.4,124,125,-4.1
+2023-12-16,202312160DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202312160DEN.html,37:25,.648,.567,.133,.533,10.9,6.6,9.0,48.5,2.7,0.0,13.9,24.5,140,123,14.7
+2023-12-16,202312160DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202312160DEN.html,32:51,.612,.500,.000,.700,18.7,11.2,15.3,21.1,3.1,0.0,0.0,17.0,159,121,10.1
+2023-12-16,202312160DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202312160DEN.html,32:25,.556,.556,.444,.000,0.0,41.8,18.9,0.0,0.0,0.0,5.3,25.0,107,122,0.2
+2023-12-16,202312160DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202312160DEN.html,27:31,.493,.385,.462,.385,3.7,4.5,4.1,26.2,0.0,0.0,6.2,25.1,119,129,-3.7
+2023-12-16,202312160DEN,DEN,Justin Holiday,https://www.basketball-reference.com/boxscores/202312160DEN.html,25:26,.750,.750,.750,.000,0.0,4.8,2.2,9.9,0.0,0.0,20.0,8.4,124,129,-1.2
+2023-12-16,202312160DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202312160DEN.html,25:23,.643,.600,.500,.200,0.0,9.7,4.4,5.8,2.0,0.0,8.4,20.0,123,124,0.9
+2023-12-16,202312160DEN,DEN,Reggie Jackson,https://www.basketball-reference.com/boxscores/202312160DEN.html,21:39,.350,.350,.400,.000,4.7,11.4,7.7,18.8,0.0,0.0,9.1,21.7,89,128,-11.5
+2023-12-16,202312160DEN,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202312160DEN.html,16:18,.732,.750,.250,.250,6.3,22.7,13.7,0.0,0.0,0.0,10.1,25.8,125,125,0.8
+2023-12-16,202312160DEN,DEN,Julian Strawther,https://www.basketball-reference.com/boxscores/202312160DEN.html,14:43,.000,.000,.667,.000,0.0,8.4,3.8,7.8,0.0,0.0,0.0,8.7,26,128,-12.7
+2023-12-16,202312160DEN,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202312160DEN.html,6:18,.500,.500,.000,.000,48.6,78.1,62.0,22.2,0.0,0.0,0.0,13.5,161,115,8.8

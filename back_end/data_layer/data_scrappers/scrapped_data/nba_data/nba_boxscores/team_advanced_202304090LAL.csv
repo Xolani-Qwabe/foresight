@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-04-09,202304090LAL,UTA,Kris Dunn,https://www.basketball-reference.com/boxscores/202304090LAL.html,40:16,.689,.667,.167,.111,0.0,24.8,12.7,25.2,1.1,0.0,13.7,22.8,124,120,3.2
+2023-04-09,202304090LAL,UTA,Luka Šamanić,https://www.basketball-reference.com/boxscores/202304090LAL.html,29:44,.312,.286,.571,.071,0.0,6.7,3.4,10.9,1.5,0.0,12.2,23.2,65,123,-13.8
+2023-04-09,202304090LAL,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202304090LAL.html,29:16,.829,.808,.308,.154,0.0,17.1,8.7,18.1,0.0,6.3,22.4,25.6,122,120,8.1
+2023-04-09,202304090LAL,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202304090LAL.html,26:41,.308,.308,.231,.000,0.0,3.7,1.9,32.9,1.7,0.0,13.3,23.5,79,124,-7.6
+2023-04-09,202304090LAL,UTA,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202304090LAL.html,26:32,.932,1.000,.000,.167,7.9,15.1,11.5,4.5,0.0,3.5,0.0,10.2,188,122,2.8
+2023-04-09,202304090LAL,UTA,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202304090LAL.html,31:15,.556,.556,.611,.000,6.7,22.4,14.7,7.9,0.0,0.0,0.0,24.1,115,123,0.1
+2023-04-09,202304090LAL,UTA,Damian Jones,https://www.basketball-reference.com/boxscores/202304090LAL.html,21:28,.800,.800,.200,.000,4.9,18.6,11.9,5.3,0.0,0.0,0.0,9.8,164,124,-2.6
+2023-04-09,202304090LAL,UTA,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202304090LAL.html,18:44,.300,.300,.600,.000,0.0,16.0,8.2,21.2,2.4,4.9,0.0,11.2,94,116,1.6
+2023-04-09,202304090LAL,UTA,Johnny Juzang,https://www.basketball-reference.com/boxscores/202304090LAL.html,16:04,.444,.444,.222,.000,13.0,12.4,12.7,0.0,0.0,0.0,0.0,23.5,99,126,-7.9
+2023-04-09,202304090LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202304090LAL.html,33:59,.949,.900,.800,.600,0.0,12.3,6.0,19.8,0.0,0.0,0.0,7.7,202,115,3.3
+2023-04-09,202304090LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202304090LAL.html,33:57,.504,.467,.000,.133,8.8,30.7,19.6,11.4,4.0,8.6,20.1,24.2,96,96,-0.3
+2023-04-09,202304090LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202304090LAL.html,33:25,.594,.577,.615,.231,0.0,6.2,3.1,18.7,0.0,2.2,12.3,20.2,115,114,-2.2
+2023-04-09,202304090LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202304090LAL.html,33:13,.696,.680,.560,.080,3.0,15.7,9.2,30.7,1.4,2.2,7.2,34.7,134,110,16.8
+2023-04-09,202304090LAL,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202304090LAL.html,19:16,.761,.714,.143,.286,10.4,10.8,10.6,7.2,0.0,0.0,11.3,19.0,144,116,-0.1
+2023-04-09,202304090LAL,LAL,Malik Beasley,https://www.basketball-reference.com/boxscores/202304090LAL.html,26:56,.553,.550,.900,.400,7.4,15.5,11.4,13.4,0.0,0.0,0.0,18.0,130,115,0.4
+2023-04-09,202304090LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202304090LAL.html,23:22,.392,.357,.429,.214,8.6,13.4,10.9,11.2,0.0,3.1,0.0,27.1,98,112,-7.6
+2023-04-09,202304090LAL,LAL,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202304090LAL.html,17:35,.510,.500,.600,.400,0.0,23.7,11.6,6.6,0.0,0.0,0.0,13.8,112,114,-3.6
+2023-04-09,202304090LAL,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202304090LAL.html,16:14,.667,.667,.000,.000,0.0,25.7,12.6,7.2,0.0,0.0,25.0,10.2,102,114,-4.8
+2023-04-09,202304090LAL,LAL,Mo Bamba,https://www.basketball-reference.com/boxscores/202304090LAL.html,0:39,,,,,0.0,100.0,78.6,0.0,0.0,0.0,,0.0,0,94,5.1
+2023-04-09,202304090LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202304090LAL.html,0:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-7.3
+2023-04-09,202304090LAL,LAL,Cole Swider,https://www.basketball-reference.com/boxscores/202304090LAL.html,0:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-7.9

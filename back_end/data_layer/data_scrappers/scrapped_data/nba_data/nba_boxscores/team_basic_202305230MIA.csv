@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-05-23,202305230MIA,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202305230MIA.html,42.1,14,22,.636,4,9,.444,1,2,.500,1,10,11,7,1,2,5,3,33,27.6,+21
+2023-05-23,202305230MIA,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202305230MIA.html,37.32,7,16,.438,1,5,.200,2,5,.400,0,4,4,4,2,0,1,5,17,10.4,+9
+2023-05-23,202305230MIA,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202305230MIA.html,35.13,4,11,.364,3,9,.333,0,0,,1,2,3,6,2,0,1,1,11,11.0,+15
+2023-05-23,202305230MIA,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202305230MIA.html,27.37,5,10,.500,3,7,.429,3,3,1.000,1,1,2,2,2,2,1,3,16,14.6,+7
+2023-05-23,202305230MIA,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202305230MIA.html,25.12,4,7,.571,3,6,.500,1,2,.500,1,6,7,4,0,1,0,5,12,12.3,+23
+2023-05-23,202305230MIA,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202305230MIA.html,29.22,4,7,.571,4,6,.667,2,2,1.000,2,4,6,2,1,1,0,2,14,15.6,+15
+2023-05-23,202305230MIA,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202305230MIA.html,21.78,3,5,.600,0,1,.000,1,2,.500,0,1,1,0,0,2,1,4,7,3.4,-6
+2023-05-23,202305230MIA,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202305230MIA.html,16.55,1,5,.200,0,2,.000,0,0,,1,4,5,3,0,0,1,1,2,1.5,-1
+2023-05-23,202305230MIA,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.1,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,4,3.7,0
+2023-05-23,202305230MIA,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-05-23,202305230MIA,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-05-23,202305230MIA,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-05-23,202305230MIA,BOS,Justin Champagnie,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2023-05-23,202305230MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202305230MIA.html,38.82,9,21,.429,1,4,.250,10,12,.833,4,5,9,5,1,1,2,1,29,24.2,-20
+2023-05-23,202305230MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202305230MIA.html,35.93,4,9,.444,1,5,.200,0,0,,1,6,7,1,0,0,0,1,9,7.1,0
+2023-05-23,202305230MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202305230MIA.html,35.12,4,7,.571,0,0,,2,4,.500,1,4,5,0,1,0,4,4,10,3.2,-21
+2023-05-23,202305230MIA,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202305230MIA.html,27.87,5,10,.500,1,4,.250,6,7,.857,1,0,1,4,0,0,1,4,17,12.5,-16
+2023-05-23,202305230MIA,MIA,Kevin Love,https://www.basketball-reference.com/boxscores/202305230MIA.html,11.77,2,6,.333,2,4,.500,0,0,,0,4,4,0,1,0,0,1,6,4.4,-5
+2023-05-23,202305230MIA,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202305230MIA.html,35.23,6,9,.667,2,5,.400,2,2,1.000,0,4,4,1,0,1,2,1,16,12.3,-12
+2023-05-23,202305230MIA,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202305230MIA.html,27.73,2,8,.250,1,5,.200,0,0,,3,5,8,6,2,0,4,4,5,4.4,0
+2023-05-23,202305230MIA,MIA,Cody Zeller,https://www.basketball-reference.com/boxscores/202305230MIA.html,12.78,1,2,.500,0,0,,3,3,1.000,1,2,3,0,0,0,0,1,5,4.9,+4
+2023-05-23,202305230MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202305230MIA.html,10.87,1,5,.200,0,4,.000,0,0,,0,1,1,1,0,0,2,1,2,-2.5,-12
+2023-05-23,202305230MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.68,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2023-05-23,202305230MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.1,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0
+2023-05-23,202305230MIA,MIA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202305230MIA.html,1.1,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,0

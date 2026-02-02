@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-07,202008070TOR,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202008070TOR.html,31:42,.672,.643,.571,.143,6.3,11.6,9.1,8.3,0.0,0.0,6.3,20.5,132,101,6.3
+2020-08-07,202008070TOR,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/202008070TOR.html,30:31,.605,.571,.286,.143,3.3,24.2,14.2,7.7,0.0,0.0,28.7,14.0,95,98,-4.8
+2020-08-07,202008070TOR,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202008070TOR.html,27:59,.587,.571,.500,.214,0.0,23.1,12.0,19.6,3.3,0.0,16.4,26.8,104,90,7.2
+2020-08-07,202008070TOR,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202008070TOR.html,27:41,.739,.714,.571,.143,3.6,33.3,19.1,13.0,0.0,3.4,11.8,12.5,140,93,8.8
+2020-08-07,202008070TOR,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202008070TOR.html,22:54,.589,.571,.714,.071,4.4,8.1,6.3,24.4,0.0,4.1,12.2,29.4,113,99,6.1
+2020-08-07,202008070TOR,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202008070TOR.html,24:02,.125,.125,.625,.000,0.0,7.7,4.0,22.2,3.8,0.0,11.1,15.4,58,93,-6.4
+2020-08-07,202008070TOR,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202008070TOR.html,23:55,.845,.813,.250,.250,0.0,15.4,8.0,5.7,3.8,0.0,0.0,15.2,170,91,12.5
+2020-08-07,202008070TOR,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202008070TOR.html,12:00,.854,.917,.833,.167,0.0,7.7,4.0,12.9,0.0,0.0,13.4,25.4,130,102,12.6
+2020-08-07,202008070TOR,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202008070TOR.html,11:27,.850,.800,.000,.400,8.7,24.2,16.8,0.0,0.0,0.0,0.0,21.1,175,98,11.5
+2020-08-07,202008070TOR,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202008070TOR.html,9:29,.000,.000,.500,.000,0.0,9.7,5.1,10.8,0.0,0.0,20.0,21.6,15,101,-22.1
+2020-08-07,202008070TOR,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202008070TOR.html,9:28,.512,.500,.000,.500,31.7,9.8,20.3,41.3,4.8,0.0,17.0,25.5,126,90,12.2
+2020-08-07,202008070TOR,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202008070TOR.html,8:52,.368,.400,.200,.200,0.0,0.0,0.0,15.0,5.2,0.0,0.0,25.2,84,92,-2.1
+2020-08-07,202008070TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202008070TOR.html,30:50,.391,.321,.429,.429,0.0,13.0,6.2,19.6,3.0,3.1,5.7,24.2,87,113,-1.3
+2020-08-07,202008070TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202008070TOR.html,28:00,.367,.367,.333,.000,0.0,7.1,3.4,0.0,1.6,0.0,11.8,25.7,64,119,-13.0
+2020-08-07,202008070TOR,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202008070TOR.html,27:58,.671,.500,.500,.833,0.0,7.2,3.4,10.4,4.9,3.4,26.8,16.9,104,110,0.2
+2020-08-07,202008070TOR,TOR,Marc Gasol,https://www.basketball-reference.com/boxscores/202008070TOR.html,21:48,.500,.500,.500,.000,4.2,36.7,19.8,28.1,0.0,4.4,14.3,13.6,109,114,2.0
+2020-08-07,202008070TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202008070TOR.html,18:18,.375,.375,.500,.000,5.0,5.5,5.2,7.4,2.5,0.0,0.0,9.2,98,118,-1.2
+2020-08-07,202008070TOR,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202008070TOR.html,29:20,.446,.364,.364,.273,3.1,13.6,8.2,0.0,1.6,0.0,7.5,19.2,89,118,-5.7
+2020-08-07,202008070TOR,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202008070TOR.html,16:26,.714,.714,.429,.000,5.6,6.1,5.8,22.2,0.0,11.7,36.4,28.3,90,115,2.6
+2020-08-07,202008070TOR,TOR,Serge Ibaka,https://www.basketball-reference.com/boxscores/202008070TOR.html,14:24,.111,.111,.444,.000,12.8,34.7,23.3,0.0,0.0,0.0,10.0,29.4,35,118,-23.5
+2020-08-07,202008070TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202008070TOR.html,14:18,1.308,1.333,.667,.333,0.0,35.0,16.8,12.0,0.0,6.7,36.8,16.1,139,113,10.1
+2020-08-07,202008070TOR,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202008070TOR.html,14:08,.854,.833,.000,.167,13.1,21.2,17.0,32.3,0.0,0.0,13.4,22.3,153,120,13.7
+2020-08-07,202008070TOR,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202008070TOR.html,13:19,.750,.750,1.000,.000,0.0,0.0,0.0,23.4,0.0,7.2,0.0,12.7,156,120,11.1
+2020-08-07,202008070TOR,TOR,Paul Watson,https://www.basketball-reference.com/boxscores/202008070TOR.html,5:52,,,,,0.0,34.1,16.4,0.0,0.0,0.0,,0.0,0,117,-8.7
+2020-08-07,202008070TOR,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202008070TOR.html,5:19,.788,.875,.500,.250,17.4,37.6,27.1,100.0,0.0,0.0,18.4,43.3,138,117,31.4

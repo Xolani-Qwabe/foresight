@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-12,202412120BOS,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202412120BOS.html,35:21,.409,.409,.182,.000,2.6,22.6,11.6,36.5,0.0,3.2,12.0,30.7,85,125,-4.1
+2024-12-12,202412120BOS,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202412120BOS.html,27:30,.500,.500,.000,.000,6.7,12.5,9.3,0.0,0.0,4.2,0.0,3.2,132,126,-8.4
+2024-12-12,202412120BOS,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202412120BOS.html,26:45,.336,.286,.643,.143,0.0,12.8,5.7,9.8,1.8,0.0,0.0,24.2,76,125,-8.3
+2024-12-12,202412120BOS,DET,Tobias Harris,https://www.basketball-reference.com/boxscores/202412120BOS.html,25:38,.500,.500,.333,.000,3.6,31.2,15.9,16.3,0.0,0.0,0.0,15.3,112,125,-0.6
+2024-12-12,202412120BOS,DET,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202412120BOS.html,19:10,.500,.500,.500,.000,9.6,23.9,16.0,7.3,5.0,0.0,14.3,15.9,98,115,-1.7
+2024-12-12,202412120BOS,DET,Ron Holland,https://www.basketball-reference.com/boxscores/202412120BOS.html,20:58,.874,.857,.357,.143,4.4,10.9,7.3,0.0,0.0,0.0,6.3,32.9,151,129,15.7
+2024-12-12,202412120BOS,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202412120BOS.html,16:44,.643,.643,.571,.000,5.5,0.0,3.1,37.6,5.7,6.8,12.5,20.8,123,113,14.2
+2024-12-12,202412120BOS,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202412120BOS.html,16:31,.521,.375,.750,1.000,0.0,6.9,3.1,7.4,0.0,0.0,14.8,17.8,96,130,-7.8
+2024-12-12,202412120BOS,DET,Malik Beasley,https://www.basketball-reference.com/boxscores/202412120BOS.html,16:11,.317,.286,.429,.286,0.0,28.2,12.6,24.7,0.0,0.0,0.0,21.2,81,126,-7.4
+2024-12-12,202412120BOS,DET,Paul Reed,https://www.basketball-reference.com/boxscores/202412120BOS.html,15:21,.333,.333,.333,.000,0.0,0.0,0.0,26.2,6.3,7.4,0.0,17.0,86,111,2.0
+2024-12-12,202412120BOS,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202412120BOS.html,13:19,.333,.333,.167,.000,6.9,17.2,11.5,0.0,0.0,0.0,14.3,22.9,64,128,-17.8
+2024-12-12,202412120BOS,DET,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202412120BOS.html,6:32,.000,.000,.000,.000,0.0,17.5,7.8,35.0,7.4,0.0,0.0,6.7,76,110,1.9
+2024-12-12,202412120BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202412120BOS.html,30:35,.829,.808,.923,.154,3.7,3.0,3.3,17.9,3.1,2.6,12.6,22.7,140,98,15.4
+2024-12-12,202412120BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202412120BOS.html,30:08,.503,.500,.389,.111,0.0,24.5,13.6,9.6,1.6,5.2,5.0,28.9,97,93,0.0
+2024-12-12,202412120BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202412120BOS.html,29:57,.563,.542,.167,.083,3.8,24.7,15.3,26.4,1.6,0.0,24.3,24.0,102,98,-1.6
+2024-12-12,202412120BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202412120BOS.html,25:00,.676,.625,.500,.250,9.1,18.5,14.3,30.1,0.0,0.0,10.1,17.3,148,103,6.5
+2024-12-12,202412120BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202412120BOS.html,19:38,.333,.333,.667,.000,0.0,28.2,15.6,5.6,0.0,0.0,0.0,6.7,87,100,-5.6
+2024-12-12,202412120BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202412120BOS.html,31:00,.675,.675,.750,.000,0.0,11.9,6.6,50.7,0.0,0.0,4.8,29.6,140,104,14.0
+2024-12-12,202412120BOS,BOS,Drew Peterson,https://www.basketball-reference.com/boxscores/202412120BOS.html,19:13,.579,.333,.667,1.000,5.9,9.6,8.0,11.5,0.0,0.0,18.8,12.1,124,105,-4.4
+2024-12-12,202412120BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202412120BOS.html,18:03,.667,.667,.000,.000,0.0,10.2,5.7,6.5,2.7,4.4,40.0,12.1,78,95,-5.0
+2024-12-12,202412120BOS,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202412120BOS.html,13:29,.333,.333,.667,.000,8.5,13.7,11.4,8.4,3.6,0.0,0.0,9.7,106,96,-0.4
+2024-12-12,202412120BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202412120BOS.html,12:32,.949,1.000,.000,.600,18.2,36.8,28.5,14.3,0.0,0.0,0.0,22.1,201,98,17.0
+2024-12-12,202412120BOS,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202412120BOS.html,6:32,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,66.7,20.1,42,107,-6.5
+2024-12-12,202412120BOS,BOS,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202412120BOS.html,3:53,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,0,107,-17.7

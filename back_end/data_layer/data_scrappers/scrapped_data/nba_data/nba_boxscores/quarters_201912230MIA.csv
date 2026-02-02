@@ -1,0 +1,65 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-12-23,201912230MIA,UTA,Q1,Donovan Mitchell,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.08,2,5,.400,1,2,.500,0,0,0,1,1,2,0,0,2,0,5,2.0,0,
+2019-12-23,201912230MIA,UTA,Q1,Joe Ingles,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.05,2,2,1.000,2,2,1.000,2,2,0,1,1,1,0,0,0,1,8,8.0,-1,1.000
+2019-12-23,201912230MIA,UTA,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.05,2,3,.667,0,0,,0,0,0,5,5,0,0,1,0,0,4,4.9,-1,
+2019-12-23,201912230MIA,UTA,Q1,Royce O'Neale,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.73,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,+2,
+2019-12-23,201912230MIA,UTA,Q1,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.68,1,3,.333,1,2,.500,2,2,0,0,0,0,0,0,0,3,5,2.1,-1,1.000
+2019-12-23,201912230MIA,UTA,Q1,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/201912230MIA.html,5.87,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,-7,
+2019-12-23,201912230MIA,UTA,Q1,Jeff Green,https://www.basketball-reference.com/boxscores/201912230MIA.html,3.97,1,2,.500,0,1,.000,0,0,0,0,0,2,1,0,0,0,2,3.4,-3,
+2019-12-23,201912230MIA,UTA,Q1,Ed Davis,https://www.basketball-reference.com/boxscores/201912230MIA.html,2.95,0,0,,0,0,,0,0,1,0,1,0,0,0,0,2,0,-0.1,-3,
+2019-12-23,201912230MIA,UTA,Q1,Georges Niang,https://www.basketball-reference.com/boxscores/201912230MIA.html,2.62,0,3,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-2.1,-6,
+2019-12-23,201912230MIA,UTA,Q2,Donovan Mitchell,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.07,2,6,.333,0,3,.000,1,2,0,2,2,1,0,0,1,0,5,1.5,+9,.500
+2019-12-23,201912230MIA,UTA,Q2,Joe Ingles,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.77,3,5,.600,2,3,.667,0,0,1,1,2,0,0,0,1,0,8,5.7,0,
+2019-12-23,201912230MIA,UTA,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.87,2,3,.667,0,0,,0,1,2,3,5,0,1,2,0,0,4,7.0,-1,.000
+2019-12-23,201912230MIA,UTA,Q2,Royce O'Neale,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.87,1,2,.500,0,1,.000,0,0,0,2,2,1,0,1,0,0,2,3.0,+6,
+2019-12-23,201912230MIA,UTA,Q2,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.87,1,2,.500,0,0,,0,0,0,1,1,1,0,0,1,0,2,1.0,-1,
+2019-12-23,201912230MIA,UTA,Q2,Jeff Green,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.07,0,2,.000,0,0,,0,0,0,1,1,0,1,0,0,0,0,-0.1,-2,
+2019-12-23,201912230MIA,UTA,Q2,Ed Davis,https://www.basketball-reference.com/boxscores/201912230MIA.html,4.13,0,1,.000,0,0,,0,0,1,1,2,0,0,0,0,0,0,0.3,+4,
+2019-12-23,201912230MIA,UTA,Q2,Georges Niang,https://www.basketball-reference.com/boxscores/201912230MIA.html,6.37,1,4,.250,1,2,.500,0,0,0,1,1,0,1,0,0,0,3,1.9,0,
+2019-12-23,201912230MIA,UTA,Q3,Donovan Mitchell,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.53,1,2,.500,0,0,,1,2,0,0,0,1,2,0,1,2,3,2.5,+7,.500
+2019-12-23,201912230MIA,UTA,Q3,Joe Ingles,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.15,1,2,.500,1,2,.500,0,0,0,1,1,1,1,0,0,0,3,4.0,+3,
+2019-12-23,201912230MIA,UTA,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.15,1,1,1.000,0,0,,0,0,0,3,3,0,0,2,1,3,2,1.8,+3,
+2019-12-23,201912230MIA,UTA,Q3,Royce O'Neale,https://www.basketball-reference.com/boxscores/201912230MIA.html,8.2,0,0,,0,0,,0,0,0,1,1,0,0,0,0,2,0,-0.5,+2,
+2019-12-23,201912230MIA,UTA,Q3,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/201912230MIA.html,12.0,2,7,.286,1,2,.500,5,6,1,2,3,2,0,0,1,0,10,7.2,+6,.833
+2019-12-23,201912230MIA,UTA,Q3,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/201912230MIA.html,5.32,3,4,.750,0,0,,0,0,0,1,1,1,1,0,0,0,6,6.4,+2,
+2019-12-23,201912230MIA,UTA,Q3,Jeff Green,https://www.basketball-reference.com/boxscores/201912230MIA.html,3.8,2,2,1.000,0,0,,1,1,0,0,0,0,0,0,0,0,5,4.4,+4,1.000
+2019-12-23,201912230MIA,UTA,Q3,Ed Davis,https://www.basketball-reference.com/boxscores/201912230MIA.html,2.85,0,0,,0,0,,0,0,0,0,0,0,1,0,0,2,0,0.2,+3,
+2019-12-23,201912230MIA,UTA,Q4,Donovan Mitchell,https://www.basketball-reference.com/boxscores/201912230MIA.html,11.15,0,5,.000,0,1,.000,0,0,0,0,0,3,1,0,0,1,0,-0.8,-3,
+2019-12-23,201912230MIA,UTA,Q4,Joe Ingles,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.78,3,7,.429,2,5,.400,0,0,0,0,0,0,0,0,2,2,8,1.5,-2,
+2019-12-23,201912230MIA,UTA,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/201912230MIA.html,10.08,4,4,1.000,0,0,,0,0,3,3,6,0,0,0,0,0,8,9.8,-4,
+2019-12-23,201912230MIA,UTA,Q4,Royce O'Neale,https://www.basketball-reference.com/boxscores/201912230MIA.html,10.08,1,3,.333,1,3,.333,0,0,0,2,2,0,0,0,1,0,3,0.9,-4,
+2019-12-23,201912230MIA,UTA,Q4,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.53,1,4,.250,0,3,.000,2,2,0,1,1,1,0,0,0,2,4,1.8,-4,1.000
+2019-12-23,201912230MIA,UTA,Q4,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/201912230MIA.html,3.88,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-12,
+2019-12-23,201912230MIA,UTA,Q4,Jeff Green,https://www.basketball-reference.com/boxscores/201912230MIA.html,3.57,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-7,
+2019-12-23,201912230MIA,UTA,Q4,Ed Davis,https://www.basketball-reference.com/boxscores/201912230MIA.html,1.92,0,0,,0,0,,0,0,1,1,2,0,0,0,0,0,0,1.0,-4,
+2019-12-23,201912230MIA,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.05,0,4,.000,0,0,,2,2,1,0,1,0,0,1,0,1,2,0.2,-5,1.000
+2019-12-23,201912230MIA,MIA,Q1,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912230MIA.html,12.0,3,5,.600,0,0,,3,3,0,1,1,2,2,0,0,1,9,10.0,+4,1.000
+2019-12-23,201912230MIA,MIA,Q1,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.05,2,6,.333,0,2,.000,0,0,0,0,0,1,0,0,0,0,4,1.3,+1,
+2019-12-23,201912230MIA,MIA,Q1,Meyers Leonard,https://www.basketball-reference.com/boxscores/201912230MIA.html,12.0,3,4,.750,1,1,1.000,0,0,1,4,5,0,0,0,1,0,7,6.3,+4,
+2019-12-23,201912230MIA,MIA,Q1,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912230MIA.html,6.13,0,0,,0,0,,0,0,0,3,3,0,0,0,1,2,0,-0.9,-3,
+2019-12-23,201912230MIA,MIA,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912230MIA.html,4.95,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,0,0,2,1.6,+9,1.000
+2019-12-23,201912230MIA,MIA,Q1,Goran Dragić,https://www.basketball-reference.com/boxscores/201912230MIA.html,5.87,2,2,1.000,2,2,1.000,2,2,0,2,2,1,0,0,0,1,8,8.3,+7,1.000
+2019-12-23,201912230MIA,MIA,Q1,Tyler Herro,https://www.basketball-reference.com/boxscores/201912230MIA.html,2.95,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2019-12-23,201912230MIA,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912230MIA.html,10.2,2,4,.500,0,0,,0,0,1,6,7,2,1,1,1,0,4,6.6,-5,
+2019-12-23,201912230MIA,MIA,Q2,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912230MIA.html,5.9,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.0,-2,
+2019-12-23,201912230MIA,MIA,Q2,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.87,2,3,.667,0,0,,0,0,0,1,1,2,0,0,0,1,4,4.0,+1,
+2019-12-23,201912230MIA,MIA,Q2,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912230MIA.html,2.7,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2019-12-23,201912230MIA,MIA,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.47,1,3,.333,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,0.6,-9,
+2019-12-23,201912230MIA,MIA,Q2,Goran Dragić,https://www.basketball-reference.com/boxscores/201912230MIA.html,6.67,0,3,.000,0,1,.000,0,0,0,1,1,0,0,0,1,0,0,-2.8,+2,
+2019-12-23,201912230MIA,MIA,Q2,Tyler Herro,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.3,3,7,.429,2,4,.500,0,0,0,2,2,1,1,0,0,0,8,6.6,-1,
+2019-12-23,201912230MIA,MIA,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.9,1,3,.333,1,2,.500,0,0,0,1,1,1,0,0,1,1,3,0.9,+1,
+2019-12-23,201912230MIA,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912230MIA.html,8.85,0,2,.000,0,0,,4,6,0,0,0,2,1,0,0,1,4,3.8,-4,.667
+2019-12-23,201912230MIA,MIA,Q3,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912230MIA.html,11.03,4,7,.571,0,1,.000,1,2,3,2,5,0,0,0,1,1,9,6.6,-5,.500
+2019-12-23,201912230MIA,MIA,Q3,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.15,1,5,.200,0,1,.000,0,0,0,1,1,0,0,0,3,0,2,-3.8,-3,
+2019-12-23,201912230MIA,MIA,Q3,Meyers Leonard,https://www.basketball-reference.com/boxscores/201912230MIA.html,9.83,1,1,1.000,0,0,,2,2,2,3,5,0,0,0,1,0,4,5.0,-6,1.000
+2019-12-23,201912230MIA,MIA,Q3,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912230MIA.html,7.63,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,2,0,-0.8,-5,
+2019-12-23,201912230MIA,MIA,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912230MIA.html,5.32,0,1,.000,0,1,.000,2,2,0,2,2,0,0,0,1,1,2,0.5,-2,1.000
+2019-12-23,201912230MIA,MIA,Q3,Goran Dragić,https://www.basketball-reference.com/boxscores/201912230MIA.html,5.32,1,5,.200,0,1,.000,0,0,1,1,2,0,1,0,0,1,2,0.5,-2,
+2019-12-23,201912230MIA,MIA,Q3,Tyler Herro,https://www.basketball-reference.com/boxscores/201912230MIA.html,2.85,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2019-12-23,201912230MIA,MIA,Q4,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912230MIA.html,12.0,3,4,.750,0,0,,2,2,3,2,5,2,1,1,1,0,8,11.2,+8,1.000
+2019-12-23,201912230MIA,MIA,Q4,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912230MIA.html,5.12,0,2,.000,0,0,,2,2,0,1,1,0,0,0,0,0,2,0.9,-4,1.000
+2019-12-23,201912230MIA,MIA,Q4,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912230MIA.html,3.1,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+7,
+2019-12-23,201912230MIA,MIA,Q4,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912230MIA.html,3.8,1,1,1.000,1,1,1.000,2,2,0,1,1,0,0,0,0,1,5,4.6,+7,1.000
+2019-12-23,201912230MIA,MIA,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912230MIA.html,11.97,1,1,1.000,0,0,,0,0,0,2,2,0,1,0,0,0,2,3.3,+6,
+2019-12-23,201912230MIA,MIA,Q4,Goran Dragić,https://www.basketball-reference.com/boxscores/201912230MIA.html,12.0,2,6,.333,1,2,.500,0,0,0,1,1,0,0,0,0,0,5,1.9,+8,
+2019-12-23,201912230MIA,MIA,Q4,Tyler Herro,https://www.basketball-reference.com/boxscores/201912230MIA.html,12.0,4,6,.667,1,1,1.000,0,0,0,4,4,1,0,0,2,2,9,5.5,+8,

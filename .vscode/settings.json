@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./nba_boxscores/elo_methods",
+        "./nba_boxscores/elo_methods",
+        "./nba_boxscores/elo_methods"
+    ]
+}

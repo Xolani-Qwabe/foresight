@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-01,202201010MIL,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202201010MIL.html,35:42,.413,.423,.462,.692,7.0,26.9,15.1,37.5,1.2,3.1,15.0,21.8,97,127,-2.8
+2022-01-01,202201010MIL,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202201010MIL.html,35:26,.538,.538,.462,.000,4.7,13.5,8.3,13.2,3.8,9.2,18.8,17.6,96,117,0.8
+2022-01-01,202201010MIL,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202201010MIL.html,30:24,.504,.462,.846,.154,0.0,11.8,4.8,14.5,1.5,0.0,6.7,19.1,104,130,-4.5
+2022-01-01,202201010MIL,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202201010MIL.html,25:12,.583,.583,.750,.000,0.0,14.3,5.8,25.8,1.8,0.0,0.0,18.6,127,129,4.9
+2022-01-01,202201010MIL,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202201010MIL.html,19:39,.491,.444,.000,.556,16.8,24.4,19.9,8.4,0.0,0.0,15.2,26.2,100,132,-8.9
+2022-01-01,202201010MIL,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202201010MIL.html,27:32,.810,.750,.000,.417,9.0,17.4,12.5,7.5,0.0,4.0,6.6,21.5,156,130,4.7
+2022-01-01,202201010MIL,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202201010MIL.html,26:48,.375,.375,.813,.188,0.0,22.4,9.1,0.0,0.0,0.0,14.8,29.5,63,132,-17.8
+2022-01-01,202201010MIL,NOP,Gary Clark,https://www.basketball-reference.com/boxscores/202201010MIL.html,17:09,.750,.750,1.000,.000,9.7,7.0,8.6,7.7,2.6,0.0,0.0,4.5,174,128,0.0
+2022-01-01,202201010MIL,NOP,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202201010MIL.html,13:44,.665,.500,.500,2.000,0.0,26.2,10.7,59.1,9.7,0.0,0.0,10.7,175,108,17.7
+2022-01-01,202201010MIL,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202201010MIL.html,2:48,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,27.8,0,134,-40.5
+2022-01-01,202201010MIL,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202201010MIL.html,2:48,.000,.000,1.000,.000,0.0,42.9,17.5,0.0,0.0,0.0,0.0,27.8,0,131,-33.2
+2022-01-01,202201010MIL,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202201010MIL.html,2:48,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,53.2,26.2,106,134,-10.1
+2022-01-01,202201010MIL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202201010MIL.html,33:28,.666,.607,.214,.286,3.6,7.4,5.9,22.9,2.7,6.5,20.2,25.1,120,104,3.1
+2022-01-01,202201010MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202201010MIL.html,32:12,.752,.722,.222,.667,3.7,38.6,24.3,47.9,2.8,0.0,14.7,36.0,143,94,17.0
+2022-01-01,202201010MIL,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202201010MIL.html,30:46,.571,.571,.857,.000,0.0,10.8,6.4,7.9,0.0,3.5,0.0,19.3,115,110,-1.5
+2022-01-01,202201010MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202201010MIL.html,28:45,.750,.750,1.000,.000,0.0,17.3,10.2,11.4,1.6,3.8,14.3,10.3,133,104,3.8
+2022-01-01,202201010MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202201010MIL.html,21:10,.636,.636,.545,.000,5.7,19.5,13.9,6.0,0.0,0.0,8.3,24.1,115,107,-2.5
+2022-01-01,202201010MIL,MIL,George Hill,https://www.basketball-reference.com/boxscores/202201010MIL.html,20:10,.820,.750,.500,.500,0.0,4.1,2.4,10.8,2.2,0.0,0.0,10.3,171,110,5.0
+2022-01-01,202201010MIL,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202201010MIL.html,18:47,1.045,1.045,.636,.000,0.0,17.6,10.4,0.0,0.0,0.0,0.0,24.9,186,108,17.0
+2022-01-01,202201010MIL,MIL,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202201010MIL.html,18:08,.417,.417,.500,.000,6.6,22.8,16.2,0.0,2.5,0.0,14.3,16.4,79,101,-10.4
+2022-01-01,202201010MIL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202201010MIL.html,15:53,.250,.250,.750,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,16.1,32,116,-19.4
+2022-01-01,202201010MIL,MIL,Rodney Hood,https://www.basketball-reference.com/boxscores/202201010MIL.html,12:17,.000,.000,.500,.000,0.0,0.0,0.0,0.0,3.6,0.0,0.0,6.9,0,107,-10.2
+2022-01-01,202201010MIL,MIL,Javin DeLaurier,https://www.basketball-reference.com/boxscores/202201010MIL.html,2:48,,,,,0.0,29.6,17.5,0.0,15.9,0.0,,0.0,0,66,7.0
+2022-01-01,202201010MIL,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202201010MIL.html,2:48,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.2,300,116,24.2
+2022-01-01,202201010MIL,MIL,Javonte Smart,https://www.basketball-reference.com/boxscores/202201010MIL.html,2:48,.000,.000,.000,.000,0.0,0.0,0.0,100.0,15.9,0.0,0.0,15.2,128,77,25.2

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-30,201911300HOU,ATL,Trae Young,https://www.basketball-reference.com/boxscores/201911300HOU.html,31:23,.852,.781,.563,.813,0.0,13.5,5.7,47.2,0.0,0.0,12.1,33.5,153,157,13.9
+2019-11-30,201911300HOU,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/201911300HOU.html,29:03,.453,.433,.600,.067,3.5,19.4,10.2,5.6,1.6,0.0,0.0,22.6,96,151,-9.8
+2019-11-30,201911300HOU,ATL,Allen Crabbe,https://www.basketball-reference.com/boxscores/201911300HOU.html,23:58,.600,.600,1.000,.000,0.0,5.9,2.5,11.8,2.0,0.0,0.0,8.9,127,154,-3.9
+2019-11-30,201911300HOU,ATL,Jabari Parker,https://www.basketball-reference.com/boxscores/201911300HOU.html,20:08,.688,.688,.500,.000,0.0,21.0,8.8,18.3,2.3,0.0,20.0,21.1,104,149,-2.9
+2019-11-30,201911300HOU,ATL,Damian Jones,https://www.basketball-reference.com/boxscores/201911300HOU.html,14:24,.752,.750,.000,.750,7.1,0.0,4.1,11.9,0.0,0.0,0.0,15.7,160,160,-5.5
+2019-11-30,201911300HOU,ATL,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/201911300HOU.html,23:12,.232,.111,.333,.444,8.8,18.3,12.8,23.0,0.0,0.0,21.8,25.2,64,155,-21.2
+2019-11-30,201911300HOU,ATL,Vince Carter,https://www.basketball-reference.com/boxscores/201911300HOU.html,18:34,.340,.300,1.000,.400,0.0,15.2,6.4,14.6,0.0,0.0,14.5,15.7,73,156,-14.1
+2019-11-30,201911300HOU,ATL,Tyrone Wallace,https://www.basketball-reference.com/boxscores/201911300HOU.html,16:37,.357,.357,.571,.000,0.0,25.5,10.7,0.0,0.0,7.6,0.0,17.9,71,151,-12.3
+2019-11-30,201911300HOU,ATL,Chandler Parsons,https://www.basketball-reference.com/boxscores/201911300HOU.html,16:20,.300,.300,1.000,.000,0.0,8.6,3.6,16.8,2.9,0.0,0.0,13.0,81,151,-9.1
+2019-11-30,201911300HOU,ATL,Evan Turner,https://www.basketball-reference.com/boxscores/201911300HOU.html,15:35,.000,.000,.250,.000,6.6,0.0,3.8,32.4,3.0,8.1,20.0,13.6,57,150,-9.6
+2019-11-30,201911300HOU,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/201911300HOU.html,15:27,.615,.625,.250,.500,19.8,0.0,11.5,9.8,0.0,0.0,29.1,18.9,105,160,-8.8
+2019-11-30,201911300HOU,ATL,Alex Len,https://www.basketball-reference.com/boxscores/201911300HOU.html,15:19,.857,.857,.000,.000,0.0,9.2,3.9,0.0,0.0,0.0,12.5,22.2,130,158,-4.4
+2019-11-30,201911300HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/201911300HOU.html,33:52,.857,.857,.786,.000,0.0,39.2,22.7,3.6,1.4,0.0,6.7,17.9,163,105,6.2
+2019-11-30,201911300HOU,HOU,James Harden,https://www.basketball-reference.com/boxscores/201911300HOU.html,30:41,.879,.833,.583,.958,0.0,10.0,5.8,46.4,4.6,3.6,12.8,51.4,166,102,29.1
+2019-11-30,201911300HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/201911300HOU.html,29:44,1.050,1.000,1.000,1.333,14.2,13.7,14.0,9.9,0.0,0.0,29.6,9.2,171,114,3.8
+2019-11-30,201911300HOU,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/201911300HOU.html,26:41,.631,.591,.091,.182,5.3,26.8,17.8,34.9,0.0,0.0,25.2,24.0,129,111,-3.8
+2019-11-30,201911300HOU,HOU,Tyson Chandler,https://www.basketball-reference.com/boxscores/201911300HOU.html,9:36,1.000,1.000,.000,.000,0.0,10.6,6.2,0.0,4.9,0.0,0.0,4.2,200,103,3.8
+2019-11-30,201911300HOU,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/201911300HOU.html,31:49,.526,.500,.500,.250,13.3,9.6,11.2,13.6,1.5,0.0,0.0,16.9,150,111,-3.4
+2019-11-30,201911300HOU,HOU,Gary Clark,https://www.basketball-reference.com/boxscores/201911300HOU.html,24:25,.300,.300,1.000,.000,11.6,16.7,14.6,11.8,0.0,0.0,0.0,8.3,139,113,-3.1
+2019-11-30,201911300HOU,HOU,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201911300HOU.html,20:47,.595,.600,.200,.400,20.4,9.8,14.3,10.2,2.3,5.4,25.4,15.3,123,106,-4.8
+2019-11-30,201911300HOU,HOU,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/201911300HOU.html,17:03,.875,.875,.500,.000,8.3,12.0,10.4,6.5,5.5,0.0,0.0,9.5,194,101,9.4
+2019-11-30,201911300HOU,HOU,Chris Clemons,https://www.basketball-reference.com/boxscores/201911300HOU.html,15:22,.800,.800,.800,.000,0.0,0.0,0.0,0.0,0.0,0.0,9.1,28.9,140,117,2.0

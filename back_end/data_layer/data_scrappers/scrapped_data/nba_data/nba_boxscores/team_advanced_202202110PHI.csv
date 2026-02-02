@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-11,202202110PHI,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202202110PHI.html,33:36,.643,.600,.400,.200,5.6,33.2,20.0,5.1,1.5,2.1,8.4,15.4,123,94,5.4
+2022-02-11,202202110PHI,OKC,Derrick Favors,https://www.basketball-reference.com/boxscores/202202110PHI.html,28:19,.615,.615,.154,.000,16.6,12.1,14.3,0.0,1.7,7.6,7.1,21.5,119,99,6.9
+2022-02-11,202202110PHI,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202202110PHI.html,26:42,.419,.382,.294,.118,0.0,12.8,6.7,7.4,0.0,0.0,5.3,30.8,84,107,-6.7
+2022-02-11,202202110PHI,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202202110PHI.html,23:56,.514,.357,.286,.571,3.9,21.5,13.1,32.4,0.0,3.0,31.3,23.2,87,101,-1.5
+2022-02-11,202202110PHI,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202202110PHI.html,18:36,.125,.125,.500,.000,0.0,4.6,2.4,0.0,0.0,0.0,0.0,18.7,28,111,-19.9
+2022-02-11,202202110PHI,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202202110PHI.html,30:14,.682,.682,.364,.000,0.0,17.0,8.9,6.6,0.0,2.4,15.4,18.7,108,104,0.6
+2022-02-11,202202110PHI,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202202110PHI.html,23:49,.608,.500,.500,1.000,11.9,25.2,18.8,26.0,0.0,3.0,0.0,10.5,152,100,7.1
+2022-02-11,202202110PHI,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202202110PHI.html,16:44,.000,.000,.714,.000,0.0,0.0,0.0,41.0,2.9,0.0,22.2,23.4,27,107,-17.4
+2022-02-11,202202110PHI,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202202110PHI.html,16:37,.250,.250,.667,.000,0.0,0.0,0.0,18.0,3.0,4.3,25.0,21.0,49,104,-7.7
+2022-02-11,202202110PHI,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202202110PHI.html,11:55,.250,.250,.500,.000,0.0,0.0,0.0,0.0,8.3,0.0,33.3,21.9,33,95,-14.8
+2022-02-11,202202110PHI,OKC,Vit Krejci,https://www.basketball-reference.com/boxscores/202202110PHI.html,8:39,.667,.667,.333,.000,0.0,0.0,0.0,46.4,0.0,0.0,0.0,15.1,146,113,8.2
+2022-02-11,202202110PHI,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202202110PHI.html,0:53,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,-9.7
+2022-02-11,202202110PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202202110PHI.html,36:17,.517,.500,.188,.063,7.1,20.8,13.6,14.8,0.0,7.2,0.0,18.8,121,89,7.0
+2022-02-11,202202110PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202202110PHI.html,34:38,.419,.340,.280,.440,9.9,40.8,24.6,22.3,1.4,12.6,11.8,40.6,89,75,7.7
+2022-02-11,202202110PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202202110PHI.html,31:46,.741,.714,.286,.357,5.4,8.9,7.1,13.5,0.0,0.0,5.8,22.5,145,97,8.9
+2022-02-11,202202110PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202202110PHI.html,30:37,.635,.571,.286,.286,2.8,6.1,4.4,0.0,4.8,0.0,11.3,12.1,118,88,0.7
+2022-02-11,202202110PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202202110PHI.html,29:11,.665,.500,.000,2.000,0.0,3.2,1.5,19.2,1.7,0.0,0.0,5.4,161,96,0.9
+2022-02-11,202202110PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202202110PHI.html,25:09,.202,.111,.111,.222,3.4,11.2,7.1,11.2,0.0,0.0,16.8,19.6,51,97,-16.7
+2022-02-11,202202110PHI,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202202110PHI.html,19:19,.403,.357,.714,.143,0.0,9.7,4.6,16.0,0.0,0.0,11.8,18.2,85,97,-6.9
+2022-02-11,202202110PHI,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202202110PHI.html,19:01,.250,.250,.667,.000,0.0,14.8,7.1,15.1,0.0,0.0,14.3,15.3,59,95,-8.6
+2022-02-11,202202110PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202202110PHI.html,13:22,.429,.429,.000,.000,25.7,21.1,23.5,0.0,7.4,13.1,12.5,24.9,96,68,5.0
+2022-02-11,202202110PHI,PHI,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202202110PHI.html,0:20,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,101,-6.9
+2022-02-11,202202110PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202202110PHI.html,0:20,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,101,-8.2

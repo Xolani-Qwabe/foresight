@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/201912090GSW.html
+Scraped: 2025-12-14 13:52:15
+
+line_scores: 2 rows (nba_boxscores/line_scores_201912090GSW.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_201912090GSW.csv)
+team_basic: 22 rows (nba_boxscores/team_basic_201912090GSW.csv)
+team_advanced: 22 rows (nba_boxscores/team_advanced_201912090GSW.csv)
+quarters: 82 rows (nba_boxscores/quarters_201912090GSW.csv)

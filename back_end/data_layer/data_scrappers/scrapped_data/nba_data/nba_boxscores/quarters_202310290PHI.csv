@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-10-29,202310290PHI,POR,Q1,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202310290PHI.html,8.27,1,3,.333,1,2,.500,0,0,0,0,0,0,0,0,0,1,3,0.9,-10,
+2023-10-29,202310290PHI,POR,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/202310290PHI.html,10.72,3,8,.375,1,2,.500,0,0,0,2,2,1,0,0,1,0,7,2.9,-10,
+2023-10-29,202310290PHI,POR,Q1,Scoot Henderson,https://www.basketball-reference.com/boxscores/202310290PHI.html,8.42,1,2,.500,0,1,.000,0,0,0,0,0,1,0,0,2,2,2,-1.1,-6,
+2023-10-29,202310290PHI,POR,Q1,Deandre Ayton,https://www.basketball-reference.com/boxscores/202310290PHI.html,8.33,1,2,.500,0,0,,0,0,1,3,4,2,1,0,0,1,2,4.6,-6,
+2023-10-29,202310290PHI,POR,Q1,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.68,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,1,2,0.6,-8,
+2023-10-29,202310290PHI,POR,Q1,Toumani Camara,https://www.basketball-reference.com/boxscores/202310290PHI.html,3.67,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2023-10-29,202310290PHI,POR,Q1,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.32,2,4,.500,0,0,,2,2,0,1,1,3,1,0,1,0,6,6.4,0,1.000
+2023-10-29,202310290PHI,POR,Q1,Robert Williams,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.32,2,2,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,4,4.1,0,
+2023-10-29,202310290PHI,POR,Q1,Jabari Walker,https://www.basketball-reference.com/boxscores/202310290PHI.html,1.28,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,+2,1.000
+2023-10-29,202310290PHI,POR,Q2,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,1,3,.333,0,1,.000,2,2,1,2,3,1,0,0,1,1,4,2.9,+2,1.000
+2023-10-29,202310290PHI,POR,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.42,1,2,.500,0,0,,6,7,0,0,0,0,0,1,0,1,8,6.9,-3,.857
+2023-10-29,202310290PHI,POR,Q2,Scoot Henderson,https://www.basketball-reference.com/boxscores/202310290PHI.html,5.62,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-0.4,+2,
+2023-10-29,202310290PHI,POR,Q2,Deandre Ayton,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.82,2,3,.667,0,0,,1,1,0,2,2,0,1,0,0,2,5,4.5,+6,1.000
+2023-10-29,202310290PHI,POR,Q2,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202310290PHI.html,2.33,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,
+2023-10-29,202310290PHI,POR,Q2,Toumani Camara,https://www.basketball-reference.com/boxscores/202310290PHI.html,6.38,3,5,.600,1,1,1.000,1,2,2,0,2,1,0,1,0,2,8,7.3,0,.500
+2023-10-29,202310290PHI,POR,Q2,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.67,0,3,.000,0,2,.000,0,0,1,1,2,1,0,0,1,0,0,-1.4,-4,
+2023-10-29,202310290PHI,POR,Q2,Robert Williams,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.18,0,1,.000,0,0,,2,2,1,1,2,0,0,0,0,1,2,1.9,-4,1.000
+2023-10-29,202310290PHI,POR,Q2,Jabari Walker,https://www.basketball-reference.com/boxscores/202310290PHI.html,6.58,2,2,1.000,0,0,,1,1,1,1,2,0,2,1,1,1,5,6.7,+10,1.000
+2023-10-29,202310290PHI,POR,Q3,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,4,5,.800,1,1,1.000,0,1,0,2,2,1,0,0,2,0,9,6.0,-12,.000
+2023-10-29,202310290PHI,POR,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/202310290PHI.html,9.77,1,6,.167,0,2,.000,0,0,2,1,3,0,0,1,1,1,2,-0.8,-16,
+2023-10-29,202310290PHI,POR,Q3,Scoot Henderson,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.02,1,3,.333,0,1,.000,0,0,0,0,0,0,0,1,1,0,2,0.0,-12,
+2023-10-29,202310290PHI,POR,Q3,Deandre Ayton,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.47,0,2,.000,0,0,,0,0,1,2,3,0,0,1,0,0,0,0.6,-15,
+2023-10-29,202310290PHI,POR,Q3,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202310290PHI.html,3.63,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-7,
+2023-10-29,202310290PHI,POR,Q3,Toumani Camara,https://www.basketball-reference.com/boxscores/202310290PHI.html,5.62,0,2,.000,0,1,.000,0,0,1,0,1,0,0,1,0,1,0,-0.4,-1,
+2023-10-29,202310290PHI,POR,Q3,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.98,3,5,.600,2,3,.667,0,0,0,1,1,1,0,0,0,1,8,6.3,0,
+2023-10-29,202310290PHI,POR,Q3,Robert Williams,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.98,0,0,,0,0,,0,0,0,3,3,0,1,0,0,1,0,1.5,0,
+2023-10-29,202310290PHI,POR,Q3,Jabari Walker,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.53,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,1,0,0,-0.7,+3,
+2023-10-29,202310290PHI,POR,Q4,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202310290PHI.html,3.37,1,2,.500,0,0,,2,2,0,0,0,0,0,0,0,1,4,2.6,-3,1.000
+2023-10-29,202310290PHI,POR,Q4,Scoot Henderson,https://www.basketball-reference.com/boxscores/202310290PHI.html,5.45,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,1,2,0,-1.5,-1,
+2023-10-29,202310290PHI,POR,Q4,Toumani Camara,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,2,9,.222,0,3,.000,0,0,0,0,0,1,0,0,0,0,4,-0.8,-10,
+2023-10-29,202310290PHI,POR,Q4,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202310290PHI.html,5.88,2,4,.500,0,1,.000,0,0,0,1,1,0,0,0,0,1,4,1.9,-2,
+2023-10-29,202310290PHI,POR,Q4,Robert Williams,https://www.basketball-reference.com/boxscores/202310290PHI.html,6.22,0,0,,0,0,,0,0,0,1,1,2,1,2,1,0,0,3.1,-2,
+2023-10-29,202310290PHI,POR,Q4,Jabari Walker,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,2,6,.333,1,2,.500,0,0,2,3,5,1,1,0,0,3,5,4.4,-10,
+2023-10-29,202310290PHI,POR,Q4,Kris Murray,https://www.basketball-reference.com/boxscores/202310290PHI.html,5.78,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,0,1,0,-0.1,-8,
+2023-10-29,202310290PHI,POR,Q4,Skylar Mays,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.65,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,1,0,0,-1.7,-7,
+2023-10-29,202310290PHI,POR,Q4,Rayan Rupert,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.65,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,
+2023-10-29,202310290PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202310290PHI.html,10.72,4,4,1.000,1,1,1.000,0,0,0,1,1,0,0,1,0,0,9,8.8,+10,
+2023-10-29,202310290PHI,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.48,2,3,.667,2,3,.667,4,4,0,1,1,1,0,0,1,0,10,8.7,+6,1.000
+2023-10-29,202310290PHI,PHI,Q1,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202310290PHI.html,11.68,1,2,.500,0,0,,3,3,0,0,0,5,0,0,0,0,5,7.5,+8,1.000
+2023-10-29,202310290PHI,PHI,Q1,Joel Embiid,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,4,7,.571,0,1,.000,2,2,0,5,5,3,2,3,1,1,10,13.0,+8,1.000
+2023-10-29,202310290PHI,PHI,Q1,P.J. Tucker,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.13,0,1,.000,0,1,.000,0,0,0,2,2,0,0,1,1,0,0,-0.4,+6,
+2023-10-29,202310290PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.87,0,1,.000,0,1,.000,0,0,0,1,1,0,1,0,0,0,0,0.6,+2,
+2023-10-29,202310290PHI,PHI,Q1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.83,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,2,2,1.6,+2,
+2023-10-29,202310290PHI,PHI,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,1.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2023-10-29,202310290PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202310290PHI.html,9.27,1,1,1.000,0,0,,1,2,0,1,1,2,0,0,0,1,3,3.6,+2,.500
+2023-10-29,202310290PHI,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,1,4,.250,1,2,.500,2,2,0,0,0,0,0,0,1,0,5,1.6,-2,1.000
+2023-10-29,202310290PHI,PHI,Q2,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202310290PHI.html,6.87,0,0,,0,0,,0,0,0,1,1,1,1,0,0,1,0,1.6,+7,
+2023-10-29,202310290PHI,PHI,Q2,Joel Embiid,https://www.basketball-reference.com/boxscores/202310290PHI.html,5.42,4,8,.500,0,0,,6,7,4,0,4,0,0,2,0,1,14,13.4,+8,.857
+2023-10-29,202310290PHI,PHI,Q2,P.J. Tucker,https://www.basketball-reference.com/boxscores/202310290PHI.html,5.42,0,0,,0,0,,0,0,0,2,2,0,0,0,0,1,0,0.2,+8,
+2023-10-29,202310290PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,6.58,2,3,.667,0,0,,4,4,1,1,2,0,1,0,1,0,8,7.7,-10,1.000
+2023-10-29,202310290PHI,PHI,Q2,Patrick Beverley,https://www.basketball-reference.com/boxscores/202310290PHI.html,1.32,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,-1,
+2023-10-29,202310290PHI,PHI,Q2,Paul Reed,https://www.basketball-reference.com/boxscores/202310290PHI.html,6.58,0,3,.000,0,2,.000,0,0,0,0,0,1,0,0,0,2,0,-2.2,-10,
+2023-10-29,202310290PHI,PHI,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,2.73,0,0,,0,0,,0,0,1,0,1,0,0,0,1,0,0,-0.3,-4,
+2023-10-29,202310290PHI,PHI,Q2,Jaden Springer,https://www.basketball-reference.com/boxscores/202310290PHI.html,3.82,0,2,.000,0,0,,0,0,1,0,1,0,0,1,0,4,0,-1.6,-8,
+2023-10-29,202310290PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202310290PHI.html,9.77,3,4,.750,1,2,.500,2,2,0,0,0,0,1,0,1,1,9,7.0,+16,1.000
+2023-10-29,202310290PHI,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.02,1,4,.250,1,2,.500,0,0,1,4,5,2,0,0,0,0,3,3.9,+12,
+2023-10-29,202310290PHI,PHI,Q3,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,3,7,.429,1,2,.500,0,0,0,1,1,2,1,0,1,1,7,4.6,+12,
+2023-10-29,202310290PHI,PHI,Q3,Joel Embiid,https://www.basketball-reference.com/boxscores/202310290PHI.html,12.0,4,7,.571,2,3,.667,1,3,1,5,6,4,0,1,2,1,11,10.2,+12,.333
+2023-10-29,202310290PHI,PHI,Q3,P.J. Tucker,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.02,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,1,0,0,3,4.4,+12,
+2023-10-29,202310290PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.98,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,
+2023-10-29,202310290PHI,PHI,Q3,Patrick Beverley,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.98,0,1,.000,0,0,,0,0,1,0,1,1,1,0,0,0,0,1.7,0,
+2023-10-29,202310290PHI,PHI,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,2.23,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-4,
+2023-10-29,202310290PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202310290PHI.html,7.98,0,2,.000,0,1,.000,3,3,0,3,3,0,0,1,2,1,3,0.8,+3,1.000
+2023-10-29,202310290PHI,PHI,Q4,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202310290PHI.html,8.22,2,3,.667,0,1,.000,4,4,0,4,4,1,0,0,0,1,8,8.2,+3,1.000
+2023-10-29,202310290PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,9.32,1,5,.200,0,2,.000,2,2,0,0,0,0,0,1,0,1,4,1.2,+7,1.000
+2023-10-29,202310290PHI,PHI,Q4,Patrick Beverley,https://www.basketball-reference.com/boxscores/202310290PHI.html,9.32,1,1,1.000,0,0,,0,0,0,1,1,0,0,2,1,1,2,2.0,+7,
+2023-10-29,202310290PHI,PHI,Q4,Paul Reed,https://www.basketball-reference.com/boxscores/202310290PHI.html,10.47,1,2,.500,0,0,,0,0,1,4,5,0,0,1,1,0,2,2.6,+10,
+2023-10-29,202310290PHI,PHI,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202310290PHI.html,4.02,1,2,.500,0,1,.000,0,0,0,0,0,2,1,0,0,0,2,3.4,+7,
+2023-10-29,202310290PHI,PHI,Q4,Jaden Springer,https://www.basketball-reference.com/boxscores/202310290PHI.html,3.78,1,1,1.000,0,0,,0,0,0,1,1,2,0,0,1,0,2,2.4,+7,
+2023-10-29,202310290PHI,PHI,Q4,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202310290PHI.html,2.68,1,1,1.000,1,1,1.000,1,2,0,0,0,0,0,0,0,0,4,3.3,+3,.500
+2023-10-29,202310290PHI,PHI,Q4,Filip Petrušev,https://www.basketball-reference.com/boxscores/202310290PHI.html,2.68,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,
+2023-10-29,202310290PHI,PHI,Q4,Mo Bamba,https://www.basketball-reference.com/boxscores/202310290PHI.html,1.53,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,0,

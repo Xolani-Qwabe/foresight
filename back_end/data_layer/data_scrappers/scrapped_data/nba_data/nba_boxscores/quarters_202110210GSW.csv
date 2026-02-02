@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2021-10-21,202110210GSW,LAC,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202110210GSW.html,9.62,0,2,.000,0,0,0,0,1,1,2,2,1,0,1,0,0,1.0,-11,,
+2021-10-21,202110210GSW,LAC,Q1,Paul George,https://www.basketball-reference.com/boxscores/202110210GSW.html,10.82,3,6,.500,0,1,0,0,0,1,1,2,1,0,1,1,6,4.3,-9,.000,
+2021-10-21,202110210GSW,LAC,Q1,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.75,2,3,.667,0,1,0,0,0,0,0,0,0,0,0,2,4,1.9,-4,.000,
+2021-10-21,202110210GSW,LAC,Q1,Marcus Morris,https://www.basketball-reference.com/boxscores/202110210GSW.html,9.62,2,3,.667,1,1,2,2,0,0,0,0,1,0,0,1,7,6.3,-11,1.000,1.000
+2021-10-21,202110210GSW,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202110210GSW.html,6.12,3,4,.750,0,0,0,0,0,1,1,1,0,0,0,0,6,5.4,-4,,
+2021-10-21,202110210GSW,LAC,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202110210GSW.html,5.88,0,2,.000,0,1,0,0,1,0,1,0,0,0,0,0,0,-0.7,-13,.000,
+2021-10-21,202110210GSW,LAC,Q1,Luke Kennard,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.25,1,4,.250,0,3,0,0,0,0,0,2,0,0,0,0,2,1.0,-13,.000,
+2021-10-21,202110210GSW,LAC,Q1,Amir Coffey,https://www.basketball-reference.com/boxscores/202110210GSW.html,2.38,0,1,.000,0,1,0,0,0,1,1,0,0,0,0,1,0,-0.8,-6,.000,
+2021-10-21,202110210GSW,LAC,Q1,Justise Winslow,https://www.basketball-reference.com/boxscores/202110210GSW.html,3.57,1,1,1.000,0,0,0,0,1,0,1,0,0,0,0,1,2,2.0,-14,,
+2021-10-21,202110210GSW,LAC,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.32,0,3,.000,0,1,0,0,0,1,1,1,0,0,0,0,0,-1.1,+5,.000,
+2021-10-21,202110210GSW,LAC,Q2,Paul George,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.8,6,7,.857,4,5,0,0,0,2,2,1,0,0,1,1,16,13.4,+23,.800,
+2021-10-21,202110210GSW,LAC,Q2,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.8,5,6,.833,1,1,0,1,0,1,1,1,2,0,0,0,11,11.4,+3,1.000,.000
+2021-10-21,202110210GSW,LAC,Q2,Marcus Morris,https://www.basketball-reference.com/boxscores/202110210GSW.html,6.75,0,0,,0,0,0,0,0,1,1,0,0,0,1,2,0,-1.5,+6,,
+2021-10-21,202110210GSW,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202110210GSW.html,3.08,0,0,,0,0,4,6,0,0,0,0,0,0,0,0,4,3.2,-5,,.667
+2021-10-21,202110210GSW,LAC,Q2,Terance Mann,https://www.basketball-reference.com/boxscores/202110210GSW.html,10.33,1,2,.500,0,1,0,0,0,1,1,1,1,0,0,1,2,2.6,+18,.000,
+2021-10-21,202110210GSW,LAC,Q2,Luke Kennard,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.92,1,1,1.000,0,0,0,0,0,1,1,1,0,0,0,1,2,2.3,+23,,
+2021-10-21,202110210GSW,LAC,Q2,Amir Coffey,https://www.basketball-reference.com/boxscores/202110210GSW.html,5.25,0,0,,0,0,5,5,0,0,0,0,1,0,0,1,5,5.6,+12,,1.000
+2021-10-21,202110210GSW,LAC,Q2,Justise Winslow,https://www.basketball-reference.com/boxscores/202110210GSW.html,1.75,0,0,,0,0,0,0,0,1,1,0,0,0,1,1,0,-1.1,+5,,
+2021-10-21,202110210GSW,LAC,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202110210GSW.html,10.35,2,8,.250,1,3,0,0,0,2,2,2,0,0,0,0,5,2.2,+2,.333,
+2021-10-21,202110210GSW,LAC,Q3,Paul George,https://www.basketball-reference.com/boxscores/202110210GSW.html,9.05,2,6,.333,0,2,0,0,0,3,3,0,0,0,1,1,4,0.1,-5,.000,
+2021-10-21,202110210GSW,LAC,Q3,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202110210GSW.html,9.52,2,4,.500,0,1,1,2,1,1,2,1,1,0,0,0,5,5.3,-5,.000,.500
+2021-10-21,202110210GSW,LAC,Q3,Marcus Morris,https://www.basketball-reference.com/boxscores/202110210GSW.html,0.78,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-5,,
+2021-10-21,202110210GSW,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.92,1,3,.333,0,0,1,2,1,1,2,1,0,0,0,2,3,1.8,-5,,.500
+2021-10-21,202110210GSW,LAC,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202110210GSW.html,11.22,2,2,1.000,2,2,0,0,0,2,2,2,0,0,0,1,6,7.0,+7,1.000,
+2021-10-21,202110210GSW,LAC,Q3,Luke Kennard,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.13,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,1,3,2.3,+7,1.000,
+2021-10-21,202110210GSW,LAC,Q3,Amir Coffey,https://www.basketball-reference.com/boxscores/202110210GSW.html,2.95,0,2,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-1.4,+7,.000,
+2021-10-21,202110210GSW,LAC,Q3,Justise Winslow,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.08,0,0,,0,0,0,0,0,2,2,1,0,0,1,0,0,0.3,+7,,
+2021-10-21,202110210GSW,LAC,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202110210GSW.html,12.0,2,6,.333,2,5,0,0,0,0,0,1,0,0,0,3,6,2.1,-5,.400,
+2021-10-21,202110210GSW,LAC,Q4,Paul George,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.88,1,4,.250,1,3,0,0,1,4,5,3,0,0,0,0,3,4.6,-6,.333,
+2021-10-21,202110210GSW,LAC,Q4,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.8,1,3,.333,0,1,0,0,0,0,0,0,0,1,0,2,2,0.2,-7,.000,
+2021-10-21,202110210GSW,LAC,Q4,Marcus Morris,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.88,1,4,.250,1,4,0,0,0,0,0,0,1,1,0,0,3,2.3,-6,.250,
+2021-10-21,202110210GSW,LAC,Q4,Ivica Zubac,https://www.basketball-reference.com/boxscores/202110210GSW.html,0.08,0,0,,0,0,1,2,0,0,0,0,0,0,0,0,1,0.6,+1,,.500
+2021-10-21,202110210GSW,LAC,Q4,Terance Mann,https://www.basketball-reference.com/boxscores/202110210GSW.html,11.97,1,1,1.000,0,0,1,1,0,3,3,0,0,0,0,1,3,3.2,-6,,1.000
+2021-10-21,202110210GSW,LAC,Q4,Luke Kennard,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.15,0,3,.000,0,1,0,0,0,0,0,1,0,0,0,0,0,-1.4,+2,.000,
+2021-10-21,202110210GSW,LAC,Q4,Amir Coffey,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.12,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,,
+2021-10-21,202110210GSW,LAC,Q4,Justise Winslow,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.12,1,3,.333,0,0,0,0,1,1,2,0,0,0,0,0,2,1.3,+1,,
+2021-10-21,202110210GSW,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202110210GSW.html,12.0,9,9,1.000,5,5,2,2,0,2,2,1,1,1,1,0,25,24.3,+17,1.000,1.000
+2021-10-21,202110210GSW,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.43,0,0,,0,0,0,0,0,3,3,5,0,0,0,2,0,3.6,+3,,
+2021-10-21,202110210GSW,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.43,3,4,.750,3,4,2,2,0,0,0,1,0,0,0,0,11,10.1,+3,.750,1.000
+2021-10-21,202110210GSW,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.43,1,3,.333,1,3,0,0,0,0,0,1,1,0,3,0,3,0.0,+3,.333,
+2021-10-21,202110210GSW,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202110210GSW.html,6.12,0,0,,0,0,0,0,0,0,0,1,0,1,0,2,0,0.6,+4,,
+2021-10-21,202110210GSW,GSW,Q1,Damion Lee,https://www.basketball-reference.com/boxscores/202110210GSW.html,3.57,0,0,,0,0,1,2,0,0,0,0,0,0,0,0,1,0.6,+14,,.500
+2021-10-21,202110210GSW,GSW,Q1,Andre Iguodala,https://www.basketball-reference.com/boxscores/202110210GSW.html,3.57,0,0,,0,0,0,0,0,2,2,1,0,0,0,0,0,1.3,+14,,
+2021-10-21,202110210GSW,GSW,Q1,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202110210GSW.html,3.57,0,1,.000,0,1,0,0,0,1,1,0,0,0,0,0,0,-0.4,+14,.000,
+2021-10-21,202110210GSW,GSW,Q1,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202110210GSW.html,5.88,2,2,1.000,0,0,0,0,0,2,2,0,0,0,0,0,4,4.0,+13,,
+2021-10-21,202110210GSW,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.72,1,5,.200,0,1,1,1,0,0,0,0,0,0,4,1,3,-4.5,-18,.000,1.000
+2021-10-21,202110210GSW,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.5,0,1,.000,0,0,0,2,0,1,1,0,0,0,0,0,0,-1.2,-18,,.000
+2021-10-21,202110210GSW,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202110210GSW.html,6.05,1,4,.250,0,0,0,0,3,1,4,0,0,0,1,0,2,1.0,-18,,
+2021-10-21,202110210GSW,GSW,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.28,1,2,.500,0,1,0,0,0,1,1,2,0,0,1,3,2,0.5,0,.000,
+2021-10-21,202110210GSW,GSW,Q2,Damion Lee,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.3,0,1,.000,0,1,2,2,0,0,0,1,0,0,0,1,2,1.6,-9,.000,1.000
+2021-10-21,202110210GSW,GSW,Q2,Andre Iguodala,https://www.basketball-reference.com/boxscores/202110210GSW.html,5.95,2,2,1.000,0,0,0,0,0,1,1,0,1,1,0,0,4,5.4,0,,
+2021-10-21,202110210GSW,GSW,Q2,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.5,2,2,1.000,0,0,0,0,0,2,2,1,0,0,1,0,4,3.7,0,,
+2021-10-21,202110210GSW,GSW,Q2,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202110210GSW.html,6.45,1,1,1.000,0,0,0,0,0,1,1,0,0,0,0,0,2,2.0,-17,,
+2021-10-21,202110210GSW,GSW,Q2,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202110210GSW.html,5.55,1,2,.500,1,2,0,0,0,0,0,2,0,0,1,3,3,1.2,-1,.500,
+2021-10-21,202110210GSW,GSW,Q2,Moses Moody,https://www.basketball-reference.com/boxscores/202110210GSW.html,3.7,0,0,,0,0,0,0,0,0,0,2,0,0,0,0,0,1.4,-9,,
+2021-10-21,202110210GSW,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202110210GSW.html,11.95,3,7,.429,1,4,0,0,0,4,4,0,0,0,1,1,7,3.1,-2,.250,
+2021-10-21,202110210GSW,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/202110210GSW.html,9.9,3,3,1.000,0,0,1,5,0,0,0,1,1,0,1,0,7,5.2,+2,,.200
+2021-10-21,202110210GSW,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.92,2,4,.500,0,2,0,0,0,1,1,1,1,1,0,0,4,4.7,+5,.000,
+2021-10-21,202110210GSW,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202110210GSW.html,6.35,0,3,.000,0,1,0,0,0,1,1,0,0,0,1,0,0,-2.8,+3,.000,
+2021-10-21,202110210GSW,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.92,2,3,.667,0,0,2,2,4,3,7,0,0,0,0,1,6,8.0,+5,,1.000
+2021-10-21,202110210GSW,GSW,Q3,Damion Lee,https://www.basketball-reference.com/boxscores/202110210GSW.html,5.6,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.4,-5,,
+2021-10-21,202110210GSW,GSW,Q3,Andre Iguodala,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.13,0,0,,0,0,0,0,0,1,1,1,0,0,0,0,0,1.0,-7,,
+2021-10-21,202110210GSW,GSW,Q3,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202110210GSW.html,2.05,0,0,,0,0,0,0,0,1,1,0,0,0,1,0,0,-0.7,-4,,
+2021-10-21,202110210GSW,GSW,Q3,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202110210GSW.html,4.08,0,2,.000,0,0,0,0,1,2,3,0,0,0,1,0,0,-1.1,-7,,
+2021-10-21,202110210GSW,GSW,Q3,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202110210GSW.html,0.05,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2021-10-21,202110210GSW,GSW,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202110210GSW.html,0.05,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2021-10-21,202110210GSW,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202110210GSW.html,5.88,3,4,.750,2,3,2,2,0,4,4,0,0,0,0,0,10,9.6,+1,.667,1.000
+2021-10-21,202110210GSW,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/202110210GSW.html,7.88,1,1,1.000,0,0,1,2,0,2,2,1,0,0,0,1,3,3.2,+6,,.500
+2021-10-21,202110210GSW,GSW,Q4,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.35,0,3,.000,0,0,0,0,0,1,1,1,0,0,1,1,0,-2.5,+5,,
+2021-10-21,202110210GSW,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202110210GSW.html,6.12,2,6,.333,0,1,0,0,1,1,2,1,0,0,2,1,4,-0.1,+4,.000,
+2021-10-21,202110210GSW,GSW,Q4,Kevon Looney,https://www.basketball-reference.com/boxscores/202110210GSW.html,0.08,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,,
+2021-10-21,202110210GSW,GSW,Q4,Damion Lee,https://www.basketball-reference.com/boxscores/202110210GSW.html,11.92,3,5,.600,2,2,0,0,0,1,1,1,0,0,0,1,8,6.3,+6,1.000,
+2021-10-21,202110210GSW,GSW,Q4,Andre Iguodala,https://www.basketball-reference.com/boxscores/202110210GSW.html,9.95,0,0,,0,0,0,0,0,2,2,1,0,0,1,0,0,0.3,+6,,
+2021-10-21,202110210GSW,GSW,Q4,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202110210GSW.html,8.17,0,0,,0,0,0,0,1,2,3,1,0,0,0,1,0,1.6,+3,,
+2021-10-21,202110210GSW,GSW,Q4,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202110210GSW.html,1.65,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-5,,

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-28,202203280CHO,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202203280CHO.html,37:45,.529,.529,.588,.000,2.6,15.1,8.4,12.3,0.0,2.5,15.0,22.2,100,112,-2.5
+2022-03-28,202203280CHO,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202203280CHO.html,35:26,.583,.529,.000,.706,13.8,45.2,28.3,53.6,2.7,0.0,15.2,31.1,126,102,15.0
+2022-03-28,202203280CHO,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202203280CHO.html,33:59,.643,.600,.400,.200,2.9,6.7,4.7,38.6,1.4,0.0,8.4,14.7,148,113,5.9
+2022-03-28,202203280CHO,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202203280CHO.html,33:29,.591,.594,.188,.250,14.6,6.8,11.0,15.9,2.9,2.8,0.0,22.3,139,108,9.1
+2022-03-28,202203280CHO,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202203280CHO.html,32:17,.643,.600,.400,.200,0.0,14.2,6.5,4.6,0.0,2.9,8.4,15.5,124,112,-2.1
+2022-03-28,202203280CHO,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202203280CHO.html,26:26,.512,.375,.750,.500,0.0,13.0,6.0,0.0,1.8,0.0,17.0,9.3,94,111,-6.3
+2022-03-28,202203280CHO,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202203280CHO.html,19:10,.580,.500,.833,.667,5.1,6.0,5.5,14.3,0.0,0.0,20.5,21.4,108,116,-3.5
+2022-03-28,202203280CHO,DEN,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202203280CHO.html,12:23,.773,.667,.333,.667,23.7,9.2,17.0,0.0,0.0,0.0,43.6,23.3,96,115,-13.5
+2022-03-28,202203280CHO,DEN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202203280CHO.html,5:03,.000,.000,1.000,.000,0.0,22.6,10.4,0.0,9.6,0.0,33.3,24.9,0,91,-26.8
+2022-03-28,202203280CHO,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202203280CHO.html,4:02,.000,.000,1.000,.000,24.3,28.3,26.2,0.0,0.0,0.0,0.0,10.4,67,111,-15.4
+2022-03-28,202203280CHO,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202203280CHO.html,36:02,.602,.591,.455,.045,3.2,27.2,16.1,4.8,1.3,2.5,18.2,32.6,92,110,-2.4
+2022-03-28,202203280CHO,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202203280CHO.html,34:13,.503,.476,.524,.095,10.0,8.6,9.2,47.1,2.8,0.0,12.1,31.1,110,115,6.3
+2022-03-28,202203280CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202203280CHO.html,29:23,.714,.714,.571,.000,0.0,20.0,10.8,17.4,0.0,3.1,12.5,11.6,129,115,2.2
+2022-03-28,202203280CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202203280CHO.html,26:18,.429,.429,.500,.000,0.0,7.4,4.0,41.9,1.8,0.0,0.0,22.8,110,118,1.2
+2022-03-28,202203280CHO,CHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202203280CHO.html,24:56,1.025,1.000,.000,.500,0.0,7.9,4.2,9.6,3.9,3.6,0.0,4.2,217,111,1.5
+2022-03-28,202203280CHO,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202203280CHO.html,26:07,.607,.667,.667,.222,4.4,7.5,6.1,10.6,1.9,0.0,0.0,16.2,123,118,3.0
+2022-03-28,202203280CHO,CHO,Isaiah Thomas,https://www.basketball-reference.com/boxscores/202203280CHO.html,21:29,.466,.458,.333,.167,0.0,18.2,9.8,13.6,2.3,0.0,0.0,25.6,99,113,-2.4
+2022-03-28,202203280CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202203280CHO.html,16:37,.000,.000,.000,.000,0.0,0.0,0.0,6.6,2.9,0.0,40.0,12.9,13,119,-16.3
+2022-03-28,202203280CHO,CHO,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202203280CHO.html,14:30,.945,1.000,.000,1.333,23.6,13.5,18.2,19.4,6.7,0.0,29.6,19.9,144,104,11.7
+2022-03-28,202203280CHO,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202203280CHO.html,10:25,,,,,0.0,9.4,5.1,0.0,0.0,0.0,100.0,4.1,0,122,-13.0

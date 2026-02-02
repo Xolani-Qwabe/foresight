@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202104220DAL.html
+Scraped: 2025-12-14 21:32:51
+
+line_scores: 2 rows (nba_boxscores/line_scores_202104220DAL.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202104220DAL.csv)
+team_basic: 19 rows (nba_boxscores/team_basic_202104220DAL.csv)
+team_advanced: 19 rows (nba_boxscores/team_advanced_202104220DAL.csv)
+quarters: 68 rows (nba_boxscores/quarters_202104220DAL.csv)

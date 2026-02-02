@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-12,202002120PHO,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202002120PHO.html,33:47,.811,.750,.286,.429,0.0,13.5,7.3,27.1,2.8,10.5,10.7,24.7,145,102,17.7
+2020-02-12,202002120PHO,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202002120PHO.html,32:01,.466,.417,.583,.167,0.0,10.7,5.8,13.6,1.5,0.0,13.4,20.8,87,114,-6.9
+2020-02-12,202002120PHO,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202002120PHO.html,31:42,.500,.500,.800,.000,0.0,18.0,9.7,13.8,4.5,0.0,9.1,15.5,96,106,-0.4
+2020-02-12,202002120PHO,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202002120PHO.html,31:06,.660,.636,.091,.545,8.6,36.7,23.7,16.4,0.0,8.6,18.0,23.9,115,106,1.7
+2020-02-12,202002120PHO,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202002120PHO.html,30:20,.551,.500,.400,.200,0.0,22.6,12.2,39.7,1.6,0.0,47.9,15.4,90,112,-2.8
+2020-02-12,202002120PHO,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202002120PHO.html,26:47,.676,.625,.250,.250,10.0,17.1,13.8,11.9,0.0,0.0,25.3,19.8,108,116,-4.7
+2020-02-12,202002120PHO,GSW,Jeremy Pargo,https://www.basketball-reference.com/boxscores/202002120PHO.html,20:54,.682,.682,.455,.000,0.0,5.5,2.9,18.2,0.0,0.0,15.4,27.8,105,119,-4.9
+2020-02-12,202002120PHO,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202002120PHO.html,14:00,.667,.667,.000,.000,0.0,8.2,4.4,0.0,3.4,0.0,0.0,9.6,123,110,-2.0
+2020-02-12,202002120PHO,GSW,Zach Norvell,https://www.basketball-reference.com/boxscores/202002120PHO.html,8:01,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,11.2,0,120,-23.0
+2020-02-12,202002120PHO,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202002120PHO.html,7:12,.532,.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,51.5,24.1,53,120,-23.2
+2020-02-12,202002120PHO,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/202002120PHO.html,4:10,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,21.5,0,120,-38.0
+2020-02-12,202002120PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202002120PHO.html,37:15,.520,.409,.364,.409,0.0,17.9,8.3,32.5,2.5,2.8,16.1,35.7,102,104,1.2
+2020-02-12,202002120PHO,PHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202002120PHO.html,32:20,.444,.406,.625,.125,0.0,24.7,11.4,0.0,0.0,0.0,0.0,22.5,92,111,-9.9
+2020-02-12,202002120PHO,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202002120PHO.html,32:18,.583,.583,.333,.000,0.0,8.3,3.8,4.5,4.4,3.2,7.7,17.3,106,100,0.4
+2020-02-12,202002120PHO,PHO,Ricky Rubio,https://www.basketball-reference.com/boxscores/202002120PHO.html,23:34,.563,.563,.125,.000,9.7,17.0,13.1,54.1,4.0,0.0,38.5,23.7,100,103,-1.2
+2020-02-12,202002120PHO,PHO,Cheick Diallo,https://www.basketball-reference.com/boxscores/202002120PHO.html,21:34,.833,.833,.000,.000,5.3,43.3,22.8,0.0,4.4,0.0,0.0,12.0,166,100,4.6
+2020-02-12,202002120PHO,PHO,Jonah Bolden,https://www.basketball-reference.com/boxscores/202002120PHO.html,26:19,.436,.333,.167,.333,13.0,20.3,16.4,0.0,1.8,7.9,0.0,11.2,114,101,-5.2
+2020-02-12,202002120PHO,PHO,Elie Okobo,https://www.basketball-reference.com/boxscores/202002120PHO.html,22:00,.607,.611,.444,.222,0.0,12.1,5.6,21.1,0.0,0.0,16.8,23.2,106,113,-4.3
+2020-02-12,202002120PHO,PHO,Jevon Carter,https://www.basketball-reference.com/boxscores/202002120PHO.html,19:04,1.000,1.000,.500,.000,12.0,0.0,6.5,14.6,2.5,0.0,0.0,9.0,203,108,10.6
+2020-02-12,202002120PHO,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202002120PHO.html,17:35,.750,.750,1.000,.000,0.0,15.2,7.0,8.1,5.4,0.0,14.3,17.1,121,100,6.3
+2020-02-12,202002120PHO,PHO,Ty Jerome,https://www.basketball-reference.com/boxscores/202002120PHO.html,8:01,.500,.500,.500,.000,0.0,16.6,7.7,16.6,5.9,0.0,0.0,10.7,119,99,1.6

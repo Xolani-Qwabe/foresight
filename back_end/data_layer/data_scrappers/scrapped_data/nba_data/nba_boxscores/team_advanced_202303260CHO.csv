@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-26,202303260CHO,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202303260CHO.html,40:00,.599,.534,.552,.345,2.6,27.5,15.2,54.5,2.5,4.1,10.7,44.1,114,106,14.9
+2023-03-26,202303260CHO,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202303260CHO.html,35:30,.510,.400,.400,.400,0.0,11.3,5.7,16.1,2.8,2.3,10.2,26.1,97,112,-3.1
+2023-03-26,202303260CHO,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202303260CHO.html,33:47,.300,.300,1.000,.000,0.0,17.8,9.0,0.0,0.0,0.0,0.0,7.0,57,118,-11.5
+2023-03-26,202303260CHO,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202303260CHO.html,14:00,.500,.500,.500,.000,0.0,0.0,0.0,0.0,3.5,0.0,0.0,6.7,94,116,-9.9
+2023-03-26,202303260CHO,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202303260CHO.html,3:44,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.6,0,125,-21.1
+2023-03-26,202303260CHO,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202303260CHO.html,36:27,.504,.464,.643,.143,0.0,13.7,6.9,5.2,1.4,2.2,0.0,19.3,99,115,-3.8
+2023-03-26,202303260CHO,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202303260CHO.html,32:05,.709,.667,.778,.222,3.2,9.4,6.3,5.8,1.5,5.1,0.0,14.5,140,114,3.0
+2023-03-26,202303260CHO,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202303260CHO.html,17:21,.922,.875,.500,.500,0.0,23.1,11.6,11.7,0.0,4.7,17.0,16.0,148,113,3.2
+2023-03-26,202303260CHO,DAL,Justin Holiday,https://www.basketball-reference.com/boxscores/202303260CHO.html,13:56,.000,.000,1.000,.000,0.0,7.2,3.6,10.8,0.0,0.0,0.0,6.8,30,122,-13.1
+2023-03-26,202303260CHO,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202303260CHO.html,13:09,.500,.500,.333,.000,7.8,0.0,3.8,38.6,3.8,0.0,25.0,14.4,113,116,-0.5
+2023-03-26,202303260CHO,CHO,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202303260CHO.html,33:13,.400,.214,.571,.571,3.0,6.1,4.6,11.5,3.0,0.0,0.0,11.2,115,106,-1.8
+2023-03-26,202303260CHO,CHO,Mark Williams,https://www.basketball-reference.com/boxscores/202303260CHO.html,32:23,.621,.556,.000,.778,18.5,31.5,25.0,4.7,0.0,0.0,14.2,18.5,126,110,-1.2
+2023-03-26,202303260CHO,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202303260CHO.html,32:22,.679,.607,.071,.357,3.1,15.8,9.4,21.9,0.0,0.0,15.6,25.3,123,112,2.1
+2023-03-26,202303260CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202303260CHO.html,31:15,.477,.477,.364,.000,6.4,32.7,19.4,24.4,1.6,4.4,4.3,31.4,106,103,4.9
+2023-03-26,202303260CHO,CHO,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202303260CHO.html,28:11,.549,.500,.364,.364,3.5,14.5,9.0,33.5,1.8,0.0,19.0,23.8,108,108,-1.5
+2023-03-26,202303260CHO,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202303260CHO.html,20:22,.507,.500,.375,.250,4.9,15.0,9.9,29.5,0.0,0.0,18.4,22.8,102,112,-0.6
+2023-03-26,202303260CHO,CHO,Théo Maledon,https://www.basketball-reference.com/boxscores/202303260CHO.html,19:49,.381,.286,.429,.286,5.0,20.6,12.7,35.5,2.5,0.0,11.3,19.1,104,105,-1.5
+2023-03-26,202303260CHO,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202303260CHO.html,17:01,1.125,1.125,.750,.000,0.0,18.0,8.9,0.0,0.0,0.0,0.0,10.0,203,112,8.7
+2023-03-26,202303260CHO,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202303260CHO.html,15:20,1.000,1.000,.000,.000,6.5,0.0,3.3,0.0,0.0,0.0,66.7,8.3,62,114,-13.1
+2023-03-26,202303260CHO,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202303260CHO.html,10:03,.500,.500,.600,.000,0.0,30.5,15.1,0.0,4.9,13.6,0.0,21.2,102,87,6.9

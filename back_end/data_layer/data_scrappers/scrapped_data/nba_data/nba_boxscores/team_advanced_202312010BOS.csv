@@ -1,0 +1,20 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-01,202312010BOS,PHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202312010BOS.html,38:22,.756,.767,.333,.333,4.9,20.3,11.4,28.7,2.5,0.0,14.9,21.0,144,125,8.9
+2023-12-01,202312010BOS,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202312010BOS.html,37:55,.404,.406,.063,.188,7.4,6.8,7.2,10.7,5.0,0.0,18.8,22.5,85,122,-5.5
+2023-12-01,202312010BOS,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202312010BOS.html,36:33,.506,.474,.632,.211,2.6,10.6,6.0,7.8,1.3,3.0,16.2,27.1,97,128,-7.3
+2023-12-01,202312010BOS,PHI,Marcus Morris,https://www.basketball-reference.com/boxscores/202312010BOS.html,27:59,.523,.500,.250,.083,3.4,27.8,13.6,5.0,1.7,3.9,0.0,17.8,123,123,1.0
+2023-12-01,202312010BOS,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202312010BOS.html,21:30,.941,.929,.143,.143,0.0,24.1,10.1,7.5,0.0,5.1,11.8,15.7,165,127,6.2
+2023-12-01,202312010BOS,PHI,Robert Covington,https://www.basketball-reference.com/boxscores/202312010BOS.html,30:20,.745,.611,.667,.778,9.3,8.6,9.0,4.3,7.8,3.6,14.2,18.5,145,113,10.8
+2023-12-01,202312010BOS,PHI,Mo Bamba,https://www.basketball-reference.com/boxscores/202312010BOS.html,19:30,.698,.714,.571,.286,24.1,6.7,16.8,7.4,0.0,5.6,20.2,20.2,131,131,2.0
+2023-12-01,202312010BOS,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202312010BOS.html,14:46,.000,.000,.750,.000,0.0,8.8,3.7,0.0,3.2,0.0,0.0,10.8,0,125,-18.1
+2023-12-01,202312010BOS,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202312010BOS.html,13:05,.200,.200,.000,.000,0.0,19.8,8.3,0.0,7.2,0.0,0.0,15.3,49,114,-8.8
+2023-12-01,202312010BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202312010BOS.html,35:08,.460,.425,.200,.200,3.7,8.0,6.2,0.0,5.4,4.6,12.1,30.0,86,110,-7.1
+2023-12-01,202312010BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202312010BOS.html,34:58,.547,.500,.455,.182,0.0,13.5,7.8,24.6,1.3,0.0,20.2,18.1,109,120,-3.0
+2023-12-01,202312010BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202312010BOS.html,33:19,.929,.889,.444,.444,7.8,11.3,9.8,14.9,1.4,4.9,8.5,15.0,178,117,9.6
+2023-12-01,202312010BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202312010BOS.html,32:03,.723,.591,.364,.727,4.0,14.7,10.2,23.8,1.5,2.5,6.4,20.6,157,118,7.5
+2023-12-01,202312010BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202312010BOS.html,27:27,.810,.778,.556,1.000,0.0,24.0,13.9,24.5,1.7,3.0,35.1,30.9,107,113,1.9
+2023-12-01,202312010BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202312010BOS.html,25:52,.935,.900,.800,.400,5.0,14.6,10.5,5.6,1.8,3.1,33.8,14.6,118,116,2.8
+2023-12-01,202312010BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202312010BOS.html,23:21,.635,.571,.857,.286,0.0,8.1,4.7,31.3,2.0,0.0,0.0,14.4,157,120,4.9
+2023-12-01,202312010BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202312010BOS.html,10:11,.906,1.000,.000,4.000,25.5,27.7,26.8,0.0,0.0,0.0,42.0,19.9,117,117,-6.2
+2023-12-01,202312010BOS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202312010BOS.html,10:04,.450,.500,.250,.250,38.7,18.7,27.1,16.2,0.0,8.1,0.0,18.8,132,116,2.8
+2023-12-01,202312010BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202312010BOS.html,7:35,,,,,0.0,12.4,7.2,0.0,0.0,0.0,,0.0,0,123,-8.1

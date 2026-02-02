@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-02-07,202302070DEN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202302070DEN.html,20.65,7,11,.636,1,3,.333,4,5,.800,0,3,3,3,0,1,1,3,19,15.2,-12
+2023-02-07,202302070DEN,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202302070DEN.html,20.17,2,6,.333,0,4,.000,0,0,,1,1,2,2,1,1,3,1,4,1.3,-29
+2023-02-07,202302070DEN,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202302070DEN.html,19.82,4,7,.571,2,4,.500,0,0,,1,1,2,3,1,0,1,0,10,9.8,-27
+2023-02-07,202302070DEN,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202302070DEN.html,18.82,0,2,.000,0,0,,0,0,,1,4,5,0,0,1,1,2,0,-0.6,-10
+2023-02-07,202302070DEN,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202302070DEN.html,12.13,5,9,.556,1,3,.333,0,0,,0,3,3,0,0,0,2,2,11,4.8,-7
+2023-02-07,202302070DEN,MIN,Matt Ryan,https://www.basketball-reference.com/boxscores/202302070DEN.html,22.42,4,8,.500,3,7,.429,0,0,,0,2,2,4,0,0,1,1,11,9.0,-4
+2023-02-07,202302070DEN,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202302070DEN.html,21.25,6,12,.500,0,3,.000,7,8,.875,4,5,9,2,0,0,2,2,19,15.5,-16
+2023-02-07,202302070DEN,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202302070DEN.html,19.12,1,5,.200,0,3,.000,3,3,1.000,0,0,0,1,2,0,1,2,5,2.8,-33
+2023-02-07,202302070DEN,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202302070DEN.html,18.77,3,5,.600,1,2,.500,2,4,.500,0,1,1,3,0,1,1,1,9,7.6,-12
+2023-02-07,202302070DEN,MIN,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202302070DEN.html,17.8,1,4,.250,0,2,.000,0,0,,0,2,2,5,0,1,1,1,2,3.0,+2
+2023-02-07,202302070DEN,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202302070DEN.html,17.07,4,7,.571,1,1,1.000,2,2,1.000,1,4,5,0,1,2,0,1,11,11.6,+3
+2023-02-07,202302070DEN,MIN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202302070DEN.html,12.68,2,4,.500,1,2,.500,2,2,1.000,0,0,0,0,0,0,1,0,7,4.0,-3
+2023-02-07,202302070DEN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202302070DEN.html,11.63,1,4,.250,0,1,.000,2,2,1.000,0,2,2,1,0,0,2,0,4,0.9,-15
+2023-02-07,202302070DEN,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202302070DEN.html,7.68,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,-7
+2023-02-07,202302070DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202302070DEN.html,28.68,11,15,.733,4,6,.667,4,4,1.000,1,4,5,1,1,0,1,1,30,26.1,+43
+2023-02-07,202302070DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202302070DEN.html,27.75,8,10,.800,0,1,.000,4,5,.800,1,11,12,16,1,1,1,1,20,31.3,+40
+2023-02-07,202302070DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202302070DEN.html,25.93,8,11,.727,2,3,.667,6,8,.750,0,3,3,8,4,2,3,1,24,27.2,+32
+2023-02-07,202302070DEN,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202302070DEN.html,24.15,4,8,.500,1,3,.333,2,2,1.000,0,2,2,1,2,0,0,0,11,10.3,+24
+2023-02-07,202302070DEN,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202302070DEN.html,21.73,4,6,.667,1,1,1.000,0,0,,0,0,0,2,0,0,0,3,9,6.6,+10
+2023-02-07,202302070DEN,DEN,Ish Smith,https://www.basketball-reference.com/boxscores/202302070DEN.html,29.32,4,6,.667,0,0,,0,0,,1,3,4,7,0,0,4,5,8,5.9,+17
+2023-02-07,202302070DEN,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202302070DEN.html,22.07,5,8,.625,2,5,.400,0,0,,0,6,6,3,0,1,0,2,12,12.2,+2
+2023-02-07,202302070DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202302070DEN.html,18.43,4,5,.800,0,1,.000,0,0,,0,3,3,2,2,0,0,2,8,9.6,+13
+2023-02-07,202302070DEN,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202302070DEN.html,13.87,2,6,.333,1,2,.500,0,0,,1,3,4,2,2,0,0,2,5,5.8,-2
+2023-02-07,202302070DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202302070DEN.html,13.62,3,10,.300,1,2,.500,0,0,,1,2,3,2,0,0,1,2,7,2.1,-5
+2023-02-07,202302070DEN,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202302070DEN.html,7.82,3,4,.750,1,1,1.000,0,2,.000,1,1,2,0,0,1,0,1,7,5.9,-3
+2023-02-07,202302070DEN,DEN,Jack White,https://www.basketball-reference.com/boxscores/202302070DEN.html,6.63,2,4,.500,0,2,.000,1,1,1.000,0,0,0,0,0,0,0,1,5,2.6,-1

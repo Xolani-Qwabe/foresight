@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-24,202103240ORL,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202103240ORL.html,33:49,.739,.667,.000,.417,11.4,15.4,13.3,0.0,1.5,0.0,6.6,20.0,147,117,1.7
+2021-03-24,202103240ORL,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202103240ORL.html,32:28,.529,.452,.238,.286,3.0,19.3,10.8,38.8,4.6,0.0,7.8,35.2,113,109,7.3
+2021-03-24,202103240ORL,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202103240ORL.html,32:24,.652,.567,.200,.400,0.0,19.3,9.3,36.8,1.5,0.0,5.4,25.6,137,116,5.8
+2021-03-24,202103240ORL,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202103240ORL.html,30:54,.278,.278,.778,.000,0.0,6.8,3.2,8.4,0.0,2.9,25.0,17.3,50,120,-13.5
+2021-03-24,202103240ORL,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202103240ORL.html,29:12,.924,1.000,.857,.714,0.0,10.7,5.1,5.2,3.4,0.0,0.0,14.0,178,114,11.7
+2021-03-24,202103240ORL,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202103240ORL.html,19:17,.714,.714,.286,.000,19.9,21.6,20.7,16.6,2.6,4.7,12.5,18.5,142,109,10.6
+2021-03-24,202103240ORL,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202103240ORL.html,18:39,.375,.375,.750,.000,0.0,11.2,5.4,0.0,0.0,0.0,0.0,9.6,78,121,-9.3
+2021-03-24,202103240ORL,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202103240ORL.html,17:52,.000,.000,.500,.000,0.0,11.7,5.6,13.4,2.8,5.1,0.0,10.0,31,111,-8.1
+2021-03-24,202103240ORL,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202103240ORL.html,14:11,.333,.333,.167,.000,6.8,29.4,17.6,10.2,0.0,0.0,0.0,18.9,87,117,-7.2
+2021-03-24,202103240ORL,PHO,Langston Galloway,https://www.basketball-reference.com/boxscores/202103240ORL.html,11:14,.300,.300,.800,.000,0.0,27.9,13.4,0.0,0.0,0.0,0.0,19.8,63,117,-11.8
+2021-03-24,202103240ORL,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/202103240ORL.html,33:53,.388,.333,.333,.267,3.1,17.0,10.3,12.2,0.0,5.0,10.7,24.3,84,113,-6.2
+2021-03-24,202103240ORL,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/202103240ORL.html,33:52,.664,.658,.263,.158,9.2,31.2,20.7,21.5,1.5,2.5,4.7,27.6,138,107,14.6
+2021-03-24,202103240ORL,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/202103240ORL.html,32:48,.639,.625,.563,.063,0.0,0.0,0.0,9.7,0.0,2.6,10.8,24.7,116,120,0.5
+2021-03-24,202103240ORL,ORL,Al-Farouq Aminu,https://www.basketball-reference.com/boxscores/202103240ORL.html,27:38,.375,.375,.375,.000,3.8,31.3,18.1,4.7,0.0,3.0,27.3,17.5,65,110,-7.9
+2021-03-24,202103240ORL,ORL,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/202103240ORL.html,23:14,.383,.350,.400,.100,4.5,8.3,6.5,17.3,4.2,0.0,8.7,21.6,91,109,-4.4
+2021-03-24,202103240ORL,ORL,James Ennis III,https://www.basketball-reference.com/boxscores/202103240ORL.html,27:29,.363,.250,1.000,.333,7.6,17.5,12.7,8.7,0.0,0.0,12.7,12.6,94,117,-6.3
+2021-03-24,202103240ORL,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202103240ORL.html,23:42,.628,.571,.143,.571,0.0,12.2,6.3,11.9,0.0,0.0,10.2,18.1,122,118,-1.8
+2021-03-24,202103240ORL,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202103240ORL.html,20:22,1.235,1.333,.667,.333,0.0,14.1,7.4,0.0,0.0,0.0,0.0,14.8,241,118,18.6
+2021-03-24,202103240ORL,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/202103240ORL.html,14:08,.532,.000,.000,2.000,7.4,6.8,7.1,8.1,0.0,0.0,0.0,5.8,152,120,-0.9
+2021-03-24,202103240ORL,ORL,Chasson Randle,https://www.basketball-reference.com/boxscores/202103240ORL.html,2:54,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.3,99,122,-5.9

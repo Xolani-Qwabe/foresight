@@ -1,0 +1,70 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2024-11-06,202411060NOP,CLE,Q1,Jarrett Allen,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.83,2,5,.400,0,0,0,0,1,3,4,0,1,0,0,2,4,3.1,+3,,
+2024-11-06,202411060NOP,CLE,Q1,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.22,3,5,.600,1,3,0,0,0,2,2,1,0,0,0,0,7,6.0,+2,.333,
+2024-11-06,202411060NOP,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.47,1,4,.250,1,2,0,0,0,0,0,3,0,0,1,0,3,1.7,-9,.500,
+2024-11-06,202411060NOP,CLE,Q1,Evan Mobley,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.68,1,3,.333,0,0,1,2,0,0,0,2,0,2,1,1,3,2.3,-5,,.500
+2024-11-06,202411060NOP,CLE,Q1,Isaac Okoro,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.8,1,1,1.000,1,1,0,0,0,2,2,1,0,0,0,0,3,4.0,-7,1.000,
+2024-11-06,202411060NOP,CLE,Q1,Caris LeVert,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.32,2,3,.667,0,0,0,0,0,1,1,1,1,0,0,0,4,4.7,-3,,
+2024-11-06,202411060NOP,CLE,Q1,Georges Niang,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.48,2,2,1.000,1,1,0,0,0,1,1,0,0,0,0,1,5,4.3,-8,1.000,
+2024-11-06,202411060NOP,CLE,Q1,Sam Merrill,https://www.basketball-reference.com/boxscores/202411060NOP.html,4.2,0,1,.000,0,1,0,0,0,0,0,0,0,0,1,1,0,-2.1,+2,.000,
+2024-11-06,202411060NOP,CLE,Q2,Jarrett Allen,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.37,1,1,1.000,0,0,2,2,0,1,1,1,0,0,0,0,4,4.7,+6,,1.000
+2024-11-06,202411060NOP,CLE,Q2,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.98,0,2,.000,0,1,2,2,0,1,1,0,1,0,1,0,2,0.9,-3,.000,1.000
+2024-11-06,202411060NOP,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.78,0,0,,0,0,0,0,0,0,0,2,0,0,1,1,0,0.0,+7,,
+2024-11-06,202411060NOP,CLE,Q2,Evan Mobley,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.13,2,5,.400,0,0,0,1,1,3,4,0,0,0,0,1,4,2.1,-2,,.000
+2024-11-06,202411060NOP,CLE,Q2,Isaac Okoro,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.83,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,,
+2024-11-06,202411060NOP,CLE,Q2,Caris LeVert,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.18,2,3,.667,0,1,0,0,1,1,2,1,0,0,0,0,4,4.4,+4,.000,
+2024-11-06,202411060NOP,CLE,Q2,Georges Niang,https://www.basketball-reference.com/boxscores/202411060NOP.html,3.4,0,1,.000,0,1,0,0,0,0,0,1,0,0,0,0,0,0.0,+1,.000,
+2024-11-06,202411060NOP,CLE,Q2,Sam Merrill,https://www.basketball-reference.com/boxscores/202411060NOP.html,1.6,0,1,.000,0,1,0,0,0,1,1,0,0,0,0,0,0,-0.4,-3,.000,
+2024-11-06,202411060NOP,CLE,Q2,Ty Jerome,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.5,4,5,.800,2,2,1,2,1,1,2,2,1,0,1,1,11,10.7,+6,1.000,.500
+2024-11-06,202411060NOP,CLE,Q2,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.22,2,3,.667,1,1,0,0,0,1,1,0,0,2,1,1,5,4.0,+4,1.000,
+2024-11-06,202411060NOP,CLE,Q3,Jarrett Allen,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.18,3,3,1.000,0,0,0,0,1,2,3,1,0,2,0,1,6,8.1,+16,,
+2024-11-06,202411060NOP,CLE,Q3,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.52,2,4,.500,1,2,0,0,0,0,0,0,0,0,0,1,5,2.6,+7,.500,
+2024-11-06,202411060NOP,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.02,4,5,.800,3,4,0,0,0,1,1,3,1,1,1,1,11,11.8,+13,.750,
+2024-11-06,202411060NOP,CLE,Q3,Evan Mobley,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.4,3,7,.429,0,1,0,0,3,1,4,1,0,1,0,2,6,5.3,+2,.000,
+2024-11-06,202411060NOP,CLE,Q3,Isaac Okoro,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.58,1,1,1.000,0,0,0,0,1,1,2,1,0,0,0,0,2,3.4,+7,,
+2024-11-06,202411060NOP,CLE,Q3,Caris LeVert,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.58,2,6,.333,1,2,0,0,0,2,2,3,0,0,0,0,5,4.3,+2,.500,
+2024-11-06,202411060NOP,CLE,Q3,Georges Niang,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.28,1,2,.500,0,1,0,0,0,1,1,1,0,0,0,1,2,1.6,+4,.000,
+2024-11-06,202411060NOP,CLE,Q3,Sam Merrill,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.42,1,2,.500,1,2,0,0,1,0,1,0,0,0,0,0,3,2.7,+4,.500,
+2024-11-06,202411060NOP,CLE,Q4,Jarrett Allen,https://www.basketball-reference.com/boxscores/202411060NOP.html,11.42,1,1,1.000,0,0,0,0,0,6,6,0,0,0,0,2,2,2.7,-1,,
+2024-11-06,202411060NOP,CLE,Q4,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202411060NOP.html,12.0,5,9,.556,1,3,4,4,0,1,1,2,0,1,1,0,15,12.1,-2,.333,1.000
+2024-11-06,202411060NOP,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.7,0,1,.000,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,+3,,
+2024-11-06,202411060NOP,CLE,Q4,Evan Mobley,https://www.basketball-reference.com/boxscores/202411060NOP.html,4.3,1,1,1.000,0,0,0,0,1,0,1,0,0,0,0,2,2,1.6,-2,,
+2024-11-06,202411060NOP,CLE,Q4,Isaac Okoro,https://www.basketball-reference.com/boxscores/202411060NOP.html,4.63,1,1,1.000,0,0,0,0,0,0,0,1,0,0,0,0,2,2.4,+1,,
+2024-11-06,202411060NOP,CLE,Q4,Caris LeVert,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.7,1,1,1.000,1,1,0,0,1,0,1,1,0,0,1,0,3,3.1,+3,1.000,
+2024-11-06,202411060NOP,CLE,Q4,Georges Niang,https://www.basketball-reference.com/boxscores/202411060NOP.html,2.95,1,3,.333,0,2,0,0,0,0,0,0,0,1,0,0,2,1.0,-4,.000,
+2024-11-06,202411060NOP,CLE,Q4,Sam Merrill,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.98,2,2,1.000,2,2,0,0,0,0,0,0,0,0,1,2,6,3.6,-3,1.000,
+2024-11-06,202411060NOP,CLE,Q4,Ty Jerome,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.3,0,2,.000,0,0,0,0,0,1,1,3,1,0,0,0,0,2.0,-5,,
+2024-11-06,202411060NOP,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.47,2,6,.333,0,3,0,0,0,4,4,1,1,0,0,0,4,3.5,+9,.000,
+2024-11-06,202411060NOP,NOP,Q1,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.22,1,2,.500,0,0,0,0,1,0,1,0,0,0,0,0,2,1.7,+1,,
+2024-11-06,202411060NOP,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.47,3,4,.750,2,2,0,0,0,0,0,2,1,0,0,1,8,8.4,+9,1.000,
+2024-11-06,202411060NOP,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.88,2,4,.500,0,0,2,2,0,3,3,1,0,0,2,0,6,3.6,0,,1.000
+2024-11-06,202411060NOP,NOP,Q1,Yves Missi,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.8,3,5,.600,0,0,2,3,2,1,3,0,0,2,0,1,8,8.0,+7,,.667
+2024-11-06,202411060NOP,NOP,Q1,Javonte Green,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.32,2,2,1.000,0,0,0,0,0,1,1,0,1,0,0,0,4,4.7,0,,
+2024-11-06,202411060NOP,NOP,Q1,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.32,0,2,.000,0,1,2,2,0,1,1,0,0,0,0,0,2,0.9,+3,.000,1.000
+2024-11-06,202411060NOP,NOP,Q1,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202411060NOP.html,2.53,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,-4,,
+2024-11-06,202411060NOP,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202411060NOP.html,10.98,3,6,.500,0,1,0,0,0,0,0,1,0,1,1,2,6,2.6,-8,.000,
+2024-11-06,202411060NOP,NOP,Q2,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.6,0,1,.000,0,0,2,2,0,0,0,1,0,0,0,0,2,2.0,-4,,1.000
+2024-11-06,202411060NOP,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.4,2,2,1.000,1,1,0,0,0,1,1,1,2,0,1,0,5,6.4,+2,1.000,
+2024-11-06,202411060NOP,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202411060NOP.html,0.78,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,+3,,
+2024-11-06,202411060NOP,NOP,Q2,Yves Missi,https://www.basketball-reference.com/boxscores/202411060NOP.html,2.77,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.0,+1,,
+2024-11-06,202411060NOP,NOP,Q2,Javonte Green,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.85,2,3,.667,1,2,0,0,0,0,0,0,1,0,0,1,5,4.3,+1,.500,
+2024-11-06,202411060NOP,NOP,Q2,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.22,1,1,1.000,0,0,0,0,0,2,2,0,0,0,0,1,2,1.9,-8,,
+2024-11-06,202411060NOP,NOP,Q2,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.53,1,6,.167,1,3,2,2,0,2,2,1,0,1,1,0,5,2.2,-7,.333,1.000
+2024-11-06,202411060NOP,NOP,Q2,Daniel Theis,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.83,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.1,-5,,
+2024-11-06,202411060NOP,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.18,3,7,.429,2,4,0,0,0,1,1,0,0,0,0,0,8,4.6,-16,.500,
+2024-11-06,202411060NOP,NOP,Q3,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202411060NOP.html,8.57,1,3,.333,1,2,2,2,0,0,0,2,0,1,0,0,5,5.4,-2,.500,1.000
+2024-11-06,202411060NOP,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.4,0,1,.000,0,0,0,0,0,0,0,2,0,0,0,0,0,0.7,-8,,
+2024-11-06,202411060NOP,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202411060NOP.html,10.35,3,7,.429,0,0,4,4,2,2,4,1,0,0,1,0,10,8.0,-10,,1.000
+2024-11-06,202411060NOP,NOP,Q3,Yves Missi,https://www.basketball-reference.com/boxscores/202411060NOP.html,7.4,1,3,.333,0,0,0,0,1,0,1,0,0,1,0,0,2,1.7,-8,,
+2024-11-06,202411060NOP,NOP,Q3,Javonte Green,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.25,0,0,,0,0,2,2,0,1,1,0,0,0,0,0,2,2.3,-4,,1.000
+2024-11-06,202411060NOP,NOP,Q3,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202411060NOP.html,6.25,0,0,,0,0,0,0,1,0,1,0,0,0,0,0,0,0.7,-4,,
+2024-11-06,202411060NOP,NOP,Q3,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202411060NOP.html,4.47,0,1,.000,0,1,2,2,0,0,0,0,0,0,0,0,2,1.3,-3,.000,1.000
+2024-11-06,202411060NOP,NOP,Q3,Jamal Cain,https://www.basketball-reference.com/boxscores/202411060NOP.html,0.12,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2024-11-06,202411060NOP,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.05,1,1,1.000,0,0,0,0,0,0,0,3,0,0,1,0,2,2.8,-2,,
+2024-11-06,202411060NOP,NOP,Q4,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202411060NOP.html,12.0,2,5,.400,1,3,0,0,1,0,1,2,0,0,0,1,5,4.0,+2,.333,
+2024-11-06,202411060NOP,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.05,5,7,.714,4,4,0,0,0,1,1,0,0,0,0,3,14,10.2,-2,1.000,
+2024-11-06,202411060NOP,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202411060NOP.html,9.18,4,7,.571,0,0,5,7,0,1,1,2,1,1,1,2,13,10.5,+4,,.714
+2024-11-06,202411060NOP,NOP,Q4,Yves Missi,https://www.basketball-reference.com/boxscores/202411060NOP.html,0.82,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,,
+2024-11-06,202411060NOP,NOP,Q4,Javonte Green,https://www.basketball-reference.com/boxscores/202411060NOP.html,11.18,0,1,.000,0,0,0,0,0,1,1,0,1,0,0,0,0,0.6,+4,,
+2024-11-06,202411060NOP,NOP,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202411060NOP.html,5.77,0,0,,0,0,0,0,0,1,1,1,0,1,0,0,0,1.7,+2,,
+2024-11-06,202411060NOP,NOP,Q4,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202411060NOP.html,2.95,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,+4,,

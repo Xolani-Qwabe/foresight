@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-12,202401120DEN,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202401120DEN.html,35:21,.609,.591,.000,.273,5.9,14.7,9.8,27.9,0.0,2.4,3.9,32.6,125,130,4.9
+2024-01-12,202401120DEN,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202401120DEN.html,33:48,.379,.364,.091,.182,0.0,15.4,6.8,23.5,0.0,0.0,14.4,18.5,85,132,-11.0
+2024-01-12,202401120DEN,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202401120DEN.html,30:10,.551,.550,.800,.200,0.0,21.5,9.6,31.3,1.6,0.0,15.5,19.2,108,127,-0.2
+2024-01-12,202401120DEN,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202401120DEN.html,25:39,.623,.500,.273,.545,8.1,20.2,13.5,5.7,0.0,0.0,0.0,23.9,136,130,-1.6
+2024-01-12,202401120DEN,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202401120DEN.html,19:11,1.000,1.000,.500,.000,0.0,6.8,3.0,7.3,0.0,4.4,20.0,11.7,135,130,1.9
+2024-01-12,202401120DEN,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202401120DEN.html,27:33,.333,.333,.889,.000,0.0,14.1,6.3,18.1,3.5,0.0,0.0,14.7,88,124,-2.7
+2024-01-12,202401120DEN,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202401120DEN.html,20:25,1.083,1.083,.667,.000,0.0,12.7,5.7,7.8,4.8,4.1,14.3,15.4,155,119,14.4
+2024-01-12,202401120DEN,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202401120DEN.html,16:34,.635,.571,.429,.286,6.3,0.0,3.5,8.7,2.9,0.0,11.3,24.1,117,128,1.9
+2024-01-12,202401120DEN,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202401120DEN.html,15:24,.205,.250,.500,.500,13.6,16.8,15.0,24.0,9.5,0.0,0.0,14.3,93,111,4.6
+2024-01-12,202401120DEN,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202401120DEN.html,12:03,.510,.400,.400,.400,8.7,10.8,9.6,0.0,0.0,0.0,0.0,22.0,114,133,-7.2
+2024-01-12,202401120DEN,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202401120DEN.html,1:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,135,-9.9
+2024-01-12,202401120DEN,NOP,E.J. Liddell,https://www.basketball-reference.com/boxscores/202401120DEN.html,1:56,,,,,0.0,67.1,29.9,59.1,0.0,0.0,,0.0,231,122,18.8
+2024-01-12,202401120DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202401120DEN.html,34:07,.648,.633,.333,.067,0.0,6.1,3.4,32.7,0.0,0.0,11.5,22.0,135,121,3.7
+2024-01-12,202401120DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202401120DEN.html,33:23,.751,.750,.417,.250,3.9,28.1,17.3,3.7,1.5,2.6,7.0,18.4,142,111,6.5
+2024-01-12,202401120DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202401120DEN.html,32:11,.720,.676,.118,.235,12.1,22.7,18.0,62.2,0.0,2.7,9.6,27.7,158,115,21.9
+2024-01-12,202401120DEN,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202401120DEN.html,31:00,.611,.611,.667,.000,0.0,6.7,3.7,10.6,3.2,0.0,0.0,12.5,139,114,5.2
+2024-01-12,202401120DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202401120DEN.html,30:59,.563,.583,.167,.250,12.6,6.7,9.3,7.9,0.0,0.0,13.1,21.3,112,121,-4.7
+2024-01-12,202401120DEN,DEN,Reggie Jackson,https://www.basketball-reference.com/boxscores/202401120DEN.html,24:21,.600,.600,.500,.000,0.0,8.6,4.8,0.0,2.0,0.0,23.1,23.0,86,116,-6.5
+2024-01-12,202401120DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202401120DEN.html,16:43,.410,.375,1.000,.500,7.8,31.2,20.8,0.0,0.0,0.0,38.1,20.3,60,116,-15.0
+2024-01-12,202401120DEN,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202401120DEN.html,15:05,.571,.571,.571,.000,8.6,13.8,11.5,0.0,3.2,5.7,0.0,20.0,124,107,5.1
+2024-01-12,202401120DEN,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202401120DEN.html,13:53,1.042,1.000,.000,1.000,9.3,45.1,29.2,8.0,0.0,6.2,0.0,8.9,220,108,12.4
+2024-01-12,202401120DEN,DEN,Collin Gillespie,https://www.basketball-reference.com/boxscores/202401120DEN.html,1:56,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.2,200,120,3.9
+2024-01-12,202401120DEN,DEN,Justin Holiday,https://www.basketball-reference.com/boxscores/202401120DEN.html,1:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,22.2,0,123,-29.7
+2024-01-12,202401120DEN,DEN,Jay Huff,https://www.basketball-reference.com/boxscores/202401120DEN.html,1:56,,,,,0.0,54.0,29.9,0.0,0.0,0.0,,0.0,0,109,-10.6
+2024-01-12,202401120DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202401120DEN.html,1:56,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.2,0,123,-29.6
+2024-01-12,202401120DEN,DEN,Braxton Key,https://www.basketball-reference.com/boxscores/202401120DEN.html,0:34,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,75.9,0,123,-88.7

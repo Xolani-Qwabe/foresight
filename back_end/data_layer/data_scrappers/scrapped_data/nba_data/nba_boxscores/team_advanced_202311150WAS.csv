@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-15,202311150WAS,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202311150WAS.html,36:43,.000,.000,1.000,.000,2.8,8.7,5.7,2.7,1.3,0.0,0.0,4.6,42,116,-11.5
+2023-11-15,202311150WAS,DAL,Grant Williams,https://www.basketball-reference.com/boxscores/202311150WAS.html,35:37,.385,.385,.538,.000,5.7,3.0,4.4,22.1,1.3,0.0,7.1,16.4,105,117,-4.3
+2023-11-15,202311150WAS,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202311150WAS.html,32:25,.558,.500,.611,.667,3.2,19.7,11.3,39.3,0.0,0.0,11.4,33.9,118,117,2.2
+2023-11-15,202311150WAS,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202311150WAS.html,26:02,.812,.818,.455,.273,3.9,24.6,14.0,5.5,1.8,7.0,14.0,23.0,131,107,5.6
+2023-11-15,202311150WAS,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202311150WAS.html,23:38,.912,.875,.000,.375,17.3,22.6,19.9,12.0,2.0,7.7,9.7,18.3,175,106,10.8
+2023-11-15,202311150WAS,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202311150WAS.html,26:48,.698,.725,.550,.250,0.0,15.9,7.8,19.0,0.0,0.0,4.3,36.2,126,118,8.6
+2023-11-15,202311150WAS,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202311150WAS.html,19:52,1.165,1.167,.333,.167,0.0,10.7,5.3,14.4,2.3,0.0,0.0,13.6,235,114,14.7
+2023-11-15,202311150WAS,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202311150WAS.html,18:37,.363,.333,.167,.333,0.0,40.1,19.6,18.1,0.0,0.0,0.0,15.5,98,113,-10.6
+2023-11-15,202311150WAS,DAL,Olivier-Maxence Prosper,https://www.basketball-reference.com/boxscores/202311150WAS.html,7:26,.347,.500,.500,1.000,0.0,28.7,14.0,15.5,0.0,0.0,0.0,16.2,84,116,-7.5
+2023-11-15,202311150WAS,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202311150WAS.html,6:43,1.000,1.000,.000,.000,0.0,15.9,7.8,35.0,0.0,0.0,0.0,6.2,216,118,6.9
+2023-11-15,202311150WAS,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202311150WAS.html,4:22,.410,.500,.000,.500,0.0,0.0,0.0,0.0,10.7,0.0,29.1,33.0,50,97,-12.5
+2023-11-15,202311150WAS,DAL,Richaun Holmes,https://www.basketball-reference.com/boxscores/202311150WAS.html,1:47,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,46.9,0,121,-58.8
+2023-11-15,202311150WAS,WAS,Jordan Poole,https://www.basketball-reference.com/boxscores/202311150WAS.html,32:04,.447,.412,.412,.118,3.3,12.7,8.1,13.2,1.5,0.0,21.9,30.8,78,126,-13.8
+2023-11-15,202311150WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202311150WAS.html,29:48,.491,.389,.333,.556,7.2,13.7,10.5,14.5,0.0,0.0,8.2,35.4,104,129,-5.4
+2023-11-15,202311150WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202311150WAS.html,23:59,1.090,1.083,.667,.333,4.4,8.5,6.5,24.3,5.8,0.0,0.0,12.4,218,116,17.6
+2023-11-15,202311150WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202311150WAS.html,23:38,.776,.833,.000,.167,9.0,30.2,19.9,12.4,0.0,0.0,0.0,11.8,166,126,2.9
+2023-11-15,202311150WAS,WAS,Tyus Jones,https://www.basketball-reference.com/boxscores/202311150WAS.html,22:19,.857,.857,.143,.000,0.0,13.7,7.0,14.3,0.0,0.0,0.0,13.5,174,129,0.1
+2023-11-15,202311150WAS,WAS,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202311150WAS.html,27:58,1.000,1.000,.400,.000,0.0,29.2,14.9,9.5,0.0,3.4,0.0,7.7,197,124,4.3
+2023-11-15,202311150WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202311150WAS.html,25:44,.615,.563,.875,.500,0.0,4.0,2.0,19.9,0.0,0.0,0.0,16.4,138,130,-0.4
+2023-11-15,202311150WAS,WAS,Landry Shamet,https://www.basketball-reference.com/boxscores/202311150WAS.html,20:52,.167,.167,.583,.000,0.0,9.8,5.0,6.0,0.0,0.0,0.0,24.8,42,130,-24.4
+2023-11-15,202311150WAS,WAS,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202311150WAS.html,18:07,.644,.500,.333,.667,11.8,22.5,17.3,7.6,0.0,0.0,20.5,23.3,116,128,-3.9
+2023-11-15,202311150WAS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202311150WAS.html,6:37,.667,.667,.000,.000,0.0,15.4,7.9,25.5,7.0,0.0,0.0,19.6,141,112,9.4
+2023-11-15,202311150WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202311150WAS.html,5:20,,,,,0.0,19.1,9.8,0.0,8.7,0.0,100.0,24.3,0,108,-26.3
+2023-11-15,202311150WAS,WAS,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202311150WAS.html,1:47,,,,,0.0,57.3,29.3,0.0,0.0,0.0,,0.0,0,117,-13.4
+2023-11-15,202311150WAS,WAS,Ryan Rollins,https://www.basketball-reference.com/boxscores/202311150WAS.html,1:47,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.2,200,132,12.5

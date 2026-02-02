@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-19,202111190BOS,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202111190BOS.html,36:36,.621,.571,.143,.429,2.9,17.3,9.4,11.3,0.0,6.8,3.9,31.9,124,130,5.0
+2021-11-19,202111190BOS,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202111190BOS.html,32:04,.700,.719,.438,.063,3.3,19.7,10.7,12.5,3.0,0.0,15.4,27.3,114,126,4.4
+2021-11-19,202111190BOS,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202111190BOS.html,31:20,.407,.423,.308,.308,3.3,12.1,7.3,29.3,1.5,0.0,11.9,24.1,91,131,-6.7
+2021-11-19,202111190BOS,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202111190BOS.html,26:55,.145,.000,.167,.333,0.0,9.4,4.2,13.7,0.0,0.0,12.7,13.2,50,136,-15.7
+2021-11-19,202111190BOS,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202111190BOS.html,26:17,.750,.750,.500,.000,0.0,19.2,8.7,0.0,1.8,0.0,42.9,12.0,72,129,-5.6
+2021-11-19,202111190BOS,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202111190BOS.html,25:44,.838,.750,.667,.667,8.1,9.8,8.9,0.0,0.0,3.2,11.4,15.3,151,134,1.1
+2021-11-19,202111190BOS,LAL,Malik Monk,https://www.basketball-reference.com/boxscores/202111190BOS.html,24:38,.605,.571,.571,.143,0.0,5.1,2.3,11.8,0.0,3.4,0.0,13.6,129,135,-0.7
+2021-11-19,202111190BOS,LAL,Wayne Ellington,https://www.basketball-reference.com/boxscores/202111190BOS.html,11:56,.000,.000,1.000,.000,0.0,10.6,4.8,0.0,0.0,0.0,0.0,11.3,0,135,-20.8
+2021-11-19,202111190BOS,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202111190BOS.html,10:32,.000,.000,.500,.000,0.0,0.0,0.0,23.4,4.6,0.0,33.3,12.8,37,128,-14.4
+2021-11-19,202111190BOS,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202111190BOS.html,9:32,1.215,1.250,.500,1.000,21.9,26.5,24.0,34.8,0.0,0.0,0.0,13.6,242,131,22.5
+2021-11-19,202111190BOS,LAL,Kent Bazemore,https://www.basketball-reference.com/boxscores/202111190BOS.html,4:26,.563,.500,.000,.250,0.0,28.5,12.9,62.4,0.0,18.7,0.0,45.1,122,120,18.7
+2021-11-19,202111190BOS,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202111190BOS.html,34:00,.666,.607,.286,.286,11.1,9.2,10.1,25.9,0.0,0.0,20.2,23.9,126,114,0.8
+2021-11-19,202111190BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202111190BOS.html,33:31,.636,.577,.346,.269,3.8,31.1,18.8,11.3,4.3,2.7,3.3,36.9,137,98,15.0
+2021-11-19,202111190BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202111190BOS.html,32:01,.672,.611,.333,1.111,3.9,9.8,7.1,16.4,1.5,2.8,6.9,18.5,144,108,6.7
+2021-11-19,202111190BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202111190BOS.html,30:04,.724,.731,.154,.385,12.6,17.4,15.2,32.3,1.6,0.0,6.2,22.2,155,109,11.8
+2021-11-19,202111190BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202111190BOS.html,27:35,.625,.625,.750,.000,4.6,7.6,6.2,8.6,0.0,0.0,0.0,6.0,156,114,-0.2
+2021-11-19,202111190BOS,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202111190BOS.html,29:08,.550,.500,.273,.545,4.3,10.7,7.8,0.0,0.0,0.0,0.0,19.3,125,114,-3.2
+2021-11-19,202111190BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202111190BOS.html,21:39,.205,.000,.500,.500,5.8,19.3,13.2,0.0,2.2,0.0,17.0,11.2,56,107,-8.5
+2021-11-19,202111190BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202111190BOS.html,15:59,.644,.500,.333,.667,0.0,45.7,25.0,7.3,0.0,0.0,43.6,17.7,79,107,-6.3
+2021-11-19,202111190BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202111190BOS.html,8:33,.644,.500,.667,.667,0.0,0.0,0.0,14.6,0.0,0.0,20.5,23.5,118,116,-2.9
+2021-11-19,202111190BOS,BOS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202111190BOS.html,3:45,.000,.000,1.000,.000,0.0,55.7,30.5,0.0,12.9,0.0,0.0,11.0,0,77,2.3
+2021-11-19,202111190BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202111190BOS.html,3:45,,,,,33.7,0.0,15.2,0.0,0.0,0.0,,0.0,222,116,1.3

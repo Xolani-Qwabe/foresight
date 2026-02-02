@@ -1,0 +1,82 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-10-30,202410300MEM,BRK,Q1,Cameron Johnson,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.88,1,5,.200,1,2,.500,0,0,0,0,0,2,0,0,0,1,3,0.9,-4,
+2024-10-30,202410300MEM,BRK,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202410300MEM.html,9.4,2,3,.667,1,2,.500,0,0,0,0,0,3,0,0,1,0,5,4.8,+5,
+2024-10-30,202410300MEM,BRK,Q1,Cam Thomas,https://www.basketball-reference.com/boxscores/202410300MEM.html,9.05,2,4,.500,0,1,.000,2,2,0,1,1,0,1,0,1,1,6,3.9,-6,1.000
+2024-10-30,202410300MEM,BRK,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.75,0,0,,0,0,,0,0,0,2,2,0,0,0,1,2,0,-1.2,-2,
+2024-10-30,202410300MEM,BRK,Q1,Ben Simmons,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.13,3,3,1.000,0,0,,0,0,0,1,1,1,1,0,0,2,6,6.3,-6,
+2024-10-30,202410300MEM,BRK,Q1,Jalen Wilson,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.87,2,2,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,5,5.1,+11,
+2024-10-30,202410300MEM,BRK,Q1,Ziaire Williams,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.12,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,1,2,2.3,+9,
+2024-10-30,202410300MEM,BRK,Q1,Keon Johnson,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.47,1,2,.500,0,1,.000,0,0,1,1,2,0,0,0,0,1,2,1.6,+11,
+2024-10-30,202410300MEM,BRK,Q1,Noah Clowney,https://www.basketball-reference.com/boxscores/202410300MEM.html,7.33,2,4,.500,1,3,.333,0,0,0,2,2,0,0,0,0,2,5,2.8,+7,
+2024-10-30,202410300MEM,BRK,Q2,Cameron Johnson,https://www.basketball-reference.com/boxscores/202410300MEM.html,7.92,3,4,.750,3,4,.750,0,0,0,0,0,1,0,0,0,0,9,8.1,+2,
+2024-10-30,202410300MEM,BRK,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202410300MEM.html,7.45,1,1,1.000,1,1,1.000,2,2,0,0,0,3,1,0,1,0,5,6.8,+1,1.000
+2024-10-30,202410300MEM,BRK,Q2,Cam Thomas,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.45,1,3,.333,0,2,.000,3,4,0,1,1,1,0,0,1,0,5,2.9,+6,.750
+2024-10-30,202410300MEM,BRK,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202410300MEM.html,10.27,1,3,.333,0,2,.000,0,0,1,0,1,2,2,0,1,1,2,3.0,-2,
+2024-10-30,202410300MEM,BRK,Q2,Ben Simmons,https://www.basketball-reference.com/boxscores/202410300MEM.html,4.55,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-1,
+2024-10-30,202410300MEM,BRK,Q2,Jalen Wilson,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.02,1,2,.500,0,1,.000,0,0,3,0,3,1,0,0,1,0,2,2.8,+3,
+2024-10-30,202410300MEM,BRK,Q2,Ziaire Williams,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.97,3,6,.500,1,3,.333,1,2,0,1,1,2,2,0,1,1,8,6.9,-2,.500
+2024-10-30,202410300MEM,BRK,Q2,Keon Johnson,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.55,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,2,2.3,-6,
+2024-10-30,202410300MEM,BRK,Q2,Noah Clowney,https://www.basketball-reference.com/boxscores/202410300MEM.html,0.83,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,-1,
+2024-10-30,202410300MEM,BRK,Q3,Cameron Johnson,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.58,0,3,.000,0,2,.000,2,2,0,0,0,1,0,1,0,0,2,1.3,-8,1.000
+2024-10-30,202410300MEM,BRK,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.38,3,4,.750,3,4,.750,3,3,0,1,1,0,0,0,0,0,12,10.7,-6,1.000
+2024-10-30,202410300MEM,BRK,Q3,Cam Thomas,https://www.basketball-reference.com/boxscores/202410300MEM.html,9.35,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,1,1,0,-2.8,-5,
+2024-10-30,202410300MEM,BRK,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202410300MEM.html,7.63,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,1,0,2,1.4,+5,
+2024-10-30,202410300MEM,BRK,Q3,Ben Simmons,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.4,1,2,.500,0,0,,0,0,2,2,4,1,0,0,1,3,2,1.5,+8,
+2024-10-30,202410300MEM,BRK,Q3,Jalen Wilson,https://www.basketball-reference.com/boxscores/202410300MEM.html,4.08,0,1,.000,0,1,.000,1,2,0,0,0,0,0,0,1,1,1,-1.5,-1,.500
+2024-10-30,202410300MEM,BRK,Q3,Ziaire Williams,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.37,1,2,.500,0,1,.000,3,3,0,0,0,0,0,0,1,0,5,3.0,-1,1.000
+2024-10-30,202410300MEM,BRK,Q3,Keon Johnson,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.83,0,1,.000,0,1,.000,0,0,1,2,3,1,1,0,0,0,0,2.3,-3,
+2024-10-30,202410300MEM,BRK,Q3,Noah Clowney,https://www.basketball-reference.com/boxscores/202410300MEM.html,4.37,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,2,0,-1.5,-9,
+2024-10-30,202410300MEM,BRK,Q4,Cameron Johnson,https://www.basketball-reference.com/boxscores/202410300MEM.html,9.85,0,0,,0,0,,0,0,0,2,2,0,0,0,0,2,0,-0.2,+12,
+2024-10-30,202410300MEM,BRK,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.7,5,6,.833,1,2,.500,0,0,0,1,1,2,0,0,0,1,11,10.1,+9,
+2024-10-30,202410300MEM,BRK,Q4,Cam Thomas,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.45,1,3,.333,1,2,.500,5,5,0,0,0,1,0,0,0,0,8,7.0,+5,1.000
+2024-10-30,202410300MEM,BRK,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.45,1,4,.250,1,2,.500,0,0,0,2,2,1,0,0,0,1,3,1.5,+12,
+2024-10-30,202410300MEM,BRK,Q4,Ben Simmons,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.43,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+5,
+2024-10-30,202410300MEM,BRK,Q4,Jalen Wilson,https://www.basketball-reference.com/boxscores/202410300MEM.html,10.88,2,2,1.000,0,0,,0,0,0,4,4,0,0,0,0,0,4,4.6,+12,
+2024-10-30,202410300MEM,BRK,Q4,Ziaire Williams,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.65,1,1,1.000,0,0,,0,0,0,0,0,1,1,1,1,1,2,2.7,+5,
+2024-10-30,202410300MEM,BRK,Q4,Noah Clowney,https://www.basketball-reference.com/boxscores/202410300MEM.html,1.12,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,0,
+2024-10-30,202410300MEM,BRK,Q4,Cui Yongxi,https://www.basketball-reference.com/boxscores/202410300MEM.html,1.12,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-10-30,202410300MEM,BRK,Q4,Jaylen Martin,https://www.basketball-reference.com/boxscores/202410300MEM.html,1.12,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-10-30,202410300MEM,BRK,Q4,Tyrese Martin,https://www.basketball-reference.com/boxscores/202410300MEM.html,1.12,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-10-30,202410300MEM,BRK,Q4,Shake Milton,https://www.basketball-reference.com/boxscores/202410300MEM.html,1.12,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,0,
+2024-10-30,202410300MEM,MEM,Q1,Ja Morant,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.85,0,2,.000,0,1,.000,2,2,1,2,3,3,0,0,3,0,2,1.0,+1,1.000
+2024-10-30,202410300MEM,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.53,2,3,.667,1,1,1.000,3,5,0,0,0,0,0,0,0,0,8,5.9,+6,.600
+2024-10-30,202410300MEM,MEM,Q1,Zach Edey,https://www.basketball-reference.com/boxscores/202410300MEM.html,7.38,3,4,.750,0,0,,1,2,0,0,0,0,1,0,0,0,7,6.0,+6,.500
+2024-10-30,202410300MEM,MEM,Q1,Desmond Bane,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.88,2,4,.500,1,2,.500,3,3,0,4,4,0,0,0,1,1,8,5.8,+1,1.000
+2024-10-30,202410300MEM,MEM,Q1,Marcus Smart,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.28,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+4,
+2024-10-30,202410300MEM,MEM,Q1,Jake LaRavia,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.15,0,1,.000,0,0,,1,2,1,0,1,3,0,0,1,1,1,1.3,-6,.500
+2024-10-30,202410300MEM,MEM,Q1,Jaylen Wells,https://www.basketball-reference.com/boxscores/202410300MEM.html,2.1,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-8,
+2024-10-30,202410300MEM,MEM,Q1,Santi Aldama,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.47,0,1,.000,0,0,,0,0,0,2,2,0,0,0,0,0,0,-0.1,-11,
+2024-10-30,202410300MEM,MEM,Q1,Brandon Clarke,https://www.basketball-reference.com/boxscores/202410300MEM.html,1.32,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2024-10-30,202410300MEM,MEM,Q1,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.35,0,2,.000,0,2,.000,1,1,0,0,0,1,0,0,1,1,1,-1.1,-7,1.000
+2024-10-30,202410300MEM,MEM,Q1,Jay Huff,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.68,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,1,1,2,-0.4,-6,
+2024-10-30,202410300MEM,MEM,Q2,Ja Morant,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.78,2,4,.500,0,1,.000,0,0,0,0,0,3,0,0,1,2,4,2.3,0,
+2024-10-30,202410300MEM,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,7.97,4,4,1.000,2,2,1.000,0,0,0,3,3,0,2,0,1,2,10,9.9,+2,
+2024-10-30,202410300MEM,MEM,Q2,Zach Edey,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.22,3,5,.600,0,0,,0,0,1,0,1,0,0,0,0,0,6,4.4,0,
+2024-10-30,202410300MEM,MEM,Q2,Desmond Bane,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.73,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,1,0,2,1.0,-3,
+2024-10-30,202410300MEM,MEM,Q2,Jake LaRavia,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.73,0,0,,0,0,,0,0,0,1,1,2,0,1,1,1,0,1.0,-3,
+2024-10-30,202410300MEM,MEM,Q2,Jaylen Wells,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.27,0,1,.000,0,1,.000,1,2,0,1,1,1,0,0,1,0,1,-0.1,+3,.500
+2024-10-30,202410300MEM,MEM,Q2,Santi Aldama,https://www.basketball-reference.com/boxscores/202410300MEM.html,4.03,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,1,0,2,1.7,-2,
+2024-10-30,202410300MEM,MEM,Q2,Brandon Clarke,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.78,1,1,1.000,0,0,,1,1,1,0,1,1,2,0,0,0,3,6.1,0,1.000
+2024-10-30,202410300MEM,MEM,Q2,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.22,0,0,,0,0,,2,2,0,0,0,2,0,0,1,1,2,2.0,0,1.000
+2024-10-30,202410300MEM,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.27,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,0,3,1.7,+3,
+2024-10-30,202410300MEM,MEM,Q3,Ja Morant,https://www.basketball-reference.com/boxscores/202410300MEM.html,10.0,3,8,.375,1,3,.333,0,0,1,4,5,3,0,0,1,0,7,5.6,+7,
+2024-10-30,202410300MEM,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,8.37,1,1,1.000,0,0,,4,5,0,0,0,0,1,0,1,1,6,4.9,-1,.800
+2024-10-30,202410300MEM,MEM,Q3,Zach Edey,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.83,0,0,,0,0,,0,0,1,0,1,1,0,0,1,2,0,-0.4,-12,
+2024-10-30,202410300MEM,MEM,Q3,Desmond Bane,https://www.basketball-reference.com/boxscores/202410300MEM.html,2.1,0,2,.000,0,0,,0,0,1,0,1,0,0,0,0,0,0,-0.7,-8,
+2024-10-30,202410300MEM,MEM,Q3,Jake LaRavia,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.73,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+12,
+2024-10-30,202410300MEM,MEM,Q3,Jaylen Wells,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.27,2,4,.500,1,3,.333,0,0,0,0,0,1,0,0,1,1,5,2.3,+5,
+2024-10-30,202410300MEM,MEM,Q3,Santi Aldama,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.07,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,2,0,-1.5,+3,
+2024-10-30,202410300MEM,MEM,Q3,Brandon Clarke,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.73,4,4,1.000,0,0,,0,0,1,1,2,0,0,0,0,0,8,7.8,+15,
+2024-10-30,202410300MEM,MEM,Q3,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,3.27,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,1,1,2,1.3,-4,
+2024-10-30,202410300MEM,MEM,Q3,John Konchar,https://www.basketball-reference.com/boxscores/202410300MEM.html,7.2,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,+2,
+2024-10-30,202410300MEM,MEM,Q3,Jay Huff,https://www.basketball-reference.com/boxscores/202410300MEM.html,0.43,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2024-10-30,202410300MEM,MEM,Q4,Ja Morant,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.5,0,2,.000,0,1,.000,1,2,0,0,0,2,0,0,0,1,1,0.2,-4,.500
+2024-10-30,202410300MEM,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.43,3,4,.750,0,0,,0,0,0,1,1,0,0,0,0,1,6,4.3,-8,
+2024-10-30,202410300MEM,MEM,Q4,Jake LaRavia,https://www.basketball-reference.com/boxscores/202410300MEM.html,9.02,1,9,.111,0,2,.000,0,0,4,0,4,0,0,0,0,1,2,-1.5,-4,
+2024-10-30,202410300MEM,MEM,Q4,Jaylen Wells,https://www.basketball-reference.com/boxscores/202410300MEM.html,9.33,1,2,.500,1,2,.500,0,0,0,0,0,2,0,1,2,0,3,2.1,-10,
+2024-10-30,202410300MEM,MEM,Q4,Santi Aldama,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.48,0,2,.000,0,1,.000,0,0,0,1,1,0,1,0,0,0,0,-0.1,-7,
+2024-10-30,202410300MEM,MEM,Q4,Brandon Clarke,https://www.basketball-reference.com/boxscores/202410300MEM.html,6.27,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,-5,1.000
+2024-10-30,202410300MEM,MEM,Q4,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.2,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,-8,
+2024-10-30,202410300MEM,MEM,Q4,John Konchar,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.73,0,0,,0,0,,0,0,0,2,2,0,0,1,0,0,0,1.3,-7,
+2024-10-30,202410300MEM,MEM,Q4,Jay Huff,https://www.basketball-reference.com/boxscores/202410300MEM.html,5.73,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-7,
+2024-10-30,202410300MEM,MEM,Q4,Yuki Kawamura,https://www.basketball-reference.com/boxscores/202410300MEM.html,1.3,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,

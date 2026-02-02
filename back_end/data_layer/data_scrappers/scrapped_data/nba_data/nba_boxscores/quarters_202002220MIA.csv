@@ -1,0 +1,68 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-02-22,202002220MIA,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.22,3,4,.750,2,2,1.000,2,2,1.000,0,0,0,1,0,0,0,0,10,9.1,-8
+2020-02-22,202002220MIA,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.8,3,5,.600,1,2,.500,0,1,.000,0,0,0,3,0,0,1,0,7,5.4,0
+2020-02-22,202002220MIA,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.22,2,3,.667,0,0,,0,0,,0,0,0,2,0,0,0,0,4,4.1,-8
+2020-02-22,202002220MIA,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.8,2,3,.667,0,1,.000,0,0,,1,3,4,1,0,0,0,0,4,5.0,0
+2020-02-22,202002220MIA,CLE,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.22,0,0,,0,0,,0,0,,0,2,2,0,0,0,2,0,0,-1.4,-8
+2020-02-22,202002220MIA,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.98,2,2,1.000,0,0,,1,2,.500,0,1,1,0,0,0,1,0,5,3.3,-4
+2020-02-22,202002220MIA,CLE,Q1,Dante Exum,https://www.basketball-reference.com/boxscores/202002220MIA.html,2.78,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+2
+2020-02-22,202002220MIA,CLE,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.98,0,0,,0,0,,2,2,1.000,0,0,0,1,0,1,0,1,2,3.0,-4
+2020-02-22,202002220MIA,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.58,0,3,.000,0,2,.000,1,2,.500,1,0,1,1,0,0,0,1,1,-0.5,-22
+2020-02-22,202002220MIA,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/202002220MIA.html,10.0,0,3,.000,0,0,,0,0,,0,0,0,1,1,0,2,2,0,-3.2,-20
+2020-02-22,202002220MIA,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/202002220MIA.html,7.03,1,3,.333,0,1,.000,0,0,,0,0,0,2,0,0,1,0,2,0.7,-17
+2020-02-22,202002220MIA,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.97,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,2,3,2,-2.2,-11
+2020-02-22,202002220MIA,CLE,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202002220MIA.html,7.03,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,0,1,4,4.0,-17
+2020-02-22,202002220MIA,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/202002220MIA.html,10.0,2,4,.500,0,0,,0,0,,2,1,3,1,0,0,1,2,4,2.6,-20
+2020-02-22,202002220MIA,CLE,Q2,Dante Exum,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.97,1,3,.333,1,2,.500,4,4,1.000,2,0,2,0,0,1,1,0,7,6.4,-11
+2020-02-22,202002220MIA,CLE,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,3.42,0,1,.000,0,0,,0,0,,0,1,1,0,1,0,2,2,0,-2.2,-2
+2020-02-22,202002220MIA,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/202002220MIA.html,10.2,0,2,.000,0,2,.000,0,0,,1,1,2,2,0,0,0,1,0,0.6,+1
+2020-02-22,202002220MIA,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.98,2,3,.667,2,2,1.000,4,4,1.000,0,0,0,2,0,0,1,1,10,8.7,+5
+2020-02-22,202002220MIA,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.43,2,2,1.000,1,1,1.000,0,0,,0,0,0,1,2,0,1,1,5,5.7,0
+2020-02-22,202002220MIA,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.98,2,5,.400,0,3,.000,0,0,,1,1,2,0,2,0,1,0,4,3.3,+5
+2020-02-22,202002220MIA,CLE,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.43,1,1,1.000,0,0,,0,0,,0,2,2,1,1,0,2,2,2,1.2,0
+2020-02-22,202002220MIA,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.58,2,3,.667,1,1,1.000,0,0,,1,0,1,0,0,0,1,0,5,3.4,-1
+2020-02-22,202002220MIA,CLE,Q3,Dante Exum,https://www.basketball-reference.com/boxscores/202002220MIA.html,3.57,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,+2
+2020-02-22,202002220MIA,CLE,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,4.82,0,4,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-2.5,-2
+2020-02-22,202002220MIA,CLE,Q4,Cedi Osman,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.8,3,6,.500,2,5,.400,0,2,.000,0,4,4,3,0,0,0,0,8,7.5,+7
+2020-02-22,202002220MIA,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.62,0,4,.000,0,3,.000,0,0,,0,2,2,3,0,0,0,0,0,-0.1,0
+2020-02-22,202002220MIA,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.58,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3,+11
+2020-02-22,202002220MIA,CLE,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,3.42,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2020-02-22,202002220MIA,CLE,Q4,Tristan Thompson,https://www.basketball-reference.com/boxscores/202002220MIA.html,3.42,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.7,-2
+2020-02-22,202002220MIA,CLE,Q4,Dante Exum,https://www.basketball-reference.com/boxscores/202002220MIA.html,12.0,2,2,1.000,2,2,1.000,1,2,.500,0,5,5,1,0,0,0,0,7,8.2,+9
+2020-02-22,202002220MIA,CLE,Q4,Ante Žižić,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.58,3,3,1.000,0,0,,1,1,1.000,0,0,0,0,1,0,2,0,7,5.1,+11
+2020-02-22,202002220MIA,CLE,Q4,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.58,0,1,.000,0,1,.000,0,0,,0,1,1,3,0,0,2,0,0,-0.3,+11
+2020-02-22,202002220MIA,MIA,Q1,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002220MIA.html,10.47,2,3,.667,1,2,.500,0,0,,0,1,1,3,1,0,0,0,5,7.1,+9
+2020-02-22,202002220MIA,MIA,Q1,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002220MIA.html,7.55,3,4,.750,2,3,.667,0,0,,0,0,0,1,0,0,0,1,8,6.7,-1
+2020-02-22,202002220MIA,MIA,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.22,1,3,.333,1,3,.333,0,0,,0,1,1,2,0,0,0,0,3,3.0,+8
+2020-02-22,202002220MIA,MIA,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.22,4,4,1.000,3,3,1.000,0,0,,0,1,1,2,1,0,1,2,11,10.7,+8
+2020-02-22,202002220MIA,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.77,3,3,1.000,0,0,,0,0,,0,0,0,5,0,0,0,1,6,8.2,+8
+2020-02-22,202002220MIA,MIA,Q1,Jae Crowder,https://www.basketball-reference.com/boxscores/202002220MIA.html,3.23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2020-02-22,202002220MIA,MIA,Q1,Goran Dragić,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.98,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,0,0,2,0.6,+4
+2020-02-22,202002220MIA,MIA,Q1,Andre Iguodala,https://www.basketball-reference.com/boxscores/202002220MIA.html,2.78,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-2
+2020-02-22,202002220MIA,MIA,Q1,Chris Silva,https://www.basketball-reference.com/boxscores/202002220MIA.html,2.78,1,1,1.000,0,0,,1,2,.500,0,1,1,0,0,0,1,2,3,0.8,-2
+2020-02-22,202002220MIA,MIA,Q2,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.73,1,1,1.000,1,1,1.000,4,4,1.000,0,0,0,2,0,1,0,0,7,8.8,+15
+2020-02-22,202002220MIA,MIA,Q2,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.38,3,4,.750,2,3,.667,0,0,,0,1,1,1,0,0,1,1,8,6.0,+17
+2020-02-22,202002220MIA,MIA,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.35,3,3,1.000,0,0,,2,2,1.000,0,1,1,1,2,0,0,1,8,9.7,+15
+2020-02-22,202002220MIA,MIA,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.03,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+13
+2020-02-22,202002220MIA,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.57,3,3,1.000,0,0,,1,3,.333,0,0,0,3,0,0,1,0,7,6.4,+13
+2020-02-22,202002220MIA,MIA,Q2,Jae Crowder,https://www.basketball-reference.com/boxscores/202002220MIA.html,12.0,3,5,.600,2,4,.500,0,0,,1,1,2,2,3,0,0,1,8,10.7,+24
+2020-02-22,202002220MIA,MIA,Q2,Goran Dragić,https://www.basketball-reference.com/boxscores/202002220MIA.html,7.88,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,2,0,4,2.0,+16
+2020-02-22,202002220MIA,MIA,Q2,Andre Iguodala,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.65,1,1,1.000,0,0,,0,1,.000,0,1,1,0,0,0,1,0,2,0.6,+9
+2020-02-22,202002220MIA,MIA,Q2,Chris Silva,https://www.basketball-reference.com/boxscores/202002220MIA.html,0.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2
+2020-02-22,202002220MIA,MIA,Q3,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002220MIA.html,12.0,2,3,.667,0,1,.000,2,2,1.000,0,1,1,2,1,0,0,0,6,7.4,-2
+2020-02-22,202002220MIA,MIA,Q3,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.8,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.0,-3
+2020-02-22,202002220MIA,MIA,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,10.23,1,1,1.000,0,0,,0,0,,0,1,1,1,2,0,0,0,2,4.7,-1
+2020-02-22,202002220MIA,MIA,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002220MIA.html,12.0,1,3,.333,1,3,.333,3,4,.750,0,0,0,0,1,1,0,0,6,5.6,-2
+2020-02-22,202002220MIA,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002220MIA.html,10.23,1,3,.333,0,0,,0,0,,1,2,3,1,1,1,4,2,2,-0.8,-1
+2020-02-22,202002220MIA,MIA,Q3,Jae Crowder,https://www.basketball-reference.com/boxscores/202002220MIA.html,1.77,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2020-02-22,202002220MIA,MIA,Q3,Goran Dragić,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.2,3,5,.600,2,3,.667,0,0,,0,1,1,1,0,0,1,2,8,4.9,+1
+2020-02-22,202002220MIA,MIA,Q3,Andre Iguodala,https://www.basketball-reference.com/boxscores/202002220MIA.html,1.77,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2020-02-22,202002220MIA,MIA,Q4,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002220MIA.html,5.53,2,5,.400,2,3,.667,0,0,,0,0,0,1,0,0,1,0,6,3.0,-1
+2020-02-22,202002220MIA,MIA,Q4,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.52,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3,+1
+2020-02-22,202002220MIA,MIA,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,2.2,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2020-02-22,202002220MIA,MIA,Q4,Jae Crowder,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.8,2,3,.667,1,2,.500,0,0,,0,2,2,0,2,0,1,4,5,3.7,-7
+2020-02-22,202002220MIA,MIA,Q4,Goran Dragić,https://www.basketball-reference.com/boxscores/202002220MIA.html,6.47,1,1,1.000,0,0,,0,0,,0,1,1,2,1,1,0,0,2,5.1,-8
+2020-02-22,202002220MIA,MIA,Q4,Andre Iguodala,https://www.basketball-reference.com/boxscores/202002220MIA.html,7.28,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-1.5,-8
+2020-02-22,202002220MIA,MIA,Q4,Udonis Haslem,https://www.basketball-reference.com/boxscores/202002220MIA.html,9.8,0,5,.000,0,2,.000,0,0,,0,5,5,1,0,0,0,0,0,-1.3,-7
+2020-02-22,202002220MIA,MIA,Q4,Solomon Hill,https://www.basketball-reference.com/boxscores/202002220MIA.html,8.2,1,4,.250,0,1,.000,0,0,,0,0,0,0,1,0,0,0,2,0.6,-11
+2020-02-22,202002220MIA,MIA,Q4,Chris Silva,https://www.basketball-reference.com/boxscores/202002220MIA.html,2.2,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-2

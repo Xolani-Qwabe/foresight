@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-03-13,202103130ATL,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202103130ATL.html,40.23,11,24,.458,2,10,.200,8,10,.800,3,4,7,6,1,0,3,5,32,22.3,-5
+2021-03-13,202103130ATL,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202103130ATL.html,39.35,4,9,.444,0,3,.000,3,3,1.000,3,4,7,5,0,0,3,3,11,8.9,-7
+2021-03-13,202103130ATL,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202103130ATL.html,36.8,4,16,.250,2,11,.182,0,0,,3,1,4,5,0,0,0,3,10,5.1,-15
+2021-03-13,202103130ATL,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202103130ATL.html,35.35,9,15,.600,0,0,,2,3,.667,5,7,12,1,0,1,3,4,20,15.1,-2
+2021-03-13,202103130ATL,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202103130ATL.html,23.8,6,10,.600,0,1,.000,0,0,,5,2,7,1,0,0,2,4,12,8.6,-12
+2021-03-13,202103130ATL,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202103130ATL.html,24.07,3,10,.300,2,6,.333,0,0,,0,3,3,4,2,0,1,3,8,5.7,-9
+2021-03-13,202103130ATL,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202103130ATL.html,18.0,2,5,.400,0,0,,0,0,,2,1,3,2,1,0,0,2,4,4.6,-19
+2021-03-13,202103130ATL,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202103130ATL.html,17.73,3,8,.375,1,5,.200,0,0,,1,3,4,2,1,0,0,2,7,5.8,-6
+2021-03-13,202103130ATL,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,0
+2021-03-13,202103130ATL,SAC,Kyle Guy,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-03-13,202103130ATL,SAC,Justin James,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,0
+2021-03-13,202103130ATL,SAC,DaQuan Jeffries,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-03-13,202103130ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202103130ATL.html,31.9,9,17,.529,5,10,.500,5,7,.714,0,1,1,9,1,0,4,1,28,22.1,+7
+2021-03-13,202103130ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202103130ATL.html,27.78,4,9,.444,0,2,.000,8,10,.800,3,2,5,0,0,0,1,4,16,10.6,+7
+2021-03-13,202103130ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202103130ATL.html,26.82,10,12,.833,0,0,,4,10,.400,6,8,14,1,0,2,1,2,24,24.1,0
+2021-03-13,202103130ATL,ATL,Tony Snell,https://www.basketball-reference.com/boxscores/202103130ATL.html,26.72,3,3,1.000,0,0,,2,2,1.000,0,3,3,1,0,0,0,3,8,7.5,-4
+2021-03-13,202103130ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202103130ATL.html,25.27,3,7,.429,2,5,.400,0,0,,0,1,1,6,2,0,0,3,8,9.6,+2
+2021-03-13,202103130ATL,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202103130ATL.html,29.43,6,11,.545,3,6,.500,0,0,,0,7,7,1,0,0,0,1,15,12.1,+24
+2021-03-13,202103130ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202103130ATL.html,21.57,2,12,.167,0,5,.000,2,2,1.000,2,2,4,1,1,0,0,0,6,2.1,+13
+2021-03-13,202103130ATL,ATL,Solomon Hill,https://www.basketball-reference.com/boxscores/202103130ATL.html,21.32,0,1,.000,0,0,,0,0,,0,0,0,1,2,0,0,1,0,1.6,+22
+2021-03-13,202103130ATL,ATL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202103130ATL.html,14.93,4,9,.444,2,5,.400,0,0,,0,3,3,1,0,0,2,0,10,4.9,+8
+2021-03-13,202103130ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202103130ATL.html,9.6,2,2,1.000,0,0,,0,0,,1,4,5,0,0,0,0,2,4,4.5,-4
+2021-03-13,202103130ATL,ATL,Nathan Knight,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,0,1,.000,0,0,,2,2,1.000,1,1,2,0,0,0,0,0,2,2.3,0
+2021-03-13,202103130ATL,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-03-13,202103130ATL,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-03-13,202103130ATL,ATL,Skylar Mays,https://www.basketball-reference.com/boxscores/202103130ATL.html,1.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

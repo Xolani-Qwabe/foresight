@@ -1,0 +1,19 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-01,202201010WAS,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202201010WAS.html,37:53,.710,.659,.545,.273,0.0,14.4,7.3,14.0,0.0,0.0,14.0,33.0,123,119,4.5
+2022-01-01,202201010WAS,CHI,Coby White,https://www.basketball-reference.com/boxscores/202201010WAS.html,37:49,.672,.643,.571,.143,0.0,5.8,2.9,19.8,1.2,0.0,0.0,17.2,146,118,4.1
+2022-01-01,202201010WAS,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202201010WAS.html,35:29,.712,.700,.467,.067,3.1,33.8,18.7,4.7,0.0,2.3,24.5,25.1,105,115,-1.3
+2022-01-01,202201010WAS,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202201010WAS.html,35:15,.530,.477,.045,.455,6.3,21.7,14.1,24.9,0.0,0.0,13.2,37.6,106,118,-4.3
+2022-01-01,202201010WAS,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202201010WAS.html,27:34,1.197,1.500,1.000,2.000,4.0,11.9,8.0,4.6,1.7,5.8,34.7,9.1,152,110,5.5
+2022-01-01,202201010WAS,CHI,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202201010WAS.html,29:40,.500,.500,.000,.000,0.0,22.1,11.2,4.1,0.0,0.0,0.0,2.9,120,118,-3.7
+2022-01-01,202201010WAS,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202201010WAS.html,21:26,.515,.333,.000,.667,5.2,20.4,12.9,5.8,2.2,3.7,0.0,7.9,132,110,-2.1
+2022-01-01,202201010WAS,CHI,Matt Thomas,https://www.basketball-reference.com/boxscores/202201010WAS.html,12:15,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.2,0,121,-21.5
+2022-01-01,202201010WAS,CHI,Tyler Cook,https://www.basketball-reference.com/boxscores/202201010WAS.html,2:39,,,,,42.1,0.0,20.8,0.0,17.7,0.0,,0.0,236,83,10.3
+2022-01-01,202201010WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202201010WAS.html,42:42,.525,.400,.200,.650,0.0,5.2,2.6,51.6,4.4,0.0,7.2,28.5,121,114,7.8
+2022-01-01,202201010WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202201010WAS.html,39:38,.718,.722,.278,.278,0.0,33.8,16.7,11.5,2.4,0.0,12.9,25.7,121,114,4.4
+2022-01-01,202201010WAS,WAS,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202201010WAS.html,38:44,.464,.464,.714,.000,2.8,20.2,11.4,6.2,0.0,2.5,22.2,20.4,76,120,-8.4
+2022-01-01,202201010WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202201010WAS.html,28:40,.563,.500,.250,.250,3.8,11.7,7.7,0.0,0.0,0.0,10.1,15.1,105,123,-7.7
+2022-01-01,202201010WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202201010WAS.html,20:15,.873,.900,.000,.200,21.5,22.0,21.8,0.0,0.0,9.5,0.0,23.6,176,113,11.3
+2022-01-01,202201010WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202201010WAS.html,34:03,.506,.444,.444,.222,0.0,19.7,9.7,3.5,1.4,0.0,0.0,12.7,105,118,-7.3
+2022-01-01,202201010WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202201010WAS.html,24:35,.654,.583,.333,.333,0.0,13.6,6.7,14.6,1.9,0.0,12.7,14.1,122,118,-1.7
+2022-01-01,202201010WAS,WAS,Tremont Waters,https://www.basketball-reference.com/boxscores/202201010WAS.html,8:27,.500,.500,.000,.000,0.0,0.0,0.0,0.0,5.5,0.0,0.0,10.4,97,111,-5.4
+2022-01-01,202201010WAS,WAS,Alize Johnson,https://www.basketball-reference.com/boxscores/202201010WAS.html,2:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,125,-6.7

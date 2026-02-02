@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-05-02,202505020GSW,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202505020GSW.html,39:53,.855,.769,.692,.692,3.0,17.6,10.9,36.2,0.0,0.0,10.5,20.5,166,114,12.3
+2025-05-02,202505020GSW,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202505020GSW.html,37:07,.455,.400,.100,.350,9.7,29.6,20.6,31.5,3.9,0.0,8.0,29.2,107,100,2.8
+2025-05-02,202505020GSW,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202505020GSW.html,35:32,.448,.385,.077,.462,0.0,19.7,10.7,9.6,4.1,0.0,11.3,21.4,90,104,-3.7
+2025-05-02,202505020GSW,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202505020GSW.html,32:03,.440,.318,.545,.545,3.7,12.5,8.5,14.7,0.0,3.7,6.8,19.7,104,115,-4.1
+2025-05-02,202505020GSW,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202505020GSW.html,18:33,.255,.200,.600,.400,6.5,0.0,2.9,16.0,2.6,0.0,14.5,16.0,73,115,-11.2
+2025-05-02,202505020GSW,HOU,Steven Adams,https://www.basketball-reference.com/boxscores/202505020GSW.html,31:02,.770,1.000,.000,4.000,11.6,6.4,8.8,0.0,1.6,11.3,0.0,15.4,163,110,7.4
+2025-05-02,202505020GSW,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202505020GSW.html,18:38,1.000,1.000,.750,.000,6.4,10.7,8.8,9.4,0.0,0.0,33.3,13.9,119,117,2.8
+2025-05-02,202505020GSW,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202505020GSW.html,16:06,1.000,1.000,.750,.000,0.0,12.4,6.8,11.4,12.1,7.3,0.0,10.7,193,85,23.9
+2025-05-02,202505020GSW,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202505020GSW.html,5:34,.750,.750,.500,.000,21.6,0.0,9.8,0.0,0.0,0.0,0.0,15.5,158,121,4.8
+2025-05-02,202505020GSW,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202505020GSW.html,1:32,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-7.1
+2025-05-02,202505020GSW,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202505020GSW.html,1:32,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.1,0,121,-33.6
+2025-05-02,202505020GSW,HOU,Reed Sheppard,https://www.basketball-reference.com/boxscores/202505020GSW.html,1:14,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0,121,-40.8
+2025-05-02,202505020GSW,HOU,Jeenathan Williams,https://www.basketball-reference.com/boxscores/202505020GSW.html,1:14,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,35.0,0,121,-44.5
+2025-05-02,202505020GSW,GSW,Jimmy Butler,https://www.basketball-reference.com/boxscores/202505020GSW.html,42:08,.583,.441,.353,.824,4.7,19.9,11.7,31.4,0.0,2.4,4.1,23.6,136,119,7.9
+2025-05-02,202505020GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202505020GSW.html,41:57,.566,.522,.696,.261,2.4,17.2,9.1,8.6,2.3,2.4,16.3,30.0,98,114,2.5
+2025-05-02,202505020GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202505020GSW.html,36:57,.450,.438,.500,.250,5.4,9.7,7.4,27.5,0.0,8.1,31.1,14.3,91,119,-0.1
+2025-05-02,202505020GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202505020GSW.html,19:45,.500,.500,.800,.000,0.0,18.2,8.3,7.6,2.5,0.0,16.7,12.5,89,115,-4.1
+2025-05-02,202505020GSW,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202505020GSW.html,16:32,.000,.000,1.000,.000,12.1,7.3,9.9,0.0,0.0,0.0,20.0,12.4,27,123,-20.2
+2025-05-02,202505020GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202505020GSW.html,28:46,.556,.556,.667,.000,10.4,16.7,13.3,16.5,1.7,0.0,18.2,15.7,109,117,1.0
+2025-05-02,202505020GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202505020GSW.html,22:06,.500,.500,.385,.000,4.5,5.4,4.9,8.3,0.0,4.5,7.1,26.1,98,122,-0.1
+2025-05-02,202505020GSW,GSW,Quinten Post,https://www.basketball-reference.com/boxscores/202505020GSW.html,17:48,.417,.417,.667,.000,5.6,0.0,3.1,17.1,2.7,0.0,0.0,13.9,110,119,-2.9
+2025-05-02,202505020GSW,GSW,Braxton Key,https://www.basketball-reference.com/boxscores/202505020GSW.html,2:25,,,,,0.0,0.0,0.0,0.0,20.1,0.0,,0.0,0,79,11.9
+2025-05-02,202505020GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202505020GSW.html,2:24,1.000,1.000,.000,.000,0.0,100.0,45.5,0.0,0.0,0.0,0.0,17.1,200,97,19.7
+2025-05-02,202505020GSW,GSW,Kevin Knox,https://www.basketball-reference.com/boxscores/202505020GSW.html,2:24,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,17.1,0,126,-26.5
+2025-05-02,202505020GSW,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202505020GSW.html,2:24,1.000,1.000,.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,17.1,210,126,30.3
+2025-05-02,202505020GSW,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202505020GSW.html,2:24,1.000,1.000,.000,.000,0.0,50.0,22.7,-87.0,0.0,0.0,0.0,51.4,203,109,60.6
+2025-05-02,202505020GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202505020GSW.html,2:00,,,,,50.0,60.0,54.5,0.0,0.0,0.0,,0.0,235,103,-15.4

@@ -1,0 +1,61 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-05-01,202505010DET,NYK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,4,7,.571,0,1,.000,0,0,0,1,1,0,0,0,0,0,8,5.0,+14,
+2025-05-01,202505010DET,NYK,Q1,OG Anunoby,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,2,6,.333,2,5,.400,2,2,0,0,0,0,0,1,1,1,8,3.9,+14,1.000
+2025-05-01,202505010DET,NYK,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,7,9,.778,1,3,.333,0,0,0,2,2,4,0,0,0,0,15,14.9,+14,
+2025-05-01,202505010DET,NYK,Q1,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202505010DET.html,7.73,1,2,.500,0,0,,1,1,1,4,5,1,1,0,0,0,3,5.6,+13,1.000
+2025-05-01,202505010DET,NYK,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202505010DET.html,9.08,0,0,,0,0,,0,0,1,0,1,1,0,0,0,2,0,0.6,+8,
+2025-05-01,202505010DET,NYK,Q1,Miles McBride,https://www.basketball-reference.com/boxscores/202505010DET.html,2.92,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+6,
+2025-05-01,202505010DET,NYK,Q1,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202505010DET.html,4.27,0,0,,0,0,,0,0,0,2,2,0,0,0,0,0,0,0.6,+1,
+2025-05-01,202505010DET,NYK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202505010DET.html,9.03,2,4,.500,0,2,.000,0,0,0,0,0,0,0,0,0,0,4,2.0,-14,
+2025-05-01,202505010DET,NYK,Q2,OG Anunoby,https://www.basketball-reference.com/boxscores/202505010DET.html,9.95,2,4,.500,1,2,.500,0,0,0,2,2,1,0,0,1,1,5,2.9,-14,
+2025-05-01,202505010DET,NYK,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/202505010DET.html,8.77,1,4,.250,0,1,.000,3,3,0,0,0,0,0,0,2,1,5,0.2,-13,1.000
+2025-05-01,202505010DET,NYK,Q2,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202505010DET.html,11.17,2,4,.500,0,1,.000,0,0,1,2,3,1,0,0,0,1,4,3.6,-13,
+2025-05-01,202505010DET,NYK,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202505010DET.html,6.35,0,0,,0,0,,4,4,0,3,3,1,0,0,1,1,4,4.2,-6,1.000
+2025-05-01,202505010DET,NYK,Q2,Miles McBride,https://www.basketball-reference.com/boxscores/202505010DET.html,7.13,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,-10,
+2025-05-01,202505010DET,NYK,Q2,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202505010DET.html,3.8,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-5,
+2025-05-01,202505010DET,NYK,Q2,Cameron Payne,https://www.basketball-reference.com/boxscores/202505010DET.html,3.8,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,1,0,0,-0.7,-5,
+2025-05-01,202505010DET,NYK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202505010DET.html,11.45,4,4,1.000,1,1,1.000,2,2,1,1,2,2,0,1,2,1,11,10.5,+15,1.000
+2025-05-01,202505010DET,NYK,Q3,OG Anunoby,https://www.basketball-reference.com/boxscores/202505010DET.html,10.33,1,2,.500,1,2,.500,3,4,1,1,2,0,2,1,0,2,6,7.5,+10,.750
+2025-05-01,202505010DET,NYK,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,3,6,.500,1,2,.500,3,4,0,0,0,2,0,0,0,1,10,7.6,+13,.750
+2025-05-01,202505010DET,NYK,Q3,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202505010DET.html,10.6,1,2,.500,0,0,,0,0,1,2,3,0,0,0,1,2,2,0.5,+12,
+2025-05-01,202505010DET,NYK,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,2,3,.667,1,1,1.000,2,2,1,3,4,2,0,1,1,1,7,8.0,+13,1.000
+2025-05-01,202505010DET,NYK,Q3,Miles McBride,https://www.basketball-reference.com/boxscores/202505010DET.html,2.22,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,
+2025-05-01,202505010DET,NYK,Q3,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202505010DET.html,1.4,0,0,,0,0,,1,4,0,0,0,0,0,0,0,0,1,-0.2,+1,.250
+2025-05-01,202505010DET,NYK,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,1,1,1.000,0,0,,0,0,1,0,1,1,0,0,2,0,2,1.1,-8,
+2025-05-01,202505010DET,NYK,Q4,OG Anunoby,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,1,2,.500,0,1,.000,1,1,0,1,1,0,1,0,0,0,3,3.3,-8,1.000
+2025-05-01,202505010DET,NYK,Q4,Jalen Brunson,https://www.basketball-reference.com/boxscores/202505010DET.html,9.5,4,14,.286,1,4,.250,1,1,2,0,2,1,0,0,0,0,10,3.9,-9,1.000
+2025-05-01,202505010DET,NYK,Q4,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202505010DET.html,7.95,0,2,.000,0,0,,1,2,2,2,4,0,1,0,2,3,1,-1.0,-4,.500
+2025-05-01,202505010DET,NYK,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202505010DET.html,7.42,1,2,.500,0,0,,0,0,0,2,2,0,0,0,1,1,2,0.2,-2,
+2025-05-01,202505010DET,NYK,Q4,Miles McBride,https://www.basketball-reference.com/boxscores/202505010DET.html,4.92,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,1,0,-2.1,-3,
+2025-05-01,202505010DET,NYK,Q4,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202505010DET.html,3.7,0,0,,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.7,-7,
+2025-05-01,202505010DET,NYK,Q4,Cameron Payne,https://www.basketball-reference.com/boxscores/202505010DET.html,2.5,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,2,2,0.5,+1,
+2025-05-01,202505010DET,DET,Q1,Cade Cunningham,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,2,5,.400,0,2,.000,5,6,0,3,3,1,0,0,1,0,9,6.5,-14,.833
+2025-05-01,202505010DET,DET,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,2,3,.667,1,1,1.000,0,0,1,1,2,0,0,0,0,0,5,4.7,-14,
+2025-05-01,202505010DET,DET,Q1,Jalen Duren,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,1,3,.333,0,0,,0,0,0,1,1,0,0,0,1,0,2,-0.4,-14,
+2025-05-01,202505010DET,DET,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202505010DET.html,7.73,1,4,.250,0,2,.000,0,0,0,1,1,0,1,0,1,0,2,-0.1,-13,
+2025-05-01,202505010DET,DET,Q1,Ausar Thompson,https://www.basketball-reference.com/boxscores/202505010DET.html,5.97,0,0,,0,0,,0,0,1,1,2,1,0,0,0,1,0,1.3,-10,
+2025-05-01,202505010DET,DET,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202505010DET.html,6.03,1,2,.500,0,1,.000,0,0,0,1,1,2,0,0,0,0,2,2.7,-4,
+2025-05-01,202505010DET,DET,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202505010DET.html,4.27,1,3,.333,1,3,.333,0,0,0,0,0,0,0,0,0,0,3,1.3,-1,
+2025-05-01,202505010DET,DET,Q2,Cade Cunningham,https://www.basketball-reference.com/boxscores/202505010DET.html,9.72,1,3,.333,0,1,.000,0,0,0,1,1,4,0,0,0,1,2,3.0,+14,
+2025-05-01,202505010DET,DET,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202505010DET.html,9.0,2,3,.667,0,1,.000,1,1,0,1,1,0,1,0,0,0,5,5.0,+13,1.000
+2025-05-01,202505010DET,DET,Q2,Jalen Duren,https://www.basketball-reference.com/boxscores/202505010DET.html,6.72,3,3,1.000,0,0,,1,1,0,2,2,1,0,0,0,1,7,7.0,+11,1.000
+2025-05-01,202505010DET,DET,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202505010DET.html,6.87,0,2,.000,0,2,.000,0,0,0,1,1,1,0,0,0,0,0,-0.4,+5,
+2025-05-01,202505010DET,DET,Q2,Ausar Thompson,https://www.basketball-reference.com/boxscores/202505010DET.html,3.0,1,1,1.000,0,0,,2,4,0,1,1,0,0,1,0,0,4,3.9,+3,.500
+2025-05-01,202505010DET,DET,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202505010DET.html,8.87,2,4,.500,1,1,1.000,0,0,1,1,2,3,0,0,0,0,5,6.1,+9,
+2025-05-01,202505010DET,DET,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202505010DET.html,10.55,5,8,.625,5,8,.625,0,0,0,1,1,2,0,0,2,2,15,10.3,+20,
+2025-05-01,202505010DET,DET,Q2,Paul Reed,https://www.basketball-reference.com/boxscores/202505010DET.html,5.28,0,0,,0,0,,0,0,0,1,1,1,0,0,0,2,0,0.2,+5,
+2025-05-01,202505010DET,DET,Q3,Cade Cunningham,https://www.basketball-reference.com/boxscores/202505010DET.html,10.33,4,8,.500,0,4,.000,0,0,0,2,2,0,1,0,1,2,8,3.8,-10,
+2025-05-01,202505010DET,DET,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,1,3,.333,0,1,.000,0,0,0,2,2,0,0,0,0,1,2,0.5,-13,
+2025-05-01,202505010DET,DET,Q3,Jalen Duren,https://www.basketball-reference.com/boxscores/202505010DET.html,8.48,0,0,,0,0,,2,2,0,0,0,0,0,0,1,3,2,-0.2,-8,1.000
+2025-05-01,202505010DET,DET,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202505010DET.html,7.22,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-2.4,-12,
+2025-05-01,202505010DET,DET,Q3,Ausar Thompson,https://www.basketball-reference.com/boxscores/202505010DET.html,6.85,1,3,.333,0,0,,4,4,2,1,3,0,1,0,0,1,6,6.6,-12,1.000
+2025-05-01,202505010DET,DET,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202505010DET.html,6.45,0,2,.000,0,1,.000,2,2,0,0,0,1,0,0,1,1,2,-0.1,-4,1.000
+2025-05-01,202505010DET,DET,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202505010DET.html,6.45,0,0,,0,0,,2,2,0,0,0,0,0,0,1,0,2,1.0,-4,1.000
+2025-05-01,202505010DET,DET,Q3,Paul Reed,https://www.basketball-reference.com/boxscores/202505010DET.html,2.22,0,0,,0,0,,2,2,0,0,0,0,0,0,0,3,2,0.8,-2,1.000
+2025-05-01,202505010DET,DET,Q4,Cade Cunningham,https://www.basketball-reference.com/boxscores/202505010DET.html,12.0,2,6,.333,0,1,.000,0,0,0,1,1,3,2,1,1,1,4,4.3,+8,
+2025-05-01,202505010DET,DET,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202505010DET.html,6.37,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.7,-9,
+2025-05-01,202505010DET,DET,Q4,Jalen Duren,https://www.basketball-reference.com/boxscores/202505010DET.html,11.92,2,3,.667,0,0,,6,7,1,2,3,2,0,0,0,1,10,10.6,+8,.857
+2025-05-01,202505010DET,DET,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202505010DET.html,11.23,2,3,.667,1,1,1.000,0,0,0,3,3,0,0,0,2,1,5,2.2,+13,
+2025-05-01,202505010DET,DET,Q4,Ausar Thompson,https://www.basketball-reference.com/boxscores/202505010DET.html,6.93,3,3,1.000,0,0,,1,2,0,0,0,0,2,1,0,1,7,8.0,+12,.500
+2025-05-01,202505010DET,DET,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202505010DET.html,8.75,0,1,.000,0,1,.000,0,0,0,1,1,3,1,0,0,1,0,2.3,+6,
+2025-05-01,202505010DET,DET,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/202505010DET.html,2.75,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,1,0,0,-2.1,+2,

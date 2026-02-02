@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-13,201911130LAL,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/201911130LAL.html,31:32,.367,.367,.800,.000,0.0,4.2,1.8,0.0,1.5,0.0,6.3,21.5,68,124,-12.1
+2019-11-13,201911130LAL,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201911130LAL.html,31:00,.603,.462,.308,.769,0.0,8.6,3.7,46.4,1.5,2.2,22.3,30.6,106,121,0.6
+2019-11-13,201911130LAL,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/201911130LAL.html,28:14,.500,.500,.400,.000,0.0,4.7,2.0,29.1,1.7,2.5,23.1,19.5,85,122,-3.1
+2019-11-13,201911130LAL,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201911130LAL.html,27:56,.643,.643,.429,.000,3.6,14.3,8.2,29.5,5.1,0.0,12.5,12.1,125,113,6.5
+2019-11-13,201911130LAL,GSW,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201911130LAL.html,22:42,.714,.714,.000,.000,13.2,11.7,12.6,24.9,0.0,6.1,0.0,13.0,155,121,5.5
+2019-11-13,201911130LAL,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/201911130LAL.html,32:23,.472,.467,.267,.133,3.1,8.2,5.3,0.0,0.0,0.0,11.2,23.4,82,126,-11.3
+2019-11-13,201911130LAL,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/201911130LAL.html,21:37,.489,.429,.571,.714,4.6,12.3,7.9,14.1,0.0,0.0,0.0,18.0,112,125,-2.4
+2019-11-13,201911130LAL,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/201911130LAL.html,16:34,.000,.000,.200,.000,6.0,40.2,20.7,16.1,0.0,8.4,37.5,20.4,21,113,-20.7
+2019-11-13,201911130LAL,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/201911130LAL.html,15:27,.286,.286,.286,.000,19.4,34.5,25.9,10.4,3.1,0.0,12.5,21.9,73,113,-8.1
+2019-11-13,201911130LAL,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/201911130LAL.html,12:35,.833,.833,.333,.000,0.0,10.6,4.5,40.3,3.8,5.5,25.0,13.4,127,114,10.2
+2019-11-13,201911130LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/201911130LAL.html,30:15,.751,.708,.500,.500,8.8,9.9,9.4,8.6,0.0,0.0,21.5,25.5,124,101,0.8
+2019-11-13,201911130LAL,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/201911130LAL.html,27:36,.699,.667,.000,.167,24.2,43.5,35.2,10.2,5.2,9.7,13.4,22.3,136,73,13.7
+2019-11-13,201911130LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/201911130LAL.html,26:29,.536,.548,.238,.048,10.1,15.1,12.9,77.5,1.8,3.4,15.7,39.8,118,93,11.3
+2019-11-13,201911130LAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/201911130LAL.html,23:37,.510,.400,.200,.400,0.0,4.2,2.4,9.3,0.0,0.0,25.4,13.8,94,102,-9.3
+2019-11-13,201911130LAL,LAL,Danny Green,https://www.basketball-reference.com/boxscores/201911130LAL.html,18:38,1.500,1.500,1.000,.000,0.0,5.4,3.1,0.0,2.6,0.0,50.0,8.9,89,97,2.4
+2019-11-13,201911130LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/201911130LAL.html,27:05,.538,.500,.286,.143,0.0,22.2,12.7,12.5,1.8,0.0,0.0,11.4,137,93,1.6
+2019-11-13,201911130LAL,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/201911130LAL.html,24:23,.455,.455,.091,.000,0.0,4.1,2.3,10.3,2.0,0.0,8.3,20.4,99,98,-5.6
+2019-11-13,201911130LAL,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/201911130LAL.html,22:43,1.000,1.000,.667,.000,0.0,13.2,7.5,19.3,0.0,3.9,25.0,7.3,157,97,8.1
+2019-11-13,201911130LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/201911130LAL.html,20:24,.778,.714,.000,.857,19.6,24.5,22.4,19.5,0.0,4.4,23.7,25.7,132,93,4.8
+2019-11-13,201911130LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/201911130LAL.html,18:50,.333,.333,.111,.000,7.1,10.6,9.1,6.3,2.5,0.0,0.0,19.8,92,95,-8.1

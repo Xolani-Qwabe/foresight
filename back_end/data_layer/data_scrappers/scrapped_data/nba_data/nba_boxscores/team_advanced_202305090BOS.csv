@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-05-09,202305090BOS,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202305090BOS.html,41:49,.659,.619,.571,.190,3.2,14.1,9.5,12.1,0.0,0.0,4.2,27.3,137,116,6.3
+2023-05-09,202305090BOS,PHI,James Harden,https://www.basketball-reference.com/boxscores/202305090BOS.html,39:02,.685,.563,.250,1.250,0.0,20.1,11.6,35.1,2.7,0.0,13.9,17.7,145,108,8.5
+2023-05-09,202305090BOS,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202305090BOS.html,37:26,.593,.500,.304,.478,10.7,10.5,10.6,14.2,0.0,11.4,12.6,40.9,117,110,6.0
+2023-05-09,202305090BOS,PHI,P.J. Tucker,https://www.basketball-reference.com/boxscores/202305090BOS.html,33:42,.375,.375,.750,.000,4.0,17.4,11.7,3.7,0.0,0.0,0.0,5.7,109,115,-3.0
+2023-05-09,202305090BOS,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202305090BOS.html,30:45,.735,.750,.300,.200,8.7,28.7,20.2,5.4,0.0,0.0,8.4,18.6,141,111,2.7
+2023-05-09,202305090BOS,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202305090BOS.html,23:15,.500,.500,.250,.000,11.5,8.4,9.7,5.8,2.3,4.6,0.0,8.3,136,109,2.0
+2023-05-09,202305090BOS,PHI,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202305090BOS.html,15:10,.714,.714,.286,.000,0.0,32.3,18.6,13.1,0.0,0.0,0.0,22.2,147,110,4.4
+2023-05-09,202305090BOS,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202305090BOS.html,11:39,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.1,0,120,-10.1
+2023-05-09,202305090BOS,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202305090BOS.html,6:39,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,7.9,0.0,0.0,7.2,200,103,7.3
+2023-05-09,202305090BOS,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202305090BOS.html,0:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,87.4,0,120,-97.8
+2023-05-09,202305090BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202305090BOS.html,39:34,.550,.463,.407,.481,7.4,23.6,14.3,30.9,2.6,0.0,5.8,39.8,115,121,12.6
+2023-05-09,202305090BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202305090BOS.html,34:10,.615,.656,.375,.500,0.0,23.4,9.9,13.8,0.0,0.0,13.3,29.9,101,127,0.3
+2023-05-09,202305090BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202305090BOS.html,33:40,.614,.429,.714,1.429,2.9,7.9,5.0,18.9,0.0,0.0,14.9,18.0,120,131,-0.5
+2023-05-09,202305090BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202305090BOS.html,33:38,.478,.333,.333,.500,5.8,11.9,8.4,0.0,0.0,0.0,0.0,9.9,114,130,-6.0
+2023-05-09,202305090BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202305090BOS.html,25:21,.000,.000,1.000,.000,7.7,15.8,11.1,23.0,4.1,3.9,12.5,14.3,46,116,-5.7
+2023-05-09,202305090BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202305090BOS.html,25:32,.389,.389,.222,.000,0.0,15.7,6.6,27.5,0.0,0.0,0.0,16.0,97,129,-2.1
+2023-05-09,202305090BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202305090BOS.html,18:38,.667,.667,.000,.000,5.3,7.2,6.1,0.0,0.0,0.0,0.0,7.3,140,131,-5.3
+2023-05-09,202305090BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202305090BOS.html,9:15,.800,.800,.400,.000,0.0,14.4,6.1,29.8,0.0,0.0,0.0,24.5,147,129,19.2
+2023-05-09,202305090BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202305090BOS.html,8:27,.000,.000,1.000,.000,0.0,0.0,0.0,17.2,0.0,0.0,0.0,5.4,51,132,-10.9
+2023-05-09,202305090BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202305090BOS.html,3:55,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.1,127,133,12.2
+2023-05-09,202305090BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202305090BOS.html,3:55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-12.3
+2023-05-09,202305090BOS,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202305090BOS.html,3:55,,,,,0.0,34.0,14.4,0.0,0.0,0.0,,0.0,0,125,-4.6

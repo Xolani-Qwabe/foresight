@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2020-03-03,202003030LAL,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202003030LAL.html,36.42,4,8,.500,4,7,.571,0,0,1,7,8,2,0,0,1,4,12,9.6,-9,
+2020-03-03,202003030LAL,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202003030LAL.html,33.1,2,8,.250,0,2,.000,4,5,3,8,11,3,2,1,2,2,8,9.3,-14,.800
+2020-03-03,202003030LAL,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202003030LAL.html,33.07,8,18,.444,2,6,.333,0,1,2,5,7,2,0,0,3,4,18,7.9,-14,.000
+2020-03-03,202003030LAL,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202003030LAL.html,28.65,4,9,.444,2,6,.333,2,4,0,1,1,6,4,0,5,4,12,8.4,-8,.500
+2020-03-03,202003030LAL,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202003030LAL.html,18.02,1,3,.333,0,2,.000,0,0,3,1,4,3,1,0,1,0,2,4.8,-5,
+2020-03-03,202003030LAL,PHI,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202003030LAL.html,31.48,10,15,.667,3,5,.600,2,2,1,3,4,1,1,0,0,0,25,21.8,-2,1.000
+2020-03-03,202003030LAL,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202003030LAL.html,23.53,4,10,.400,3,5,.600,0,0,0,2,2,2,2,0,0,0,11,9.6,0,
+2020-03-03,202003030LAL,PHI,Alec Burks,https://www.basketball-reference.com/boxscores/202003030LAL.html,22.1,2,7,.286,1,5,.200,7,8,1,3,4,1,0,0,1,1,12,8.4,-7,.875
+2020-03-03,202003030LAL,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202003030LAL.html,10.35,3,5,.600,1,2,.500,0,0,0,0,0,4,0,0,2,0,7,5.5,-4,
+2020-03-03,202003030LAL,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/202003030LAL.html,3.28,0,2,.000,0,0,,0,0,1,0,1,0,0,0,0,2,0,-1.5,-2,
+2020-03-03,202003030LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202003030LAL.html,38.97,13,19,.684,4,5,.800,7,8,3,10,13,2,4,2,2,1,37,38.0,+30,.875
+2020-03-03,202003030LAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202003030LAL.html,34.38,4,9,.444,2,5,.400,0,0,0,5,5,3,2,0,0,1,10,10.5,+24,
+2020-03-03,202003030LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202003030LAL.html,33.75,9,16,.563,2,5,.400,2,3,1,6,7,14,1,2,3,1,22,25.3,-2,.667
+2020-03-03,202003030LAL,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202003030LAL.html,26.13,3,7,.429,1,4,.250,0,0,3,2,5,2,0,0,1,2,7,5.6,+5,
+2020-03-03,202003030LAL,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202003030LAL.html,14.92,3,4,.750,0,0,,0,0,1,4,5,0,0,1,1,2,6,5.2,-4,
+2020-03-03,202003030LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202003030LAL.html,23.57,4,7,.571,1,2,.500,1,2,1,0,1,0,0,0,0,3,10,5.8,+11,.500
+2020-03-03,202003030LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202003030LAL.html,19.72,3,10,.300,1,5,.200,0,0,1,4,5,0,0,0,1,3,7,0.9,+18,
+2020-03-03,202003030LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202003030LAL.html,19.55,3,8,.375,2,5,.400,0,0,0,0,0,3,1,0,2,4,8,3.1,-2,
+2020-03-03,202003030LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202003030LAL.html,13.37,4,4,1.000,0,0,,3,3,0,1,1,0,1,0,0,1,11,10.7,-1,1.000
+2020-03-03,202003030LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202003030LAL.html,12.95,0,2,.000,0,2,.000,2,2,0,0,0,0,0,1,2,0,2,-0.7,-16,1.000
+2020-03-03,202003030LAL,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/202003030LAL.html,1.35,0,0,,0,0,,0,0,0,0,0,1,0,0,1,0,0,-0.3,+1,
+2020-03-03,202003030LAL,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202003030LAL.html,1.35,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-10,202203100PHI,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202203100PHI.html,32:14,.682,.676,.353,.176,3.5,37.2,21.9,28.9,3.0,2.6,21.4,31.7,118,87,7.2
+2022-03-10,202203100PHI,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202203100PHI.html,30:17,.615,.618,.647,.118,3.7,9.1,6.7,20.7,1.6,5.6,5.3,27.3,130,106,6.5
+2022-03-10,202203100PHI,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202203100PHI.html,29:15,.557,.556,.111,.222,0.0,6.3,3.5,0.0,1.6,0.0,9.2,16.3,100,110,-10.2
+2022-03-10,202203100PHI,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202203100PHI.html,27:24,.857,.857,.571,.000,0.0,3.4,1.8,10.5,8.8,3.1,12.5,25.6,141,94,18.2
+2022-03-10,202203100PHI,BRK,Andre Drummond,https://www.basketball-reference.com/boxscores/202203100PHI.html,20:33,.527,.500,.000,1.500,16.3,18.0,17.2,10.1,0.0,12.3,0.0,14.2,142,102,0.4
+2022-03-10,202203100PHI,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202203100PHI.html,22:26,1.075,1.071,.429,.143,5.0,8.2,6.8,16.8,0.0,18.8,0.0,14.5,216,105,24.6
+2022-03-10,202203100PHI,BRK,Goran Dragić,https://www.basketball-reference.com/boxscores/202203100PHI.html,22:00,.250,.250,.667,.000,0.0,8.4,4.6,31.3,2.2,0.0,14.3,14.0,100,108,-4.3
+2022-03-10,202203100PHI,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202203100PHI.html,21:59,.712,.800,.000,.600,10.2,25.2,18.4,10.3,2.2,11.5,0.0,12.6,161,92,6.3
+2022-03-10,202203100PHI,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202203100PHI.html,20:38,.833,.833,.667,.000,0.0,0.0,0.0,5.6,4.7,0.0,0.0,12.7,166,107,6.1
+2022-03-10,202203100PHI,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202203100PHI.html,7:43,.333,.333,.333,.000,14.5,0.0,6.5,0.0,0.0,0.0,0.0,17.0,94,118,-17.7
+2022-03-10,202203100PHI,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202203100PHI.html,5:31,.000,.000,.667,.000,20.2,33.5,27.5,0.0,0.0,0.0,25.0,31.8,25,97,-36.5
+2022-03-10,202203100PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202203100PHI.html,30:29,.532,.353,.176,1.118,12.1,29.3,19.9,14.2,0.0,3.1,13.6,37.2,110,128,3.8
+2022-03-10,202203100PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202203100PHI.html,28:44,.286,.286,.286,.000,0.0,3.9,1.8,6.3,1.7,0.0,12.5,10.8,63,132,-11.4
+2022-03-10,202203100PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202203100PHI.html,28:42,.735,.700,.500,.200,6.4,3.9,5.3,23.2,0.0,3.3,15.5,17.3,134,133,7.5
+2022-03-10,202203100PHI,PHI,James Harden,https://www.basketball-reference.com/boxscores/202203100PHI.html,28:39,.308,.265,.412,.118,3.2,19.5,10.6,33.5,3.4,0.0,18.3,29.5,71,124,-7.6
+2022-03-10,202203100PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202203100PHI.html,24:56,.340,.200,.400,.400,7.4,4.5,6.1,0.0,0.0,3.8,25.4,12.2,67,133,-10.1
+2022-03-10,202203100PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202203100PHI.html,24:18,.000,.000,.333,.000,3.8,9.2,6.2,32.9,0.0,3.9,0.0,9.5,56,131,-9.5
+2022-03-10,202203100PHI,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202203100PHI.html,22:41,.583,.556,.667,.111,0.0,24.6,11.1,0.0,2.1,0.0,0.0,16.1,125,126,1.7
+2022-03-10,202203100PHI,PHI,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202203100PHI.html,17:29,.727,.667,.000,.333,21.1,31.9,26.0,0.0,0.0,0.0,36.8,24.1,93,130,-5.2
+2022-03-10,202203100PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202203100PHI.html,14:19,.500,.500,.750,.000,6.4,23.4,14.1,0.0,0.0,0.0,11.1,24.3,94,132,-1.8
+2022-03-10,202203100PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202203100PHI.html,12:00,.347,.000,1.000,1.000,0.0,0.0,0.0,26.7,0.0,7.8,0.0,9.3,115,131,0.5
+2022-03-10,202203100PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202203100PHI.html,7:43,.583,.583,.167,.000,23.9,28.9,26.2,54.9,6.2,0.0,0.0,30.0,133,114,19.3

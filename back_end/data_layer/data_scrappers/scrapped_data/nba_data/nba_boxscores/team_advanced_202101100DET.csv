@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-10,202101100DET,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202101100DET.html,37:14,.664,.611,.444,.389,0.0,4.4,2.5,16.5,0.0,2.9,15.9,30.9,122,104,9.0
+2021-01-10,202101100DET,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202101100DET.html,33:34,.262,.200,.000,1.200,19.5,32.1,26.6,4.3,0.0,12.7,34.4,15.9,64,85,-4.2
+2021-01-10,202101100DET,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202101100DET.html,32:43,.000,.000,1.000,.000,3.3,17.7,11.5,16.8,1.7,0.0,33.3,4.2,79,95,0.0
+2021-01-10,202101100DET,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202101100DET.html,30:13,.745,.692,.308,.308,7.2,8.2,7.8,42.8,3.6,0.0,6.3,23.9,162,96,21.5
+2021-01-10,202101100DET,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202101100DET.html,29:16,.295,.273,.455,.182,0.0,17.0,9.6,5.5,0.0,0.0,0.0,18.6,78,100,-7.8
+2021-01-10,202101100DET,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202101100DET.html,25:06,.583,.567,.467,.067,8.7,6.6,7.5,0.0,0.0,0.0,11.5,31.9,113,104,4.2
+2021-01-10,202101100DET,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202101100DET.html,23:31,.654,.667,.833,.333,0.0,17.6,10.0,14.1,0.0,0.0,0.0,13.4,152,99,4.8
+2021-01-10,202101100DET,UTA,Derrick Favors,https://www.basketball-reference.com/boxscores/202101100DET.html,17:15,.429,.429,.000,.000,31.6,43.2,38.2,0.0,0.0,0.0,12.5,21.3,105,87,-3.4
+2021-01-10,202101100DET,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202101100DET.html,11:08,.200,.200,.800,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.6,52,107,-18.1
+2021-01-10,202101100DET,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202101100DET.html,36:18,.622,.553,.316,.421,0.0,12.0,5.2,30.9,1.5,2.8,4.3,30.1,122,112,14.7
+2021-01-10,202101100DET,DET,Delon Wright,https://www.basketball-reference.com/boxscores/202101100DET.html,36:09,.304,.222,.111,.222,2.3,12.1,6.5,15.1,3.0,5.7,0.0,12.7,81,108,-1.2
+2021-01-10,202101100DET,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/202101100DET.html,32:54,.375,.375,.583,.250,2.5,16.6,8.6,31.5,0.0,0.0,7.0,20.2,85,115,-4.0
+2021-01-10,202101100DET,DET,Mason Plumlee,https://www.basketball-reference.com/boxscores/202101100DET.html,25:54,.600,.600,.000,.000,9.6,21.1,14.5,23.7,4.2,3.9,16.7,10.8,122,100,1.3
+2021-01-10,202101100DET,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202101100DET.html,14:19,.170,.000,.600,.400,5.8,7.6,6.6,11.6,7.6,0.0,0.0,19.1,56,100,-9.4
+2021-01-10,202101100DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202101100DET.html,27:17,.558,.444,.667,.444,6.1,4.0,5.2,7.4,0.0,0.0,0.0,18.3,123,120,-1.2
+2021-01-10,202101100DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202101100DET.html,14:58,.167,.167,.889,.000,0.0,0.0,0.0,0.0,7.3,6.8,0.0,28.0,36,103,-6.9
+2021-01-10,202101100DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202101100DET.html,14:15,.333,.333,.000,.000,17.4,7.7,13.2,13.1,3.8,0.0,0.0,9.8,114,109,-6.1
+2021-01-10,202101100DET,DET,Wayne Ellington,https://www.basketball-reference.com/boxscores/202101100DET.html,13:21,.429,.429,.857,.000,0.0,16.3,7.1,0.0,0.0,15.3,0.0,24.4,81,108,3.1
+2021-01-10,202101100DET,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202101100DET.html,11:51,.300,.300,.800,.000,0.0,36.8,15.9,48.7,0.0,0.0,16.7,23.5,69,105,-2.8
+2021-01-10,202101100DET,DET,Jahlil Okafor,https://www.basketball-reference.com/boxscores/202101100DET.html,7:51,1.000,1.000,.000,.000,0.0,13.9,6.0,0.0,0.0,0.0,40.0,29.6,83,116,0.0
+2021-01-10,202101100DET,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/202101100DET.html,4:53,.532,.000,1.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,34.7,27.4,73,122,-19.0

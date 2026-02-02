@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-01,202002010DAL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202002010DAL.html,40:10,.833,.833,.833,.000,0.0,2.4,1.2,12.5,1.2,0.0,14.3,15.0,136,129,4.1
+2020-02-01,202002010DAL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202002010DAL.html,33:03,.586,.575,.100,.250,13.7,17.4,15.5,0.0,0.0,0.0,8.3,31.6,112,128,0.3
+2020-02-01,202002010DAL,ATL,Damian Jones,https://www.basketball-reference.com/boxscores/202002010DAL.html,30:39,.581,.500,.000,.333,3.0,34.5,18.2,4.8,3.2,2.8,0.0,9.7,129,113,0.8
+2020-02-01,202002010DAL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202002010DAL.html,26:18,.407,.346,.462,.308,3.4,18.3,10.6,6.1,0.0,0.0,21.3,30.8,70,128,-15.6
+2020-02-01,202002010DAL,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202002010DAL.html,7:10,.000,.000,.667,.000,0.0,0.0,0.0,18.1,0.0,24.4,0.0,18.1,19,112,-7.8
+2020-02-01,202002010DAL,ATL,Jeff Teague,https://www.basketball-reference.com/boxscores/202002010DAL.html,30:10,.255,.200,.400,.400,3.0,9.5,6.2,37.6,1.6,0.0,7.8,18.3,81,126,-7.2
+2020-02-01,202002010DAL,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202002010DAL.html,24:28,.463,.409,.182,.182,0.0,27.5,13.3,33.6,0.0,0.0,7.8,22.7,102,125,-1.0
+2020-02-01,202002010DAL,ATL,Vince Carter,https://www.basketball-reference.com/boxscores/202002010DAL.html,24:21,.388,.333,.333,.167,3.7,15.8,9.6,0.0,0.0,3.6,0.0,22.8,86,125,-10.4
+2020-02-01,202002010DAL,ATL,Treveon Graham,https://www.basketball-reference.com/boxscores/202002010DAL.html,20:23,.868,.750,1.000,1.000,4.4,14.1,9.1,0.0,4.8,0.0,0.0,6.1,184,117,2.1
+2020-02-01,202002010DAL,ATL,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202002010DAL.html,3:18,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,39.2,58,133,-25.7
+2020-02-01,202002010DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202002010DAL.html,30:12,.911,.889,.778,.222,6.4,12.0,9.3,4.6,1.6,11.0,0.0,14.3,184,95,13.7
+2020-02-01,202002010DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202002010DAL.html,28:32,.745,.692,.538,.308,6.7,15.9,11.4,20.9,3.4,2.9,0.0,22.6,162,96,18.0
+2020-02-01,202002010DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202002010DAL.html,27:17,.602,.591,.182,.045,3.5,10.0,6.8,61.5,0.0,0.0,4.3,37.5,131,108,8.1
+2020-02-01,202002010DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202002010DAL.html,26:55,.292,.292,.417,.000,0.0,3.4,1.7,4.6,1.8,0.0,20.0,24.3,51,105,-19.1
+2020-02-01,202002010DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202002010DAL.html,25:54,.394,.375,.000,.250,11.1,24.5,18.0,4.8,1.9,6.4,10.1,16.6,96,94,-4.1
+2020-02-01,202002010DAL,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/202002010DAL.html,29:26,.580,.417,.333,.667,0.0,15.4,7.9,28.0,1.6,0.0,20.5,14.5,123,102,-1.4
+2020-02-01,202002010DAL,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/202002010DAL.html,26:26,.592,.563,.250,.125,3.6,24.0,14.1,4.9,0.0,0.0,10.6,15.6,114,104,-2.8
+2020-02-01,202002010DAL,DAL,Ryan Broekhoff,https://www.basketball-reference.com/boxscores/202002010DAL.html,22:32,.680,.600,1.000,.400,4.3,20.1,12.4,5.4,0.0,3.7,14.5,13.3,127,101,-1.2
+2020-02-01,202002010DAL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202002010DAL.html,20:45,.750,.750,.700,.000,0.0,26.2,13.5,14.3,0.0,0.0,0.0,21.0,148,103,8.5
+2020-02-01,202002010DAL,DAL,Antonius Cleveland,https://www.basketball-reference.com/boxscores/202002010DAL.html,2:01,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.6,0,111,-29.6

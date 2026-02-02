@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-03-31,202103310LAL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202103310LAL.html,35.92,8,18,.444,1,3,.333,0,0,1,5,6,8,1,0,2,4,17,12.8,+16,
+2021-03-31,202103310LAL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202103310LAL.html,35.5,8,13,.615,1,1,1.000,8,10,2,8,10,4,0,3,9,2,25,17.2,+11,.800
+2021-03-31,202103310LAL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202103310LAL.html,34.2,11,16,.688,3,5,.600,3,4,0,8,8,6,4,1,4,1,28,27.7,+21,.750
+2021-03-31,202103310LAL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202103310LAL.html,31.23,4,8,.500,3,6,.500,2,2,2,3,5,2,3,0,2,3,13,12.5,+7,1.000
+2021-03-31,202103310LAL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202103310LAL.html,31.0,2,3,.667,0,1,.000,0,0,1,4,5,3,0,4,0,2,4,8.7,+15,
+2021-03-31,202103310LAL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202103310LAL.html,27.33,2,5,.400,1,3,.333,0,0,0,5,5,0,0,0,1,1,5,2.4,+5,
+2021-03-31,202103310LAL,MIL,Bryn Forbes,https://www.basketball-reference.com/boxscores/202103310LAL.html,20.47,3,7,.429,3,5,.600,0,0,0,1,1,0,2,0,0,0,9,7.6,+6,
+2021-03-31,202103310LAL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202103310LAL.html,12.47,3,6,.500,1,1,1.000,1,2,0,1,1,0,2,0,2,2,8,4.1,-4,.500
+2021-03-31,202103310LAL,MIL,Mamadi Diakite,https://www.basketball-reference.com/boxscores/202103310LAL.html,6.72,1,2,.500,1,1,1.000,0,0,1,0,1,0,0,0,1,2,3,0.9,-1,
+2021-03-31,202103310LAL,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202103310LAL.html,2.3,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,0,0,0.3,-3,
+2021-03-31,202103310LAL,MIL,Sam Merrill,https://www.basketball-reference.com/boxscores/202103310LAL.html,1.43,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2021-03-31,202103310LAL,MIL,Axel Toupane,https://www.basketball-reference.com/boxscores/202103310LAL.html,1.43,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2021-03-31,202103310LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202103310LAL.html,34.3,7,17,.412,1,9,.111,1,1,1,6,7,3,1,0,2,1,16,10.1,-17,1.000
+2021-03-31,202103310LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202103310LAL.html,31.82,6,18,.333,3,8,.375,2,2,1,2,3,8,1,1,3,3,17,11.2,-18,1.000
+2021-03-31,202103310LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202103310LAL.html,28.8,5,8,.625,3,5,.600,2,2,2,4,6,2,0,0,2,3,15,12.2,-16,1.000
+2021-03-31,202103310LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202103310LAL.html,22.17,0,4,.000,0,1,.000,2,3,1,2,3,1,0,0,2,2,2,-2.0,-6,.667
+2021-03-31,202103310LAL,LAL,Andre Drummond,https://www.basketball-reference.com/boxscores/202103310LAL.html,14.32,2,6,.333,0,0,,0,2,0,1,1,2,0,1,3,4,4,-2.4,-8,.000
+2021-03-31,202103310LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202103310LAL.html,28.23,3,7,.429,0,2,.000,0,0,0,4,4,2,2,1,0,2,6,6.8,-3,
+2021-03-31,202103310LAL,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202103310LAL.html,25.75,6,11,.545,0,1,.000,7,7,3,2,5,1,1,0,3,3,19,13.9,-9,1.000
+2021-03-31,202103310LAL,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202103310LAL.html,25.2,3,7,.429,3,7,.429,0,0,2,2,4,1,3,0,0,1,9,10.6,-8,
+2021-03-31,202103310LAL,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202103310LAL.html,16.88,1,4,.250,0,1,.000,1,2,0,1,1,1,0,0,6,3,3,-6.0,+2,.500
+2021-03-31,202103310LAL,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202103310LAL.html,5.62,1,3,.333,0,2,.000,0,0,0,3,3,1,1,2,0,0,2,4.3,-1,
+2021-03-31,202103310LAL,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202103310LAL.html,2.3,1,1,1.000,0,0,,2,3,0,1,1,0,0,0,0,0,4,3.6,+3,.667
+2021-03-31,202103310LAL,LAL,Kostas Antetokounmpo,https://www.basketball-reference.com/boxscores/202103310LAL.html,2.3,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+3,
+2021-03-31,202103310LAL,LAL,Devontae Cacok,https://www.basketball-reference.com/boxscores/202103310LAL.html,2.3,0,0,,0,0,,0,0,1,1,2,0,0,0,1,0,0,0.0,+3,

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-02-21,202502210ORL,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202502210ORL.html,36:16,.526,.462,.462,.385,0.0,18.2,9.0,8.4,2.6,0.0,16.5,20.1,95,100,-1.1
+2025-02-21,202502210ORL,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202502210ORL.html,33:21,.462,.438,.292,.083,2.8,8.5,5.6,30.5,1.4,0.0,22.0,38.3,81,106,-5.6
+2025-02-21,202502210ORL,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202502210ORL.html,26:53,.448,.231,.462,.846,0.0,14.0,6.9,5.5,1.8,9.4,0.0,26.6,108,98,2.5
+2025-02-21,202502210ORL,MEM,Jaylen Wells,https://www.basketball-reference.com/boxscores/202502210ORL.html,16:41,.444,.429,.571,.286,5.5,11.3,8.4,9.8,0.0,0.0,0.0,18.9,105,109,-1.2
+2025-02-21,202502210ORL,MEM,Zach Edey,https://www.basketball-reference.com/boxscores/202502210ORL.html,12:09,.500,.500,.000,.000,15.2,31.0,23.0,0.0,0.0,13.9,50.0,13.2,67,92,-8.8
+2025-02-21,202502210ORL,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202502210ORL.html,31:20,.455,.500,.333,.222,11.8,21.0,16.4,19.2,0.0,5.4,0.0,12.6,120,102,5.5
+2025-02-21,202502210ORL,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202502210ORL.html,26:39,.597,.600,.100,.200,13.9,24.7,19.2,13.2,1.8,0.0,8.4,17.9,125,100,5.8
+2025-02-21,202502210ORL,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202502210ORL.html,22:07,.388,.333,.333,.167,0.0,8.5,4.2,25.8,2.1,0.0,0.0,11.7,109,105,0.3
+2025-02-21,202502210ORL,MEM,GG Jackson II,https://www.basketball-reference.com/boxscores/202502210ORL.html,17:18,1.020,1.100,.600,.400,5.3,5.4,5.4,0.0,0.0,0.0,0.0,13.6,192,110,11.2
+2025-02-21,202502210ORL,MEM,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202502210ORL.html,17:16,.258,.000,.333,.667,10.7,5.5,8.1,21.9,2.7,0.0,20.5,11.3,88,104,-4.4
+2025-02-21,202502210ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202502210ORL.html,38:08,.578,.526,.368,.316,2.5,12.1,7.3,15.3,1.2,4.3,12.2,26.6,108,104,4.5
+2025-02-21,202502210ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202502210ORL.html,33:37,.618,.583,.333,.333,8.4,16.5,12.5,36.4,2.8,2.4,17.9,20.5,119,100,9.2
+2025-02-21,202502210ORL,ORL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502210ORL.html,33:30,.571,.500,.714,.286,0.0,5.5,2.8,13.6,1.4,2.4,0.0,9.7,132,107,0.8
+2025-02-21,202502210ORL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502210ORL.html,29:19,.417,.417,.167,.000,22.5,12.6,17.5,0.0,3.2,0.0,20.0,21.1,86,102,-8.0
+2025-02-21,202502210ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502210ORL.html,28:59,.393,.262,.286,.619,0.0,19.1,9.6,11.9,0.0,2.8,3.6,39.4,88,104,-5.2
+2025-02-21,202502210ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502210ORL.html,18:51,1.000,1.000,.000,.000,5.0,19.6,12.4,0.0,0.0,17.3,0.0,4.4,203,96,2.5
+2025-02-21,202502210ORL,ORL,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202502210ORL.html,17:10,.508,.500,.286,.286,0.0,10.8,5.4,30.4,0.0,0.0,0.0,18.9,118,110,3.7
+2025-02-21,202502210ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202502210ORL.html,15:15,.000,.000,.333,.667,6.2,30.3,18.3,17.5,0.0,0.0,20.5,13.2,34,102,-13.9
+2025-02-21,202502210ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202502210ORL.html,12:49,1.215,1.250,.500,1.000,0.0,7.2,3.6,0.0,3.7,0.0,25.8,12.5,157,102,5.8
+2025-02-21,202502210ORL,ORL,Jett Howard,https://www.basketball-reference.com/boxscores/202502210ORL.html,12:22,.387,.500,1.000,.667,0.0,14.9,7.5,36.3,0.0,0.0,0.0,12.9,105,108,1.1

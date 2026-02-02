@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-10-30,202410300GSW,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202410300GSW.html,38:49,.526,.524,.667,.095,2.6,8.4,5.4,5.7,0.0,0.0,8.4,25.9,106,121,-4.1
+2024-10-30,202410300GSW,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202410300GSW.html,34:57,.615,.615,.615,.000,2.9,12.5,7.5,22.2,1.5,5.6,7.1,16.9,131,113,5.9
+2024-10-30,202410300GSW,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202410300GSW.html,32:44,.260,.250,.050,.350,18.7,20.0,19.3,22.9,0.0,3.0,14.8,34.9,68,116,-13.3
+2024-10-30,202410300GSW,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202410300GSW.html,32:22,.589,.545,.545,.182,3.2,13.5,8.1,34.8,0.0,0.0,14.4,18.1,123,120,0.4
+2024-10-30,202410300GSW,NOP,Daniel Theis,https://www.basketball-reference.com/boxscores/202410300GSW.html,5:16,.000,.000,.000,.000,0.0,62.1,30.0,0.0,0.0,0.0,33.3,24.0,0,103,-29.6
+2024-10-30,202410300GSW,NOP,Javonte Green,https://www.basketball-reference.com/boxscores/202410300GSW.html,25:41,.425,.300,.800,.400,8.0,12.7,10.3,12.0,6.2,7.6,14.5,11.3,106,102,4.6
+2024-10-30,202410300GSW,NOP,Jamal Cain,https://www.basketball-reference.com/boxscores/202410300GSW.html,23:52,.717,.750,.250,.500,4.3,4.6,4.4,7.5,2.2,4.1,17.0,10.4,121,115,-3.3
+2024-10-30,202410300GSW,NOP,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202410300GSW.html,22:40,.846,.750,.250,.750,9.0,14.4,11.6,23.8,0.0,0.0,15.8,11.8,159,119,2.7
+2024-10-30,202410300GSW,NOP,Yves Missi,https://www.basketball-reference.com/boxscores/202410300GSW.html,12:02,.000,.000,.000,.000,17.0,9.1,13.2,12.1,0.0,0.0,0.0,17.5,35,121,-19.3
+2024-10-30,202410300GSW,NOP,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202410300GSW.html,10:15,.129,.000,.333,.667,0.0,31.9,15.4,28.4,10.3,0.0,20.5,20.1,48,90,-3.5
+2024-10-30,202410300GSW,NOP,Trey Jemison,https://www.basketball-reference.com/boxscores/202410300GSW.html,1:22,.500,.500,.000,.000,100.0,0.0,77.2,0.0,0.0,0.0,0.0,61.7,140,125,20.5
+2024-10-30,202410300GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202410300GSW.html,38:06,.409,.400,.467,.133,5.7,16.1,11.1,25.4,1.4,0.0,20.1,23.5,89,98,-6.1
+2024-10-30,202410300GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202410300GSW.html,30:07,.612,.591,.455,.091,3.6,10.2,7.0,29.0,1.8,14.8,20.8,21.6,112,95,9.6
+2024-10-30,202410300GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202410300GSW.html,30:06,.444,.444,.667,.000,3.6,10.2,7.0,13.2,0.0,0.0,25.0,17.9,81,105,-10.7
+2024-10-30,202410300GSW,GSW,Lindy Waters III,https://www.basketball-reference.com/boxscores/202410300GSW.html,29:58,.300,.300,1.000,.000,0.0,3.4,1.8,12.2,1.8,3.0,0.0,7.5,98,104,-3.3
+2024-10-30,202410300GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202410300GSW.html,20:12,.759,.778,.000,.222,5.4,40.4,23.5,19.5,0.0,4.4,0.0,22.0,156,85,13.6
+2024-10-30,202410300GSW,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202410300GSW.html,29:00,.540,.526,.632,.053,7.5,0.0,3.6,17.9,1.8,3.1,0.0,30.2,122,106,6.5
+2024-10-30,202410300GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202410300GSW.html,27:15,.563,.500,.083,.417,8.0,7.5,7.7,11.6,1.9,0.0,6.6,25.1,120,102,-2.5
+2024-10-30,202410300GSW,GSW,Kyle Anderson,https://www.basketball-reference.com/boxscores/202410300GSW.html,15:18,1.025,1.125,.250,.500,7.1,20.0,13.8,22.1,0.0,5.8,0.0,14.3,203,97,18.2
+2024-10-30,202410300GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202410300GSW.html,8:33,1.000,1.000,.000,.000,12.8,35.8,24.7,15.9,0.0,0.0,50.0,10.5,112,88,-3.5
+2024-10-30,202410300GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202410300GSW.html,7:19,,,,,14.9,0.0,7.2,32.0,0.0,0.0,100.0,6.1,101,110,-8.3
+2024-10-30,202410300GSW,GSW,Reece Beekman,https://www.basketball-reference.com/boxscores/202410300GSW.html,1:22,1.000,1.000,.000,.000,79.8,0.0,38.6,0.0,0.0,0.0,0.0,32.9,210,112,48.4
+2024-10-30,202410300GSW,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202410300GSW.html,1:22,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.9,0,112,-41.3
+2024-10-30,202410300GSW,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202410300GSW.html,1:22,,,,,0.0,0.0,0.0,85.7,0.0,0.0,,0.0,232,112,16.4

@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg_pct,fg3_pct
+2023-03-06,202303060DET,POR,Q1,Cam Reddish,https://www.basketball-reference.com/boxscores/202303060DET.html,9.07,0,0,0,0,3,4,.750,0,0,0,0,1,0,0,0,3,3.6,+11,,
+2023-03-06,202303060DET,POR,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/202303060DET.html,9.07,2,4,0,2,0,0,,0,1,1,1,0,1,0,1,4,3.3,+11,.500,.000
+2023-03-06,202303060DET,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202303060DET.html,9.65,6,11,4,7,0,0,,0,5,5,2,0,0,1,0,16,12.6,+8,.545,.571
+2023-03-06,202303060DET,POR,Q1,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303060DET.html,9.65,0,1,0,1,0,0,,0,1,1,2,0,0,0,0,0,1.0,+8,.000,.000
+2023-03-06,202303060DET,POR,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202303060DET.html,6.95,0,0,0,0,0,0,,0,2,2,0,0,0,0,1,0,0.2,+6,,
+2023-03-06,202303060DET,POR,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202303060DET.html,5.05,1,1,0,0,0,0,,0,0,0,0,0,0,0,0,2,1.7,+7,1.000,
+2023-03-06,202303060DET,POR,Q1,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303060DET.html,5.28,1,1,0,0,2,2,1.000,0,2,2,0,0,0,0,1,4,3.9,+7,1.000,
+2023-03-06,202303060DET,POR,Q1,Nassir Little,https://www.basketball-reference.com/boxscores/202303060DET.html,5.28,1,1,0,0,0,0,,0,0,0,0,0,0,0,0,2,1.7,+7,1.000,
+2023-03-06,202303060DET,POR,Q2,Cam Reddish,https://www.basketball-reference.com/boxscores/202303060DET.html,9.65,1,4,1,2,1,2,.500,1,1,2,1,1,0,0,0,4,3.9,-7,.250,.500
+2023-03-06,202303060DET,POR,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/202303060DET.html,8.95,0,2,0,0,2,2,1.000,0,0,0,0,0,0,0,0,2,0.6,-1,.000,
+2023-03-06,202303060DET,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202303060DET.html,8.9,2,5,1,1,0,0,,0,1,1,4,0,0,2,0,5,3.4,-4,.400,1.000
+2023-03-06,202303060DET,POR,Q2,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303060DET.html,6.55,0,0,0,0,0,0,,0,1,1,0,1,0,0,2,0,0.5,-6,,
+2023-03-06,202303060DET,POR,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202303060DET.html,5.4,1,1,0,0,3,6,.500,1,0,1,2,0,1,0,1,5,5.9,-2,1.000,
+2023-03-06,202303060DET,POR,Q2,Trendon Watford,https://www.basketball-reference.com/boxscores/202303060DET.html,6.6,4,4,0,0,0,0,,0,0,0,0,0,0,1,1,8,5.4,-3,1.000,
+2023-03-06,202303060DET,POR,Q2,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303060DET.html,8.5,1,1,0,0,0,0,,0,1,1,0,0,0,0,0,2,2.0,-3,1.000,
+2023-03-06,202303060DET,POR,Q2,Nassir Little,https://www.basketball-reference.com/boxscores/202303060DET.html,5.45,1,2,0,0,0,0,,0,2,2,1,1,0,0,1,2,2.9,+1,.500,
+2023-03-06,202303060DET,POR,Q3,Cam Reddish,https://www.basketball-reference.com/boxscores/202303060DET.html,9.58,1,3,1,2,0,0,,0,3,3,4,0,0,0,0,3,5.0,+6,.333,.500
+2023-03-06,202303060DET,POR,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/202303060DET.html,12.0,6,11,3,3,2,2,1.000,0,2,2,0,1,2,1,1,17,13.3,+7,.545,1.000
+2023-03-06,202303060DET,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202303060DET.html,9.28,1,5,0,3,0,0,,1,4,5,5,0,1,0,0,2,5.0,+8,.200,.000
+2023-03-06,202303060DET,POR,Q3,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303060DET.html,9.28,0,1,0,1,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+8,.000,.000
+2023-03-06,202303060DET,POR,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202303060DET.html,6.87,2,2,0,0,1,1,1.000,0,0,0,0,1,1,0,0,5,6.1,+7,1.000,
+2023-03-06,202303060DET,POR,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202303060DET.html,5.13,0,0,0,0,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,,
+2023-03-06,202303060DET,POR,Q3,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303060DET.html,5.13,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,,
+2023-03-06,202303060DET,POR,Q3,Nassir Little,https://www.basketball-reference.com/boxscores/202303060DET.html,2.72,1,1,1,1,0,0,,0,0,0,0,0,0,0,0,3,2.7,-1,1.000,1.000
+2023-03-06,202303060DET,POR,Q4,Cam Reddish,https://www.basketball-reference.com/boxscores/202303060DET.html,12.0,1,3,1,2,0,0,,0,1,1,3,0,0,1,2,3,1.9,-9,.333,.500
+2023-03-06,202303060DET,POR,Q4,Jerami Grant,https://www.basketball-reference.com/boxscores/202303060DET.html,10.23,1,2,1,2,0,0,,1,2,3,0,0,0,1,2,3,1.5,-4,.500,.500
+2023-03-06,202303060DET,POR,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202303060DET.html,10.23,1,7,1,3,5,6,.833,1,1,2,1,1,0,1,0,8,4.8,-4,.143,.333
+2023-03-06,202303060DET,POR,Q4,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303060DET.html,12.0,1,1,1,1,0,0,,0,0,0,0,0,0,1,1,3,1.3,-9,1.000,1.000
+2023-03-06,202303060DET,POR,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202303060DET.html,12.0,1,2,0,1,0,0,,0,2,2,2,0,0,1,1,2,1.6,-9,.500,.000
+2023-03-06,202303060DET,POR,Q4,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303060DET.html,1.77,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-5,,
+2023-03-06,202303060DET,POR,Q4,Nassir Little,https://www.basketball-reference.com/boxscores/202303060DET.html,1.77,1,2,0,1,0,0,,0,0,0,0,0,0,0,0,2,1.0,-5,.500,.000
+2023-03-06,202303060DET,DET,Q1,Isaiah Livers,https://www.basketball-reference.com/boxscores/202303060DET.html,11.23,1,2,0,1,0,0,,0,0,0,0,0,0,1,0,2,0.0,-14,.500,.000
+2023-03-06,202303060DET,DET,Q1,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202303060DET.html,10.65,1,3,0,0,0,0,,1,1,2,0,0,0,1,1,2,-0.1,-11,.333,
+2023-03-06,202303060DET,DET,Q1,Jaden Ivey,https://www.basketball-reference.com/boxscores/202303060DET.html,9.65,0,2,0,2,0,0,,0,1,1,3,0,0,0,0,0,1.0,-8,.000,.000
+2023-03-06,202303060DET,DET,Q1,James Wiseman,https://www.basketball-reference.com/boxscores/202303060DET.html,8.07,2,3,0,0,0,0,,0,1,1,0,0,1,0,1,4,3.3,-8,.667,
+2023-03-06,202303060DET,DET,Q1,Alec Burks,https://www.basketball-reference.com/boxscores/202303060DET.html,8.07,1,4,1,3,0,0,,0,3,3,2,1,0,1,1,3,2.5,-8,.250,.333
+2023-03-06,202303060DET,DET,Q1,Cory Joseph,https://www.basketball-reference.com/boxscores/202303060DET.html,3.93,1,2,1,2,0,0,,0,1,1,1,0,0,0,1,3,2.6,-5,.500,.500
+2023-03-06,202303060DET,DET,Q1,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202303060DET.html,5.28,1,2,0,0,0,2,.000,0,1,1,1,0,0,0,0,2,1.2,-7,.500,
+2023-03-06,202303060DET,DET,Q1,R.J. Hampton,https://www.basketball-reference.com/boxscores/202303060DET.html,2.35,0,1,0,0,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-5,.000,
+2023-03-06,202303060DET,DET,Q1,Jared Rhoden,https://www.basketball-reference.com/boxscores/202303060DET.html,0.77,1,1,0,0,0,0,,1,0,1,0,0,0,0,0,2,2.4,+1,1.000,
+2023-03-06,202303060DET,DET,Q2,Isaiah Livers,https://www.basketball-reference.com/boxscores/202303060DET.html,6.55,2,3,1,2,0,0,,0,2,2,1,0,0,1,0,5,4.0,+6,.667,.500
+2023-03-06,202303060DET,DET,Q2,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202303060DET.html,8.15,1,3,0,1,0,0,,1,1,2,0,0,0,1,1,2,-0.1,+6,.333,.000
+2023-03-06,202303060DET,DET,Q2,Jaden Ivey,https://www.basketball-reference.com/boxscores/202303060DET.html,6.55,3,4,0,1,2,2,1.000,0,1,1,4,1,0,0,1,8,10.1,+6,.750,.000
+2023-03-06,202303060DET,DET,Q2,James Wiseman,https://www.basketball-reference.com/boxscores/202303060DET.html,3.85,0,0,0,0,2,2,1.000,0,0,0,0,0,1,0,2,2,1.9,-1,,
+2023-03-06,202303060DET,DET,Q2,Alec Burks,https://www.basketball-reference.com/boxscores/202303060DET.html,7.72,1,3,1,2,2,2,1.000,0,0,0,1,0,1,0,1,5,4.3,+4,.333,.500
+2023-03-06,202303060DET,DET,Q2,Cory Joseph,https://www.basketball-reference.com/boxscores/202303060DET.html,12.0,2,4,1,3,0,0,,0,1,1,1,1,0,0,0,5,5.0,+5,.500,.333
+2023-03-06,202303060DET,DET,Q2,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202303060DET.html,5.45,1,2,0,0,0,2,.000,1,1,2,0,0,0,1,0,2,0.2,-1,.500,
+2023-03-06,202303060DET,DET,Q2,R.J. Hampton,https://www.basketball-reference.com/boxscores/202303060DET.html,4.28,1,1,0,0,0,0,,0,1,1,1,1,0,1,0,2,2.7,+1,1.000,
+2023-03-06,202303060DET,DET,Q2,Jared Rhoden,https://www.basketball-reference.com/boxscores/202303060DET.html,5.45,1,1,0,0,0,0,,2,1,3,0,0,0,0,1,2,3.0,-1,1.000,
+2023-03-06,202303060DET,DET,Q3,Isaiah Livers,https://www.basketball-reference.com/boxscores/202303060DET.html,12.0,3,3,2,2,0,0,,1,2,3,1,0,0,0,0,8,9.1,-7,1.000,1.000
+2023-03-06,202303060DET,DET,Q3,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202303060DET.html,12.0,1,4,0,0,0,0,,1,1,2,1,0,1,1,0,2,1.0,-7,.250,
+2023-03-06,202303060DET,DET,Q3,Jaden Ivey,https://www.basketball-reference.com/boxscores/202303060DET.html,9.28,0,6,0,3,0,0,,0,2,2,3,0,0,1,2,0,-3.3,-8,.000,.000
+2023-03-06,202303060DET,DET,Q3,James Wiseman,https://www.basketball-reference.com/boxscores/202303060DET.html,5.3,2,4,0,0,0,0,,1,1,2,0,0,1,0,1,4,3.3,-7,.500,
+2023-03-06,202303060DET,DET,Q3,Alec Burks,https://www.basketball-reference.com/boxscores/202303060DET.html,6.87,1,4,1,3,2,3,.667,1,2,3,1,0,0,0,0,5,4.2,-7,.250,.333
+2023-03-06,202303060DET,DET,Q3,Cory Joseph,https://www.basketball-reference.com/boxscores/202303060DET.html,5.13,2,3,0,1,0,0,,0,2,2,0,0,0,0,0,4,3.3,0,.667,.000
+2023-03-06,202303060DET,DET,Q3,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202303060DET.html,6.7,0,1,0,0,0,0,,2,1,3,2,1,0,2,1,0,1.0,0,.000,
+2023-03-06,202303060DET,DET,Q3,R.J. Hampton,https://www.basketball-reference.com/boxscores/202303060DET.html,2.72,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,,
+2023-03-06,202303060DET,DET,Q4,Isaiah Livers,https://www.basketball-reference.com/boxscores/202303060DET.html,9.17,1,4,0,3,0,0,,0,0,0,0,0,0,0,0,2,-0.4,+1,.250,.000
+2023-03-06,202303060DET,DET,Q4,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202303060DET.html,5.48,2,2,0,0,0,0,,1,1,2,0,0,1,0,1,4,4.7,+9,1.000,
+2023-03-06,202303060DET,DET,Q4,Jaden Ivey,https://www.basketball-reference.com/boxscores/202303060DET.html,5.48,1,2,0,1,3,3,1.000,0,1,1,3,0,0,0,1,5,6.0,+9,.500,.000
+2023-03-06,202303060DET,DET,Q4,James Wiseman,https://www.basketball-reference.com/boxscores/202303060DET.html,6.52,1,1,0,0,0,0,,1,3,4,0,0,0,4,2,2,-1.5,0,1.000,
+2023-03-06,202303060DET,DET,Q4,Cory Joseph,https://www.basketball-reference.com/boxscores/202303060DET.html,10.53,1,2,0,0,0,0,,0,1,1,2,0,0,0,0,2,2.7,+10,.500,
+2023-03-06,202303060DET,DET,Q4,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202303060DET.html,9.67,2,5,0,0,1,2,.500,1,1,2,0,0,0,0,1,5,2.5,+4,.400,
+2023-03-06,202303060DET,DET,Q4,R.J. Hampton,https://www.basketball-reference.com/boxscores/202303060DET.html,10.32,3,4,2,2,0,0,,1,2,3,2,4,0,0,1,8,12.7,+4,.750,1.000
+2023-03-06,202303060DET,DET,Q4,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202303060DET.html,2.83,0,0,0,0,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,+8,,

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-26,202303260BOS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202303260BOS.html,30:36,.520,.500,.278,.278,0.0,25.0,11.1,26.8,0.0,0.0,16.5,33.0,86,129,-0.2
+2023-03-26,202303260BOS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202303260BOS.html,26:33,.375,.375,.417,.000,0.0,20.5,9.1,25.1,0.0,0.0,7.7,20.5,75,130,-8.5
+2023-03-26,202303260BOS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202303260BOS.html,26:27,.533,.500,.111,.333,3.3,16.5,9.2,25.3,5.1,0.0,8.8,17.9,106,119,2.5
+2023-03-26,202303260BOS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202303260BOS.html,24:03,.577,.577,.231,.000,0.0,13.6,6.0,9.1,0.0,0.0,0.0,22.6,106,131,-0.6
+2023-03-26,202303260BOS,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202303260BOS.html,19:05,.167,.167,.333,.000,4.6,22.9,12.7,7.5,0.0,0.0,0.0,13.1,49,130,-12.4
+2023-03-26,202303260BOS,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202303260BOS.html,22:10,.574,.550,.400,.300,0.0,24.6,10.9,25.8,0.0,0.0,8.1,23.2,106,129,1.6
+2023-03-26,202303260BOS,SAS,Devonte' Graham,https://www.basketball-reference.com/boxscores/202303260BOS.html,22:06,.170,.000,.600,.400,0.0,14.8,6.6,12.1,4.0,0.0,25.4,14.9,37,121,-14.3
+2023-03-26,202303260BOS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202303260BOS.html,20:54,.322,.250,.700,.200,0.0,5.2,2.3,7.3,0.0,0.0,0.0,21.7,67,132,-12.1
+2023-03-26,202303260BOS,SAS,Romeo Langford,https://www.basketball-reference.com/boxscores/202303260BOS.html,18:56,.581,.583,.333,.333,4.6,5.8,5.1,0.0,4.7,0.0,0.0,15.2,113,121,2.6
+2023-03-26,202303260BOS,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202303260BOS.html,9:00,.500,.500,.500,.000,0.0,12.1,5.4,0.0,0.0,0.0,0.0,9.3,92,131,-10.6
+2023-03-26,202303260BOS,SAS,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202303260BOS.html,7:01,.000,.000,.750,.000,0.0,15.5,6.9,38.0,0.0,0.0,0.0,23.8,22,131,-13.1
+2023-03-26,202303260BOS,SAS,Dominick Barlow,https://www.basketball-reference.com/boxscores/202303260BOS.html,6:50,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-15.8
+2023-03-26,202303260BOS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202303260BOS.html,6:19,.615,.500,.000,.500,0.0,0.0,0.0,0.0,0.0,0.0,29.1,22.7,82,133,-11.1
+2023-03-26,202303260BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202303260BOS.html,36:15,.657,.655,.345,.172,3.0,28.9,17.4,14.1,1.2,0.0,13.8,42.0,113,88,1.5
+2023-03-26,202303260BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202303260BOS.html,32:50,.800,.818,.545,.182,3.3,18.6,11.8,7.0,1.4,4.8,7.8,16.5,147,84,9.4
+2023-03-26,202303260BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202303260BOS.html,28:03,.500,.500,1.000,.000,0.0,12.4,6.9,7.0,0.0,0.0,0.0,9.0,117,92,-3.5
+2023-03-26,202303260BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202303260BOS.html,27:30,.553,.500,.600,.400,4.0,6.3,5.3,15.5,0.0,5.7,20.3,22.6,105,86,-3.9
+2023-03-26,202303260BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202303260BOS.html,22:09,.500,.500,1.000,.000,4.9,31.5,19.7,18.2,2.0,10.7,25.0,15.2,105,75,7.9
+2023-03-26,202303260BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202303260BOS.html,26:01,.644,.542,.250,.667,8.4,10.1,9.3,40.6,1.7,3.0,0.0,25.1,160,85,14.1
+2023-03-26,202303260BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202303260BOS.html,18:50,.698,.714,.000,.286,11.6,27.8,20.6,0.0,0.0,4.2,11.3,19.8,129,86,0.1
+2023-03-26,202303260BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202303260BOS.html,17:57,.750,.750,1.000,.000,0.0,19.4,10.8,0.0,0.0,4.4,0.0,4.7,144,87,-0.2
+2023-03-26,202303260BOS,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202303260BOS.html,11:45,1.125,1.125,1.000,.000,9.3,14.9,12.4,10.3,0.0,0.0,0.0,14.3,214,92,17.9
+2023-03-26,202303260BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202303260BOS.html,7:01,1.000,1.000,.000,.000,0.0,12.4,6.9,0.0,0.0,11.2,0.0,12.0,200,80,7.3
+2023-03-26,202303260BOS,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202303260BOS.html,6:34,1.250,1.250,.500,.000,0.0,13.3,7.4,39.1,0.0,0.0,33.3,19.2,163,91,11.6
+2023-03-26,202303260BOS,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202303260BOS.html,5:05,,,,,0.0,34.3,19.1,36.3,0.0,0.0,100.0,8.3,90,90,5.6

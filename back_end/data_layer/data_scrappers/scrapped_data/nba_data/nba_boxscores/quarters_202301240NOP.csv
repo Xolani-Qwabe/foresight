@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-01-24,202301240NOP,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202301240NOP.html,9.88,1,3,.333,1,2,.500,0,0,0,1,1,3,0,0,0,0,3,3.7,+9,
+2023-01-24,202301240NOP,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.72,5,8,.625,1,3,.333,0,0,2,2,4,2,1,0,1,0,11,10.8,+2,
+2023-01-24,202301240NOP,DEN,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.52,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,-2,
+2023-01-24,202301240NOP,DEN,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.52,2,2,1.000,1,1,1.000,0,0,0,0,0,2,1,0,1,0,5,5.8,-2,
+2023-01-24,202301240NOP,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.02,1,2,.500,0,0,,1,2,0,1,1,1,0,0,2,2,3,-0.2,+2,.500
+2023-01-24,202301240NOP,DEN,Q1,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.98,1,2,.500,0,1,.000,2,2,1,2,3,0,0,1,0,1,4,4.6,+2,1.000
+2023-01-24,202301240NOP,DEN,Q1,Christian Braun,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.6,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2023-01-24,202301240NOP,DEN,Q1,Jeff Green,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2023-01-24,202301240NOP,DEN,Q1,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202301240NOP.html,3.48,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,+6,
+2023-01-24,202301240NOP,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202301240NOP.html,9.83,7,9,.778,2,2,1.000,0,0,0,0,0,1,0,0,0,0,16,13.2,+8,
+2023-01-24,202301240NOP,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.45,1,1,1.000,0,0,,0,0,0,1,1,3,0,0,0,0,2,4.1,+2,
+2023-01-24,202301240NOP,DEN,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.45,3,5,.600,2,4,.500,0,0,0,1,1,0,1,1,0,0,8,7.7,+2,
+2023-01-24,202301240NOP,DEN,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.08,0,2,.000,0,0,,0,0,0,0,0,1,1,0,0,1,0,-0.1,0,
+2023-01-24,202301240NOP,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202301240NOP.html,2.45,0,0,,0,0,,0,0,0,1,1,2,0,0,0,1,0,1.3,+2,
+2023-01-24,202301240NOP,DEN,Q2,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202301240NOP.html,9.42,0,1,.000,0,1,.000,0,0,1,2,3,0,0,0,0,1,0,0.2,+12,
+2023-01-24,202301240NOP,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.92,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,1,2,2.0,+12,
+2023-01-24,202301240NOP,DEN,Q2,Jeff Green,https://www.basketball-reference.com/boxscores/202301240NOP.html,7.85,1,1,1.000,1,1,1.000,4,4,0,1,1,1,1,0,1,1,7,7.3,+12,1.000
+2023-01-24,202301240NOP,DEN,Q2,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.55,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-0.4,+10,
+2023-01-24,202301240NOP,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.5,1,4,.250,0,2,.000,0,0,0,0,0,0,0,0,0,0,2,-0.4,-3,
+2023-01-24,202301240NOP,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.07,3,4,.750,1,1,1.000,1,2,0,3,3,3,0,0,1,2,8,7.2,-6,.500
+2023-01-24,202301240NOP,DEN,Q3,Bruce Brown,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.07,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-6,
+2023-01-24,202301240NOP,DEN,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.07,1,4,.250,0,2,.000,0,0,0,0,0,1,0,1,0,1,2,0.6,-6,
+2023-01-24,202301240NOP,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202301240NOP.html,7.33,1,3,.333,0,0,,1,2,0,2,2,0,0,1,0,0,3,2.2,0,.500
+2023-01-24,202301240NOP,DEN,Q3,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202301240NOP.html,4.67,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.0,-7,
+2023-01-24,202301240NOP,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.43,2,4,.500,0,2,.000,1,1,1,0,1,0,0,0,0,0,5,3.7,-5,1.000
+2023-01-24,202301240NOP,DEN,Q3,Jeff Green,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.93,0,0,,0,0,,0,0,0,1,1,0,0,0,1,1,0,-1.1,-1,
+2023-01-24,202301240NOP,DEN,Q3,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.93,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-0.8,-1,
+2023-01-24,202301240NOP,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202301240NOP.html,12.0,2,5,.400,0,2,.000,0,0,0,0,0,3,3,0,2,0,4,4.4,-8,
+2023-01-24,202301240NOP,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.85,2,2,1.000,0,0,,0,0,0,3,3,2,0,0,1,0,4,4.7,-4,
+2023-01-24,202301240NOP,DEN,Q4,Bruce Brown,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.85,1,3,.333,1,3,.333,0,0,0,0,0,0,0,1,0,1,3,1.6,-4,
+2023-01-24,202301240NOP,DEN,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.97,0,1,.000,0,1,.000,0,0,1,1,2,0,0,0,1,2,0,-1.5,-2,
+2023-01-24,202301240NOP,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.85,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,1,5,3.0,-4,
+2023-01-24,202301240NOP,DEN,Q4,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202301240NOP.html,3.15,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,
+2023-01-24,202301240NOP,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202301240NOP.html,3.15,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2023-01-24,202301240NOP,DEN,Q4,Jeff Green,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.03,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-1.4,-6,
+2023-01-24,202301240NOP,DEN,Q4,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202301240NOP.html,3.15,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,1,0,-0.5,-4,
+2023-01-24,202301240NOP,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.72,3,6,.500,0,3,.000,0,0,0,1,1,1,0,0,2,0,6,2.0,-2,
+2023-01-24,202301240NOP,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.72,2,4,.500,2,3,.667,0,0,0,2,2,0,1,0,0,0,6,5.6,-2,
+2023-01-24,202301240NOP,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.52,3,5,.600,0,1,.000,0,0,2,1,3,0,2,0,0,1,6,7.0,+2,
+2023-01-24,202301240NOP,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202301240NOP.html,7.68,0,0,,0,0,,0,0,1,0,1,1,0,0,0,0,0,1.4,-5,
+2023-01-24,202301240NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.02,1,3,.333,1,1,1.000,1,2,0,1,1,0,0,0,1,2,4,0.4,-2,.500
+2023-01-24,202301240NOP,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.28,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2023-01-24,202301240NOP,NOP,Q1,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.7,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,1,2,0.9,0,
+2023-01-24,202301240NOP,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2023-01-24,202301240NOP,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.6,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-1,
+2023-01-24,202301240NOP,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301240NOP.html,3.48,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2023-01-24,202301240NOP,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202301240NOP.html,7.95,4,8,.500,0,2,.000,0,0,0,0,0,0,0,0,3,0,8,1.0,-4,
+2023-01-24,202301240NOP,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.97,0,2,.000,0,1,.000,1,1,0,0,0,1,0,0,0,1,1,-0.1,-8,1.000
+2023-01-24,202301240NOP,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.02,0,0,,0,0,,0,0,0,0,0,0,0,0,1,2,0,-1.8,-4,
+2023-01-24,202301240NOP,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202301240NOP.html,9.07,0,2,.000,0,1,.000,2,2,2,0,2,2,0,0,0,0,2,3.4,-7,1.000
+2023-01-24,202301240NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.45,1,3,.333,0,0,,1,2,2,2,4,0,0,0,0,0,3,2.9,-2,.500
+2023-01-24,202301240NOP,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301240NOP.html,12.0,1,1,1.000,1,1,1.000,0,0,1,0,1,1,0,0,0,0,3,4.1,-12,
+2023-01-24,202301240NOP,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301240NOP.html,7.33,0,2,.000,0,0,,4,4,2,0,2,0,0,0,0,0,4,4.0,-13,1.000
+2023-01-24,202301240NOP,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301240NOP.html,3.17,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2023-01-24,202301240NOP,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301240NOP.html,4.05,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,0,2,1.3,-8,
+2023-01-24,202301240NOP,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.07,2,4,.500,0,1,.000,0,0,0,2,2,3,0,0,1,0,4,3.7,+6,
+2023-01-24,202301240NOP,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301240NOP.html,10.07,1,4,.250,1,1,1.000,0,0,0,4,4,0,0,0,0,0,3,1.8,+6,
+2023-01-24,202301240NOP,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.32,0,2,.000,0,1,.000,0,0,1,0,1,0,0,1,1,1,0,-1.4,+1,
+2023-01-24,202301240NOP,NOP,Q3,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.73,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,0,0,2,1.6,+2,1.000
+2023-01-24,202301240NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.57,3,3,1.000,0,0,,1,1,1,3,4,0,0,1,1,2,7,6.6,+2,1.000
+2023-01-24,202301240NOP,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.93,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+1,
+2023-01-24,202301240NOP,NOP,Q3,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.43,3,3,1.000,0,0,,0,0,0,1,1,0,1,0,0,0,6,6.4,+5,
+2023-01-24,202301240NOP,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301240NOP.html,1.93,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2023-01-24,202301240NOP,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301240NOP.html,5.27,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,+5,.500
+2023-01-24,202301240NOP,NOP,Q3,Garrett Temple,https://www.basketball-reference.com/boxscores/202301240NOP.html,6.68,1,3,.333,0,1,.000,0,0,0,0,0,2,0,0,0,2,2,0.9,+6,
+2023-01-24,202301240NOP,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202301240NOP.html,7.23,0,4,.000,0,2,.000,2,2,0,1,1,0,0,0,0,0,2,-0.5,+6,1.000
+2023-01-24,202301240NOP,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301240NOP.html,3.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-01-24,202301240NOP,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202301240NOP.html,8.78,0,1,.000,0,0,,0,0,2,0,2,1,1,0,2,0,0,0.4,+8,
+2023-01-24,202301240NOP,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301240NOP.html,12.0,6,9,.667,0,2,.000,0,0,0,0,0,2,0,0,0,0,12,9.5,+8,
+2023-01-24,202301240NOP,NOP,Q4,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202301240NOP.html,12.0,1,2,.500,0,0,,2,2,0,4,4,2,0,0,1,1,4,4.2,+8,1.000
+2023-01-24,202301240NOP,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301240NOP.html,11.95,3,4,.750,0,0,,0,0,0,3,3,0,0,1,0,1,6,5.6,+8,
+2023-01-24,202301240NOP,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301240NOP.html,4.77,0,0,,0,0,,0,0,0,0,0,1,0,0,1,0,0,-0.3,+2,

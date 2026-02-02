@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-03,202103030POR,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202103030POR.html,36:34,.467,.467,.333,.000,7.0,5.8,6.5,11.9,0.0,0.0,0.0,17.2,116,119,-3.5
+2021-03-03,202103030POR,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202103030POR.html,36:17,.579,.554,.500,.179,2.4,17.6,9.2,27.8,4.1,0.0,11.7,39.6,110,107,12.6
+2021-03-03,202103030POR,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202103030POR.html,36:17,.500,.500,.200,.000,7.1,17.6,11.8,41.4,4.1,0.0,37.5,9.3,121,107,4.1
+2021-03-03,202103030POR,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202103030POR.html,30:40,.500,.500,.500,.000,2.8,17.4,9.3,4.7,1.6,4.2,0.0,16.5,112,110,-1.7
+2021-03-03,202103030POR,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202103030POR.html,17:17,.514,.429,.000,.571,29.8,12.3,22.0,0.0,2.9,0.0,18.6,26.2,108,111,-5.8
+2021-03-03,202103030POR,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202103030POR.html,18:32,1.500,1.500,1.000,.000,9.2,34.5,20.5,6.7,0.0,0.0,50.0,4.5,139,112,-2.0
+2021-03-03,202103030POR,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202103030POR.html,17:33,.556,.556,.778,.000,0.0,24.3,10.8,0.0,0.0,0.0,0.0,21.6,113,115,0.3
+2021-03-03,202103030POR,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202103030POR.html,12:02,.436,.500,1.000,.333,0.0,8.9,3.9,0.0,0.0,0.0,0.0,24.0,88,119,-5.1
+2021-03-03,202103030POR,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202103030POR.html,11:43,.190,.143,.143,.286,7.3,18.2,12.2,11.1,0.0,0.0,0.0,28.3,61,116,-16.2
+2021-03-03,202103030POR,GSW,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202103030POR.html,11:43,.436,.333,.333,.333,0.0,9.1,4.1,44.4,0.0,0.0,0.0,12.3,138,119,2.3
+2021-03-03,202103030POR,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202103030POR.html,11:22,.750,.750,.000,.000,0.0,18.8,8.4,0.0,0.0,0.0,20.0,18.5,104,116,-8.5
+2021-03-03,202103030POR,POR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202103030POR.html,39:57,.444,.406,.500,.125,0.0,8.6,4.8,12.5,1.2,0.0,0.0,18.9,101,113,-3.7
+2021-03-03,202103030POR,POR,Robert Covington,https://www.basketball-reference.com/boxscores/202103030POR.html,37:52,.545,.542,.750,.333,0.0,20.4,11.3,4.3,2.6,6.9,0.0,16.2,114,100,6.4
+2021-03-03,202103030POR,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202103030POR.html,36:17,.536,.441,.588,.471,0.0,11.8,6.5,28.3,2.8,0.0,19.6,31.4,98,108,0.7
+2021-03-03,202103030POR,POR,Enes Freedom,https://www.basketball-reference.com/boxscores/202103030POR.html,23:29,.870,.800,.000,.600,22.7,32.9,28.3,0.0,0.0,3.7,24.0,15.8,148,101,2.9
+2021-03-03,202103030POR,POR,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202103030POR.html,18:49,.581,.500,.667,.333,11.3,9.1,10.1,0.0,0.0,0.0,12.7,18.7,115,116,-1.6
+2021-03-03,202103030POR,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202103030POR.html,31:36,.724,.692,.462,.385,0.0,5.4,3.0,25.5,0.0,0.0,6.2,22.9,144,118,8.1
+2021-03-03,202103030POR,POR,Rodney Hood,https://www.basketball-reference.com/boxscores/202103030POR.html,27:22,.417,.417,.833,.000,3.9,6.3,5.2,0.0,0.0,0.0,14.3,11.4,80,118,-6.7
+2021-03-03,202103030POR,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202103030POR.html,12:55,.205,.000,.500,.500,0.0,13.3,7.4,10.3,0.0,0.0,0.0,16.9,58,114,-11.4
+2021-03-03,202103030POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202103030POR.html,11:43,.571,.571,.714,.000,0.0,29.3,16.2,0.0,0.0,0.0,0.0,26.7,112,105,0.0

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-28,202301280UTA,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202301280UTA.html,41:31,.639,.609,.478,.435,0.0,12.5,5.8,41.5,1.3,2.5,9.9,34.6,122,118,9.0
+2023-01-28,202301280UTA,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202301280UTA.html,41:16,.611,.611,.778,.000,8.1,18.9,13.1,15.3,2.5,2.5,18.2,12.6,117,113,2.5
+2023-01-28,202301280UTA,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202301280UTA.html,37:52,.427,.375,.500,.167,2.9,6.9,4.8,21.2,0.0,0.0,18.9,19.8,89,124,-11.3
+2023-01-28,202301280UTA,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202301280UTA.html,30:39,.388,.375,.583,.167,3.6,12.7,7.8,10.9,3.4,0.0,0.0,19.9,90,114,-5.4
+2023-01-28,202301280UTA,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202301280UTA.html,22:32,.333,.333,.000,.000,9.9,5.8,8.0,19.4,4.6,4.6,40.0,10.5,88,112,-3.2
+2023-01-28,202301280UTA,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202301280UTA.html,33:27,.950,.950,.800,.000,0.0,19.4,9.0,11.5,0.0,0.0,0.0,14.1,173,119,6.6
+2023-01-28,202301280UTA,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202301280UTA.html,13:48,.300,.300,1.000,.000,0.0,9.4,4.3,11.0,0.0,0.0,16.7,20.6,59,123,-15.8
+2023-01-28,202301280UTA,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202301280UTA.html,12:22,.475,.400,.200,.600,0.0,21.0,9.7,14.3,0.0,0.0,24.0,31.8,77,119,-16.1
+2023-01-28,202301280UTA,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202301280UTA.html,5:03,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,18.7,60,125,-6.4
+2023-01-28,202301280UTA,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202301280UTA.html,0:30,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-9.8
+2023-01-28,202301280UTA,DAL,Theo Pinson,https://www.basketball-reference.com/boxscores/202301280UTA.html,0:30,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-10.6
+2023-01-28,202301280UTA,DAL,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202301280UTA.html,0:30,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-11.7
+2023-01-28,202301280UTA,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202301280UTA.html,36:00,.666,.650,.400,.200,0.0,15.5,8.3,0.0,1.4,3.9,4.4,28.0,131,110,5.2
+2023-01-28,202301280UTA,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202301280UTA.html,33:43,.250,.250,.500,.000,7.7,9.9,8.9,43.3,6.2,0.0,27.3,14.4,98,102,-1.1
+2023-01-28,202301280UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202301280UTA.html,30:58,.448,.346,.308,.462,12.6,14.4,13.6,14.2,5.0,0.0,24.2,29.5,89,104,-5.5
+2023-01-28,202301280UTA,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202301280UTA.html,25:03,.799,.857,.000,.571,10.4,40.1,26.3,13.9,0.0,28.2,0.0,15.5,170,94,16.1
+2023-01-28,202301280UTA,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202301280UTA.html,15:01,.375,.375,.500,.000,0.0,7.4,4.0,17.9,0.0,0.0,33.3,17.7,71,117,-13.5
+2023-01-28,202301280UTA,UTA,Malik Beasley,https://www.basketball-reference.com/boxscores/202301280UTA.html,29:47,.731,.731,.846,.000,4.4,11.2,8.1,11.6,0.0,0.0,7.1,20.8,142,116,3.9
+2023-01-28,202301280UTA,UTA,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202301280UTA.html,22:27,.735,1.000,.000,1.333,5.8,24.9,16.0,19.7,0.0,0.0,0.0,9.4,159,113,3.1
+2023-01-28,202301280UTA,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202301280UTA.html,19:06,.685,.571,.571,.571,6.8,5.8,6.3,8.0,2.7,0.0,10.2,22.6,140,111,3.5
+2023-01-28,202301280UTA,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202301280UTA.html,17:38,.515,.333,.667,.667,14.7,6.3,10.2,0.0,0.0,0.0,43.6,17.3,74,117,-17.7
+2023-01-28,202301280UTA,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202301280UTA.html,10:17,.250,.250,.250,.000,12.6,43.4,29.2,27.2,0.0,0.0,0.0,17.2,101,109,-6.7

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-29,202412290BOS,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202412290BOS.html,36:08,.675,.605,.316,.474,0.0,17.0,8.8,29.6,1.4,0.0,0.0,28.3,150,117,10.3
+2024-12-29,202412290BOS,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202412290BOS.html,33:17,.599,.542,.083,.417,3.3,21.5,12.7,30.9,0.0,3.7,12.3,21.7,127,116,3.1
+2024-12-29,202412290BOS,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202412290BOS.html,32:37,.666,.625,.125,.500,3.3,15.7,9.7,11.4,0.0,0.0,0.0,13.3,150,121,2.8
+2024-12-29,202412290BOS,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202412290BOS.html,30:51,.666,.591,.182,.364,0.0,26.5,13.7,25.5,4.8,4.0,13.6,21.3,129,104,10.8
+2024-12-29,202412290BOS,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202412290BOS.html,29:27,.829,.813,.125,.125,3.7,13.9,9.0,4.5,0.0,0.0,19.2,15.8,130,120,-0.2
+2024-12-29,202412290BOS,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202412290BOS.html,25:18,.676,.688,.625,.250,0.0,20.2,10.4,0.0,0.0,0.0,10.1,17.4,116,119,-1.2
+2024-12-29,202412290BOS,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202412290BOS.html,21:08,.500,.500,.625,.000,10.3,9.7,10.0,5.8,0.0,0.0,0.0,16.8,121,120,-5.4
+2024-12-29,202412290BOS,IND,Thomas Bryant,https://www.basketball-reference.com/boxscores/202412290BOS.html,15:23,.667,.667,.167,.000,21.3,0.0,10.3,0.0,3.2,0.0,0.0,17.4,150,116,1.0
+2024-12-29,202412290BOS,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202412290BOS.html,13:35,.218,.167,.167,.333,24.1,15.0,19.4,8.3,3.6,0.0,22.5,29.1,68,112,-14.9
+2024-12-29,202412290BOS,IND,Johnny Furphy,https://www.basketball-reference.com/boxscores/202412290BOS.html,1:08,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,124,-5.0
+2024-12-29,202412290BOS,IND,Quenton Jackson,https://www.basketball-reference.com/boxscores/202412290BOS.html,1:08,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.3,0,124,-46.3
+2024-12-29,202412290BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202412290BOS.html,41:13,.573,.529,.588,.294,5.0,18.5,11.5,20.7,3.6,1.8,13.5,23.6,113,120,3.7
+2024-12-29,202412290BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202412290BOS.html,38:49,.567,.567,.733,.000,2.6,5.6,4.1,10.8,0.0,1.9,6.3,18.1,112,131,-3.6
+2024-12-29,202412290BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202412290BOS.html,36:25,.668,.667,.286,.238,0.0,12.0,5.8,30.6,1.3,0.0,7.9,30.4,127,128,6.5
+2024-12-29,202412290BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202412290BOS.html,30:39,.208,.208,.833,.000,0.0,17.8,8.6,11.8,0.0,0.0,0.0,17.2,59,130,-14.9
+2024-12-29,202412290BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202412290BOS.html,19:40,.750,.750,1.000,.000,0.0,0.0,0.0,20.5,2.5,0.0,0.0,13.4,155,128,8.6
+2024-12-29,202412290BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202412290BOS.html,27:42,.756,.731,.615,.154,3.7,11.8,7.6,16.8,0.0,0.0,12.6,25.2,131,131,6.1
+2024-12-29,202412290BOS,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202412290BOS.html,19:24,.000,.000,.500,1.000,5.3,11.2,8.2,0.0,2.5,3.9,0.0,6.5,30,122,-9.0
+2024-12-29,202412290BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202412290BOS.html,13:42,.266,.000,.000,2.000,7.5,63.7,34.7,0.0,0.0,16.4,0.0,6.0,92,106,1.9
+2024-12-29,202412290BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202412290BOS.html,5:11,.904,1.000,.000,1.500,39.4,21.0,30.5,37.8,0.0,0.0,0.0,28.1,198,128,21.8
+2024-12-29,202412290BOS,BOS,Drew Peterson,https://www.basketball-reference.com/boxscores/202412290BOS.html,2:25,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.2,200,134,9.0
+2024-12-29,202412290BOS,BOS,Jaden Springer,https://www.basketball-reference.com/boxscores/202412290BOS.html,2:25,.000,.000,.500,.000,0.0,45.1,21.8,46.2,0.0,0.0,0.0,36.3,33,124,-26.6
+2024-12-29,202412290BOS,BOS,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202412290BOS.html,2:25,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.2,0,134,-25.8

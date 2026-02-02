@@ -1,0 +1,75 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-02-27,202202270GSW,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202202270GSW.html,12.0,2,6,.333,2,4,.500,4,4,1.000,0,0,0,1,1,0,5,0,10,3.3,-13
+2022-02-27,202202270GSW,DAL,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.92,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,1,0,-0.1,-14
+2022-02-27,202202270GSW,DAL,Q1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.65,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,1,1,3,1.2,-15
+2022-02-27,202202270GSW,DAL,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.82,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,0,1,4,2.3,-10
+2022-02-27,202202270GSW,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.82,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,1,0,-0.1,-10
+2022-02-27,202202270GSW,DAL,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.18,1,2,.500,0,0,,2,2,1.000,0,0,0,1,0,0,0,0,4,3.7,-3
+2022-02-27,202202270GSW,DAL,Q1,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202202270GSW.html,2.35,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,1,0,0,3,3.7,+2
+2022-02-27,202202270GSW,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.18,0,3,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-1.5,-3
+2022-02-27,202202270GSW,DAL,Q1,Josh Green,https://www.basketball-reference.com/boxscores/202202270GSW.html,3.08,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+1
+2022-02-27,202202270GSW,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.98,1,4,.250,0,2,.000,0,0,,0,3,3,0,0,0,1,0,2,-0.5,0
+2022-02-27,202202270GSW,DAL,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.92,1,2,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,0,3,3.0,0
+2022-02-27,202202270GSW,DAL,Q2,Reggie Bullock,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.83,2,4,.500,2,4,.500,0,0,,0,0,0,0,0,0,0,0,6,4.0,+2
+2022-02-27,202202270GSW,DAL,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.08,1,3,.333,0,0,,0,0,,0,0,0,1,0,0,0,1,2,0.6,+1
+2022-02-27,202202270GSW,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.47,0,0,,0,0,,0,0,,0,2,2,1,0,0,1,1,0,-0.1,+2
+2022-02-27,202202270GSW,DAL,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.07,4,5,.800,0,1,.000,0,1,.000,0,2,2,2,1,0,2,0,8,6.7,-3
+2022-02-27,202202270GSW,DAL,Q2,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202202270GSW.html,7.95,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+5
+2022-02-27,202202270GSW,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.53,0,1,.000,0,1,.000,0,0,,0,2,2,0,1,0,0,0,0,0.9,-1
+2022-02-27,202202270GSW,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202202270GSW.html,2.17,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-1
+2022-02-27,202202270GSW,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202202270GSW.html,12.0,5,9,.556,1,3,.333,2,2,1.000,1,2,3,0,1,1,3,2,13,7.9,-2
+2022-02-27,202202270GSW,DAL,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.35,1,1,1.000,0,0,,2,2,1.000,1,1,2,1,0,0,0,0,4,5.4,+3
+2022-02-27,202202270GSW,DAL,Q3,Reggie Bullock,https://www.basketball-reference.com/boxscores/202202270GSW.html,10.47,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,2,0,2,3,3.3,-4
+2022-02-27,202202270GSW,DAL,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.9,1,3,.333,0,0,,0,0,,0,1,1,1,1,0,1,0,2,1.3,-5
+2022-02-27,202202270GSW,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.52,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,2,0,-0.8,-7
+2022-02-27,202202270GSW,DAL,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.1,1,2,.500,0,1,.000,0,1,.000,0,1,1,0,0,0,0,0,2,0.9,+3
+2022-02-27,202202270GSW,DAL,Q3,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202202270GSW.html,2.65,0,2,.000,0,2,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.8,-5
+2022-02-27,202202270GSW,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.48,1,1,1.000,0,0,,0,1,.000,1,1,2,1,0,1,0,1,2,3.3,+5
+2022-02-27,202202270GSW,DAL,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202202270GSW.html,1.53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2022-02-27,202202270GSW,DAL,Q4,Luka Dončić,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.62,2,2,1.000,0,0,,5,6,.833,0,5,5,1,0,0,0,0,9,10.2,+10
+2022-02-27,202202270GSW,DAL,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202202270GSW.html,12.0,3,5,.600,1,2,.500,0,0,,1,3,4,0,0,1,1,0,7,6.0,+20
+2022-02-27,202202270GSW,DAL,Q4,Reggie Bullock,https://www.basketball-reference.com/boxscores/202202270GSW.html,3.9,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,1,0,-0.5,+7
+2022-02-27,202202270GSW,DAL,Q4,Jalen Brunson,https://www.basketball-reference.com/boxscores/202202270GSW.html,11.88,0,0,,0,0,,0,0,,0,1,1,3,0,0,1,1,0,1.0,+19
+2022-02-27,202202270GSW,DAL,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202202270GSW.html,12.0,4,5,.800,2,2,1.000,0,0,,0,1,1,2,0,0,0,1,10,9.4,+20
+2022-02-27,202202270GSW,DAL,Q4,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.1,0,2,.000,0,2,.000,1,1,1.000,0,0,0,0,0,0,0,0,1,-0.4,+13
+2022-02-27,202202270GSW,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/202202270GSW.html,0.12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2022-02-27,202202270GSW,DAL,Q4,Josh Green,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.38,3,4,.750,0,0,,0,0,,0,0,0,0,0,0,1,1,6,3.0,+10
+2022-02-27,202202270GSW,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.95,3,4,.750,1,2,.500,0,0,,0,2,2,4,1,0,0,0,7,9.8,+14
+2022-02-27,202202270GSW,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202270GSW.html,12.0,4,5,.800,2,2,1.000,1,3,.333,0,0,0,2,2,0,0,0,11,11.7,+13
+2022-02-27,202202270GSW,GSW,Q1,Gary Payton II,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.02,3,4,.750,1,1,1.000,0,0,,0,0,0,1,1,0,0,1,7,6.7,+13
+2022-02-27,202202270GSW,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.92,1,1,1.000,0,0,,0,0,,0,2,2,2,1,0,0,0,2,4.7,+14
+2022-02-27,202202270GSW,GSW,Q1,Moses Moody,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.9,1,3,.333,1,2,.500,0,0,,1,0,1,0,0,0,0,1,3,1.6,+9
+2022-02-27,202202270GSW,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.1,0,2,.000,0,1,.000,2,2,1.000,0,3,3,1,0,0,0,1,2,1.8,+5
+2022-02-27,202202270GSW,GSW,Q1,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202270GSW.html,4.07,1,3,.333,0,1,.000,0,0,,0,1,1,0,0,1,1,1,2,-0.1,-2
+2022-02-27,202202270GSW,GSW,Q1,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202270GSW.html,2.97,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,1,0,0,3,3.7,+1
+2022-02-27,202202270GSW,GSW,Q1,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202202270GSW.html,0.08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2022-02-27,202202270GSW,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.27,3,6,.500,0,1,.000,0,1,.000,0,0,0,2,0,0,1,0,6,3.0,0
+2022-02-27,202202270GSW,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.98,1,5,.200,0,2,.000,0,0,,0,1,1,0,0,0,0,1,2,-1.2,0
+2022-02-27,202202270GSW,GSW,Q2,Gary Payton II,https://www.basketball-reference.com/boxscores/202202270GSW.html,3.57,1,4,.250,0,3,.000,0,0,,0,0,0,0,1,0,1,0,2,-0.4,+2
+2022-02-27,202202270GSW,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.78,1,1,1.000,0,0,,0,0,,2,4,6,2,0,0,0,0,2,5.7,+3
+2022-02-27,202202270GSW,GSW,Q2,Moses Moody,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.72,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+3
+2022-02-27,202202270GSW,GSW,Q2,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.02,1,2,.500,0,1,.000,2,2,1.000,0,1,1,0,0,0,0,0,4,3.3,-5
+2022-02-27,202202270GSW,GSW,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202202270GSW.html,3.22,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1
+2022-02-27,202202270GSW,GSW,Q2,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202270GSW.html,3.67,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,1,2,2,0.9,-3
+2022-02-27,202202270GSW,GSW,Q2,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.22,1,2,.500,0,1,.000,0,0,,1,2,3,1,1,0,0,0,2,4.0,-4
+2022-02-27,202202270GSW,GSW,Q2,Damion Lee,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.02,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,1,0,1,1,3,3.0,-1
+2022-02-27,202202270GSW,GSW,Q2,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202202270GSW.html,1.55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1
+2022-02-27,202202270GSW,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202202270GSW.html,9.57,3,7,.429,1,2,.500,2,3,.667,1,1,2,3,1,0,0,0,9,9.0,-1
+2022-02-27,202202270GSW,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202270GSW.html,7.63,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,3,2,-0.2,+1
+2022-02-27,202202270GSW,GSW,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.63,2,2,1.000,0,0,,0,0,,1,0,1,2,1,0,0,1,4,6.1,+12
+2022-02-27,202202270GSW,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.9,2,3,.667,0,0,,0,3,.000,1,1,2,1,2,0,0,1,4,4.8,+5
+2022-02-27,202202270GSW,GSW,Q3,Moses Moody,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.9,1,2,.500,0,1,.000,0,0,,2,1,3,0,0,0,0,0,2,2.7,+5
+2022-02-27,202202270GSW,GSW,Q3,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202202270GSW.html,4.37,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2022-02-27,202202270GSW,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.8,0,3,.000,0,2,.000,2,2,1.000,0,2,2,0,0,0,1,0,2,-0.5,-7
+2022-02-27,202202270GSW,GSW,Q3,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.1,1,2,.500,1,1,1.000,2,2,1.000,0,2,2,0,0,0,1,1,5,3.2,-3
+2022-02-27,202202270GSW,GSW,Q3,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.1,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,-0.4,-3
+2022-02-27,202202270GSW,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202202270GSW.html,10.28,2,8,.250,1,5,.200,0,0,,0,0,0,1,0,0,0,0,5,0.9,-17
+2022-02-27,202202270GSW,GSW,Q4,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202270GSW.html,7.35,1,4,.250,0,1,.000,1,2,.500,1,0,1,0,0,0,0,2,3,0.1,-14
+2022-02-27,202202270GSW,GSW,Q4,Gary Payton II,https://www.basketball-reference.com/boxscores/202202270GSW.html,6.5,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-1.2,-18
+2022-02-27,202202270GSW,GSW,Q4,Kevon Looney,https://www.basketball-reference.com/boxscores/202202270GSW.html,3.55,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-7
+2022-02-27,202202270GSW,GSW,Q4,Moses Moody,https://www.basketball-reference.com/boxscores/202202270GSW.html,2.87,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2022-02-27,202202270GSW,GSW,Q4,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.45,1,2,.500,1,2,.500,0,0,,2,2,4,2,0,0,0,0,3,5.4,-13
+2022-02-27,202202270GSW,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202202270GSW.html,5.02,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-11
+2022-02-27,202202270GSW,GSW,Q4,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202270GSW.html,4.55,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,0,1,1,0,-0.8,-6
+2022-02-27,202202270GSW,GSW,Q4,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202270GSW.html,3.08,0,0,,0,0,,0,0,,0,0,0,1,1,0,1,1,0,0.3,-2
+2022-02-27,202202270GSW,GSW,Q4,Damion Lee,https://www.basketball-reference.com/boxscores/202202270GSW.html,8.35,1,4,.250,0,1,.000,0,0,,0,1,1,0,0,0,0,1,2,-0.5,-9

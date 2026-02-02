@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202009010DEN.html
+Scraped: 2025-12-14 18:10:24
+
+line_scores: 2 rows (nba_boxscores/line_scores_202009010DEN.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202009010DEN.csv)
+team_basic: 17 rows (nba_boxscores/team_basic_202009010DEN.csv)
+team_advanced: 17 rows (nba_boxscores/team_advanced_202009010DEN.csv)
+quarters: 59 rows (nba_boxscores/quarters_202009010DEN.csv)

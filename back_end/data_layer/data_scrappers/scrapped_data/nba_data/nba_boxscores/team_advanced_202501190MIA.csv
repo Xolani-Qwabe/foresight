@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-19,202501190MIA,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202501190MIA.html,34:36,.539,.500,.500,.150,0.0,9.7,4.5,9.3,1.4,4.5,4.5,27.4,110,129,0.6
+2025-01-19,202501190MIA,SAS,Harrison Barnes,https://www.basketball-reference.com/boxscores/202501190MIA.html,31:26,.506,.500,.333,.222,3.1,14.2,8.2,8.8,0.0,0.0,0.0,13.3,117,135,-5.3
+2025-01-19,202501190MIA,SAS,Victor Wembanyama,https://www.basketball-reference.com/boxscores/202501190MIA.html,30:08,.509,.528,.444,.333,3.2,33.3,17.1,16.9,0.0,2.6,12.7,33.3,94,128,-2.1
+2025-01-19,202501190MIA,SAS,Chris Paul,https://www.basketball-reference.com/boxscores/202501190MIA.html,27:52,.776,.750,1.000,.167,0.0,16.0,7.4,43.3,0.0,2.8,0.0,9.8,183,132,8.3
+2025-01-19,202501190MIA,SAS,Stephon Castle,https://www.basketball-reference.com/boxscores/202501190MIA.html,27:14,.619,.563,.125,.250,14.1,0.0,7.6,5.2,0.0,0.0,31.1,20.1,97,139,-9.5
+2025-01-19,202501190MIA,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202501190MIA.html,22:04,.313,.313,.750,.000,8.7,5.1,7.0,11.9,0.0,0.0,11.1,17.3,82,137,-11.0
+2025-01-19,202501190MIA,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202501190MIA.html,17:58,.444,.444,.222,.000,5.3,12.4,8.6,0.0,0.0,4.3,0.0,21.3,96,132,-7.2
+2025-01-19,202501190MIA,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202501190MIA.html,16:02,.625,.625,.500,.000,0.0,13.9,6.4,25.7,0.0,0.0,20.0,13.2,117,135,-3.8
+2025-01-19,202501190MIA,SAS,Charles Bassey,https://www.basketball-reference.com/boxscores/202501190MIA.html,9:27,.500,.500,.000,.000,10.2,35.4,21.8,0.0,10.4,0.0,33.3,13.5,77,104,-2.8
+2025-01-19,202501190MIA,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202501190MIA.html,9:03,.694,.750,1.000,1.000,10.6,0.0,5.7,29.7,0.0,0.0,25.8,18.2,124,139,1.6
+2025-01-19,202501190MIA,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202501190MIA.html,7:07,1.000,1.000,.000,.000,27.0,15.7,21.8,39.4,6.9,0.0,0.0,6.0,220,118,15.4
+2025-01-19,202501190MIA,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202501190MIA.html,2:21,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.1,0,139,-27.8
+2025-01-19,202501190MIA,SAS,Sidy Cissoko,https://www.basketball-reference.com/boxscores/202501190MIA.html,2:21,1.000,1.000,.000,.000,0.0,47.5,22.0,0.0,0.0,0.0,0.0,36.1,200,126,31.2
+2025-01-19,202501190MIA,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202501190MIA.html,2:21,1.000,1.000,.000,.000,0.0,47.5,22.0,100.0,0.0,0.0,66.7,54.2,88,126,-3.3
+2025-01-19,202501190MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202501190MIA.html,33:14,.699,.667,.333,.167,0.0,17.3,9.3,25.3,1.5,0.0,0.0,16.9,161,111,6.3
+2025-01-19,202501190MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202501190MIA.html,27:47,.508,.429,.143,.286,0.0,10.4,5.6,27.0,0.0,6.8,0.0,12.3,144,112,1.1
+2025-01-19,202501190MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202501190MIA.html,27:47,.875,.875,.583,.000,4.0,13.8,9.3,9.6,0.0,0.0,7.7,20.3,154,115,7.0
+2025-01-19,202501190MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202501190MIA.html,25:13,.333,.333,.222,.000,13.3,30.5,22.5,21.5,2.0,3.7,25.0,20.7,90,102,-6.2
+2025-01-19,202501190MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202501190MIA.html,8:29,.333,.333,.000,.000,26.3,11.3,18.3,0.0,0.0,0.0,25.0,20.5,84,116,-15.7
+2025-01-19,202501190MIA,MIA,Kel'el Ware,https://www.basketball-reference.com/boxscores/202501190MIA.html,33:44,.602,.553,.263,.211,13.2,11.4,12.2,8.0,0.0,5.6,0.0,26.8,139,112,-1.0
+2025-01-19,202501190MIA,MIA,Terry Rozier,https://www.basketball-reference.com/boxscores/202501190MIA.html,30:52,.672,.643,.357,.143,0.0,12.4,6.7,19.9,1.6,0.0,11.8,23.8,128,112,4.1
+2025-01-19,202501190MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202501190MIA.html,23:52,.875,.875,.750,.000,0.0,8.0,4.3,25.2,4.1,0.0,20.0,18.2,141,108,12.5
+2025-01-19,202501190MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202501190MIA.html,21:59,.857,.857,.286,.000,10.2,17.5,14.1,5.6,6.7,4.3,12.5,15.8,149,95,12.0
+2025-01-19,202501190MIA,MIA,Josh Christopher,https://www.basketball-reference.com/boxscores/202501190MIA.html,2:21,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0,0,120,-49.9
+2025-01-19,202501190MIA,MIA,Keshad Johnson,https://www.basketball-reference.com/boxscores/202501190MIA.html,2:21,,,,,0.0,40.9,22.0,40.9,0.0,0.0,100.0,18.5,53,106,-6.1
+2025-01-19,202501190MIA,MIA,Pelle Larsson,https://www.basketball-reference.com/boxscores/202501190MIA.html,2:21,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0,99,120,-13.4

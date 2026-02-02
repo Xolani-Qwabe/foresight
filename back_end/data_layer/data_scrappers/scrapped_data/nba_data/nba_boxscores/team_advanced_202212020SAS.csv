@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-02,202212020SAS,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202212020SAS.html,33:33,.761,.643,.143,.929,11.7,29.7,21.0,42.2,2.8,2.4,13.2,28.9,149,90,19.6
+2022-12-02,202212020SAS,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202212020SAS.html,33:00,.567,.567,.800,.000,0.0,8.2,4.3,9.3,2.8,2.5,11.8,22.0,99,97,1.8
+2022-12-02,202212020SAS,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202212020SAS.html,31:57,.286,.286,.429,.000,3.1,11.3,7.4,12.2,0.0,0.0,12.5,10.7,77,104,-9.5
+2022-12-02,202212020SAS,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202212020SAS.html,31:57,.227,.227,.455,.000,0.0,11.3,5.9,16.2,0.0,0.0,8.3,16.0,62,104,-12.4
+2022-12-02,202212020SAS,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202212020SAS.html,25:39,.823,.773,.182,.364,7.6,31.8,20.2,15.0,0.0,3.2,0.0,21.2,172,95,14.5
+2022-12-02,202212020SAS,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202212020SAS.html,23:31,.582,.542,.583,.167,4.2,3.9,4.0,34.3,4.0,0.0,0.0,23.4,134,97,9.4
+2022-12-02,202212020SAS,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202212020SAS.html,22:21,.658,.500,.250,.750,4.4,24.3,14.7,0.0,0.0,3.6,15.8,12.1,120,97,-3.9
+2022-12-02,202212020SAS,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202212020SAS.html,20:01,.588,.500,.455,.364,4.9,18.1,11.8,8.6,4.7,0.0,0.0,27.2,127,91,6.6
+2022-12-02,202212020SAS,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202212020SAS.html,15:53,.300,.300,.800,.000,0.0,5.7,3.0,0.0,3.0,5.1,16.7,16.1,51,95,-10.5
+2022-12-02,202212020SAS,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202212020SAS.html,2:07,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.3,0,107,-45.3
+2022-12-02,202212020SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202212020SAS.html,35:36,.320,.326,.348,.043,2.5,13.8,7.9,14.2,0.0,0.0,7.9,29.3,67,119,-11.5
+2022-12-02,202212020SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202212020SAS.html,35:18,.523,.500,.522,.087,2.6,8.3,5.3,15.8,0.0,2.7,4.0,28.9,104,118,4.6
+2022-12-02,202212020SAS,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202212020SAS.html,33:49,.635,.571,.429,.286,0.0,11.6,5.6,8.4,0.0,0.0,20.2,12.0,102,119,-5.3
+2022-12-02,202212020SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202212020SAS.html,33:35,.455,.389,.333,.222,2.7,11.7,7.0,38.2,2.8,0.0,0.0,12.1,125,113,3.2
+2022-12-02,202212020SAS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202212020SAS.html,21:51,.295,.273,.455,.182,4.1,22.4,12.9,21.0,0.0,0.0,14.4,26.1,65,116,-13.7
+2022-12-02,202212020SAS,SAS,Romeo Langford,https://www.basketball-reference.com/boxscores/202212020SAS.html,22:09,.543,.429,.143,.714,8.2,8.8,8.5,0.0,0.0,0.0,0.0,17.0,121,120,-4.1
+2022-12-02,202212020SAS,SAS,Charles Bassey,https://www.basketball-reference.com/boxscores/202212020SAS.html,20:32,.935,1.000,.000,.400,13.2,28.6,20.6,0.0,2.3,9.4,0.0,11.7,191,103,8.7
+2022-12-02,202212020SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202212020SAS.html,19:57,.313,.313,.500,.000,0.0,19.6,9.4,21.7,0.0,4.8,27.3,22.6,56,114,-10.5
+2022-12-02,202212020SAS,SAS,Isaiah Roby,https://www.basketball-reference.com/boxscores/202212020SAS.html,15:06,.700,.700,.600,.000,6.0,25.9,15.6,33.5,3.1,0.0,28.6,19.0,107,108,9.0
+2022-12-02,202212020SAS,SAS,Alize Johnson,https://www.basketball-reference.com/boxscores/202212020SAS.html,2:07,,,,,0.0,92.6,44.5,0.0,0.0,0.0,,0.0,0,96,-1.2

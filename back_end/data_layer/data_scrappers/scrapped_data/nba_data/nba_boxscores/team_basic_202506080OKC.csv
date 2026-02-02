@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-06-08,202506080OKC,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202506080OKC.html,34.25,7,13,.538,3,8,.375,0,0,0,3,3,6,2,2,5,1,17,13.8,-5,
+2025-06-08,202506080OKC,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202506080OKC.html,32.38,4,8,.500,1,4,.250,2,4,1,3,4,4,3,0,1,1,11,12.2,-17,.500
+2025-06-08,202506080OKC,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202506080OKC.html,29.57,3,11,.273,1,4,.250,8,9,4,3,7,4,0,2,2,4,15,12.4,-15,.889
+2025-06-08,202506080OKC,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202506080OKC.html,27.25,6,12,.500,1,5,.200,3,4,0,4,4,4,0,0,3,2,16,9.8,-4,.750
+2025-06-08,202506080OKC,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202506080OKC.html,25.7,5,12,.417,4,8,.500,0,0,0,4,4,0,0,0,0,3,14,7.6,-8,
+2025-06-08,202506080OKC,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202506080OKC.html,21.88,4,7,.571,1,2,.500,5,7,0,2,2,1,0,0,2,4,14,7.6,-9,.714
+2025-06-08,202506080OKC,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202506080OKC.html,19.07,1,8,.125,1,5,.200,0,0,1,4,5,2,1,0,1,1,3,0.7,-9,
+2025-06-08,202506080OKC,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202506080OKC.html,18.08,5,7,.714,1,1,1.000,0,0,0,3,3,6,2,0,0,2,11,14.4,-6,
+2025-06-08,202506080OKC,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202506080OKC.html,13.53,1,2,.500,1,2,.500,0,0,1,0,1,0,1,1,1,2,3,2.6,-8,
+2025-06-08,202506080OKC,IND,Thomas Bryant,https://www.basketball-reference.com/boxscores/202506080OKC.html,11.58,0,1,.000,0,1,.000,1,2,0,1,1,0,0,1,0,2,1,0.1,-1,.500
+2025-06-08,202506080OKC,IND,Johnny Furphy,https://www.basketball-reference.com/boxscores/202506080OKC.html,4.0,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,+1,
+2025-06-08,202506080OKC,IND,James Johnson,https://www.basketball-reference.com/boxscores/202506080OKC.html,2.7,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,2,2,0.9,+1,
+2025-06-08,202506080OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202506080OKC.html,36.43,11,21,.524,1,4,.250,11,12,0,5,5,8,4,1,2,3,34,31.9,+5,.917
+2025-06-08,202506080OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202506080OKC.html,33.85,5,14,.357,1,5,.200,8,9,2,3,5,5,1,0,2,3,19,14.4,+5,.889
+2025-06-08,202506080OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202506080OKC.html,27.75,6,11,.545,1,3,.333,2,2,1,5,6,1,0,1,2,2,15,10.5,+4,1.000
+2025-06-08,202506080OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202506080OKC.html,26.42,1,3,.333,1,3,.333,0,0,0,2,2,1,1,0,0,5,3,1.6,-3,
+2025-06-08,202506080OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202506080OKC.html,22.72,2,4,.500,0,2,.000,0,0,1,2,3,1,2,1,0,3,4,5.5,+12,
+2025-06-08,202506080OKC,OKC,Alex Caruso,https://www.basketball-reference.com/boxscores/202506080OKC.html,27.07,6,11,.545,4,8,.500,4,4,1,2,3,1,0,0,2,3,20,13.5,+6,1.000
+2025-06-08,202506080OKC,OKC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202506080OKC.html,22.05,1,2,.500,0,0,,1,2,3,5,8,4,1,0,1,0,3,8.0,+17,.500
+2025-06-08,202506080OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202506080OKC.html,20.53,6,11,.545,5,8,.625,1,2,1,3,4,1,1,0,1,1,18,14.2,+24,.500
+2025-06-08,202506080OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202506080OKC.html,7.62,0,1,.000,0,0,,0,0,2,2,4,2,0,1,1,0,0,2.4,+15,
+2025-06-08,202506080OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202506080OKC.html,6.45,1,3,.333,0,2,.000,0,0,0,1,1,0,0,0,1,0,2,-0.4,+2,
+2025-06-08,202506080OKC,OKC,Ajay Mitchell,https://www.basketball-reference.com/boxscores/202506080OKC.html,2.7,0,0,,0,0,,2,2,0,1,1,1,0,0,0,0,2,3.0,-1,1.000
+2025-06-08,202506080OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202506080OKC.html,2.42,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,0,3,2.0,-2,
+2025-06-08,202506080OKC,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202506080OKC.html,2.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2025-06-08,202506080OKC,OKC,Dillon Jones,https://www.basketball-reference.com/boxscores/202506080OKC.html,2.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,

@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-12-04,202412040PHI,ORL,Q1,Jalen Suggs,https://www.basketball-reference.com/boxscores/202412040PHI.html,8.83,1,4,.250,1,1,1.000,0,0,0,0,0,3,2,0,1,0,3,3.7,+3,
+2024-12-04,202412040PHI,ORL,Q1,Franz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.23,5,8,.625,1,2,.500,0,0,1,1,2,0,0,1,1,2,11,7.3,+5,
+2024-12-04,202412040PHI,ORL,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.62,2,3,.667,1,2,.500,0,0,0,1,1,0,1,0,0,1,5,4.6,0,
+2024-12-04,202412040PHI,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.55,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2024-12-04,202412040PHI,ORL,Q1,Goga Bitadze,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.07,1,1,1.000,0,0,,0,0,2,1,3,1,0,0,0,0,2,4.1,-4,
+2024-12-04,202412040PHI,ORL,Q1,Anthony Black,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.93,0,0,,0,0,,0,0,0,1,1,3,0,0,0,1,0,2.0,+16,
+2024-12-04,202412040PHI,ORL,Q1,Moritz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.93,2,3,.667,0,0,,2,3,0,2,2,1,0,0,1,0,6,4.6,+16,.667
+2024-12-04,202412040PHI,ORL,Q1,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202412040PHI.html,4.38,1,1,1.000,0,0,,1,2,0,2,2,0,0,0,0,0,3,2.9,+12,.500
+2024-12-04,202412040PHI,ORL,Q1,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202412040PHI.html,4.45,2,2,1.000,0,0,,0,0,2,0,2,0,1,2,0,0,4,7.2,+13,
+2024-12-04,202412040PHI,ORL,Q2,Jalen Suggs,https://www.basketball-reference.com/boxscores/202412040PHI.html,12.0,1,4,.250,1,3,.333,0,0,0,0,0,1,0,0,0,1,3,0.9,-12,
+2024-12-04,202412040PHI,ORL,Q2,Franz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.38,1,5,.200,0,1,.000,2,2,1,1,2,1,0,0,1,0,4,1.6,-6,1.000
+2024-12-04,202412040PHI,ORL,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202412040PHI.html,8.15,0,1,.000,0,1,.000,0,0,0,1,1,0,1,0,0,1,0,0.2,-9,
+2024-12-04,202412040PHI,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.32,0,1,.000,0,0,,0,0,1,0,1,1,0,0,0,1,0,0.3,-4,
+2024-12-04,202412040PHI,ORL,Q2,Goga Bitadze,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.0,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,1,2,0.9,0,
+2024-12-04,202412040PHI,ORL,Q2,Anthony Black,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.93,1,4,.250,0,1,.000,0,0,1,0,1,2,0,0,1,0,2,0.7,-10,
+2024-12-04,202412040PHI,ORL,Q2,Moritz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.68,1,2,.500,0,1,.000,0,0,0,2,2,0,1,0,0,0,2,2.6,-8,
+2024-12-04,202412040PHI,ORL,Q2,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202412040PHI.html,3.85,0,0,,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.7,-3,
+2024-12-04,202412040PHI,ORL,Q2,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.68,2,3,.667,2,3,.667,0,0,0,0,0,0,0,0,0,0,6,4.7,-8,
+2024-12-04,202412040PHI,ORL,Q3,Jalen Suggs,https://www.basketball-reference.com/boxscores/202412040PHI.html,10.33,3,4,.750,2,2,1.000,0,0,1,1,2,1,1,0,3,0,8,6.1,+3,
+2024-12-04,202412040PHI,ORL,Q3,Franz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.67,3,6,.500,0,2,.000,4,4,0,1,1,0,0,0,2,0,10,5.3,-2,1.000
+2024-12-04,202412040PHI,ORL,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202412040PHI.html,10.33,0,1,.000,0,1,.000,0,0,0,0,0,1,2,0,1,1,0,0.6,+3,
+2024-12-04,202412040PHI,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,8.63,0,1,.000,0,0,,0,2,1,1,2,1,0,0,0,1,0,-0.2,+3,.000
+2024-12-04,202412040PHI,ORL,Q3,Goga Bitadze,https://www.basketball-reference.com/boxscores/202412040PHI.html,8.63,1,1,1.000,0,0,,0,0,0,1,1,0,1,1,0,1,2,3.3,+3,
+2024-12-04,202412040PHI,ORL,Q3,Anthony Black,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.0,1,1,1.000,0,0,,0,0,1,1,2,1,0,0,1,0,2,2.4,-1,
+2024-12-04,202412040PHI,ORL,Q3,Moritz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,3.37,0,1,.000,0,0,,0,0,0,2,2,0,0,2,0,0,0,1.3,-3,
+2024-12-04,202412040PHI,ORL,Q3,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202412040PHI.html,1.67,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-3,
+2024-12-04,202412040PHI,ORL,Q3,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202412040PHI.html,3.37,1,2,.500,0,0,,0,0,1,0,1,0,1,0,0,0,2,2.7,-3,
+2024-12-04,202412040PHI,ORL,Q4,Jalen Suggs,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.93,1,3,.333,0,2,.000,1,2,0,0,0,1,0,0,0,0,3,1.6,-4,.500
+2024-12-04,202412040PHI,ORL,Q4,Franz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,12.0,3,4,.750,0,1,.000,4,4,0,2,2,1,0,0,0,1,10,9.3,+4,1.000
+2024-12-04,202412040PHI,ORL,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.93,0,2,.000,0,1,.000,2,2,0,0,0,0,1,0,0,1,2,1.2,-4,1.000
+2024-12-04,202412040PHI,ORL,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.28,1,1,1.000,0,0,,0,0,1,2,3,0,0,1,0,4,2,2.1,-5,
+2024-12-04,202412040PHI,ORL,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/202412040PHI.html,1.22,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+2,
+2024-12-04,202412040PHI,ORL,Q4,Anthony Black,https://www.basketball-reference.com/boxscores/202412040PHI.html,12.0,3,5,.600,0,1,.000,0,0,0,1,1,1,0,0,0,0,6,4.7,+4,
+2024-12-04,202412040PHI,ORL,Q4,Moritz Wagner,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.07,1,4,.250,0,2,.000,0,0,0,0,0,0,1,0,1,1,2,-0.8,+8,
+2024-12-04,202412040PHI,ORL,Q4,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.2,1,1,1.000,0,0,,0,0,1,0,1,1,0,0,0,0,2,3.1,+9,
+2024-12-04,202412040PHI,ORL,Q4,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202412040PHI.html,1.37,1,1,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,2,2.4,+6,
+2024-12-04,202412040PHI,PHI,Q1,Jared McCain,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.33,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.7,-2,
+2024-12-04,202412040PHI,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202412040PHI.html,11.52,2,6,.333,0,1,.000,0,0,1,0,1,3,1,0,2,0,4,2.4,-10,
+2024-12-04,202412040PHI,PHI,Q1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202412040PHI.html,8.08,3,3,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,7,6.4,-1,
+2024-12-04,202412040PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.55,0,2,.000,0,1,.000,1,2,0,0,0,1,1,0,0,1,1,0.5,+1,.500
+2024-12-04,202412040PHI,PHI,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.2,1,4,.250,0,1,.000,0,0,2,1,3,0,0,0,1,1,2,-0.1,-13,
+2024-12-04,202412040PHI,PHI,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.2,1,3,.333,0,0,,1,1,0,2,2,2,0,0,0,1,3,2.9,-12,1.000
+2024-12-04,202412040PHI,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202412040PHI.html,3.92,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,1,0,0,3,2.7,-11,
+2024-12-04,202412040PHI,PHI,Q1,Adem Bona,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.67,0,2,.000,0,0,,0,0,2,0,2,0,0,0,0,2,0,-0.8,-10,
+2024-12-04,202412040PHI,PHI,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202412040PHI.html,0.53,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2024-12-04,202412040PHI,PHI,Q2,Jared McCain,https://www.basketball-reference.com/boxscores/202412040PHI.html,12.0,5,8,.625,1,2,.500,0,0,1,1,2,2,0,0,0,2,11,9.0,+12,
+2024-12-04,202412040PHI,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.32,2,4,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,4,2.3,+4,
+2024-12-04,202412040PHI,PHI,Q2,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.83,0,0,,0,0,,0,0,1,1,2,2,0,0,0,2,0,1.6,+15,
+2024-12-04,202412040PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.93,3,4,.750,2,3,.667,0,0,0,2,2,2,0,0,0,0,8,8.4,+10,
+2024-12-04,202412040PHI,PHI,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.85,1,2,.500,0,1,.000,1,1,0,1,1,0,1,0,0,0,3,3.3,+5,1.000
+2024-12-04,202412040PHI,PHI,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,7.38,1,1,1.000,0,0,,0,2,1,2,3,0,0,0,1,0,2,1.2,+6,.000
+2024-12-04,202412040PHI,PHI,Q2,Adem Bona,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.0,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,0,
+2024-12-04,202412040PHI,PHI,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.68,1,2,.500,1,1,1.000,0,0,0,1,1,2,0,0,1,0,3,2.7,+8,
+2024-12-04,202412040PHI,PHI,Q3,Jared McCain,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.35,3,3,1.000,1,1,1.000,1,3,0,1,1,1,0,0,3,1,8,3.9,0,.333
+2024-12-04,202412040PHI,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202412040PHI.html,11.28,1,5,.200,0,3,.000,0,0,0,1,1,1,1,0,1,0,2,-0.1,-3,
+2024-12-04,202412040PHI,PHI,Q3,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.37,2,3,.667,0,1,.000,0,0,1,1,2,0,1,0,0,1,4,4.3,+2,
+2024-12-04,202412040PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.37,1,2,.500,1,1,1.000,0,0,0,1,1,2,1,0,1,1,3,3.3,+2,
+2024-12-04,202412040PHI,PHI,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.0,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,-1,
+2024-12-04,202412040PHI,PHI,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.0,2,3,.667,0,0,,0,0,0,0,0,0,2,0,0,0,4,4.7,+1,
+2024-12-04,202412040PHI,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202412040PHI.html,6.0,0,1,.000,0,0,,1,2,0,0,0,1,0,0,0,0,1,0.6,+1,.500
+2024-12-04,202412040PHI,PHI,Q3,Adem Bona,https://www.basketball-reference.com/boxscores/202412040PHI.html,2.63,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2024-12-04,202412040PHI,PHI,Q4,Jared McCain,https://www.basketball-reference.com/boxscores/202412040PHI.html,12.0,1,5,.200,1,3,.333,0,0,0,4,4,0,0,0,0,2,3,0.3,-4,
+2024-12-04,202412040PHI,PHI,Q4,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.37,2,4,.500,0,2,.000,2,2,0,1,1,2,0,0,1,2,6,3.9,+4,1.000
+2024-12-04,202412040PHI,PHI,Q4,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202412040PHI.html,9.63,1,2,.500,1,2,.500,1,2,1,1,2,2,0,0,1,2,4,3.2,-6,.500
+2024-12-04,202412040PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202412040PHI.html,11.95,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,0,0,3,2.3,-5,
+2024-12-04,202412040PHI,PHI,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,5.85,2,2,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,4,4.4,+3,
+2024-12-04,202412040PHI,PHI,Q4,Caleb Martin,https://www.basketball-reference.com/boxscores/202412040PHI.html,2.63,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-1.7,-8,
+2024-12-04,202412040PHI,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202412040PHI.html,8.57,1,3,.333,0,1,.000,3,4,0,0,0,0,0,0,0,0,5,2.9,-4,.750

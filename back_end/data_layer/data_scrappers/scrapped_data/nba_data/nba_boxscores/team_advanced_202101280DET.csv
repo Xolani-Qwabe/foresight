@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-28,202101280DET,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202101280DET.html,35:45,.541,.526,.421,.158,6.0,18.1,11.5,53.2,1.5,0.0,9.0,28.7,120,116,11.6
+2021-01-28,202101280DET,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202101280DET.html,29:56,.631,.618,.412,.059,10.7,30.3,19.6,0.0,0.0,3.1,5.4,28.4,121,115,6.9
+2021-01-28,202101280DET,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202101280DET.html,28:45,.451,.313,.250,.875,3.7,9.0,6.1,20.4,0.0,0.0,0.0,17.7,118,121,-1.9
+2021-01-28,202101280DET,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202101280DET.html,27:55,.429,.429,.143,.000,0.0,9.3,4.2,5.6,0.0,3.4,12.5,13.2,81,118,-8.3
+2021-01-28,202101280DET,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202101280DET.html,25:00,.000,.000,.000,.000,8.5,36.3,21.1,21.3,0.0,0.0,33.3,5.5,85,117,-4.0
+2021-01-28,202101280DET,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202101280DET.html,23:00,.383,.400,.000,.100,4.6,11.3,7.6,7.5,2.3,4.1,22.3,26.9,65,111,-10.9
+2021-01-28,202101280DET,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202101280DET.html,19:42,.429,.429,.143,.000,5.4,6.6,5.9,17.0,0.0,0.0,0.0,16.4,107,121,-5.8
+2021-01-28,202101280DET,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202101280DET.html,16:50,.300,.300,.600,.000,0.0,7.7,3.5,0.0,0.0,0.0,0.0,13.7,67,121,-11.5
+2021-01-28,202101280DET,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202101280DET.html,14:08,.929,.929,.429,.000,0.0,18.4,8.3,17.9,0.0,0.0,12.5,26.1,139,119,15.4
+2021-01-28,202101280DET,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202101280DET.html,12:59,.000,.000,.667,.000,16.4,20.0,18.0,20.5,0.0,0.0,25.0,14.2,54,119,-13.2
+2021-01-28,202101280DET,LAL,Devontae Cacok,https://www.basketball-reference.com/boxscores/202101280DET.html,2:00,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,200,122,17.6
+2021-01-28,202101280DET,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/202101280DET.html,2:00,.000,.000,.500,.000,0.0,64.9,29.3,0.0,0.0,0.0,33.3,69.0,0,113,-67.9
+2021-01-28,202101280DET,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202101280DET.html,2:00,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-9.5
+2021-01-28,202101280DET,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202101280DET.html,37:05,.470,.429,.286,.143,0.0,8.6,4.7,23.2,0.0,0.0,0.0,19.1,110,107,1.2
+2021-01-28,202101280DET,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/202101280DET.html,35:21,.681,.656,.625,.125,0.0,9.1,5.0,28.0,0.0,0.0,0.0,22.8,140,107,10.9
+2021-01-28,202101280DET,DET,Wayne Ellington,https://www.basketball-reference.com/boxscores/202101280DET.html,28:39,.833,.833,.750,.000,0.0,7.4,4.1,11.9,0.0,0.0,14.3,23.3,125,108,9.9
+2021-01-28,202101280DET,DET,Mason Plumlee,https://www.basketball-reference.com/boxscores/202101280DET.html,26:44,.912,.875,.000,.375,0.0,39.9,21.9,13.1,0.0,3.0,0.0,16.6,187,92,12.1
+2021-01-28,202101280DET,DET,Delon Wright,https://www.basketball-reference.com/boxscores/202101280DET.html,26:44,.429,.429,.286,.000,9.7,23.9,17.5,31.1,3.9,0.0,0.0,12.5,128,92,7.8
+2021-01-28,202101280DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202101280DET.html,21:16,.515,.333,.167,.667,18.3,15.0,16.5,0.0,0.0,3.8,0.0,17.4,127,102,-1.6
+2021-01-28,202101280DET,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/202101280DET.html,20:21,.543,.500,.167,.167,0.0,5.2,2.9,27.4,5.2,0.0,13.4,34.8,99,97,4.0
+2021-01-28,202101280DET,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202101280DET.html,17:09,.250,.250,.667,.000,0.0,12.4,6.8,15.0,0.0,0.0,25.0,22.2,51,105,-16.0
+2021-01-28,202101280DET,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/202101280DET.html,12:39,.200,.200,.600,.000,0.0,8.4,4.6,0.0,0.0,0.0,28.6,26.4,28,106,-29.7
+2021-01-28,202101280DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202101280DET.html,12:12,.000,.000,1.000,.000,0.0,17.5,9.6,0.0,0.0,0.0,0.0,3.9,0,104,-9.1
+2021-01-28,202101280DET,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202101280DET.html,0:55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-7.2
+2021-01-28,202101280DET,DET,Deividas Sirvydis,https://www.basketball-reference.com/boxscores/202101280DET.html,0:55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-4.9

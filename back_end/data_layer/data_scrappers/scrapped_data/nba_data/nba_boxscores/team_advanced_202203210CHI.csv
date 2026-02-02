@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-21,202203210CHI,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202203210CHI.html,38:07,.628,.571,.143,.571,0.0,12.8,6.9,16.8,0.0,0.0,18.6,24.7,110,129,-1.8
+2022-03-21,202203210CHI,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202203210CHI.html,37:08,.415,.386,.545,.091,6.2,10.6,8.5,37.6,2.9,0.0,4.2,28.2,109,123,1.9
+2022-03-21,202203210CHI,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202203210CHI.html,35:29,.405,.333,.111,.222,6.4,11.0,8.9,18.8,0.0,4.4,23.3,15.9,88,125,-6.8
+2022-03-21,202203210CHI,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202203210CHI.html,29:54,.583,.556,.222,.111,15.3,9.8,12.3,20.1,0.0,2.6,0.0,13.8,146,128,3.9
+2022-03-21,202203210CHI,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202203210CHI.html,27:36,.333,.333,.556,.000,4.1,28.4,17.2,5.0,0.0,0.0,10.0,15.9,76,124,-10.0
+2022-03-21,202203210CHI,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202203210CHI.html,33:23,.638,.607,.286,.143,13.7,17.6,15.8,0.0,1.6,4.6,6.3,20.8,130,120,2.9
+2022-03-21,202203210CHI,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202203210CHI.html,14:28,.500,.500,.000,.000,7.9,6.8,7.3,9.9,7.3,0.0,20.0,15.1,95,115,0.4
+2022-03-21,202203210CHI,TOR,Armoni Brooks,https://www.basketball-reference.com/boxscores/202203210CHI.html,13:57,.571,.571,.714,.000,0.0,7.0,3.8,0.0,0.0,0.0,12.5,25.1,99,131,-5.1
+2022-03-21,202203210CHI,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202203210CHI.html,4:00,.000,.000,.000,.000,0.0,24.5,13.2,60.0,0.0,0.0,0.0,10.9,87,125,1.1
+2022-03-21,202203210CHI,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202203210CHI.html,4:00,.500,.500,.500,.000,0.0,49.0,26.4,0.0,0.0,19.4,0.0,21.9,105,103,9.4
+2022-03-21,202203210CHI,TOR,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202203210CHI.html,1:58,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,134,-9.9
+2022-03-21,202203210CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202203210CHI.html,35:05,.604,.583,.333,.444,5.6,13.0,9.0,25.9,1.5,0.0,0.0,27.9,139,111,11.0
+2022-03-21,202203210CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202203210CHI.html,34:45,.802,.821,.286,.357,0.0,16.4,7.6,4.8,1.5,7.0,5.8,22.5,146,106,10.8
+2022-03-21,202203210CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202203210CHI.html,32:37,.444,.429,.571,.286,0.0,7.0,3.2,21.5,1.6,0.0,0.0,11.0,124,113,-1.8
+2022-03-21,202203210CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202203210CHI.html,32:37,.495,.471,.235,.294,21.0,21.0,21.0,8.7,1.6,2.5,9.4,29.6,112,106,-1.1
+2022-03-21,202203210CHI,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202203210CHI.html,29:49,.595,.600,.200,.400,3.3,11.5,7.1,8.2,1.8,0.0,0.0,9.0,139,111,-0.4
+2022-03-21,202203210CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202203210CHI.html,24:12,.611,.611,.222,.000,4.0,4.7,4.4,34.9,0.0,3.4,0.0,16.9,148,116,5.5
+2022-03-21,202203210CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202203210CHI.html,18:52,.438,.438,.375,.000,5.2,6.1,5.6,0.0,2.8,0.0,11.1,21.7,85,111,-8.9
+2022-03-21,202203210CHI,CHI,Tristan Thompson,https://www.basketball-reference.com/boxscores/202203210CHI.html,13:25,.500,.500,.000,.000,0.0,34.1,15.7,9.7,0.0,12.1,20.0,16.9,86,100,0.5
+2022-03-21,202203210CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202203210CHI.html,13:25,.200,.200,.400,.000,0.0,17.0,7.9,35.4,0.0,0.0,0.0,16.9,87,113,-8.0
+2022-03-21,202203210CHI,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202203210CHI.html,1:58,.266,.000,.000,2.000,49.8,0.0,26.8,0.0,0.0,0.0,0.0,43.5,93,119,-33.1
+2022-03-21,202203210CHI,CHI,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202203210CHI.html,1:58,.750,.750,1.000,.000,49.8,0.0,26.8,0.0,0.0,0.0,0.0,46.2,153,119,35.9
+2022-03-21,202203210CHI,CHI,Matt Thomas,https://www.basketball-reference.com/boxscores/202203210CHI.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-8.9

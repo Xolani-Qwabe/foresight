@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-05-11,202405110CLE,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202405110CLE.html,41.97,11,25,.440,2,8,.250,9,9,1.000,1,12,13,6,1,1,5,2,33,24.3,+8
+2024-05-11,202405110CLE,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202405110CLE.html,40.65,13,17,.765,2,3,.667,0,2,.000,2,7,9,3,1,0,2,4,28,23.5,+18
+2024-05-11,202405110CLE,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202405110CLE.html,38.77,1,7,.143,0,6,.000,0,0,,3,4,7,2,0,0,0,3,2,1.0,+12
+2024-05-11,202405110CLE,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202405110CLE.html,37.67,7,10,.700,3,4,.750,1,2,.500,2,6,8,5,0,1,1,1,18,19.4,+15
+2024-05-11,202405110CLE,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202405110CLE.html,36.9,4,13,.308,3,8,.375,1,1,1.000,0,3,3,3,1,1,1,1,12,7.8,+13
+2024-05-11,202405110CLE,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202405110CLE.html,22.33,2,4,.500,1,2,.500,0,0,,1,2,3,3,0,0,1,1,5,5.0,-4
+2024-05-11,202405110CLE,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202405110CLE.html,9.93,2,3,.667,2,3,.667,0,0,,0,0,0,0,0,0,1,0,6,3.7,+10
+2024-05-11,202405110CLE,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202405110CLE.html,7.85,1,1,1.000,0,0,,0,0,,0,1,1,0,0,1,0,1,2,2.3,+1
+2024-05-11,202405110CLE,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202405110CLE.html,1.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2024-05-11,202405110CLE,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202405110CLE.html,1.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2
+2024-05-11,202405110CLE,BOS,Jaden Springer,https://www.basketball-reference.com/boxscores/202405110CLE.html,1.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2024-05-11,202405110CLE,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202405110CLE.html,0.93,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2024-05-11,202405110CLE,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202405110CLE.html,43.4,12,22,.545,7,12,.583,2,3,.667,0,6,6,3,2,0,0,2,33,27.1,-10
+2024-05-11,202405110CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202405110CLE.html,37.85,6,15,.400,1,6,.167,2,2,1.000,0,3,3,6,0,1,2,3,15,9.5,-17
+2024-05-11,202405110CLE,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202405110CLE.html,37.45,2,8,.250,2,6,.333,0,0,,0,5,5,2,0,0,1,4,6,1.5,-14
+2024-05-11,202405110CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202405110CLE.html,37.1,7,11,.636,0,1,.000,3,3,1.000,3,5,8,1,1,0,3,1,17,14.0,-16
+2024-05-11,202405110CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202405110CLE.html,17.78,1,7,.143,0,4,.000,0,0,,0,1,1,1,1,0,1,0,2,-1.5,-17
+2024-05-11,202405110CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202405110CLE.html,29.62,6,12,.500,1,3,.333,2,2,1.000,2,4,6,1,0,0,1,0,15,11.3,-1
+2024-05-11,202405110CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202405110CLE.html,16.8,2,6,.333,1,4,.250,0,0,,1,2,3,3,0,1,0,2,5,4.9,+12
+2024-05-11,202405110CLE,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202405110CLE.html,10.88,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+6
+2024-05-11,202405110CLE,CLE,Marcus Morris,https://www.basketball-reference.com/boxscores/202405110CLE.html,4.6,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-2
+2024-05-11,202405110CLE,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/202405110CLE.html,4.52,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,2,0,0.2,-6

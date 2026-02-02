@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-09,202101090SAC,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202101090SAC.html,29:40,.456,.344,.438,.375,0.0,13.8,6.7,27.0,1.5,0.0,0.0,25.5,111,98,0.4
+2021-01-09,202101090SAC,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202101090SAC.html,29:19,.764,.727,.500,.227,0.0,10.5,5.1,21.6,3.1,0.0,4.0,34.9,143,95,20.6
+2021-01-09,202101090SAC,POR,Robert Covington,https://www.basketball-reference.com/boxscores/202101090SAC.html,27:34,.750,.750,1.000,.000,0.0,29.6,14.4,17.2,1.7,0.0,0.0,5.9,166,95,6.7
+2021-01-09,202101090SAC,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202101090SAC.html,23:14,.563,.500,.000,.250,8.3,26.4,17.0,28.9,5.9,4.1,18.4,19.0,117,83,9.7
+2021-01-09,202101090SAC,POR,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202101090SAC.html,20:32,.750,.750,.333,.000,0.0,9.9,4.8,0.0,2.2,4.6,14.3,13.9,115,93,1.5
+2021-01-09,202101090SAC,POR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202101090SAC.html,30:31,.556,.556,.444,.000,0.0,6.7,3.2,4.2,0.0,0.0,10.0,13.3,99,102,-6.5
+2021-01-09,202101090SAC,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202101090SAC.html,21:50,.444,.375,.417,.500,0.0,9.4,4.5,0.0,0.0,4.3,0.0,27.2,92,98,-7.8
+2021-01-09,202101090SAC,POR,Enes Freedom,https://www.basketball-reference.com/boxscores/202101090SAC.html,19:08,.511,.444,.000,.444,30.1,48.0,38.8,0.0,0.0,0.0,8.5,25.0,120,95,-4.4
+2021-01-09,202101090SAC,POR,Rodney Hood,https://www.basketball-reference.com/boxscores/202101090SAC.html,14:57,.000,.000,.600,.000,0.0,13.7,6.6,29.2,6.1,0.0,16.7,16.3,41,87,-8.6
+2021-01-09,202101090SAC,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202101090SAC.html,6:34,.750,.750,.750,.000,0.0,0.0,0.0,24.9,0.0,0.0,0.0,24.8,148,104,16.3
+2021-01-09,202101090SAC,POR,CJ Elleby,https://www.basketball-reference.com/boxscores/202101090SAC.html,5:33,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,14.6,90,102,-6.1
+2021-01-09,202101090SAC,POR,Harry Giles,https://www.basketball-reference.com/boxscores/202101090SAC.html,5:33,.000,.000,.000,.000,0.0,36.8,17.8,39.3,0.0,33.9,0.0,14.6,57,69,1.7
+2021-01-09,202101090SAC,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202101090SAC.html,5:33,.750,.750,.500,.000,17.3,18.4,17.8,0.0,0.0,0.0,0.0,14.6,156,100,4.3
+2021-01-09,202101090SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202101090SAC.html,32:30,.625,.625,.500,.000,3.1,17.7,10.7,10.9,0.0,2.5,11.1,11.9,112,120,0.1
+2021-01-09,202101090SAC,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202101090SAC.html,30:44,.711,.688,.500,.125,0.0,6.2,3.2,49.6,1.5,0.0,26.2,16.0,117,121,1.8
+2021-01-09,202101090SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202101090SAC.html,25:54,.400,.400,.800,.000,0.0,18.5,9.6,6.8,0.0,3.1,16.7,20.0,66,119,-8.4
+2021-01-09,202101090SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202101090SAC.html,25:27,.430,.333,.111,.667,0.0,7.5,3.9,13.8,0.0,0.0,20.5,24.8,74,124,-14.7
+2021-01-09,202101090SAC,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202101090SAC.html,24:19,.451,.393,.143,.429,4.2,27.6,16.3,0.0,0.0,0.0,10.7,33.0,81,120,-9.3
+2021-01-09,202101090SAC,SAC,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202101090SAC.html,23:36,.502,.429,.000,1.286,4.3,28.5,16.8,15.1,1.9,3.4,0.0,20.0,113,112,2.4
+2021-01-09,202101090SAC,SAC,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202101090SAC.html,22:32,.814,.700,.600,.800,0.0,17.0,8.8,8.0,0.0,0.0,12.9,14.8,141,122,2.8
+2021-01-09,202101090SAC,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202101090SAC.html,18:26,.500,.500,.250,.000,0.0,5.2,2.7,11.5,2.5,0.0,11.1,21.0,86,119,-5.2
+2021-01-09,202101090SAC,SAC,Justin James,https://www.basketball-reference.com/boxscores/202101090SAC.html,12:57,.129,.000,.667,.667,0.0,29.7,15.3,22.5,0.0,0.0,0.0,12.9,52,119,-8.2
+2021-01-09,202101090SAC,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202101090SAC.html,11:45,.340,.200,.600,.400,0.0,24.5,12.6,14.1,0.0,0.0,25.4,28.9,57,120,-21.2
+2021-01-09,202101090SAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202101090SAC.html,6:34,.577,.333,.000,1.667,46.7,0.0,22.6,28.5,7.0,24.8,0.0,34.1,144,90,31.0
+2021-01-09,202101090SAC,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202101090SAC.html,3:00,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-8.0
+2021-01-09,202101090SAC,SAC,Robert Woodard II,https://www.basketball-reference.com/boxscores/202101090SAC.html,2:14,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.3,300,126,37.6

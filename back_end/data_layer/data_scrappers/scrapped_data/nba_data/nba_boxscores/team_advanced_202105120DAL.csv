@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-12,202105120DAL,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202105120DAL.html,34:32,.424,.393,.357,.214,0.0,6.6,3.0,14.4,1.4,0.0,11.5,20.8,84,125,-7.2
+2021-05-12,202105120DAL,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202105120DAL.html,29:49,.487,.455,.273,.273,0.0,23.0,10.5,11.5,1.6,0.0,24.5,22.7,77,121,-8.9
+2021-05-12,202105120DAL,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202105120DAL.html,26:15,.704,.600,.000,1.600,14.6,26.1,19.9,18.0,1.8,0.0,10.5,15.0,148,120,6.1
+2021-05-12,202105120DAL,NOP,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202105120DAL.html,26:01,.533,.500,.455,.636,0.0,8.8,4.0,27.6,1.8,0.0,17.6,27.2,97,124,-3.2
+2021-05-12,202105120DAL,NOP,James Johnson,https://www.basketball-reference.com/boxscores/202105120DAL.html,21:56,.590,.563,.250,.375,0.0,15.6,7.1,16.1,0.0,0.0,0.0,17.6,128,127,0.8
+2021-05-12,202105120DAL,NOP,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202105120DAL.html,26:04,.700,.700,.600,.000,3.7,17.5,10.0,6.0,0.0,3.6,16.7,9.5,121,124,-0.6
+2021-05-12,202105120DAL,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202105120DAL.html,21:59,.514,.400,.400,.600,4.4,15.6,9.5,14.8,0.0,0.0,7.3,25.7,109,127,-1.8
+2021-05-12,202105120DAL,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202105120DAL.html,21:45,.555,.400,.100,.800,13.2,15.8,14.4,0.0,2.2,4.3,0.0,25.8,128,119,3.4
+2021-05-12,202105120DAL,NOP,Didi Louzada,https://www.basketball-reference.com/boxscores/202105120DAL.html,14:40,.200,.200,.400,.000,0.0,7.8,3.6,0.0,0.0,0.0,0.0,14.1,45,128,-16.6
+2021-05-12,202105120DAL,NOP,Wes Iwundu,https://www.basketball-reference.com/boxscores/202105120DAL.html,12:31,.400,.400,.000,.000,15.3,18.3,16.7,0.0,0.0,0.0,0.0,16.6,101,126,-6.7
+2021-05-12,202105120DAL,NOP,James Nunnally,https://www.basketball-reference.com/boxscores/202105120DAL.html,4:28,.500,.500,1.000,.000,0.0,25.6,11.7,42.6,0.0,0.0,0.0,27.9,117,125,9.4
+2021-05-12,202105120DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202105120DAL.html,31:16,.663,.646,.625,.083,3.7,21.5,13.3,43.0,0.0,0.0,13.9,39.3,125,106,14.2
+2021-05-12,202105120DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202105120DAL.html,30:19,.949,1.000,.000,.600,7.5,19.0,13.8,0.0,1.6,0.0,13.7,10.3,165,103,2.0
+2021-05-12,202105120DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202105120DAL.html,29:12,.683,.639,.556,.222,3.9,9.9,7.1,10.8,1.6,0.0,4.8,30.3,136,106,8.8
+2021-05-12,202105120DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202105120DAL.html,27:45,.900,.900,.200,.000,4.1,13.8,9.4,4.3,0.0,0.0,0.0,7.7,185,108,1.8
+2021-05-12,202105120DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202105120DAL.html,21:56,.620,.571,.357,.214,0.0,21.9,11.9,6.9,2.2,0.0,0.0,29.7,130,101,6.5
+2021-05-12,202105120DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202105120DAL.html,18:38,.500,.500,.800,.000,6.1,25.8,16.8,18.5,0.0,4.4,0.0,11.4,134,102,6.1
+2021-05-12,202105120DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202105120DAL.html,18:14,.403,.250,.250,1.250,0.0,15.8,8.6,35.6,0.0,0.0,0.0,14.5,125,107,-1.3
+2021-05-12,202105120DAL,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202105120DAL.html,14:08,.214,.214,.429,.000,0.0,6.8,3.7,7.8,0.0,0.0,0.0,21.1,57,110,-16.5
+2021-05-12,202105120DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202105120DAL.html,13:13,.727,.667,.000,.333,17.3,0.0,7.9,0.0,3.6,6.2,22.5,14.3,129,100,-2.5
+2021-05-12,202105120DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202105120DAL.html,8:36,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.9,0,112,-20.6
+2021-05-12,202105120DAL,DAL,Nicolò Melli,https://www.basketball-reference.com/boxscores/202105120DAL.html,7:26,.000,.000,.000,.000,0.0,25.8,14.0,0.0,0.0,0.0,0.0,5.7,0,105,-8.9
+2021-05-12,202105120DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202105120DAL.html,6:07,.798,1.000,.000,2.000,0.0,15.7,8.5,0.0,0.0,0.0,0.0,13.1,159,107,-3.0
+2021-05-12,202105120DAL,DAL,Nate Hinton,https://www.basketball-reference.com/boxscores/202105120DAL.html,5:15,.200,.200,.600,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.5,44,112,-34.2
+2021-05-12,202105120DAL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202105120DAL.html,4:28,.500,.500,.500,.000,0.0,43.0,23.4,0.0,0.0,0.0,33.3,28.6,62,100,-12.7
+2021-05-12,202105120DAL,DAL,Tyler Bey,https://www.basketball-reference.com/boxscores/202105120DAL.html,3:27,,,,,33.1,0.0,15.1,29.6,0.0,0.0,,0.0,230,113,12.2

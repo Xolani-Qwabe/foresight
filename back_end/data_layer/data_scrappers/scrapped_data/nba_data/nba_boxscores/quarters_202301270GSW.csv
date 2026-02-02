@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-01-27,202301270GSW,TOR,Q1,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,5,6,.833,3,3,1.000,1,1,1.000,0,1,1,1,0,0,2,0,14,10.8,+2
+2023-01-27,202301270GSW,TOR,Q1,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.27,1,8,.125,1,2,.500,0,0,,1,1,2,1,0,0,0,1,3,-0.9,+5
+2023-01-27,202301270GSW,TOR,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.27,3,3,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,7,6.4,+5
+2023-01-27,202301270GSW,TOR,Q1,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301270GSW.html,10.07,4,7,.571,0,0,,1,2,.500,0,4,4,3,0,0,0,2,9,7.8,0
+2023-01-27,202301270GSW,TOR,Q1,OG Anunoby,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.3,0,1,.000,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1.0,+5
+2023-01-27,202301270GSW,TOR,Q1,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301270GSW.html,4.28,1,2,.500,0,0,,0,0,,2,2,4,1,0,0,1,0,2,2.7,-1
+2023-01-27,202301270GSW,TOR,Q1,Chris Boucher,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.08,0,1,.000,0,1,.000,1,2,.500,0,2,2,0,0,0,0,0,1,0.5,-3
+2023-01-27,202301270GSW,TOR,Q1,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202301270GSW.html,2.73,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2023-01-27,202301270GSW,TOR,Q2,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301270GSW.html,6.87,0,5,.000,0,3,.000,0,0,,0,0,0,1,0,0,1,1,0,-4.2,-5
+2023-01-27,202301270GSW,TOR,Q2,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.3,2,7,.286,0,2,.000,1,1,1.000,0,2,2,1,0,0,0,1,5,1.8,-5
+2023-01-27,202301270GSW,TOR,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301270GSW.html,6.87,2,3,.667,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,5,4.0,-5
+2023-01-27,202301270GSW,TOR,Q2,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301270GSW.html,6.93,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,+3
+2023-01-27,202301270GSW,TOR,Q2,OG Anunoby,https://www.basketball-reference.com/boxscores/202301270GSW.html,2.7,0,1,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,+2
+2023-01-27,202301270GSW,TOR,Q2,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.87,2,3,.667,0,1,.000,0,1,.000,1,2,3,1,0,0,0,1,4,3.9,+2
+2023-01-27,202301270GSW,TOR,Q2,Chris Boucher,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.27,2,5,.400,1,1,1.000,1,3,.333,3,1,4,0,0,1,0,0,6,5.6,-3
+2023-01-27,202301270GSW,TOR,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,+2
+2023-01-27,202301270GSW,TOR,Q2,Thaddeus Young,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.07,1,2,.500,0,1,.000,0,0,,0,1,1,0,1,0,0,1,2,1.9,-6
+2023-01-27,202301270GSW,TOR,Q3,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,4,6,.667,1,2,.500,0,0,,0,2,2,4,1,0,2,1,9,8.4,-3
+2023-01-27,202301270GSW,TOR,Q3,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.25,3,8,.375,0,1,.000,1,1,1.000,0,1,1,1,0,0,0,2,7,2.8,+1
+2023-01-27,202301270GSW,TOR,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,1,5,.200,1,4,.250,0,0,,1,1,2,2,0,0,0,0,3,2.3,-3
+2023-01-27,202301270GSW,TOR,Q3,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.55,1,1,1.000,1,1,1.000,2,2,1.000,0,0,0,0,0,1,0,1,5,5.0,+3
+2023-01-27,202301270GSW,TOR,Q3,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301270GSW.html,10.3,4,5,.800,0,0,,0,0,,2,2,4,0,0,0,0,1,8,7.7,-1
+2023-01-27,202301270GSW,TOR,Q3,Chris Boucher,https://www.basketball-reference.com/boxscores/202301270GSW.html,4.45,0,2,.000,0,1,.000,0,0,,1,1,2,0,0,0,0,0,0,-0.4,-6
+2023-01-27,202301270GSW,TOR,Q3,Thaddeus Young,https://www.basketball-reference.com/boxscores/202301270GSW.html,4.45,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,0,0,1.4,-6
+2023-01-27,202301270GSW,TOR,Q4,Fred VanVleet,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.43,2,3,.667,1,2,.500,0,0,,0,1,1,4,0,1,0,2,5,6.7,-4
+2023-01-27,202301270GSW,TOR,Q4,Pascal Siakam,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,2,3,.667,0,1,.000,2,3,.667,1,1,2,0,0,0,0,0,6,5.3,-8
+2023-01-27,202301270GSW,TOR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202301270GSW.html,8.58,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-11
+2023-01-27,202301270GSW,TOR,Q4,Scottie Barnes,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,3,6,.500,0,1,.000,1,1,1.000,0,2,2,1,0,1,2,1,7,3.6,-8
+2023-01-27,202301270GSW,TOR,Q4,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,1,2,.500,0,1,.000,1,2,.500,0,0,0,0,1,0,1,0,3,1.6,-8
+2023-01-27,202301270GSW,TOR,Q4,Chris Boucher,https://www.basketball-reference.com/boxscores/202301270GSW.html,2.57,0,1,.000,0,0,,0,0,,1,0,1,0,1,0,1,0,0,0.0,-4
+2023-01-27,202301270GSW,TOR,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202301270GSW.html,3.42,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+3
+2023-01-27,202301270GSW,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,6,8,.750,1,2,.500,0,0,,0,2,2,3,2,0,0,1,13,14.1,-2
+2023-01-27,202301270GSW,GSW,Q1,Klay Thompson,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.12,3,8,.375,0,4,.000,0,0,,0,1,1,0,0,0,0,0,6,1.9,-5
+2023-01-27,202301270GSW,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.72,0,0,,0,0,,0,0,,0,2,2,3,0,0,1,0,0,1.7,-3
+2023-01-27,202301270GSW,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.3,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,1,1,0,-0.8,-5
+2023-01-27,202301270GSW,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.72,2,3,.667,0,0,,0,0,,0,3,3,1,0,0,0,3,4,3.1,-3
+2023-01-27,202301270GSW,GSW,Q1,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.08,2,2,1.000,1,1,1.000,0,0,,0,0,0,2,1,0,0,0,5,6.8,+3
+2023-01-27,202301270GSW,GSW,Q1,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202301270GSW.html,3.9,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.7,+1
+2023-01-27,202301270GSW,GSW,Q1,JaMychal Green,https://www.basketball-reference.com/boxscores/202301270GSW.html,3.9,2,2,1.000,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,6,5.4,+1
+2023-01-27,202301270GSW,GSW,Q1,Anthony Lamb,https://www.basketball-reference.com/boxscores/202301270GSW.html,3.27,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4,+3
+2023-01-27,202301270GSW,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202301270GSW.html,6.83,1,2,.500,0,0,,2,2,1.000,0,2,2,2,0,0,0,0,4,5.0,+5
+2023-01-27,202301270GSW,GSW,Q2,Klay Thompson,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.33,2,5,.400,2,4,.500,0,0,,0,3,3,0,1,0,0,0,6,5.2,+5
+2023-01-27,202301270GSW,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.52,2,2,1.000,0,0,,1,2,.500,0,3,3,2,0,0,0,0,5,6.3,+1
+2023-01-27,202301270GSW,GSW,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202301270GSW.html,8.08,3,4,.750,1,2,.500,0,0,,0,0,0,0,0,0,1,1,7,4.0,-4
+2023-01-27,202301270GSW,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/202301270GSW.html,4.47,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,0.6,+5
+2023-01-27,202301270GSW,GSW,Q2,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.05,1,3,.333,0,1,.000,0,0,,0,1,1,4,0,0,0,1,2,3.0,+5
+2023-01-27,202301270GSW,GSW,Q2,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202301270GSW.html,4.3,0,1,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,1,1,1,-1.5,-1
+2023-01-27,202301270GSW,GSW,Q2,JaMychal Green,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.75,1,3,.333,0,2,.000,0,0,,1,2,3,0,0,0,0,1,2,1.2,+1
+2023-01-27,202301270GSW,GSW,Q2,Anthony Lamb,https://www.basketball-reference.com/boxscores/202301270GSW.html,2.67,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,-2
+2023-01-27,202301270GSW,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,3,7,.429,2,4,.500,1,1,1.000,0,2,2,3,0,0,3,0,9,5.0,+3
+2023-01-27,202301270GSW,GSW,Q3,Klay Thompson,https://www.basketball-reference.com/boxscores/202301270GSW.html,8.72,3,5,.600,1,2,.500,1,1,1.000,1,1,2,0,0,0,1,1,8,5.3,-1
+2023-01-27,202301270GSW,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/202301270GSW.html,6.73,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,0.7,-1
+2023-01-27,202301270GSW,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202301270GSW.html,4.97,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,2,0,-1.8,-5
+2023-01-27,202301270GSW,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202301270GSW.html,6.12,2,2,1.000,0,0,,0,2,.000,0,2,2,2,0,0,0,0,4,4.6,+6
+2023-01-27,202301270GSW,GSW,Q3,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.03,0,1,.000,0,1,.000,0,0,,0,1,1,1,1,0,0,0,0,1.3,+8
+2023-01-27,202301270GSW,GSW,Q3,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.27,4,4,1.000,4,4,1.000,0,0,,0,0,0,0,0,0,0,0,12,10.8,+4
+2023-01-27,202301270GSW,GSW,Q3,JaMychal Green,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.88,0,0,,0,0,,2,2,1.000,1,2,3,0,0,0,0,0,2,3.3,-3
+2023-01-27,202301270GSW,GSW,Q3,Anthony Lamb,https://www.basketball-reference.com/boxscores/202301270GSW.html,3.28,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,+4
+2023-01-27,202301270GSW,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202301270GSW.html,7.95,3,4,.750,1,2,.500,2,2,1.000,0,1,1,3,0,0,0,0,9,9.8,+7
+2023-01-27,202301270GSW,GSW,Q4,Klay Thompson,https://www.basketball-reference.com/boxscores/202301270GSW.html,10.7,3,6,.500,3,4,.750,0,0,,0,2,2,1,0,0,0,0,9,7.3,+7
+2023-01-27,202301270GSW,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/202301270GSW.html,8.77,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,1,0,-1.5,+7
+2023-01-27,202301270GSW,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202301270GSW.html,4.05,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+1
+2023-01-27,202301270GSW,GSW,Q4,Kevon Looney,https://www.basketball-reference.com/boxscores/202301270GSW.html,5.45,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,4,2.9,+4
+2023-01-27,202301270GSW,GSW,Q4,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202301270GSW.html,12.0,2,4,.500,1,2,.500,0,0,,1,0,1,4,0,0,1,0,5,5.5,+8
+2023-01-27,202301270GSW,GSW,Q4,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202301270GSW.html,9.78,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,1,2,2,0.6,+5
+2023-01-27,202301270GSW,GSW,Q4,Anthony Lamb,https://www.basketball-reference.com/boxscores/202301270GSW.html,1.3,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1

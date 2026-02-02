@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-25,202501250ATL,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202501250ATL.html,32:19,.598,.500,.294,.412,10.1,26.7,19.0,34.5,2.7,6.3,16.6,29.3,116,80,11.8
+2025-01-25,202501250ATL,TOR,RJ Barrett,https://www.basketball-reference.com/boxscores/202501250ATL.html,30:08,.779,.808,.308,.308,7.2,19.1,13.6,23.0,1.4,0.0,11.9,21.9,135,88,11.0
+2025-01-25,202501250ATL,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202501250ATL.html,27:24,.699,.667,.000,.167,8.0,24.5,16.8,15.0,4.8,3.7,23.7,12.1,119,78,7.5
+2025-01-25,202501250ATL,TOR,Davion Mitchell,https://www.basketball-reference.com/boxscores/202501250ATL.html,25:43,.474,.438,.500,.125,0.0,7.5,4.0,20.5,1.7,0.0,10.6,14.4,102,90,-3.0
+2025-01-25,202501250ATL,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202501250ATL.html,14:13,.429,.429,.571,.000,0.0,6.8,3.6,19.2,0.0,0.0,12.5,22.1,84,93,-9.4
+2025-01-25,202501250ATL,TOR,Bruce Brown,https://www.basketball-reference.com/boxscores/202501250ATL.html,26:56,.405,.333,.333,.222,0.0,17.8,9.5,9.7,1.6,0.0,33.6,21.7,60,88,-12.2
+2025-01-25,202501250ATL,TOR,Jamal Shead,https://www.basketball-reference.com/boxscores/202501250ATL.html,22:17,.300,.143,.429,.429,0.0,0.0,0.0,32.4,0.0,0.0,26.5,20.0,73,96,-12.4
+2025-01-25,202501250ATL,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202501250ATL.html,21:14,.910,.850,.400,.600,0.0,22.6,12.0,0.0,0.0,4.8,0.0,23.4,179,88,18.8
+2025-01-25,202501250ATL,TOR,Orlando Robinson,https://www.basketball-reference.com/boxscores/202501250ATL.html,20:36,.286,.286,.143,.000,10.6,18.6,14.9,0.0,2.1,9.9,30.0,19.1,52,80,-12.2
+2025-01-25,202501250ATL,TOR,Ja'Kobe Walter,https://www.basketball-reference.com/boxscores/202501250ATL.html,16:29,.543,.583,.333,.167,0.0,17.5,9.3,26.3,5.3,0.0,0.0,15.4,121,80,9.5
+2025-01-25,202501250ATL,TOR,Garrett Temple,https://www.basketball-reference.com/boxscores/202501250ATL.html,2:41,,,,,0.0,0.0,0.0,0.0,0.0,38.1,,0.0,0,73,14.4
+2025-01-25,202501250ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202501250ATL.html,38:09,.515,.458,.333,.667,2.5,8.6,5.4,18.8,0.0,0.0,41.5,28.0,64,115,-17.6
+2025-01-25,202501250ATL,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202501250ATL.html,35:19,.678,.692,.846,.308,0.0,6.2,2.9,38.3,3.7,4.5,0.0,16.9,136,104,14.0
+2025-01-25,202501250ATL,ATL,Dyson Daniels,https://www.basketball-reference.com/boxscores/202501250ATL.html,34:18,.568,.591,.182,.091,2.8,15.9,8.9,34.1,6.4,0.0,25.9,18.2,91,99,1.6
+2025-01-25,202501250ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202501250ATL.html,28:55,.779,.750,.200,.500,6.6,22.6,14.1,38.8,6.0,2.8,14.1,19.8,137,97,14.5
+2025-01-25,202501250ATL,ATL,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202501250ATL.html,20:27,.200,.200,.400,.000,4.7,16.0,10.0,8.3,0.0,0.0,9.1,21.7,47,114,-17.1
+2025-01-25,202501250ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202501250ATL.html,26:23,.167,.167,.500,.000,7.3,16.5,11.6,12.4,1.7,3.0,7.7,19.9,48,107,-12.5
+2025-01-25,202501250ATL,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202501250ATL.html,25:03,.300,.300,1.000,.000,0.0,17.4,8.2,12.3,1.7,0.0,28.6,11.3,53,109,-10.3
+2025-01-25,202501250ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202501250ATL.html,13:55,.460,.400,.000,.200,6.9,23.5,14.7,0.0,0.0,0.0,15.5,18.7,81,112,-11.6
+2025-01-25,202501250ATL,ATL,Daeqwon Plowden,https://www.basketball-reference.com/boxscores/202501250ATL.html,7:28,.868,.750,1.000,1.000,0.0,14.6,6.8,0.0,0.0,0.0,0.0,15.6,169,114,3.7
+2025-01-25,202501250ATL,ATL,David Roddy,https://www.basketball-reference.com/boxscores/202501250ATL.html,7:22,.515,.333,.000,.667,0.0,44.4,20.8,24.6,0.0,10.9,0.0,21.2,117,100,7.6
+2025-01-25,202501250ATL,ATL,Dominick Barlow,https://www.basketball-reference.com/boxscores/202501250ATL.html,2:41,.266,.000,1.000,2.000,0.0,40.7,19.0,0.0,0.0,0.0,0.0,28.3,59,109,-14.9

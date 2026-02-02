@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-22,202210220CHI,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202210220CHI.html,34:31,.697,.632,.316,.474,12.6,16.7,15.1,32.6,1.4,0.0,14.8,34.1,136,100,10.5
+2022-10-22,202210220CHI,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202210220CHI.html,33:27,.509,.458,.500,.333,0.0,11.5,6.9,27.2,1.5,2.6,12.7,20.6,117,100,3.6
+2022-10-22,202210220CHI,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202210220CHI.html,28:36,.667,.667,.000,.000,15.3,10.1,12.1,8.1,0.0,3.1,25.0,12.2,122,103,-0.9
+2022-10-22,202210220CHI,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202210220CHI.html,26:56,.200,.200,.400,.000,0.0,3.6,2.1,0.0,0.0,0.0,37.5,13.0,26,107,-15.7
+2022-10-22,202210220CHI,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202210220CHI.html,24:46,.810,.778,.000,.222,5.9,7.8,7.0,5.6,2.0,3.5,23.3,22.7,120,99,3.4
+2022-10-22,202210220CHI,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202210220CHI.html,25:44,.805,.750,.375,.375,0.0,7.5,4.5,19.3,0.0,0.0,9.7,17.5,156,106,4.7
+2022-10-22,202210220CHI,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202210220CHI.html,22:50,.833,.833,.667,.000,0.0,50.5,30.4,22.4,0.0,3.8,0.0,17.2,172,90,22.6
+2022-10-22,202210220CHI,CLE,Robin Lopez,https://www.basketball-reference.com/boxscores/202210220CHI.html,15:37,.857,.857,.000,.000,9.3,12.3,11.1,0.0,0.0,5.6,0.0,19.6,170,100,9.4
+2022-10-22,202210220CHI,CLE,Raul Neto,https://www.basketball-reference.com/boxscores/202210220CHI.html,15:12,.600,.600,.200,.000,0.0,25.3,15.2,32.8,3.3,0.0,16.7,17.2,126,93,5.1
+2022-10-22,202210220CHI,CLE,Isaiah Mobley,https://www.basketball-reference.com/boxscores/202210220CHI.html,4:07,1.500,1.500,1.000,.000,0.0,23.3,14.0,0.0,0.0,0.0,0.0,10.6,300,101,17.6
+2022-10-22,202210220CHI,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202210220CHI.html,4:07,.000,.000,.000,.000,0.0,23.3,14.0,0.0,0.0,0.0,0.0,10.6,0,101,-13.6
+2022-10-22,202210220CHI,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202210220CHI.html,4:07,.833,.833,.667,.000,0.0,46.6,28.1,47.2,0.0,0.0,25.0,42.4,116,94,17.3
+2022-10-22,202210220CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202210220CHI.html,32:31,.538,.333,.000,.778,0.0,8.9,3.6,5.0,3.1,0.0,0.0,17.0,119,134,-4.7
+2022-10-22,202210220CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202210220CHI.html,30:47,.667,.667,.250,.000,3.1,14.2,7.5,20.3,0.0,8.1,14.3,20.8,116,133,2.3
+2022-10-22,202210220CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202210220CHI.html,28:20,.613,.588,.353,.235,0.0,15.4,6.1,36.1,3.5,0.0,0.0,30.3,129,132,10.2
+2022-10-22,202210220CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202210220CHI.html,27:30,.357,.357,.571,.000,3.5,15.9,8.4,17.2,0.0,0.0,0.0,11.6,96,140,-9.0
+2022-10-22,202210220CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202210220CHI.html,15:31,.381,.357,.429,.286,6.2,18.7,11.2,0.0,3.2,0.0,11.3,26.2,75,132,-10.5
+2022-10-22,202210220CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202210220CHI.html,23:36,.296,.250,.625,.125,4.1,0.0,2.5,6.8,0.0,0.0,0.0,16.3,75,142,-15.8
+2022-10-22,202210220CHI,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202210220CHI.html,16:56,.840,.833,.333,1.333,5.7,8.6,6.8,0.0,5.9,4.9,17.4,15.6,138,123,6.3
+2022-10-22,202210220CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202210220CHI.html,16:36,.532,.000,1.000,2.000,0.0,17.5,7.0,17.0,3.0,5.0,34.7,7.9,94,129,-2.8
+2022-10-22,202210220CHI,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202210220CHI.html,13:44,.475,.400,.400,.600,7.0,21.2,12.6,25.9,7.2,12.1,0.0,21.0,116,113,14.0
+2022-10-22,202210220CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202210220CHI.html,13:06,.450,.375,.125,.250,22.0,44.4,30.9,0.0,7.6,0.0,25.3,41.5,79,118,-11.1
+2022-10-22,202210220CHI,CHI,Goran Dragić,https://www.basketball-reference.com/boxscores/202210220CHI.html,11:25,.500,.500,.250,.000,0.0,25.5,10.1,49.3,0.0,0.0,20.0,20.0,98,138,-6.2
+2022-10-22,202210220CHI,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202210220CHI.html,4:07,.000,.000,1.000,.000,23.3,35.3,28.1,0.0,0.0,0.0,0.0,11.1,62,137,-16.2
+2022-10-22,202210220CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202210220CHI.html,4:07,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,22.2,0,142,-32.1
+2022-10-22,202210220CHI,CHI,Marko Simonovic,https://www.basketball-reference.com/boxscores/202210220CHI.html,1:44,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.4,0,142,-32.5

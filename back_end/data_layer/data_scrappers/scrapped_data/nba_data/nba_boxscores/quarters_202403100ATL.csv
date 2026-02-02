@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2024-03-10,202403100ATL,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.1,3,4,.750,0,0,2,2,1.000,0,0,0,1,0,1,0,0,8,7.8,+4,
+2024-03-10,202403100ATL,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.83,1,3,.333,0,0,0,0,,0,3,3,3,0,0,1,1,2,1.9,+2,
+2024-03-10,202403100ATL,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.83,2,4,.500,1,2,0,0,,1,0,1,0,0,0,1,0,5,2.7,+2,.500
+2024-03-10,202403100ATL,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.83,0,0,,0,0,0,0,,0,1,1,0,0,2,1,0,0,0.7,+2,
+2024-03-10,202403100ATL,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.83,1,2,.500,0,0,0,0,,0,8,8,0,0,2,1,0,2,3.8,+2,
+2024-03-10,202403100ATL,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.07,2,4,.500,1,2,0,0,,0,1,1,0,0,0,1,0,5,2.3,+6,.500
+2024-03-10,202403100ATL,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403100ATL.html,3.17,1,1,1.000,0,0,0,0,,0,1,1,0,0,0,0,0,2,2.0,+4,
+2024-03-10,202403100ATL,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202403100ATL.html,3.17,1,1,1.000,0,0,0,0,,0,2,2,2,0,0,0,0,2,3.7,+4,
+2024-03-10,202403100ATL,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403100ATL.html,3.17,0,1,.000,0,1,0,0,,0,1,1,1,0,0,0,0,0,0.3,+4,.000
+2024-03-10,202403100ATL,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.68,0,2,.000,0,0,0,0,,0,2,2,2,0,0,0,0,0,0.6,+4,
+2024-03-10,202403100ATL,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.08,1,2,.500,0,1,0,0,,0,0,0,1,1,0,0,1,2,2.3,-7,.000
+2024-03-10,202403100ATL,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.08,1,3,.333,0,2,0,0,,0,1,1,0,0,0,0,0,2,0.6,-7,.000
+2024-03-10,202403100ATL,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.08,1,1,1.000,1,1,0,0,,0,0,0,1,0,0,1,1,3,2.0,-7,1.000
+2024-03-10,202403100ATL,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202403100ATL.html,2.32,0,0,,0,0,0,0,,0,0,0,1,0,0,0,0,0,0.7,+1,
+2024-03-10,202403100ATL,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403100ATL.html,10.8,5,8,.625,3,6,2,2,1.000,0,4,4,2,0,0,1,0,15,13.0,+8,.500
+2024-03-10,202403100ATL,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403100ATL.html,7.12,1,1,1.000,0,0,0,0,,1,0,1,1,1,0,0,1,2,3.7,+9,
+2024-03-10,202403100ATL,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.92,1,3,.333,1,1,0,0,,0,1,1,0,0,0,0,0,3,1.6,+12,1.000
+2024-03-10,202403100ATL,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.92,0,0,,0,0,0,0,,0,1,1,0,0,0,1,0,0,-0.7,+12,
+2024-03-10,202403100ATL,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202403100ATL.html,7.97,2,2,1.000,0,0,2,4,.500,0,2,2,1,0,1,0,2,6,5.8,-1,
+2024-03-10,202403100ATL,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403100ATL.html,10.65,1,3,.333,0,0,1,2,.500,0,2,2,4,0,0,0,0,3,4.3,+9,
+2024-03-10,202403100ATL,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202403100ATL.html,10.45,2,5,.400,2,2,1,2,.500,0,2,2,3,0,0,1,0,7,5.6,+11,1.000
+2024-03-10,202403100ATL,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.25,2,3,.667,0,1,0,0,,0,0,0,0,2,1,0,2,4,4.6,+8,.000
+2024-03-10,202403100ATL,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.38,0,0,,0,0,2,2,1.000,0,1,1,0,0,0,1,1,2,0.9,0,
+2024-03-10,202403100ATL,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.38,1,2,.500,1,2,0,0,,0,2,2,0,0,0,0,0,3,2.6,0,.500
+2024-03-10,202403100ATL,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.62,1,1,1.000,0,0,0,0,,0,0,0,0,1,0,0,0,2,2.7,+4,
+2024-03-10,202403100ATL,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202403100ATL.html,2.75,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,
+2024-03-10,202403100ATL,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403100ATL.html,1.55,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-7,
+2024-03-10,202403100ATL,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.67,5,6,.833,0,0,3,4,.750,2,0,2,3,0,0,1,0,13,12.9,-1,
+2024-03-10,202403100ATL,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.27,0,1,.000,0,0,0,0,,0,2,2,2,0,0,1,0,0,0.3,-3,
+2024-03-10,202403100ATL,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.32,2,2,1.000,1,1,1,1,1.000,0,0,0,0,0,0,0,0,6,5.4,-5,1.000
+2024-03-10,202403100ATL,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.27,0,1,.000,0,0,0,0,,0,0,0,1,0,0,0,0,0,0.0,-3,
+2024-03-10,202403100ATL,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.07,2,4,.500,1,3,0,0,,0,0,0,0,0,0,0,1,5,2.6,0,.333
+2024-03-10,202403100ATL,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202403100ATL.html,12.0,1,1,1.000,0,0,2,3,.667,0,0,0,2,2,0,0,0,4,6.7,-2,
+2024-03-10,202403100ATL,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.73,1,1,1.000,0,0,0,0,,0,2,2,1,0,0,0,0,2,3.0,+1,
+2024-03-10,202403100ATL,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.68,2,3,.667,2,2,0,0,,0,0,0,0,1,0,0,0,6,5.7,+3,1.000
+2024-03-10,202403100ATL,ATL,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.83,0,6,.000,0,3,1,2,.500,0,0,0,2,1,0,0,0,1,-1.2,-2,.000
+2024-03-10,202403100ATL,ATL,Q1,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.2,2,4,.500,1,2,0,0,,1,0,1,3,1,0,0,0,5,6.8,-3,.500
+2024-03-10,202403100ATL,ATL,Q1,Saddiq Bey,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.1,2,4,.500,2,4,0,0,,0,1,1,0,0,0,0,1,6,3.9,-4,.500
+2024-03-10,202403100ATL,ATL,Q1,Clint Capela,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.63,3,6,.500,0,0,0,0,,1,2,3,0,0,1,0,0,6,5.0,-2,
+2024-03-10,202403100ATL,ATL,Q1,Vit Krejci,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.03,0,1,.000,0,0,0,0,,0,0,0,0,1,0,0,0,0,0.3,+1,
+2024-03-10,202403100ATL,ATL,Q1,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.97,0,3,.000,0,2,0,0,,0,2,2,0,0,0,0,0,0,-1.5,-7,.000
+2024-03-10,202403100ATL,ATL,Q1,Bruno Fernando,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.37,0,2,.000,0,0,0,0,,2,1,3,1,1,1,0,1,0,2.3,-4,
+2024-03-10,202403100ATL,ATL,Q1,Garrison Mathews,https://www.basketball-reference.com/boxscores/202403100ATL.html,2.9,1,2,.500,0,1,0,0,,0,0,0,0,0,0,0,0,2,1.0,-2,.000
+2024-03-10,202403100ATL,ATL,Q1,Trent Forrest,https://www.basketball-reference.com/boxscores/202403100ATL.html,3.17,0,1,.000,0,0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,
+2024-03-10,202403100ATL,ATL,Q1,Wesley Matthews,https://www.basketball-reference.com/boxscores/202403100ATL.html,3.8,0,1,.000,0,1,0,0,,0,0,0,1,0,0,0,0,0,0.0,-3,.000
+2024-03-10,202403100ATL,ATL,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.48,2,6,.333,2,4,2,2,1.000,0,0,0,1,0,0,2,0,8,3.3,+1,.500
+2024-03-10,202403100ATL,ATL,Q2,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.6,3,5,.600,2,4,0,0,,0,0,0,0,0,0,0,0,8,5.7,+1,.500
+2024-03-10,202403100ATL,ATL,Q2,Saddiq Bey,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.48,0,2,.000,0,1,0,0,,0,1,1,2,0,0,0,0,0,0.3,-7,.000
+2024-03-10,202403100ATL,ATL,Q2,Clint Capela,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.08,1,2,.500,0,0,0,0,,2,0,2,0,0,0,0,1,2,2.0,+7,
+2024-03-10,202403100ATL,ATL,Q2,Vit Krejci,https://www.basketball-reference.com/boxscores/202403100ATL.html,3.52,0,0,,0,0,0,0,,0,1,1,1,0,0,0,0,0,1.0,+2,
+2024-03-10,202403100ATL,ATL,Q2,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.48,1,4,.250,0,2,0,0,,0,2,2,2,0,0,2,0,2,-0.4,+1,.000
+2024-03-10,202403100ATL,ATL,Q2,Bruno Fernando,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.92,1,1,1.000,0,0,0,0,,1,4,5,0,0,0,1,0,2,2.6,-12,
+2024-03-10,202403100ATL,ATL,Q2,Garrison Mathews,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.92,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-12,
+2024-03-10,202403100ATL,ATL,Q2,Trent Forrest,https://www.basketball-reference.com/boxscores/202403100ATL.html,2.52,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,
+2024-03-10,202403100ATL,ATL,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202403100ATL.html,12.0,3,5,.600,1,2,2,2,1.000,0,0,0,1,0,0,0,2,9,6.6,-4,.500
+2024-03-10,202403100ATL,ATL,Q3,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202403100ATL.html,7.63,0,3,.000,0,3,0,0,,0,0,0,2,0,0,1,0,0,-1.7,+4,.000
+2024-03-10,202403100ATL,ATL,Q3,Saddiq Bey,https://www.basketball-reference.com/boxscores/202403100ATL.html,8.17,1,4,.250,1,3,4,4,1.000,1,2,3,0,0,0,0,0,7,5.9,+3,.333
+2024-03-10,202403100ATL,ATL,Q3,Clint Capela,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.62,1,1,1.000,0,0,0,0,,1,3,4,0,0,0,2,2,2,0.5,-4,
+2024-03-10,202403100ATL,ATL,Q3,Vit Krejci,https://www.basketball-reference.com/boxscores/202403100ATL.html,9.25,0,1,.000,0,1,0,0,,0,1,1,2,0,0,0,0,0,1.0,-8,.000
+2024-03-10,202403100ATL,ATL,Q3,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202403100ATL.html,7.12,1,4,.250,1,2,0,0,,0,0,0,0,0,0,0,0,3,0.6,-4,.500
+2024-03-10,202403100ATL,ATL,Q3,Bruno Fernando,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.38,1,1,1.000,0,0,0,0,,0,3,3,0,1,1,0,1,2,3.9,0,
+2024-03-10,202403100ATL,ATL,Q3,Garrison Mathews,https://www.basketball-reference.com/boxscores/202403100ATL.html,3.83,0,0,,0,0,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-7,
+2024-03-10,202403100ATL,ATL,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202403100ATL.html,10.67,2,3,.667,1,1,0,1,.000,1,0,1,7,0,0,2,0,5,6.9,0,1.000
+2024-03-10,202403100ATL,ATL,Q4,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202403100ATL.html,12.0,4,7,.571,4,6,0,0,,0,0,0,2,1,0,0,1,12,10.7,+2,.667
+2024-03-10,202403100ATL,ATL,Q4,Saddiq Bey,https://www.basketball-reference.com/boxscores/202403100ATL.html,1.33,0,1,.000,0,0,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,+2,
+2024-03-10,202403100ATL,ATL,Q4,Clint Capela,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.27,4,4,1.000,0,0,0,0,,2,3,5,0,0,0,0,0,8,9.1,+3,
+2024-03-10,202403100ATL,ATL,Q4,Vit Krejci,https://www.basketball-reference.com/boxscores/202403100ATL.html,4.4,1,1,1.000,1,1,0,0,,0,0,0,0,0,0,1,0,3,1.7,-3,1.000
+2024-03-10,202403100ATL,ATL,Q4,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202403100ATL.html,12.0,3,4,.750,1,2,0,0,,0,2,2,0,0,0,0,0,7,6.0,+2,.500
+2024-03-10,202403100ATL,ATL,Q4,Bruno Fernando,https://www.basketball-reference.com/boxscores/202403100ATL.html,5.73,1,1,1.000,0,0,0,0,,0,0,0,1,0,1,0,1,2,2.7,-1,
+2024-03-10,202403100ATL,ATL,Q4,Garrison Mathews,https://www.basketball-reference.com/boxscores/202403100ATL.html,6.27,0,1,.000,0,1,0,0,,0,0,0,0,0,0,0,3,0,-1.9,+3,.000
+2024-03-10,202403100ATL,ATL,Q4,Trent Forrest,https://www.basketball-reference.com/boxscores/202403100ATL.html,1.33,0,0,,0,0,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+2,

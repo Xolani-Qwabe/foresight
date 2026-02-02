@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-26,202112260LAC,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202112260LAC.html,37:30,.480,.396,.125,.292,16.0,44.5,30.0,37.3,2.6,4.3,12.9,34.9,105,90,10.0
+2021-12-26,202112260LAC,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202112260LAC.html,35:48,.461,.444,.500,.056,0.0,11.7,5.7,13.6,2.7,0.0,9.8,24.1,88,100,-2.5
+2021-12-26,202112260LAC,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202112260LAC.html,32:14,.429,.429,.357,.000,6.2,9.7,7.9,23.6,0.0,0.0,6.7,19.6,100,106,-3.2
+2021-12-26,202112260LAC,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202112260LAC.html,30:40,.750,.750,.750,.000,0.0,10.2,5.0,19.1,0.0,0.0,11.1,12.4,133,106,3.4
+2021-12-26,202112260LAC,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202112260LAC.html,20:27,.400,.400,.400,.000,0.0,10.2,5.0,13.7,0.0,3.9,16.7,12.4,80,103,-5.3
+2021-12-26,202112260LAC,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202112260LAC.html,26:11,.889,.938,.500,.125,0.0,8.0,3.9,6.5,1.8,3.1,0.0,13.6,160,100,11.5
+2021-12-26,202112260LAC,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202112260LAC.html,16:52,.512,.375,.750,.500,0.0,6.2,3.0,23.6,5.7,0.0,29.1,17.2,91,93,-3.5
+2021-12-26,202112260LAC,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202112260LAC.html,15:14,1.000,1.000,.000,.000,13.1,20.5,16.8,0.0,0.0,0.0,50.0,5.5,114,104,-7.5
+2021-12-26,202112260LAC,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202112260LAC.html,14:34,.350,.350,.700,.000,0.0,14.3,7.0,22.6,0.0,0.0,9.1,31.8,73,105,-9.7
+2021-12-26,202112260LAC,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202112260LAC.html,10:30,.500,.500,.667,.000,0.0,19.9,9.7,13.3,0.0,0.0,25.0,16.1,80,104,-3.3
+2021-12-26,202112260LAC,LAC,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202112260LAC.html,36:56,.503,.500,.118,.118,0.0,5.4,2.8,43.9,6.5,4.8,14.4,25.1,102,94,9.7
+2021-12-26,202112260LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202112260LAC.html,36:22,.500,.500,.091,.000,5.7,13.7,9.8,31.6,0.0,0.0,15.4,15.9,109,110,-0.1
+2021-12-26,202112260LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202112260LAC.html,29:57,.333,.333,.667,.000,0.0,13.4,6.8,4.4,0.0,0.0,14.3,10.4,63,110,-9.1
+2021-12-26,202112260LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202112260LAC.html,27:22,.833,.875,.000,.625,15.3,25.6,20.5,0.0,1.8,9.7,16.4,19.8,138,95,8.1
+2021-12-26,202112260LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202112260LAC.html,17:26,.400,.400,.800,.000,0.0,5.7,2.9,0.0,0.0,0.0,0.0,25.5,79,112,-12.7
+2021-12-26,202112260LAC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202112260LAC.html,33:06,.523,.467,.333,.333,0.0,6.0,3.1,9.3,0.0,0.0,10.4,25.8,97,112,-3.6
+2021-12-26,202112260LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202112260LAC.html,23:16,.563,.563,.500,.000,0.0,38.7,19.8,6.5,4.1,0.0,0.0,15.3,112,93,4.4
+2021-12-26,202112260LAC,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202112260LAC.html,19:03,.727,.750,.333,.333,11.0,21.0,16.1,25.3,0.0,4.7,30.4,23.1,108,104,1.9
+2021-12-26,202112260LAC,LAC,Keon Johnson,https://www.basketball-reference.com/boxscores/202112260LAC.html,11:06,.315,.000,.000,1.333,0.0,27.0,13.8,10.8,0.0,8.0,17.4,23.1,65,100,-8.6
+2021-12-26,202112260LAC,LAC,Justise Winslow,https://www.basketball-reference.com/boxscores/202112260LAC.html,5:26,.500,.500,.000,.000,0.0,18.4,9.4,0.0,0.0,0.0,0.0,16.4,96,109,-8.0

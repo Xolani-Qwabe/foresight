@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-02-27,202502270ORL,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.42,2,3,.667,1,2,.500,0,0,0,1,1,2,0,0,2,0,5,3.4,-4,
+2025-02-27,202502270ORL,GSW,Q1,Jimmy Butler,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.42,0,3,.000,0,2,.000,0,0,0,0,0,2,0,0,0,0,0,-0.7,-14,
+2025-02-27,202502270ORL,GSW,Q1,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.42,2,3,.667,2,2,1.000,0,0,0,0,0,0,0,0,0,1,6,4.3,-14,
+2025-02-27,202502270ORL,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.0,0,4,.000,0,0,,0,0,2,1,3,2,0,0,0,1,0,-0.1,-7,
+2025-02-27,202502270ORL,GSW,Q1,Moses Moody,https://www.basketball-reference.com/boxscores/202502270ORL.html,6.9,0,3,.000,0,3,.000,3,3,0,0,0,0,0,0,0,0,3,0.9,-4,1.000
+2025-02-27,202502270ORL,GSW,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.07,1,4,.250,1,3,.333,0,0,0,0,0,1,1,0,0,0,3,2.3,-1,
+2025-02-27,202502270ORL,GSW,Q1,Gary Payton II,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.68,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,0,
+2025-02-27,202502270ORL,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.0,0,0,,0,0,,0,0,2,0,2,0,0,0,0,0,0,1.4,-4,
+2025-02-27,202502270ORL,GSW,Q1,Gui Santos,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.1,1,2,.500,0,1,.000,0,0,0,0,0,0,1,0,0,0,2,2.0,-7,
+2025-02-27,202502270ORL,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202502270ORL.html,8.05,5,8,.625,4,5,.800,2,2,0,0,0,0,1,0,0,0,16,13.4,+2,1.000
+2025-02-27,202502270ORL,GSW,Q2,Jimmy Butler,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.27,1,3,.333,0,1,.000,0,0,0,0,0,0,0,1,1,0,2,0.0,-7,
+2025-02-27,202502270ORL,GSW,Q2,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202502270ORL.html,8.25,0,0,,0,0,,0,0,0,1,1,2,0,0,1,1,0,0.3,-6,
+2025-02-27,202502270ORL,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.27,1,1,1.000,0,0,,3,3,0,2,2,0,1,0,3,0,5,3.3,-7,1.000
+2025-02-27,202502270ORL,GSW,Q2,Moses Moody,https://www.basketball-reference.com/boxscores/202502270ORL.html,6.72,0,1,.000,0,1,.000,2,2,0,0,0,0,0,0,0,0,2,1.3,-1,1.000
+2025-02-27,202502270ORL,GSW,Q2,Quinten Post,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.42,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,-4,
+2025-02-27,202502270ORL,GSW,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202502270ORL.html,3.75,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+3,
+2025-02-27,202502270ORL,GSW,Q2,Gary Payton II,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.28,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,-2,
+2025-02-27,202502270ORL,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/202502270ORL.html,3.27,0,0,,0,0,,0,0,1,2,3,1,0,0,0,1,0,1.6,+3,
+2025-02-27,202502270ORL,GSW,Q2,Kevin Knox,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.73,1,3,.333,0,2,.000,0,0,1,0,1,0,0,0,1,2,2,-0.8,+4,
+2025-02-27,202502270ORL,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.65,6,8,.750,4,6,.667,6,6,0,1,1,1,1,0,1,0,22,19.8,+23,1.000
+2025-02-27,202502270ORL,GSW,Q3,Jimmy Butler,https://www.basketball-reference.com/boxscores/202502270ORL.html,8.1,0,1,.000,0,0,,0,0,1,1,2,4,0,0,1,1,0,1.7,+9,
+2025-02-27,202502270ORL,GSW,Q3,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.58,0,3,.000,0,0,,0,0,0,1,1,4,0,0,0,0,0,1.0,+6,
+2025-02-27,202502270ORL,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.38,2,2,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,0,5,5.0,+24,
+2025-02-27,202502270ORL,GSW,Q3,Moses Moody,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.62,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,2,3,1.9,-5,
+2025-02-27,202502270ORL,GSW,Q3,Quinten Post,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.38,4,5,.800,2,3,.667,0,0,0,3,3,0,0,0,0,0,10,9.0,+24,
+2025-02-27,202502270ORL,GSW,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202502270ORL.html,6.77,0,1,.000,0,0,,0,0,1,0,1,1,0,0,0,0,0,0.7,+9,
+2025-02-27,202502270ORL,GSW,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202502270ORL.html,3.9,0,0,,0,0,,0,0,0,0,0,0,2,0,0,1,0,1.6,+10,
+2025-02-27,202502270ORL,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.62,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,-5,
+2025-02-27,202502270ORL,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.18,3,6,.500,3,6,.500,4,4,0,2,2,0,0,0,1,0,13,9.6,-6,1.000
+2025-02-27,202502270ORL,GSW,Q4,Jimmy Butler,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.57,0,0,,0,0,,3,4,1,1,2,1,0,0,0,0,3,4.3,+5,.750
+2025-02-27,202502270ORL,GSW,Q4,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202502270ORL.html,8.9,1,6,.167,0,4,.000,0,0,0,2,2,1,0,2,0,0,2,0.9,+4,
+2025-02-27,202502270ORL,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/202502270ORL.html,10.18,0,1,.000,0,0,,2,4,1,2,3,2,0,0,1,3,2,1.0,-4,.500
+2025-02-27,202502270ORL,GSW,Q4,Moses Moody,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.25,0,0,,0,0,,2,2,0,1,1,0,0,1,0,0,2,3.0,+3,1.000
+2025-02-27,202502270ORL,GSW,Q4,Quinten Post,https://www.basketball-reference.com/boxscores/202502270ORL.html,11.35,2,3,.667,0,1,.000,2,2,1,1,2,1,0,1,0,3,6,5.9,+2,1.000
+2025-02-27,202502270ORL,GSW,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202502270ORL.html,0.02,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2025-02-27,202502270ORL,GSW,Q4,Gary Payton II,https://www.basketball-reference.com/boxscores/202502270ORL.html,3.08,0,0,,0,0,,1,2,0,0,0,0,0,1,0,0,1,1.3,-5,.500
+2025-02-27,202502270ORL,GSW,Q4,Kevon Looney,https://www.basketball-reference.com/boxscores/202502270ORL.html,0.65,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-1,
+2025-02-27,202502270ORL,GSW,Q4,Gui Santos,https://www.basketball-reference.com/boxscores/202502270ORL.html,1.82,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+5,
+2025-02-27,202502270ORL,ORL,Q1,Franz Wagner,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.52,2,3,.667,0,1,.000,0,0,0,0,0,0,0,0,1,1,4,1.3,+7,
+2025-02-27,202502270ORL,ORL,Q1,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.42,4,4,1.000,0,0,,0,0,0,1,1,3,1,0,3,2,8,6.4,+4,
+2025-02-27,202502270ORL,ORL,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.42,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+4,
+2025-02-27,202502270ORL,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502270ORL.html,6.9,0,1,.000,0,1,.000,0,0,0,4,4,2,0,0,0,0,0,1.9,+4,
+2025-02-27,202502270ORL,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.82,2,2,1.000,1,1,1.000,0,0,0,2,2,1,0,1,1,0,5,5.4,+4,
+2025-02-27,202502270ORL,ORL,Q1,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.1,2,2,1.000,0,0,,0,0,1,1,2,0,0,0,0,0,4,4.4,+7,
+2025-02-27,202502270ORL,ORL,Q1,Anthony Black,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.18,1,2,.500,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.7,+7,
+2025-02-27,202502270ORL,ORL,Q1,Jett Howard,https://www.basketball-reference.com/boxscores/202502270ORL.html,6.48,2,2,1.000,2,2,1.000,0,0,0,0,0,1,0,0,0,0,6,6.1,+4,
+2025-02-27,202502270ORL,ORL,Q1,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502270ORL.html,2.58,1,1,1.000,1,1,1.000,0,0,0,3,3,0,0,0,1,0,3,2.6,+7,
+2025-02-27,202502270ORL,ORL,Q1,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202502270ORL.html,2.58,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+7,
+2025-02-27,202502270ORL,ORL,Q2,Franz Wagner,https://www.basketball-reference.com/boxscores/202502270ORL.html,12.0,3,7,.429,0,1,.000,2,2,0,1,1,2,3,0,1,1,8,7.6,+3,1.000
+2025-02-27,202502270ORL,ORL,Q2,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.1,6,8,.750,3,5,.600,1,2,0,3,3,1,1,0,1,0,16,14.0,+4,.500
+2025-02-27,202502270ORL,ORL,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.1,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,+4,
+2025-02-27,202502270ORL,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.07,3,4,.750,0,0,,0,0,2,2,4,1,0,0,2,1,6,4.7,-1,
+2025-02-27,202502270ORL,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.28,0,1,.000,0,0,,0,0,1,0,1,1,0,0,0,0,0,0.7,+2,
+2025-02-27,202502270ORL,ORL,Q2,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.93,0,0,,0,0,,0,0,1,0,1,1,0,0,0,0,0,1.4,+4,
+2025-02-27,202502270ORL,ORL,Q2,Anthony Black,https://www.basketball-reference.com/boxscores/202502270ORL.html,6.72,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,+1,
+2025-02-27,202502270ORL,ORL,Q2,Jett Howard,https://www.basketball-reference.com/boxscores/202502270ORL.html,2.9,0,0,,0,0,,0,0,0,0,0,0,1,0,1,1,0,-0.4,-1,
+2025-02-27,202502270ORL,ORL,Q2,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502270ORL.html,2.9,1,2,.500,0,1,.000,0,0,1,0,1,1,0,0,0,0,2,2.4,-1,
+2025-02-27,202502270ORL,ORL,Q3,Franz Wagner,https://www.basketball-reference.com/boxscores/202502270ORL.html,9.32,4,6,.667,1,1,1.000,0,0,0,0,0,1,0,0,1,0,9,6.1,-5,
+2025-02-27,202502270ORL,ORL,Q3,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.38,2,9,.222,0,3,.000,0,1,0,0,0,0,0,0,1,1,4,-3.3,-24,.000
+2025-02-27,202502270ORL,ORL,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.38,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,-24,
+2025-02-27,202502270ORL,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.35,0,1,.000,0,0,,0,0,2,1,3,1,0,0,2,3,0,-1.5,-15,
+2025-02-27,202502270ORL,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.38,0,0,,0,0,,0,0,0,1,1,1,0,1,1,2,0,-0.1,-24,
+2025-02-27,202502270ORL,ORL,Q3,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502270ORL.html,6.65,1,1,1.000,0,0,,1,1,0,1,1,0,0,0,1,1,3,1.6,-4,1.000
+2025-02-27,202502270ORL,ORL,Q3,Anthony Black,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.62,1,3,.333,1,2,.500,0,0,1,0,1,1,1,0,0,0,3,3.7,+5,
+2025-02-27,202502270ORL,ORL,Q3,Jett Howard,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.3,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-9,
+2025-02-27,202502270ORL,ORL,Q3,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.62,1,1,1.000,0,0,,0,0,1,1,2,0,0,0,0,0,2,2.7,+5,
+2025-02-27,202502270ORL,ORL,Q4,Franz Wagner,https://www.basketball-reference.com/boxscores/202502270ORL.html,12.0,2,6,.333,0,1,.000,2,3,0,1,1,1,0,0,0,1,6,2.8,-1,.667
+2025-02-27,202502270ORL,ORL,Q4,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502270ORL.html,10.18,4,6,.667,1,2,.500,4,5,0,2,2,1,0,0,0,1,13,10.9,+4,.800
+2025-02-27,202502270ORL,ORL,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502270ORL.html,8.37,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,3,0,-2.3,+2,
+2025-02-27,202502270ORL,ORL,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502270ORL.html,7.18,1,2,.500,1,1,1.000,0,0,1,2,3,0,1,0,0,1,3,3.9,+6,
+2025-02-27,202502270ORL,ORL,Q4,Cole Anthony,https://www.basketball-reference.com/boxscores/202502270ORL.html,5.92,1,3,.333,0,0,,4,4,2,1,3,1,0,1,0,1,6,7.0,+11,1.000
+2025-02-27,202502270ORL,ORL,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.82,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,-7,
+2025-02-27,202502270ORL,ORL,Q4,Anthony Black,https://www.basketball-reference.com/boxscores/202502270ORL.html,4.82,0,3,.000,0,1,.000,0,0,0,1,1,0,1,0,0,0,0,-0.8,-7,
+2025-02-27,202502270ORL,ORL,Q4,Jett Howard,https://www.basketball-reference.com/boxscores/202502270ORL.html,3.63,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,1,1,0,-2.8,-3,
+2025-02-27,202502270ORL,ORL,Q4,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502270ORL.html,3.08,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,1,0,-0.4,-10,

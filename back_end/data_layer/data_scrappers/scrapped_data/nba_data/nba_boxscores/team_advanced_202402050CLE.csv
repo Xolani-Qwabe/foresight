@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-02-05,202402050CLE,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202402050CLE.html,35:25,.475,.475,.450,.000,2.7,11.6,6.4,4.2,2.8,2.9,13.0,28.3,83,133,-8.0
+2024-02-05,202402050CLE,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202402050CLE.html,34:02,.667,.667,.000,.000,11.3,60.4,31.5,61.3,0.0,0.0,35.7,17.9,128,138,10.1
+2024-02-05,202402050CLE,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202402050CLE.html,31:22,.556,.556,.556,.000,6.1,4.4,5.4,16.6,1.6,0.0,10.0,13.9,120,140,-1.2
+2024-02-05,202402050CLE,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202402050CLE.html,30:27,.733,.733,.667,.000,0.0,4.5,1.9,0.0,1.6,0.0,0.0,21.4,134,139,5.1
+2024-02-05,202402050CLE,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202402050CLE.html,29:35,.556,.556,.444,.000,0.0,4.6,1.9,8.9,0.0,0.0,0.0,13.2,118,143,-6.1
+2024-02-05,202402050CLE,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202402050CLE.html,23:47,.654,.667,.333,.333,4.0,17.3,9.5,7.0,0.0,0.0,12.7,28.8,110,141,-5.0
+2024-02-05,202402050CLE,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202402050CLE.html,18:44,.518,.400,.600,.800,0.0,29.3,12.1,6.8,2.6,0.0,0.0,15.7,116,135,-2.4
+2024-02-05,202402050CLE,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202402050CLE.html,9:21,.333,.333,.333,.000,0.0,0.0,0.0,40.7,0.0,0.0,0.0,14.0,112,143,-6.1
+2024-02-05,202402050CLE,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202402050CLE.html,8:48,.500,.500,.800,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.7,96,143,-11.6
+2024-02-05,202402050CLE,SAC,JaVale McGee,https://www.basketball-reference.com/boxscores/202402050CLE.html,5:33,.000,.000,.500,.000,0.0,49.4,20.3,0.0,0.0,0.0,0.0,15.7,0,138,-25.4
+2024-02-05,202402050CLE,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202402050CLE.html,3:14,.868,.750,1.000,1.000,29.7,0.0,17.5,0.0,0.0,0.0,0.0,38.8,180,144,30.0
+2024-02-05,202402050CLE,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202402050CLE.html,3:14,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,26.9,0,144,-37.9
+2024-02-05,202402050CLE,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202402050CLE.html,3:14,.000,.000,.000,2.000,29.7,0.0,17.5,0.0,0.0,0.0,0.0,25.3,39,144,-28.6
+2024-02-05,202402050CLE,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202402050CLE.html,3:14,,,,,0.0,0.0,0.0,34.5,0.0,0.0,,0.0,240,144,4.7
+2024-02-05,202402050CLE,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202402050CLE.html,32:53,.694,.675,.550,.100,0.0,5.8,3.4,20.9,3.0,0.0,0.0,29.5,142,114,6.9
+2024-02-05,202402050CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202402050CLE.html,29:34,.808,.800,.000,.400,4.6,19.5,13.4,12.8,0.0,6.6,0.0,18.4,171,113,5.9
+2024-02-05,202402050CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202402050CLE.html,27:45,.427,.417,.083,.167,4.9,45.0,28.5,28.6,3.5,3.5,0.0,21.5,121,99,3.2
+2024-02-05,202402050CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202402050CLE.html,27:36,.739,.714,.571,.143,5.0,3.5,4.1,19.7,0.0,0.0,21.2,15.9,135,121,-4.3
+2024-02-05,202402050CLE,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202402050CLE.html,26:23,.846,.846,.769,.000,5.2,14.6,10.7,10.0,3.7,0.0,0.0,22.9,159,110,13.8
+2024-02-05,202402050CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202402050CLE.html,24:44,.868,1.000,.500,1.000,0.0,0.0,0.0,0.0,4.0,4.0,25.8,14.6,106,110,-0.1
+2024-02-05,202402050CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202402050CLE.html,23:54,.618,.625,.333,.333,5.7,20.1,14.2,36.1,2.0,0.0,6.8,28.6,136,112,3.8
+2024-02-05,202402050CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202402050CLE.html,15:25,1.500,1.500,1.000,.000,0.0,31.1,18.3,13.9,0.0,0.0,0.0,6.0,276,114,12.2
+2024-02-05,202402050CLE,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202402050CLE.html,15:15,.250,.250,.750,.000,0.0,18.9,11.1,13.2,0.0,0.0,33.3,18.3,57,116,-21.0
+2024-02-05,202402050CLE,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202402050CLE.html,10:57,1.125,1.125,1.000,.000,0.0,0.0,0.0,23.2,4.5,0.0,0.0,16.9,209,112,23.4
+2024-02-05,202402050CLE,CLE,Damian Jones,https://www.basketball-reference.com/boxscores/202402050CLE.html,2:47,,,,,0.0,34.5,20.3,33.8,0.0,35.2,100.0,16.7,62,86,1.5
+2024-02-05,202402050CLE,CLE,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202402050CLE.html,2:47,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-10.6

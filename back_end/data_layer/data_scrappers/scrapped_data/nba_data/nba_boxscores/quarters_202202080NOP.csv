@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-02-08,202202080NOP,HOU,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202202080NOP.html,11.5,4,5,.800,4,5,.800,0,0,0,0,0,1,1,0,1,0,12,10.8,-3,
+2022-02-08,202202080NOP,HOU,Q1,Jalen Green,https://www.basketball-reference.com/boxscores/202202080NOP.html,9.87,0,2,.000,0,2,.000,0,0,0,1,1,2,0,0,1,0,0,-0.7,+1,
+2022-02-08,202202080NOP,HOU,Q1,Christian Wood,https://www.basketball-reference.com/boxscores/202202080NOP.html,11.5,3,7,.429,1,4,.250,2,2,2,2,4,1,1,0,0,1,9,8.6,-3,1.000
+2022-02-08,202202080NOP,HOU,Q1,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.03,1,5,.200,0,1,.000,0,0,1,1,2,0,1,0,0,1,2,0.5,+3,
+2022-02-08,202202080NOP,HOU,Q1,Alperen Şengün,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.32,2,3,.667,0,1,.000,1,2,0,2,2,1,0,1,0,0,5,5.3,+3,.500
+2022-02-08,202202080NOP,HOU,Q1,Garrison Mathews,https://www.basketball-reference.com/boxscores/202202080NOP.html,4.47,0,0,,0,0,,2,2,0,0,0,0,0,0,0,1,2,1.6,-10,1.000
+2022-02-08,202202080NOP,HOU,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.68,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-8,
+2022-02-08,202202080NOP,HOU,Q1,Josh Christopher,https://www.basketball-reference.com/boxscores/202202080NOP.html,2.13,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2022-02-08,202202080NOP,HOU,Q1,Armoni Brooks,https://www.basketball-reference.com/boxscores/202202080NOP.html,0.5,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2022-02-08,202202080NOP,HOU,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.67,1,3,.333,1,2,.500,2,3,0,0,0,2,0,0,2,0,5,2.3,-5,.667
+2022-02-08,202202080NOP,HOU,Q2,Jalen Green,https://www.basketball-reference.com/boxscores/202202080NOP.html,4.75,2,3,.667,1,2,.500,0,1,0,0,0,0,0,0,0,0,5,3.3,-5,.000
+2022-02-08,202202080NOP,HOU,Q2,Christian Wood,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.8,0,0,,0,0,,1,2,0,0,0,0,0,0,1,0,1,-0.4,0,.500
+2022-02-08,202202080NOP,HOU,Q2,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202202080NOP.html,10.37,1,2,.500,0,1,.000,0,0,0,2,2,1,1,0,0,3,2,2.1,-2,
+2022-02-08,202202080NOP,HOU,Q2,Alperen Şengün,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.98,1,1,1.000,0,0,,0,0,1,1,2,0,0,0,3,1,2,-0.7,-4,
+2022-02-08,202202080NOP,HOU,Q2,Garrison Mathews,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.88,1,3,.333,1,2,.500,3,3,0,1,1,0,0,0,0,0,6,4.6,-5,1.000
+2022-02-08,202202080NOP,HOU,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202202080NOP.html,10.25,0,5,.000,0,1,.000,0,0,2,2,4,0,0,0,0,0,0,-1.5,-2,
+2022-02-08,202202080NOP,HOU,Q2,Josh Christopher,https://www.basketball-reference.com/boxscores/202202080NOP.html,6.33,1,3,.333,0,2,.000,0,0,0,0,0,1,1,0,2,1,2,-0.4,-1,
+2022-02-08,202202080NOP,HOU,Q2,Armoni Brooks,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.97,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-6,
+2022-02-08,202202080NOP,HOU,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202202080NOP.html,10.7,2,4,.500,1,2,.500,0,0,1,0,1,1,0,0,3,4,5,-0.2,+3,
+2022-02-08,202202080NOP,HOU,Q3,Jalen Green,https://www.basketball-reference.com/boxscores/202202080NOP.html,9.77,2,4,.500,1,2,.500,0,0,0,0,0,0,1,0,0,0,5,4.0,-4,
+2022-02-08,202202080NOP,HOU,Q3,Christian Wood,https://www.basketball-reference.com/boxscores/202202080NOP.html,10.68,1,6,.167,1,2,.500,2,4,0,4,4,0,0,0,0,1,5,1.2,+3,.500
+2022-02-08,202202080NOP,HOU,Q3,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202202080NOP.html,7.57,0,0,,0,0,,3,4,1,2,3,1,1,0,1,0,3,4.6,-1,.750
+2022-02-08,202202080NOP,HOU,Q3,Alperen Şengün,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.67,1,2,.500,0,1,.000,0,0,0,2,2,0,0,1,0,2,2,1.5,-3,
+2022-02-08,202202080NOP,HOU,Q3,Garrison Mathews,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.53,0,0,,0,0,,3,4,2,0,2,2,0,0,0,1,3,5.0,+3,.750
+2022-02-08,202202080NOP,HOU,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202202080NOP.html,4.77,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,+1,
+2022-02-08,202202080NOP,HOU,Q3,Josh Christopher,https://www.basketball-reference.com/boxscores/202202080NOP.html,4.32,0,1,.000,0,0,,0,0,0,0,0,0,1,0,1,1,0,-1.1,+3,
+2022-02-08,202202080NOP,HOU,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.03,2,4,.500,1,3,.333,0,0,0,2,2,1,0,0,1,0,5,3.3,+2,
+2022-02-08,202202080NOP,HOU,Q4,Jalen Green,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.73,1,3,.333,0,1,.000,0,0,1,1,2,2,0,0,0,0,2,2.7,-1,
+2022-02-08,202202080NOP,HOU,Q4,Christian Wood,https://www.basketball-reference.com/boxscores/202202080NOP.html,6.52,1,2,.500,1,2,.500,1,2,0,1,1,0,0,1,1,1,4,2.2,+2,.500
+2022-02-08,202202080NOP,HOU,Q4,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.9,1,1,1.000,0,0,,0,0,1,1,2,1,0,0,2,1,2,1.0,+2,
+2022-02-08,202202080NOP,HOU,Q4,Alperen Şengün,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.48,1,4,.250,0,0,,0,0,1,2,3,1,0,0,1,1,2,0.2,-5,
+2022-02-08,202202080NOP,HOU,Q4,Garrison Mathews,https://www.basketball-reference.com/boxscores/202202080NOP.html,12.0,0,3,.000,0,2,.000,0,0,2,1,3,1,0,0,0,1,0,-0.1,-3,
+2022-02-08,202202080NOP,HOU,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202202080NOP.html,6.1,2,3,.667,0,0,,0,2,2,0,2,0,0,0,0,0,4,3.3,-5,.000
+2022-02-08,202202080NOP,HOU,Q4,Josh Christopher,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.97,1,4,.250,0,1,.000,0,0,1,0,1,0,0,0,0,1,2,-0.1,-5,
+2022-02-08,202202080NOP,HOU,Q4,Armoni Brooks,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.27,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-2,
+2022-02-08,202202080NOP,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202202080NOP.html,10.5,2,5,.400,0,2,.000,6,6,0,2,2,1,0,0,1,1,10,7.2,+3,1.000
+2022-02-08,202202080NOP,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202202080NOP.html,9.87,4,5,.800,0,0,,0,0,0,0,0,0,0,1,1,0,8,5.8,-1,
+2022-02-08,202202080NOP,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202202080NOP.html,7.53,0,0,,0,0,,0,0,0,2,2,1,0,0,0,0,0,1.3,-5,
+2022-02-08,202202080NOP,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202202080NOP.html,7.53,0,2,.000,0,2,.000,0,0,0,0,0,2,0,0,0,1,0,-0.4,-5,
+2022-02-08,202202080NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202202080NOP.html,7.53,2,3,.667,0,0,,0,0,1,2,3,0,0,0,0,1,4,3.6,-5,
+2022-02-08,202202080NOP,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202202080NOP.html,2.13,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.7,+6,
+2022-02-08,202202080NOP,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202202080NOP.html,4.47,2,2,1.000,0,0,,0,0,0,1,1,1,1,0,1,1,4,4.0,+10,
+2022-02-08,202202080NOP,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202202080NOP.html,4.47,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+10,
+2022-02-08,202202080NOP,NOP,Q1,Gary Clark,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.97,1,1,1.000,1,1,1.000,0,0,0,3,3,2,0,0,0,0,3,5.0,+12,
+2022-02-08,202202080NOP,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.83,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,2,0,-2.2,+2,
+2022-02-08,202202080NOP,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202202080NOP.html,6.73,3,3,1.000,1,1,1.000,1,1,0,1,1,0,0,0,3,0,8,4.4,+3,1.000
+2022-02-08,202202080NOP,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.03,2,4,.500,0,2,.000,0,0,0,1,1,1,1,0,2,1,4,1.6,0,
+2022-02-08,202202080NOP,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.03,2,2,1.000,2,2,1.000,0,0,0,1,1,2,1,0,0,0,6,8.1,0,
+2022-02-08,202202080NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202202080NOP.html,7.65,1,1,1.000,0,0,,1,1,0,3,3,2,0,0,2,1,3,2.6,+4,1.000
+2022-02-08,202202080NOP,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.27,1,3,.333,0,1,.000,0,0,0,1,1,1,1,0,1,1,2,0.9,+3,
+2022-02-08,202202080NOP,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.97,2,3,.667,0,1,.000,2,2,0,0,0,0,0,0,0,1,6,4.3,+6,1.000
+2022-02-08,202202080NOP,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.97,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+6,
+2022-02-08,202202080NOP,NOP,Q2,Gary Clark,https://www.basketball-reference.com/boxscores/202202080NOP.html,6.97,0,0,,0,0,,0,0,0,1,1,0,0,2,0,1,0,1.3,+7,
+2022-02-08,202202080NOP,NOP,Q2,Garrett Temple,https://www.basketball-reference.com/boxscores/202202080NOP.html,3.55,0,0,,0,0,,0,0,0,0,0,0,0,1,0,1,0,0.3,-1,
+2022-02-08,202202080NOP,NOP,Q3,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202202080NOP.html,7.92,1,1,1.000,0,0,,0,0,0,1,1,0,0,1,0,1,2,2.3,-1,
+2022-02-08,202202080NOP,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202202080NOP.html,12.0,3,6,.500,0,1,.000,2,3,0,1,1,1,0,2,0,1,8,6.6,-1,.667
+2022-02-08,202202080NOP,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202202080NOP.html,7.25,0,2,.000,0,1,.000,0,0,2,3,5,1,1,0,1,2,0,0.8,0,
+2022-02-08,202202080NOP,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202202080NOP.html,6.7,1,4,.250,1,4,.250,0,0,0,0,0,1,0,0,0,1,3,0.9,0,
+2022-02-08,202202080NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.47,2,3,.667,0,1,.000,2,2,0,2,2,1,0,1,2,3,6,3.5,+2,1.000
+2022-02-08,202202080NOP,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202202080NOP.html,2.13,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2022-02-08,202202080NOP,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.3,1,1,1.000,0,0,,0,0,0,0,0,2,0,0,2,0,2,1.1,-1,
+2022-02-08,202202080NOP,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202202080NOP.html,4.77,0,1,.000,0,1,.000,1,2,0,1,1,0,0,0,0,1,1,-0.2,-1,.500
+2022-02-08,202202080NOP,NOP,Q3,Gary Clark,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.47,0,3,.000,0,3,.000,0,0,2,0,2,0,1,0,0,1,0,-0.1,-4,
+2022-02-08,202202080NOP,NOP,Q4,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202202080NOP.html,11.68,1,2,.500,0,0,,0,0,0,3,3,2,1,0,0,1,2,3.9,+3,
+2022-02-08,202202080NOP,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.75,1,3,.333,0,1,.000,0,0,0,0,0,1,0,0,1,2,2,-0.8,-2,
+2022-02-08,202202080NOP,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202202080NOP.html,8.48,3,5,.600,0,0,,0,0,3,0,3,0,1,0,0,1,6,6.4,0,
+2022-02-08,202202080NOP,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202202080NOP.html,6.92,0,1,.000,0,1,.000,0,0,0,1,1,3,0,0,0,0,0,1.7,+7,
+2022-02-08,202202080NOP,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202202080NOP.html,0.32,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,0,
+2022-02-08,202202080NOP,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202202080NOP.html,10.68,4,7,.571,1,2,.500,0,0,0,1,1,0,1,1,0,2,9,6.9,+6,
+2022-02-08,202202080NOP,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.08,0,0,,0,0,,0,0,0,1,1,0,1,0,0,0,0,1.3,-4,
+2022-02-08,202202080NOP,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.6,1,4,.250,0,2,.000,3,3,0,1,1,0,0,1,0,0,5,3.6,0,1.000
+2022-02-08,202202080NOP,NOP,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/202202080NOP.html,5.48,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+5,

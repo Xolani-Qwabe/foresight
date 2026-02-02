@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-28,202210280POR,HOU,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202210280POR.html,34:32,.494,.464,.357,.357,8.9,11.3,9.9,17.6,4.1,2.5,23.6,24.9,91,121,-3.6
+2022-10-28,202210280POR,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202210280POR.html,33:16,.827,.800,.700,.200,0.0,11.7,5.2,23.0,1.4,2.6,31.5,19.4,115,126,1.1
+2022-10-28,202210280POR,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202210280POR.html,32:13,.432,.385,.385,.154,0.0,8.1,3.5,4.4,1.5,2.7,6.7,18.7,91,127,-10.1
+2022-10-28,202210280POR,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202210280POR.html,31:31,.277,.263,.526,.105,0.0,24.7,10.9,9.0,1.5,0.0,4.8,26.9,66,125,-16.4
+2022-10-28,202210280POR,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202210280POR.html,25:31,.563,.542,.083,.083,24.0,25.4,24.6,6.6,0.0,10.3,7.4,21.4,125,122,-0.2
+2022-10-28,202210280POR,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202210280POR.html,17:47,.461,.375,.375,.500,11.5,7.3,9.6,50.8,5.4,0.0,9.3,24.6,119,120,1.7
+2022-10-28,202210280POR,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202210280POR.html,16:37,.799,.750,.167,.333,6.1,23.4,13.8,0.0,0.0,0.0,0.0,16.8,167,129,3.3
+2022-10-28,202210280POR,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202210280POR.html,15:18,.500,.500,.000,.000,6.7,17.0,11.2,0.0,3.1,0.0,0.0,10.6,115,123,-6.4
+2022-10-28,202210280POR,HOU,Garrison Mathews,https://www.basketball-reference.com/boxscores/202210280POR.html,13:44,.452,.000,1.000,1.500,0.0,9.4,4.2,17.5,0.0,0.0,0.0,9.8,130,132,-7.6
+2022-10-28,202210280POR,HOU,Daishen Nix,https://www.basketball-reference.com/boxscores/202210280POR.html,13:28,1.125,1.125,1.000,.000,0.0,0.0,0.0,24.3,3.5,0.0,0.0,12.1,221,126,17.3
+2022-10-28,202210280POR,HOU,Usman Garuba,https://www.basketball-reference.com/boxscores/202210280POR.html,5:05,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,200,134,-2.6
+2022-10-28,202210280POR,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202210280POR.html,0:58,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,84.0,96,134,-12.5
+2022-10-28,202210280POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202210280POR.html,37:51,.704,.675,.750,.150,3.4,10.8,7.5,25.1,1.3,2.3,12.3,27.1,135,113,6.3
+2022-10-28,202210280POR,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202210280POR.html,35:01,.588,.545,.545,.364,3.7,11.7,8.2,13.3,2.7,2.4,19.0,19.0,111,110,-2.1
+2022-10-28,202210280POR,POR,Josh Hart,https://www.basketball-reference.com/boxscores/202210280POR.html,33:48,.483,.375,.250,.375,7.7,18.1,13.5,13.0,0.0,0.0,9.7,12.9,121,115,-5.9
+2022-10-28,202210280POR,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202210280POR.html,32:12,.755,.735,.059,.118,12.1,38.1,26.6,5.0,1.5,8.0,18.3,28.7,123,99,3.6
+2022-10-28,202210280POR,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202210280POR.html,29:26,.583,.583,.167,.000,4.4,0.0,1.9,8.9,0.0,0.0,0.0,17.2,131,121,-7.3
+2022-10-28,202210280POR,POR,Justise Winslow,https://www.basketball-reference.com/boxscores/202210280POR.html,24:11,.451,.417,.333,.667,10.7,16.9,14.2,31.6,5.9,3.5,27.9,18.8,105,100,6.0
+2022-10-28,202210280POR,POR,Keon Johnson,https://www.basketball-reference.com/boxscores/202210280POR.html,16:48,.508,.500,.571,.286,0.0,6.1,3.4,7.2,5.7,0.0,0.0,19.8,115,106,-1.8
+2022-10-28,202210280POR,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202210280POR.html,15:09,.500,.500,.667,.000,0.0,20.2,11.3,21.2,0.0,0.0,25.0,11.1,108,114,-3.6
+2022-10-28,202210280POR,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202210280POR.html,13:38,1.025,1.000,.000,.500,9.5,0.0,4.2,10.4,0.0,0.0,0.0,15.1,215,121,3.6
+2022-10-28,202210280POR,POR,Greg Brown III,https://www.basketball-reference.com/boxscores/202210280POR.html,0:58,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.6,200,122,27.6
+2022-10-28,202210280POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202210280POR.html,0:58,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.6,0,122,-56.7

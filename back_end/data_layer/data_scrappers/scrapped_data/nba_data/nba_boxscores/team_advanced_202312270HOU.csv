@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-27,202312270HOU,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202312270HOU.html,41:05,.692,.656,.438,.500,0.0,26.0,15.2,51.2,2.3,2.1,13.3,23.4,147,107,15.5
+2023-12-27,202312270HOU,PHO,Eric Gordon,https://www.basketball-reference.com/boxscores/202312270HOU.html,39:24,.900,.900,.733,.000,0.0,0.0,0.0,3.5,0.0,6.6,0.0,16.3,175,116,11.6
+2023-12-27,202312270HOU,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202312270HOU.html,35:47,.514,.500,.316,.053,4.2,8.9,7.0,26.9,2.6,0.0,17.1,28.0,105,112,-4.1
+2023-12-27,202312270HOU,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202312270HOU.html,33:04,.913,.857,.571,.571,4.5,9.7,7.5,11.0,0.0,2.6,25.5,15.2,141,117,3.4
+2023-12-27,202312270HOU,PHO,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202312270HOU.html,14:04,.581,.583,.167,.333,10.7,68.2,44.3,0.0,0.0,12.4,30.4,30.0,82,93,-8.5
+2023-12-27,202312270HOU,PHO,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202312270HOU.html,18:56,.661,.714,.000,.429,23.8,11.3,16.5,0.0,0.0,9.2,0.0,18.8,145,111,-0.8
+2023-12-27,202312270HOU,PHO,Chimezie Metu,https://www.basketball-reference.com/boxscores/202312270HOU.html,16:13,1.064,1.000,.000,2.000,9.2,6.6,7.7,0.0,0.0,0.0,61.5,12.8,85,119,-7.6
+2023-12-27,202312270HOU,PHO,Nassir Little,https://www.basketball-reference.com/boxscores/202312270HOU.html,16:12,.543,.500,.500,.167,0.0,39.5,23.1,0.0,0.0,0.0,13.4,19.6,95,110,-7.9
+2023-12-27,202312270HOU,PHO,Saben Lee,https://www.basketball-reference.com/boxscores/202312270HOU.html,12:13,1.071,1.000,.000,2.500,0.0,17.5,10.2,10.0,0.0,0.0,32.3,21.7,146,116,2.4
+2023-12-27,202312270HOU,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202312270HOU.html,9:50,.000,.000,.500,.000,15.3,0.0,6.3,0.0,0.0,0.0,0.0,8.7,47,121,-14.2
+2023-12-27,202312270HOU,PHO,Bol Bol,https://www.basketball-reference.com/boxscores/202312270HOU.html,1:36,,,,,0.0,0.0,0.0,0.0,0.0,100.0,,0.0,0,41,36.7
+2023-12-27,202312270HOU,PHO,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202312270HOU.html,1:36,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.7,0,121,-35.9
+2023-12-27,202312270HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202312270HOU.html,29:08,.421,.409,.273,.182,3.7,5.1,4.3,29.6,0.0,0.0,7.8,18.5,105,134,-7.2
+2023-12-27,202312270HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202312270HOU.html,28:34,.581,.528,.222,.333,3.7,21.0,10.9,6.8,3.3,0.0,0.0,30.2,124,124,4.6
+2023-12-27,202312270HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202312270HOU.html,25:38,.551,.550,.600,.100,4.2,23.4,12.2,22.5,1.8,0.0,8.7,37.4,107,127,6.6
+2023-12-27,202312270HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202312270HOU.html,23:57,1.167,1.167,.333,.000,4.5,6.3,5.2,5.9,2.0,0.0,0.0,5.2,234,129,1.6
+2023-12-27,202312270HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202312270HOU.html,22:12,.666,.500,.600,.800,0.0,20.3,8.4,0.0,4.2,0.0,12.9,14.6,120,122,-0.9
+2023-12-27,202312270HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202312270HOU.html,25:26,.436,.417,.667,.333,0.0,17.7,7.4,10.4,9.3,0.0,12.7,13.0,89,111,1.9
+2023-12-27,202312270HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202312270HOU.html,24:09,.468,.423,.615,.154,0.0,12.4,5.2,12.4,0.0,0.0,12.6,27.5,90,133,-9.1
+2023-12-27,202312270HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202312270HOU.html,17:50,.761,.786,.571,.286,0.0,8.4,3.5,0.0,0.0,5.5,11.3,20.8,125,130,2.7
+2023-12-27,202312270HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202312270HOU.html,17:05,.167,.167,.167,.000,12.5,17.6,14.6,22.7,0.0,5.7,0.0,14.7,82,128,-7.8
+2023-12-27,202312270HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202312270HOU.html,12:00,.512,.500,.000,.500,26.7,25.0,26.0,0.0,0.0,0.0,0.0,17.0,130,131,-6.1
+2023-12-27,202312270HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202312270HOU.html,7:26,.333,.333,.333,.000,0.0,20.2,8.4,19.3,0.0,13.2,25.0,22.5,63,123,-11.9
+2023-12-27,202312270HOU,HOU,Reggie Bullock,https://www.basketball-reference.com/boxscores/202312270HOU.html,6:35,,,,,0.0,0.0,0.0,18.2,0.0,0.0,,0.0,243,135,-2.8

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-05,202401050NOP,LAC,Paul George,https://www.basketball-reference.com/boxscores/202401050NOP.html,29:39,.800,.800,.667,.000,0.0,21.0,12.2,6.4,0.0,2.6,11.8,26.3,126,102,10.4
+2024-01-05,202401050NOP,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202401050NOP.html,29:35,.567,.533,.267,.267,8.3,21.0,15.7,11.3,1.7,2.6,10.7,29.0,111,98,3.5
+2024-01-05,202401050NOP,LAC,James Harden,https://www.basketball-reference.com/boxscores/202401050NOP.html,29:00,.481,.357,.857,.429,0.0,9.2,5.3,58.6,0.0,0.0,10.7,14.7,142,110,4.7
+2024-01-05,202401050NOP,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202401050NOP.html,23:25,.856,.857,.000,.571,0.0,30.4,17.6,14.8,0.0,6.5,10.2,19.1,154,94,11.0
+2024-01-05,202401050NOP,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202401050NOP.html,16:33,1.031,1.000,1.000,.667,7.4,10.7,9.4,8.5,3.1,0.0,0.0,10.7,209,102,12.9
+2024-01-05,202401050NOP,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202401050NOP.html,25:00,.500,.500,.462,.000,0.0,10.7,6.2,12.6,2.1,0.0,0.0,23.8,110,104,0.8
+2024-01-05,202401050NOP,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202401050NOP.html,21:52,.581,.583,.500,.333,11.3,12.2,11.8,32.8,4.7,7.0,36.8,22.8,98,93,7.6
+2024-01-05,202401050NOP,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202401050NOP.html,20:54,.500,.500,.500,.000,5.9,8.5,7.4,0.0,2.5,0.0,33.3,13.1,71,104,-7.2
+2024-01-05,202401050NOP,LAC,Daniel Theis,https://www.basketball-reference.com/boxscores/202401050NOP.html,17:24,.333,.333,.333,.000,14.1,15.3,14.8,0.0,0.0,0.0,25.0,10.5,80,107,-10.1
+2024-01-05,202401050NOP,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202401050NOP.html,7:11,.952,1.000,.000,2.500,17.1,12.4,14.4,0.0,0.0,0.0,0.0,26.8,203,108,16.0
+2024-01-05,202401050NOP,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202401050NOP.html,6:29,.333,.333,.000,.000,19.0,13.7,15.9,22.7,0.0,0.0,25.0,28.3,79,107,-13.7
+2024-01-05,202401050NOP,LAC,Kobe Brown,https://www.basketball-reference.com/boxscores/202401050NOP.html,6:29,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.1,0,115,-12.4
+2024-01-05,202401050NOP,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202401050NOP.html,6:29,.000,.000,.000,.000,0.0,0.0,0.0,18.5,0.0,11.8,0.0,21.2,27,106,-16.3
+2024-01-05,202401050NOP,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202401050NOP.html,31:11,.462,.462,.692,.000,2.9,19.7,9.9,17.2,1.7,0.0,7.1,19.4,98,120,-1.7
+2024-01-05,202401050NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202401050NOP.html,30:28,.497,.333,.111,.778,0.0,4.0,1.7,22.3,0.0,0.0,14.2,20.0,102,128,-6.7
+2024-01-05,202401050NOP,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202401050NOP.html,25:15,.654,.583,.333,.333,0.0,0.0,0.0,13.9,2.0,4.1,0.0,11.8,144,122,3.2
+2024-01-05,202401050NOP,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202401050NOP.html,22:37,.542,.542,.083,.000,15.7,38.1,25.1,10.5,0.0,4.6,20.0,28.6,93,116,-2.2
+2024-01-05,202401050NOP,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202401050NOP.html,19:25,.479,.333,.000,.889,9.2,25.4,15.9,9.7,2.7,5.4,7.4,30.1,105,113,2.0
+2024-01-05,202401050NOP,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202401050NOP.html,26:12,.205,.250,.250,.500,0.0,14.1,5.9,17.6,7.9,0.0,0.0,8.0,71,107,0.3
+2024-01-05,202401050NOP,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202401050NOP.html,18:54,.583,.583,.333,.000,14.1,19.5,16.4,20.0,2.7,0.0,0.0,13.7,141,118,7.6
+2024-01-05,202401050NOP,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202401050NOP.html,18:41,.143,.143,.286,.000,0.0,6.6,2.8,16.9,0.0,5.6,0.0,16.2,49,124,-11.8
+2024-01-05,202401050NOP,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202401050NOP.html,17:28,.500,.500,.111,.000,15.3,0.0,8.9,12.5,3.0,0.0,18.2,27.2,92,122,-2.8
+2024-01-05,202401050NOP,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202401050NOP.html,16:51,.167,.167,.667,.000,0.0,14.6,6.1,9.4,0.0,6.2,0.0,23.1,45,122,-13.3
+2024-01-05,202401050NOP,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202401050NOP.html,6:29,.825,.786,.429,.286,0.0,19.0,8.0,0.0,0.0,0.0,0.0,52.5,156,124,46.6
+2024-01-05,202401050NOP,NOP,Cody Zeller,https://www.basketball-reference.com/boxscores/202401050NOP.html,6:29,.266,.000,1.000,2.000,13.7,38.0,23.9,44.9,0.0,0.0,0.0,12.5,114,118,-1.9

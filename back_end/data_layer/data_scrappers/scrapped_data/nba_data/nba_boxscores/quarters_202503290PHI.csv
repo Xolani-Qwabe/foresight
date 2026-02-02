@@ -1,0 +1,68 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-03-29,202503290PHI,MIA,Q1,Tyler Herro,https://www.basketball-reference.com/boxscores/202503290PHI.html,8.43,3,6,.500,2,4,.500,2,2,1.000,2,0,2,3,0,0,1,1,10,9.1,+2
+2025-03-29,202503290PHI,MIA,Q1,Kel'el Ware,https://www.basketball-reference.com/boxscores/202503290PHI.html,7.27,1,1,1.000,0,0,,0,0,,1,3,4,0,0,0,0,0,2,3.3,+2
+2025-03-29,202503290PHI,MIA,Q1,Pelle Larsson,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,2,3,.667,1,1,1.000,1,2,.500,0,1,1,1,1,0,0,1,6,5.9,+6
+2025-03-29,202503290PHI,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,1,2,.500,1,1,1.000,3,3,1.000,0,2,2,1,0,0,0,1,6,5.9,+6
+2025-03-29,202503290PHI,MIA,Q1,Alec Burks,https://www.basketball-reference.com/boxscores/202503290PHI.html,7.88,3,4,.750,2,3,.667,0,0,,0,0,0,0,0,0,0,1,8,6.0,+2
+2025-03-29,202503290PHI,MIA,Q1,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.73,0,1,.000,0,1,.000,0,0,,1,1,2,2,2,0,0,0,0,3.7,+2
+2025-03-29,202503290PHI,MIA,Q1,Davion Mitchell,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.57,1,2,.500,0,1,.000,0,0,,0,0,0,2,0,0,2,0,2,0.4,+2
+2025-03-29,202503290PHI,MIA,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202503290PHI.html,4.12,0,1,.000,0,0,,0,0,,0,1,1,0,1,0,0,1,0,0.2,+3
+2025-03-29,202503290PHI,MIA,Q2,Tyler Herro,https://www.basketball-reference.com/boxscores/202503290PHI.html,8.9,3,3,1.000,0,0,,1,1,1.000,0,0,0,1,0,0,0,0,7,6.8,+4
+2025-03-29,202503290PHI,MIA,Q2,Kel'el Ware,https://www.basketball-reference.com/boxscores/202503290PHI.html,7.03,4,4,1.000,1,1,1.000,0,0,,3,1,4,1,1,0,0,1,9,11.5,+3
+2025-03-29,202503290PHI,MIA,Q2,Pelle Larsson,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.0,1,3,.333,0,0,,0,0,,1,0,1,1,2,2,0,1,2,4.7,+5
+2025-03-29,202503290PHI,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.0,0,4,.000,0,0,,1,2,.500,0,1,1,2,0,0,1,0,1,-1.5,+5
+2025-03-29,202503290PHI,MIA,Q2,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.97,2,4,.500,1,3,.333,0,0,,0,3,3,0,0,0,0,1,5,3.5,0
+2025-03-29,202503290PHI,MIA,Q2,Davion Mitchell,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.97,1,3,.333,1,3,.333,1,2,.500,0,1,1,1,1,0,1,1,4,2.5,0
+2025-03-29,202503290PHI,MIA,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.0,0,4,.000,0,0,,0,0,,1,1,2,0,0,0,1,0,0,-2.8,-1
+2025-03-29,202503290PHI,MIA,Q2,Terry Rozier,https://www.basketball-reference.com/boxscores/202503290PHI.html,4.13,0,2,.000,0,1,.000,0,0,,1,0,1,1,0,0,0,0,0,0.0,+4
+2025-03-29,202503290PHI,MIA,Q3,Tyler Herro,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.23,2,3,.667,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,5,3.7,-4
+2025-03-29,202503290PHI,MIA,Q3,Kel'el Ware,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.23,0,0,,0,0,,0,0,,0,1,1,0,0,2,0,0,0,1.7,-4
+2025-03-29,202503290PHI,MIA,Q3,Pelle Larsson,https://www.basketball-reference.com/boxscores/202503290PHI.html,12.0,1,3,.333,0,0,,1,1,1.000,2,2,4,2,1,0,1,0,3,4.7,+12
+2025-03-29,202503290PHI,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/202503290PHI.html,12.0,4,8,.500,1,1,1.000,0,0,,2,2,4,2,0,0,0,0,9,8.4,+12
+2025-03-29,202503290PHI,MIA,Q3,Alec Burks,https://www.basketball-reference.com/boxscores/202503290PHI.html,12.0,4,9,.444,4,9,.444,0,0,,1,2,3,0,1,0,0,1,12,9.2,+12
+2025-03-29,202503290PHI,MIA,Q3,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.77,2,3,.667,1,2,.500,0,0,,0,0,0,1,0,0,0,0,5,4.4,+16
+2025-03-29,202503290PHI,MIA,Q3,Davion Mitchell,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.77,0,1,.000,0,0,,0,0,,0,0,0,5,0,0,0,0,0,2.8,+16
+2025-03-29,202503290PHI,MIA,Q4,Tyler Herro,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,3,5,.600,2,4,.500,0,0,,0,1,1,3,0,0,1,0,8,7.1,0
+2025-03-29,202503290PHI,MIA,Q4,Kel'el Ware,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,1,1,1.000,0,0,,0,0,,0,5,5,1,0,0,0,0,2,3.9,0
+2025-03-29,202503290PHI,MIA,Q4,Pelle Larsson,https://www.basketball-reference.com/boxscores/202503290PHI.html,2.0,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,1.6,+2
+2025-03-29,202503290PHI,MIA,Q4,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,1,1,3,1.6,0
+2025-03-29,202503290PHI,MIA,Q4,Davion Mitchell,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,1,0,-0.8,0
+2025-03-29,202503290PHI,MIA,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,3,6,.500,0,2,.000,0,0,,1,0,1,2,0,0,0,0,6,5.1,0
+2025-03-29,202503290PHI,MIA,Q4,Josh Christopher,https://www.basketball-reference.com/boxscores/202503290PHI.html,2.0,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+2
+2025-03-29,202503290PHI,MIA,Q4,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202503290PHI.html,2.0,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2
+2025-03-29,202503290PHI,MIA,Q4,Keshad Johnson,https://www.basketball-reference.com/boxscores/202503290PHI.html,2.0,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2
+2025-03-29,202503290PHI,MIA,Q4,Isaiah Stevens,https://www.basketball-reference.com/boxscores/202503290PHI.html,2.0,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,+2
+2025-03-29,202503290PHI,PHI,Q1,Justin Edwards,https://www.basketball-reference.com/boxscores/202503290PHI.html,10.0,1,3,.333,1,2,.500,0,0,,0,0,0,3,2,0,1,1,3,4.0,-6
+2025-03-29,202503290PHI,PHI,Q1,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503290PHI.html,12.0,4,6,.667,3,4,.750,0,1,.000,1,1,2,1,0,0,2,2,11,6.9,-5
+2025-03-29,202503290PHI,PHI,Q1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503290PHI.html,7.88,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-2
+2025-03-29,202503290PHI,PHI,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202503290PHI.html,7.88,2,4,.500,2,2,1.000,0,2,.000,0,0,0,3,0,0,0,1,6,4.9,-2
+2025-03-29,202503290PHI,PHI,Q1,Adem Bona,https://www.basketball-reference.com/boxscores/202503290PHI.html,9.38,2,2,1.000,0,0,,0,0,,0,1,1,1,1,1,0,0,4,6.1,-6
+2025-03-29,202503290PHI,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.73,2,5,.400,0,3,.000,1,1,1.000,0,2,2,1,0,0,0,0,5,3.6,-2
+2025-03-29,202503290PHI,PHI,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,2.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2025-03-29,202503290PHI,PHI,Q1,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503290PHI.html,4.12,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-3
+2025-03-29,202503290PHI,PHI,Q2,Justin Edwards,https://www.basketball-reference.com/boxscores/202503290PHI.html,8.75,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,1,2,2.0,-6
+2025-03-29,202503290PHI,PHI,Q2,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.0,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-3.1,-5
+2025-03-29,202503290PHI,PHI,Q2,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503290PHI.html,7.45,0,1,.000,0,1,.000,1,4,.250,0,1,1,0,0,1,1,1,1,-1.3,-9
+2025-03-29,202503290PHI,PHI,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202503290PHI.html,8.68,1,2,.500,0,0,,1,1,1.000,0,2,2,3,1,0,1,1,3,4.3,+1
+2025-03-29,202503290PHI,PHI,Q2,Adem Bona,https://www.basketball-reference.com/boxscores/202503290PHI.html,4.55,2,2,1.000,0,0,,0,0,,0,1,1,0,0,1,1,0,4,3.4,+5
+2025-03-29,202503290PHI,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.0,3,4,.750,0,0,,1,1,1.000,0,1,1,1,0,0,0,0,7,6.4,+1
+2025-03-29,202503290PHI,PHI,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,9.25,2,4,.500,1,3,.333,0,0,,0,1,1,1,1,0,0,0,5,5.0,+3
+2025-03-29,202503290PHI,PHI,Q2,Marcus Bagley,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.0,1,2,.500,0,1,.000,0,0,,0,4,4,0,0,0,1,0,2,1.2,-5
+2025-03-29,202503290PHI,PHI,Q2,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503290PHI.html,3.32,0,0,,0,0,,0,0,,0,0,0,2,0,0,1,1,0,0.0,-5
+2025-03-29,202503290PHI,PHI,Q3,Justin Edwards,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.32,1,2,.500,0,0,,1,2,.500,0,0,0,0,0,0,1,2,3,-0.2,-1
+2025-03-29,202503290PHI,PHI,Q3,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503290PHI.html,12.0,2,5,.400,0,2,.000,0,0,,0,2,2,2,0,0,0,0,4,3.3,-12
+2025-03-29,202503290PHI,PHI,Q3,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503290PHI.html,9.08,0,0,,0,0,,0,0,,1,1,2,1,0,0,0,0,0,1.7,-5
+2025-03-29,202503290PHI,PHI,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.85,3,4,.750,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,7,6.1,+4
+2025-03-29,202503290PHI,PHI,Q3,Adem Bona,https://www.basketball-reference.com/boxscores/202503290PHI.html,9.15,3,4,.750,0,0,,0,0,,2,3,5,0,0,0,2,1,6,4.3,-3
+2025-03-29,202503290PHI,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,8.07,0,2,.000,0,1,.000,0,0,,0,2,2,1,0,0,0,0,0,-0.1,-15
+2025-03-29,202503290PHI,PHI,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,3.77,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-12
+2025-03-29,202503290PHI,PHI,Q3,Marcus Bagley,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.77,0,0,,0,0,,0,0,,0,0,0,0,0,2,0,1,0,1.0,-16
+2025-03-29,202503290PHI,PHI,Q4,Justin Edwards,https://www.basketball-reference.com/boxscores/202503290PHI.html,11.4,3,4,.750,3,4,.750,0,0,,0,2,2,0,0,0,1,0,9,7.0,-3
+2025-03-29,202503290PHI,PHI,Q4,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.52,0,0,,0,0,,0,0,,0,1,1,2,1,0,0,0,0,2.7,-1
+2025-03-29,202503290PHI,PHI,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.48,1,2,.500,1,1,1.000,0,0,,0,0,0,3,0,0,1,1,3,2.7,-1
+2025-03-29,202503290PHI,PHI,Q4,Adem Bona,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.48,1,1,1.000,0,0,,0,0,,0,3,3,0,0,1,0,1,2,2.9,-1
+2025-03-29,202503290PHI,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.48,0,1,.000,0,0,,1,2,.500,0,1,1,1,0,0,2,0,1,-1.1,-1
+2025-03-29,202503290PHI,PHI,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.52,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,0,3,2.7,-1
+2025-03-29,202503290PHI,PHI,Q4,Marcus Bagley,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.48,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,1,0,0,0,1.3,-1
+2025-03-29,202503290PHI,PHI,Q4,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503290PHI.html,5.52,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-1
+2025-03-29,202503290PHI,PHI,Q4,Phillip Wheeler,https://www.basketball-reference.com/boxscores/202503290PHI.html,6.12,0,3,.000,0,1,.000,0,0,,1,0,1,0,0,0,1,0,0,-2.4,0

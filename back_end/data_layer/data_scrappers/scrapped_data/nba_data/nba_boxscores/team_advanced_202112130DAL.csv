@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-13,202112130DAL,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202112130DAL.html,33:18,.635,.643,.429,.286,2.7,12.7,6.6,12.8,1.7,3.4,6.0,23.1,126,145,1.6
+2021-12-13,202112130DAL,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202112130DAL.html,30:14,.723,.700,.500,.400,5.9,18.7,10.8,36.6,0.0,0.0,0.0,17.9,168,148,11.5
+2021-12-13,202112130DAL,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202112130DAL.html,30:13,.500,.500,.800,.000,0.0,9.3,3.6,20.6,3.8,0.0,28.6,10.6,93,142,-5.9
+2021-12-13,202112130DAL,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202112130DAL.html,27:50,.274,.182,.182,.364,12.8,30.4,19.6,16.9,2.1,4.1,7.3,22.7,86,136,-9.8
+2021-12-13,202112130DAL,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202112130DAL.html,3:22,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.6,0,156,-26.9
+2021-12-13,202112130DAL,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202112130DAL.html,35:43,.581,.600,.600,.333,2.5,7.9,4.6,21.9,1.6,0.0,5.5,23.4,123,148,-0.2
+2021-12-13,202112130DAL,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202112130DAL.html,28:09,.442,.417,.250,.083,9.5,5.0,7.8,6.7,0.0,0.0,0.0,20.3,111,153,-12.1
+2021-12-13,202112130DAL,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202112130DAL.html,23:10,.440,.385,.462,.308,19.2,6.1,14.1,0.0,0.0,0.0,11.9,33.2,97,153,-10.6
+2021-12-13,202112130DAL,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202112130DAL.html,17:46,.200,.200,.400,.000,10.0,0.0,6.1,8.6,6.5,0.0,16.7,15.5,64,139,-14.6
+2021-12-13,202112130DAL,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202112130DAL.html,5:52,,,,,0.0,24.1,9.3,24.1,0.0,0.0,,0.0,238,146,-3.4
+2021-12-13,202112130DAL,CHO,Scottie Lewis,https://www.basketball-reference.com/boxscores/202112130DAL.html,4:23,.568,,,,0.0,0.0,0.0,0.0,13.2,0.0,0.0,9.2,122,123,5.2
+2021-12-13,202112130DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202112130DAL.html,33:07,.827,.800,.800,.200,0.0,10.7,6.6,7.5,1.7,0.0,0.0,7.9,188,116,1.4
+2021-12-13,202112130DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202112130DAL.html,32:45,.682,.682,.455,.000,12.9,2.7,6.7,8.6,0.0,3.0,8.3,17.7,148,123,-0.6
+2021-12-13,202112130DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202112130DAL.html,25:17,.601,.531,.500,.563,22.3,31.6,28.0,0.0,0.0,19.4,0.0,38.1,147,97,9.0
+2021-12-13,202112130DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202112130DAL.html,25:16,.707,.571,.143,.714,0.0,7.0,4.3,42.9,2.3,0.0,9.8,19.5,167,117,6.0
+2021-12-13,202112130DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202112130DAL.html,7:51,.000,.000,.000,.000,18.0,11.3,13.9,0.0,0.0,0.0,50.0,12.3,39,119,-23.6
+2021-12-13,202112130DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202112130DAL.html,29:26,.500,.500,1.000,.000,9.6,18.1,14.8,11.8,0.0,3.3,25.0,6.6,135,114,-0.7
+2021-12-13,202112130DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202112130DAL.html,27:02,.559,.559,.647,.000,0.0,3.3,2.0,23.2,0.0,0.0,0.0,30.3,142,124,-1.7
+2021-12-13,202112130DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202112130DAL.html,22:44,.786,.786,.500,.000,0.0,11.7,7.2,52.8,2.5,0.0,12.5,34.0,152,114,15.6
+2021-12-13,202112130DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202112130DAL.html,21:13,1.167,1.167,.333,.000,13.3,16.8,15.4,12.5,0.0,4.6,40.0,11.4,139,114,5.0
+2021-12-13,202112130DAL,DAL,Moses Brown,https://www.basketball-reference.com/boxscores/202112130DAL.html,8:57,.515,.333,.000,.667,31.5,39.7,36.6,0.0,0.0,0.0,0.0,20.9,150,102,-4.5
+2021-12-13,202112130DAL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202112130DAL.html,3:11,.667,.667,.333,.000,0.0,27.9,17.1,0.0,0.0,0.0,25.0,60.6,88,110,-12.8
+2021-12-13,202112130DAL,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202112130DAL.html,3:11,,,,,0.0,0.0,0.0,35.1,18.1,0.0,,0.0,244,84,19.6

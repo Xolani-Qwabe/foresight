@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-24,202210240MEM,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202210240MEM.html,39:01,.772,.725,.150,.450,3.5,12.9,8.4,16.5,0.0,0.0,4.0,28.1,157,141,8.1
+2022-10-24,202210240MEM,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202210240MEM.html,38:43,.672,.625,.250,.333,7.1,19.6,13.6,20.9,2.5,4.1,9.8,34.6,131,131,10.1
+2022-10-24,202210240MEM,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202210240MEM.html,35:43,.333,.333,.583,.000,3.8,7.1,5.5,12.5,1.4,4.5,0.0,14.7,96,137,-4.0
+2022-10-24,202210240MEM,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202210240MEM.html,33:06,.735,.700,.000,.200,8.3,19.1,13.9,0.0,0.0,4.8,0.0,14.4,156,136,-0.6
+2022-10-24,202210240MEM,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202210240MEM.html,28:07,.486,.400,.200,1.000,0.0,13.5,7.0,31.3,1.7,0.0,41.0,19.0,86,137,-8.5
+2022-10-24,202210240MEM,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202210240MEM.html,22:32,.444,.444,.778,.000,12.2,16.8,14.6,10.5,0.0,3.6,0.0,17.5,116,137,-3.9
+2022-10-24,202210240MEM,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202210240MEM.html,19:14,.750,.750,1.000,.000,7.1,0.0,3.4,11.9,0.0,0.0,0.0,9.1,167,145,2.3
+2022-10-24,202210240MEM,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202210240MEM.html,14:31,.868,1.000,.000,1.000,0.0,26.1,13.6,8.2,0.0,0.0,25.8,11.7,124,137,-6.1
+2022-10-24,202210240MEM,BRK,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202210240MEM.html,6:06,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.2,0,144,-17.7
+2022-10-24,202210240MEM,BRK,Edmond Sumner,https://www.basketball-reference.com/boxscores/202210240MEM.html,2:57,,,,,0.0,0.0,0.0,34.6,0.0,0.0,100.0,14.9,48,145,-12.8
+2022-10-24,202210240MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202210240MEM.html,34:10,.708,.636,.273,.500,7.4,24.1,15.4,32.6,2.9,0.0,6.9,35.0,152,123,18.5
+2022-10-24,202210240MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202210240MEM.html,32:24,.912,.875,.500,.375,7.8,8.5,8.1,0.0,1.5,2.6,0.0,11.9,194,127,7.9
+2022-10-24,202210240MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202210240MEM.html,32:04,.851,.857,.524,.143,0.0,4.3,2.1,40.2,1.5,2.6,4.3,30.2,174,127,25.2
+2022-10-24,202210240MEM,MEM,Steven Adams,https://www.basketball-reference.com/boxscores/202210240MEM.html,31:16,.589,.600,.000,1.200,16.2,39.5,27.3,7.2,1.6,2.6,0.0,10.1,152,121,3.3
+2022-10-24,202210240MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202210240MEM.html,24:10,.154,.154,.385,.000,0.0,0.0,0.0,4.6,0.0,0.0,13.3,25.8,38,133,-28.5
+2022-10-24,202210240MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202210240MEM.html,26:12,.902,1.000,1.000,.667,4.8,15.7,10.0,0.0,3.7,0.0,0.0,6.1,187,123,5.6
+2022-10-24,202210240MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202210240MEM.html,24:17,.400,.400,.100,.000,10.4,5.6,8.1,5.1,0.0,0.0,16.7,20.5,87,133,-13.8
+2022-10-24,202210240MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202210240MEM.html,16:44,.851,.800,.000,1.200,0.0,16.4,7.9,16.1,0.0,0.0,11.6,21.4,161,130,5.2
+2022-10-24,202210240MEM,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202210240MEM.html,11:03,.000,.000,.000,.000,11.4,12.4,11.9,0.0,0.0,0.0,0.0,7.5,48,131,-14.7
+2022-10-24,202210240MEM,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202210240MEM.html,7:40,.000,.000,.800,.000,0.0,17.9,8.6,13.3,0.0,0.0,0.0,27.1,19,130,-32.1

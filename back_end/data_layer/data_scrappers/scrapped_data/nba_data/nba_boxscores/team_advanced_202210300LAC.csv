@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-30,202210300LAC,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202210300LAC.html,38:44,.654,.654,.385,.000,2.9,13.5,8.4,13.3,2.6,0.0,13.3,17.5,121,96,2.1
+2022-10-30,202210300LAC,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202210300LAC.html,37:17,.469,.469,.563,.000,12.0,2.8,7.2,3.4,1.4,0.0,5.9,20.5,105,102,-4.4
+2022-10-30,202210300LAC,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202210300LAC.html,31:41,.579,.579,.421,.000,0.0,16.5,8.5,14.0,1.6,0.0,0.0,27.0,124,98,3.7
+2022-10-30,202210300LAC,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202210300LAC.html,30:32,.560,.529,.000,.235,11.0,30.8,21.2,34.5,1.7,0.0,5.1,29.2,131,94,9.3
+2022-10-30,202210300LAC,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202210300LAC.html,23:55,.709,.750,.333,.667,4.7,26.2,15.8,26.4,2.1,0.0,27.9,20.3,116,94,5.9
+2022-10-30,202210300LAC,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202210300LAC.html,23:33,.750,.750,1.000,.000,4.7,13.3,9.2,30.7,2.2,0.0,0.0,11.5,176,97,11.3
+2022-10-30,202210300LAC,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202210300LAC.html,23:14,.833,.833,.111,.000,4.8,35.9,20.9,19.7,2.2,0.0,25.0,23.3,121,91,7.7
+2022-10-30,202210300LAC,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202210300LAC.html,18:32,.000,.000,.800,.000,6.0,0.0,2.9,11.3,0.0,0.0,0.0,12.2,46,105,-17.2
+2022-10-30,202210300LAC,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202210300LAC.html,8:26,1.000,1.000,.000,.000,0.0,12.4,6.4,14.1,6.1,12.1,0.0,5.3,210,79,10.3
+2022-10-30,202210300LAC,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202210300LAC.html,3:34,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.6,0,104,-26.3
+2022-10-30,202210300LAC,NOP,Dereon Seabron,https://www.basketball-reference.com/boxscores/202210300LAC.html,0:32,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,106,-8.2
+2022-10-30,202210300LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202210300LAC.html,27:46,.352,.316,.421,.105,3.8,8.0,5.8,19.0,1.8,0.0,16.8,39.0,67,120,-12.5
+2022-10-30,202210300LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202210300LAC.html,27:21,.375,.375,.583,.000,7.6,12.2,9.9,18.2,1.9,0.0,25.0,26.6,69,119,-10.4
+2022-10-30,202210300LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202210300LAC.html,27:16,.500,.500,.417,.000,0.0,32.8,15.8,25.9,1.9,0.0,7.7,21.6,100,113,0.9
+2022-10-30,202210300LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202210300LAC.html,23:26,.515,.667,.000,.667,0.0,28.6,13.8,6.4,0.0,7.2,20.5,9.5,80,113,-5.4
+2022-10-30,202210300LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202210300LAC.html,21:50,.551,.600,.400,.200,9.6,15.3,12.4,15.0,0.0,0.0,0.0,11.3,129,123,-0.8
+2022-10-30,202210300LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202210300LAC.html,25:07,.605,.607,.500,.143,8.3,4.4,6.4,25.3,0.0,3.4,11.8,30.5,109,124,6.8
+2022-10-30,202210300LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202210300LAC.html,22:44,.700,.700,.600,.000,4.6,24.6,14.2,0.0,0.0,0.0,0.0,10.0,137,120,-2.0
+2022-10-30,202210300LAC,LAC,John Wall,https://www.basketball-reference.com/boxscores/202210300LAC.html,21:15,.592,.400,.200,.800,0.0,0.0,0.0,43.0,0.0,7.9,12.9,16.6,129,122,5.4
+2022-10-30,202210300LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202210300LAC.html,15:46,.255,.200,.800,.400,0.0,14.2,6.8,0.0,0.0,5.3,0.0,16.9,55,119,-12.2
+2022-10-30,202210300LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202210300LAC.html,13:56,1.000,1.000,.000,.000,0.0,8.0,3.9,23.7,0.0,0.0,33.3,9.8,132,125,0.2
+2022-10-30,202210300LAC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202210300LAC.html,4:31,.750,.750,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.2,127,127,25.0
+2022-10-30,202210300LAC,LAC,Moses Brown,https://www.basketball-reference.com/boxscores/202210300LAC.html,4:31,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-10.1
+2022-10-30,202210300LAC,LAC,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202210300LAC.html,4:31,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-8.8

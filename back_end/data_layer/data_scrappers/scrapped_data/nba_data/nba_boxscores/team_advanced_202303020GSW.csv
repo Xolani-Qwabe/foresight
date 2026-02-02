@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-02,202303020GSW,LAC,Eric Gordon,https://www.basketball-reference.com/boxscores/202303020GSW.html,33:36,.462,.438,.625,.188,0.0,0.0,0.0,0.0,1.4,3.0,10.4,24.2,81,119,-4.2
+2023-03-02,202303020GSW,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202303020GSW.html,31:53,.739,.750,.250,.417,0.0,19.9,9.8,0.0,3.0,6.4,6.6,20.0,129,105,12.5
+2023-03-02,202303020GSW,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202303020GSW.html,29:02,.785,.600,.000,1.200,6.1,56.1,30.9,12.2,0.0,0.0,28.2,15.4,122,100,3.9
+2023-03-02,202303020GSW,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202303020GSW.html,27:41,.311,.250,.417,.167,0.0,0.0,0.0,38.8,0.0,0.0,23.7,25.6,63,124,-12.9
+2023-03-02,202303020GSW,LAC,Paul George,https://www.basketball-reference.com/boxscores/202303020GSW.html,26:33,.328,.233,.533,.267,3.3,13.6,8.4,34.0,0.0,0.0,5.6,28.1,79,118,-5.6
+2023-03-02,202303020GSW,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202303020GSW.html,23:51,.625,.625,.500,.000,14.9,3.8,9.4,21.6,4.0,0.0,42.9,12.3,97,113,1.8
+2023-03-02,202303020GSW,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202303020GSW.html,20:34,.111,.111,.778,.000,0.0,8.8,4.4,7.9,0.0,0.0,10.0,20.4,26,120,-18.3
+2023-03-02,202303020GSW,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202303020GSW.html,19:36,.500,.500,.800,.000,4.5,0.0,2.3,0.0,0.0,5.2,0.0,10.7,105,122,-0.8
+2023-03-02,202303020GSW,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202303020GSW.html,12:18,.403,.357,.429,.143,0.0,36.8,18.2,16.1,0.0,0.0,0.0,25.4,88,108,-8.1
+2023-03-02,202303020GSW,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202303020GSW.html,7:28,.500,.500,.000,.000,11.9,0.0,6.0,25.1,0.0,0.0,33.3,16.9,86,124,-5.6
+2023-03-02,202303020GSW,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202303020GSW.html,7:28,.750,.750,.500,.000,0.0,12.1,6.0,0.0,0.0,13.7,0.0,11.3,136,112,9.7
+2023-03-02,202303020GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202303020GSW.html,31:30,.672,.575,.600,.600,5.8,5.6,5.7,18.1,3.0,0.0,10.6,37.2,130,92,14.4
+2023-03-02,202303020GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202303020GSW.html,31:24,.250,.250,.600,.000,14.4,17.0,15.7,0.0,3.0,6.6,9.1,14.5,77,85,-2.4
+2023-03-02,202303020GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202303020GSW.html,29:47,.563,.531,.500,.125,0.0,32.8,16.6,23.3,3.2,3.5,5.6,24.9,118,81,9.9
+2023-03-02,202303020GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202303020GSW.html,29:03,.698,.714,.143,.286,3.1,24.5,13.9,48.4,0.0,0.0,33.7,16.9,115,93,3.6
+2023-03-02,202303020GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202303020GSW.html,24:47,.628,.571,.143,.571,11.0,17.9,14.5,6.2,0.0,0.0,0.0,14.6,147,95,-0.3
+2023-03-02,202303020GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202303020GSW.html,28:40,.713,.708,.333,.250,6.3,15.5,11.0,12.3,3.3,3.6,13.1,22.1,127,86,10.2
+2023-03-02,202303020GSW,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202303020GSW.html,26:37,.317,.214,.714,.286,3.4,3.3,3.4,4.8,0.0,3.9,0.0,12.3,89,97,-6.9
+2023-03-02,202303020GSW,GSW,Ty Jerome,https://www.basketball-reference.com/boxscores/202303020GSW.html,19:38,.291,.167,.667,.333,0.0,18.1,9.1,20.1,2.4,0.0,0.0,14.5,91,90,-3.5
+2023-03-02,202303020GSW,GSW,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202303020GSW.html,8:40,.333,.333,.500,.000,0.0,30.8,15.5,39.7,0.0,12.0,0.0,28.7,90,84,-1.3
+2023-03-02,202303020GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202303020GSW.html,5:04,.750,.750,1.000,.000,17.9,0.0,8.9,0.0,0.0,0.0,0.0,16.4,158,101,9.9
+2023-03-02,202303020GSW,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202303020GSW.html,4:38,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,101,-11.3

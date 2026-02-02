@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-14,202103140NOP,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202103140NOP.html,29:05,.803,.769,.308,.231,3.7,24.5,11.5,12.2,3.2,0.0,6.5,22.5,152,131,8.5
+2021-03-14,202103140NOP,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202103140NOP.html,24:00,.750,.750,.500,.000,0.0,7.4,2.8,14.3,0.0,0.0,7.7,23.1,135,139,3.5
+2021-03-14,202103140NOP,LAC,Paul George,https://www.basketball-reference.com/boxscores/202103140NOP.html,23:15,.476,.393,.571,.286,4.6,15.3,8.6,19.6,2.0,0.0,20.2,36.3,87,134,-10.7
+2021-03-14,202103140NOP,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202103140NOP.html,19:46,.375,.375,.500,.000,16.2,9.0,13.5,7.0,4.8,0.0,11.1,19.5,92,128,-5.3
+2021-03-14,202103140NOP,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202103140NOP.html,8:17,.000,.000,.500,.000,0.0,21.5,8.0,13.8,0.0,0.0,0.0,10.3,33,138,-13.0
+2021-03-14,202103140NOP,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202103140NOP.html,27:08,.595,.500,.400,.400,0.0,45.9,17.2,13.8,3.5,0.0,0.0,9.3,141,129,1.9
+2021-03-14,202103140NOP,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202103140NOP.html,19:35,.000,.000,.400,.000,0.0,18.2,6.8,11.7,0.0,0.0,16.7,13.1,23,138,-19.7
+2021-03-14,202103140NOP,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202103140NOP.html,19:18,.750,.750,.400,.000,5.5,9.2,6.9,36.7,2.4,0.0,0.0,22.1,161,133,15.4
+2021-03-14,202103140NOP,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/202103140NOP.html,18:29,.500,.500,.714,.000,0.0,0.0,0.0,0.0,5.1,4.7,0.0,16.2,100,123,-2.7
+2021-03-14,202103140NOP,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202103140NOP.html,13:49,.532,.333,.333,2.000,0.0,0.0,0.0,18.0,3.4,0.0,26.2,23.6,93,131,-8.8
+2021-03-14,202103140NOP,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202103140NOP.html,13:18,.255,.200,.200,.400,24.1,26.7,25.1,0.0,0.0,6.6,0.0,18.9,87,131,-16.8
+2021-03-14,202103140NOP,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202103140NOP.html,12:00,.945,.917,.833,.333,0.0,0.0,0.0,30.8,3.9,0.0,12.7,28.1,161,130,22.3
+2021-03-14,202103140NOP,LAC,Daniel Oturu,https://www.basketball-reference.com/boxscores/202103140NOP.html,12:00,.500,.500,.000,.000,0.0,29.6,11.1,10.5,0.0,0.0,33.3,10.7,78,137,-8.9
+2021-03-14,202103140NOP,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202103140NOP.html,32:01,.800,.813,.000,.125,0.0,6.7,4.2,22.4,0.0,0.0,10.6,26.2,142,120,4.3
+2021-03-14,202103140NOP,NOP,Lonzo Ball,https://www.basketball-reference.com/boxscores/202103140NOP.html,30:22,.958,.950,.800,.100,0.0,28.1,17.6,18.8,1.6,0.0,22.3,19.6,139,111,8.5
+2021-03-14,202103140NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202103140NOP.html,26:01,.786,.708,.500,.500,0.0,16.4,10.2,23.0,0.0,0.0,17.0,30.1,134,117,4.1
+2021-03-14,202103140NOP,NOP,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202103140NOP.html,25:42,.643,.600,.400,.200,0.0,8.3,5.2,31.5,0.0,0.0,15.5,11.1,146,119,0.4
+2021-03-14,202103140NOP,NOP,Steven Adams,https://www.basketball-reference.com/boxscores/202103140NOP.html,19:35,.945,1.000,.000,1.333,9.1,38.1,27.2,10.7,4.8,0.0,17.4,13.0,165,101,11.1
+2021-03-14,202103140NOP,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202103140NOP.html,27:12,.591,.591,.364,.000,0.0,11.8,7.4,16.6,3.5,0.0,15.4,21.2,107,110,-2.0
+2021-03-14,202103140NOP,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202103140NOP.html,26:57,.945,1.083,.667,.333,0.0,19.8,12.4,24.2,1.7,0.0,12.7,13.0,161,112,12.4
+2021-03-14,202103140NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202103140NOP.html,24:21,1.037,1.000,.000,.833,7.3,8.8,8.2,4.8,1.9,4.0,10.9,16.8,188,112,9.1
+2021-03-14,202103140NOP,NOP,Nicolò Melli,https://www.basketball-reference.com/boxscores/202103140NOP.html,6:57,.250,.250,.000,.000,51.2,15.3,28.8,30.0,0.0,0.0,0.0,25.5,109,118,-6.7
+2021-03-14,202103140NOP,NOP,Sindarius Thornwell,https://www.basketball-reference.com/boxscores/202103140NOP.html,6:57,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,19.1,0,121,-26.5
+2021-03-14,202103140NOP,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202103140NOP.html,5:47,.333,.333,.333,.000,0.0,18.4,11.5,0.0,8.1,0.0,40.0,38.3,37,98,-23.3
+2021-03-14,202103140NOP,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202103140NOP.html,4:04,.000,.000,.500,.000,0.0,26.2,16.4,0.0,0.0,0.0,0.0,21.8,0,115,-29.0
+2021-03-14,202103140NOP,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202103140NOP.html,4:04,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,21.8,69,121,-9.4

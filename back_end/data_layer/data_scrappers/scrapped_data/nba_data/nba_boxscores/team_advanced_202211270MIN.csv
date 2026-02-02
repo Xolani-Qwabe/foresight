@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-27,202211270MIN,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202211270MIN.html,32:38,.903,.929,.286,1.143,4.5,9.8,7.5,39.3,0.0,5.6,0.0,13.8,204,111,16.3
+2022-11-27,202211270MIN,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202211270MIN.html,32:37,.623,.529,.647,.412,4.5,32.7,20.8,29.7,1.4,0.0,25.8,35.6,110,109,-1.5
+2022-11-27,202211270MIN,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202211270MIN.html,31:23,.708,.708,.500,.000,4.6,6.8,5.9,7.8,2.9,0.0,14.3,19.2,122,109,-0.4
+2022-11-27,202211270MIN,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202211270MIN.html,29:56,.808,.808,.615,.000,0.0,7.1,4.1,8.6,3.1,3.0,7.1,20.1,142,106,8.1
+2022-11-27,202211270MIN,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202211270MIN.html,22:07,1.000,1.000,.000,.000,13.2,24.1,19.5,18.2,2.1,0.0,0.0,1.9,230,108,6.6
+2022-11-27,202211270MIN,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202211270MIN.html,26:52,.640,.618,.529,.235,5.4,11.9,9.2,31.6,0.0,0.0,17.6,36.4,118,115,-4.2
+2022-11-27,202211270MIN,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202211270MIN.html,19:50,.643,.600,.400,.200,0.0,32.3,18.6,5.7,0.0,9.1,26.9,16.1,95,104,-3.9
+2022-11-27,202211270MIN,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202211270MIN.html,18:04,.700,.700,.800,.000,16.1,23.6,20.4,7.2,2.6,5.0,0.0,23.8,146,103,9.4
+2022-11-27,202211270MIN,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202211270MIN.html,14:24,.750,.750,.250,.000,0.0,14.8,8.5,8.3,0.0,0.0,0.0,11.9,156,114,-2.2
+2022-11-27,202211270MIN,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202211270MIN.html,8:44,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.9,200,116,-10.7
+2022-11-27,202211270MIN,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202211270MIN.html,3:25,,,,,0.0,62.4,36.0,0.0,0.0,0.0,,0.0,0,107,-2.3
+2022-11-27,202211270MIN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202211270MIN.html,35:36,.595,.471,.353,.647,3.0,12.3,6.9,18.2,1.3,0.0,4.4,26.8,125,134,3.4
+2022-11-27,202211270MIN,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202211270MIN.html,31:25,.504,.464,.429,.143,3.4,4.6,3.9,29.2,1.5,3.8,0.0,19.8,119,132,2.7
+2022-11-27,202211270MIN,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202211270MIN.html,30:51,.666,.607,.357,.286,0.0,18.9,8.0,23.4,3.0,0.0,27.6,29.5,98,129,-1.5
+2022-11-27,202211270MIN,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202211270MIN.html,30:04,.455,.444,.000,.222,14.2,29.0,20.5,0.0,0.0,4.0,16.8,16.5,92,132,-9.3
+2022-11-27,202211270MIN,MIN,Austin Rivers,https://www.basketball-reference.com/boxscores/202211270MIN.html,28:58,.512,.375,.750,.500,0.0,10.0,4.2,4.4,0.0,0.0,17.0,8.5,93,137,-8.8
+2022-11-27,202211270MIN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202211270MIN.html,24:12,.649,.636,.636,.273,0.0,18.0,7.6,20.5,1.9,0.0,0.0,21.3,133,131,7.3
+2022-11-27,202211270MIN,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202211270MIN.html,19:01,.667,.667,.000,.000,0.0,22.9,9.7,7.4,2.4,0.0,50.0,13.2,65,129,-10.8
+2022-11-27,202211270MIN,MIN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202211270MIN.html,17:02,.592,.563,.500,.125,0.0,0.0,0.0,10.2,0.0,0.0,10.6,23.2,105,139,-4.8
+2022-11-27,202211270MIN,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202211270MIN.html,16:01,.621,.667,.500,.167,0.0,18.2,7.7,20.0,0.0,0.0,0.0,16.8,127,136,3.9
+2022-11-27,202211270MIN,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202211270MIN.html,3:25,.000,.000,.000,2.000,0.0,0.0,0.0,0.0,13.5,0.0,0.0,23.0,0,106,-14.4
+2022-11-27,202211270MIN,MIN,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202211270MIN.html,3:25,.000,.000,1.000,1.000,0.0,42.6,18.0,0.0,0.0,0.0,0.0,17.6,0,132,-22.7

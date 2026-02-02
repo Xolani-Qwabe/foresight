@@ -1,0 +1,86 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg_pct,fg3_pct,ft_pct
+2021-01-20,202101200CLE,BRK,Q1,James Harden,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.2,0,0,0,0,0,0,0,2,2,4,1,0,2,1,0,2.0,-6,,,
+2021-01-20,202101200CLE,BRK,Q1,Kevin Durant,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.08,1,3,0,1,0,0,0,2,2,3,0,0,0,0,2,3.0,+6,.333,.000,
+2021-01-20,202101200CLE,BRK,Q1,Kyrie Irving,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.08,3,4,1,2,0,0,0,0,0,1,0,0,3,1,7,2.7,+6,.750,.500,
+2021-01-20,202101200CLE,BRK,Q1,Jeff Green,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.47,2,2,1,1,0,0,0,2,2,0,0,0,0,0,5,5.0,+5,1.000,1.000,
+2021-01-20,202101200CLE,BRK,Q1,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202101200CLE.html,7.43,3,3,0,0,0,0,0,2,2,0,0,0,1,1,6,4.3,+8,1.000,,
+2021-01-20,202101200CLE,BRK,Q1,Joe Harris,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.72,1,2,1,2,0,0,0,2,2,0,0,0,0,1,3,2.2,-10,.500,.500,
+2021-01-20,202101200CLE,BRK,Q1,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.53,0,2,0,1,0,0,0,0,0,1,1,0,0,0,0,0.3,-10,.000,.000,
+2021-01-20,202101200CLE,BRK,Q1,Reggie Perry,https://www.basketball-reference.com/boxscores/202101200CLE.html,4.57,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,-2.4,-13,.000,,
+2021-01-20,202101200CLE,BRK,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202101200CLE.html,2.92,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,-0.1,-11,,,
+2021-01-20,202101200CLE,BRK,Q2,James Harden,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.9,0,2,0,0,2,2,0,3,3,0,0,0,1,1,2,0.1,+3,.000,,1.000
+2021-01-20,202101200CLE,BRK,Q2,Kevin Durant,https://www.basketball-reference.com/boxscores/202101200CLE.html,10.32,3,6,1,2,2,3,0,3,3,3,1,0,0,0,9,9.6,+4,.500,.500,.667
+2021-01-20,202101200CLE,BRK,Q2,Kyrie Irving,https://www.basketball-reference.com/boxscores/202101200CLE.html,8.2,5,6,0,0,0,0,0,0,0,0,1,0,1,0,10,7.8,+1,.833,,
+2021-01-20,202101200CLE,BRK,Q2,Jeff Green,https://www.basketball-reference.com/boxscores/202101200CLE.html,7.88,1,3,1,3,0,0,0,0,0,1,0,0,1,0,3,1.0,-1,.333,.333,
+2021-01-20,202101200CLE,BRK,Q2,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202101200CLE.html,7.9,1,1,0,0,0,0,0,2,2,0,0,1,0,1,2,2.6,+3,1.000,,
+2021-01-20,202101200CLE,BRK,Q2,Joe Harris,https://www.basketball-reference.com/boxscores/202101200CLE.html,8.65,0,3,0,3,0,0,0,3,3,1,0,1,0,0,0,0.2,+7,.000,.000,
+2021-01-20,202101200CLE,BRK,Q2,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202101200CLE.html,3.05,0,2,0,2,0,0,0,0,0,2,1,0,0,0,0,1.0,-2,.000,.000,
+2021-01-20,202101200CLE,BRK,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202101200CLE.html,4.1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.7,0,,,
+2021-01-20,202101200CLE,BRK,Q3,James Harden,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.4,3,5,2,2,0,0,1,0,1,1,0,0,1,1,8,5.7,+1,.600,1.000,
+2021-01-20,202101200CLE,BRK,Q3,Kevin Durant,https://www.basketball-reference.com/boxscores/202101200CLE.html,12.0,2,7,0,3,4,4,0,3,3,0,0,1,0,1,8,5.1,-7,.286,.000,1.000
+2021-01-20,202101200CLE,BRK,Q3,Kyrie Irving,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.08,1,4,0,3,1,2,0,0,0,1,0,0,0,2,3,0.1,-11,.250,.000,.500
+2021-01-20,202101200CLE,BRK,Q3,Jeff Green,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.08,1,1,1,1,0,0,0,3,3,1,0,1,0,0,3,5.0,-11,1.000,1.000,
+2021-01-20,202101200CLE,BRK,Q3,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.08,2,3,0,0,1,1,0,0,0,0,0,1,0,0,5,4.4,-11,.667,,1.000
+2021-01-20,202101200CLE,BRK,Q3,Joe Harris,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.52,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,-4,.000,,
+2021-01-20,202101200CLE,BRK,Q3,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202101200CLE.html,2.92,0,2,0,0,0,0,2,0,2,0,0,0,0,0,0,0.0,+4,.000,,
+2021-01-20,202101200CLE,BRK,Q3,Reggie Perry,https://www.basketball-reference.com/boxscores/202101200CLE.html,2.92,1,3,0,1,0,0,2,0,2,0,1,0,0,0,2,2.7,+4,.333,.000,
+2021-01-20,202101200CLE,BRK,Q4,James Harden,https://www.basketball-reference.com/boxscores/202101200CLE.html,12.0,2,4,1,3,2,2,0,2,2,4,1,0,0,1,7,9.0,+9,.500,.333,1.000
+2021-01-20,202101200CLE,BRK,Q4,Kevin Durant,https://www.basketball-reference.com/boxscores/202101200CLE.html,8.75,4,4,2,2,1,1,0,0,0,0,0,1,1,1,11,9.1,+11,1.000,1.000,1.000
+2021-01-20,202101200CLE,BRK,Q4,Kyrie Irving,https://www.basketball-reference.com/boxscores/202101200CLE.html,12.0,3,6,1,2,3,3,1,0,1,1,0,0,0,1,10,8.0,+9,.500,.500,1.000
+2021-01-20,202101200CLE,BRK,Q4,Jeff Green,https://www.basketball-reference.com/boxscores/202101200CLE.html,12.0,0,1,0,1,2,2,0,2,2,0,1,0,1,1,2,1.5,+9,.000,.000,1.000
+2021-01-20,202101200CLE,BRK,Q4,Joe Harris,https://www.basketball-reference.com/boxscores/202101200CLE.html,12.0,1,3,1,1,0,0,3,0,3,0,0,0,0,1,3,3.0,+9,.333,1.000,
+2021-01-20,202101200CLE,BRK,Q4,Reggie Perry,https://www.basketball-reference.com/boxscores/202101200CLE.html,3.25,1,3,0,0,0,0,2,0,2,0,0,0,0,1,2,1.3,-2,.333,,
+2021-01-20,202101200CLE,BRK,OT1,James Harden,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,1,0,0,2,2,0,1,1,2,0,0,0,1,2,2.6,0,.000,,1.000
+2021-01-20,202101200CLE,BRK,OT1,Kevin Durant,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,2,3,0,0,2,3,0,2,2,1,0,2,1,0,6,6.0,0,.667,,.667
+2021-01-20,202101200CLE,BRK,OT1,Kyrie Irving,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,1,3,1,1,0,0,0,1,1,0,0,3,0,0,3,3.7,0,.333,1.000,
+2021-01-20,202101200CLE,BRK,OT1,Jeff Green,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,1,1,1,1,0,0,0,0,0,0,0,0,1,2,3,0.9,0,1.000,1.000,
+2021-01-20,202101200CLE,BRK,OT1,Joe Harris,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,-0.4,0,.000,.000,
+2021-01-20,202101200CLE,BRK,OT2,James Harden,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,1,2,0,1,0,0,0,1,1,1,0,0,1,0,2,1.0,-12,.500,.000,
+2021-01-20,202101200CLE,BRK,OT2,Kevin Durant,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,2,0,1,2,2,1,1,2,1,0,0,0,0,2,2.3,-12,.000,.000,1.000
+2021-01-20,202101200CLE,BRK,OT2,Kyrie Irving,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,4,1.3,-12,.400,,
+2021-01-20,202101200CLE,BRK,OT2,Jeff Green,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,-0.8,-12,,,
+2021-01-20,202101200CLE,BRK,OT2,Joe Harris,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,-0.8,-12,,,
+2021-01-20,202101200CLE,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.38,3,4,2,2,3,3,0,1,1,0,0,0,0,1,11,9.3,+6,.750,1.000,1.000
+2021-01-20,202101200CLE,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101200CLE.html,10.12,2,4,0,0,0,0,0,1,1,1,2,0,0,0,4,5.0,-6,.500,,
+2021-01-20,202101200CLE,CLE,Q1,Isaac Okoro,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.08,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,1.0,-6,.500,.000,
+2021-01-20,202101200CLE,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/202101200CLE.html,8.35,2,6,0,2,1,1,1,0,1,2,1,0,0,1,5,4.3,+6,.333,.000,1.000
+2021-01-20,202101200CLE,CLE,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202101200CLE.html,7.43,2,4,0,0,0,0,0,0,0,0,1,0,1,0,4,2.0,-8,.500,,
+2021-01-20,202101200CLE,CLE,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.53,0,1,0,1,0,0,0,2,2,0,0,0,1,0,0,-1.1,+10,.000,.000,
+2021-01-20,202101200CLE,CLE,Q1,Jarrett Allen,https://www.basketball-reference.com/boxscores/202101200CLE.html,4.57,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,1.7,+13,,,
+2021-01-20,202101200CLE,CLE,Q1,Damyean Dotson,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.53,1,2,0,1,0,0,0,2,2,1,0,0,1,0,2,1.3,+10,.500,.000,
+2021-01-20,202101200CLE,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/202101200CLE.html,10.33,2,4,1,2,0,0,0,2,2,2,0,0,0,1,5,4.6,-1,.500,.500,
+2021-01-20,202101200CLE,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,-0.8,-1,.000,.000,
+2021-01-20,202101200CLE,CLE,Q2,Isaac Okoro,https://www.basketball-reference.com/boxscores/202101200CLE.html,8.22,0,4,0,1,0,0,1,0,1,0,1,0,1,0,0,-2.1,-3,.000,.000,
+2021-01-20,202101200CLE,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.9,3,5,0,2,0,0,0,1,1,0,0,1,0,0,6,4.7,+1,.600,.000,
+2021-01-20,202101200CLE,CLE,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.55,1,2,0,0,1,1,0,1,1,1,0,0,3,1,3,-0.4,-1,.500,,1.000
+2021-01-20,202101200CLE,CLE,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202101200CLE.html,8.95,1,3,0,1,0,0,0,3,3,1,0,0,1,1,2,0.5,-5,.333,.000,
+2021-01-20,202101200CLE,CLE,Q2,Jarrett Allen,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.15,1,1,0,0,0,0,1,3,4,1,1,0,0,0,2,5.0,-4,1.000,,
+2021-01-20,202101200CLE,CLE,Q2,Damyean Dotson,https://www.basketball-reference.com/boxscores/202101200CLE.html,7.8,2,4,1,2,0,0,0,0,0,0,0,0,0,0,5,3.0,-1,.500,.500,
+2021-01-20,202101200CLE,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.82,3,4,1,2,0,0,0,2,2,2,0,0,0,1,7,7.0,+6,.750,.500,
+2021-01-20,202101200CLE,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101200CLE.html,12.0,1,2,1,1,1,2,0,3,3,3,1,0,0,0,4,6.6,+7,.500,1.000,.500
+2021-01-20,202101200CLE,CLE,Q3,Isaac Okoro,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.35,2,2,2,2,0,0,0,0,0,1,0,0,0,1,6,5.7,+5,1.000,1.000,
+2021-01-20,202101200CLE,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.08,2,2,0,0,2,2,0,0,0,0,0,0,0,2,6,4.6,+4,1.000,,1.000
+2021-01-20,202101200CLE,CLE,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202101200CLE.html,9.08,3,6,0,0,0,0,1,5,6,2,0,0,0,1,6,6.2,+11,.500,,
+2021-01-20,202101200CLE,CLE,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202101200CLE.html,4.83,0,0,0,0,2,2,0,0,0,1,0,1,0,0,2,3.4,+3,,,1.000
+2021-01-20,202101200CLE,CLE,Q3,Jarrett Allen,https://www.basketball-reference.com/boxscores/202101200CLE.html,2.92,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,-0.7,-4,.000,,
+2021-01-20,202101200CLE,CLE,Q3,Damyean Dotson,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.92,2,4,1,2,0,0,0,0,0,0,0,0,1,0,5,2.0,+3,.500,.500,
+2021-01-20,202101200CLE,CLE,Q4,Cedi Osman,https://www.basketball-reference.com/boxscores/202101200CLE.html,10.83,0,2,0,1,0,0,0,0,0,3,0,0,0,0,0,0.7,-5,.000,.000,
+2021-01-20,202101200CLE,CLE,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.87,1,2,1,2,1,2,0,0,0,0,0,0,0,0,4,2.6,-9,.500,.500,.500
+2021-01-20,202101200CLE,CLE,Q4,Isaac Okoro,https://www.basketball-reference.com/boxscores/202101200CLE.html,12.0,0,1,0,0,0,0,1,0,1,1,0,0,1,3,0,-1.5,-9,.000,,
+2021-01-20,202101200CLE,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.87,1,2,0,0,1,2,0,0,0,0,0,0,1,1,3,0.2,-9,.500,,.500
+2021-01-20,202101200CLE,CLE,Q4,Andre Drummond,https://www.basketball-reference.com/boxscores/202101200CLE.html,2.67,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,.000,,
+2021-01-20,202101200CLE,CLE,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202101200CLE.html,6.83,3,4,2,2,0,0,2,0,2,1,1,0,1,0,8,8.5,-3,.750,1.000,
+2021-01-20,202101200CLE,CLE,Q4,Jarrett Allen,https://www.basketball-reference.com/boxscores/202101200CLE.html,8.8,4,5,0,0,0,0,2,2,4,0,0,1,1,0,8,7.8,-3,.800,,
+2021-01-20,202101200CLE,CLE,Q4,Damyean Dotson,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.13,1,2,1,1,0,0,0,0,0,0,0,0,0,1,3,1.6,0,.500,1.000,
+2021-01-20,202101200CLE,CLE,OT1,Cedi Osman,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,1,3,0,2,0,0,0,2,2,0,0,0,1,1,2,-0.5,0,.333,.000,
+2021-01-20,202101200CLE,CLE,OT1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,1,1,1,1,0,0,0,2,2,0,0,0,0,1,3,2.9,0,1.000,1.000,
+2021-01-20,202101200CLE,CLE,OT1,Isaac Okoro,https://www.basketball-reference.com/boxscores/202101200CLE.html,4.65,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,-0.1,-1,,,
+2021-01-20,202101200CLE,CLE,OT1,Collin Sexton,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,3,8,1,2,0,0,2,0,2,2,1,0,0,0,7,6.4,0,.375,.500,
+2021-01-20,202101200CLE,CLE,OT1,Taurean Prince,https://www.basketball-reference.com/boxscores/202101200CLE.html,0.47,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,+3,,,
+2021-01-20,202101200CLE,CLE,OT1,Jarrett Allen,https://www.basketball-reference.com/boxscores/202101200CLE.html,4.73,1,2,0,0,0,0,0,1,1,0,0,1,0,0,2,2.0,-4,.500,,
+2021-01-20,202101200CLE,CLE,OT1,Damyean Dotson,https://www.basketball-reference.com/boxscores/202101200CLE.html,0.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,,,
+2021-01-20,202101200CLE,CLE,OT2,Cedi Osman,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+12,,,
+2021-01-20,202101200CLE,CLE,OT2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,2.0,+12,,,
+2021-01-20,202101200CLE,CLE,OT2,Collin Sexton,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,5,6,4,5,1,4,0,1,1,1,0,0,0,1,15,12.2,+12,.833,.800,.250
+2021-01-20,202101200CLE,CLE,OT2,Taurean Prince,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,1,1,1,1,2,2,0,0,0,0,0,0,0,0,5,4.7,+12,1.000,1.000,1.000
+2021-01-20,202101200CLE,CLE,OT2,Jarrett Allen,https://www.basketball-reference.com/boxscores/202101200CLE.html,5.0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,+12,,,

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-03,202411030BRK,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202411030BRK.html,35:26,.663,.654,.308,.231,4.2,16.1,11.0,25.9,0.0,0.0,32.8,26.4,95,102,-4.3
+2024-11-03,202411030BRK,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202411030BRK.html,35:06,.415,.300,.467,.467,0.0,16.3,9.2,21.7,1.4,3.4,18.1,27.6,87,96,-5.4
+2024-11-03,202411030BRK,DET,Tobias Harris,https://www.basketball-reference.com/boxscores/202411030BRK.html,34:38,.670,.654,.308,.077,13.0,6.6,9.4,32.1,0.0,0.0,6.9,18.3,145,103,8.9
+2024-11-03,202411030BRK,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202411030BRK.html,33:15,.962,1.000,.000,.800,13.5,48.1,33.2,19.4,1.5,10.8,37.2,14.2,128,87,10.6
+2024-11-03,202411030BRK,DET,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202411030BRK.html,22:31,.742,.722,.667,.111,0.0,0.0,0.0,16.2,0.0,0.0,0.0,18.4,155,103,6.3
+2024-11-03,202411030BRK,DET,Malik Beasley,https://www.basketball-reference.com/boxscores/202411030BRK.html,29:19,.551,.533,.733,.200,0.0,3.9,2.2,6.0,3.5,0.0,0.0,24.4,118,95,3.8
+2024-11-03,202411030BRK,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202411030BRK.html,23:55,.427,.250,.667,.833,12.5,28.7,21.7,5.7,0.0,0.0,0.0,15.0,117,101,-1.5
+2024-11-03,202411030BRK,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202411030BRK.html,13:42,1.136,,,,0.0,41.7,23.7,0.0,0.0,17.5,53.2,6.0,108,83,-4.2
+2024-11-03,202411030BRK,DET,Ron Holland,https://www.basketball-reference.com/boxscores/202411030BRK.html,10:20,.000,.000,.000,.000,0.0,0.0,0.0,12.6,0.0,0.0,0.0,4.2,63,102,-8.3
+2024-11-03,202411030BRK,DET,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202411030BRK.html,0:54,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,104,-4.5
+2024-11-03,202411030BRK,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202411030BRK.html,0:54,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,104,-7.1
+2024-11-03,202411030BRK,BRK,Dennis Schröder,https://www.basketball-reference.com/boxscores/202411030BRK.html,33:21,.500,.500,.429,.000,0.0,22.5,9.7,20.8,4.6,0.0,22.2,13.1,88,105,-3.3
+2024-11-03,202411030BRK,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202411030BRK.html,31:08,.453,.382,.412,.235,0.0,9.6,4.2,13.6,0.0,0.0,13.8,34.0,79,118,-9.2
+2024-11-03,202411030BRK,BRK,Cameron Johnson,https://www.basketball-reference.com/boxscores/202411030BRK.html,30:04,.601,.553,.632,.316,0.0,5.0,2.2,27.2,1.7,3.9,0.0,35.0,118,113,10.2
+2024-11-03,202411030BRK,BRK,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202411030BRK.html,28:23,.827,.800,.600,.200,8.1,5.3,6.9,0.0,3.6,4.1,26.9,12.8,113,109,1.4
+2024-11-03,202411030BRK,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202411030BRK.html,24:28,.500,.500,.000,.000,0.0,36.8,15.9,41.9,2.1,0.0,42.9,13.9,85,107,-4.0
+2024-11-03,202411030BRK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202411030BRK.html,21:56,.431,.500,.000,3.000,0.0,6.8,3.0,39.6,2.3,0.0,24.4,27.2,81,113,-5.5
+2024-11-03,202411030BRK,BRK,Jalen Wilson,https://www.basketball-reference.com/boxscores/202411030BRK.html,21:49,.581,.583,.167,.333,5.2,13.8,8.9,17.3,0.0,0.0,0.0,15.3,124,117,1.5
+2024-11-03,202411030BRK,BRK,Noah Clowney,https://www.basketball-reference.com/boxscores/202411030BRK.html,16:43,.515,.500,.667,.667,6.8,9.0,7.8,9.9,0.0,0.0,0.0,11.3,118,118,-3.4
+2024-11-03,202411030BRK,BRK,Ziaire Williams,https://www.basketball-reference.com/boxscores/202411030BRK.html,16:01,.400,.400,.600,.000,0.0,18.7,8.1,0.0,0.0,0.0,0.0,15.2,74,116,-12.1
+2024-11-03,202411030BRK,BRK,Keon Johnson,https://www.basketball-reference.com/boxscores/202411030BRK.html,12:55,.906,1.000,.000,4.000,0.0,11.6,5.0,0.0,3.9,9.1,0.0,10.4,191,104,5.2
+2024-11-03,202411030BRK,BRK,Tyrese Martin,https://www.basketball-reference.com/boxscores/202411030BRK.html,1:36,,,,,0.0,93.8,40.5,0.0,0.0,0.0,,0.0,0,99,-4.0
+2024-11-03,202411030BRK,BRK,Shake Milton,https://www.basketball-reference.com/boxscores/202411030BRK.html,1:36,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-9.9

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-27,202101270SAS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202101270SAS.html,39:03,.467,.467,.467,.000,2.5,10.5,5.8,10.7,1.3,0.0,11.8,18.3,96,116,-4.9
+2021-01-27,202101270SAS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202101270SAS.html,36:06,.555,.500,.316,.316,0.0,15.2,6.3,21.2,1.4,4.9,0.0,25.2,129,111,8.6
+2021-01-27,202101270SAS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202101270SAS.html,34:05,.467,.440,.120,.160,8.4,16.1,11.6,10.6,5.8,0.0,10.1,36.7,96,106,3.0
+2021-01-27,202101270SAS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202101270SAS.html,27:12,.467,.467,.467,.000,0.0,0.0,0.0,11.2,1.8,0.0,11.8,26.3,92,117,-4.2
+2021-01-27,202101270SAS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202101270SAS.html,12:06,.833,.833,.333,.000,7.9,0.0,4.7,0.0,0.0,0.0,25.0,13.9,125,119,-7.4
+2021-01-27,202101270SAS,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202101270SAS.html,22:41,.450,.375,.125,.250,12.7,30.2,19.9,0.0,0.0,0.0,0.0,16.5,114,116,-5.1
+2021-01-27,202101270SAS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202101270SAS.html,14:24,.868,.750,1.000,1.000,0.0,19.0,7.8,0.0,0.0,0.0,0.0,8.4,187,118,2.0
+2021-01-27,202101270SAS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202101270SAS.html,13:13,.333,.333,.000,.000,0.0,10.4,4.3,9.5,7.4,0.0,0.0,9.5,89,103,2.4
+2021-01-27,202101270SAS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202101270SAS.html,13:13,1.000,1.000,.000,.000,29.1,31.1,29.9,11.7,3.7,6.7,25.0,12.7,163,103,11.4
+2021-01-27,202101270SAS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202101270SAS.html,11:08,1.500,1.500,1.000,.000,8.6,24.6,15.2,0.0,0.0,0.0,0.0,3.8,277,116,3.4
+2021-01-27,202101270SAS,BOS,Jeff Teague,https://www.basketball-reference.com/boxscores/202101270SAS.html,7:38,.000,.000,.333,.000,0.0,18.0,7.4,15.0,0.0,11.6,0.0,16.5,21,109,-12.8
+2021-01-27,202101270SAS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202101270SAS.html,5:18,.000,.000,1.000,.000,0.0,25.9,10.7,0.0,0.0,0.0,50.0,15.9,0,117,-22.3
+2021-01-27,202101270SAS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202101270SAS.html,3:53,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-8.5
+2021-01-27,202101270SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202101270SAS.html,36:10,.463,.455,.182,.182,0.0,29.2,17.2,13.5,1.4,0.0,20.2,18.3,89,104,-4.0
+2021-01-27,202101270SAS,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202101270SAS.html,34:13,.987,1.000,.250,.750,0.0,14.0,8.3,27.1,0.0,0.0,22.0,17.7,159,112,9.4
+2021-01-27,202101270SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202101270SAS.html,31:12,.643,.643,.071,.000,13.2,21.5,18.1,4.8,1.6,0.0,12.5,22.8,120,106,2.1
+2021-01-27,202101270SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202101270SAS.html,31:07,.778,.778,.444,.000,0.0,3.1,1.8,4.2,0.0,0.0,18.2,15.7,124,116,-0.7
+2021-01-27,202101270SAS,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202101270SAS.html,28:19,.635,.679,.429,.286,9.7,3.4,6.0,10.5,0.0,5.0,0.0,24.7,137,112,9.5
+2021-01-27,202101270SAS,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202101270SAS.html,27:23,.545,.545,.364,.000,0.0,3.5,2.1,9.9,3.6,0.0,21.4,22.7,91,108,-3.2
+2021-01-27,202101270SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202101270SAS.html,19:29,1.000,1.000,.000,.000,21.1,29.6,26.1,24.0,2.5,7.2,60.0,11.4,116,95,8.2
+2021-01-27,202101270SAS,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202101270SAS.html,17:00,.359,.250,.625,.500,0.0,16.9,10.0,7.0,0.0,0.0,0.0,25.5,88,111,-9.7
+2021-01-27,202101270SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202101270SAS.html,15:07,.300,.300,.800,.000,9.1,12.7,11.2,0.0,0.0,0.0,37.5,23.5,47,113,-17.7

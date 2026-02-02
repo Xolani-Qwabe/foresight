@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-24,202110240HOU,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202110240HOU.html,36:54,.602,.583,.458,.167,0.0,27.9,14.1,11.6,1.3,3.0,3.7,32.9,114,100,6.7
+2021-10-24,202110240HOU,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202110240HOU.html,35:41,.474,.438,.625,.125,0.0,19.2,9.7,19.8,4.1,0.0,10.6,12.0,106,97,-1.2
+2021-10-24,202110240HOU,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202110240HOU.html,33:23,.571,.536,.286,.286,3.5,13.7,8.7,25.7,1.5,0.0,20.2,26.9,102,104,-3.2
+2021-10-24,202110240HOU,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202110240HOU.html,29:35,.533,.375,.500,.750,7.9,30.9,19.5,5.1,5.0,11.3,5.9,26.0,113,84,6.8
+2021-10-24,202110240HOU,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202110240HOU.html,27:42,.500,.500,.000,.000,0.0,12.4,6.3,4.8,1.8,4.0,0.0,3.3,117,100,-2.1
+2021-10-24,202110240HOU,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202110240HOU.html,30:34,1.014,1.063,.875,.250,3.8,7.5,5.7,11.0,0.0,0.0,0.0,13.2,193,108,11.7
+2021-10-24,202110240HOU,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202110240HOU.html,18:53,.438,.438,.625,.000,0.0,12.1,6.1,16.7,0.0,5.9,20.0,24.0,77,103,-6.5
+2021-10-24,202110240HOU,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202110240HOU.html,15:42,.500,.500,.833,.000,7.5,14.6,11.1,28.8,0.0,0.0,14.3,20.2,107,107,-0.3
+2021-10-24,202110240HOU,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202110240HOU.html,11:34,.000,.000,1.000,.000,10.1,9.9,10.0,10.9,4.3,0.0,20.0,19.6,29,98,-19.0
+2021-10-24,202110240HOU,HOU,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202110240HOU.html,36:35,.545,.542,.583,.333,0.0,9.6,4.7,15.5,0.0,0.0,36.8,27.6,69,116,-14.6
+2021-10-24,202110240HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202110240HOU.html,35:50,.833,.833,.556,.000,3.2,9.8,6.5,23.3,1.4,6.9,14.3,27.2,129,109,16.8
+2021-10-24,202110240HOU,HOU,Christian Wood,https://www.basketball-reference.com/boxscores/202110240HOU.html,35:31,.543,.429,.286,.714,3.2,26.4,14.7,5.4,1.4,0.0,0.0,24.0,115,110,1.7
+2021-10-24,202110240HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202110240HOU.html,35:18,.615,.500,.250,.500,6.5,19.9,13.1,20.5,2.8,0.0,9.3,14.1,132,108,3.2
+2021-10-24,202110240HOU,HOU,Daniel Theis,https://www.basketball-reference.com/boxscores/202110240HOU.html,22:35,.429,.429,.429,.000,0.0,25.9,12.8,16.6,0.0,5.4,0.0,14.4,96,110,-1.7
+2021-10-24,202110240HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202110240HOU.html,26:28,.167,.167,.500,.000,0.0,17.7,8.7,12.0,0.0,0.0,25.0,14.0,40,115,-14.7
+2021-10-24,202110240HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202110240HOU.html,19:26,.458,.200,.200,1.200,0.0,24.1,11.9,33.5,7.6,6.3,11.6,20.6,105,92,6.7
+2021-10-24,202110240HOU,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202110240HOU.html,13:43,.000,.000,.500,.000,0.0,17.1,8.4,0.0,0.0,0.0,33.3,10.1,0,115,-14.6
+2021-10-24,202110240HOU,HOU,D.J. Augustin,https://www.basketball-reference.com/boxscores/202110240HOU.html,10:16,1.500,1.500,1.000,.000,0.0,0.0,0.0,17.1,0.0,0.0,50.0,9.0,124,118,-1.7
+2021-10-24,202110240HOU,HOU,David Nwaba,https://www.basketball-reference.com/boxscores/202110240HOU.html,3:45,.000,.000,.000,.000,30.5,0.0,15.4,0.0,0.0,0.0,0.0,12.4,65,118,-13.8
+2021-10-24,202110240HOU,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202110240HOU.html,0:32,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,100.0,98,118,-11.2

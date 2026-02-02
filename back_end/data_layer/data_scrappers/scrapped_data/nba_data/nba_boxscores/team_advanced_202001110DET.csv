@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-11,202001110DET,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202001110DET.html,35:48,.510,.405,.429,.381,0.0,13.1,6.7,25.7,1.4,5.4,7.5,34.5,111,107,2.2
+2020-01-11,202001110DET,CHI,Kris Dunn,https://www.basketball-reference.com/boxscores/202001110DET.html,32:58,.500,.500,.444,.000,0.0,21.3,10.9,8.0,3.1,0.0,0.0,12.7,112,103,-2.0
+2020-01-11,202001110DET,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202001110DET.html,28:14,.636,.636,.364,.000,8.7,20.7,14.9,10.7,0.0,0.0,15.4,21.4,115,110,-2.5
+2020-01-11,202001110DET,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202001110DET.html,26:17,.727,.667,.167,.333,0.0,8.9,4.6,15.8,2.0,0.0,22.5,15.7,121,110,-2.5
+2020-01-11,202001110DET,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202001110DET.html,22:53,.778,.778,.000,.000,26.9,10.2,18.4,15.4,2.2,4.2,25.0,24.4,128,105,0.6
+2020-01-11,202001110DET,CHI,Luke Kornet,https://www.basketball-reference.com/boxscores/202001110DET.html,25:18,.577,.577,.692,.000,4.9,23.1,14.2,6.2,4.1,7.6,0.0,23.9,122,96,7.3
+2020-01-11,202001110DET,CHI,Coby White,https://www.basketball-reference.com/boxscores/202001110DET.html,20:42,.450,.438,.500,.250,5.9,11.3,8.7,26.5,2.5,0.0,18.4,24.5,96,107,-4.5
+2020-01-11,202001110DET,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202001110DET.html,19:46,.532,.000,1.000,2.000,0.0,11.8,6.1,5.8,2.6,0.0,0.0,4.4,140,107,-4.2
+2020-01-11,202001110DET,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202001110DET.html,17:52,1.500,1.500,1.000,.000,0.0,0.0,0.0,22.0,5.7,0.0,33.3,7.8,178,104,12.8
+2020-01-11,202001110DET,CHI,Chandler Hutchison,https://www.basketball-reference.com/boxscores/202001110DET.html,10:12,.833,.833,.333,.000,0.0,11.5,5.9,0.0,0.0,9.4,40.0,22.8,81,106,-7.7
+2020-01-11,202001110DET,DET,Bruce Brown,https://www.basketball-reference.com/boxscores/202001110DET.html,34:06,.400,.286,.143,.571,6.9,18.0,12.3,8.5,1.5,0.0,18.6,13.9,88,116,-6.5
+2020-01-11,202001110DET,DET,Tony Snell,https://www.basketball-reference.com/boxscores/202001110DET.html,30:42,.667,.667,.833,.000,0.0,4.0,2.0,10.0,1.7,3.3,33.3,12.9,90,117,-1.9
+2020-01-11,202001110DET,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/202001110DET.html,28:40,.510,.450,.200,.400,0.0,12.9,6.3,5.7,0.0,0.0,14.5,21.2,95,121,-9.2
+2020-01-11,202001110DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202001110DET.html,27:47,.455,.455,.727,.000,4.2,22.1,13.0,11.9,1.8,0.0,15.4,20.6,90,115,-5.4
+2020-01-11,202001110DET,DET,Andre Drummond,https://www.basketball-reference.com/boxscores/202001110DET.html,19:23,.589,.700,.200,1.200,6.0,19.0,12.4,17.3,2.6,0.0,11.6,19.7,113,114,4.2
+2020-01-11,202001110DET,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/202001110DET.html,29:00,.784,.727,.273,.364,0.0,8.5,4.1,47.5,0.0,0.0,23.9,25.5,129,122,5.8
+2020-01-11,202001110DET,DET,Christian Wood,https://www.basketball-reference.com/boxscores/202001110DET.html,26:13,.660,.667,.000,.167,26.8,37.6,32.0,25.7,2.0,11.4,13.4,25.0,129,103,12.9
+2020-01-11,202001110DET,DET,Langston Galloway,https://www.basketball-reference.com/boxscores/202001110DET.html,19:34,.338,.375,1.000,.250,0.0,0.0,0.0,21.9,0.0,0.0,0.0,10.0,103,124,-3.7
+2020-01-11,202001110DET,DET,Markieff Morris,https://www.basketball-reference.com/boxscores/202001110DET.html,13:57,.171,.000,.429,.571,8.4,17.6,12.9,0.0,3.7,0.0,18.6,34.0,39,111,-29.3
+2020-01-11,202001110DET,DET,Thon Maker,https://www.basketball-reference.com/boxscores/202001110DET.html,10:38,.850,.800,.200,.400,11.0,11.6,11.3,0.0,4.8,0.0,14.5,28.5,141,110,10.1

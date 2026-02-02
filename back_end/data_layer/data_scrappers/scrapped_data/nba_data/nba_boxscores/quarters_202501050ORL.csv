@@ -1,0 +1,81 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2025-01-05,202501050ORL,UTA,Q1,Walker Kessler,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,2,3,.667,0,0,0,0,2,4,6,1,0,1,0,0,4,6.7,+2,,
+2025-01-05,202501050ORL,UTA,Q1,Isaiah Collier,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,1,4,.250,0,1,0,0,1,1,2,2,0,0,1,1,2,0.6,+2,.000,
+2025-01-05,202501050ORL,UTA,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.5,0,3,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-2.1,-4,.000,
+2025-01-05,202501050ORL,UTA,Q1,Johnny Juzang,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,1,2,.500,1,2,0,0,0,2,2,0,0,0,0,0,3,2.6,+2,.500,
+2025-01-05,202501050ORL,UTA,Q1,Micah Potter,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.5,0,1,.000,0,0,0,0,0,0,0,0,0,0,1,1,0,-2.1,-4,,
+2025-01-05,202501050ORL,UTA,Q1,Kyle Filipowski,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.5,3,4,.750,0,1,0,1,0,1,1,0,0,0,0,1,6,3.9,+1,.000,.000
+2025-01-05,202501050ORL,UTA,Q1,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,2,2,1.000,1,1,0,0,0,0,0,0,0,0,1,0,5,3.4,-5,1.000,
+2025-01-05,202501050ORL,UTA,Q1,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,1,4,.250,0,3,0,0,0,0,0,1,2,0,0,0,2,2.3,-5,.000,
+2025-01-05,202501050ORL,UTA,Q1,Patty Mills,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.5,0,1,.000,0,1,0,0,0,1,1,0,0,0,1,0,0,-1.4,+1,.000,
+2025-01-05,202501050ORL,UTA,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,0,0,,0,0,0,0,0,0,0,1,0,1,0,0,0,1.4,-5,,
+2025-01-05,202501050ORL,UTA,Q2,Walker Kessler,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.72,1,1,1.000,0,0,0,0,2,4,6,0,0,0,1,1,2,2.9,-3,,
+2025-01-05,202501050ORL,UTA,Q2,Isaiah Collier,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.47,0,2,.000,0,1,0,0,0,0,0,1,0,0,2,0,0,-2.7,-1,.000,
+2025-01-05,202501050ORL,UTA,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.57,1,8,.125,1,4,2,2,0,2,2,2,0,0,0,0,5,1.8,-3,.250,1.000
+2025-01-05,202501050ORL,UTA,Q2,Johnny Juzang,https://www.basketball-reference.com/boxscores/202501050ORL.html,4.13,0,0,,0,0,0,0,0,1,1,1,0,0,1,1,0,-0.4,-1,,
+2025-01-05,202501050ORL,UTA,Q2,Micah Potter,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.72,0,1,.000,0,1,0,0,0,1,1,0,1,0,0,0,0,0.6,-3,.000,
+2025-01-05,202501050ORL,UTA,Q2,Kyle Filipowski,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.28,1,1,1.000,0,0,0,0,0,2,2,1,0,0,0,0,2,3.0,+6,,
+2025-01-05,202501050ORL,UTA,Q2,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202501050ORL.html,7.87,2,4,.500,1,1,0,0,1,0,1,0,0,0,0,1,5,3.3,+4,1.000,
+2025-01-05,202501050ORL,UTA,Q2,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.53,1,1,1.000,0,0,1,1,0,2,2,1,0,0,1,1,3,2.6,+4,,1.000
+2025-01-05,202501050ORL,UTA,Q2,Patty Mills,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.43,0,0,,0,0,0,0,0,0,0,0,0,0,2,0,0,-2.0,+6,,
+2025-01-05,202501050ORL,UTA,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.28,2,2,1.000,0,0,0,0,0,2,2,0,0,0,0,0,4,4.0,+6,,
+2025-01-05,202501050ORL,UTA,Q3,Walker Kessler,https://www.basketball-reference.com/boxscores/202501050ORL.html,9.73,1,1,1.000,0,0,2,2,1,3,4,0,0,0,1,1,4,3.9,+6,,1.000
+2025-01-05,202501050ORL,UTA,Q3,Isaiah Collier,https://www.basketball-reference.com/boxscores/202501050ORL.html,7.33,0,1,.000,0,1,0,0,0,2,2,2,0,0,0,0,0,1.3,+7,.000,
+2025-01-05,202501050ORL,UTA,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/202501050ORL.html,7.33,4,6,.667,2,3,0,0,0,1,1,0,1,0,3,1,10,5.3,+7,.667,
+2025-01-05,202501050ORL,UTA,Q3,Johnny Juzang,https://www.basketball-reference.com/boxscores/202501050ORL.html,7.33,1,2,.500,1,2,2,2,0,0,0,1,0,1,0,2,5,4.6,+7,.500,1.000
+2025-01-05,202501050ORL,UTA,Q3,Micah Potter,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.08,0,0,,0,0,0,0,1,0,1,0,0,1,0,0,0,1.4,+5,,
+2025-01-05,202501050ORL,UTA,Q3,Kyle Filipowski,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.92,0,1,.000,0,1,0,0,1,0,1,1,0,0,0,0,0,0.7,+4,.000,
+2025-01-05,202501050ORL,UTA,Q3,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202501050ORL.html,4.67,2,4,.500,0,1,0,0,0,1,1,0,0,0,0,0,4,2.3,+2,.000,
+2025-01-05,202501050ORL,UTA,Q3,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202501050ORL.html,4.67,1,2,.500,0,1,2,2,0,1,1,0,1,0,0,0,4,4.3,+2,.000,1.000
+2025-01-05,202501050ORL,UTA,Q3,Patty Mills,https://www.basketball-reference.com/boxscores/202501050ORL.html,4.67,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,,
+2025-01-05,202501050ORL,UTA,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202501050ORL.html,2.27,0,0,,0,0,1,2,0,0,0,0,0,0,1,0,1,-0.4,+3,,.500
+2025-01-05,202501050ORL,UTA,Q4,Walker Kessler,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.93,0,1,.000,0,0,0,0,1,0,1,1,0,0,0,1,0,0.3,-4,,
+2025-01-05,202501050ORL,UTA,Q4,Isaiah Collier,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.35,0,1,.000,0,0,0,0,0,1,1,1,0,0,2,1,0,-2.1,-4,,
+2025-01-05,202501050ORL,UTA,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.77,1,1,1.000,0,0,3,3,0,1,1,0,0,0,0,1,5,4.6,-4,,1.000
+2025-01-05,202501050ORL,UTA,Q4,Johnny Juzang,https://www.basketball-reference.com/boxscores/202501050ORL.html,2.58,1,1,1.000,0,0,2,2,0,0,0,1,0,0,1,1,4,3.0,0,,1.000
+2025-01-05,202501050ORL,UTA,Q4,Micah Potter,https://www.basketball-reference.com/boxscores/202501050ORL.html,2.58,1,1,1.000,0,0,1,1,0,0,0,0,0,0,0,0,3,2.7,0,,1.000
+2025-01-05,202501050ORL,UTA,Q4,Kyle Filipowski,https://www.basketball-reference.com/boxscores/202501050ORL.html,12.0,2,2,1.000,0,0,0,0,0,3,3,1,0,0,1,2,4,3.2,+4,,
+2025-01-05,202501050ORL,UTA,Q4,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202501050ORL.html,12.0,5,9,.556,3,3,0,0,1,0,1,0,0,0,0,0,13,9.4,+4,1.000,
+2025-01-05,202501050ORL,UTA,Q4,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.65,1,2,.500,1,2,0,0,0,1,1,1,0,0,2,0,3,1.0,+8,.500,
+2025-01-05,202501050ORL,UTA,Q4,Patty Mills,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.65,0,1,.000,0,1,0,0,0,1,1,1,0,0,0,1,0,-0.1,+8,.000,
+2025-01-05,202501050ORL,UTA,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.48,1,1,1.000,0,0,0,0,0,1,1,0,1,1,0,1,2,3.3,+8,,
+2025-01-05,202501050ORL,ORL,Q1,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,0,3,.000,0,1,0,0,1,2,3,1,0,0,0,0,0,-0.1,-2,.000,
+2025-01-05,202501050ORL,ORL,Q1,Goga Bitadze,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,3,5,.600,1,1,0,0,2,2,4,3,0,0,0,0,7,8.8,-2,1.000,
+2025-01-05,202501050ORL,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,2,6,.333,0,0,0,0,0,1,1,0,0,1,0,1,4,1.2,-2,,
+2025-01-05,202501050ORL,ORL,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,1,2,.500,0,1,0,0,0,1,1,0,0,0,0,0,2,1.3,-2,.000,
+2025-01-05,202501050ORL,ORL,Q1,Caleb Houstan,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.47,0,3,.000,0,3,0,0,0,0,0,0,2,0,0,1,0,-0.5,-2,.000,
+2025-01-05,202501050ORL,ORL,Q1,Jett Howard,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,3,3,1.000,2,2,0,0,0,0,0,0,0,0,1,0,8,6.1,+5,1.000,
+2025-01-05,202501050ORL,ORL,Q1,Trevelin Queen,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,0,0,,0,0,0,0,1,1,2,2,0,0,0,0,0,2.4,+5,,
+2025-01-05,202501050ORL,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,1,2,.500,0,1,0,0,0,1,1,0,1,0,0,0,2,2.3,+5,.000,
+2025-01-05,202501050ORL,ORL,Q1,Cory Joseph,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,0,1,.000,0,1,0,0,0,0,0,1,0,0,1,0,0,-1.0,+5,.000,
+2025-01-05,202501050ORL,ORL,Q1,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.53,1,2,.500,0,0,0,0,0,3,3,1,0,0,0,0,2,2.6,+5,,
+2025-01-05,202501050ORL,ORL,Q2,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202501050ORL.html,9.52,3,4,.750,0,0,0,0,1,2,3,0,0,0,0,1,6,5.3,-3,,
+2025-01-05,202501050ORL,ORL,Q2,Goga Bitadze,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.72,0,1,.000,0,1,0,0,1,2,3,0,0,0,0,0,0,0.6,+3,.000,
+2025-01-05,202501050ORL,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.72,0,3,.000,0,2,0,0,0,1,1,0,0,1,1,1,0,-2.5,+3,.000,
+2025-01-05,202501050ORL,ORL,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.72,0,3,.000,0,1,0,0,0,0,0,2,0,0,0,0,0,-0.7,+3,.000,
+2025-01-05,202501050ORL,ORL,Q2,Caleb Houstan,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.57,2,5,.400,2,5,0,0,0,0,0,0,0,0,0,0,6,3.3,+3,.400,
+2025-01-05,202501050ORL,ORL,Q2,Jett Howard,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.28,0,2,.000,0,2,0,0,0,0,0,2,0,0,0,0,0,0.0,-6,.000,
+2025-01-05,202501050ORL,ORL,Q2,Trevelin Queen,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.28,0,2,.000,0,1,0,0,0,1,1,0,1,1,1,2,0,-1.2,-6,.000,
+2025-01-05,202501050ORL,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.28,3,5,.600,0,1,0,0,1,1,2,0,1,0,0,0,6,5.7,-6,.000,
+2025-01-05,202501050ORL,ORL,Q2,Cory Joseph,https://www.basketball-reference.com/boxscores/202501050ORL.html,2.48,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2025-01-05,202501050ORL,ORL,Q2,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.43,0,3,.000,0,2,0,0,0,1,1,0,0,0,0,0,0,-1.8,-6,.000,
+2025-01-05,202501050ORL,ORL,Q3,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.08,0,3,.000,0,2,0,0,1,1,2,0,0,0,0,0,0,-1.1,-7,.000,
+2025-01-05,202501050ORL,ORL,Q3,Goga Bitadze,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.58,1,3,.333,0,0,0,2,2,2,4,1,1,0,2,2,2,0.4,-8,,.000
+2025-01-05,202501050ORL,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202501050ORL.html,8.33,2,4,.500,1,1,0,0,0,0,0,0,0,1,0,1,5,3.3,-6,1.000,
+2025-01-05,202501050ORL,ORL,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202501050ORL.html,7.33,0,1,.000,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.7,-7,,
+2025-01-05,202501050ORL,ORL,Q3,Caleb Houstan,https://www.basketball-reference.com/boxscores/202501050ORL.html,2.73,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-5,.000,
+2025-01-05,202501050ORL,ORL,Q3,Jett Howard,https://www.basketball-reference.com/boxscores/202501050ORL.html,4.67,1,2,.500,1,1,0,0,1,0,1,1,0,0,0,0,3,3.4,-2,1.000,
+2025-01-05,202501050ORL,ORL,Q3,Trevelin Queen,https://www.basketball-reference.com/boxscores/202501050ORL.html,9.27,1,3,.333,0,0,1,2,0,0,0,2,0,0,1,1,3,0.9,-4,,.500
+2025-01-05,202501050ORL,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.42,1,1,1.000,1,1,0,0,0,1,1,0,0,0,1,1,3,1.6,-1,1.000,
+2025-01-05,202501050ORL,ORL,Q3,Cory Joseph,https://www.basketball-reference.com/boxscores/202501050ORL.html,3.67,1,2,.500,1,1,0,0,0,0,0,0,0,0,0,1,3,1.6,-3,1.000,
+2025-01-05,202501050ORL,ORL,Q3,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.92,0,0,,0,0,0,0,0,0,0,1,0,0,0,1,0,0.3,-2,,
+2025-01-05,202501050ORL,ORL,Q4,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202501050ORL.html,6.6,0,1,.000,0,1,0,0,0,1,1,1,0,0,0,1,0,-0.1,-5,.000,
+2025-01-05,202501050ORL,ORL,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/202501050ORL.html,4.95,0,0,,0,0,0,2,0,0,0,0,0,0,0,0,0,-0.8,-5,,.000
+2025-01-05,202501050ORL,ORL,Q4,Cole Anthony,https://www.basketball-reference.com/boxscores/202501050ORL.html,4.95,1,1,1.000,1,1,0,0,0,2,2,0,0,0,0,2,3,2.5,-3,1.000,
+2025-01-05,202501050ORL,ORL,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.45,0,2,.000,0,2,0,0,0,1,1,0,0,0,0,2,0,-1.9,-6,.000,
+2025-01-05,202501050ORL,ORL,Q4,Caleb Houstan,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.02,1,1,1.000,1,1,0,0,1,1,2,0,0,0,0,0,3,3.7,+7,1.000,
+2025-01-05,202501050ORL,ORL,Q4,Jett Howard,https://www.basketball-reference.com/boxscores/202501050ORL.html,12.0,3,9,.333,1,5,3,3,1,0,1,1,0,0,0,0,10,6.3,-4,.200,1.000
+2025-01-05,202501050ORL,ORL,Q4,Trevelin Queen,https://www.basketball-reference.com/boxscores/202501050ORL.html,7.05,2,5,.400,2,4,2,2,0,0,0,2,2,0,0,0,8,8.7,-1,.500,1.000
+2025-01-05,202501050ORL,ORL,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202501050ORL.html,7.05,1,2,.500,0,0,2,2,1,1,2,2,0,0,2,2,4,2.6,+1,,1.000
+2025-01-05,202501050ORL,ORL,Q4,Cory Joseph,https://www.basketball-reference.com/boxscores/202501050ORL.html,5.4,1,2,.500,0,1,0,0,0,0,0,2,0,0,0,1,2,2.0,+1,.000,
+2025-01-05,202501050ORL,ORL,Q4,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202501050ORL.html,1.53,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,,

@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-03-27,202203270BOS,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202203270BOS.html,37.18,9,16,.563,5,9,.556,1,1,1.000,0,5,5,6,1,0,5,2,24,17.3,-14
+2022-03-27,202203270BOS,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202203270BOS.html,34.77,8,15,.533,1,3,.333,2,4,.500,0,4,4,5,1,0,3,4,19,12.0,-16
+2022-03-27,202203270BOS,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202203270BOS.html,30.65,1,6,.167,0,3,.000,2,2,1.000,0,1,1,6,2,0,2,2,4,3.9,-19
+2022-03-27,202203270BOS,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202203270BOS.html,23.93,3,7,.429,1,4,.250,0,0,,0,4,4,1,1,0,1,2,7,4.4,-8
+2022-03-27,202203270BOS,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202203270BOS.html,18.27,5,7,.714,0,0,,1,2,.500,2,2,4,0,0,0,0,2,11,8.9,-2
+2022-03-27,202203270BOS,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202203270BOS.html,26.85,5,8,.625,2,3,.667,1,1,1.000,0,2,2,2,0,1,0,1,13,11.7,-16
+2022-03-27,202203270BOS,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202203270BOS.html,25.43,4,10,.400,2,6,.333,0,0,,0,4,4,0,1,1,0,1,10,7.1,-19
+2022-03-27,202203270BOS,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202203270BOS.html,16.78,3,4,.750,0,0,,0,0,,0,0,0,2,1,1,1,2,6,5.7,-7
+2022-03-27,202203270BOS,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202203270BOS.html,8.93,2,3,.667,1,1,1.000,1,2,.500,1,2,3,1,0,0,1,4,6,3.7,-5
+2022-03-27,202203270BOS,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202203270BOS.html,4.3,2,2,1.000,1,1,1.000,0,0,,1,1,2,0,0,0,0,0,5,5.4,-1
+2022-03-27,202203270BOS,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202203270BOS.html,4.3,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0,-1
+2022-03-27,202203270BOS,MIN,Leandro Bolmaro,https://www.basketball-reference.com/boxscores/202203270BOS.html,4.3,1,1,1.000,0,0,,0,0,,0,1,1,2,0,0,0,0,2,3.4,-1
+2022-03-27,202203270BOS,MIN,Jake Layman,https://www.basketball-reference.com/boxscores/202203270BOS.html,4.3,1,3,.333,0,1,.000,0,0,,0,0,0,1,0,0,1,1,2,-0.4,-1
+2022-03-27,202203270BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202203270BOS.html,34.67,12,20,.600,3,5,.600,4,4,1.000,1,9,10,2,0,0,1,0,31,25.6,+6
+2022-03-27,202203270BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202203270BOS.html,33.72,12,21,.571,5,11,.455,5,5,1.000,0,5,5,6,1,1,3,1,34,28.1,+34
+2022-03-27,202203270BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202203270BOS.html,28.32,2,5,.400,1,3,.333,2,2,1.000,0,3,3,0,0,1,0,4,7,4.3,+5
+2022-03-27,202203270BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202203270BOS.html,27.47,3,9,.333,1,6,.167,0,0,,0,3,3,7,2,0,4,3,7,4.5,+18
+2022-03-27,202203270BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202203270BOS.html,23.78,6,7,.857,0,0,,1,1,1.000,6,4,10,0,1,1,0,2,13,16.8,+7
+2022-03-27,202203270BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202203270BOS.html,30.23,4,6,.667,2,4,.500,5,5,1.000,0,2,2,6,1,0,4,2,15,13.4,+11
+2022-03-27,202203270BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202203270BOS.html,21.02,4,7,.571,3,5,.600,0,0,,1,1,2,5,0,1,0,0,11,12.9,+6
+2022-03-27,202203270BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202203270BOS.html,17.55,2,5,.400,0,1,.000,0,0,,2,4,6,0,1,0,1,5,4,1.9,+17
+2022-03-27,202203270BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202203270BOS.html,15.62,2,4,.500,0,2,.000,2,4,.500,0,4,4,1,1,1,0,3,6,5.6,+8
+2022-03-27,202203270BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202203270BOS.html,3.82,2,2,1.000,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,6,5.4,-1
+2022-03-27,202203270BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202203270BOS.html,3.82,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1

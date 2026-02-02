@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-03-02,202003020CHI,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202003020CHI.html,38:27,.480,.425,.400,.450,0.0,13.3,7.3,37.4,1.3,0.0,14.3,32.1,100,112,-2.8
+2020-03-02,202003020CHI,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202003020CHI.html,35:46,.594,.571,.571,.095,0.0,2.9,1.6,15.1,1.4,0.0,8.4,29.5,112,115,1.3
+2020-03-02,202003020CHI,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202003020CHI.html,33:31,.732,.688,.875,.250,0.0,30.5,16.7,4.2,1.4,4.9,10.1,13.0,130,104,5.2
+2020-03-02,202003020CHI,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202003020CHI.html,32:13,.827,.850,.600,.200,11.5,12.7,12.1,15.1,0.0,2.6,8.4,16.3,155,114,8.3
+2020-03-02,202003020CHI,DAL,Courtney Lee,https://www.basketball-reference.com/boxscores/202003020CHI.html,23:34,.735,.700,.600,.200,0.0,0.0,0.0,0.0,6.2,0.0,35.5,15.8,83,105,-4.2
+2020-03-02,202003020CHI,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/202003020CHI.html,26:54,.000,.000,.500,.000,0.0,22.8,12.4,17.8,1.8,0.0,60.0,8.2,44,109,-10.3
+2020-03-02,202003020CHI,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202003020CHI.html,22:20,.636,.636,.091,.000,27.6,32.0,30.0,0.0,2.2,3.7,8.3,23.7,126,103,3.7
+2020-03-02,202003020CHI,DAL,J.J. Barea,https://www.basketball-reference.com/boxscores/202003020CHI.html,12:48,.129,.000,.333,.667,0.0,0.0,0.0,46.9,0.0,0.0,20.5,16.8,75,119,-12.2
+2020-03-02,202003020CHI,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/202003020CHI.html,8:38,.250,.250,.750,.000,0.0,23.7,12.9,16.1,5.6,9.6,0.0,20.4,69,94,-0.4
+2020-03-02,202003020CHI,DAL,Michael Kidd-Gilchrist,https://www.basketball-reference.com/boxscores/202003020CHI.html,5:49,1.136,,,,21.2,0.0,9.6,0.0,0.0,0.0,0.0,6.7,243,118,-2.4
+2020-03-02,202003020CHI,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202003020CHI.html,35:41,.450,.417,.250,.250,8.6,20.7,14.1,14.4,1.4,0.0,7.0,16.7,108,109,-1.1
+2020-03-02,202003020CHI,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202003020CHI.html,30:45,.550,.550,.300,.000,10.0,12.0,10.9,21.6,1.6,0.0,16.7,16.2,115,110,-1.1
+2020-03-02,202003020CHI,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202003020CHI.html,23:00,.486,.400,.000,1.000,4.4,26.8,14.6,5.2,0.0,5.0,21.7,16.6,88,108,-6.3
+2020-03-02,202003020CHI,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202003020CHI.html,21:06,.567,.567,.667,.000,4.8,17.5,10.6,16.2,0.0,5.4,11.8,33.5,105,110,4.8
+2020-03-02,202003020CHI,CHI,Shaquille Harrison,https://www.basketball-reference.com/boxscores/202003020CHI.html,15:45,.205,.000,.250,.500,0.0,15.6,7.1,6.9,6.1,7.3,17.0,15.5,49,95,-3.5
+2020-03-02,202003020CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202003020CHI.html,32:14,.475,.475,.450,.000,3.2,19.1,10.4,23.2,1.5,0.0,16.7,30.9,91,109,-2.9
+2020-03-02,202003020CHI,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202003020CHI.html,24:58,.827,.800,.000,.200,0.0,9.9,4.5,5.3,0.0,4.6,0.0,9.1,171,112,3.1
+2020-03-02,202003020CHI,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202003020CHI.html,20:26,.571,.571,.286,.571,15.0,18.1,16.4,13.6,2.4,0.0,10.2,19.9,121,107,3.1
+2020-03-02,202003020CHI,CHI,Adam Mokoka,https://www.basketball-reference.com/boxscores/202003020CHI.html,18:50,.400,.400,.600,.000,0.0,0.0,0.0,0.0,2.6,0.0,16.7,13.2,68,111,-11.6
+2020-03-02,202003020CHI,CHI,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202003020CHI.html,17:15,.758,.773,.455,.182,0.0,7.1,3.2,34.0,0.0,6.6,0.0,28.6,156,111,21.5

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-30,202311300MIA,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202311300MIA.html,39.73,15,28,.536,6,16,.375,8,12,.667,0,2,2,10,3,1,2,0,44,38.1,-6
+2023-11-30,202311300MIA,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202311300MIA.html,33.25,10,15,.667,3,7,.429,2,5,.400,1,1,2,3,0,1,2,5,25,17.1,+6
+2023-11-30,202311300MIA,IND,Bruce Brown,https://www.basketball-reference.com/boxscores/202311300MIA.html,32.28,5,9,.556,0,2,.000,5,7,.714,1,5,6,3,0,0,0,1,15,13.8,-6
+2023-11-30,202311300MIA,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202311300MIA.html,30.88,5,16,.313,2,11,.182,0,0,,1,4,5,5,1,2,1,6,12,7.2,-13
+2023-11-30,202311300MIA,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202311300MIA.html,29.07,5,14,.357,0,5,.000,3,5,.600,4,5,9,2,0,1,0,3,13,9.6,-13
+2023-11-30,202311300MIA,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202311300MIA.html,23.7,5,7,.714,0,0,,2,2,1.000,0,3,3,0,0,0,1,1,12,8.6,-14
+2023-11-30,202311300MIA,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202311300MIA.html,22.57,4,5,.800,0,1,.000,1,1,1.000,3,2,5,1,4,0,1,6,9,11.1,-2
+2023-11-30,202311300MIA,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202311300MIA.html,22.4,1,4,.250,0,1,.000,0,0,,0,1,1,5,2,0,2,6,2,1.0,0
+2023-11-30,202311300MIA,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202311300MIA.html,5.85,0,0,,0,0,,0,0,,0,1,1,1,1,0,0,3,0,0.8,-2
+2023-11-30,202311300MIA,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202311300MIA.html,0.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-11-30,202311300MIA,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202311300MIA.html,0.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-11-30,202311300MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202311300MIA.html,37.98,9,19,.474,0,1,.000,18,20,.900,4,7,11,3,0,0,3,1,36,29.1,-3
+2023-11-30,202311300MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202311300MIA.html,29.33,5,9,.556,4,6,.667,2,2,1.000,0,1,1,2,1,0,1,3,16,12.2,+9
+2023-11-30,202311300MIA,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202311300MIA.html,25.47,6,10,.600,3,6,.500,0,0,,1,2,3,3,0,1,0,5,15,12.5,-11
+2023-11-30,202311300MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202311300MIA.html,14.65,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,1,4,2,-0.6,-12
+2023-11-30,202311300MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202311300MIA.html,12.47,3,9,.333,0,0,,1,2,.500,0,4,4,2,0,0,0,1,7,3.7,-2
+2023-11-30,202311300MIA,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202311300MIA.html,33.07,8,13,.615,1,3,.333,7,7,1.000,0,5,5,1,1,0,3,3,24,17.1,+18
+2023-11-30,202311300MIA,MIA,Josh Richardson,https://www.basketball-reference.com/boxscores/202311300MIA.html,31.72,8,11,.727,0,2,.000,3,4,.750,1,3,4,3,0,0,2,3,19,14.6,+22
+2023-11-30,202311300MIA,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202311300MIA.html,25.05,5,9,.556,0,2,.000,4,6,.667,2,3,5,3,1,0,4,4,14,8.7,+15
+2023-11-30,202311300MIA,MIA,Kevin Love,https://www.basketball-reference.com/boxscores/202311300MIA.html,17.45,1,1,1.000,0,0,,3,4,.750,1,7,8,6,1,0,0,2,5,11.5,+10
+2023-11-30,202311300MIA,MIA,Orlando Robinson,https://www.basketball-reference.com/boxscores/202311300MIA.html,7.13,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,1,2,1.2,+5
+2023-11-30,202311300MIA,MIA,Thomas Bryant,https://www.basketball-reference.com/boxscores/202311300MIA.html,5.68,1,1,1.000,0,0,,0,0,,1,3,4,1,0,0,0,1,2,3.6,-1

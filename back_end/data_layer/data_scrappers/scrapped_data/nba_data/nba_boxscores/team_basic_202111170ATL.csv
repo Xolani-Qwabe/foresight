@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-11-17,202111170ATL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202111170ATL.html,37.77,12,22,.545,5,12,.417,5,6,.833,3,6,9,5,1,1,4,2,34,27.3,-7
+2021-11-17,202111170ATL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202111170ATL.html,35.42,3,10,.300,0,4,.000,2,2,1.000,1,2,3,11,2,0,2,1,8,10.8,-4
+2021-11-17,202111170ATL,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202111170ATL.html,32.92,5,9,.556,1,4,.250,2,4,.500,2,5,7,2,2,1,2,1,13,12.5,-10
+2021-11-17,202111170ATL,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202111170ATL.html,31.92,6,12,.500,1,4,.250,2,2,1.000,0,1,1,3,3,0,3,4,15,9.8,-10
+2021-11-17,202111170ATL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202111170ATL.html,30.18,6,12,.500,3,8,.375,3,3,1.000,2,4,6,0,0,0,0,4,18,13.0,-13
+2021-11-17,202111170ATL,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202111170ATL.html,27.02,5,10,.500,1,4,.250,0,0,,0,2,2,2,1,0,1,2,11,7.2,-4
+2021-11-17,202111170ATL,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202111170ATL.html,13.95,0,2,.000,0,1,.000,0,0,,0,5,5,0,0,0,1,0,0,-0.9,-5
+2021-11-17,202111170ATL,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202111170ATL.html,13.55,0,3,.000,0,0,,0,0,,4,1,5,1,0,0,0,2,0,0.9,-1
+2021-11-17,202111170ATL,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202111170ATL.html,11.15,0,2,.000,0,2,.000,0,0,,0,4,4,0,0,0,0,1,0,-0.6,-1
+2021-11-17,202111170ATL,BOS,Bruno Fernando,https://www.basketball-reference.com/boxscores/202111170ATL.html,1.53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-11-17,202111170ATL,BOS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202111170ATL.html,1.53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-11-17,202111170ATL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202111170ATL.html,1.53,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,0,0,-2.4,0
+2021-11-17,202111170ATL,BOS,Brodric Thomas,https://www.basketball-reference.com/boxscores/202111170ATL.html,1.53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-11-17,202111170ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202111170ATL.html,35.08,4,12,.333,0,6,.000,10,10,1.000,0,0,0,11,1,0,6,2,18,13.1,+9
+2021-11-17,202111170ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202111170ATL.html,34.17,9,13,.692,1,1,1.000,1,2,.500,1,10,11,1,2,1,1,4,20,18.6,+12
+2021-11-17,202111170ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202111170ATL.html,31.82,7,9,.778,5,7,.714,0,0,,0,5,5,2,1,0,0,3,19,18.2,+7
+2021-11-17,202111170ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202111170ATL.html,31.78,4,7,.571,0,1,.000,1,2,.500,2,10,12,3,1,1,1,0,9,12.5,+11
+2021-11-17,202111170ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202111170ATL.html,31.62,4,12,.333,4,10,.400,0,0,,0,1,1,6,0,0,0,2,12,8.9,+8
+2021-11-17,202111170ATL,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202111170ATL.html,26.95,8,14,.571,1,6,.167,2,2,1.000,1,1,2,1,3,1,1,1,19,16.4,-1
+2021-11-17,202111170ATL,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202111170ATL.html,20.2,3,6,.500,1,4,.250,1,2,.500,0,4,4,0,0,0,0,3,8,4.6,+5
+2021-11-17,202111170ATL,ATL,Lou Williams,https://www.basketball-reference.com/boxscores/202111170ATL.html,13.17,1,5,.200,0,0,,0,0,,0,1,1,3,0,0,2,1,2,-1.1,+2
+2021-11-17,202111170ATL,ATL,Delon Wright,https://www.basketball-reference.com/boxscores/202111170ATL.html,12.92,1,3,.333,1,2,.500,0,0,,2,2,4,1,1,0,0,0,3,5.0,+2
+2021-11-17,202111170ATL,ATL,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202111170ATL.html,1.97,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,1,0,0.3,+2
+2021-11-17,202111170ATL,ATL,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202111170ATL.html,0.28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2

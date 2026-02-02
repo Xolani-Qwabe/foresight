@@ -1,0 +1,77 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-11-29,202111290LAC,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202111290LAC.html,9.88,5,6,.833,1,2,.500,0,0,0,1,1,2,0,0,0,1,11,10.1,+19,
+2021-11-29,202111290LAC,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202111290LAC.html,12.0,3,3,1.000,0,0,,1,1,1,1,2,0,1,1,0,1,7,8.4,+15,1.000
+2021-11-29,202111290LAC,NOP,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.53,0,2,.000,0,1,.000,2,2,0,3,3,2,1,0,2,1,2,1.5,+15,1.000
+2021-11-29,202111290LAC,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.62,5,8,.625,3,3,1.000,0,0,2,2,4,1,0,0,0,0,13,12.1,+11,
+2021-11-29,202111290LAC,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.62,0,1,.000,0,1,.000,0,0,0,0,0,2,1,0,0,0,0,1.7,+11,
+2021-11-29,202111290LAC,NOP,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.47,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,0,
+2021-11-29,202111290LAC,NOP,Q1,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.38,1,2,.500,0,0,,0,0,1,3,4,0,0,0,0,1,2,2.2,+4,
+2021-11-29,202111290LAC,NOP,Q1,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.38,0,1,.000,0,1,.000,2,2,0,0,0,2,0,0,0,0,2,2.7,+4,1.000
+2021-11-29,202111290LAC,NOP,Q1,Garrett Temple,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.12,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2021-11-29,202111290LAC,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.23,2,2,1.000,0,0,,0,1,0,3,3,1,0,0,0,0,4,4.6,+2,.000
+2021-11-29,202111290LAC,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.77,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-6,
+2021-11-29,202111290LAC,NOP,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.23,0,2,.000,0,1,.000,0,0,0,5,5,3,0,0,1,0,0,1.2,+6,
+2021-11-29,202111290LAC,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.72,6,7,.857,4,4,1.000,0,0,1,1,2,1,0,0,0,0,16,15.2,+3,
+2021-11-29,202111290LAC,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.53,1,2,.500,0,1,.000,0,0,0,0,0,1,0,0,1,2,2,-0.1,-6,
+2021-11-29,202111290LAC,NOP,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111290LAC.html,12.0,2,4,.500,1,3,.333,0,0,0,0,0,2,0,0,0,1,5,4.0,0,
+2021-11-29,202111290LAC,NOP,Q2,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2021-11-29,202111290LAC,NOP,Q2,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.47,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,+6,
+2021-11-29,202111290LAC,NOP,Q2,Garrett Temple,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.77,1,2,.500,1,2,.500,0,0,0,0,0,0,1,0,0,0,3,3.0,-2,
+2021-11-29,202111290LAC,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202111290LAC.html,10.3,2,6,.333,0,0,,0,0,1,2,3,1,0,0,1,1,4,1.2,0,
+2021-11-29,202111290LAC,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202111290LAC.html,12.0,2,5,.400,0,1,.000,0,0,1,0,1,1,1,0,0,1,4,3.3,-3,
+2021-11-29,202111290LAC,NOP,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.78,0,3,.000,0,2,.000,0,0,0,2,2,2,0,0,0,1,0,-0.5,0,
+2021-11-29,202111290LAC,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111290LAC.html,6.45,2,2,1.000,0,0,,0,0,1,2,3,1,1,0,0,0,4,6.4,+1,
+2021-11-29,202111290LAC,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111290LAC.html,6.7,1,3,.333,1,3,.333,0,0,0,0,0,0,2,0,0,1,3,2.9,-2,
+2021-11-29,202111290LAC,NOP,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.22,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,-3,
+2021-11-29,202111290LAC,NOP,Q3,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.55,1,2,.500,0,0,,1,2,1,0,1,0,0,0,0,1,3,1.9,-4,.500
+2021-11-29,202111290LAC,NOP,Q3,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.3,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,-1,
+2021-11-29,202111290LAC,NOP,Q3,Garrett Temple,https://www.basketball-reference.com/boxscores/202111290LAC.html,1.7,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-3,
+2021-11-29,202111290LAC,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.82,3,4,.750,0,0,,2,3,0,0,0,0,0,0,0,0,8,6.0,+6,.667
+2021-11-29,202111290LAC,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.07,1,1,1.000,0,0,,3,3,0,1,1,0,0,0,0,1,5,4.6,+8,1.000
+2021-11-29,202111290LAC,NOP,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202111290LAC.html,9.58,1,2,.500,0,1,.000,0,0,1,1,2,2,1,0,0,1,2,4.0,+7,
+2021-11-29,202111290LAC,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111290LAC.html,9.58,2,7,.286,0,1,.000,2,2,3,3,6,0,1,0,1,2,6,4.1,+7,1.000
+2021-11-29,202111290LAC,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.75,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,0,0,3,2.3,+9,
+2021-11-29,202111290LAC,NOP,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.52,0,4,.000,0,2,.000,0,0,1,0,1,0,0,0,0,0,0,-2.1,-1,
+2021-11-29,202111290LAC,NOP,Q4,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.42,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,1,1,4,2.3,0,
+2021-11-29,202111290LAC,NOP,Q4,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.42,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2021-11-29,202111290LAC,NOP,Q4,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.78,0,0,,0,0,,0,0,0,1,1,2,0,0,0,0,0,1.7,-2,
+2021-11-29,202111290LAC,NOP,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.23,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,+1,
+2021-11-29,202111290LAC,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.42,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,5,4.4,0,
+2021-11-29,202111290LAC,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.42,0,0,,0,0,,0,0,0,0,0,2,0,0,0,1,0,1.0,0,
+2021-11-29,202111290LAC,LAC,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202111290LAC.html,12.0,3,6,.500,2,4,.500,1,2,0,1,1,1,0,0,0,2,9,5.8,-15,.500
+2021-11-29,202111290LAC,LAC,Q1,Paul George,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.53,2,5,.400,0,1,.000,0,0,0,0,0,1,0,0,3,0,4,-1.0,-15,
+2021-11-29,202111290LAC,LAC,Q1,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.62,1,1,1.000,0,0,,0,2,0,0,0,1,1,0,1,0,2,1.6,-11,.000
+2021-11-29,202111290LAC,LAC,Q1,Amir Coffey,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.62,0,0,,0,0,,1,2,0,1,1,0,0,0,0,0,1,0.9,-11,.500
+2021-11-29,202111290LAC,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.62,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,1,2,1.9,-11,
+2021-11-29,202111290LAC,LAC,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.38,0,0,,0,0,,0,0,0,1,1,2,0,0,0,0,0,1.7,-4,
+2021-11-29,202111290LAC,LAC,Q1,Luke Kennard,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.38,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-4,
+2021-11-29,202111290LAC,LAC,Q1,Serge Ibaka,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.38,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,2,2.3,-4,
+2021-11-29,202111290LAC,LAC,Q1,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.47,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,
+2021-11-29,202111290LAC,LAC,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.88,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,+6,
+2021-11-29,202111290LAC,LAC,Q2,Paul George,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.23,4,7,.571,2,4,.500,3,3,0,1,1,1,1,0,0,0,13,11.7,-2,1.000
+2021-11-29,202111290LAC,LAC,Q2,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.75,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,1,2,0.6,-4,
+2021-11-29,202111290LAC,LAC,Q2,Amir Coffey,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.13,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,+4,
+2021-11-29,202111290LAC,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.48,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-5,
+2021-11-29,202111290LAC,LAC,Q2,Terance Mann,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.12,0,0,,0,0,,0,0,0,2,2,1,0,0,0,0,0,1.3,-6,
+2021-11-29,202111290LAC,LAC,Q2,Luke Kennard,https://www.basketball-reference.com/boxscores/202111290LAC.html,11.12,1,3,.333,1,2,.500,2,3,0,0,0,1,0,0,0,0,5,3.6,0,.667
+2021-11-29,202111290LAC,LAC,Q2,Serge Ibaka,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.52,3,4,.750,2,2,1.000,0,0,0,3,3,0,0,0,1,2,8,5.5,+5,
+2021-11-29,202111290LAC,LAC,Q2,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.77,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+2,
+2021-11-29,202111290LAC,LAC,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202111290LAC.html,9.83,4,6,.667,2,4,.500,0,0,0,1,1,0,0,0,1,1,10,6.3,+4,
+2021-11-29,202111290LAC,LAC,Q3,Paul George,https://www.basketball-reference.com/boxscores/202111290LAC.html,10.3,0,3,.000,0,3,.000,0,0,0,1,1,1,0,0,3,0,0,-4.1,0,
+2021-11-29,202111290LAC,LAC,Q3,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202111290LAC.html,8.87,2,3,.667,0,0,,2,2,0,3,3,1,0,0,1,0,6,5.3,+1,1.000
+2021-11-29,202111290LAC,LAC,Q3,Amir Coffey,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.78,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,0,
+2021-11-29,202111290LAC,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202111290LAC.html,6.45,0,0,,0,0,,0,0,0,2,2,0,0,1,1,0,0,0.3,-1,
+2021-11-29,202111290LAC,LAC,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.22,1,1,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,2,2.4,+3,
+2021-11-29,202111290LAC,LAC,Q3,Luke Kennard,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.3,1,2,.500,0,1,.000,0,0,0,1,1,1,0,0,1,0,2,1.0,+1,
+2021-11-29,202111290LAC,LAC,Q3,Serge Ibaka,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.55,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.7,+4,
+2021-11-29,202111290LAC,LAC,Q3,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202111290LAC.html,1.7,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,
+2021-11-29,202111290LAC,LAC,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202111290LAC.html,9.07,0,1,.000,0,1,.000,0,0,0,2,2,1,0,0,0,0,0,0.6,-5,
+2021-11-29,202111290LAC,LAC,Q4,Paul George,https://www.basketball-reference.com/boxscores/202111290LAC.html,6.83,4,5,.800,1,2,.500,1,1,0,1,1,0,0,0,1,3,10,6.2,-4,1.000
+2021-11-29,202111290LAC,LAC,Q4,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202111290LAC.html,3.47,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-6,
+2021-11-29,202111290LAC,LAC,Q4,Amir Coffey,https://www.basketball-reference.com/boxscores/202111290LAC.html,4.63,2,2,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.7,-6,
+2021-11-29,202111290LAC,LAC,Q4,Terance Mann,https://www.basketball-reference.com/boxscores/202111290LAC.html,12.0,1,5,.200,0,3,.000,2,2,1,2,3,2,0,0,1,2,4,1.8,-7,1.000
+2021-11-29,202111290LAC,LAC,Q4,Luke Kennard,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.6,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2021-11-29,202111290LAC,LAC,Q4,Serge Ibaka,https://www.basketball-reference.com/boxscores/202111290LAC.html,7.37,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,3,0,-1.9,-1,
+2021-11-29,202111290LAC,LAC,Q4,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202111290LAC.html,5.17,1,2,.500,1,1,1.000,2,2,2,0,2,1,0,1,1,0,5,5.8,-3,1.000
+2021-11-29,202111290LAC,LAC,Q4,Keon Johnson,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.93,0,2,.000,0,0,,2,2,0,0,0,0,0,0,0,0,2,0.6,-2,1.000
+2021-11-29,202111290LAC,LAC,Q4,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202111290LAC.html,2.93,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,

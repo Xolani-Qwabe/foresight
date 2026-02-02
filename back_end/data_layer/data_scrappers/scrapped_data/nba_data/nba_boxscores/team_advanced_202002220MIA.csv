@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-22,202002220MIA,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202002220MIA.html,37:48,.539,.533,.733,.400,7.1,19.2,12.9,29.3,0.0,0.0,0.0,19.9,134,131,2.5
+2020-02-22,202002220MIA,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202002220MIA.html,33:24,.494,.433,.467,.333,0.0,8.7,4.2,42.0,1.5,0.0,18.9,27.0,105,128,-3.6
+2020-02-22,202002220MIA,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202002220MIA.html,33:16,.636,.636,.455,.000,0.0,0.0,0.0,24.6,2.9,0.0,15.4,16.6,120,126,0.5
+2020-02-22,202002220MIA,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,28:10,.500,.500,.400,.000,9.5,25.8,17.3,5.8,3.5,0.0,23.1,19.7,85,122,-8.0
+2020-02-22,202002220MIA,CLE,Andre Drummond,https://www.basketball-reference.com/boxscores/202002220MIA.html,24:41,1.000,1.000,.000,.000,5.4,29.5,16.9,6.0,2.0,0.0,57.1,12.1,72,126,-8.1
+2020-02-22,202002220MIA,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/202002220MIA.html,25:59,.735,.750,.100,.200,20.5,16.8,18.7,7.4,0.0,0.0,21.6,22.8,115,131,-2.2
+2020-02-22,202002220MIA,CLE,Dante Exum,https://www.basketball-reference.com/boxscores/202002220MIA.html,25:19,.810,.750,.833,1.000,10.5,34.5,22.0,5.9,0.0,4.9,18.8,17.9,136,127,4.7
+2020-02-22,202002220MIA,CLE,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,14:13,.170,.000,.400,.400,0.0,20.5,9.8,8.9,3.4,8.7,25.4,23.6,40,116,-19.4
+2020-02-22,202002220MIA,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202002220MIA.html,8:35,.000,.000,1.000,.000,0.0,16.9,8.1,44.1,0.0,0.0,66.7,14.9,54,132,-15.7
+2020-02-22,202002220MIA,CLE,Ante Žižić,https://www.basketball-reference.com/boxscores/202002220MIA.html,8:35,1.017,1.000,.000,.333,0.0,0.0,0.0,0.0,5.7,0.0,36.8,27.0,100,119,3.5
+2020-02-22,202002220MIA,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002220MIA.html,34:44,.820,.750,.583,.500,0.0,7.7,4.0,31.3,2.8,3.2,6.4,21.0,164,110,11.3
+2020-02-22,202002220MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002220MIA.html,32:15,.792,.792,.833,.000,0.0,4.1,2.2,12.9,0.0,0.0,14.3,20.3,124,118,-1.7
+2020-02-22,202002220MIA,MIA,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002220MIA.html,27:00,.825,.786,.429,.286,0.0,19.8,10.3,19.7,7.3,0.0,0.0,13.6,175,98,11.4
+2020-02-22,202002220MIA,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002220MIA.html,26:15,.970,1.000,.857,.571,0.0,10.2,5.3,10.2,3.7,4.3,10.2,17.4,159,106,9.6
+2020-02-22,202002220MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002220MIA.html,25:34,.727,.778,.000,.333,5.7,10.4,8.2,53.0,1.9,4.4,32.6,28.0,120,110,3.4
+2020-02-22,202002220MIA,MIA,Jae Crowder,https://www.basketball-reference.com/boxscores/202002220MIA.html,26:48,.813,.813,.750,.000,5.4,14.9,10.4,9.9,9.1,0.0,11.1,15.7,139,94,7.3
+2020-02-22,202002220MIA,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202002220MIA.html,25:32,.673,.636,.455,.182,0.0,20.9,10.9,22.3,1.9,4.4,20.2,27.2,111,108,-2.7
+2020-02-22,202002220MIA,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202002220MIA.html,18:29,.291,.333,.000,.333,15.7,7.2,11.3,0.0,0.0,0.0,22.5,11.2,78,117,-16.6
+2020-02-22,202002220MIA,MIA,Udonis Haslem,https://www.basketball-reference.com/boxscores/202002220MIA.html,9:48,.000,.000,.400,.000,0.0,68.0,35.5,10.9,0.0,0.0,0.0,23.8,18,101,-26.4
+2020-02-22,202002220MIA,MIA,Solomon Hill,https://www.basketball-reference.com/boxscores/202002220MIA.html,8:12,.250,.250,.250,.000,0.0,0.0,0.0,0.0,6.0,0.0,0.0,22.8,50,106,-17.4
+2020-02-22,202002220MIA,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/202002220MIA.html,5:23,.798,1.000,.000,2.000,0.0,24.8,12.9,24.7,0.0,0.0,34.7,25.0,110,111,-12.2

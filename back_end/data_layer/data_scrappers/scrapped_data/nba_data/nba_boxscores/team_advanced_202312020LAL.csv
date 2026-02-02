@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-02,202312020LAL,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202312020LAL.html,39:34,.656,.600,.467,.267,2.4,9.3,5.9,30.9,0.0,0.0,15.2,21.2,122,113,3.7
+2023-12-02,202312020LAL,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202312020LAL.html,33:44,.406,.380,.320,.080,8.5,27.4,18.1,28.9,2.9,4.6,0.0,32.6,98,99,9.2
+2023-12-02,202312020LAL,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202312020LAL.html,33:09,.556,.556,.444,.000,2.9,2.8,2.8,4.8,0.0,0.0,10.0,12.8,103,114,-5.4
+2023-12-02,202312020LAL,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202312020LAL.html,32:12,.315,.300,.400,.133,3.0,17.2,10.2,9.9,0.0,0.0,27.4,28.9,53,111,-16.8
+2023-12-02,202312020LAL,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202312020LAL.html,29:47,.635,.571,.429,.286,3.2,24.8,14.2,16.4,3.2,7.8,27.6,15.5,100,95,3.8
+2023-12-02,202312020LAL,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202312020LAL.html,19:47,.510,.400,.200,.400,9.7,23.3,16.7,15.6,2.4,3.9,14.5,14.8,110,101,2.8
+2023-12-02,202312020LAL,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202312020LAL.html,14:10,.500,.500,.000,.000,0.0,13.0,6.6,0.0,0.0,0.0,0.0,6.0,100,112,-7.9
+2023-12-02,202312020LAL,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202312020LAL.html,14:04,.917,.917,.333,.000,6.8,0.0,3.3,54.1,0.0,0.0,0.0,18.1,187,115,16.6
+2023-12-02,202312020LAL,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202312020LAL.html,11:11,.000,.000,.000,.000,0.0,8.3,4.2,0.0,0.0,0.0,50.0,15.2,0,112,-26.6
+2023-12-02,202312020LAL,HOU,Nate Hinton,https://www.basketball-reference.com/boxscores/202312020LAL.html,3:05,.000,.000,.000,.000,0.0,59.9,30.5,0.0,0.0,0.0,0.0,13.8,0,100,-20.5
+2023-12-02,202312020LAL,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202312020LAL.html,3:05,,,,,0.0,0.0,0.0,0.0,0.0,25.1,,0.0,0,94,4.8
+2023-12-02,202312020LAL,HOU,Jermaine Samuels,https://www.basketball-reference.com/boxscores/202312020LAL.html,3:05,,,,,0.0,59.9,30.5,0.0,0.0,0.0,,0.0,0,102,-3.0
+2023-12-02,202312020LAL,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202312020LAL.html,3:05,.539,.500,.000,3.000,31.1,59.9,45.8,76.2,0.0,0.0,0.0,64.0,128,102,32.6
+2023-12-02,202312020LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202312020LAL.html,36:39,.520,.455,.000,.409,15.1,21.0,18.0,14.6,0.0,11.3,3.7,32.1,115,94,6.2
+2023-12-02,202312020LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202312020LAL.html,35:22,.417,.412,.235,.294,0.0,10.9,5.3,31.1,1.4,2.3,20.7,29.9,77,101,-5.7
+2023-12-02,202312020LAL,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202312020LAL.html,29:17,.786,.786,.714,.000,0.0,19.7,9.6,4.9,3.3,0.0,12.5,11.9,126,96,5.4
+2023-12-02,202312020LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202312020LAL.html,26:22,.450,.450,.500,.000,0.0,7.3,3.6,38.9,9.1,0.0,0.0,16.6,113,86,10.4
+2023-12-02,202312020LAL,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202312020LAL.html,24:25,.661,.571,.143,.429,3.8,15.7,9.6,6.1,0.0,3.4,0.0,14.9,141,102,1.2
+2023-12-02,202312020LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202312020LAL.html,28:57,.761,.786,.429,.286,0.0,23.2,11.4,9.9,0.0,0.0,0.0,11.9,149,102,3.5
+2023-12-02,202312020LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202312020LAL.html,22:09,.660,.591,.364,.545,4.2,13.0,8.5,8.0,6.5,0.0,6.8,28.9,126,90,11.2
+2023-12-02,202312020LAL,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202312020LAL.html,13:41,.000,.000,1.000,.000,6.7,21.0,13.8,8.8,0.0,0.0,0.0,6.4,59,102,-8.9
+2023-12-02,202312020LAL,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202312020LAL.html,11:03,.266,.000,.000,2.000,0.0,17.4,8.5,10.9,0.0,0.0,34.7,11.4,52,104,-9.0
+2023-12-02,202312020LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202312020LAL.html,6:06,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.3,97,108,-15.9
+2023-12-02,202312020LAL,LAL,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202312020LAL.html,3:05,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.3,0,110,-33.2
+2023-12-02,202312020LAL,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202312020LAL.html,2:54,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.1,0,109,-27.2

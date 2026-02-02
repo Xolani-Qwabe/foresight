@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-23,202002230TOR,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202002230TOR.html,32:15,.509,.458,.417,.333,2.5,12.1,6.2,37.9,1.4,0.0,22.5,22.1,89,127,-2.9
+2020-02-23,202002230TOR,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202002230TOR.html,31:01,.404,.375,.000,.188,5.2,37.6,17.7,35.6,1.5,0.0,10.4,25.0,85,121,0.4
+2020-02-23,202002230TOR,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202002230TOR.html,30:44,.283,.267,.267,.133,7.9,8.4,8.1,25.2,3.0,0.0,5.9,22.1,71,124,-5.4
+2020-02-23,202002230TOR,IND,T.J. Warren,https://www.basketball-reference.com/boxscores/202002230TOR.html,28:45,.292,.292,.417,.000,8.5,13.5,10.4,6.4,0.0,0.0,20.0,21.0,56,130,-14.6
+2020-02-23,202002230TOR,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202002230TOR.html,28:22,.335,.300,.400,.100,5.7,22.9,12.3,0.0,4.9,3.5,0.0,14.8,77,114,-3.2
+2020-02-23,202002230TOR,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202002230TOR.html,26:44,.676,.750,.875,.250,0.0,0.0,0.0,7.5,5.2,0.0,25.3,17.9,83,121,2.6
+2020-02-23,202002230TOR,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202002230TOR.html,19:15,.667,.667,.833,.000,0.0,6.7,2.6,31.8,0.0,0.0,25.0,16.7,98,131,-2.7
+2020-02-23,202002230TOR,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202002230TOR.html,9:29,.500,.500,.250,.000,0.0,13.7,5.3,24.2,4.9,21.1,0.0,16.9,104,106,12.4
+2020-02-23,202002230TOR,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202002230TOR.html,8:39,.000,.000,.000,.000,0.0,0.0,0.0,17.9,0.0,0.0,33.3,13.9,15,133,-23.8
+2020-02-23,202002230TOR,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202002230TOR.html,7:40,.342,.167,.167,.500,0.0,0.0,0.0,25.3,6.0,13.0,0.0,38.4,82,111,6.9
+2020-02-23,202002230TOR,IND,JaKarr Sampson,https://www.basketball-reference.com/boxscores/202002230TOR.html,7:13,.000,.000,.500,.000,0.0,18.0,6.9,0.0,0.0,0.0,0.0,11.1,0,129,-24.5
+2020-02-23,202002230TOR,IND,T.J. Leaf,https://www.basketball-reference.com/boxscores/202002230TOR.html,5:29,.266,.000,.000,2.000,0.0,23.7,9.1,0.0,8.4,0.0,0.0,13.8,61,108,-5.2
+2020-02-23,202002230TOR,IND,Alize Johnson,https://www.basketball-reference.com/boxscores/202002230TOR.html,4:24,.000,.000,.000,.000,18.5,29.5,22.7,0.0,0.0,0.0,50.0,18.3,22,127,-22.9
+2020-02-23,202002230TOR,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202002230TOR.html,31:41,.595,.577,.615,.077,8.2,12.8,11.0,44.0,7.3,2.4,13.0,20.0,137,68,18.6
+2020-02-23,202002230TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202002230TOR.html,30:29,.739,.708,.333,.417,0.0,5.3,3.3,13.7,0.0,2.5,17.4,23.2,124,87,3.8
+2020-02-23,202002230TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202002230TOR.html,27:36,.444,.429,.286,.286,0.0,11.8,7.2,8.3,1.7,2.8,20.2,14.7,83,80,-3.9
+2020-02-23,202002230TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202002230TOR.html,25:46,.333,.333,.750,.000,0.0,9.5,5.8,13.5,3.6,0.0,7.7,20.7,81,79,-7.1
+2020-02-23,202002230TOR,TOR,Serge Ibaka,https://www.basketball-reference.com/boxscores/202002230TOR.html,23:48,.625,.625,.167,.000,21.8,37.6,31.5,6.1,0.0,3.3,20.0,25.9,109,73,1.5
+2020-02-23,202002230TOR,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202002230TOR.html,23:35,.650,.650,.600,.000,0.0,13.8,8.5,5.5,0.0,3.3,9.1,19.1,117,83,3.7
+2020-02-23,202002230TOR,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202002230TOR.html,20:26,.761,.714,.000,.286,19.0,4.0,9.8,20.0,0.0,0.0,27.6,21.9,126,90,4.6
+2020-02-23,202002230TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202002230TOR.html,17:11,.781,.625,.500,1.000,7.5,47.3,32.0,13.5,0.0,18.0,0.0,13.8,181,59,19.8
+2020-02-23,202002230TOR,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202002230TOR.html,15:25,1.063,1.063,.875,.000,0.0,5.3,3.2,11.0,0.0,0.0,20.0,26.6,134,88,17.7
+2020-02-23,202002230TOR,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202002230TOR.html,9:29,.347,.000,.500,1.000,0.0,34.3,21.1,21.5,4.9,0.0,0.0,12.5,118,65,4.8
+2020-02-23,202002230TOR,TOR,Oshae Brissett,https://www.basketball-reference.com/boxscores/202002230TOR.html,5:29,.694,.500,.000,1.000,0.0,14.8,9.1,45.8,0.0,0.0,0.0,21.6,171,85,17.7
+2020-02-23,202002230TOR,TOR,Malcolm Miller,https://www.basketball-reference.com/boxscores/202002230TOR.html,5:29,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,143,90,2.2
+2020-02-23,202002230TOR,TOR,Paul Watson,https://www.basketball-reference.com/boxscores/202002230TOR.html,3:36,.000,.000,1.000,.000,0.0,22.6,13.9,28.4,0.0,21.5,0.0,11.4,68,67,8.9

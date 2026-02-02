@@ -1,0 +1,68 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2022-04-06,202204060UTA,OKC,Q1,Zavier Simpson,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,1,3,.333,0,0,0,0,0,0,0,5,1,0,0,1,2,4.4,-10,,
+2022-04-06,202204060UTA,OKC,Q1,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202204060UTA.html,10.63,3,6,.500,2,2,0,0,1,0,1,0,0,1,0,2,8,5.6,-11,1.000,
+2022-04-06,202204060UTA,OKC,Q1,Vit Krejci,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.68,1,1,1.000,0,0,0,0,0,2,2,1,0,0,1,0,2,2.0,-3,,
+2022-04-06,202204060UTA,OKC,Q1,Georgios Kalaitzakis,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.68,1,3,.333,0,1,0,0,0,0,0,0,0,0,0,2,2,-0.5,-3,.000,
+2022-04-06,202204060UTA,OKC,Q1,Isaiah Roby,https://www.basketball-reference.com/boxscores/202204060UTA.html,9.05,2,4,.500,2,3,0,0,0,1,1,2,0,0,0,2,6,4.9,-2,.667,
+2022-04-06,202204060UTA,OKC,Q1,Melvin Frazier,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.32,0,1,.000,0,1,0,0,0,0,0,0,0,0,1,0,0,-1.7,-7,.000,
+2022-04-06,202204060UTA,OKC,Q1,Lindy Waters III,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.32,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,.000,
+2022-04-06,202204060UTA,OKC,Q1,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.32,3,3,1.000,1,1,4,4,1,0,1,0,0,0,0,0,11,10.8,-7,1.000,1.000
+2022-04-06,202204060UTA,OKC,Q2,Zavier Simpson,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.98,0,2,.000,0,1,0,0,1,0,1,4,0,0,0,1,0,1.7,0,.000,
+2022-04-06,202204060UTA,OKC,Q2,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.98,2,3,.667,1,2,0,0,0,1,1,1,1,0,0,0,5,5.7,0,.500,
+2022-04-06,202204060UTA,OKC,Q2,Vit Krejci,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.02,0,1,.000,0,1,0,0,0,0,0,1,0,0,1,2,0,-1.8,-3,.000,
+2022-04-06,202204060UTA,OKC,Q2,Georgios Kalaitzakis,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.98,0,2,.000,0,0,0,0,1,0,1,0,0,0,0,0,0,-0.7,0,,
+2022-04-06,202204060UTA,OKC,Q2,Isaiah Roby,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.67,2,3,.667,1,2,2,2,0,1,1,1,1,0,0,1,7,7.3,-6,.500,1.000
+2022-04-06,202204060UTA,OKC,Q2,Melvin Frazier,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,2,8,.250,0,3,0,1,1,0,1,0,1,0,0,0,4,0.5,-3,.000,.000
+2022-04-06,202204060UTA,OKC,Q2,Lindy Waters III,https://www.basketball-reference.com/boxscores/202204060UTA.html,10.35,3,4,.750,3,3,0,0,0,1,1,0,0,0,0,0,9,7.7,0,1.000,
+2022-04-06,202204060UTA,OKC,Q2,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.02,1,2,.500,0,1,0,0,0,1,1,0,0,0,0,1,2,0.9,-3,.000,
+2022-04-06,202204060UTA,OKC,Q3,Zavier Simpson,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.72,1,3,.333,0,0,0,0,0,0,0,1,1,0,1,0,2,1.0,+2,,
+2022-04-06,202204060UTA,OKC,Q3,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,2,6,.333,1,3,1,1,1,1,2,2,0,0,1,1,6,3.6,-8,.333,1.000
+2022-04-06,202204060UTA,OKC,Q3,Vit Krejci,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,1,2,.500,0,1,0,0,0,2,2,3,0,0,0,2,2,2.9,-8,.000,
+2022-04-06,202204060UTA,OKC,Q3,Georgios Kalaitzakis,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,3,4,.750,1,1,2,4,0,1,1,1,2,0,1,0,9,8.6,-8,1.000,.500
+2022-04-06,202204060UTA,OKC,Q3,Isaiah Roby,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.13,1,1,1.000,1,1,0,1,1,1,2,2,0,0,0,2,3,3.9,-2,1.000,.000
+2022-04-06,202204060UTA,OKC,Q3,Melvin Frazier,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.28,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-10,,
+2022-04-06,202204060UTA,OKC,Q3,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.87,2,5,.400,1,1,0,0,0,0,0,0,0,0,0,0,5,2.3,-6,1.000,
+2022-04-06,202204060UTA,OKC,Q4,Zavier Simpson,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,0,2,.000,0,0,0,0,0,2,2,1,1,0,3,1,0,-2.5,-15,,
+2022-04-06,202204060UTA,OKC,Q4,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.63,1,2,.500,1,1,1,2,0,1,1,0,0,0,0,1,4,2.5,-6,1.000,.500
+2022-04-06,202204060UTA,OKC,Q4,Vit Krejci,https://www.basketball-reference.com/boxscores/202204060UTA.html,9.13,2,5,.400,1,2,0,0,0,2,2,1,1,0,0,1,5,4.2,-7,.500,
+2022-04-06,202204060UTA,OKC,Q4,Georgios Kalaitzakis,https://www.basketball-reference.com/boxscores/202204060UTA.html,2.87,0,0,,0,0,0,0,0,0,0,0,0,0,1,1,0,-1.4,-8,,
+2022-04-06,202204060UTA,OKC,Q4,Isaiah Roby,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.37,1,2,.500,0,0,0,0,1,0,1,0,0,0,0,1,2,1.3,-9,,
+2022-04-06,202204060UTA,OKC,Q4,Melvin Frazier,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,2,5,.400,0,2,0,0,2,2,4,0,0,0,0,0,4,3.3,-15,.000,
+2022-04-06,202204060UTA,OKC,Q4,Lindy Waters III,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,0,5,.000,0,3,1,2,1,2,3,1,0,0,0,0,1,-0.9,-15,.000,.500
+2022-04-06,202204060UTA,UTA,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.68,4,4,1.000,0,0,0,0,1,2,3,1,0,0,0,0,8,8.8,+6,,
+2022-04-06,202204060UTA,UTA,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202204060UTA.html,9.52,1,3,.333,1,3,0,0,0,1,1,0,0,0,0,2,3,0.8,+11,.333,
+2022-04-06,202204060UTA,UTA,Q1,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.68,2,3,.667,0,1,8,9,1,1,2,0,0,0,0,0,12,11.3,+3,.000,.889
+2022-04-06,202204060UTA,UTA,Q1,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.65,0,2,.000,0,0,2,3,1,1,2,0,0,0,0,0,2,1.2,+2,,.667
+2022-04-06,202204060UTA,UTA,Q1,Trent Forrest,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.65,1,1,1.000,0,0,0,0,0,0,0,1,0,0,1,0,2,1.4,+2,,
+2022-04-06,202204060UTA,UTA,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.35,1,2,.500,0,1,0,0,0,1,1,1,1,0,0,1,2,2.6,+8,.000,
+2022-04-06,202204060UTA,UTA,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.8,2,3,.667,1,2,0,0,0,1,1,1,0,0,0,0,5,4.7,+6,.500,
+2022-04-06,202204060UTA,UTA,Q1,Rudy Gay,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.35,1,2,.500,0,1,0,0,0,0,0,2,0,2,0,0,2,3.8,+8,.000,
+2022-04-06,202204060UTA,UTA,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.32,2,4,.500,0,0,1,2,4,0,4,1,0,2,0,0,5,7.5,+4,,.500
+2022-04-06,202204060UTA,UTA,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.55,2,2,1.000,0,0,2,4,0,4,4,0,0,0,0,2,6,5.0,+6,,.500
+2022-04-06,202204060UTA,UTA,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202204060UTA.html,3.8,1,1,1.000,1,1,0,0,0,0,0,0,1,0,0,0,3,3.7,0,1.000,
+2022-04-06,202204060UTA,UTA,Q2,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202204060UTA.html,8.2,2,4,.500,0,0,0,0,1,2,3,0,0,0,1,0,4,2.3,+3,,
+2022-04-06,202204060UTA,UTA,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.28,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,+11,,
+2022-04-06,202204060UTA,UTA,Q2,Trent Forrest,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.55,1,1,1.000,0,0,0,0,0,1,1,1,0,1,1,0,2,2.4,0,,
+2022-04-06,202204060UTA,UTA,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.45,1,1,1.000,0,0,0,0,0,1,1,1,0,0,0,0,2,2.7,+3,,
+2022-04-06,202204060UTA,UTA,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,3,5,.600,1,1,0,0,0,0,0,4,0,0,2,0,7,5.5,+3,1.000,
+2022-04-06,202204060UTA,UTA,Q2,Rudy Gay,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.72,2,2,1.000,1,1,0,0,0,2,2,1,0,0,0,0,5,5.7,-8,1.000,
+2022-04-06,202204060UTA,UTA,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.45,0,1,.000,0,0,1,2,0,0,0,0,0,1,0,1,1,0.2,-3,,.500
+2022-04-06,202204060UTA,UTA,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.27,1,1,1.000,0,0,0,0,1,1,2,0,0,0,0,0,2,2.7,+11,,
+2022-04-06,202204060UTA,UTA,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202204060UTA.html,7.27,1,2,.500,1,2,2,2,0,0,0,0,0,0,2,1,5,1.6,+11,.500,1.000
+2022-04-06,202204060UTA,UTA,Q3,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202204060UTA.html,9.87,3,4,.750,2,3,3,3,0,0,0,0,0,0,2,1,11,7.0,-1,.667,1.000
+2022-04-06,202204060UTA,UTA,Q3,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.77,1,2,.500,0,1,0,0,0,1,1,0,0,0,0,0,2,1.3,-1,.000,
+2022-04-06,202204060UTA,UTA,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202204060UTA.html,9.87,1,5,.200,1,4,0,0,0,3,3,5,2,0,0,0,3,6.3,-1,.250,
+2022-04-06,202204060UTA,UTA,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.87,1,1,1.000,1,1,0,0,0,0,0,2,0,0,0,1,3,3.7,+6,1.000,
+2022-04-06,202204060UTA,UTA,Q3,Rudy Gay,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.23,1,2,.500,1,1,0,0,0,2,2,0,0,0,0,1,3,2.2,+9,1.000,
+2022-04-06,202204060UTA,UTA,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.73,2,3,.667,0,0,2,2,3,3,6,0,0,0,0,1,6,7.3,-3,,1.000
+2022-04-06,202204060UTA,UTA,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202204060UTA.html,2.13,0,0,,0,0,0,0,0,1,1,1,0,0,0,0,0,1.0,+9,,
+2022-04-06,202204060UTA,UTA,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202204060UTA.html,3.65,2,2,1.000,0,0,0,0,0,1,1,0,1,2,0,0,4,6.1,+10,,
+2022-04-06,202204060UTA,UTA,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.37,1,1,1.000,1,1,0,0,1,0,1,0,1,0,1,0,3,3.4,+9,1.000,
+2022-04-06,202204060UTA,UTA,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202204060UTA.html,8.35,0,5,.000,0,4,0,0,0,1,1,3,0,0,0,0,0,-1.1,+5,.000,
+2022-04-06,202204060UTA,UTA,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202204060UTA.html,3.65,1,2,.500,1,2,0,0,0,0,0,3,0,0,1,0,3,3.1,+10,.500,
+2022-04-06,202204060UTA,UTA,Q4,Rudy Gay,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.75,1,1,1.000,0,0,0,1,0,4,4,0,0,0,0,0,2,2.5,+11,,.000
+2022-04-06,202204060UTA,UTA,Q4,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202204060UTA.html,3.77,1,1,1.000,0,0,1,2,1,0,1,0,0,2,0,1,3,4.0,+6,,.500
+2022-04-06,202204060UTA,UTA,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202204060UTA.html,12.0,3,4,.750,2,3,1,1,0,2,2,1,1,0,0,0,9,9.7,+15,.667,1.000
+2022-04-06,202204060UTA,UTA,Q4,Eric Paschall,https://www.basketball-reference.com/boxscores/202204060UTA.html,6.63,1,2,.500,0,1,1,1,0,1,1,0,0,0,0,0,3,2.3,+6,.000,1.000
+2022-04-06,202204060UTA,UTA,Q4,Xavier Sneed,https://www.basketball-reference.com/boxscores/202204060UTA.html,5.25,0,3,.000,0,2,0,0,0,0,0,0,0,0,0,0,0,-2.1,+4,.000,
+2022-04-06,202204060UTA,UTA,Q4,Greg Monroe,https://www.basketball-reference.com/boxscores/202204060UTA.html,4.58,2,2,1.000,0,0,0,0,2,1,3,0,0,0,0,1,4,4.7,-1,,

@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-08,202101080SAC,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202101080SAC.html,33:14,.729,.705,.409,.136,4.1,8.3,6.2,29.5,1.5,0.0,11.4,33.7,146,127,6.3
+2021-01-08,202101080SAC,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202101080SAC.html,33:09,.715,.682,.182,.182,12.4,24.8,18.6,40.5,1.5,3.1,14.4,17.8,163,122,10.0
+2021-01-08,202101080SAC,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202101080SAC.html,28:36,.376,.250,.500,.750,0.0,9.6,4.8,6.8,3.4,0.0,22.0,20.3,77,121,-16.6
+2021-01-08,202101080SAC,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202101080SAC.html,26:42,1.034,1.000,.625,.750,0.0,10.3,5.1,0.0,3.6,0.0,8.6,18.6,188,123,11.0
+2021-01-08,202101080SAC,TOR,Alex Len,https://www.basketball-reference.com/boxscores/202101080SAC.html,4:43,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-7.0
+2021-01-08,202101080SAC,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202101080SAC.html,29:12,.810,.833,.333,.417,18.8,28.2,23.5,8.6,1.7,10.5,0.0,20.7,178,116,11.2
+2021-01-08,202101080SAC,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202101080SAC.html,22:16,.692,.692,.615,.000,0.0,6.2,3.1,17.1,0.0,0.0,7.1,26.8,142,131,1.1
+2021-01-08,202101080SAC,TOR,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202101080SAC.html,19:10,.300,.300,.400,.000,14.3,35.8,25.0,0.0,0.0,5.3,0.0,11.1,104,124,-8.7
+2021-01-08,202101080SAC,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202101080SAC.html,16:48,1.000,1.000,.500,.000,0.0,40.8,20.4,14.8,0.0,0.0,14.3,17.7,168,127,4.7
+2021-01-08,202101080SAC,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202101080SAC.html,15:29,.000,.000,.500,.000,8.9,26.6,17.7,5.8,0.0,0.0,0.0,5.5,85,129,-10.3
+2021-01-08,202101080SAC,TOR,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202101080SAC.html,3:50,.500,.500,.000,.000,0.0,0.0,0.0,30.9,12.7,0.0,33.3,33.3,87,103,-0.7
+2021-01-08,202101080SAC,TOR,Jalen Harris,https://www.basketball-reference.com/boxscores/202101080SAC.html,2:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-17.7
+2021-01-08,202101080SAC,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202101080SAC.html,2:17,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.7,300,131,32.2
+2021-01-08,202101080SAC,TOR,Paul Watson,https://www.basketball-reference.com/boxscores/202101080SAC.html,2:17,1.000,1.000,.000,.000,60.1,0.0,30.0,0.0,0.0,0.0,0.0,18.7,215,131,13.7
+2021-01-08,202101080SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202101080SAC.html,32:27,.536,.536,.643,.000,0.0,21.1,10.6,23.9,1.5,0.0,6.7,21.3,109,147,-6.5
+2021-01-08,202101080SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202101080SAC.html,30:30,.847,.875,.250,1.250,0.0,18.0,9.0,34.4,1.6,0.0,19.5,23.2,145,147,3.9
+2021-01-08,202101080SAC,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202101080SAC.html,29:16,.670,.722,.333,.556,9.4,9.4,9.4,9.1,0.0,3.2,0.0,17.6,139,151,-5.6
+2021-01-08,202101080SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202101080SAC.html,24:54,.817,.818,.091,.636,0.0,5.5,2.8,20.2,3.9,3.7,22.1,33.4,121,143,1.2
+2021-01-08,202101080SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202101080SAC.html,23:34,.714,.714,.000,.000,0.0,0.0,0.0,11.4,2.1,11.8,0.0,13.7,142,143,-2.6
+2021-01-08,202101080SAC,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202101080SAC.html,29:01,.750,.750,.700,.000,0.0,9.5,4.7,35.1,3.3,3.2,9.1,17.4,142,143,7.6
+2021-01-08,202101080SAC,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202101080SAC.html,22:51,.750,.750,.750,.000,0.0,12.0,6.0,15.1,0.0,4.0,0.0,8.1,153,150,-3.6
+2021-01-08,202101080SAC,SAC,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202101080SAC.html,17:10,.765,.700,.600,.400,0.0,16.0,8.0,7.4,0.0,0.0,0.0,15.8,150,151,-5.4
+2021-01-08,202101080SAC,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202101080SAC.html,9:49,.250,.250,.500,.000,0.0,14.0,7.0,11.9,0.0,0.0,20.0,23.4,51,152,-24.0
+2021-01-08,202101080SAC,SAC,Kyle Guy,https://www.basketball-reference.com/boxscores/202101080SAC.html,5:45,.500,.500,.333,.000,0.0,0.0,0.0,22.2,8.4,0.0,0.0,24.0,106,135,3.2
+2021-01-08,202101080SAC,SAC,Justin James,https://www.basketball-reference.com/boxscores/202101080SAC.html,5:45,.210,.333,.333,1.333,23.9,0.0,11.9,0.0,8.4,0.0,0.0,38.1,58,135,-24.5
+2021-01-08,202101080SAC,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202101080SAC.html,5:08,.000,.000,1.000,.000,0.0,80.1,40.1,20.3,0.0,18.0,33.3,26.9,24,127,-19.8
+2021-01-08,202101080SAC,SAC,Robert Woodard II,https://www.basketball-reference.com/boxscores/202101080SAC.html,3:50,1.000,1.000,.000,.000,0.0,35.8,17.9,0.0,0.0,0.0,0.0,12.0,200,147,-1.3

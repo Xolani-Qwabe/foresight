@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-03,202202030SAS,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202202030SAS.html,34:21,.751,.700,.800,.300,0.0,8.9,4.9,12.0,1.4,0.0,8.1,16.6,140,104,4.4
+2022-02-03,202202030SAS,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202202030SAS.html,30:33,.575,.538,.077,.462,8.3,30.1,20.3,15.2,6.5,0.0,6.0,25.2,121,85,6.4
+2022-02-03,202202030SAS,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202202030SAS.html,25:29,.532,.000,.000,2.000,0.0,12.0,6.6,17.9,1.9,0.0,76.1,14.3,51,101,-13.8
+2022-02-03,202202030SAS,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202202030SAS.html,25:07,.555,.500,.071,.214,15.1,16.3,15.7,20.0,0.0,0.0,0.0,28.2,129,104,1.1
+2022-02-03,202202030SAS,MIA,P.J. Tucker,https://www.basketball-reference.com/boxscores/202202030SAS.html,23:37,.800,.800,.600,.000,0.0,21.6,12.0,5.7,4.2,0.0,0.0,9.8,154,93,7.6
+2022-02-03,202202030SAS,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202202030SAS.html,31:52,.575,.550,.250,.100,0.0,16.0,8.9,29.6,3.1,0.0,4.6,31.7,118,98,5.1
+2022-02-03,202202030SAS,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202202030SAS.html,24:48,.571,.571,.857,.000,0.0,12.4,6.8,16.0,6.0,4.1,22.2,16.8,97,91,4.0
+2022-02-03,202202030SAS,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202202030SAS.html,16:02,1.000,1.000,1.000,.000,0.0,0.0,0.0,16.6,0.0,0.0,25.0,11.5,141,110,3.9
+2022-02-03,202202030SAS,MIA,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202202030SAS.html,14:53,.654,.583,.167,.333,8.5,13.7,11.4,20.0,0.0,13.7,12.7,24.5,127,97,3.7
+2022-02-03,202202030SAS,MIA,Kyle Guy,https://www.basketball-reference.com/boxscores/202202030SAS.html,6:58,.500,.500,.667,.000,18.1,14.7,16.2,0.0,0.0,0.0,0.0,19.9,115,104,-3.4
+2022-02-03,202202030SAS,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/202202030SAS.html,6:20,.000,.000,.000,.000,0.0,0.0,0.0,18.0,0.0,0.0,0.0,7.3,59,108,-14.5
+2022-02-03,202202030SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202202030SAS.html,35:41,.592,.500,.100,.800,0.0,3.5,1.6,17.3,2.8,0.0,0.0,16.0,132,118,0.9
+2022-02-03,202202030SAS,SAS,Thaddeus Young,https://www.basketball-reference.com/boxscores/202202030SAS.html,24:23,.717,.750,.000,.500,20.9,15.5,18.5,24.5,4.1,0.0,38.1,13.6,109,113,2.5
+2022-02-03,202202030SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202202030SAS.html,23:34,.281,.292,.667,.083,0.0,16.1,7.2,25.6,0.0,0.0,7.4,24.1,66,122,-11.3
+2022-02-03,202202030SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202202030SAS.html,22:33,.354,.278,.667,.222,0.0,16.8,7.5,24.8,4.4,0.0,9.2,20.4,82,112,-2.5
+2022-02-03,202202030SAS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202202030SAS.html,21:32,.862,.818,.636,.364,0.0,23.5,10.5,31.0,0.0,0.0,32.0,36.8,102,121,6.9
+2022-02-03,202202030SAS,SAS,Joshua Primo,https://www.basketball-reference.com/boxscores/202202030SAS.html,26:46,.144,.077,.462,.154,11.4,9.4,10.5,12.7,0.0,3.4,12.6,25.0,47,120,-19.4
+2022-02-03,202202030SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202202030SAS.html,26:33,.322,.250,.300,.200,3.8,4.8,4.3,13.7,5.6,0.0,15.5,20.5,70,111,-5.8
+2022-02-03,202202030SAS,SAS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202202030SAS.html,21:48,.665,.500,.500,2.000,4.7,29.0,15.5,15.8,0.0,4.2,0.0,7.3,159,117,4.1
+2022-02-03,202202030SAS,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202202030SAS.html,17:17,.621,.667,.000,2.000,11.8,21.9,16.3,11.4,0.0,5.2,15.1,16.2,117,117,-0.6
+2022-02-03,202202030SAS,SAS,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202202030SAS.html,10:55,.625,.625,.250,.000,0.0,0.0,0.0,0.0,0.0,0.0,20.0,19.3,87,125,-4.8
+2022-02-03,202202030SAS,SAS,Devontae Cacok,https://www.basketball-reference.com/boxscores/202202030SAS.html,8:58,.787,1.000,.000,3.500,0.0,84.5,37.8,0.0,0.0,20.2,0.0,23.9,157,94,23.4

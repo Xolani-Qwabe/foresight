@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-04-20,202304200GSW,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202304200GSW.html,37:42,.509,.477,.409,.364,7.1,13.2,10.2,48.7,2.5,0.0,13.6,32.1,105,111,8.6
+2023-04-20,202304200GSW,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202304200GSW.html,34:43,.504,.500,.071,.143,7.7,31.0,19.8,21.8,2.7,0.0,28.7,24.6,82,101,-0.4
+2023-04-20,202304200GSW,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202304200GSW.html,34:21,.723,.750,.700,.400,2.6,0.0,1.2,0.0,0.0,0.0,0.0,14.0,143,124,3.3
+2023-04-20,202304200GSW,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202304200GSW.html,28:41,.542,.542,.500,.000,0.0,11.5,6.0,13.4,1.7,3.3,7.7,18.6,104,112,0.3
+2023-04-20,202304200GSW,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202304200GSW.html,21:49,.381,.357,.714,.286,8.1,11.4,9.8,0.0,2.2,4.4,11.3,16.7,80,110,-5.8
+2023-04-20,202304200GSW,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202304200GSW.html,24:36,.202,.111,.444,.222,3.6,6.7,5.2,23.6,0.0,0.0,0.0,16.5,72,121,-7.9
+2023-04-20,202304200GSW,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202304200GSW.html,17:33,.417,.417,.833,.000,0.0,4.7,2.4,9.3,0.0,0.0,14.3,16.3,78,122,-6.8
+2023-04-20,202304200GSW,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202304200GSW.html,12:45,.145,.000,.667,.333,7.0,26.0,16.8,0.0,0.0,0.0,0.0,22.1,44,110,-16.3
+2023-04-20,202304200GSW,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202304200GSW.html,10:49,.375,.375,1.000,.000,0.0,30.6,15.8,14.5,0.0,0.0,0.0,15.2,91,107,-3.7
+2023-04-20,202304200GSW,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202304200GSW.html,7:51,1.136,,,,11.3,21.1,16.4,0.0,0.0,12.2,53.2,9.8,121,106,-7.4
+2023-04-20,202304200GSW,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202304200GSW.html,3:08,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,124,-6.8
+2023-04-20,202304200GSW,SAC,PJ Dozier,https://www.basketball-reference.com/boxscores/202304200GSW.html,3:01,.750,.750,1.000,.000,29.5,27.4,28.4,0.0,0.0,0.0,0.0,27.2,147,109,26.8
+2023-04-20,202304200GSW,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202304200GSW.html,3:01,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,69.4,19.6,68,124,-14.1
+2023-04-20,202304200GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202304200GSW.html,36:57,.651,.600,.480,.240,2.2,12.0,7.0,16.0,2.6,2.9,3.5,30.7,133,97,13.9
+2023-04-20,202304200GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202304200GSW.html,34:32,.433,.433,.667,.000,0.0,12.9,6.2,8.4,1.4,3.1,11.8,19.5,84,99,-4.7
+2023-04-20,202304200GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202304200GSW.html,34:10,.592,.594,.375,.125,2.4,15.6,8.8,14.7,0.0,3.1,10.6,21.9,111,101,0.8
+2023-04-20,202304200GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202304200GSW.html,30:56,.333,.333,.000,.000,24.1,31.6,27.7,37.9,1.5,0.0,25.0,10.2,126,93,6.5
+2023-04-20,202304200GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202304200GSW.html,27:51,.484,.346,.538,.615,5.9,9.6,7.7,20.8,5.1,0.0,5.7,24.9,116,93,4.1
+2023-04-20,202304200GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202304200GSW.html,26:47,.338,.313,.625,.250,9.3,13.3,11.2,39.4,7.1,0.0,18.4,16.1,101,88,6.5
+2023-04-20,202304200GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202304200GSW.html,15:47,.781,.714,.714,.429,0.0,16.9,8.1,0.0,0.0,0.0,0.0,20.9,159,101,5.6
+2023-04-20,202304200GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202304200GSW.html,13:13,.381,.429,.286,.286,12.5,0.0,6.5,12.5,3.6,0.0,0.0,23.6,95,100,-4.9
+2023-04-20,202304200GSW,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202304200GSW.html,10:10,.000,.000,1.000,.000,0.0,26.2,12.6,11.8,0.0,10.5,0.0,7.8,34,92,-11.5
+2023-04-20,202304200GSW,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202304200GSW.html,7:06,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,15.0,50.0,11.2,0,102,-14.7
+2023-04-20,202304200GSW,GSW,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202304200GSW.html,2:31,,,,,0.0,35.3,17.0,0.0,0.0,0.0,,0.0,0,95,-6.4

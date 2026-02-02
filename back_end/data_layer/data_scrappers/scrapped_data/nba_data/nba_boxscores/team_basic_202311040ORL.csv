@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-04,202311040ORL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202311040ORL.html,35.22,8,15,.533,2,5,.400,6,7,.857,1,8,9,5,3,0,3,1,24,22.5,+12
+2023-11-04,202311040ORL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202311040ORL.html,34.7,4,17,.235,1,10,.100,2,2,1.000,2,2,4,4,0,0,1,2,11,3.7,-17
+2023-11-04,202311040ORL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202311040ORL.html,34.0,7,11,.636,3,5,.600,3,4,.750,0,2,2,2,2,0,1,0,20,17.7,+6
+2023-11-04,202311040ORL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202311040ORL.html,32.18,10,15,.667,0,0,,8,8,1.000,6,7,13,3,0,7,4,5,28,28.8,-24
+2023-11-04,202311040ORL,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202311040ORL.html,23.8,1,5,.200,0,1,.000,0,0,,0,3,3,0,0,0,1,4,2,-2.8,-14
+2023-11-04,202311040ORL,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202311040ORL.html,29.42,2,6,.333,2,5,.400,0,0,,0,2,2,2,1,2,3,3,6,2.8,-12
+2023-11-04,202311040ORL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202311040ORL.html,23.23,3,7,.429,0,2,.000,0,0,,0,5,5,0,0,0,1,2,6,2.0,-24
+2023-11-04,202311040ORL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202311040ORL.html,11.18,1,4,.250,0,0,,0,0,,1,0,1,1,0,1,2,3,2,-1.5,-10
+2023-11-04,202311040ORL,LAL,Colin Castleton,https://www.basketball-reference.com/boxscores/202311040ORL.html,4.07,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-3
+2023-11-04,202311040ORL,LAL,Alex Fudge,https://www.basketball-reference.com/boxscores/202311040ORL.html,4.07,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+2023-11-04,202311040ORL,LAL,D'Moi Hodge,https://www.basketball-reference.com/boxscores/202311040ORL.html,4.07,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-3
+2023-11-04,202311040ORL,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202311040ORL.html,4.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-3
+2023-11-04,202311040ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202311040ORL.html,34.03,9,15,.600,2,4,.500,5,7,.714,1,6,7,10,1,1,4,2,25,23.7,+23
+2023-11-04,202311040ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202311040ORL.html,32.72,12,28,.429,1,3,.333,1,2,.500,2,3,5,2,1,1,1,1,26,14.8,-8
+2023-11-04,202311040ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202311040ORL.html,30.03,4,6,.667,2,3,.667,1,1,1.000,1,3,4,2,1,0,0,2,11,11.6,+32
+2023-11-04,202311040ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202311040ORL.html,27.42,4,11,.364,0,2,.000,1,1,1.000,1,5,6,5,1,1,2,1,9,7.9,+26
+2023-11-04,202311040ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202311040ORL.html,25.93,3,6,.500,0,1,.000,4,4,1.000,4,6,10,2,0,5,0,2,10,15.7,+27
+2023-11-04,202311040ORL,ORL,Joe Ingles,https://www.basketball-reference.com/boxscores/202311040ORL.html,24.62,2,6,.333,2,5,.400,1,1,1.000,0,3,3,3,1,0,2,2,7,4.8,+7
+2023-11-04,202311040ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202311040ORL.html,23.05,4,9,.444,3,5,.600,3,3,1.000,3,2,5,1,0,0,3,1,14,9.3,-6
+2023-11-04,202311040ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202311040ORL.html,18.98,6,10,.600,1,3,.333,0,0,,5,3,8,2,1,0,2,5,13,11.2,-11
+2023-11-04,202311040ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202311040ORL.html,10.88,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,1,1,2,0,-3.2,-7
+2023-11-04,202311040ORL,ORL,Admiral Schofield,https://www.basketball-reference.com/boxscores/202311040ORL.html,3.08,2,4,.500,1,3,.333,0,0,,0,0,0,0,0,0,0,0,5,3.0,+3
+2023-11-04,202311040ORL,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202311040ORL.html,3.08,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,+3
+2023-11-04,202311040ORL,ORL,Jett Howard,https://www.basketball-reference.com/boxscores/202311040ORL.html,3.08,0,2,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,-0.7,+3
+2023-11-04,202311040ORL,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202311040ORL.html,3.08,0,1,.000,0,1,.000,0,0,,1,0,1,1,0,0,0,0,0,0.7,+3

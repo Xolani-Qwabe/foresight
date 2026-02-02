@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-02-14,202402140BOS,BRK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202402140BOS.html,9.4,1,6,.167,1,4,.250,0,0,0,0,0,1,0,0,0,0,3,-0.1,-11,
+2024-02-14,202402140BOS,BRK,Q1,Cam Thomas,https://www.basketball-reference.com/boxscores/202402140BOS.html,8.42,0,1,.000,0,0,,2,2,0,1,1,0,0,0,1,1,2,0.2,-16,1.000
+2024-02-14,202402140BOS,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.82,0,1,.000,0,0,,0,0,0,3,3,1,0,0,0,0,0,0.9,-12,
+2024-02-14,202402140BOS,BRK,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.82,2,5,.400,0,0,,0,0,0,0,0,0,0,0,0,1,4,0.9,-12,
+2024-02-14,202402140BOS,BRK,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.57,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-10,
+2024-02-14,202402140BOS,BRK,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.18,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-0.4,-3,
+2024-02-14,202402140BOS,BRK,Q1,Cameron Johnson,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.18,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-3,
+2024-02-14,202402140BOS,BRK,Q1,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.18,1,1,1.000,0,0,,0,0,1,1,2,1,1,0,0,1,2,4.0,-3,
+2024-02-14,202402140BOS,BRK,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.43,2,6,.333,0,1,.000,0,0,1,0,1,1,0,0,0,1,4,1.6,-5,
+2024-02-14,202402140BOS,BRK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202402140BOS.html,4.7,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,1,0,2,1.7,-9,
+2024-02-14,202402140BOS,BRK,Q2,Cam Thomas,https://www.basketball-reference.com/boxscores/202402140BOS.html,4.7,0,4,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-2.8,-9,
+2024-02-14,202402140BOS,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/202402140BOS.html,9.15,2,3,.667,0,0,,0,0,1,2,3,1,0,0,1,0,4,3.7,-14,
+2024-02-14,202402140BOS,BRK,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.27,0,1,.000,0,0,,0,0,0,1,1,0,0,0,1,0,0,-1.4,-15,
+2024-02-14,202402140BOS,BRK,Q2,Trendon Watford,https://www.basketball-reference.com/boxscores/202402140BOS.html,7.3,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,2.3,-12,
+2024-02-14,202402140BOS,BRK,Q2,Jalen Wilson,https://www.basketball-reference.com/boxscores/202402140BOS.html,7.3,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-12,
+2024-02-14,202402140BOS,BRK,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.73,2,5,.400,1,3,.333,0,0,0,0,0,4,0,0,0,0,5,5.1,-6,
+2024-02-14,202402140BOS,BRK,Q2,Cameron Johnson,https://www.basketball-reference.com/boxscores/202402140BOS.html,7.3,1,3,.333,1,2,.500,0,0,0,2,2,1,0,0,0,0,3,2.6,-12,
+2024-02-14,202402140BOS,BRK,Q2,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202402140BOS.html,2.85,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-7,
+2024-02-14,202402140BOS,BRK,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202402140BOS.html,4.7,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,0,0,-1.4,-9,
+2024-02-14,202402140BOS,BRK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,2,5,.400,1,2,.500,0,0,1,3,4,3,0,0,0,0,5,6.0,-10,
+2024-02-14,202402140BOS,BRK,Q3,Cam Thomas,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,1,4,.250,1,3,.333,0,0,0,0,0,2,1,0,0,0,3,3.0,-10,
+2024-02-14,202402140BOS,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.75,1,2,.500,0,0,,0,0,1,1,2,1,0,0,0,0,2,2.7,0,
+2024-02-14,202402140BOS,BRK,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.75,0,2,.000,0,1,.000,0,0,0,2,2,1,0,0,0,0,0,-0.1,0,
+2024-02-14,202402140BOS,BRK,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202402140BOS.html,7.77,1,3,.333,0,2,.000,2,2,0,1,1,0,0,0,0,0,4,2.6,-5,1.000
+2024-02-14,202402140BOS,BRK,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.25,2,3,.667,0,0,,2,2,0,0,0,0,0,0,0,2,6,3.9,-10,1.000
+2024-02-14,202402140BOS,BRK,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.25,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,1,1,2,1.3,-10,
+2024-02-14,202402140BOS,BRK,Q3,Cameron Johnson,https://www.basketball-reference.com/boxscores/202402140BOS.html,4.23,0,1,.000,0,1,.000,1,2,0,1,1,1,0,1,1,0,1,0.6,-5,.500
+2024-02-14,202402140BOS,BRK,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,2,3,.667,1,1,1.000,1,1,0,2,2,1,0,0,0,1,6,5.6,-4,1.000
+2024-02-14,202402140BOS,BRK,Q4,Jalen Wilson,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,2,4,.500,0,1,.000,0,0,0,0,0,2,0,0,0,0,4,3.4,-4,
+2024-02-14,202402140BOS,BRK,Q4,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202402140BOS.html,4.0,1,1,1.000,1,1,1.000,2,2,1,0,1,1,0,0,1,1,5,4.7,-5,1.000
+2024-02-14,202402140BOS,BRK,Q4,Keon Johnson,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,2,5,.400,1,3,.333,4,4,0,1,1,2,0,0,1,0,9,7.0,-4,1.000
+2024-02-14,202402140BOS,BRK,Q4,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,3,4,.750,1,1,1.000,0,0,0,1,1,0,1,0,1,0,7,5.7,-4,
+2024-02-14,202402140BOS,BRK,Q4,Noah Clowney,https://www.basketball-reference.com/boxscores/202402140BOS.html,8.0,0,0,,0,0,,0,0,0,1,1,2,0,0,0,0,0,1.7,+1,
+2024-02-14,202402140BOS,BOS,Q1,Sam Hauser,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.82,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,+12,
+2024-02-14,202402140BOS,BOS,Q1,Jayson Tatum,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,1,4,.250,0,2,.000,3,4,0,2,2,4,0,0,1,0,5,4.6,+15,.750
+2024-02-14,202402140BOS,BOS,Q1,Derrick White,https://www.basketball-reference.com/boxscores/202402140BOS.html,8.0,3,4,.750,1,2,.500,2,2,0,3,3,0,0,0,1,1,9,6.9,+16,1.000
+2024-02-14,202402140BOS,BOS,Q1,Jrue Holiday,https://www.basketball-reference.com/boxscores/202402140BOS.html,7.55,0,0,,0,0,,0,0,0,1,1,2,0,0,0,0,0,1.7,+12,
+2024-02-14,202402140BOS,BOS,Q1,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,5,6,.833,2,2,1.000,0,0,0,4,4,1,0,1,1,0,12,11.4,+15,
+2024-02-14,202402140BOS,BOS,Q1,Payton Pritchard,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.18,1,2,.500,0,1,.000,0,0,0,1,1,1,0,0,0,0,2,2.0,+3,
+2024-02-14,202402140BOS,BOS,Q1,Oshae Brissett,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.18,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,
+2024-02-14,202402140BOS,BOS,Q1,Jordan Walsh,https://www.basketball-reference.com/boxscores/202402140BOS.html,2.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-1,
+2024-02-14,202402140BOS,BOS,Q2,Sam Hauser,https://www.basketball-reference.com/boxscores/202402140BOS.html,9.15,1,2,.500,1,2,.500,0,0,0,3,3,0,1,0,0,0,3,3.9,+14,
+2024-02-14,202402140BOS,BOS,Q2,Jayson Tatum,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.73,3,4,.750,1,2,.500,0,0,1,0,1,1,0,0,0,0,7,6.8,+6,
+2024-02-14,202402140BOS,BOS,Q2,Derrick White,https://www.basketball-reference.com/boxscores/202402140BOS.html,9.12,4,7,.571,2,4,.500,0,0,0,0,0,3,0,0,0,0,10,8.8,+22,
+2024-02-14,202402140BOS,BOS,Q2,Jrue Holiday,https://www.basketball-reference.com/boxscores/202402140BOS.html,10.77,1,2,.500,1,1,1.000,0,0,1,1,2,3,0,0,0,0,3,5.1,+19,
+2024-02-14,202402140BOS,BOS,Q2,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202402140BOS.html,4.12,1,3,.333,1,2,.500,0,0,0,1,1,0,0,0,0,0,3,1.6,+1,
+2024-02-14,202402140BOS,BOS,Q2,Payton Pritchard,https://www.basketball-reference.com/boxscores/202402140BOS.html,7.3,3,4,.750,2,3,.667,0,0,0,0,0,0,0,0,0,0,8,6.4,+12,
+2024-02-14,202402140BOS,BOS,Q2,Luke Kornet,https://www.basketball-reference.com/boxscores/202402140BOS.html,9.12,2,3,.667,0,0,,0,0,3,4,7,1,0,2,0,0,4,8.1,+22,
+2024-02-14,202402140BOS,BOS,Q2,Jordan Walsh,https://www.basketball-reference.com/boxscores/202402140BOS.html,4.7,0,2,.000,0,1,.000,0,0,0,1,1,0,1,0,1,0,0,-1.1,+9,
+2024-02-14,202402140BOS,BOS,Q3,Sam Hauser,https://www.basketball-reference.com/boxscores/202402140BOS.html,9.12,3,5,.600,3,5,.600,0,0,0,1,1,0,0,0,0,0,9,7.0,+9,
+2024-02-14,202402140BOS,BOS,Q3,Jayson Tatum,https://www.basketball-reference.com/boxscores/202402140BOS.html,10.65,3,8,.375,1,3,.333,1,1,0,4,4,4,0,0,0,0,8,7.6,+6,1.000
+2024-02-14,202402140BOS,BOS,Q3,Derrick White,https://www.basketball-reference.com/boxscores/202402140BOS.html,10.65,3,5,.600,2,4,.500,0,0,0,2,2,1,1,0,1,1,8,6.6,+6,
+2024-02-14,202402140BOS,BOS,Q3,Jrue Holiday,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.75,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,0,
+2024-02-14,202402140BOS,BOS,Q3,Payton Pritchard,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.25,1,3,.333,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,0.6,+10,
+2024-02-14,202402140BOS,BOS,Q3,Oshae Brissett,https://www.basketball-reference.com/boxscores/202402140BOS.html,1.35,0,0,,0,0,,2,2,0,1,1,0,0,0,0,0,2,2.3,+4,1.000
+2024-02-14,202402140BOS,BOS,Q3,Luke Kornet,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.75,0,0,,0,0,,0,0,0,0,0,0,0,1,0,1,0,0.3,0,
+2024-02-14,202402140BOS,BOS,Q3,Jordan Walsh,https://www.basketball-reference.com/boxscores/202402140BOS.html,2.88,0,0,,0,0,,0,0,0,1,1,0,0,1,0,1,0,0.6,+1,
+2024-02-14,202402140BOS,BOS,Q3,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202402140BOS.html,1.35,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+4,
+2024-02-14,202402140BOS,BOS,Q3,Neemias Queta,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.25,2,3,.667,0,0,,0,0,2,1,3,0,1,0,1,2,4,3.6,+10,
+2024-02-14,202402140BOS,BOS,Q4,Sam Hauser,https://www.basketball-reference.com/boxscores/202402140BOS.html,5.03,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+5,
+2024-02-14,202402140BOS,BOS,Q4,Payton Pritchard,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,6,7,.857,4,4,1.000,0,0,1,1,2,2,0,0,0,1,16,15.5,+4,
+2024-02-14,202402140BOS,BOS,Q4,Oshae Brissett,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,3,6,.500,1,3,.333,2,3,0,2,2,5,1,0,0,1,9,10.3,+4,.667
+2024-02-14,202402140BOS,BOS,Q4,Luke Kornet,https://www.basketball-reference.com/boxscores/202402140BOS.html,3.68,2,2,1.000,0,0,,0,0,1,0,1,2,1,0,0,1,4,6.1,+5,
+2024-02-14,202402140BOS,BOS,Q4,Jordan Walsh,https://www.basketball-reference.com/boxscores/202402140BOS.html,8.32,0,1,.000,0,1,.000,0,0,1,2,3,0,0,0,1,0,0,-0.4,-1,
+2024-02-14,202402140BOS,BOS,Q4,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202402140BOS.html,12.0,1,2,.500,0,0,,0,0,0,0,0,0,0,0,1,1,2,-0.4,+4,
+2024-02-14,202402140BOS,BOS,Q4,Neemias Queta,https://www.basketball-reference.com/boxscores/202402140BOS.html,6.97,2,3,.667,0,0,,0,0,0,1,1,0,0,0,0,1,4,2.6,-1,

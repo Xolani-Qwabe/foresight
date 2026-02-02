@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-01-28,202401280ORL,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202401280ORL.html,37.1,7,12,.583,1,3,.333,0,0,0,4,4,5,0,1,7,3,15,6.6,-25,
+2024-01-28,202401280ORL,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202401280ORL.html,36.22,17,26,.654,1,2,.500,9,11,1,3,4,3,1,2,4,3,44,32.7,-4,.818
+2024-01-28,202401280ORL,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202401280ORL.html,35.43,4,13,.308,0,5,.000,1,4,1,4,5,6,1,0,4,4,9,1.8,-16,.250
+2024-01-28,202401280ORL,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202401280ORL.html,33.02,3,3,1.000,1,1,1.000,1,2,0,5,5,1,0,0,1,2,8,7.1,-9,.500
+2024-01-28,202401280ORL,PHO,Drew Eubanks,https://www.basketball-reference.com/boxscores/202401280ORL.html,29.07,2,2,1.000,0,0,,0,0,1,7,8,3,1,1,2,3,4,6.8,-2,
+2024-01-28,202401280ORL,PHO,Eric Gordon,https://www.basketball-reference.com/boxscores/202401280ORL.html,21.77,4,5,.800,1,2,.500,0,0,0,1,1,1,0,0,2,1,9,5.7,-14,
+2024-01-28,202401280ORL,PHO,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202401280ORL.html,19.58,2,6,.333,0,1,.000,1,2,0,1,1,0,0,1,1,1,5,0.8,0,.500
+2024-01-28,202401280ORL,PHO,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202401280ORL.html,10.62,1,3,.333,0,0,,0,2,2,4,6,0,0,0,0,1,2,1.7,-3,.000
+2024-01-28,202401280ORL,PHO,Chimezie Metu,https://www.basketball-reference.com/boxscores/202401280ORL.html,7.07,0,0,,0,0,,0,0,0,1,1,0,1,0,1,1,0,-0.1,-6,
+2024-01-28,202401280ORL,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202401280ORL.html,5.63,0,1,.000,0,0,,0,0,0,2,2,0,0,0,0,0,0,-0.1,+2,
+2024-01-28,202401280ORL,PHO,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202401280ORL.html,2.25,1,2,.500,0,0,,0,0,1,0,1,0,0,0,0,0,2,1.7,+1,
+2024-01-28,202401280ORL,PHO,Nassir Little,https://www.basketball-reference.com/boxscores/202401280ORL.html,2.25,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2024-01-28,202401280ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202401280ORL.html,35.68,9,18,.500,2,5,.400,6,9,1,3,4,7,0,0,2,1,26,19.9,+11,.667
+2024-01-28,202401280ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202401280ORL.html,32.25,4,11,.364,2,8,.250,0,0,1,3,4,5,2,1,2,4,10,8.1,+4,
+2024-01-28,202401280ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202401280ORL.html,30.97,3,11,.273,2,7,.286,3,3,2,6,8,7,1,0,2,2,11,10.8,+18,1.000
+2024-01-28,202401280ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202401280ORL.html,27.38,7,10,.700,0,0,,0,0,1,1,2,4,5,0,0,3,14,17.4,+1,
+2024-01-28,202401280ORL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202401280ORL.html,23.32,4,8,.500,1,4,.250,0,0,0,3,3,1,0,1,0,1,9,6.9,-6,
+2024-01-28,202401280ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202401280ORL.html,22.93,3,7,.429,1,2,.500,2,4,1,2,3,1,1,2,1,2,9,7.1,+17,.500
+2024-01-28,202401280ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202401280ORL.html,22.75,5,13,.385,0,0,,6,8,5,7,12,1,1,1,0,1,16,15.7,+20,.750
+2024-01-28,202401280ORL,ORL,Joe Ingles,https://www.basketball-reference.com/boxscores/202401280ORL.html,13.3,2,4,.500,2,4,.500,0,0,0,2,2,2,0,0,0,3,6,4.8,-1,
+2024-01-28,202401280ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202401280ORL.html,13.25,1,2,.500,0,1,.000,2,2,0,1,1,1,0,1,0,1,4,4.3,+4,1.000
+2024-01-28,202401280ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202401280ORL.html,10.43,2,5,.400,1,2,.500,0,0,0,1,1,1,2,0,0,3,5,4.1,+3,
+2024-01-28,202401280ORL,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202401280ORL.html,1.93,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+1,
+2024-01-28,202401280ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202401280ORL.html,1.93,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+1,
+2024-01-28,202401280ORL,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202401280ORL.html,1.93,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,
+2024-01-28,202401280ORL,ORL,Trevelin Queen,https://www.basketball-reference.com/boxscores/202401280ORL.html,1.93,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,

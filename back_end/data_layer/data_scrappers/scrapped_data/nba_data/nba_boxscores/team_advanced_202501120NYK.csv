@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-12,202501120NYK,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202501120NYK.html,37:16,.573,.529,.412,.294,0.0,11.4,4.4,19.7,1.3,0.0,23.8,28.1,95,143,-5.8
+2025-01-12,202501120NYK,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501120NYK.html,30:56,.472,.476,.048,.476,20.1,27.4,22.9,11.3,0.0,3.3,13.6,39.5,96,141,-4.5
+2025-01-12,202501120NYK,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202501120NYK.html,23:12,.357,.357,.714,.000,0.0,6.1,2.4,16.0,0.0,4.4,0.0,12.5,98,145,-3.4
+2025-01-12,202501120NYK,MIL,Taurean Prince,https://www.basketball-reference.com/boxscores/202501120NYK.html,23:12,.375,.375,.750,.000,0.0,12.2,4.7,15.2,2.1,0.0,0.0,7.2,112,141,-2.3
+2025-01-12,202501120NYK,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202501120NYK.html,10:35,.900,.900,.200,.000,25.2,0.0,15.5,0.0,0.0,9.6,0.0,19.6,182,142,15.0
+2025-01-12,202501120NYK,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202501120NYK.html,24:45,.600,.600,1.000,.000,0.0,11.4,4.4,5.0,0.0,0.0,0.0,8.4,132,146,-6.8
+2025-01-12,202501120NYK,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202501120NYK.html,24:36,.889,.889,.444,.000,0.0,0.0,0.0,33.3,3.9,0.0,18.2,18.6,147,139,10.2
+2025-01-12,202501120NYK,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202501120NYK.html,18:58,.571,.571,.143,.000,4.7,22.3,11.5,0.0,0.0,0.0,0.0,15.3,123,144,-5.9
+2025-01-12,202501120NYK,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202501120NYK.html,15:59,.581,.500,.500,.333,11.1,26.5,17.1,17.7,0.0,0.0,0.0,17.9,142,143,2.7
+2025-01-12,202501120NYK,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202501120NYK.html,11:19,.500,.500,.400,.000,7.9,12.5,9.6,0.0,4.3,0.0,0.0,18.4,114,136,1.0
+2025-01-12,202501120NYK,MIL,Delon Wright,https://www.basketball-reference.com/boxscores/202501120NYK.html,6:52,.000,.000,.250,.000,0.0,20.6,7.9,16.3,7.1,0.0,0.0,24.2,18,128,-17.1
+2025-01-12,202501120NYK,MIL,Liam Robbins,https://www.basketball-reference.com/boxscores/202501120NYK.html,6:10,.000,.000,1.000,.000,14.4,0.0,8.8,0.0,0.0,0.0,50.0,13.5,31,148,-23.5
+2025-01-12,202501120NYK,MIL,Stanley Umude,https://www.basketball-reference.com/boxscores/202501120NYK.html,6:10,.000,.000,.000,.000,0.0,45.8,17.7,0.0,0.0,0.0,25.0,27.0,0,140,-35.6
+2025-01-12,202501120NYK,NYK,Mikal Bridges,https://www.basketball-reference.com/boxscores/202501120NYK.html,37:18,.510,.500,.800,.400,3.8,2.4,2.9,15.9,0.0,4.3,14.5,8.0,135,112,1.1
+2025-01-12,202501120NYK,NYK,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202501120NYK.html,35:32,.752,.688,.313,.563,19.9,32.5,27.6,14.4,1.4,0.0,9.1,26.8,156,100,9.9
+2025-01-12,202501120NYK,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202501120NYK.html,35:21,1.100,1.100,.200,.000,8.0,22.6,17.0,12.3,1.4,0.0,37.5,9.8,144,104,3.6
+2025-01-12,202501120NYK,NYK,OG Anunoby,https://www.basketball-reference.com/boxscores/202501120NYK.html,30:51,.442,.458,.417,.083,0.0,2.9,1.8,7.2,0.0,2.6,13.9,20.3,88,113,-10.7
+2025-01-12,202501120NYK,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202501120NYK.html,28:47,.745,.712,.385,.308,4.9,12.4,9.5,41.1,1.7,0.0,3.3,46.0,157,108,20.7
+2025-01-12,202501120NYK,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202501120NYK.html,19:40,.429,.429,.857,.000,0.0,0.0,0.0,10.6,0.0,0.0,0.0,15.5,113,116,-6.5
+2025-01-12,202501120NYK,NYK,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202501120NYK.html,14:54,1.000,1.000,.000,.000,0.0,17.9,11.0,7.2,6.5,0.0,0.0,5.8,207,94,8.5
+2025-01-12,202501120NYK,NYK,Cameron Payne,https://www.basketball-reference.com/boxscores/202501120NYK.html,14:22,.827,.800,.700,.200,0.0,12.4,7.6,21.6,0.0,0.0,0.0,32.9,173,110,16.5
+2025-01-12,202501120NYK,NYK,Landry Shamet,https://www.basketball-reference.com/boxscores/202501120NYK.html,6:10,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0,116,-13.1
+2025-01-12,202501120NYK,NYK,Jacob Toppin,https://www.basketball-reference.com/boxscores/202501120NYK.html,5:22,.500,.500,.000,.000,0.0,16.6,10.2,0.0,9.1,0.0,33.3,24.3,63,89,-8.2
+2025-01-12,202501120NYK,NYK,Ariel Hukporti,https://www.basketball-reference.com/boxscores/202501120NYK.html,5:21,,,,,26.4,49.8,40.8,0.0,0.0,15.0,100.0,8.1,68,88,0.3
+2025-01-12,202501120NYK,NYK,Tyler Kolek,https://www.basketball-reference.com/boxscores/202501120NYK.html,3:11,,,,,0.0,27.9,17.1,59.1,0.0,0.0,,0.0,235,106,14.4
+2025-01-12,202501120NYK,NYK,Matt Ryan,https://www.basketball-reference.com/boxscores/202501120NYK.html,3:11,1.389,1.500,1.000,1.000,0.0,27.9,17.1,0.0,0.0,0.0,0.0,39.3,270,106,66.0

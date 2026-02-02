@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-01-18,202501180IND,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501180IND.html,12.0,2,4,.500,0,1,.000,1,1,1.000,0,1,1,1,0,0,0,1,5,3.6,-5
+2025-01-18,202501180IND,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,10.05,1,5,.200,1,2,.500,0,0,,0,1,1,0,1,0,0,1,3,0.8,-7
+2025-01-18,202501180IND,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501180IND.html,10.1,1,3,.333,0,1,.000,1,2,.500,0,2,2,0,1,0,1,0,3,1.5,-2
+2025-01-18,202501180IND,PHI,Q1,Eric Gordon,https://www.basketball-reference.com/boxscores/202501180IND.html,6.55,1,2,.500,1,1,1.000,1,2,.500,0,0,0,1,0,0,1,0,4,2.3,+1
+2025-01-18,202501180IND,PHI,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202501180IND.html,7.1,1,2,.500,0,0,,0,1,.000,0,1,1,0,0,0,0,0,2,0.9,+1
+2025-01-18,202501180IND,PHI,Q1,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,3.85,1,2,.500,0,1,.000,0,0,,0,0,0,2,0,0,0,0,2,2.4,-1
+2025-01-18,202501180IND,PHI,Q1,Justin Edwards,https://www.basketball-reference.com/boxscores/202501180IND.html,5.45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-6
+2025-01-18,202501180IND,PHI,Q1,Adem Bona,https://www.basketball-reference.com/boxscores/202501180IND.html,4.9,2,2,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,4,4.1,-6
+2025-01-18,202501180IND,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501180IND.html,7.17,3,6,.500,1,3,.333,3,3,1.000,0,0,0,0,0,0,0,0,10,7.0,+4
+2025-01-18,202501180IND,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,10.18,3,4,.750,1,2,.500,2,2,1.000,1,3,4,3,0,0,1,1,9,9.7,+6
+2025-01-18,202501180IND,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501180IND.html,5.37,0,4,.000,0,1,.000,0,0,,2,1,3,2,0,0,0,1,0,-0.1,+7
+2025-01-18,202501180IND,PHI,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202501180IND.html,8.48,0,1,.000,0,1,.000,0,0,,0,0,0,2,1,0,0,1,0,1.3,+5
+2025-01-18,202501180IND,PHI,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202501180IND.html,8.25,2,3,.667,0,1,.000,0,0,,1,0,1,0,0,0,3,2,4,-0.4,-6
+2025-01-18,202501180IND,PHI,Q2,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,4.83,1,2,.500,0,0,,0,0,,0,0,0,1,1,0,0,0,2,2.7,-1
+2025-01-18,202501180IND,PHI,Q2,Justin Edwards,https://www.basketball-reference.com/boxscores/202501180IND.html,8.55,2,5,.400,0,2,.000,0,0,,0,2,2,0,0,0,1,2,4,0.1,-4
+2025-01-18,202501180IND,PHI,Q2,Adem Bona,https://www.basketball-reference.com/boxscores/202501180IND.html,7.17,3,3,1.000,0,0,,1,1,1.000,3,2,5,0,0,0,0,0,7,8.8,+4
+2025-01-18,202501180IND,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501180IND.html,12.0,3,9,.333,0,2,.000,2,2,1.000,0,0,0,1,0,0,0,1,8,3.2,-7
+2025-01-18,202501180IND,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,12.0,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,1,1,3,0.9,-7
+2025-01-18,202501180IND,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501180IND.html,8.7,2,4,.500,2,3,.667,0,0,,0,1,1,0,1,0,0,0,6,5.3,-3
+2025-01-18,202501180IND,PHI,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202501180IND.html,6.53,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,0,1,0,0.3,-6
+2025-01-18,202501180IND,PHI,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202501180IND.html,6.53,1,2,.500,0,0,,0,0,,0,1,1,0,1,0,0,1,2,1.9,-6
+2025-01-18,202501180IND,PHI,Q3,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,3.3,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,-4
+2025-01-18,202501180IND,PHI,Q3,Justin Edwards,https://www.basketball-reference.com/boxscores/202501180IND.html,5.47,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,1,0,-0.1,-1
+2025-01-18,202501180IND,PHI,Q3,Adem Bona,https://www.basketball-reference.com/boxscores/202501180IND.html,5.47,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-1
+2025-01-18,202501180IND,PHI,Q4,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501180IND.html,7.63,2,4,.500,1,1,1.000,0,0,,0,0,0,1,0,0,0,1,5,3.3,+2
+2025-01-18,202501180IND,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,6.42,1,2,.500,0,1,.000,1,2,.500,0,2,2,0,0,0,0,0,3,2.2,-10
+2025-01-18,202501180IND,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501180IND.html,12.0,3,7,.429,1,4,.250,2,2,1.000,1,2,3,0,1,0,1,0,9,6.6,-4
+2025-01-18,202501180IND,PHI,Q4,Eric Gordon,https://www.basketball-reference.com/boxscores/202501180IND.html,8.38,0,3,.000,0,3,.000,0,0,,0,0,0,1,1,1,0,0,0,0.3,-1
+2025-01-18,202501180IND,PHI,Q4,Andre Drummond,https://www.basketball-reference.com/boxscores/202501180IND.html,4.62,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4
+2025-01-18,202501180IND,PHI,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501180IND.html,9.95,0,2,.000,0,1,.000,0,0,,0,1,1,3,0,0,0,0,0,1.0,0
+2025-01-18,202501180IND,PHI,Q4,Justin Edwards,https://www.basketball-reference.com/boxscores/202501180IND.html,2.45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-2
+2025-01-18,202501180IND,PHI,Q4,Adem Bona,https://www.basketball-reference.com/boxscores/202501180IND.html,1.17,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,-1
+2025-01-18,202501180IND,PHI,Q4,Pete Nance,https://www.basketball-reference.com/boxscores/202501180IND.html,7.38,1,1,1.000,1,1,1.000,1,2,.500,0,0,0,0,0,0,0,1,4,2.9,0
+2025-01-18,202501180IND,IND,Q1,Pascal Siakam,https://www.basketball-reference.com/boxscores/202501180IND.html,6.55,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,1,1,-0.5,-1
+2025-01-18,202501180IND,IND,Q1,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202501180IND.html,10.1,1,5,.200,0,3,.000,0,0,,1,3,4,5,0,0,3,0,2,1.0,+2
+2025-01-18,202501180IND,IND,Q1,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202501180IND.html,9.58,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+10
+2025-01-18,202501180IND,IND,Q1,Myles Turner,https://www.basketball-reference.com/boxscores/202501180IND.html,8.15,2,4,.500,0,2,.000,0,0,,2,3,5,2,0,1,0,1,4,6.0,+4
+2025-01-18,202501180IND,IND,Q1,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202501180IND.html,6.03,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,1,1,4,1.3,-3
+2025-01-18,202501180IND,IND,Q1,Ben Sheppard,https://www.basketball-reference.com/boxscores/202501180IND.html,0.98,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2025-01-18,202501180IND,IND,Q1,Thomas Bryant,https://www.basketball-reference.com/boxscores/202501180IND.html,3.85,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,0,0,1.0,+1
+2025-01-18,202501180IND,IND,Q1,T.J. McConnell,https://www.basketball-reference.com/boxscores/202501180IND.html,3.85,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.7,+1
+2025-01-18,202501180IND,IND,Q1,Obi Toppin,https://www.basketball-reference.com/boxscores/202501180IND.html,5.45,2,3,.667,0,0,,0,0,,0,1,1,2,0,0,0,1,4,4.0,+6
+2025-01-18,202501180IND,IND,Q1,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202501180IND.html,5.45,3,4,.750,1,2,.500,2,2,1.000,0,1,1,0,0,0,0,0,9,7.7,+6
+2025-01-18,202501180IND,IND,Q2,Pascal Siakam,https://www.basketball-reference.com/boxscores/202501180IND.html,9.9,2,6,.333,0,2,.000,3,6,.500,1,1,2,2,0,0,0,1,7,4.4,-2
+2025-01-18,202501180IND,IND,Q2,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202501180IND.html,7.17,2,2,1.000,0,0,,0,0,,0,0,0,2,0,0,0,1,4,4.4,-4
+2025-01-18,202501180IND,IND,Q2,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202501180IND.html,7.17,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,1,2,3,0.9,-4
+2025-01-18,202501180IND,IND,Q2,Myles Turner,https://www.basketball-reference.com/boxscores/202501180IND.html,5.5,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,0,2,2,0.1,+2
+2025-01-18,202501180IND,IND,Q2,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202501180IND.html,6.67,0,1,.000,0,1,.000,2,2,1.000,1,0,1,1,2,0,1,0,2,3.7,-8
+2025-01-18,202501180IND,IND,Q2,Ben Sheppard,https://www.basketball-reference.com/boxscores/202501180IND.html,4.83,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,0,3,2.7,+1
+2025-01-18,202501180IND,IND,Q2,Thomas Bryant,https://www.basketball-reference.com/boxscores/202501180IND.html,6.5,3,5,.600,1,2,.500,0,0,,2,1,3,0,0,0,1,0,7,5.4,-5
+2025-01-18,202501180IND,IND,Q2,T.J. McConnell,https://www.basketball-reference.com/boxscores/202501180IND.html,4.83,1,1,1.000,0,0,,0,0,,1,0,1,1,1,0,1,0,2,3.1,+1
+2025-01-18,202501180IND,IND,Q2,Obi Toppin,https://www.basketball-reference.com/boxscores/202501180IND.html,2.1,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1
+2025-01-18,202501180IND,IND,Q2,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202501180IND.html,5.33,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+5
+2025-01-18,202501180IND,IND,Q3,Pascal Siakam,https://www.basketball-reference.com/boxscores/202501180IND.html,9.12,1,2,.500,0,0,,1,1,1.000,2,1,3,2,0,0,0,0,3,5.1,+10
+2025-01-18,202501180IND,IND,Q3,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202501180IND.html,8.92,0,3,.000,0,3,.000,0,0,,0,1,1,2,0,0,2,0,0,-2.4,+1
+2025-01-18,202501180IND,IND,Q3,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202501180IND.html,3.98,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,2,2,1.6,0
+2025-01-18,202501180IND,IND,Q3,Myles Turner,https://www.basketball-reference.com/boxscores/202501180IND.html,7.6,3,5,.600,2,2,1.000,2,2,1.000,0,3,3,0,0,0,1,1,10,7.2,+6
+2025-01-18,202501180IND,IND,Q3,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202501180IND.html,8.92,1,1,1.000,0,0,,0,0,,1,4,5,0,0,0,2,1,2,1.2,+1
+2025-01-18,202501180IND,IND,Q3,Ben Sheppard,https://www.basketball-reference.com/boxscores/202501180IND.html,8.02,1,3,.333,0,2,.000,1,1,1.000,1,0,1,0,0,0,0,0,3,2.0,+7
+2025-01-18,202501180IND,IND,Q3,Thomas Bryant,https://www.basketball-reference.com/boxscores/202501180IND.html,4.4,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+1
+2025-01-18,202501180IND,IND,Q3,T.J. McConnell,https://www.basketball-reference.com/boxscores/202501180IND.html,3.08,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,4,4.1,+6
+2025-01-18,202501180IND,IND,Q3,Obi Toppin,https://www.basketball-reference.com/boxscores/202501180IND.html,2.88,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-3
+2025-01-18,202501180IND,IND,Q3,Jarace Walker,https://www.basketball-reference.com/boxscores/202501180IND.html,3.08,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,2.0,+6
+2025-01-18,202501180IND,IND,Q4,Pascal Siakam,https://www.basketball-reference.com/boxscores/202501180IND.html,9.13,3,3,1.000,0,0,,4,5,.800,1,2,3,1,0,2,0,0,10,12.1,+7
+2025-01-18,202501180IND,IND,Q4,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202501180IND.html,6.3,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,-2
+2025-01-18,202501180IND,IND,Q4,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202501180IND.html,7.72,0,2,.000,0,1,.000,0,2,.000,0,1,1,1,0,0,0,1,0,-1.6,-3
+2025-01-18,202501180IND,IND,Q4,Myles Turner,https://www.basketball-reference.com/boxscores/202501180IND.html,6.3,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,1,1,2,-0.8,-2
+2025-01-18,202501180IND,IND,Q4,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202501180IND.html,3.3,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-5
+2025-01-18,202501180IND,IND,Q4,Ben Sheppard,https://www.basketball-reference.com/boxscores/202501180IND.html,7.28,2,2,1.000,2,2,1.000,0,0,,0,2,2,1,0,0,0,1,6,6.3,+10
+2025-01-18,202501180IND,IND,Q4,Thomas Bryant,https://www.basketball-reference.com/boxscores/202501180IND.html,5.7,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,1,0,3,2.7,+6
+2025-01-18,202501180IND,IND,Q4,T.J. McConnell,https://www.basketball-reference.com/boxscores/202501180IND.html,4.62,1,3,.333,0,0,,0,0,,0,0,0,0,1,1,0,0,2,2.0,+4
+2025-01-18,202501180IND,IND,Q4,Obi Toppin,https://www.basketball-reference.com/boxscores/202501180IND.html,1.78,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5
+2025-01-18,202501180IND,IND,Q4,Jarace Walker,https://www.basketball-reference.com/boxscores/202501180IND.html,5.7,0,0,,0,0,,0,0,,0,2,2,1,0,0,1,1,0,-0.1,+6
+2025-01-18,202501180IND,IND,Q4,RayJ Dennis,https://www.basketball-reference.com/boxscores/202501180IND.html,1.08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2
+2025-01-18,202501180IND,IND,Q4,Johnny Furphy,https://www.basketball-reference.com/boxscores/202501180IND.html,1.08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2

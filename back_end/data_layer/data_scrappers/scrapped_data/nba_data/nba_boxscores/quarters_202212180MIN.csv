@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-12-18,202212180MIN,CHI,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212180MIN.html,10.62,1,1,1.000,1,1,1.000,0,0,0,2,2,2,1,0,0,2,3,4.9,+3,
+2022-12-18,202212180MIN,CHI,Q1,Patrick Williams,https://www.basketball-reference.com/boxscores/202212180MIN.html,10.62,1,3,.333,0,1,.000,3,3,0,0,0,1,0,0,0,2,5,3.2,+3,1.000
+2022-12-18,202212180MIN,CHI,Q1,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.68,3,5,.600,0,1,.000,0,0,0,3,3,1,2,0,2,0,6,5.3,-8,
+2022-12-18,202212180MIN,CHI,Q1,Zach LaVine,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.68,2,3,.667,1,2,.500,3,4,0,0,0,2,0,0,1,0,8,6.7,-8,.750
+2022-12-18,202212180MIN,CHI,Q1,Alex Caruso,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.3,1,2,.500,1,2,.500,0,0,1,0,1,1,0,0,1,0,3,2.4,-7,
+2022-12-18,202212180MIN,CHI,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.7,1,3,.333,0,1,.000,1,1,1,1,2,0,0,0,0,1,3,1.9,+9,1.000
+2022-12-18,202212180MIN,CHI,Q1,Goran Dragić,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.7,1,2,.500,1,2,.500,0,0,0,0,0,2,0,0,0,0,3,3.4,+9,
+2022-12-18,202212180MIN,CHI,Q1,Coby White,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.7,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,3.0,+9,
+2022-12-18,202212180MIN,CHI,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.35,6,9,.667,1,2,.500,0,0,1,1,2,0,0,0,1,0,13,9.1,-2,
+2022-12-18,202212180MIN,CHI,Q2,Patrick Williams,https://www.basketball-reference.com/boxscores/202212180MIN.html,2.65,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-6,
+2022-12-18,202212180MIN,CHI,Q2,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.35,2,2,1.000,1,1,1.000,0,0,1,1,2,0,0,1,1,1,5,4.7,0,
+2022-12-18,202212180MIN,CHI,Q2,Zach LaVine,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.35,2,5,.400,0,1,.000,0,0,0,0,0,2,0,0,1,0,4,1.7,0,
+2022-12-18,202212180MIN,CHI,Q2,Alex Caruso,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.35,0,1,.000,0,1,.000,0,0,0,0,0,1,1,0,1,1,0,-0.4,-2,
+2022-12-18,202212180MIN,CHI,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.65,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,-8,
+2022-12-18,202212180MIN,CHI,Q2,Goran Dragić,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.65,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-8,
+2022-12-18,202212180MIN,CHI,Q2,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.88,1,2,.500,0,1,.000,0,0,0,1,1,1,0,0,0,0,2,2.0,-6,
+2022-12-18,202212180MIN,CHI,Q2,Coby White,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.77,2,3,.667,1,2,.500,0,1,0,1,1,0,1,0,0,1,5,4.2,-8,.000
+2022-12-18,202212180MIN,CHI,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212180MIN.html,10.32,1,5,.200,0,0,,4,5,0,0,0,2,0,0,0,0,6,3.9,-9,.800
+2022-12-18,202212180MIN,CHI,Q3,Patrick Williams,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.17,3,4,.750,2,3,.667,0,0,0,1,1,1,0,0,0,0,8,7.4,-8,
+2022-12-18,202212180MIN,CHI,Q3,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212180MIN.html,11.62,3,5,.600,1,3,.333,0,0,0,2,2,3,0,0,0,2,7,6.6,-7,
+2022-12-18,202212180MIN,CHI,Q3,Zach LaVine,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.78,3,6,.500,1,2,.500,0,0,0,1,1,2,0,0,0,1,7,5.3,-5,
+2022-12-18,202212180MIN,CHI,Q3,Alex Caruso,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.1,0,0,,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.7,-4,
+2022-12-18,202212180MIN,CHI,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212180MIN.html,3.22,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-5,
+2022-12-18,202212180MIN,CHI,Q3,Goran Dragić,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.9,0,0,,0,0,,1,2,0,0,0,2,0,0,1,0,1,1.0,-6,.500
+2022-12-18,202212180MIN,CHI,Q3,Coby White,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.9,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2022-12-18,202212180MIN,CHI,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.58,2,4,.500,0,1,.000,3,4,0,0,0,2,1,0,0,0,7,7.0,+3,.750
+2022-12-18,202212180MIN,CHI,Q4,Patrick Williams,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.82,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,1.0,-8,
+2022-12-18,202212180MIN,CHI,Q4,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.58,2,3,.667,1,1,1.000,0,0,0,2,2,1,0,0,1,0,5,4.0,-3,
+2022-12-18,202212180MIN,CHI,Q4,Zach LaVine,https://www.basketball-reference.com/boxscores/202212180MIN.html,5.78,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,1.6,-8,
+2022-12-18,202212180MIN,CHI,Q4,Alex Caruso,https://www.basketball-reference.com/boxscores/202212180MIN.html,2.18,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,0,2,1.3,0,
+2022-12-18,202212180MIN,CHI,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.42,3,3,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,7,6.4,-5,
+2022-12-18,202212180MIN,CHI,Q4,Goran Dragić,https://www.basketball-reference.com/boxscores/202212180MIN.html,5.2,0,1,.000,0,1,.000,0,0,0,3,3,1,0,0,0,0,0,0.9,+1,
+2022-12-18,202212180MIN,CHI,Q4,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.45,1,5,.200,0,2,.000,1,2,1,1,2,1,0,0,1,1,3,-0.2,-15,.500
+2022-12-18,202212180MIN,CHI,Q4,Coby White,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.77,0,1,.000,0,1,.000,2,2,0,0,0,0,0,0,0,1,2,0.9,+1,1.000
+2022-12-18,202212180MIN,CHI,Q4,Tony Bradley,https://www.basketball-reference.com/boxscores/202212180MIN.html,2.22,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-6,
+2022-12-18,202212180MIN,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212180MIN.html,12.0,2,7,.286,0,4,.000,3,3,1,3,4,2,0,0,2,0,7,3.9,-2,1.000
+2022-12-18,202212180MIN,MIN,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.68,2,3,.667,2,3,.667,0,0,0,0,0,3,0,0,0,0,6,6.8,+8,
+2022-12-18,202212180MIN,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.68,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,2,1,3,-0.1,+8,
+2022-12-18,202212180MIN,MIN,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.98,0,1,.000,0,1,.000,0,0,0,0,0,2,1,0,0,1,0,1.3,-13,
+2022-12-18,202212180MIN,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.68,4,4,1.000,2,2,1.000,0,0,0,3,3,0,1,0,0,0,10,10.7,+8,
+2022-12-18,202212180MIN,MIN,Q1,Austin Rivers,https://www.basketball-reference.com/boxscores/202212180MIN.html,3.32,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-10,
+2022-12-18,202212180MIN,MIN,Q1,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212180MIN.html,6.33,1,1,1.000,0,0,,0,0,0,0,0,1,1,0,0,1,2,3.0,+1,
+2022-12-18,202212180MIN,MIN,Q1,Luka Garza,https://www.basketball-reference.com/boxscores/202212180MIN.html,3.32,0,0,,0,0,,1,2,0,0,0,0,0,0,1,2,1,-1.2,-10,.500
+2022-12-18,202212180MIN,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212180MIN.html,6.08,1,3,.333,0,1,.000,0,0,0,0,0,2,0,0,0,0,2,1.7,-1,
+2022-12-18,202212180MIN,MIN,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.88,5,5,1.000,4,4,1.000,0,0,0,0,0,3,0,0,2,1,14,12.2,+15,
+2022-12-18,202212180MIN,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.73,0,0,,0,0,,0,0,0,3,3,2,0,1,1,1,0,1.6,+10,
+2022-12-18,202212180MIN,MIN,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.27,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,-2,
+2022-12-18,202212180MIN,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202212180MIN.html,3.18,0,0,,0,0,,0,2,0,0,0,0,0,0,0,0,0,-0.8,+6,.000
+2022-12-18,202212180MIN,MIN,Q2,Nathan Knight,https://www.basketball-reference.com/boxscores/202212180MIN.html,8.82,5,6,.833,0,0,,3,3,1,1,2,0,0,0,1,1,13,10.4,+2,1.000
+2022-12-18,202212180MIN,MIN,Q2,Austin Rivers,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.03,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,3.0,+2,
+2022-12-18,202212180MIN,MIN,Q2,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.65,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,+8,
+2022-12-18,202212180MIN,MIN,Q2,Bryn Forbes,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.35,2,4,.500,1,2,.500,0,0,0,2,2,0,0,0,0,0,5,3.6,0,
+2022-12-18,202212180MIN,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212180MIN.html,12.0,7,8,.875,3,4,.750,2,2,0,1,1,3,1,0,2,2,19,16.8,+10,1.000
+2022-12-18,202212180MIN,MIN,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212180MIN.html,9.17,1,2,.500,1,1,1.000,0,0,0,1,1,2,0,0,0,1,3,3.3,+8,
+2022-12-18,202212180MIN,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212180MIN.html,11.62,4,5,.800,0,1,.000,1,1,0,3,3,2,0,2,0,0,9,10.8,+7,1.000
+2022-12-18,202212180MIN,MIN,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202212180MIN.html,5.37,1,2,.500,0,1,.000,0,0,0,1,1,1,0,1,0,1,2,2.3,+4,
+2022-12-18,202212180MIN,MIN,Q3,Nathan Knight,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.1,0,0,,0,0,,0,0,0,0,0,2,0,0,0,1,0,1.0,+4,
+2022-12-18,202212180MIN,MIN,Q3,Austin Rivers,https://www.basketball-reference.com/boxscores/202212180MIN.html,3.22,1,2,.500,0,1,.000,0,0,0,1,1,1,0,0,0,1,2,1.6,+5,
+2022-12-18,202212180MIN,MIN,Q3,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212180MIN.html,6.63,2,2,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,1,5,5.0,+6,
+2022-12-18,202212180MIN,MIN,Q3,Luka Garza,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.9,1,1,1.000,0,0,,0,0,1,1,2,2,0,0,0,0,2,4.1,+6,
+2022-12-18,202212180MIN,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202212180MIN.html,7.78,3,7,.429,1,2,.500,2,2,0,2,2,4,1,0,0,0,9,9.7,+8,1.000
+2022-12-18,202212180MIN,MIN,Q4,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202212180MIN.html,10.25,2,4,.500,0,2,.000,1,1,0,1,1,0,0,0,1,1,5,1.9,+2,1.000
+2022-12-18,202212180MIN,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202212180MIN.html,5.95,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.7,+6,
+2022-12-18,202212180MIN,MIN,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202212180MIN.html,2.47,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,2,0,-1.9,-6,
+2022-12-18,202212180MIN,MIN,Q4,Nathan Knight,https://www.basketball-reference.com/boxscores/202212180MIN.html,10.25,1,2,.500,1,2,.500,0,0,0,0,0,1,0,0,0,1,3,2.3,+2,
+2022-12-18,202212180MIN,MIN,Q4,Austin Rivers,https://www.basketball-reference.com/boxscores/202212180MIN.html,10.25,2,3,.667,2,3,.667,0,0,0,2,2,0,0,0,0,0,6,5.3,+2,
+2022-12-18,202212180MIN,MIN,Q4,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202212180MIN.html,4.3,0,1,.000,0,1,.000,0,0,1,1,2,0,0,0,0,0,0,0.3,-4,
+2022-12-18,202212180MIN,MIN,Q4,Luka Garza,https://www.basketball-reference.com/boxscores/202212180MIN.html,1.75,2,2,1.000,0,0,,0,0,0,2,2,1,0,0,0,0,4,4.7,+6,
+2022-12-18,202212180MIN,MIN,Q4,Bryn Forbes,https://www.basketball-reference.com/boxscores/202212180MIN.html,1.75,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,1,5,4.0,+6,
+2022-12-18,202212180MIN,MIN,Q4,Josh Minott,https://www.basketball-reference.com/boxscores/202212180MIN.html,1.75,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+6,
+2022-12-18,202212180MIN,MIN,Q4,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202212180MIN.html,1.75,0,0,,0,0,,0,0,0,1,1,0,0,1,0,0,0,1.0,+6,
+2022-12-18,202212180MIN,MIN,Q4,Matt Ryan,https://www.basketball-reference.com/boxscores/202212180MIN.html,1.75,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+6,

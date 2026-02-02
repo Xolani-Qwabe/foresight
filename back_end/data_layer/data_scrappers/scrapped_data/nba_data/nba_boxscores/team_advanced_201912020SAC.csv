@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-02,201912020SAC,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/201912020SAC.html,37:23,.563,.500,.125,.250,7.6,26.3,17.6,4.2,2.6,0.0,36.0,16.9,81,103,-6.4
+2019-12-02,201912020SAC,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/201912020SAC.html,35:07,.785,.731,.538,.846,0.0,3.5,1.9,15.5,1.4,0.0,10.1,25.6,142,111,8.6
+2019-12-02,201912020SAC,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/201912020SAC.html,33:35,.559,.333,.444,.889,4.2,3.7,3.9,22.5,1.4,0.0,19.3,21.0,111,111,-3.4
+2019-12-02,201912020SAC,CHI,Kris Dunn,https://www.basketball-reference.com/boxscores/201912020SAC.html,30:12,.375,.375,.375,.000,0.0,12.2,6.5,20.4,3.2,0.0,11.1,13.5,88,105,-4.2
+2019-12-02,201912020SAC,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/201912020SAC.html,29:34,.727,.667,.667,.333,0.0,29.1,15.6,6.2,0.0,0.0,12.7,24.2,121,108,3.4
+2019-12-02,201912020SAC,CHI,Coby White,https://www.basketball-reference.com/boxscores/201912020SAC.html,21:14,.611,.611,.667,.000,0.0,17.4,9.3,25.2,0.0,0.0,0.0,19.2,128,111,5.5
+2019-12-02,201912020SAC,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/201912020SAC.html,18:26,.583,.583,.333,.000,0.0,20.0,10.7,9.2,0.0,0.0,25.0,19.7,85,111,-5.7
+2019-12-02,201912020SAC,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/201912020SAC.html,12:01,.820,.750,1.000,.500,0.0,0.0,0.0,12.5,4.0,0.0,55.1,20.5,75,106,-5.8
+2019-12-02,201912020SAC,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/201912020SAC.html,11:51,.600,.600,.800,.000,0.0,31.2,16.6,14.5,8.2,0.0,0.0,19.2,120,89,11.6
+2019-12-02,201912020SAC,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/201912020SAC.html,10:37,.810,1.000,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.5,152,115,2.2
+2019-12-02,201912020SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/201912020SAC.html,39:14,.550,.500,.619,.286,0.0,18.0,8.4,16.9,1.2,0.0,4.1,27.5,118,116,1.0
+2019-12-02,201912020SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/201912020SAC.html,36:21,.450,.406,.313,.250,6.8,3.9,5.4,4.1,0.0,0.0,5.3,22.6,99,120,-7.3
+2019-12-02,201912020SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/201912020SAC.html,32:47,.776,.750,.000,.167,15.0,21.5,18.1,5.5,1.5,3.9,0.0,17.2,166,113,6.8
+2019-12-02,201912020SAC,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/201912020SAC.html,30:46,.827,.800,.300,.200,4.0,32.1,17.1,10.7,1.6,8.2,15.5,18.3,140,108,8.4
+2019-12-02,201912020SAC,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/201912020SAC.html,25:21,.250,.250,.500,.000,0.0,22.3,10.4,34.8,0.0,5.0,33.3,10.3,85,115,-4.7
+2019-12-02,201912020SAC,SAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/201912020SAC.html,21:51,.557,.556,.556,.222,0.0,12.9,6.0,21.1,0.0,0.0,23.3,25.8,93,120,-5.0
+2019-12-02,201912020SAC,SAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/201912020SAC.html,20:15,.765,.700,.200,.400,0.0,7.0,3.2,28.8,4.8,0.0,14.5,14.9,146,109,7.8
+2019-12-02,201912020SAC,SAC,Trevor Ariza,https://www.basketball-reference.com/boxscores/201912020SAC.html,12:12,.205,.000,.750,.500,0.0,11.6,5.4,0.0,4.0,0.0,29.1,24.7,33,110,-18.4
+2019-12-02,201912020SAC,SAC,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/201912020SAC.html,11:22,.500,.500,.500,.000,21.7,62.1,40.5,0.0,4.3,11.1,60.0,19.2,57,97,-9.9
+2019-12-02,201912020SAC,SAC,Justin James,https://www.basketball-reference.com/boxscores/201912020SAC.html,9:51,,,,,12.5,0.0,6.7,0.0,0.0,0.0,100.0,13.3,20,120,-22.2

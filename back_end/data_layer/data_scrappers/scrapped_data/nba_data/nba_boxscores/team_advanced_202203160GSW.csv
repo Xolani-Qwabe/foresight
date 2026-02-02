@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-16,202203160GSW,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202203160GSW.html,36:49,.611,.469,.500,.750,0.0,30.1,17.2,17.3,1.4,0.0,15.8,32.7,113,93,4.4
+2022-03-16,202203160GSW,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202203160GSW.html,34:51,.540,.476,.381,.333,7.1,13.2,10.6,16.1,0.0,0.0,7.7,35.7,111,101,1.7
+2022-03-16,202203160GSW,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202203160GSW.html,33:36,.833,.833,.583,.000,0.0,11.0,6.3,43.0,1.6,0.0,0.0,17.0,178,98,17.3
+2022-03-16,202203160GSW,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202203160GSW.html,31:38,.510,.500,.600,.400,0.0,14.6,8.3,4.3,0.0,0.0,25.4,11.9,79,100,-4.2
+2022-03-16,202203160GSW,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202203160GSW.html,23:34,.800,.800,.000,.000,15.7,23.5,20.1,6.8,0.0,21.4,0.0,10.1,178,84,13.2
+2022-03-16,202203160GSW,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202203160GSW.html,21:51,.000,.000,.625,.000,0.0,16.9,9.7,23.1,2.4,0.0,11.1,19.6,33,94,-15.2
+2022-03-16,202203160GSW,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202203160GSW.html,20:59,1.250,1.250,.500,.000,5.9,17.6,12.6,0.0,2.5,0.0,33.3,6.8,145,94,4.7
+2022-03-16,202203160GSW,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202203160GSW.html,18:11,.556,.556,.667,.000,0.0,5.1,2.9,19.2,0.0,0.0,0.0,23.6,119,103,1.8
+2022-03-16,202203160GSW,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202203160GSW.html,11:14,1.042,1.000,.000,1.000,21.9,24.7,23.5,0.0,0.0,0.0,0.0,6.1,226,97,3.0
+2022-03-16,202203160GSW,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202203160GSW.html,2:36,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.3,300,104,37.8
+2022-03-16,202203160GSW,BOS,Nik Stauskas,https://www.basketball-reference.com/boxscores/202203160GSW.html,2:36,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.3,300,104,37.5
+2022-03-16,202203160GSW,BOS,Malik Fitts,https://www.basketball-reference.com/boxscores/202203160GSW.html,2:05,,,,,0.0,44.3,25.3,0.0,0.0,0.0,,0.0,0,92,-1.3
+2022-03-16,202203160GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202203160GSW.html,34:26,.666,.650,.650,.200,0.0,7.1,3.1,23.2,3.0,3.4,0.0,30.0,130,119,17.4
+2022-03-16,202203160GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202203160GSW.html,32:57,.362,.354,.458,.083,5.6,3.7,4.8,7.2,0.0,0.0,3.9,37.3,74,129,-9.3
+2022-03-16,202203160GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202203160GSW.html,27:02,.699,.667,.000,.167,6.8,27.3,15.6,28.5,1.9,8.7,13.4,13.1,138,113,7.3
+2022-03-16,202203160GSW,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202203160GSW.html,24:35,.250,.250,.600,.000,7.5,5.0,6.4,6.9,6.4,4.8,0.0,19.3,66,110,-1.8
+2022-03-16,202203160GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202203160GSW.html,13:40,.375,.375,1.000,.000,0.0,9.0,3.9,24.7,0.0,0.0,50.0,27.8,45,128,-22.1
+2022-03-16,202203160GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202203160GSW.html,22:23,.322,.167,.500,.667,0.0,5.5,2.4,7.2,0.0,0.0,0.0,16.5,74,129,-10.2
+2022-03-16,202203160GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202203160GSW.html,22:17,.347,.000,1.000,1.000,0.0,44.2,18.9,20.2,2.4,0.0,25.8,8.3,82,114,-4.2
+2022-03-16,202203160GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202203160GSW.html,17:17,.170,.000,1.000,.400,0.0,35.6,15.3,0.0,0.0,0.0,14.5,18.9,31,122,-16.8
+2022-03-16,202203160GSW,GSW,Quinndary Weatherspoon,https://www.basketball-reference.com/boxscores/202203160GSW.html,15:06,.436,.333,.333,.333,6.1,32.6,17.5,11.0,0.0,0.0,0.0,10.8,111,122,-5.0
+2022-03-16,202203160GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202203160GSW.html,14:24,.875,.875,.500,.000,0.0,8.5,3.7,30.3,3.6,0.0,0.0,13.2,174,119,11.7
+2022-03-16,202203160GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202203160GSW.html,9:18,1.500,1.500,1.000,.000,0.0,13.2,5.7,0.0,0.0,0.0,0.0,5.1,300,127,2.7
+2022-03-16,202203160GSW,GSW,Chris Chiozza,https://www.basketball-reference.com/boxscores/202203160GSW.html,6:35,1.000,1.000,.000,.000,0.0,0.0,0.0,29.5,0.0,0.0,0.0,7.2,208,130,3.4

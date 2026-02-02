@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-01-14,202301140CHO,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301140CHO.html,36.9,12,27,.444,4,14,.286,5,5,1.000,3,6,9,6,0,1,1,0,33,26.7,+26
+2023-01-14,202301140CHO,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202301140CHO.html,35.63,5,15,.333,3,12,.250,0,0,,0,2,2,12,2,0,2,2,13,12.7,+24
+2023-01-14,202301140CHO,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202301140CHO.html,32.8,6,10,.600,4,7,.571,0,0,,1,6,7,6,2,0,0,4,16,18.5,+11
+2023-01-14,202301140CHO,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202301140CHO.html,27.52,3,6,.500,0,0,,0,1,.000,6,6,12,3,2,1,0,1,6,13.0,+18
+2023-01-14,202301140CHO,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202301140CHO.html,4.08,3,3,1.000,2,2,1.000,0,0,,0,0,0,0,0,0,1,0,8,6.1,+1
+2023-01-14,202301140CHO,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301140CHO.html,31.38,11,17,.647,4,6,.667,4,4,1.000,0,3,3,3,1,0,0,2,30,25.7,+9
+2023-01-14,202301140CHO,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202301140CHO.html,26.75,4,11,.364,1,6,.167,0,0,,2,1,3,2,1,0,1,1,9,5.6,+4
+2023-01-14,202301140CHO,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202301140CHO.html,22.77,1,4,.250,1,3,.333,0,0,,0,4,4,3,0,0,1,2,3,2.1,-1
+2023-01-14,202301140CHO,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202301140CHO.html,11.18,1,1,1.000,0,0,,0,0,,2,2,4,0,0,2,1,1,2,3.7,+4
+2023-01-14,202301140CHO,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202301140CHO.html,5.37,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,0,1,2,0.2,-14
+2023-01-14,202301140CHO,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202301140CHO.html,3.88,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-2
+2023-01-14,202301140CHO,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202301140CHO.html,1.73,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0
+2023-01-14,202301140CHO,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202301140CHO.html,38.63,11,27,.407,1,8,.125,8,8,1.000,1,6,7,9,2,0,5,2,31,21.5,-7
+2023-01-14,202301140CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202301140CHO.html,37.4,5,8,.625,4,7,.571,0,0,,0,3,3,4,0,0,1,1,14,12.7,-8
+2023-01-14,202301140CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202301140CHO.html,35.95,8,17,.471,2,8,.250,3,4,.750,1,3,4,3,0,1,2,0,21,14.3,-21
+2023-01-14,202301140CHO,CHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202301140CHO.html,32.9,4,10,.400,0,0,,1,2,.500,3,13,16,1,0,0,1,0,9,8.9,-21
+2023-01-14,202301140CHO,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202301140CHO.html,27.92,4,8,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,2,9,4.9,-12
+2023-01-14,202301140CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202301140CHO.html,20.97,3,5,.600,0,0,,2,2,1.000,3,2,5,0,0,0,0,4,8,6.8,-7
+2023-01-14,202301140CHO,CHO,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202301140CHO.html,17.05,1,4,.250,0,0,,0,0,,0,1,1,3,1,0,2,1,2,0.6,-1
+2023-01-14,202301140CHO,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202301140CHO.html,13.37,4,5,.800,0,0,,0,0,,1,5,6,0,0,1,0,1,8,8.6,+5
+2023-01-14,202301140CHO,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202301140CHO.html,10.6,0,2,.000,0,2,.000,2,3,.667,0,1,1,0,0,0,0,0,2,0.5,-8
+2023-01-14,202301140CHO,CHO,Mark Williams,https://www.basketball-reference.com/boxscores/202301140CHO.html,1.73,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.0,0
+2023-01-14,202301140CHO,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202301140CHO.html,1.73,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-01-14,202301140CHO,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202301140CHO.html,1.73,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0

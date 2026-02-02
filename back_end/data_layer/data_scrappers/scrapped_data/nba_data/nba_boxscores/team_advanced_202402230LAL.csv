@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-02-23,202402230LAL,SAS,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202402230LAL.html,34:22,.469,.469,.375,.000,18.8,20.4,19.5,21.7,2.7,0.0,15.8,22.1,106,119,-3.2
+2024-02-23,202402230LAL,SAS,Victor Wembanyama,https://www.basketball-reference.com/boxscores/202402230LAL.html,30:55,.648,.531,.500,.688,3.0,34.1,16.7,39.9,7.6,11.4,8.8,29.5,138,96,24.1
+2024-02-23,202402230LAL,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202402230LAL.html,30:05,.315,.267,.333,.133,3.1,7.8,5.1,12.9,0.0,4.7,11.2,23.8,76,124,-13.1
+2024-02-23,202402230LAL,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202402230LAL.html,27:29,.667,.667,.333,.000,3.4,8.5,5.6,19.0,1.7,0.0,0.0,8.7,157,124,-1.5
+2024-02-23,202402230LAL,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202402230LAL.html,23:38,.400,.357,.714,.571,7.8,9.9,8.7,26.8,2.0,0.0,0.0,14.8,121,123,-1.3
+2024-02-23,202402230LAL,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202402230LAL.html,29:28,.651,.611,.333,.444,3.1,4.0,3.5,14.4,0.0,0.0,21.8,18.7,109,129,-6.0
+2024-02-23,202402230LAL,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202402230LAL.html,23:21,.571,.536,.357,.143,4.0,5.0,4.4,6.9,0.0,0.0,0.0,25.5,124,129,-2.6
+2024-02-23,202402230LAL,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202402230LAL.html,17:05,.875,.875,.250,.000,0.0,20.6,9.1,0.0,0.0,0.0,20.0,23.4,114,125,-1.5
+2024-02-23,202402230LAL,SAS,Cedi Osman,https://www.basketball-reference.com/boxscores/202402230LAL.html,11:09,.500,.500,.500,.000,0.0,21.0,9.3,45.7,0.0,0.0,33.3,10.8,112,126,-1.6
+2024-02-23,202402230LAL,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202402230LAL.html,9:59,.667,.667,.333,.000,18.5,11.7,15.5,0.0,0.0,0.0,25.0,16.0,108,127,-8.7
+2024-02-23,202402230LAL,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202402230LAL.html,2:29,,,,,0.0,94.3,41.6,0.0,0.0,0.0,,0.0,0,111,-5.6
+2024-02-23,202402230LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202402230LAL.html,34:53,.569,.528,.389,.167,0.0,7.9,4.4,21.7,1.4,0.0,4.9,24.3,123,119,1.6
+2024-02-23,202402230LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202402230LAL.html,34:17,.656,.636,.136,.091,3.4,16.2,10.5,40.9,1.4,0.0,8.0,30.3,135,116,11.6
+2024-02-23,202402230LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202402230LAL.html,33:19,.417,.417,.417,.000,3.5,11.1,7.7,30.0,0.0,5.0,29.4,21.3,86,118,-4.7
+2024-02-23,202402230LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202402230LAL.html,31:37,.773,.773,.364,.000,3.7,17.5,11.4,0.0,3.0,2.6,8.3,15.9,137,110,4.8
+2024-02-23,202402230LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202402230LAL.html,29:03,.761,.714,.071,.714,20.2,25.4,23.1,0.0,1.6,0.0,5.2,27.9,154,111,8.0
+2024-02-23,202402230LAL,LAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202402230LAL.html,24:20,.000,.000,.500,.000,0.0,3.8,2.1,4.0,0.0,0.0,0.0,10.3,13,124,-17.4
+2024-02-23,202402230LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202402230LAL.html,18:57,.800,.800,.200,.000,12.4,9.7,10.9,0.0,2.5,0.0,0.0,11.0,168,116,-0.7
+2024-02-23,202402230LAL,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202402230LAL.html,18:33,.388,.417,.500,.167,0.0,19.9,11.1,17.7,2.5,0.0,23.7,19.0,76,111,-8.4
+2024-02-23,202402230LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202402230LAL.html,13:13,.798,1.000,.000,2.000,0.0,14.0,7.8,0.0,0.0,6.3,0.0,5.9,158,117,0.7
+2024-02-23,202402230LAL,LAL,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202402230LAL.html,0:36,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-35.2
+2024-02-23,202402230LAL,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202402230LAL.html,0:36,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-6.5
+2024-02-23,202402230LAL,LAL,Dylan Windler,https://www.basketball-reference.com/boxscores/202402230LAL.html,0:36,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-8.9

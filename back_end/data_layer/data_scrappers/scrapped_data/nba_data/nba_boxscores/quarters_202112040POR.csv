@@ -1,0 +1,75 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-12-04,202112040POR,BOS,Q1,Grant Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,12.0,2,3,.667,1,2,.500,0,0,0,2,2,0,0,2,0,0,5,5.7,+15,
+2021-12-04,202112040POR,BOS,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202112040POR.html,12.0,3,4,.750,2,2,1.000,2,2,0,0,0,2,0,0,1,0,10,8.8,+15,1.000
+2021-12-04,202112040POR,BOS,Q1,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112040POR.html,6.12,2,2,1.000,1,1,1.000,2,2,0,1,1,1,0,0,1,1,7,6.0,+5,1.000
+2021-12-04,202112040POR,BOS,Q1,Marcus Smart,https://www.basketball-reference.com/boxscores/202112040POR.html,6.12,2,3,.667,1,2,.500,0,0,0,0,0,2,0,0,1,1,5,3.7,+5,
+2021-12-04,202112040POR,BOS,Q1,Robert Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,1.6,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,2,2,1.2,-1,
+2021-12-04,202112040POR,BOS,Q1,Enes Freedom,https://www.basketball-reference.com/boxscores/202112040POR.html,10.4,2,2,1.000,0,0,,0,0,0,7,7,0,0,2,1,1,4,5.5,+16,
+2021-12-04,202112040POR,BOS,Q1,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202112040POR.html,5.88,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,1,0,-0.1,+10,
+2021-12-04,202112040POR,BOS,Q1,Josh Richardson,https://www.basketball-reference.com/boxscores/202112040POR.html,5.88,2,3,.667,1,1,1.000,0,0,0,0,0,2,0,0,0,0,5,5.1,+10,
+2021-12-04,202112040POR,BOS,Q2,Grant Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,6.57,1,2,.500,0,1,.000,0,0,1,0,1,0,0,0,0,1,2,1.3,-5,
+2021-12-04,202112040POR,BOS,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202112040POR.html,4.47,2,4,.500,1,2,.500,0,0,0,0,0,2,0,0,0,0,5,4.4,+1,
+2021-12-04,202112040POR,BOS,Q2,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112040POR.html,10.07,2,7,.286,2,3,.667,0,0,0,6,6,2,0,0,0,0,6,5.1,-5,
+2021-12-04,202112040POR,BOS,Q2,Marcus Smart,https://www.basketball-reference.com/boxscores/202112040POR.html,6.57,2,4,.500,0,1,.000,0,0,0,0,0,1,0,0,1,2,4,0.9,-5,
+2021-12-04,202112040POR,BOS,Q2,Robert Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,8.6,0,0,,0,0,,0,0,2,0,2,1,0,1,0,0,0,2.8,-13,
+2021-12-04,202112040POR,BOS,Q2,Enes Freedom,https://www.basketball-reference.com/boxscores/202112040POR.html,3.4,1,2,.500,0,0,,1,2,2,1,3,0,0,0,0,0,3,3.3,+4,.500
+2021-12-04,202112040POR,BOS,Q2,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202112040POR.html,2.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,+4,
+2021-12-04,202112040POR,BOS,Q2,Payton Pritchard,https://www.basketball-reference.com/boxscores/202112040POR.html,5.43,1,3,.333,1,2,.500,0,0,0,0,0,1,0,0,0,1,3,1.6,-4,
+2021-12-04,202112040POR,BOS,Q2,Josh Richardson,https://www.basketball-reference.com/boxscores/202112040POR.html,5.43,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,
+2021-12-04,202112040POR,BOS,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202112040POR.html,7.18,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,0,3,1.7,-18,
+2021-12-04,202112040POR,BOS,Q3,Grant Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,5.98,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,+5,
+2021-12-04,202112040POR,BOS,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202112040POR.html,9.03,4,5,.800,1,1,1.000,2,2,0,3,3,2,1,0,0,0,11,12.4,+9,1.000
+2021-12-04,202112040POR,BOS,Q3,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112040POR.html,12.0,4,6,.667,1,1,1.000,6,7,0,2,2,1,0,0,1,0,15,12.3,+13,.857
+2021-12-04,202112040POR,BOS,Q3,Marcus Smart,https://www.basketball-reference.com/boxscores/202112040POR.html,7.98,2,3,.667,0,0,,4,4,0,1,1,0,0,0,0,0,8,7.0,+5,1.000
+2021-12-04,202112040POR,BOS,Q3,Robert Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,3.68,0,0,,0,0,,0,0,0,0,0,0,0,1,0,2,0,-0.1,+4,
+2021-12-04,202112040POR,BOS,Q3,Enes Freedom,https://www.basketball-reference.com/boxscores/202112040POR.html,8.32,1,2,.500,0,0,,0,0,3,2,5,0,0,0,0,2,2,2.9,+9,
+2021-12-04,202112040POR,BOS,Q3,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202112040POR.html,4.02,1,2,.500,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.0,+8,
+2021-12-04,202112040POR,BOS,Q3,Payton Pritchard,https://www.basketball-reference.com/boxscores/202112040POR.html,2.97,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+4,
+2021-12-04,202112040POR,BOS,Q3,Josh Richardson,https://www.basketball-reference.com/boxscores/202112040POR.html,6.02,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+8,
+2021-12-04,202112040POR,BOS,Q4,Grant Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,8.23,1,2,.500,0,0,,1,1,0,1,1,0,1,0,0,1,3,2.9,+1,1.000
+2021-12-04,202112040POR,BOS,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202112040POR.html,6.15,1,3,.333,1,2,.500,2,2,0,1,1,2,0,0,0,0,5,5.0,+4,1.000
+2021-12-04,202112040POR,BOS,Q4,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112040POR.html,2.67,1,2,.500,0,1,.000,1,1,0,1,1,0,0,0,0,0,3,2.3,+4,1.000
+2021-12-04,202112040POR,BOS,Q4,Marcus Smart,https://www.basketball-reference.com/boxscores/202112040POR.html,2.67,0,0,,0,0,,0,0,0,1,1,1,0,0,2,0,0,-1.0,+4,
+2021-12-04,202112040POR,BOS,Q4,Robert Williams,https://www.basketball-reference.com/boxscores/202112040POR.html,7.17,1,1,1.000,0,0,,1,2,0,0,0,0,0,1,0,1,3,2.6,+5,.500
+2021-12-04,202112040POR,BOS,Q4,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202112040POR.html,9.83,2,3,.667,2,3,.667,2,2,0,1,1,1,1,0,0,1,8,8.3,+7,1.000
+2021-12-04,202112040POR,BOS,Q4,Payton Pritchard,https://www.basketball-reference.com/boxscores/202112040POR.html,9.83,5,9,.556,4,8,.500,2,2,0,1,1,1,1,0,0,0,16,13.7,+7,1.000
+2021-12-04,202112040POR,BOS,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202112040POR.html,5.35,0,0,,0,0,,0,0,3,0,3,0,0,0,1,1,0,0.7,+3,
+2021-12-04,202112040POR,BOS,Q4,Bruno Fernando,https://www.basketball-reference.com/boxscores/202112040POR.html,4.83,2,3,.667,0,0,,0,0,1,0,1,0,0,0,1,1,4,2.0,+4,
+2021-12-04,202112040POR,BOS,Q4,Jabari Parker,https://www.basketball-reference.com/boxscores/202112040POR.html,3.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+6,
+2021-12-04,202112040POR,POR,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,4.22,0,0,,0,0,,1,2,0,0,0,0,0,0,0,2,1,-0.2,-7,.500
+2021-12-04,202112040POR,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202112040POR.html,12.0,3,10,.300,0,2,.000,0,1,0,0,0,1,1,0,1,1,6,0.1,-15,.000
+2021-12-04,202112040POR,POR,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202112040POR.html,8.72,0,2,.000,0,1,.000,2,2,0,0,0,1,0,0,1,1,2,-0.1,-17,1.000
+2021-12-04,202112040POR,POR,Q1,Robert Covington,https://www.basketball-reference.com/boxscores/202112040POR.html,6.12,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-5,
+2021-12-04,202112040POR,POR,Q1,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202112040POR.html,7.3,3,6,.500,0,1,.000,4,4,1,1,2,0,1,0,0,0,10,9.0,-9,1.000
+2021-12-04,202112040POR,POR,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,5.88,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-10,
+2021-12-04,202112040POR,POR,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/202112040POR.html,7.78,1,1,1.000,0,0,,0,0,1,0,1,1,0,0,0,0,2,3.1,-8,
+2021-12-04,202112040POR,POR,Q1,Cody Zeller,https://www.basketball-reference.com/boxscores/202112040POR.html,4.7,1,3,.333,0,0,,0,0,0,1,1,0,0,0,0,0,2,0.6,-6,
+2021-12-04,202112040POR,POR,Q1,Tony Snell,https://www.basketball-reference.com/boxscores/202112040POR.html,3.28,0,0,,0,0,,0,0,0,2,2,0,0,1,0,0,0,1.3,+2,
+2021-12-04,202112040POR,POR,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,12.0,2,5,.400,0,0,,2,2,0,0,0,3,1,0,0,0,6,6.4,+9,1.000
+2021-12-04,202112040POR,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202112040POR.html,7.63,3,5,.600,2,3,.667,3,4,0,0,0,2,0,0,0,0,11,9.7,+9,.750
+2021-12-04,202112040POR,POR,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202112040POR.html,7.63,1,2,.500,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.7,+9,
+2021-12-04,202112040POR,POR,Q2,Robert Covington,https://www.basketball-reference.com/boxscores/202112040POR.html,3.57,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-1,
+2021-12-04,202112040POR,POR,Q2,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202112040POR.html,4.47,1,1,1.000,0,0,,1,1,1,1,2,0,0,0,1,2,3,1.9,-1,1.000
+2021-12-04,202112040POR,POR,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,8.43,1,1,1.000,0,0,,0,0,0,2,2,0,1,0,0,1,2,2.9,+10,
+2021-12-04,202112040POR,POR,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/202112040POR.html,4.37,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.0,0,
+2021-12-04,202112040POR,POR,Q2,Cody Zeller,https://www.basketball-reference.com/boxscores/202112040POR.html,7.53,2,4,.500,0,0,,2,2,2,5,7,1,0,0,0,0,6,7.6,+10,1.000
+2021-12-04,202112040POR,POR,Q2,Tony Snell,https://www.basketball-reference.com/boxscores/202112040POR.html,4.37,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2021-12-04,202112040POR,POR,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,8.55,1,4,.250,0,2,.000,0,0,0,2,2,0,0,0,0,1,2,-0.2,-7,
+2021-12-04,202112040POR,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202112040POR.html,9.03,2,4,.500,1,3,.333,0,0,1,0,1,2,0,0,1,3,5,2.9,-9,
+2021-12-04,202112040POR,POR,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202112040POR.html,9.38,1,3,.333,0,1,.000,2,4,0,0,0,2,0,0,0,1,4,2.5,-12,.500
+2021-12-04,202112040POR,POR,Q3,Robert Covington,https://www.basketball-reference.com/boxscores/202112040POR.html,6.57,2,4,.500,1,3,.333,0,0,0,0,0,0,0,0,0,0,5,3.0,-6,
+2021-12-04,202112040POR,POR,Q3,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202112040POR.html,7.98,2,2,1.000,0,0,,1,2,0,1,1,1,0,1,0,0,5,5.7,-5,.500
+2021-12-04,202112040POR,POR,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,5.43,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-7,
+2021-12-04,202112040POR,POR,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/202112040POR.html,6.42,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,0,1,0,-1.5,-10,
+2021-12-04,202112040POR,POR,Q3,Cody Zeller,https://www.basketball-reference.com/boxscores/202112040POR.html,4.02,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-8,
+2021-12-04,202112040POR,POR,Q3,Tony Snell,https://www.basketball-reference.com/boxscores/202112040POR.html,2.62,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,-1,
+2021-12-04,202112040POR,POR,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,12.0,4,5,.800,1,1,1.000,3,4,0,2,2,4,2,0,0,0,12,15.1,-9,.750
+2021-12-04,202112040POR,POR,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202112040POR.html,6.15,0,2,.000,0,1,.000,2,2,0,0,0,1,0,0,0,0,2,1.3,-4,1.000
+2021-12-04,202112040POR,POR,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202112040POR.html,2.17,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-2,
+2021-12-04,202112040POR,POR,Q4,Robert Covington,https://www.basketball-reference.com/boxscores/202112040POR.html,6.15,1,3,.333,0,1,.000,0,0,0,2,2,0,0,0,2,2,2,-1.9,-4,
+2021-12-04,202112040POR,POR,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202112040POR.html,6.15,2,3,.667,0,1,.000,0,0,1,1,2,1,1,0,0,1,4,5.0,-4,
+2021-12-04,202112040POR,POR,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/202112040POR.html,3.98,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2021-12-04,202112040POR,POR,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202112040POR.html,5.85,2,3,.667,0,0,,2,2,1,0,1,0,0,0,0,1,6,5.0,-5,1.000
+2021-12-04,202112040POR,POR,Q4,CJ Elleby,https://www.basketball-reference.com/boxscores/202112040POR.html,5.85,2,3,.667,0,1,.000,0,0,0,1,1,0,0,0,1,1,4,1.6,-5,
+2021-12-04,202112040POR,POR,Q4,Keljin Blevins,https://www.basketball-reference.com/boxscores/202112040POR.html,5.85,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,1,0,3,2.4,-5,
+2021-12-04,202112040POR,POR,Q4,Greg Brown III,https://www.basketball-reference.com/boxscores/202112040POR.html,5.85,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-5,

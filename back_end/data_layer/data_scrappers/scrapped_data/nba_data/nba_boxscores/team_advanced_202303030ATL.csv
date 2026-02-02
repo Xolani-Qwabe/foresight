@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-03,202303030ATL,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202303030ATL.html,39:11,.394,.344,.375,.250,2.9,14.0,8.0,14.1,2.4,5.7,10.1,21.5,88,124,-4.8
+2023-03-03,202303030ATL,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202303030ATL.html,36:41,.661,.595,.524,.429,3.1,11.2,6.8,37.5,2.6,0.0,10.7,32.4,132,128,8.7
+2023-03-03,202303030ATL,POR,Cam Reddish,https://www.basketball-reference.com/boxscores/202303030ATL.html,32:42,.666,.647,.529,.235,0.0,12.6,5.7,10.6,1.4,4.5,9.6,27.0,121,127,3.6
+2023-03-03,202303030ATL,POR,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303030ATL.html,32:24,.571,.571,.714,.000,7.1,12.7,9.6,8.1,5.8,2.3,12.5,10.5,118,119,2.4
+2023-03-03,202303030ATL,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202303030ATL.html,22:27,.571,.571,.000,.000,5.1,36.7,19.4,0.0,0.0,3.3,22.2,17.1,89,127,-9.1
+2023-03-03,202303030ATL,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303030ATL.html,28:07,.507,.438,.625,.250,8.1,9.8,8.9,19.0,1.7,0.0,0.0,13.4,132,130,-1.3
+2023-03-03,202303030ATL,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202303030ATL.html,23:16,.667,.667,.333,.000,9.8,5.9,8.0,12.6,0.0,0.0,50.0,21.9,75,134,-16.1
+2023-03-03,202303030ATL,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202303030ATL.html,14:47,.500,.500,.500,.000,0.0,18.6,8.4,0.0,0.0,0.0,0.0,5.8,102,132,-10.1
+2023-03-03,202303030ATL,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202303030ATL.html,5:51,.000,.000,.000,.000,0.0,23.4,10.7,0.0,0.0,0.0,0.0,7.3,0,131,-15.1
+2023-03-03,202303030ATL,POR,Keon Johnson,https://www.basketball-reference.com/boxscores/202303030ATL.html,2:17,.694,1.000,.000,1.000,0.0,0.0,0.0,0.0,20.6,0.0,41.0,45.5,51,90,6.6
+2023-03-03,202303030ATL,POR,Kevin Knox,https://www.basketball-reference.com/boxscores/202303030ATL.html,2:17,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.6,200,136,7.7
+2023-03-03,202303030ATL,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202303030ATL.html,33:36,.896,.886,.227,.091,0.0,17.0,9.3,30.9,1.4,0.0,14.9,33.4,150,112,17.2
+2023-03-03,202303030ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202303030ATL.html,32:02,.571,.571,.286,.143,0.0,14.3,7.8,3.6,0.0,0.0,11.8,22.0,104,115,-7.2
+2023-03-03,202303030ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202303030ATL.html,29:12,.656,.536,.357,.571,9.4,19.6,14.9,42.9,3.2,0.0,18.6,30.8,134,107,11.1
+2023-03-03,202303030ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202303030ATL.html,25:20,.698,.714,.000,.286,21.7,36.1,29.5,13.4,1.9,3.9,11.3,14.6,148,104,8.2
+2023-03-03,202303030ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202303030ATL.html,23:14,.750,.750,.250,.000,0.0,14.8,8.0,0.0,0.0,4.3,20.0,9.0,111,112,-5.0
+2023-03-03,202303030ATL,ATL,Saddiq Bey,https://www.basketball-reference.com/boxscores/202303030ATL.html,23:52,.394,.375,.375,.250,11.5,4.8,7.8,8.8,2.0,0.0,0.0,15.5,111,113,-7.0
+2023-03-03,202303030ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202303030ATL.html,23:01,.389,.389,.556,.000,0.0,5.0,2.7,9.1,0.0,8.7,0.0,16.3,99,112,-6.0
+2023-03-03,202303030ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202303030ATL.html,22:40,.700,.700,.200,.000,6.1,15.1,11.0,0.0,6.2,4.4,44.4,16.6,74,98,-3.6
+2023-03-03,202303030ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202303030ATL.html,22:29,.667,.667,.167,.000,6.1,15.2,11.1,19.6,2.1,0.0,0.0,11.1,160,110,5.5
+2023-03-03,202303030ATL,ATL,AJ Griffin,https://www.basketball-reference.com/boxscores/202303030ATL.html,2:17,.000,.000,1.000,.000,0.0,0.0,0.0,40.4,20.6,0.0,50.0,36.5,34,71,-5.4
+2023-03-03,202303030ATL,ATL,Aaron Holiday,https://www.basketball-reference.com/boxscores/202303030ATL.html,2:17,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.3,200,119,8.7

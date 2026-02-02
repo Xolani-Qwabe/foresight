@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202411130BRK.html
+Scraped: 2025-12-16 08:18:24
+
+line_scores: 2 rows (nba_boxscores/line_scores_202411130BRK.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202411130BRK.csv)
+team_basic: 21 rows (nba_boxscores/team_basic_202411130BRK.csv)
+team_advanced: 21 rows (nba_boxscores/team_advanced_202411130BRK.csv)
+quarters: 70 rows (nba_boxscores/quarters_202411130BRK.csv)

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-27,201911270IND,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/201911270IND.html,37:47,.841,.769,.538,.846,3.1,12.4,7.7,9.8,1.3,0.0,25.2,27.5,126,123,6.9
+2019-11-27,201911270IND,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/201911270IND.html,30:36,.525,.478,.304,.174,0.0,0.0,0.0,7.7,1.6,2.1,0.0,35.3,112,124,3.1
+2019-11-27,201911270IND,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/201911270IND.html,30:18,.601,.556,.000,.667,19.3,30.9,25.1,0.0,1.6,2.1,14.7,19.6,117,117,-2.0
+2019-11-27,201911270IND,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/201911270IND.html,28:03,.313,.313,.375,.000,8.3,16.7,12.5,26.3,0.0,0.0,20.0,15.6,84,125,-7.1
+2019-11-27,201911270IND,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/201911270IND.html,26:45,.000,.000,.750,.000,0.0,4.4,2.2,10.0,0.0,0.0,0.0,6.5,32,128,-11.1
+2019-11-27,201911270IND,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/201911270IND.html,28:07,.667,.667,.667,.000,0.0,8.3,4.2,12.4,6.9,0.0,10.0,15.5,124,112,7.5
+2019-11-27,201911270IND,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/201911270IND.html,15:37,.625,.625,.750,.000,0.0,15.0,7.5,10.3,0.0,0.0,42.9,19.6,70,125,-9.9
+2019-11-27,201911270IND,UTA,Jeff Green,https://www.basketball-reference.com/boxscores/201911270IND.html,15:13,.387,.333,.333,.667,15.4,30.8,23.1,10.6,0.0,0.0,0.0,22.3,102,122,-4.1
+2019-11-27,201911270IND,UTA,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/201911270IND.html,13:17,.167,.167,.167,.000,0.0,17.6,8.8,33.5,0.0,0.0,0.0,19.7,65,125,-10.6
+2019-11-27,201911270IND,UTA,Tony Bradley,https://www.basketball-reference.com/boxscores/201911270IND.html,5:23,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.1,200,129,1.2
+2019-11-27,201911270IND,UTA,Dante Exum,https://www.basketball-reference.com/boxscores/201911270IND.html,2:58,,,,,0.0,78.9,39.5,89.9,0.0,0.0,100.0,14.7,72,111,8.4
+2019-11-27,201911270IND,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/201911270IND.html,2:58,,,,,0.0,39.5,19.7,0.0,0.0,0.0,,0.0,0,120,-9.7
+2019-11-27,201911270IND,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/201911270IND.html,2:58,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,14.7,0,129,-21.7
+2019-11-27,201911270IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/201911270IND.html,32:54,.652,.600,.133,.400,14.2,28.5,21.4,4.0,1.5,0.0,10.2,24.9,130,102,4.0
+2019-11-27,201911270IND,IND,T.J. Warren,https://www.basketball-reference.com/boxscores/201911270IND.html,32:36,.700,.688,.250,.063,0.0,0.0,0.0,4.2,3.0,0.0,0.0,21.0,145,106,7.2
+2019-11-27,201911270IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/201911270IND.html,31:48,.567,.533,.333,.133,3.7,25.8,14.7,23.0,0.0,3.0,5.9,22.1,127,104,7.4
+2019-11-27,201911270IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/201911270IND.html,29:33,.597,.611,.278,.056,7.9,7.9,7.9,38.5,0.0,0.0,5.1,27.4,134,111,10.5
+2019-11-27,201911270IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/201911270IND.html,24:35,.667,.667,.500,.000,4.8,14.3,9.5,0.0,0.0,11.5,25.0,13.6,102,102,-0.6
+2019-11-27,201911270IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/201911270IND.html,21:23,1.064,1.000,.000,2.000,0.0,21.9,10.9,4.7,0.0,0.0,34.7,5.6,142,107,-0.4
+2019-11-27,201911270IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/201911270IND.html,18:27,.676,.625,.000,.250,0.0,12.7,6.3,28.1,7.9,0.0,25.3,26.9,112,91,10.3
+2019-11-27,201911270IND,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/201911270IND.html,16:48,.167,.167,.333,.000,0.0,7.0,3.5,0.0,2.9,0.0,25.0,19.9,28,104,-18.0
+2019-11-27,201911270IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/201911270IND.html,16:04,.500,.500,.250,.000,0.0,14.6,7.3,0.0,0.0,0.0,0.0,10.4,106,109,-6.7
+2019-11-27,201911270IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/201911270IND.html,11:32,.307,.250,.000,.500,20.3,20.3,20.3,18.2,0.0,0.0,0.0,17.7,107,107,0.3
+2019-11-27,201911270IND,IND,Alize Johnson,https://www.basketball-reference.com/boxscores/201911270IND.html,2:10,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.3,0,113,-23.9
+2019-11-27,201911270IND,IND,T.J. Leaf,https://www.basketball-reference.com/boxscores/201911270IND.html,2:10,.500,.500,.000,.000,54.0,0.0,27.0,0.0,22.4,0.0,0.0,38.5,124,62,22.9

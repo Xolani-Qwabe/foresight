@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-16,202102160MEM,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202102160MEM.html,31:27,.793,.769,.308,.154,0.0,13.6,7.7,24.4,2.9,2.7,30.2,25.8,121,107,5.2
+2021-02-16,202102160MEM,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202102160MEM.html,28:29,.873,.844,.063,.250,0.0,26.2,14.9,29.7,3.2,0.0,14.5,29.8,156,106,14.5
+2021-02-16,202102160MEM,NOP,Lonzo Ball,https://www.basketball-reference.com/boxscores/202102160MEM.html,27:28,.505,.500,.583,.167,5.1,7.8,6.6,18.5,3.3,0.0,7.2,20.6,125,109,-2.4
+2021-02-16,202102160MEM,NOP,Steven Adams,https://www.basketball-reference.com/boxscores/202102160MEM.html,23:46,.680,.800,.000,.400,17.8,18.0,17.9,0.0,5.8,7.1,14.5,11.8,128,96,4.0
+2021-02-16,202102160MEM,NOP,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202102160MEM.html,23:15,.500,.500,.571,.000,0.0,13.8,7.8,20.7,4.0,3.6,12.5,14.1,125,104,4.2
+2021-02-16,202102160MEM,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202102160MEM.html,31:42,.821,.813,.688,.063,0.0,30.3,17.3,7.4,0.0,0.0,10.8,23.8,146,112,7.0
+2021-02-16,202102160MEM,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202102160MEM.html,22:11,.333,.333,.333,.000,0.0,4.8,2.7,16.8,2.1,0.0,14.3,12.9,100,113,-8.2
+2021-02-16,202102160MEM,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202102160MEM.html,19:16,.902,.833,.000,.667,44.0,11.1,25.2,5.7,2.4,0.0,11.4,18.6,181,111,5.1
+2021-02-16,202102160MEM,NOP,JJ Redick,https://www.basketball-reference.com/boxscores/202102160MEM.html,18:58,.509,.500,1.000,.333,0.0,5.6,3.2,5.0,2.4,0.0,30.4,21.3,78,112,-11.7
+2021-02-16,202102160MEM,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202102160MEM.html,4:58,1.000,1.000,.000,.000,28.4,43.0,36.7,0.0,0.0,0.0,0.0,8.2,212,110,1.5
+2021-02-16,202102160MEM,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202102160MEM.html,2:50,1.500,1.500,1.000,.000,0.0,37.6,21.4,43.4,0.0,0.0,0.0,14.4,277,111,32.5
+2021-02-16,202102160MEM,NOP,Nicolò Melli,https://www.basketball-reference.com/boxscores/202102160MEM.html,2:50,1.500,1.500,1.000,.000,0.0,0.0,0.0,43.4,0.0,0.0,0.0,14.4,277,119,38.8
+2021-02-16,202102160MEM,NOP,Sindarius Thornwell,https://www.basketball-reference.com/boxscores/202102160MEM.html,2:50,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.4,300,119,24.6
+2021-02-16,202102160MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202102160MEM.html,30:44,.788,.781,.188,.250,6.9,23.0,13.8,53.7,0.0,0.0,25.3,32.3,126,141,5.5
+2021-02-16,202102160MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202102160MEM.html,29:02,.643,.643,.429,.000,0.0,19.5,8.4,10.9,1.6,0.0,26.3,27.3,91,137,-6.0
+2021-02-16,202102160MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202102160MEM.html,28:13,.455,.455,.091,.000,7.6,15.0,10.8,5.1,0.0,0.0,0.0,16.3,105,142,-8.8
+2021-02-16,202102160MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202102160MEM.html,25:55,.571,.571,.714,.000,0.0,5.4,2.3,15.2,0.0,0.0,12.5,12.9,112,144,-4.0
+2021-02-16,202102160MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202102160MEM.html,25:47,.607,.538,.385,.462,4.1,27.4,14.1,18.1,1.8,0.0,0.0,25.3,135,136,5.0
+2021-02-16,202102160MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202102160MEM.html,23:21,.205,.000,.750,.500,0.0,12.1,5.2,0.0,5.9,0.0,17.0,10.5,38,129,-8.9
+2021-02-16,202102160MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202102160MEM.html,19:47,.625,.625,.250,.000,5.4,14.3,9.2,6.5,4.6,0.0,55.6,19.0,60,131,-10.2
+2021-02-16,202102160MEM,MEM,Sean McDermott,https://www.basketball-reference.com/boxscores/202102160MEM.html,18:33,1.000,1.000,.750,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,189,145,2.4
+2021-02-16,202102160MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202102160MEM.html,17:16,.170,.000,.400,.400,6.2,8.2,7.0,19.9,5.3,0.0,0.0,14.2,78,131,-5.2
+2021-02-16,202102160MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202102160MEM.html,15:52,.581,.500,.000,.333,13.4,0.0,7.7,18.4,2.9,0.0,12.7,20.7,123,137,-4.0
+2021-02-16,202102160MEM,MEM,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202102160MEM.html,5:30,.512,.375,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.1,110,144,-7.1

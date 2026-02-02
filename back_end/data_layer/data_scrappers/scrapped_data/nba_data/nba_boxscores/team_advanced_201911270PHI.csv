@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-27,201911270PHI,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/201911270PHI.html,39:26,.470,.464,.286,.143,0.0,26.7,12.0,23.0,1.2,0.0,0.0,16.5,108,100,3.5
+2019-11-27,201911270PHI,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/201911270PHI.html,37:03,.450,.438,.500,.042,5.2,12.6,8.5,19.0,0.0,0.0,10.9,32.3,87,105,-1.7
+2019-11-27,201911270PHI,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/201911270PHI.html,27:54,.200,.200,.000,.000,3.4,8.4,5.7,23.1,3.5,3.4,28.6,11.0,65,95,-2.1
+2019-11-27,201911270PHI,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/201911270PHI.html,25:50,.350,.350,.400,.000,7.4,9.1,8.2,5.6,0.0,0.0,16.7,20.3,69,105,-12.5
+2019-11-27,201911270PHI,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/201911270PHI.html,19:46,.307,.250,.000,.500,0.0,47.4,21.3,0.0,2.5,4.8,29.1,15.2,44,90,-9.1
+2019-11-27,201911270PHI,SAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/201911270PHI.html,28:15,.535,.533,.400,.133,0.0,8.3,3.7,18.8,6.9,0.0,5.9,26.1,103,91,11.5
+2019-11-27,201911270PHI,SAC,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/201911270PHI.html,22:32,.699,.750,.417,.167,8.5,20.8,14.0,0.0,2.2,0.0,0.0,25.0,131,98,9.2
+2019-11-27,201911270PHI,SAC,Justin James,https://www.basketball-reference.com/boxscores/201911270PHI.html,19:08,.500,.500,.167,.000,0.0,12.2,5.5,8.0,0.0,4.9,0.0,13.7,103,101,-0.5
+2019-11-27,201911270PHI,SAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/201911270PHI.html,14:49,.200,.200,.400,.000,6.5,7.9,7.1,9.1,0.0,0.0,0.0,14.7,62,106,-10.0
+2019-11-27,201911270PHI,SAC,Harry Giles,https://www.basketball-reference.com/boxscores/201911270PHI.html,5:15,,,,,0.0,0.0,0.0,23.4,0.0,0.0,100.0,8.3,40,107,-12.9
+2019-11-27,201911270PHI,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/201911270PHI.html,36:54,.500,.500,.000,.000,6.3,28.6,18.6,22.1,2.7,0.0,33.3,18.7,82,90,-4.7
+2019-11-27,201911270PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/201911270PHI.html,32:47,.397,.333,.267,.400,0.0,17.6,9.7,10.2,0.0,4.8,10.2,27.5,78,95,-6.7
+2019-11-27,201911270PHI,PHI,Al Horford,https://www.basketball-reference.com/boxscores/201911270PHI.html,32:29,.607,.556,.333,.222,0.0,20.7,11.4,25.8,1.5,2.4,9.2,15.4,123,93,6.2
+2019-11-27,201911270PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/201911270PHI.html,32:19,.656,.553,.211,.737,14.5,35.6,26.1,7.0,0.0,4.9,10.7,40.0,124,91,11.3
+2019-11-27,201911270PHI,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/201911270PHI.html,17:14,.750,.750,.500,.000,0.0,0.0,0.0,33.6,0.0,4.6,14.3,18.6,131,99,7.8
+2019-11-27,201911270PHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/201911270PHI.html,23:28,.000,.000,.857,.000,5.0,4.1,4.5,11.4,2.1,3.4,0.0,13.7,28,95,-9.4
+2019-11-27,201911270PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201911270PHI.html,21:21,.333,.333,.667,.000,0.0,9.0,4.9,6.7,0.0,0.0,40.0,10.8,47,101,-12.5
+2019-11-27,201911270PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/201911270PHI.html,21:00,1.276,1.300,.600,.400,0.0,13.7,7.5,9.3,9.3,7.5,25.4,17.2,165,72,27.7
+2019-11-27,201911270PHI,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/201911270PHI.html,11:20,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,6.9,0.0,8.1,0,97,-11.1
+2019-11-27,201911270PHI,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/201911270PHI.html,11:05,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,8.3,79,103,-10.3

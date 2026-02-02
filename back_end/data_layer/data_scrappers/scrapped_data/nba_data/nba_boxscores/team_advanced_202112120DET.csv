@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-12,202112120DET,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202112120DET.html,41:28,.678,.597,.323,.484,0.0,18.8,9.8,46.3,1.1,4.2,11.7,42.9,127,97,14.7
+2021-12-12,202112120DET,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202112120DET.html,35:15,.529,.529,.588,.000,0.0,9.5,4.9,21.6,1.3,0.0,10.5,22.5,102,102,-1.6
+2021-12-12,202112120DET,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202112120DET.html,24:36,.705,.563,.125,.750,9.8,13.6,11.8,5.9,0.0,3.5,27.3,24.8,109,101,-4.8
+2021-12-12,202112120DET,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202112120DET.html,23:22,.667,.667,.000,.000,10.3,14.3,12.4,27.8,0.0,0.0,25.0,7.1,142,104,3.0
+2021-12-12,202112120DET,BRK,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202112120DET.html,16:42,.667,.667,.000,.000,0.0,26.7,13.9,16.3,2.7,0.0,25.0,10.0,109,96,1.7
+2021-12-12,202112120DET,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202112120DET.html,29:14,.591,.591,.364,.000,0.0,15.3,7.9,15.8,1.6,0.0,0.0,15.7,125,100,0.9
+2021-12-12,202112120DET,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202112120DET.html,23:24,.347,.000,.000,1.000,10.3,0.0,4.9,0.0,3.9,7.5,25.8,6.9,86,93,-5.0
+2021-12-12,202112120DET,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202112120DET.html,22:46,.571,.571,.000,.000,5.3,19.6,12.7,6.5,0.0,0.0,12.5,14.7,105,103,-6.3
+2021-12-12,202112120DET,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202112120DET.html,9:05,.266,.000,1.000,2.000,13.2,12.3,12.7,12.9,0.0,9.6,0.0,8.6,107,98,0.2
+2021-12-12,202112120DET,BRK,David Duke Jr.,https://www.basketball-reference.com/boxscores/202112120DET.html,8:53,.000,.000,.667,.000,0.0,25.1,13.0,0.0,5.1,0.0,0.0,14.1,0,90,-14.2
+2021-12-12,202112120DET,BRK,Jevon Carter,https://www.basketball-reference.com/boxscores/202112120DET.html,5:15,.000,.000,.000,.000,0.0,85.0,44.1,22.3,8.6,0.0,66.7,23.9,19,69,-12.2
+2021-12-12,202112120DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202112120DET.html,39:59,.418,.333,.000,.444,8.4,21.0,14.5,3.4,2.3,2.0,8.5,11.9,95,109,-5.7
+2021-12-12,202112120DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202112120DET.html,35:31,.644,.639,.444,.278,0.0,27.0,13.0,30.2,3.8,2.3,25.7,30.9,98,104,6.7
+2021-12-12,202112120DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202112120DET.html,26:02,.222,.222,.556,.000,0.0,9.2,4.4,5.2,1.7,0.0,18.2,17.1,43,114,-16.0
+2021-12-12,202112120DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202112120DET.html,20:29,.436,.417,.667,.333,0.0,5.9,2.8,20.5,2.2,4.0,0.0,13.6,107,110,0.5
+2021-12-12,202112120DET,DET,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202112120DET.html,20:26,.619,.625,.000,.250,5.5,11.7,8.5,8.6,2.2,0.0,10.1,19.5,113,112,-1.6
+2021-12-12,202112120DET,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202112120DET.html,31:23,.602,.579,.684,.211,0.0,3.8,1.8,5.7,0.0,2.6,8.8,29.3,107,117,1.2
+2021-12-12,202112120DET,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202112120DET.html,27:34,.632,.615,.385,.077,4.0,21.8,12.6,39.0,4.9,3.0,18.2,24.1,114,102,11.1
+2021-12-12,202112120DET,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202112120DET.html,18:57,.500,.500,.333,.000,17.7,25.3,21.4,24.2,0.0,0.0,25.0,17.0,102,115,-4.9
+2021-12-12,202112120DET,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202112120DET.html,11:38,.000,.000,.000,.000,0.0,20.6,9.9,10.6,0.0,0.0,0.0,10.4,22,116,-17.6
+2021-12-12,202112120DET,DET,Trey Lyles,https://www.basketball-reference.com/boxscores/202112120DET.html,8:01,.000,.000,.000,.000,0.0,0.0,0.0,15.4,0.0,0.0,50.0,10.1,28,119,-18.5

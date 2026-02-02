@@ -1,0 +1,58 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-05-01,202505010LAC,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202505010LAC.html,11.9,5,8,.625,1,3,.333,1,1,1.000,0,3,3,2,0,1,0,1,12,11.0,+3
+2025-05-01,202505010LAC,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,2,3,.667,1,1,1.000,0,0,,0,2,2,3,1,1,1,0,5,7.1,+3
+2025-05-01,202505010LAC,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202505010LAC.html,10.68,4,6,.667,0,1,.000,0,0,,1,0,1,0,0,0,0,0,8,6.1,+7
+2025-05-01,202505010LAC,DEN,Q1,Christian Braun,https://www.basketball-reference.com/boxscores/202505010LAC.html,10.68,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,2.0,+7
+2025-05-01,202505010LAC,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.23,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,-3
+2025-05-01,202505010LAC,DEN,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202505010LAC.html,5.08,0,0,,0,0,,1,2,.500,0,1,1,2,0,0,0,1,1,1.9,+2
+2025-05-01,202505010LAC,DEN,Q1,Peyton Watson,https://www.basketball-reference.com/boxscores/202505010LAC.html,1.42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2025-05-01,202505010LAC,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.2,0,2,.000,0,1,.000,0,0,,0,3,3,4,0,0,1,0,0,1.3,+1
+2025-05-01,202505010LAC,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.03,7,10,.700,0,1,.000,1,2,.500,1,2,3,1,1,0,2,2,15,10.6,+2
+2025-05-01,202505010LAC,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.55,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,1,1,2,0.3,-6
+2025-05-01,202505010LAC,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2
+2025-05-01,202505010LAC,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,5.77,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-11
+2025-05-01,202505010LAC,DEN,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,3,3,1.000,2,2,1.000,1,1,1.000,0,2,2,2,0,0,2,0,9,8.1,-4
+2025-05-01,202505010LAC,DEN,Q2,Peyton Watson,https://www.basketball-reference.com/boxscores/202505010LAC.html,2.45,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+2
+2025-05-01,202505010LAC,DEN,Q2,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202505010LAC.html,2.97,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,-6
+2025-05-01,202505010LAC,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,0,0,2,1.7,-10
+2025-05-01,202505010LAC,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,1,5,.200,1,2,.500,0,0,,0,0,0,3,0,0,1,1,3,0.6,-10
+2025-05-01,202505010LAC,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,2,3,.667,0,1,.000,0,0,,0,0,0,0,1,0,1,0,4,2.7,-10
+2025-05-01,202505010LAC,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,4,5,.800,2,3,.667,0,0,,0,1,1,0,0,0,0,1,10,8.0,-10
+2025-05-01,202505010LAC,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,6.37,1,2,.500,1,1,1.000,0,0,,0,2,2,0,0,1,0,0,3,3.3,-7
+2025-05-01,202505010LAC,DEN,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202505010LAC.html,5.63,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-3
+2025-05-01,202505010LAC,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202505010LAC.html,11.37,3,6,.500,1,2,.500,0,0,,0,2,2,0,0,2,2,0,7,4.0,+8
+2025-05-01,202505010LAC,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.57,1,4,.250,0,0,,0,0,,0,2,2,1,1,0,0,0,2,1.9,+6
+2025-05-01,202505010LAC,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.6,2,5,.400,1,3,.333,0,0,,3,1,4,0,0,1,0,0,5,5.4,+7
+2025-05-01,202505010LAC,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.6,0,0,,0,0,,2,2,1.000,1,0,1,0,0,0,0,2,2,1.9,+5
+2025-05-01,202505010LAC,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,4.03,1,1,1.000,0,0,,0,1,.000,0,1,1,0,1,0,0,0,2,2.6,-3
+2025-05-01,202505010LAC,DEN,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,2,7,.286,0,2,.000,0,0,,2,4,6,2,0,0,0,1,4,3.5,+5
+2025-05-01,202505010LAC,DEN,Q4,Peyton Watson,https://www.basketball-reference.com/boxscores/202505010LAC.html,6.83,2,4,.500,0,0,,0,0,,2,0,2,0,0,1,0,0,4,4.1,-3
+2025-05-01,202505010LAC,LAC,Q1,James Harden,https://www.basketball-reference.com/boxscores/202505010LAC.html,10.58,2,4,.500,0,1,.000,0,0,,0,2,2,3,0,0,2,1,4,2.3,-7
+2025-05-01,202505010LAC,LAC,Q1,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202505010LAC.html,10.52,3,5,.600,0,1,.000,0,0,,1,2,3,1,0,0,0,0,6,5.7,0
+2025-05-01,202505010LAC,LAC,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.1,3,6,.500,0,3,.000,0,0,,0,1,1,0,0,0,0,0,6,3.3,-4
+2025-05-01,202505010LAC,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,2,2,1.000,0,0,,0,0,,0,1,1,0,1,0,0,0,4,4.7,-3
+2025-05-01,202505010LAC,LAC,Q1,Kris Dunn,https://www.basketball-reference.com/boxscores/202505010LAC.html,6.67,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,0,1,2,1.3,-1
+2025-05-01,202505010LAC,LAC,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202505010LAC.html,5.33,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,1,3,1.6,-2
+2025-05-01,202505010LAC,LAC,Q1,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202505010LAC.html,2.9,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+1
+2025-05-01,202505010LAC,LAC,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,2.9,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,1,0,0,0,0.0,+1
+2025-05-01,202505010LAC,LAC,Q2,James Harden,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,5,6,.833,2,3,.667,5,5,1.000,0,1,1,1,1,0,0,1,17,16.4,+4
+2025-05-01,202505010LAC,LAC,Q2,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.22,3,7,.429,1,4,.250,0,0,,0,1,1,0,0,0,1,0,7,2.6,+8
+2025-05-01,202505010LAC,LAC,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.42,0,0,,0,0,,2,2,1.000,0,0,0,1,1,0,0,0,2,3.7,0
+2025-05-01,202505010LAC,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202505010LAC.html,5.23,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,1,2,4,2.6,-6
+2025-05-01,202505010LAC,LAC,Q2,Kris Dunn,https://www.basketball-reference.com/boxscores/202505010LAC.html,3.57,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,-4
+2025-05-01,202505010LAC,LAC,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.43,0,0,,0,0,,0,0,,0,1,1,1,1,1,0,1,0,2.3,+8
+2025-05-01,202505010LAC,LAC,Q2,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202505010LAC.html,9.55,1,4,.250,0,1,.000,1,2,.500,2,0,2,0,1,0,0,0,3,2.6,+6
+2025-05-01,202505010LAC,LAC,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,2.58,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+4
+2025-05-01,202505010LAC,LAC,Q3,James Harden,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,1,4,.250,0,2,.000,0,0,,0,0,0,4,1,1,0,0,2,4.1,+10
+2025-05-01,202505010LAC,LAC,Q3,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202505010LAC.html,7.72,3,5,.600,1,2,.500,2,2,1.000,2,2,4,3,0,0,0,0,9,10.8,+11
+2025-05-01,202505010LAC,LAC,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,5,6,.833,1,2,.500,0,0,,0,2,2,0,1,0,1,0,11,9.4,+10
+2025-05-01,202505010LAC,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,1,2,.500,0,0,,0,0,,1,2,3,0,0,1,0,0,2,3.0,+10
+2025-05-01,202505010LAC,LAC,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,1,2,.500,1,2,.500,0,0,,0,2,2,3,0,0,0,1,3,4.3,+10
+2025-05-01,202505010LAC,LAC,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,4.28,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,1,0,1,5,4.7,-1
+2025-05-01,202505010LAC,LAC,Q4,James Harden,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,2,6,.333,1,2,.500,0,0,,1,2,3,0,0,0,2,1,5,0.5,-5
+2025-05-01,202505010LAC,LAC,Q4,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202505010LAC.html,12.0,2,5,.400,0,1,.000,1,2,.500,1,1,2,1,0,0,0,0,5,3.6,-5
+2025-05-01,202505010LAC,LAC,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.42,1,3,.333,1,1,1.000,2,2,1.000,0,0,0,0,0,0,0,0,5,3.3,-5
+2025-05-01,202505010LAC,LAC,Q4,Ivica Zubac,https://www.basketball-reference.com/boxscores/202505010LAC.html,3.87,0,0,,0,0,,0,0,,0,0,0,0,0,2,0,0,0,1.4,-4
+2025-05-01,202505010LAC,LAC,Q4,Nicolas Batum,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.6,0,1,.000,0,1,.000,0,0,,0,2,2,2,1,2,0,0,0,3.7,-5
+2025-05-01,202505010LAC,LAC,Q4,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202505010LAC.html,7.02,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,3,3,0.8,+1
+2025-05-01,202505010LAC,LAC,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202505010LAC.html,8.1,1,2,.500,1,1,1.000,0,0,,0,2,2,0,1,0,0,1,3,3.2,-2

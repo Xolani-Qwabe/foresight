@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-31,202312310OKC,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202312310OKC.html,36:55,.440,.346,.462,.308,6.7,0.0,4.2,19.8,1.3,0.0,6.3,17.1,110,130,-4.7
+2023-12-31,202312310OKC,BRK,Mikal Bridges,https://www.basketball-reference.com/boxscores/202312310OKC.html,36:53,.516,.475,.500,.150,0.0,26.0,9.8,33.0,1.3,0.0,0.0,23.2,122,127,5.6
+2023-12-31,202312310OKC,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202312310OKC.html,36:33,.487,.455,.000,.909,13.6,37.5,22.6,20.9,1.3,2.6,0.0,16.9,127,124,4.1
+2023-12-31,202312310OKC,BRK,Cameron Johnson,https://www.basketball-reference.com/boxscores/202312310OKC.html,33:45,.547,.545,.545,.182,2.5,20.3,9.2,0.0,1.4,0.0,7.8,15.3,104,127,-6.1
+2023-12-31,202312310OKC,BRK,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202312310OKC.html,24:13,.308,.308,.615,.000,10.3,17.0,12.8,12.4,2.0,0.0,0.0,21.5,87,126,-6.0
+2023-12-31,202312310OKC,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202312310OKC.html,26:05,.474,.472,.444,.389,3.2,0.0,2.0,7.3,1.9,0.0,4.5,34.0,96,128,-1.1
+2023-12-31,202312310OKC,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202312310OKC.html,20:45,.278,.278,.778,.000,4.0,13.2,7.5,13.9,2.3,0.0,0.0,17.4,79,126,-8.0
+2023-12-31,202312310OKC,BRK,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202312310OKC.html,14:42,.810,.667,.333,1.000,5.6,18.7,10.5,41.5,3.3,0.0,41.0,20.0,111,123,-1.0
+2023-12-31,202312310OKC,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202312310OKC.html,8:17,.798,1.000,.000,2.000,10.0,16.6,12.5,0.0,5.9,11.6,0.0,9.1,166,107,5.9
+2023-12-31,202312310OKC,BRK,Trendon Watford,https://www.basketball-reference.com/boxscores/202312310OKC.html,1:52,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.5,200,133,16.2
+2023-12-31,202312310OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202312310OKC.html,34:46,.633,.500,.133,.600,0.0,9.5,5.9,23.4,0.0,0.0,5.0,26.3,136,114,1.5
+2023-12-31,202312310OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202312310OKC.html,32:22,.827,.850,.500,.200,0.0,25.6,15.9,12.9,0.0,5.5,21.6,19.6,121,103,6.4
+2023-12-31,202312310OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202312310OKC.html,29:50,.900,.900,.500,.000,0.0,11.1,6.9,14.3,0.0,3.0,0.0,15.4,172,111,10.5
+2023-12-31,202312310OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202312310OKC.html,28:43,.539,.536,.214,.286,0.0,8.6,5.4,25.1,0.0,3.1,16.0,29.9,100,113,-3.7
+2023-12-31,202312310OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202312310OKC.html,26:51,.625,.625,.500,.000,5.1,15.4,11.5,29.1,0.0,0.0,11.1,30.7,118,111,3.9
+2023-12-31,202312310OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202312310OKC.html,22:31,.635,.571,.571,.286,6.1,7.4,6.9,5.5,0.0,3.9,0.0,16.0,136,112,-0.6
+2023-12-31,202312310OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202312310OKC.html,17:45,.250,.250,.500,.000,0.0,18.6,11.6,12.8,0.0,0.0,0.0,10.3,81,110,-5.0
+2023-12-31,202312310OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202312310OKC.html,15:54,1.215,1.500,1.000,1.000,0.0,5.2,3.2,0.0,0.0,0.0,41.0,14.1,93,116,-0.2
+2023-12-31,202312310OKC,OKC,Vasilije Micić,https://www.basketball-reference.com/boxscores/202312310OKC.html,12:23,1.000,1.000,.000,.000,11.1,13.4,12.5,37.7,3.9,0.0,0.0,3.7,227,101,8.5
+2023-12-31,202312310OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202312310OKC.html,10:33,,,,,13.0,31.4,24.5,0.0,0.0,0.0,100.0,8.7,42,103,-10.1
+2023-12-31,202312310OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202312310OKC.html,6:30,.436,.333,.333,.333,21.1,25.5,23.8,39.3,0.0,13.7,0.0,24.2,131,98,10.2
+2023-12-31,202312310OKC,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202312310OKC.html,1:52,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.5,300,119,45.9

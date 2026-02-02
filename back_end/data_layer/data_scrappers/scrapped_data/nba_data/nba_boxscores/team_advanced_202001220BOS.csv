@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-22,202001220BOS,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202001220BOS.html,26:08,.576,.577,.154,.154,13.8,41.7,28.4,7.9,3.7,6.4,0.0,23.7,119,108,9.3
+2020-01-22,202001220BOS,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202001220BOS.html,25:35,.433,.433,.533,.000,0.0,21.3,11.2,7.0,0.0,13.2,16.7,31.4,69,115,-3.8
+2020-01-22,202001220BOS,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202001220BOS.html,23:59,.200,.200,.200,.000,0.0,4.5,2.4,29.4,0.0,0.0,28.6,13.0,61,129,-14.7
+2020-01-22,202001220BOS,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202001220BOS.html,18:59,.387,.250,.500,.667,12.6,5.7,9.0,0.0,0.0,0.0,34.0,27.6,61,129,-19.1
+2020-01-22,202001220BOS,MEM,Jae Crowder,https://www.basketball-reference.com/boxscores/202001220BOS.html,18:20,.188,.188,.625,.000,0.0,35.7,18.7,7.8,2.7,0.0,20.0,24.3,36,117,-16.5
+2020-01-22,202001220BOS,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202001220BOS.html,23:05,.750,.750,.333,.000,0.0,9.5,5.0,15.0,0.0,0.0,14.3,13.5,123,128,-1.0
+2020-01-22,202001220BOS,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202001220BOS.html,21:59,.667,.667,.167,.000,0.0,5.0,2.6,24.0,2.2,3.8,33.3,18.3,91,121,-1.4
+2020-01-22,202001220BOS,MEM,Solomon Hill,https://www.basketball-reference.com/boxscores/202001220BOS.html,21:12,.888,.917,.667,.500,0.0,10.3,5.4,16.8,2.3,0.0,0.0,15.4,170,123,13.5
+2020-01-22,202001220BOS,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202001220BOS.html,18:02,.563,.500,.375,.250,0.0,24.2,12.7,31.5,0.0,0.0,0.0,22.0,123,125,2.7
+2020-01-22,202001220BOS,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202001220BOS.html,17:14,.375,.375,.250,.000,0.0,6.3,3.3,33.5,0.0,0.0,0.0,10.4,108,129,-4.4
+2020-01-22,202001220BOS,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202001220BOS.html,14:18,.635,.571,.143,.286,0.0,0.0,0.0,29.7,6.8,0.0,0.0,24.6,132,115,12.5
+2020-01-22,202001220BOS,MEM,Marko Gudurić,https://www.basketball-reference.com/boxscores/202001220BOS.html,11:09,.532,.000,1.000,2.000,0.0,19.6,10.2,0.0,0.0,7.6,34.7,11.5,73,120,-7.7
+2020-01-22,202001220BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202001220BOS.html,29:01,.607,.556,.667,.222,3.8,20.7,11.8,25.9,1.7,0.0,0.0,15.3,146,100,3.5
+2020-01-22,202001220BOS,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/202001220BOS.html,28:03,.761,.714,.571,.286,0.0,12.8,6.1,17.9,1.7,0.0,27.6,17.4,114,101,-0.6
+2020-01-22,202001220BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202001220BOS.html,26:08,.609,.583,.389,.111,4.2,27.6,15.3,25.8,3.7,3.5,5.0,34.2,122,92,12.5
+2020-01-22,202001220BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202001220BOS.html,25:56,.388,.333,.556,.333,4.2,9.3,6.6,17.9,3.8,7.0,0.0,17.9,106,91,2.3
+2020-01-22,202001220BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202001220BOS.html,18:53,.888,.929,.429,.286,5.8,19.1,12.1,15.7,5.2,14.4,0.0,18.8,172,80,23.3
+2020-01-22,202001220BOS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202001220BOS.html,25:08,.455,.455,.273,.000,0.0,14.3,6.8,16.2,1.9,0.0,0.0,19.7,104,101,-4.8
+2020-01-22,202001220BOS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202001220BOS.html,19:07,.496,.333,.000,1.167,0.0,6.3,3.0,12.6,2.6,4.7,0.0,21.3,116,97,0.4
+2020-01-22,202001220BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202001220BOS.html,19:02,.732,.750,.000,.250,22.9,25.2,24.0,25.3,0.0,4.8,18.4,25.7,134,99,5.1
+2020-01-22,202001220BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202001220BOS.html,14:37,.875,.875,.500,.000,0.0,16.4,7.8,9.3,0.0,0.0,0.0,12.3,169,105,5.0
+2020-01-22,202001220BOS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202001220BOS.html,12:00,.700,.700,.400,.000,0.0,10.0,4.8,24.2,4.1,0.0,28.6,26.2,99,97,3.0
+2020-01-22,202001220BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202001220BOS.html,12:00,.333,.333,.000,.000,9.1,20.0,14.3,9.8,0.0,7.5,25.0,15.0,78,97,-9.1
+2020-01-22,202001220BOS,BOS,Vincent Poirier,https://www.basketball-reference.com/boxscores/202001220BOS.html,10:05,.500,.500,.000,.000,0.0,35.7,17.0,0.0,0.0,0.0,0.0,8.9,98,102,-9.6

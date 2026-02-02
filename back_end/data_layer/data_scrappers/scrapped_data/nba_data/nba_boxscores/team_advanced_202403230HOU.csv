@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-23,202403230HOU,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202403230HOU.html,35:51,.509,.441,.118,.353,3.0,3.3,3.2,35.0,2.7,0.0,0.0,23.2,128,148,0.5
+2024-03-23,202403230HOU,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202403230HOU.html,31:26,.480,.385,.692,.462,0.0,15.3,7.3,22.5,0.0,0.0,11.3,23.7,104,152,-8.5
+2024-03-23,202403230HOU,UTA,Taylor Hendricks,https://www.basketball-reference.com/boxscores/202403230HOU.html,27:15,.500,.500,.444,.000,4.0,22.0,12.6,0.0,0.0,3.7,10.0,15.5,96,148,-10.6
+2024-03-23,202403230HOU,UTA,Johnny Juzang,https://www.basketball-reference.com/boxscores/202403230HOU.html,20:45,.800,.800,.800,.000,0.0,0.0,0.0,7.0,0.0,0.0,0.0,10.2,162,156,-3.8
+2024-03-23,202403230HOU,UTA,John Collins,https://www.basketball-reference.com/boxscores/202403230HOU.html,19:57,.933,.889,.222,1.111,16.4,18.0,17.2,10.4,0.0,0.0,13.0,32.6,164,151,12.4
+2024-03-23,202403230HOU,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202403230HOU.html,28:03,.676,.625,.000,.250,11.7,25.7,18.3,5.4,0.0,10.7,10.1,14.9,136,143,-0.7
+2024-03-23,202403230HOU,UTA,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202403230HOU.html,27:17,.494,.429,.714,.357,0.0,17.6,8.4,22.6,0.0,0.0,11.0,28.2,103,152,-6.8
+2024-03-23,202403230HOU,UTA,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202403230HOU.html,25:18,.558,.500,.333,.444,4.3,19.0,11.3,23.4,0.0,0.0,15.7,21.3,112,151,-6.1
+2024-03-23,202403230HOU,UTA,Micah Potter,https://www.basketball-reference.com/boxscores/202403230HOU.html,17:40,.000,.000,1.000,.000,12.3,6.8,9.7,0.0,0.0,0.0,0.0,4.8,72,154,-13.8
+2024-03-23,202403230HOU,UTA,Kris Dunn,https://www.basketball-reference.com/boxscores/202403230HOU.html,6:28,.333,.333,.333,.000,16.9,0.0,8.8,0.0,0.0,0.0,0.0,19.6,93,156,-14.5
+2024-03-23,202403230HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202403230HOU.html,32:55,.863,.841,.500,.182,3.6,9.9,6.9,18.2,1.5,0.0,11.2,34.8,156,124,12.3
+2024-03-23,202403230HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202403230HOU.html,30:06,.202,.222,.111,.222,27.9,10.9,19.0,18.8,1.6,0.0,16.8,16.9,109,123,-10.5
+2024-03-23,202403230HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202403230HOU.html,27:57,1.007,1.000,.938,.125,0.0,11.7,6.1,34.2,3.5,0.0,10.6,28.9,182,119,25.4
+2024-03-23,202403230HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202403230HOU.html,25:45,.676,.625,.375,.250,0.0,16.9,8.9,16.0,1.9,0.0,0.0,14.8,163,121,1.5
+2024-03-23,202403230HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202403230HOU.html,9:00,.727,.667,.000,.333,0.0,24.2,12.7,24.6,0.0,0.0,0.0,16.4,174,123,7.1
+2024-03-23,202403230HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202403230HOU.html,24:56,.685,.643,.571,.214,0.0,17.5,9.2,4.8,0.0,7.4,0.0,26.3,147,121,2.3
+2024-03-23,202403230HOU,HOU,Reggie Bullock,https://www.basketball-reference.com/boxscores/202403230HOU.html,20:58,.500,.500,1.000,.000,5.7,31.2,19.1,0.0,2.3,0.0,0.0,12.2,120,115,-5.1
+2024-03-23,202403230HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202403230HOU.html,20:03,.500,.500,.429,.000,0.0,5.4,2.9,15.3,0.0,0.0,0.0,14.9,132,129,-7.5
+2024-03-23,202403230HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202403230HOU.html,19:02,.875,.875,.250,.000,0.0,17.2,9.0,5.4,0.0,4.8,0.0,9.0,183,122,0.6
+2024-03-23,202403230HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202403230HOU.html,17:40,.750,.750,.250,.000,13.6,0.0,6.5,17.8,0.0,0.0,33.3,14.5,132,130,-6.3
+2024-03-23,202403230HOU,HOU,Jeenathan Williams,https://www.basketball-reference.com/boxscores/202403230HOU.html,8:35,.667,.667,.000,.000,14.0,25.4,20.0,0.0,5.7,0.0,0.0,15.0,152,110,1.6
+2024-03-23,202403230HOU,HOU,Boban Marjanović,https://www.basketball-reference.com/boxscores/202403230HOU.html,3:03,.000,.000,.000,.000,0.0,35.8,18.7,0.0,0.0,0.0,0.0,14.0,0,119,-23.0

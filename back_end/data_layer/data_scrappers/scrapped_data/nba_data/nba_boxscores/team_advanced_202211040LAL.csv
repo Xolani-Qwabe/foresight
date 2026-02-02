@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-04,202211040LAL,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202211040LAL.html,32:42,.687,.618,.529,.353,9.6,34.9,21.7,15.1,1.5,2.6,4.8,26.3,151,116,12.8
+2022-11-04,202211040LAL,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202211040LAL.html,31:20,.656,.636,.455,.091,6.7,0.0,3.5,35.8,1.6,0.0,14.9,17.8,144,125,5.8
+2022-11-04,202211040LAL,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202211040LAL.html,30:14,.827,.850,.300,.200,6.9,7.6,7.2,11.6,1.6,0.0,0.0,15.0,177,123,7.9
+2022-11-04,202211040LAL,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202211040LAL.html,29:18,.526,.526,.368,.000,0.0,27.3,13.0,13.2,0.0,0.0,0.0,27.0,121,123,-4.3
+2022-11-04,202211040LAL,UTA,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202211040LAL.html,25:11,.643,.643,.143,.000,8.3,18.2,13.0,17.2,2.0,0.0,12.5,13.2,140,120,1.3
+2022-11-04,202211040LAL,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202211040LAL.html,28:36,.654,.654,.385,.000,7.3,8.0,7.6,12.5,0.0,0.0,13.3,21.8,126,127,-1.3
+2022-11-04,202211040LAL,UTA,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202211040LAL.html,15:34,.500,.500,.286,.000,6.7,14.7,10.5,7.2,6.4,0.0,0.0,18.7,123,111,4.3
+2022-11-04,202211040LAL,UTA,Malik Beasley,https://www.basketball-reference.com/boxscores/202211040LAL.html,14:58,.214,.214,.571,.000,0.0,15.3,7.3,6.6,6.7,0.0,0.0,19.5,64,110,-10.4
+2022-11-04,202211040LAL,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202211040LAL.html,10:36,.800,.800,.000,.000,29.5,10.8,20.6,0.0,0.0,15.9,0.0,19.6,175,114,12.9
+2022-11-04,202211040LAL,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202211040LAL.html,9:53,.000,.000,.500,.000,0.0,11.6,5.5,18.7,0.0,0.0,33.3,12.6,45,126,-13.9
+2022-11-04,202211040LAL,UTA,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202211040LAL.html,7:47,.676,.625,.500,.250,0.0,14.7,7.0,0.0,0.0,0.0,18.4,29.1,108,126,-6.2
+2022-11-04,202211040LAL,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202211040LAL.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-8.1
+2022-11-04,202211040LAL,UTA,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202211040LAL.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-8.6
+2022-11-04,202211040LAL,UTA,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202211040LAL.html,1:17,.000,.000,1.000,.000,0.0,89.1,42.5,0.0,0.0,0.0,0.0,32.4,0,109,-38.2
+2022-11-04,202211040LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202211040LAL.html,34:51,.600,.559,.118,.176,9.8,15.0,12.5,10.0,0.0,4.4,5.2,25.0,126,136,-1.2
+2022-11-04,202211040LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202211040LAL.html,34:09,.401,.368,.263,.263,6.7,24.4,16.0,37.3,0.0,2.2,12.4,32.0,94,134,-7.3
+2022-11-04,202211040LAL,LAL,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202211040LAL.html,30:01,.669,.583,.250,.417,0.0,3.5,1.8,5.3,3.3,0.0,0.0,21.4,141,135,1.9
+2022-11-04,202211040LAL,LAL,Patrick Beverley,https://www.basketball-reference.com/boxscores/202211040LAL.html,28:16,1.250,1.250,.500,.000,4.0,14.8,9.6,4.6,0.0,0.0,0.0,3.2,242,139,-2.5
+2022-11-04,202211040LAL,LAL,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202211040LAL.html,22:02,.551,.500,.600,.200,5.2,4.7,5.0,0.0,2.3,0.0,15.5,26.4,97,137,-8.6
+2022-11-04,202211040LAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202211040LAL.html,29:25,.802,.750,.357,.357,0.0,10.6,5.6,38.7,3.4,0.0,19.8,31.0,133,132,10.5
+2022-11-04,202211040LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202211040LAL.html,21:41,1.330,1.500,1.000,2.000,0.0,9.6,5.0,17.6,2.3,7.0,34.7,6.0,173,131,6.1
+2022-11-04,202211040LAL,LAL,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202211040LAL.html,14:36,1.136,,,,0.0,7.1,3.7,0.0,0.0,5.2,0.0,2.7,250,138,-3.0
+2022-11-04,202211040LAL,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202211040LAL.html,11:07,.906,1.000,.000,4.000,10.3,28.2,19.6,12.1,0.0,0.0,0.0,11.2,199,134,5.1
+2022-11-04,202211040LAL,LAL,Matt Ryan,https://www.basketball-reference.com/boxscores/202211040LAL.html,10:01,.375,.375,.750,.000,11.4,31.3,21.8,0.0,0.0,0.0,0.0,18.0,95,133,-9.9
+2022-11-04,202211040LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202211040LAL.html,1:17,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.2,0,144,-45.0
+2022-11-04,202211040LAL,LAL,Damian Jones,https://www.basketball-reference.com/boxscores/202211040LAL.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,144,-8.6
+2022-11-04,202211040LAL,LAL,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202211040LAL.html,1:17,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70.4,0,144,-80.5

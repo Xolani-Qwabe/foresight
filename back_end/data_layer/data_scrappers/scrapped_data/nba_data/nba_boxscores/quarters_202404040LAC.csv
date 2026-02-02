@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-04-04,202404040LAC,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,5,6,.833,0,1,.000,0,1,.000,0,7,7,3,0,0,2,0,10,9.6,+11
+2024-04-04,202404040LAC,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.5,2,5,.400,2,3,.667,0,0,,0,2,2,0,0,0,1,1,6,2.5,+14
+2024-04-04,202404040LAC,DEN,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.33,3,5,.600,2,3,.667,0,0,,0,0,0,2,0,0,0,0,8,7.1,+14
+2024-04-04,202404040LAC,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.97,2,4,.500,0,1,.000,0,3,.000,1,2,3,4,1,1,0,0,4,6.6,+12
+2024-04-04,202404040LAC,DEN,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202404040LAC.html,7.82,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.7,+7
+2024-04-04,202404040LAC,DEN,Q1,Christian Braun,https://www.basketball-reference.com/boxscores/202404040LAC.html,6.85,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+1
+2024-04-04,202404040LAC,DEN,Q1,Peyton Watson,https://www.basketball-reference.com/boxscores/202404040LAC.html,3.5,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3
+2024-04-04,202404040LAC,DEN,Q1,Justin Holiday,https://www.basketball-reference.com/boxscores/202404040LAC.html,3.03,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-1
+2024-04-04,202404040LAC,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202404040LAC.html,7.47,4,6,.667,2,3,.667,0,0,,0,2,2,1,0,0,2,0,10,6.7,-5
+2024-04-04,202404040LAC,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202404040LAC.html,11.28,2,8,.250,0,4,.000,0,0,,1,3,4,0,0,1,1,1,4,0.1,-15
+2024-04-04,202404040LAC,DEN,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202404040LAC.html,10.27,1,2,.500,0,1,.000,0,0,,0,2,2,1,1,0,1,2,2,1.5,-7
+2024-04-04,202404040LAC,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.45,1,1,1.000,0,0,,0,0,,0,1,1,2,0,0,0,2,2,2.6,-5
+2024-04-04,202404040LAC,DEN,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202404040LAC.html,5.53,0,4,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,-1.8,-12
+2024-04-04,202404040LAC,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202404040LAC.html,7.17,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,-3
+2024-04-04,202404040LAC,DEN,Q2,Peyton Watson,https://www.basketball-reference.com/boxscores/202404040LAC.html,2.55,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-10
+2024-04-04,202404040LAC,DEN,Q2,Justin Holiday,https://www.basketball-reference.com/boxscores/202404040LAC.html,1.73,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8
+2024-04-04,202404040LAC,DEN,Q2,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202404040LAC.html,4.53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-10
+2024-04-04,202404040LAC,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,2,7,.286,0,2,.000,0,0,,1,4,5,3,0,0,0,0,4,3.9,-1
+2024-04-04,202404040LAC,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.15,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,0,0,2,0.6,-5
+2024-04-04,202404040LAC,DEN,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.27,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-0.9,-5
+2024-04-04,202404040LAC,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.15,1,3,.333,0,1,.000,4,5,.800,0,1,1,0,0,0,0,1,6,3.8,-5
+2024-04-04,202404040LAC,DEN,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202404040LAC.html,4.78,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,1,0,2,1.4,-5
+2024-04-04,202404040LAC,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202404040LAC.html,7.87,2,4,.500,1,2,.500,0,0,,1,1,2,1,1,0,0,1,5,5.3,+6
+2024-04-04,202404040LAC,DEN,Q3,Peyton Watson,https://www.basketball-reference.com/boxscores/202404040LAC.html,3.85,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,0,1,1,2,0.2,+4
+2024-04-04,202404040LAC,DEN,Q3,Justin Holiday,https://www.basketball-reference.com/boxscores/202404040LAC.html,3.85,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+4
+2024-04-04,202404040LAC,DEN,Q3,Julian Strawther,https://www.basketball-reference.com/boxscores/202404040LAC.html,2.07,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2
+2024-04-04,202404040LAC,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.63,3,5,.600,1,2,.500,5,5,1.000,0,3,3,3,0,0,1,2,12,10.9,+7
+2024-04-04,202404040LAC,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.98,1,2,.500,0,1,.000,0,0,,0,2,2,1,0,0,0,2,2,1.5,+3
+2024-04-04,202404040LAC,DEN,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.63,2,5,.400,2,3,.667,0,1,.000,0,0,0,0,0,1,0,0,6,3.6,+7
+2024-04-04,202404040LAC,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.03,1,2,.500,0,0,,4,6,.667,1,0,1,1,0,1,1,1,6,4.9,-1
+2024-04-04,202404040LAC,DEN,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202404040LAC.html,3.37,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,1,1,2,0.6,-4
+2024-04-04,202404040LAC,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,1,3,.333,0,0,,0,0,,1,3,4,1,0,0,0,1,2,2.2,+3
+2024-04-04,202404040LAC,DEN,Q4,Peyton Watson,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.33,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0
+2024-04-04,202404040LAC,LAC,Q1,James Harden,https://www.basketball-reference.com/boxscores/202404040LAC.html,5.92,0,4,.000,0,2,.000,0,0,,0,3,3,1,0,0,0,0,0,-1.2,-12
+2024-04-04,202404040LAC,LAC,Q1,Paul George,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,4,8,.500,1,3,.333,0,0,,0,0,0,1,1,0,1,0,9,5.7,-11
+2024-04-04,202404040LAC,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202404040LAC.html,11.9,1,4,.250,0,0,,0,0,,0,6,6,1,1,0,0,1,2,2.7,-11
+2024-04-04,202404040LAC,LAC,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.5,1,3,.333,0,1,.000,0,0,,1,1,2,0,1,0,0,2,2,1.5,-14
+2024-04-04,202404040LAC,LAC,Q1,P.J. Tucker,https://www.basketball-reference.com/boxscores/202404040LAC.html,5.5,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,-12
+2024-04-04,202404040LAC,LAC,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202404040LAC.html,6.5,2,4,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,0,5,4.0,+1
+2024-04-04,202404040LAC,LAC,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202404040LAC.html,6.08,1,4,.250,0,0,,0,0,,0,1,1,2,0,0,0,0,2,1.3,+1
+2024-04-04,202404040LAC,LAC,Q1,Amir Coffey,https://www.basketball-reference.com/boxscores/202404040LAC.html,3.5,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3
+2024-04-04,202404040LAC,LAC,Q1,Mason Plumlee,https://www.basketball-reference.com/boxscores/202404040LAC.html,0.08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-04-04,202404040LAC,LAC,Q2,James Harden,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,4,7,.571,2,4,.500,4,4,1.000,0,2,2,2,1,0,0,0,14,13.7,+15
+2024-04-04,202404040LAC,LAC,Q2,Paul George,https://www.basketball-reference.com/boxscores/202404040LAC.html,5.55,0,1,.000,0,1,.000,3,4,.750,0,1,1,0,1,0,1,1,3,1.8,+5
+2024-04-04,202404040LAC,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202404040LAC.html,4.55,1,4,.250,0,0,,0,0,,0,1,1,0,0,0,0,0,2,-0.1,+3
+2024-04-04,202404040LAC,LAC,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,2,5,.400,1,3,.333,0,0,,1,1,2,2,1,0,0,0,5,5.7,+15
+2024-04-04,202404040LAC,LAC,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202404040LAC.html,6.45,1,2,.500,0,1,.000,0,0,,0,1,1,3,0,1,2,0,2,2.1,+10
+2024-04-04,202404040LAC,LAC,Q2,Amir Coffey,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,2,2,1.000,1,1,1.000,0,1,.000,0,5,5,0,0,0,0,0,5,5.5,+15
+2024-04-04,202404040LAC,LAC,Q2,Mason Plumlee,https://www.basketball-reference.com/boxscores/202404040LAC.html,7.45,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,2,1.2,+12
+2024-04-04,202404040LAC,LAC,Q3,James Harden,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.35,1,4,.250,0,3,.000,0,0,,0,0,0,3,0,0,0,0,2,1.7,+4
+2024-04-04,202404040LAC,LAC,Q3,Paul George,https://www.basketball-reference.com/boxscores/202404040LAC.html,10.78,4,7,.571,1,2,.500,0,0,,0,3,3,1,0,0,1,1,9,5.9,+1
+2024-04-04,202404040LAC,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.27,1,1,1.000,0,0,,0,0,,1,3,4,0,0,0,0,2,2,2.5,+5
+2024-04-04,202404040LAC,LAC,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.55,1,3,.333,0,1,.000,2,2,1.000,0,1,1,1,1,0,0,1,4,3.9,+5
+2024-04-04,202404040LAC,LAC,Q3,P.J. Tucker,https://www.basketball-reference.com/boxscores/202404040LAC.html,7.13,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,1,0,-1.2,+4
+2024-04-04,202404040LAC,LAC,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202404040LAC.html,4.87,0,2,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,0,1,-0.8,-3
+2024-04-04,202404040LAC,LAC,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202404040LAC.html,4.87,1,2,.500,0,1,.000,2,2,1.000,0,1,1,0,1,0,0,0,4,4.3,-3
+2024-04-04,202404040LAC,LAC,Q3,Amir Coffey,https://www.basketball-reference.com/boxscores/202404040LAC.html,2.45,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-4
+2024-04-04,202404040LAC,LAC,Q3,Mason Plumlee,https://www.basketball-reference.com/boxscores/202404040LAC.html,2.73,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,-4
+2024-04-04,202404040LAC,LAC,Q4,James Harden,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,1,8,.125,0,4,.000,2,3,.667,1,0,1,2,0,0,1,0,4,-0.5,-3
+2024-04-04,202404040LAC,LAC,Q4,Paul George,https://www.basketball-reference.com/boxscores/202404040LAC.html,8.25,2,5,.400,0,0,,3,4,.750,0,0,0,0,1,0,0,0,7,4.9,-6
+2024-04-04,202404040LAC,LAC,Q4,Ivica Zubac,https://www.basketball-reference.com/boxscores/202404040LAC.html,9.1,1,2,.500,0,0,,6,6,1.000,0,4,4,0,0,0,0,1,8,7.8,-2
+2024-04-04,202404040LAC,LAC,Q4,P.J. Tucker,https://www.basketball-reference.com/boxscores/202404040LAC.html,3.98,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-0.1,-4
+2024-04-04,202404040LAC,LAC,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202404040LAC.html,12.0,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+2024-04-04,202404040LAC,LAC,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/202404040LAC.html,6.33,1,1,1.000,0,0,,2,2,1.000,1,2,3,0,0,0,0,1,4,4.6,0
+2024-04-04,202404040LAC,LAC,Q4,Amir Coffey,https://www.basketball-reference.com/boxscores/202404040LAC.html,5.52,1,3,.333,0,1,.000,2,2,1.000,0,0,0,1,1,0,0,1,4,3.6,+4
+2024-04-04,202404040LAC,LAC,Q4,Mason Plumlee,https://www.basketball-reference.com/boxscores/202404040LAC.html,2.82,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,3,0,-0.5,-1

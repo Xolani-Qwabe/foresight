@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2023-02-02,202302020DAL,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.87,3,5,.600,0,0,0,0,0,2,2,2,0,0,0,1,6,5.3,-5,,
+2023-02-02,202302020DAL,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.6,1,4,.250,0,0,0,0,0,0,0,2,0,0,0,0,2,1.0,-18,,
+2023-02-02,202302020DAL,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.6,0,2,.000,0,2,0,0,0,0,0,1,1,0,2,1,0,-2.1,-18,.000,
+2023-02-02,202302020DAL,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.3,2,2,1.000,0,0,0,0,0,0,0,1,0,0,0,0,4,4.1,-8,,
+2023-02-02,202302020DAL,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.37,1,3,.333,0,1,2,2,2,2,4,1,0,0,0,1,4,4.6,-13,.000,1.000
+2023-02-02,202302020DAL,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,4.63,2,2,1.000,0,0,0,0,0,0,0,0,0,0,1,0,4,2.4,-5,,
+2023-02-02,202302020DAL,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.1,0,1,.000,0,0,0,0,0,1,1,1,0,0,1,1,0,-1.1,-10,,
+2023-02-02,202302020DAL,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202302020DAL.html,0.73,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,,
+2023-02-02,202302020DAL,NOP,Q1,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.8,1,3,.333,0,1,0,0,0,1,1,0,1,0,1,3,2,-0.6,-15,.000,
+2023-02-02,202302020DAL,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.23,1,2,.500,0,0,0,0,0,0,0,1,0,0,3,1,2,-1.7,-9,,
+2023-02-02,202302020DAL,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.7,2,3,.667,0,0,2,2,0,2,2,1,0,0,2,2,6,3.2,-8,,1.000
+2023-02-02,202302020DAL,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202302020DAL.html,6.78,1,3,.333,1,3,0,0,0,0,0,0,1,0,2,1,3,-0.1,-4,.333,
+2023-02-02,202302020DAL,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202302020DAL.html,11.08,1,2,.500,0,1,1,1,0,1,1,1,1,0,0,1,3,3.6,-5,.000,1.000
+2023-02-02,202302020DAL,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202302020DAL.html,6.97,0,2,.000,0,0,0,0,3,1,4,1,0,0,0,0,0,1.7,-10,,
+2023-02-02,202302020DAL,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.03,1,2,.500,0,0,0,0,2,2,4,0,0,1,0,1,2,3.3,+1,,
+2023-02-02,202302020DAL,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.22,1,2,.500,0,0,1,2,0,0,0,0,0,0,0,0,3,1.6,-5,,.500
+2023-02-02,202302020DAL,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.98,1,3,.333,0,1,0,0,0,3,3,3,0,1,1,0,2,3.0,-5,.000,
+2023-02-02,202302020DAL,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202302020DAL.html,8.1,1,2,.500,0,0,0,0,0,2,2,3,0,0,0,0,2,3.7,+6,,
+2023-02-02,202302020DAL,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.82,2,6,.333,1,2,3,3,1,3,4,2,0,1,0,2,8,7.5,+2,.500,1.000
+2023-02-02,202302020DAL,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202302020DAL.html,10.23,2,2,1.000,0,0,0,1,0,1,1,0,0,0,0,0,4,3.3,+2,,.000
+2023-02-02,202302020DAL,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.58,0,2,.000,0,2,2,2,0,2,2,0,0,0,0,1,2,0.8,+10,.000,1.000
+2023-02-02,202302020DAL,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.4,4,6,.667,0,0,4,4,4,1,5,0,0,0,1,2,12,10.7,+4,,1.000
+2023-02-02,202302020DAL,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,4.6,1,1,1.000,0,0,0,0,0,1,1,0,0,0,0,0,2,2.0,+4,,
+2023-02-02,202302020DAL,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202302020DAL.html,4.6,1,1,1.000,1,1,0,0,0,0,0,1,0,0,0,0,3,3.4,+4,1.000,
+2023-02-02,202302020DAL,NOP,Q3,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.67,0,3,.000,0,1,0,0,0,1,1,0,0,0,0,1,0,-2.2,+8,.000,
+2023-02-02,202302020DAL,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202302020DAL.html,12.0,4,5,.800,1,2,0,0,0,0,0,2,0,1,0,1,9,8.8,+14,.500,
+2023-02-02,202302020DAL,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202302020DAL.html,8.63,5,7,.714,0,0,0,1,0,3,3,2,0,0,1,0,10,8.0,+10,,.000
+2023-02-02,202302020DAL,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202302020DAL.html,8.72,1,2,.500,0,1,0,0,0,1,1,0,1,1,0,2,2,2.2,+9,.000,
+2023-02-02,202302020DAL,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202302020DAL.html,3.53,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,,
+2023-02-02,202302020DAL,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,12.0,1,1,1.000,0,0,0,0,0,7,7,1,0,0,1,0,2,3.5,+14,,
+2023-02-02,202302020DAL,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202302020DAL.html,10.22,2,4,.500,1,1,0,0,0,0,0,1,1,0,0,4,5,3.1,+12,1.000,
+2023-02-02,202302020DAL,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202302020DAL.html,4.9,0,1,.000,0,1,2,3,0,1,1,0,0,0,1,0,2,0.2,+6,.000,.667
+2023-02-02,202302020DAL,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,12.0,1,2,.500,0,0,1,1,0,2,2,1,1,0,0,0,3,4.3,+18,,1.000
+2023-02-02,202302020DAL,DAL,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202302020DAL.html,6.9,0,1,.000,0,0,1,1,0,1,1,1,0,0,1,0,1,0.3,+8,,1.000
+2023-02-02,202302020DAL,DAL,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.47,1,1,1.000,1,1,0,0,0,0,0,1,0,0,0,2,3,2.6,+5,1.000,
+2023-02-02,202302020DAL,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.6,1,1,1.000,0,0,2,2,0,1,1,0,1,0,0,0,4,5.0,+18,,1.000
+2023-02-02,202302020DAL,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202302020DAL.html,12.0,7,11,.636,2,5,5,6,0,6,6,3,1,0,1,0,21,19.6,+18,.400,.833
+2023-02-02,202302020DAL,DAL,Q1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.1,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,+10,1.000,
+2023-02-02,202302020DAL,DAL,Q1,Josh Green,https://www.basketball-reference.com/boxscores/202302020DAL.html,6.53,1,1,1.000,0,0,0,0,0,0,0,0,0,0,0,1,2,1.3,+13,,
+2023-02-02,202302020DAL,DAL,Q1,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202302020DAL.html,2.4,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,0,1.000,
+2023-02-02,202302020DAL,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,4.77,0,4,.000,0,3,0,0,0,0,0,0,0,0,0,0,0,-2.8,-1,.000,
+2023-02-02,202302020DAL,DAL,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.23,2,7,.286,0,1,3,3,1,0,1,2,1,0,0,2,7,5.2,+10,.000,1.000
+2023-02-02,202302020DAL,DAL,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202302020DAL.html,8.28,1,2,.500,1,1,0,0,0,1,1,0,1,1,0,0,3,4.0,+8,1.000,
+2023-02-02,202302020DAL,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.8,0,0,,0,0,2,2,0,0,0,1,1,0,0,0,2,3.7,+8,,1.000
+2023-02-02,202302020DAL,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.68,3,3,1.000,0,0,0,1,0,1,1,0,1,0,3,1,6,2.6,-1,,.000
+2023-02-02,202302020DAL,DAL,Q2,Reggie Bullock,https://www.basketball-reference.com/boxscores/202302020DAL.html,10.33,0,0,,0,0,0,0,0,3,3,0,0,0,0,0,0,0.9,+14,,
+2023-02-02,202302020DAL,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.18,2,2,1.000,0,0,0,0,0,0,0,0,1,0,0,0,4,4.4,-1,,
+2023-02-02,202302020DAL,DAL,Q2,Jaden Hardy,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.57,1,3,.333,0,2,0,0,0,0,0,0,1,0,0,2,2,0.5,+5,.000,
+2023-02-02,202302020DAL,DAL,Q2,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202302020DAL.html,3.15,2,2,1.000,2,2,0,0,1,1,2,0,0,0,0,0,6,6.4,+3,1.000,
+2023-02-02,202302020DAL,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,11.4,2,5,.400,2,5,0,0,0,2,2,1,0,0,0,1,6,4.2,-6,.400,
+2023-02-02,202302020DAL,DAL,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202302020DAL.html,12.0,2,6,.333,2,3,3,4,0,1,1,0,0,1,0,0,9,6.2,-8,.667,.750
+2023-02-02,202302020DAL,DAL,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202302020DAL.html,9.82,1,2,.500,1,2,0,0,1,2,3,2,0,0,0,1,3,4.3,-4,.500,
+2023-02-02,202302020DAL,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/202302020DAL.html,7.4,0,0,,0,0,1,2,0,1,1,1,0,0,1,5,1,-1.4,-4,,.500
+2023-02-02,202302020DAL,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202302020DAL.html,5.22,2,5,.400,0,2,0,1,0,1,1,1,0,0,0,1,4,1.5,0,.000,.000
+2023-02-02,202302020DAL,DAL,Q3,Reggie Bullock,https://www.basketball-reference.com/boxscores/202302020DAL.html,6.78,0,2,.000,0,2,0,0,0,0,0,0,0,0,0,0,0,-1.4,-8,.000,
+2023-02-02,202302020DAL,DAL,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202302020DAL.html,4.6,1,2,.500,0,0,0,0,1,1,2,0,0,0,0,0,2,2.0,-2,,
+2023-02-02,202302020DAL,DAL,Q3,Jaden Hardy,https://www.basketball-reference.com/boxscores/202302020DAL.html,2.18,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,,
+2023-02-02,202302020DAL,DAL,Q3,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202302020DAL.html,0.6,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,,
+2023-02-02,202302020DAL,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202302020DAL.html,12.0,0,7,.000,0,4,0,0,0,2,2,0,0,0,0,0,0,-4.3,-14,.000,
+2023-02-02,202302020DAL,DAL,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202302020DAL.html,10.0,0,5,.000,0,2,4,4,0,0,0,1,0,1,2,1,4,-0.5,-14,.000,1.000
+2023-02-02,202302020DAL,DAL,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202302020DAL.html,10.13,2,3,.667,0,1,0,0,2,1,3,1,0,0,0,2,4,4.3,-14,.000,
+2023-02-02,202302020DAL,DAL,Q4,Dwight Powell,https://www.basketball-reference.com/boxscores/202302020DAL.html,2.08,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,,
+2023-02-02,202302020DAL,DAL,Q4,Reggie Bullock,https://www.basketball-reference.com/boxscores/202302020DAL.html,11.78,0,0,,0,0,1,2,0,1,1,0,0,0,0,1,1,0.5,-12,,.500
+2023-02-02,202302020DAL,DAL,Q4,Josh Green,https://www.basketball-reference.com/boxscores/202302020DAL.html,12.0,3,5,.600,1,2,0,0,0,2,2,0,1,0,0,2,7,5.5,-14,.500,
+2023-02-02,202302020DAL,DAL,Q4,Jaden Hardy,https://www.basketball-reference.com/boxscores/202302020DAL.html,2.0,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,.000,

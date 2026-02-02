@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg_pct,fg3_pct
+2025-03-15,202503150DEN,WAS,Q1,Kyshawn George,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.13,0,0,0,0,3,4,.750,1,0,1,1,0,0,0,1,3,3.6,-13,,
+2025-03-15,202503150DEN,WAS,Q1,Justin Champagnie,https://www.basketball-reference.com/boxscores/202503150DEN.html,9.65,0,3,0,3,0,0,,0,3,3,0,1,0,0,0,0,-0.2,-7,.000,.000
+2025-03-15,202503150DEN,WAS,Q1,Alex Sarr,https://www.basketball-reference.com/boxscores/202503150DEN.html,7.78,5,6,1,2,0,0,,0,1,1,2,0,0,1,0,11,9.5,-6,.833,.500
+2025-03-15,202503150DEN,WAS,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.13,1,3,0,1,0,0,,0,0,0,2,0,0,1,0,2,0.7,-13,.333,.000
+2025-03-15,202503150DEN,WAS,Q1,Khris Middleton,https://www.basketball-reference.com/boxscores/202503150DEN.html,7.78,3,5,2,4,0,0,,0,0,0,3,0,0,0,0,8,7.8,-6,.600,.500
+2025-03-15,202503150DEN,WAS,Q1,Bub Carrington,https://www.basketball-reference.com/boxscores/202503150DEN.html,4.22,1,3,0,1,0,0,,0,1,1,0,0,0,1,1,2,-0.8,-8,.333,.000
+2025-03-15,202503150DEN,WAS,Q1,AJ Johnson,https://www.basketball-reference.com/boxscores/202503150DEN.html,1.87,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0.7,-1,,
+2025-03-15,202503150DEN,WAS,Q1,Richaun Holmes,https://www.basketball-reference.com/boxscores/202503150DEN.html,4.22,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-8,,
+2025-03-15,202503150DEN,WAS,Q1,Corey Kispert,https://www.basketball-reference.com/boxscores/202503150DEN.html,4.22,2,2,0,0,0,0,,0,0,0,0,0,0,0,0,4,3.4,-8,1.000,
+2025-03-15,202503150DEN,WAS,Q2,Kyshawn George,https://www.basketball-reference.com/boxscores/202503150DEN.html,5.82,2,2,1,1,0,0,,0,2,2,1,0,0,1,0,5,4.7,-2,1.000,1.000
+2025-03-15,202503150DEN,WAS,Q2,Justin Champagnie,https://www.basketball-reference.com/boxscores/202503150DEN.html,6.18,2,3,0,0,0,0,,0,3,3,0,0,0,0,0,4,3.6,+7,.667,
+2025-03-15,202503150DEN,WAS,Q2,Alex Sarr,https://www.basketball-reference.com/boxscores/202503150DEN.html,9.65,5,13,2,2,1,1,1.000,4,0,4,2,1,0,1,2,13,9.3,+3,.385,1.000
+2025-03-15,202503150DEN,WAS,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202503150DEN.html,5.82,0,1,0,1,0,0,,0,0,0,1,0,0,1,0,0,-1.0,-2,.000,.000
+2025-03-15,202503150DEN,WAS,Q2,Khris Middleton,https://www.basketball-reference.com/boxscores/202503150DEN.html,5.82,0,4,0,2,0,0,,1,1,2,0,1,0,0,1,0,-1.2,-2,.000,.000
+2025-03-15,202503150DEN,WAS,Q2,Bub Carrington,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.08,1,3,0,2,0,0,,0,1,1,3,0,0,0,0,2,2.7,+9,.333,.000
+2025-03-15,202503150DEN,WAS,Q2,AJ Johnson,https://www.basketball-reference.com/boxscores/202503150DEN.html,6.18,1,1,1,1,2,2,1.000,0,0,0,2,1,0,0,1,5,6.7,+7,1.000,1.000
+2025-03-15,202503150DEN,WAS,Q2,Richaun Holmes,https://www.basketball-reference.com/boxscores/202503150DEN.html,2.35,1,1,0,0,2,2,1.000,1,1,2,0,1,0,0,1,4,5.3,+2,1.000,
+2025-03-15,202503150DEN,WAS,Q2,Corey Kispert,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.1,0,2,0,2,0,0,,0,1,1,1,0,0,0,0,0,-0.4,+3,.000,.000
+2025-03-15,202503150DEN,WAS,Q3,Kyshawn George,https://www.basketball-reference.com/boxscores/202503150DEN.html,12.0,2,4,2,4,0,0,,0,2,2,1,2,0,0,2,6,6.5,+9,.500,.500
+2025-03-15,202503150DEN,WAS,Q3,Justin Champagnie,https://www.basketball-reference.com/boxscores/202503150DEN.html,11.28,3,3,1,1,0,0,,1,2,3,1,0,0,1,1,7,6.7,+10,1.000,1.000
+2025-03-15,202503150DEN,WAS,Q3,Alex Sarr,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.47,1,5,1,3,2,2,1.000,0,1,1,0,0,0,0,1,5,1.8,0,.200,.333
+2025-03-15,202503150DEN,WAS,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.47,1,1,0,0,1,2,.500,0,0,0,2,0,1,4,1,3,0.0,+1,1.000,
+2025-03-15,202503150DEN,WAS,Q3,Khris Middleton,https://www.basketball-reference.com/boxscores/202503150DEN.html,6.27,1,1,0,0,0,0,,0,2,2,1,0,0,0,1,2,2.6,+2,1.000,
+2025-03-15,202503150DEN,WAS,Q3,Bub Carrington,https://www.basketball-reference.com/boxscores/202503150DEN.html,5.73,2,2,1,1,0,0,,0,1,1,1,0,0,2,1,5,3.0,+6,1.000,1.000
+2025-03-15,202503150DEN,WAS,Q3,AJ Johnson,https://www.basketball-reference.com/boxscores/202503150DEN.html,3.53,2,2,0,0,0,0,,0,1,1,1,1,0,0,0,4,5.4,+9,1.000,
+2025-03-15,202503150DEN,WAS,Q3,Richaun Holmes,https://www.basketball-reference.com/boxscores/202503150DEN.html,3.53,0,0,0,0,0,0,,0,0,0,0,0,1,0,0,0,0.7,+9,,
+2025-03-15,202503150DEN,WAS,Q3,Corey Kispert,https://www.basketball-reference.com/boxscores/202503150DEN.html,0.72,0,1,0,0,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1,.000,
+2025-03-15,202503150DEN,WAS,Q4,Kyshawn George,https://www.basketball-reference.com/boxscores/202503150DEN.html,12.0,2,5,1,3,0,0,,0,2,2,2,1,1,1,1,5,4.6,+3,.400,.333
+2025-03-15,202503150DEN,WAS,Q4,Justin Champagnie,https://www.basketball-reference.com/boxscores/202503150DEN.html,12.0,1,1,1,1,2,2,1.000,2,2,4,1,1,0,0,0,5,8.4,+3,1.000,1.000
+2025-03-15,202503150DEN,WAS,Q4,Alex Sarr,https://www.basketball-reference.com/boxscores/202503150DEN.html,5.83,1,4,1,2,2,2,1.000,0,0,0,1,0,1,0,1,5,3.6,+11,.250,.500
+2025-03-15,202503150DEN,WAS,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202503150DEN.html,5.83,5,6,4,5,0,0,,0,0,0,1,1,0,0,0,14,13.5,+11,.833,.800
+2025-03-15,202503150DEN,WAS,Q4,Bub Carrington,https://www.basketball-reference.com/boxscores/202503150DEN.html,12.0,0,4,0,2,0,0,,0,1,1,3,0,0,1,0,0,-1.4,+3,.000,.000
+2025-03-15,202503150DEN,WAS,Q4,AJ Johnson,https://www.basketball-reference.com/boxscores/202503150DEN.html,6.17,0,1,0,1,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-8,.000,.000
+2025-03-15,202503150DEN,WAS,Q4,Richaun Holmes,https://www.basketball-reference.com/boxscores/202503150DEN.html,6.17,1,3,0,0,0,0,,3,1,4,0,0,0,0,1,2,2.3,-8,.333,
+2025-03-15,202503150DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202503150DEN.html,11.9,9,12,1,4,1,1,1.000,0,2,2,2,0,0,0,1,20,16.8,+16,.750,.250
+2025-03-15,202503150DEN,DEN,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202503150DEN.html,7.88,3,5,2,3,0,0,,0,2,2,2,0,0,0,0,8,7.7,+4,.600,.667
+2025-03-15,202503150DEN,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202503150DEN.html,9.65,2,3,1,1,2,2,1.000,0,2,2,1,0,1,0,1,7,7.3,+7,.667,1.000
+2025-03-15,202503150DEN,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.13,1,2,0,1,0,0,,1,2,3,5,1,0,0,0,2,6.8,+13,.500,.000
+2025-03-15,202503150DEN,DEN,Q1,Christian Braun,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.23,3,3,1,1,0,0,,1,1,2,2,2,0,1,0,7,9.5,+11,1.000,1.000
+2025-03-15,202503150DEN,DEN,Q1,Peyton Watson,https://www.basketball-reference.com/boxscores/202503150DEN.html,1.87,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0.7,+1,,
+2025-03-15,202503150DEN,DEN,Q1,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202503150DEN.html,4.12,0,1,0,1,0,0,,0,0,0,0,1,0,0,0,0,0.3,+10,.000,.000
+2025-03-15,202503150DEN,DEN,Q1,Jalen Pickett,https://www.basketball-reference.com/boxscores/202503150DEN.html,4.22,0,0,0,0,0,0,,0,1,1,3,0,0,0,1,0,2.0,+8,,
+2025-03-15,202503150DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202503150DEN.html,7.35,2,5,0,1,3,3,1.000,0,4,4,1,0,0,1,1,7,4.8,0,.400,.000
+2025-03-15,202503150DEN,DEN,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.57,1,2,1,1,0,0,,0,2,2,5,1,0,1,0,3,6.1,+2,.500,1.000
+2025-03-15,202503150DEN,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202503150DEN.html,9.43,2,6,1,2,0,0,,1,2,3,0,0,0,0,0,5,2.9,-5,.333,.500
+2025-03-15,202503150DEN,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.27,3,5,1,3,0,0,,1,0,1,0,0,0,2,1,7,3.0,-3,.600,.333
+2025-03-15,202503150DEN,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.57,1,1,0,0,0,0,,0,0,0,1,1,0,0,0,2,3.4,+2,1.000,
+2025-03-15,202503150DEN,DEN,Q2,Peyton Watson,https://www.basketball-reference.com/boxscores/202503150DEN.html,7.17,0,1,0,0,0,0,,0,2,2,1,0,2,0,2,0,1.2,-9,.000,
+2025-03-15,202503150DEN,DEN,Q2,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202503150DEN.html,4.65,2,2,0,0,0,1,.000,0,0,0,1,0,1,1,2,4,2.6,-5,1.000,
+2025-03-15,202503150DEN,DEN,Q2,Jalen Pickett,https://www.basketball-reference.com/boxscores/202503150DEN.html,3.43,0,1,0,0,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-7,.000,
+2025-03-15,202503150DEN,DEN,Q2,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202503150DEN.html,2.57,0,1,0,1,0,0,,0,0,0,0,0,0,1,1,0,-2.1,0,.000,.000
+2025-03-15,202503150DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202503150DEN.html,11.95,3,8,0,2,3,3,1.000,3,0,3,2,1,1,2,1,9,7.4,-6,.375,.000
+2025-03-15,202503150DEN,DEN,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.52,1,6,0,3,0,0,,0,0,0,0,0,0,1,0,2,-2.8,-3,.167,.000
+2025-03-15,202503150DEN,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.87,1,4,0,2,1,2,.500,1,3,4,0,1,0,0,1,3,2.4,-8,.250,.000
+2025-03-15,202503150DEN,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.22,3,6,1,3,2,2,1.000,1,0,1,1,1,0,1,1,9,7.0,-1,.500,.333
+2025-03-15,202503150DEN,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.27,0,0,0,0,0,0,,0,1,1,1,0,0,1,0,0,0.0,-4,,
+2025-03-15,202503150DEN,DEN,Q3,Peyton Watson,https://www.basketball-reference.com/boxscores/202503150DEN.html,3.53,0,0,0,0,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-9,,
+2025-03-15,202503150DEN,DEN,Q3,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202503150DEN.html,4.87,0,0,0,0,0,0,,0,0,0,0,0,0,1,2,0,-1.8,-6,,
+2025-03-15,202503150DEN,DEN,Q3,Jalen Pickett,https://www.basketball-reference.com/boxscores/202503150DEN.html,1.78,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8,,
+2025-03-15,202503150DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.03,2,5,0,1,0,0,,0,4,4,4,0,1,0,0,4,6.0,-4,.400,.000
+2025-03-15,202503150DEN,DEN,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/202503150DEN.html,12.0,4,6,1,1,0,0,,0,0,0,4,0,0,1,2,9,7.4,-3,.667,1.000
+2025-03-15,202503150DEN,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202503150DEN.html,8.92,2,3,1,1,0,0,,0,2,2,0,0,0,0,2,5,3.5,-7,.667,1.000
+2025-03-15,202503150DEN,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202503150DEN.html,7.93,2,3,1,1,1,1,1.000,0,1,1,1,2,0,0,0,6,7.7,+10,.667,1.000
+2025-03-15,202503150DEN,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202503150DEN.html,5.83,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-11,,
+2025-03-15,202503150DEN,DEN,Q4,Peyton Watson,https://www.basketball-reference.com/boxscores/202503150DEN.html,10.23,1,2,0,0,0,0,,1,0,1,1,1,0,1,0,2,2.4,-5,.500,
+2025-03-15,202503150DEN,DEN,Q4,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202503150DEN.html,7.05,0,2,0,1,2,2,1.000,0,1,1,1,0,2,0,0,2,3.0,+5,.000,.000

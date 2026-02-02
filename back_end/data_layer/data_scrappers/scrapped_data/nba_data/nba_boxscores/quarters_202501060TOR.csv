@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-01-06,202501060TOR,MIL,Q1,Brook Lopez,https://www.basketball-reference.com/boxscores/202501060TOR.html,8.33,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,1,0,0,-1.1,+1,
+2025-01-06,202501060TOR,MIL,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.87,2,4,.500,1,2,.500,0,0,0,1,1,0,2,1,1,1,5,4.6,+9,
+2025-01-06,202501060TOR,MIL,Q1,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501060TOR.html,11.25,2,4,.500,0,1,.000,0,0,1,4,5,4,0,0,2,0,4,4.7,+11,
+2025-01-06,202501060TOR,MIL,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.88,1,3,.333,1,2,.500,1,2,0,2,2,1,0,0,0,0,4,3.2,+3,.500
+2025-01-06,202501060TOR,MIL,Q1,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.58,1,2,.500,1,2,.500,0,0,1,0,1,1,0,1,0,0,3,4.1,+3,
+2025-01-06,202501060TOR,MIL,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501060TOR.html,2.13,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,0,
+2025-01-06,202501060TOR,MIL,Q1,Bobby Portis,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.42,2,3,.667,2,3,.667,0,0,0,1,1,1,0,0,0,0,6,5.7,+6,
+2025-01-06,202501060TOR,MIL,Q1,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.12,2,2,1.000,0,0,,0,0,0,2,2,1,0,0,1,0,4,3.7,+6,
+2025-01-06,202501060TOR,MIL,Q1,A.J. Green,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.42,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,+6,
+2025-01-06,202501060TOR,MIL,Q2,Brook Lopez,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.03,3,5,.600,3,5,.600,0,0,0,1,1,1,1,0,1,0,9,7.7,+5,
+2025-01-06,202501060TOR,MIL,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.02,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+6,
+2025-01-06,202501060TOR,MIL,Q2,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.1,1,1,1.000,0,0,,1,2,0,2,2,6,0,0,1,0,3,6.1,+12,.500
+2025-01-06,202501060TOR,MIL,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.95,1,4,.250,0,2,.000,4,4,0,0,0,2,0,0,0,0,6,5.0,+9,1.000
+2025-01-06,202501060TOR,MIL,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501060TOR.html,11.52,3,5,.600,2,3,.667,2,2,0,0,0,0,2,0,0,2,10,8.9,+11,1.000
+2025-01-06,202501060TOR,MIL,Q2,Bobby Portis,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.87,3,5,.600,1,1,1.000,0,0,1,3,4,0,0,0,0,1,7,5.9,+3,
+2025-01-06,202501060TOR,MIL,Q2,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501060TOR.html,2.05,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,
+2025-01-06,202501060TOR,MIL,Q2,A.J. Green,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.47,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,3,3,2.2,+3,
+2025-01-06,202501060TOR,MIL,Q3,Brook Lopez,https://www.basketball-reference.com/boxscores/202501060TOR.html,8.82,1,2,.500,0,1,.000,0,0,0,1,1,2,0,0,2,1,2,0.3,+11,
+2025-01-06,202501060TOR,MIL,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202501060TOR.html,10.82,1,2,.500,1,2,.500,0,0,0,1,1,2,0,0,0,0,3,3.7,+10,
+2025-01-06,202501060TOR,MIL,Q3,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501060TOR.html,10.43,2,3,.667,0,0,,0,0,0,5,5,3,0,0,4,1,4,1.9,+4,
+2025-01-06,202501060TOR,MIL,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.88,5,5,1.000,4,4,1.000,1,1,0,3,3,0,0,0,1,0,15,13.4,+8,1.000
+2025-01-06,202501060TOR,MIL,Q3,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202501060TOR.html,8.37,1,1,1.000,0,0,,0,0,2,1,3,2,0,2,2,1,2,3.8,+6,
+2025-01-06,202501060TOR,MIL,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501060TOR.html,3.63,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,2.3,-1,
+2025-01-06,202501060TOR,MIL,Q3,Bobby Portis,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.75,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,0,2,2.4,-5,
+2025-01-06,202501060TOR,MIL,Q3,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.12,0,1,.000,0,1,.000,2,2,0,0,0,0,0,0,0,1,2,0.9,-3,1.000
+2025-01-06,202501060TOR,MIL,Q3,A.J. Green,https://www.basketball-reference.com/boxscores/202501060TOR.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-5,
+2025-01-06,202501060TOR,MIL,Q4,Brook Lopez,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.4,2,2,1.000,1,1,1.000,0,0,0,0,0,1,0,2,0,0,5,6.5,+5,
+2025-01-06,202501060TOR,MIL,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.4,0,1,.000,0,1,.000,0,0,0,0,0,1,1,0,1,0,0,0.0,+5,
+2025-01-06,202501060TOR,MIL,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.65,2,3,.667,0,1,.000,0,0,0,3,3,1,1,0,0,0,4,5.3,+4,
+2025-01-06,202501060TOR,MIL,Q4,Bobby Portis,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.73,2,3,.667,1,2,.500,0,0,0,2,2,1,0,0,1,1,5,3.6,+5,
+2025-01-06,202501060TOR,MIL,Q4,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501060TOR.html,8.07,2,4,.500,0,1,.000,0,0,0,2,2,2,0,0,0,0,4,4.0,+5,
+2025-01-06,202501060TOR,MIL,Q4,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.6,1,3,.333,0,2,.000,0,0,0,0,0,0,0,1,1,1,2,-0.4,-5,
+2025-01-06,202501060TOR,MIL,Q4,Pat Connaughton,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.6,1,2,.500,0,0,,0,0,0,1,1,1,0,0,0,1,2,1.6,-5,
+2025-01-06,202501060TOR,MIL,Q4,Liam Robbins,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.27,0,2,.000,0,0,,1,2,1,1,2,1,0,0,1,0,1,-0.1,-5,.500
+2025-01-06,202501060TOR,MIL,Q4,Stanley Umude,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.35,1,1,1.000,1,1,1.000,0,0,1,1,2,0,0,0,0,1,3,3.3,-4,
+2025-01-06,202501060TOR,MIL,Q4,Delon Wright,https://www.basketball-reference.com/boxscores/202501060TOR.html,3.93,1,2,.500,1,2,.500,0,0,0,0,0,0,0,1,0,1,3,2.3,-5,
+2025-01-06,202501060TOR,TOR,Q1,RJ Barrett,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.43,2,5,.400,0,1,.000,0,2,0,2,2,1,0,0,0,0,4,1.8,+1,.000
+2025-01-06,202501060TOR,TOR,Q1,Scottie Barnes,https://www.basketball-reference.com/boxscores/202501060TOR.html,8.33,2,6,.333,0,3,.000,0,0,0,0,0,1,1,1,0,0,4,3.0,-1,
+2025-01-06,202501060TOR,TOR,Q1,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.87,2,3,.667,0,0,,0,0,0,3,3,1,0,0,1,1,4,2.9,-9,
+2025-01-06,202501060TOR,TOR,Q1,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.58,2,4,.500,1,2,.500,0,0,0,1,1,0,1,0,0,0,5,4.3,-3,
+2025-01-06,202501060TOR,TOR,Q1,Gradey Dick,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.87,0,2,.000,0,2,.000,0,0,1,0,1,1,0,0,1,1,0,-1.4,-9,
+2025-01-06,202501060TOR,TOR,Q1,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.95,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,-12,
+2025-01-06,202501060TOR,TOR,Q1,Jamal Shead,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.42,0,1,.000,0,0,,0,0,0,0,0,2,1,0,1,0,0,0.7,-6,
+2025-01-06,202501060TOR,TOR,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.42,0,0,,0,0,,0,0,0,0,0,0,1,0,1,1,0,-0.4,-6,
+2025-01-06,202501060TOR,TOR,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202501060TOR.html,2.13,0,0,,0,0,,0,0,0,0,0,1,1,0,0,0,0,1.7,0,
+2025-01-06,202501060TOR,TOR,Q2,RJ Barrett,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.73,4,4,1.000,0,0,,1,2,0,3,3,0,1,0,0,0,9,9.3,-8,.500
+2025-01-06,202501060TOR,TOR,Q2,Scottie Barnes,https://www.basketball-reference.com/boxscores/202501060TOR.html,10.48,4,6,.667,0,0,,1,2,1,0,1,2,0,0,3,1,9,4.7,-10,.500
+2025-01-06,202501060TOR,TOR,Q2,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.77,2,3,.667,0,0,,0,1,0,2,2,0,1,1,0,0,4,4.6,-10,.000
+2025-01-06,202501060TOR,TOR,Q2,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.73,1,2,.500,0,1,.000,4,4,0,0,0,2,0,0,2,1,6,4.0,-8,1.000
+2025-01-06,202501060TOR,TOR,Q2,Gradey Dick,https://www.basketball-reference.com/boxscores/202501060TOR.html,3.57,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,
+2025-01-06,202501060TOR,TOR,Q2,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.75,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-7,
+2025-01-06,202501060TOR,TOR,Q2,Jamal Shead,https://www.basketball-reference.com/boxscores/202501060TOR.html,2.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2025-01-06,202501060TOR,TOR,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202501060TOR.html,3.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2025-01-06,202501060TOR,TOR,Q2,Ja'Kobe Walter,https://www.basketball-reference.com/boxscores/202501060TOR.html,2.43,0,0,,0,0,,0,0,0,1,1,1,0,0,1,0,0,0.0,-4,
+2025-01-06,202501060TOR,TOR,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.23,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-1.5,0,
+2025-01-06,202501060TOR,TOR,Q3,RJ Barrett,https://www.basketball-reference.com/boxscores/202501060TOR.html,9.78,4,7,.571,1,3,.333,0,0,3,1,4,3,0,0,0,0,9,10.2,-7,
+2025-01-06,202501060TOR,TOR,Q3,Scottie Barnes,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.88,2,3,.667,0,1,.000,0,0,0,0,0,0,1,0,1,1,4,2.3,-8,
+2025-01-06,202501060TOR,TOR,Q3,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202501060TOR.html,8.37,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-6,
+2025-01-06,202501060TOR,TOR,Q3,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.25,0,2,.000,0,1,.000,0,0,0,0,0,0,1,0,0,1,0,-0.8,-10,
+2025-01-06,202501060TOR,TOR,Q3,Gradey Dick,https://www.basketball-reference.com/boxscores/202501060TOR.html,7.25,1,5,.200,1,4,.250,0,0,0,0,0,1,0,0,0,0,3,0.6,-10,
+2025-01-06,202501060TOR,TOR,Q3,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.75,0,2,.000,0,2,.000,0,0,0,0,0,0,1,0,0,0,0,-0.4,+5,
+2025-01-06,202501060TOR,TOR,Q3,Jamal Shead,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.75,1,3,.333,0,2,.000,1,2,0,0,0,1,1,0,0,1,3,2.2,+5,.500
+2025-01-06,202501060TOR,TOR,Q3,Bruce Brown,https://www.basketball-reference.com/boxscores/202501060TOR.html,4.12,1,2,.500,0,1,.000,1,1,1,1,2,0,0,0,0,0,3,3.0,+3,1.000
+2025-01-06,202501060TOR,TOR,Q3,Ja'Kobe Walter,https://www.basketball-reference.com/boxscores/202501060TOR.html,2.22,1,1,1.000,1,1,1.000,0,0,1,0,1,0,0,0,0,0,3,3.4,+2,
+2025-01-06,202501060TOR,TOR,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202501060TOR.html,3.63,1,2,.500,0,1,.000,1,2,0,0,0,1,0,0,0,0,3,2.3,+1,.500
+2025-01-06,202501060TOR,TOR,Q4,RJ Barrett,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.4,1,2,.500,1,1,1.000,0,0,0,0,0,1,0,0,1,0,3,1.7,-5,
+2025-01-06,202501060TOR,TOR,Q4,Scottie Barnes,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.4,2,3,.667,0,0,,0,0,0,1,1,2,0,0,1,0,4,3.4,-5,
+2025-01-06,202501060TOR,TOR,Q4,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.4,2,2,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,4,4.0,-5,
+2025-01-06,202501060TOR,TOR,Q4,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.4,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-5,
+2025-01-06,202501060TOR,TOR,Q4,Gradey Dick,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.6,2,5,.400,2,3,.667,2,2,0,2,2,1,0,1,0,0,8,7.3,+5,1.000
+2025-01-06,202501060TOR,TOR,Q4,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.6,0,1,.000,0,1,.000,0,0,1,2,3,1,0,1,0,0,0,2.0,+5,
+2025-01-06,202501060TOR,TOR,Q4,Jamal Shead,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.6,0,2,.000,0,0,,0,0,1,1,2,3,0,0,0,1,0,1.3,+5,
+2025-01-06,202501060TOR,TOR,Q4,Bruce Brown,https://www.basketball-reference.com/boxscores/202501060TOR.html,5.4,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,-5,
+2025-01-06,202501060TOR,TOR,Q4,Ja'Kobe Walter,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.6,2,4,.500,1,2,.500,0,1,0,0,0,0,0,0,2,0,5,0.6,+5,.000
+2025-01-06,202501060TOR,TOR,Q4,Jonathan Mogbo,https://www.basketball-reference.com/boxscores/202501060TOR.html,6.6,1,1,1.000,1,1,1.000,2,2,1,0,1,0,0,0,0,2,5,4.6,+5,1.000

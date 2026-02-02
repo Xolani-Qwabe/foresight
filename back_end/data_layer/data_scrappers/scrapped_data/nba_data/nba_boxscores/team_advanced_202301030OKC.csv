@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-03,202301030OKC,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301030OKC.html,30:21,.672,.588,.412,.412,3.4,22.0,11.6,12.3,0.0,0.0,16.6,32.1,114,142,-2.6
+2023-01-03,202301030OKC,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202301030OKC.html,25:34,.509,.500,.333,.333,4.1,15.6,9.2,43.7,0.0,3.2,30.4,15.6,103,141,-6.1
+2023-01-03,202301030OKC,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202301030OKC.html,25:18,.660,.667,.389,.500,0.0,5.3,2.3,19.8,0.0,0.0,4.4,36.7,124,144,2.2
+2023-01-03,202301030OKC,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202301030OKC.html,22:07,.333,.333,.333,.000,0.0,12.1,5.3,5.7,0.0,0.0,0.0,5.5,86,144,-10.4
+2023-01-03,202301030OKC,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202301030OKC.html,21:43,.429,.313,.750,.375,4.8,18.4,10.8,37.3,0.0,7.6,17.7,21.1,101,137,-3.3
+2023-01-03,202301030OKC,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301030OKC.html,25:45,.548,.375,.250,.667,12.2,31.1,20.5,17.2,3.5,3.2,0.0,24.4,134,131,5.0
+2023-01-03,202301030OKC,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202301030OKC.html,23:02,.500,.500,1.000,.000,4.5,17.4,10.2,0.0,1.9,0.0,33.3,15.8,66,139,-10.9
+2023-01-03,202301030OKC,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202301030OKC.html,16:13,.000,.000,1.000,.000,12.9,16.4,14.4,14.8,0.0,0.0,75.0,10.0,53,143,-14.3
+2023-01-03,202301030OKC,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202301030OKC.html,14:46,.654,.654,.308,.000,0.0,0.0,0.0,0.0,0.0,0.0,7.1,38.4,110,146,0.5
+2023-01-03,202301030OKC,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202301030OKC.html,12:00,.000,.000,1.000,.000,0.0,22.2,9.8,20.0,3.7,6.9,0.0,3.4,92,129,-0.1
+2023-01-03,202301030OKC,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202301030OKC.html,11:07,,,,,0.0,0.0,0.0,10.8,0.0,7.4,,0.0,230,140,-4.0
+2023-01-03,202301030OKC,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202301030OKC.html,6:02,.515,.500,.667,.667,17.3,0.0,9.7,24.8,0.0,13.7,0.0,26.0,126,136,9.5
+2023-01-03,202301030OKC,BOS,Noah Vonleh,https://www.basketball-reference.com/boxscores/202301030OKC.html,6:02,,,,,17.3,0.0,9.7,19.9,0.0,0.0,,0.0,227,144,-2.9
+2023-01-03,202301030OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202301030OKC.html,33:13,.543,.556,.222,.167,0.0,9.4,5.3,19.9,5.4,0.0,0.0,23.1,129,106,2.1
+2023-01-03,202301030OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202301030OKC.html,32:23,1.007,1.000,.250,.125,8.2,12.9,10.8,9.3,0.0,0.0,19.2,12.8,166,117,5.0
+2023-01-03,202301030OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202301030OKC.html,28:20,.669,.633,.400,.333,14.1,7.4,10.3,11.4,3.2,0.0,14.9,28.4,128,111,2.8
+2023-01-03,202301030OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202301030OKC.html,24:24,.787,.767,.333,.133,0.0,21.4,12.0,25.7,3.7,0.0,0.0,25.9,169,106,16.7
+2023-01-03,202301030OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202301030OKC.html,23:44,.727,.667,.500,.333,11.2,13.2,12.3,11.7,1.9,0.0,12.7,13.2,152,113,2.6
+2023-01-03,202301030OKC,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202301030OKC.html,32:16,.918,.955,.727,.091,0.0,19.4,10.9,9.7,4.2,6.2,20.8,17.8,138,102,11.7
+2023-01-03,202301030OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202301030OKC.html,27:49,.711,.731,.538,.308,4.8,11.3,8.4,15.6,0.0,0.0,6.3,22.5,145,118,2.7
+2023-01-03,202301030OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202301030OKC.html,16:06,.667,.667,.500,.000,8.3,38.9,25.5,18.2,5.6,0.0,14.3,17.3,137,97,7.9
+2023-01-03,202301030OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202301030OKC.html,13:02,.000,.000,.667,.000,0.0,16.0,9.0,0.0,0.0,7.7,25.0,12.2,0,111,-23.3
+2023-01-03,202301030OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202301030OKC.html,8:40,.420,.333,.000,1.333,0.0,12.0,6.8,10.6,0.0,0.0,17.4,26.4,85,117,-15.6

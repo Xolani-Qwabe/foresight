@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-03,202403030ORL,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202403030ORL.html,33:04,.340,.250,.600,.400,3.2,24.2,11.5,4.8,4.5,3.0,14.5,18.7,65,109,-7.0
+2024-03-03,202403030ORL,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202403030ORL.html,27:04,.635,.643,.429,.286,3.9,17.7,9.3,13.7,0.0,3.6,20.2,16.4,100,119,-2.6
+2024-03-03,202403030ORL,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202403030ORL.html,24:34,.533,.444,.000,.333,4.2,19.5,10.3,15.5,2.0,0.0,22.5,24.4,87,117,-6.5
+2024-03-03,202403030ORL,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202403030ORL.html,24:33,.392,.273,.455,.364,4.3,0.0,2.6,0.0,0.0,0.0,0.0,23.4,84,124,-12.4
+2024-03-03,202403030ORL,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202403030ORL.html,22:55,.375,.375,.333,.000,0.0,14.0,5.5,59.5,2.2,0.0,7.7,25.5,85,118,-1.7
+2024-03-03,202403030ORL,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202403030ORL.html,32:39,.663,.600,.500,.300,0.0,19.6,7.7,22.9,3.0,0.0,8.1,17.0,123,115,4.6
+2024-03-03,202403030ORL,DET,Evan Fournier,https://www.basketball-reference.com/boxscores/202403030ORL.html,26:07,.612,.577,.615,.154,4.0,0.0,2.4,41.8,1.9,0.0,0.0,23.9,126,120,9.4
+2024-03-03,202403030ORL,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202403030ORL.html,25:05,.178,.125,.625,.125,0.0,19.1,7.6,24.6,3.9,0.0,19.2,18.7,46,113,-11.1
+2024-03-03,202403030ORL,DET,James Wiseman,https://www.basketball-reference.com/boxscores/202403030ORL.html,15:26,.735,.800,.000,.200,0.0,31.1,12.3,0.0,3.2,0.0,15.5,18.8,102,113,-1.2
+2024-03-03,202403030ORL,DET,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202403030ORL.html,8:32,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.3,0,124,-13.5
+2024-03-03,202403030ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202403030ORL.html,32:04,.726,.656,.250,.563,10.0,19.5,15.8,26.7,0.0,0.0,16.7,34.8,132,98,5.9
+2024-03-03,202403030ORL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202403030ORL.html,31:10,.942,.857,.429,1.000,10.3,20.1,16.2,13.1,1.6,6.2,0.0,15.1,200,90,16.8
+2024-03-03,202403030ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202403030ORL.html,29:45,.688,.688,.375,.000,0.0,17.5,10.6,13.9,1.7,3.2,27.3,17.2,104,92,-1.1
+2024-03-03,202403030ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202403030ORL.html,29:20,.800,.800,.800,.000,0.0,7.1,4.3,17.2,3.4,0.0,0.0,7.9,173,93,8.5
+2024-03-03,202403030ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202403030ORL.html,28:49,.533,.500,.100,.500,0.0,29.0,17.5,4.8,0.0,6.7,19.7,24.6,89,91,-7.0
+2024-03-03,202403030ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202403030ORL.html,16:23,1.000,1.000,.000,.000,9.8,12.7,11.6,15.0,0.0,5.9,20.0,28.4,144,95,13.0
+2024-03-03,202403030ORL,ORL,Joe Ingles,https://www.basketball-reference.com/boxscores/202403030ORL.html,15:58,.250,.250,.500,.000,0.0,0.0,0.0,15.0,3.1,0.0,42.9,20.4,46,95,-14.9
+2024-03-03,202403030ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202403030ORL.html,14:05,.250,.250,.500,.000,0.0,44.5,26.9,8.6,0.0,0.0,33.3,19.9,45,94,-18.3
+2024-03-03,202403030ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202403030ORL.html,13:37,.600,.600,.400,.000,11.8,15.3,13.9,21.7,3.6,0.0,16.7,20.5,118,91,3.2
+2024-03-03,202403030ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202403030ORL.html,12:43,.500,.500,.000,.000,0.0,16.4,9.9,9.6,0.0,0.0,33.3,11.0,80,99,-4.0
+2024-03-03,202403030ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202403030ORL.html,3:13,.568,,,,0.0,0.0,0.0,34.7,15.3,0.0,36.2,40.0,90,68,11.0
+2024-03-03,202403030ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202403030ORL.html,3:13,.750,.750,.500,.000,0.0,32.4,19.6,0.0,0.0,0.0,0.0,29.0,139,96,11.7
+2024-03-03,202403030ORL,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202403030ORL.html,3:13,,,,,0.0,32.4,19.6,0.0,0.0,0.0,,0.0,0,96,-1.5
+2024-03-03,202403030ORL,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202403030ORL.html,3:13,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.5,0,102,-19.4
+2024-03-03,202403030ORL,ORL,Admiral Schofield,https://www.basketball-reference.com/boxscores/202403030ORL.html,3:13,,,,,49.7,0.0,19.6,0.0,0.0,0.0,,0.0,215,102,1.2

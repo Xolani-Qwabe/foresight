@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-03-26,202303260ORL,BRK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202303260ORL.html,12.0,7,11,.636,3,5,.600,2,2,1.000,1,3,4,0,0,1,0,0,19,16.4,+1
+2023-03-26,202303260ORL,BRK,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202303260ORL.html,11.25,0,4,.000,0,3,.000,0,0,,0,2,2,3,0,0,2,1,0,-2.5,+1
+2023-03-26,202303260ORL,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/202303260ORL.html,9.08,0,1,.000,0,0,,0,0,,0,2,2,0,1,0,0,0,0,0.9,+3
+2023-03-26,202303260ORL,BRK,Q1,Cameron Johnson,https://www.basketball-reference.com/boxscores/202303260ORL.html,6.63,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+2
+2023-03-26,202303260ORL,BRK,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202303260ORL.html,10.18,0,1,.000,0,1,.000,0,0,,1,3,4,0,0,1,2,2,0,-1.2,+1
+2023-03-26,202303260ORL,BRK,Q1,Cam Thomas,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.37,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,1,0,2,0.3,-1
+2023-03-26,202303260ORL,BRK,Q1,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.92,0,0,,0,0,,2,2,1.000,0,1,1,0,0,1,0,1,2,2.6,-2
+2023-03-26,202303260ORL,BRK,Q1,Joe Harris,https://www.basketball-reference.com/boxscores/202303260ORL.html,0.75,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-03-26,202303260ORL,BRK,Q1,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202303260ORL.html,1.82,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0
+2023-03-26,202303260ORL,BRK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.17,1,1,1.000,0,0,,1,1,1.000,0,0,0,1,0,0,1,0,3,2.4,-6
+2023-03-26,202303260ORL,BRK,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202303260ORL.html,4.03,0,3,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,-0.1,-1
+2023-03-26,202303260ORL,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/202303260ORL.html,4.55,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+2023-03-26,202303260ORL,BRK,Q2,Cameron Johnson,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.0,2,4,.500,1,2,.500,0,0,,2,0,2,0,0,0,2,2,5,1.6,-9
+2023-03-26,202303260ORL,BRK,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202303260ORL.html,6.05,0,3,.000,0,2,.000,0,0,,1,0,1,1,1,0,0,0,0,0.3,-8
+2023-03-26,202303260ORL,BRK,Q2,Cam Thomas,https://www.basketball-reference.com/boxscores/202303260ORL.html,6.83,3,7,.429,0,1,.000,0,0,,0,0,0,0,0,0,0,0,6,2.3,-4
+2023-03-26,202303260ORL,BRK,Q2,Patty Mills,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.27,2,4,.500,0,1,.000,0,0,,0,0,0,2,0,0,0,2,4,2.6,-10
+2023-03-26,202303260ORL,BRK,Q2,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.45,2,3,.667,0,0,,0,0,,4,0,4,0,0,0,0,1,4,5.1,-7
+2023-03-26,202303260ORL,BRK,Q2,Joe Harris,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.7,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0
+2023-03-26,202303260ORL,BRK,Q2,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.95,1,1,1.000,0,0,,0,0,,0,2,2,0,1,0,0,1,2,2.9,-2
+2023-03-26,202303260ORL,BRK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202303260ORL.html,12.0,3,8,.375,2,3,.667,4,4,1.000,0,1,1,0,1,0,1,0,12,7.9,-9
+2023-03-26,202303260ORL,BRK,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.67,0,3,.000,0,1,.000,0,0,,0,1,1,2,0,0,0,1,0,-0.8,-7
+2023-03-26,202303260ORL,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.12,2,2,1.000,0,0,,0,1,.000,2,2,4,0,0,3,2,0,4,5.1,-6
+2023-03-26,202303260ORL,BRK,Q3,Cameron Johnson,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.53,0,4,.000,0,3,.000,0,0,,0,0,0,1,0,0,0,1,0,-2.5,-7
+2023-03-26,202303260ORL,BRK,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202303260ORL.html,9.83,1,3,.333,0,1,.000,0,0,,2,0,2,0,0,0,0,0,2,1.7,-6
+2023-03-26,202303260ORL,BRK,Q3,Cam Thomas,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.33,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,0,0,0.0,-2
+2023-03-26,202303260ORL,BRK,Q3,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202303260ORL.html,4.88,1,1,1.000,0,0,,0,0,,1,0,1,0,1,0,1,2,2,1.6,-3
+2023-03-26,202303260ORL,BRK,Q3,Joe Harris,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.63,1,3,.333,1,3,.333,0,0,,0,1,1,1,0,0,0,0,3,2.3,-5
+2023-03-26,202303260ORL,BRK,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.25,2,2,1.000,1,1,1.000,5,5,1.000,0,1,1,0,0,0,0,1,10,9.3,+3
+2023-03-26,202303260ORL,BRK,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.18,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,1,0,-0.1,+5
+2023-03-26,202303260ORL,BRK,Q4,Nic Claxton,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.42,2,3,.667,0,0,,1,2,.500,0,3,3,2,0,1,0,1,5,5.9,+2
+2023-03-26,202303260ORL,BRK,Q4,Cameron Johnson,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.93,1,1,1.000,0,0,,1,1,1.000,0,0,0,0,0,1,0,0,3,3.4,0
+2023-03-26,202303260ORL,BRK,Q4,Cam Thomas,https://www.basketball-reference.com/boxscores/202303260ORL.html,12.0,3,7,.429,0,3,.000,4,4,1.000,0,0,0,1,0,0,1,2,10,5.2,+5
+2023-03-26,202303260ORL,BRK,Q4,Patty Mills,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.12,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+5
+2023-03-26,202303260ORL,BRK,Q4,Joe Harris,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.93,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,0
+2023-03-26,202303260ORL,BRK,Q4,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202303260ORL.html,4.58,0,1,.000,0,0,,0,2,.000,1,2,3,0,0,0,0,0,0,-0.2,+3
+2023-03-26,202303260ORL,BRK,Q4,Moses Brown,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.88,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,0,0,0.0,0
+2023-03-26,202303260ORL,BRK,Q4,Dru Smith,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.88,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-0.4,0
+2023-03-26,202303260ORL,BRK,Q4,David Duke Jr.,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.82,1,2,.500,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,4,3.0,+2
+2023-03-26,202303260ORL,ORL,Q1,Franz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.68,1,2,.500,0,1,.000,0,0,,0,2,2,0,0,0,0,0,2,1.6,-1
+2023-03-26,202303260ORL,ORL,Q1,Paolo Banchero,https://www.basketball-reference.com/boxscores/202303260ORL.html,9.95,1,6,.167,0,0,,1,2,.500,0,2,2,0,0,0,0,0,3,-0.6,-2
+2023-03-26,202303260ORL,ORL,Q1,Markelle Fultz,https://www.basketball-reference.com/boxscores/202303260ORL.html,9.95,1,5,.200,0,1,.000,0,0,,1,3,4,5,1,0,1,0,2,4.0,-2
+2023-03-26,202303260ORL,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202303260ORL.html,9.08,2,3,.667,0,1,.000,0,0,,0,2,2,1,0,0,0,0,4,4.0,-3
+2023-03-26,202303260ORL,ORL,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202303260ORL.html,9.08,3,4,.750,1,2,.500,0,0,,0,0,0,1,1,0,0,2,7,6.3,-3
+2023-03-26,202303260ORL,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.37,0,3,.000,0,0,,0,0,,1,0,1,1,0,0,0,1,0,-1.1,+1
+2023-03-26,202303260ORL,ORL,Q1,Jalen Suggs,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.92,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+2
+2023-03-26,202303260ORL,ORL,Q1,Caleb Houstan,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2023-03-26,202303260ORL,ORL,Q1,Moritz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.92,1,1,1.000,0,0,,1,2,.500,0,0,0,0,0,0,0,1,3,1.9,+2
+2023-03-26,202303260ORL,ORL,Q2,Franz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.97,2,2,1.000,0,0,,2,3,.667,0,3,3,3,1,0,1,1,6,7.6,+9
+2023-03-26,202303260ORL,ORL,Q2,Paolo Banchero,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.1,1,1,1.000,0,0,,0,0,,0,2,2,2,0,0,1,0,2,2.7,+10
+2023-03-26,202303260ORL,ORL,Q2,Markelle Fultz,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.1,1,1,1.000,0,0,,0,0,,0,0,0,1,1,0,0,0,2,3.4,+10
+2023-03-26,202303260ORL,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.3,2,2,1.000,1,1,1.000,3,4,.750,0,1,1,1,0,0,0,0,8,8.0,+10
+2023-03-26,202303260ORL,ORL,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202303260ORL.html,0.58,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0
+2023-03-26,202303260ORL,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.93,2,2,1.000,1,1,1.000,2,2,1.000,0,2,2,0,0,0,0,1,7,6.6,+1
+2023-03-26,202303260ORL,ORL,Q2,Jalen Suggs,https://www.basketball-reference.com/boxscores/202303260ORL.html,11.42,3,4,.750,1,1,1.000,2,2,1.000,0,0,0,0,0,1,0,2,9,7.3,+10
+2023-03-26,202303260ORL,ORL,Q2,Caleb Houstan,https://www.basketball-reference.com/boxscores/202303260ORL.html,4.9,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,1,0,0,0,0.0,0
+2023-03-26,202303260ORL,ORL,Q2,Moritz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.7,1,2,.500,0,1,.000,0,0,,0,0,0,0,1,0,1,0,2,1.0,0
+2023-03-26,202303260ORL,ORL,Q3,Franz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.72,0,1,.000,0,0,,0,0,,0,2,2,2,1,0,2,0,0,0.3,+8
+2023-03-26,202303260ORL,ORL,Q3,Paolo Banchero,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.67,2,5,.400,1,1,1.000,1,2,.500,1,3,4,2,0,0,1,0,6,4.9,+7
+2023-03-26,202303260ORL,ORL,Q3,Markelle Fultz,https://www.basketball-reference.com/boxscores/202303260ORL.html,11.4,3,7,.429,0,2,.000,0,0,,1,1,2,3,0,0,0,0,6,5.4,+7
+2023-03-26,202303260ORL,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.0,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7,-2
+2023-03-26,202303260ORL,ORL,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.67,1,1,1.000,1,1,1.000,0,0,,0,0,0,2,0,0,0,1,3,3.7,+7
+2023-03-26,202303260ORL,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202303260ORL.html,4.88,3,4,.750,0,1,.000,0,0,,0,1,1,0,0,0,0,0,6,4.7,+3
+2023-03-26,202303260ORL,ORL,Q3,Jalen Suggs,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.33,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,0,2,2.7,+2
+2023-03-26,202303260ORL,ORL,Q3,Caleb Houstan,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.33,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2023-03-26,202303260ORL,ORL,Q3,Moritz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,7.0,1,1,1.000,0,0,,3,3,1.000,0,3,3,0,0,0,0,1,5,5.2,+11
+2023-03-26,202303260ORL,ORL,Q4,Franz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,8.12,3,6,.500,0,1,.000,5,6,.833,1,2,3,1,0,0,0,4,11,8.0,-5
+2023-03-26,202303260ORL,ORL,Q4,Paolo Banchero,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.47,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-0.4,-4
+2023-03-26,202303260ORL,ORL,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.9,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,0,0,0,2,2.0,-1
+2023-03-26,202303260ORL,ORL,Q4,Cole Anthony,https://www.basketball-reference.com/boxscores/202303260ORL.html,12.0,3,4,.750,0,0,,2,2,1.000,0,2,2,2,0,0,0,3,8,7.2,-5
+2023-03-26,202303260ORL,ORL,Q4,Jalen Suggs,https://www.basketball-reference.com/boxscores/202303260ORL.html,5.87,1,3,.333,0,0,,0,0,,0,1,1,1,0,0,0,0,2,1.3,+1
+2023-03-26,202303260ORL,ORL,Q4,Caleb Houstan,https://www.basketball-reference.com/boxscores/202303260ORL.html,12.0,0,3,.000,0,3,.000,0,0,,1,1,2,0,0,0,1,0,0,-2.1,-5
+2023-03-26,202303260ORL,ORL,Q4,Moritz Wagner,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.97,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.7,+2
+2023-03-26,202303260ORL,ORL,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/202303260ORL.html,6.13,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,2,1,2,-0.7,-6
+2023-03-26,202303260ORL,ORL,Q4,Chuma Okeke,https://www.basketball-reference.com/boxscores/202303260ORL.html,3.88,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3,0
+2023-03-26,202303260ORL,ORL,Q4,Admiral Schofield,https://www.basketball-reference.com/boxscores/202303260ORL.html,2.67,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,1,0,-0.7,-2

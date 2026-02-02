@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/201911020ORL.html
+Scraped: 2025-12-14 12:48:15
+
+line_scores: 2 rows (nba_boxscores/line_scores_201911020ORL.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_201911020ORL.csv)
+team_basic: 21 rows (nba_boxscores/team_basic_201911020ORL.csv)
+team_advanced: 21 rows (nba_boxscores/team_advanced_201911020ORL.csv)
+quarters: 80 rows (nba_boxscores/quarters_201911020ORL.csv)

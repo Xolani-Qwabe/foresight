@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-02,202312020DET,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202312020DET.html,37:42,.688,.688,.625,.000,0.0,14.1,6.9,19.6,1.3,0.0,5.9,20.1,132,105,5.6
+2023-12-02,202312020DET,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202312020DET.html,36:09,.475,.400,.000,.600,2.8,29.5,15.9,3.2,0.0,0.0,24.0,10.2,84,104,-9.0
+2023-12-02,202312020DET,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202312020DET.html,34:15,.452,.435,.304,.130,0.0,6.2,3.0,22.3,4.3,2.6,7.6,34.2,92,99,0.6
+2023-12-02,202312020DET,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202312020DET.html,34:14,.848,.889,.000,.556,14.9,18.7,16.8,12.8,1.4,0.0,15.2,17.1,153,104,6.5
+2023-12-02,202312020DET,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202312020DET.html,32:54,.472,.421,.263,.263,3.1,6.5,4.8,17.3,3.0,0.0,15.9,34.1,88,104,-4.6
+2023-12-02,202312020DET,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202312020DET.html,33:01,.643,.643,.429,.000,0.0,19.4,9.5,15.2,5.9,0.0,0.0,9.4,141,94,6.9
+2023-12-02,202312020DET,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202312020DET.html,22:28,.676,.688,.500,.250,0.0,14.2,7.0,12.8,0.0,0.0,0.0,17.6,138,108,3.3
+2023-12-02,202312020DET,CLE,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202312020DET.html,4:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,110,-14.0
+2023-12-02,202312020DET,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202312020DET.html,2:31,.000,.000,1.000,.000,0.0,0.0,0.0,43.3,0.0,0.0,0.0,17.7,54,109,-17.2
+2023-12-02,202312020DET,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/202312020DET.html,2:31,.000,.000,.000,.000,40.6,42.4,41.5,0.0,0.0,0.0,0.0,17.7,69,102,-16.5
+2023-12-02,202312020DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202312020DET.html,37:23,.528,.475,.300,.200,0.0,21.9,11.2,49.2,2.6,0.0,4.4,26.8,122,110,8.3
+2023-12-02,202312020DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202312020DET.html,32:47,.568,.591,.091,.091,0.0,18.7,9.5,14.5,3.0,2.5,14.9,18.0,100,107,0.6
+2023-12-02,202312020DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202312020DET.html,30:19,.557,.500,.556,.222,3.5,20.2,12.0,24.2,3.2,0.0,23.3,18.7,101,109,3.8
+2023-12-02,202312020DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202312020DET.html,29:48,.799,1.000,.000,.750,10.7,27.4,19.3,6.2,1.6,5.5,15.8,18.7,126,106,5.6
+2023-12-02,202312020DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202312020DET.html,29:03,.400,.286,.429,.571,0.0,7.0,3.6,4.6,0.0,0.0,10.2,14.8,82,118,-12.2
+2023-12-02,202312020DET,DET,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202312020DET.html,27:27,.624,.567,.667,.400,3.9,3.7,3.8,13.1,1.8,0.0,5.4,29.9,124,115,6.7
+2023-12-02,202312020DET,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202312020DET.html,16:08,.400,.400,.400,.000,0.0,12.7,6.5,9.0,0.0,0.0,28.6,19.1,62,117,-15.2
+2023-12-02,202312020DET,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202312020DET.html,16:02,.333,.333,.333,.000,26.6,25.5,26.0,0.0,0.0,0.0,25.0,21.9,75,114,-17.8
+2023-12-02,202312020DET,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202312020DET.html,14:07,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,66.7,9.3,0,119,-17.6
+2023-12-02,202312020DET,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202312020DET.html,6:55,.000,.000,.000,.000,15.4,29.5,22.6,0.0,7.1,0.0,0.0,6.4,63,98,-5.8

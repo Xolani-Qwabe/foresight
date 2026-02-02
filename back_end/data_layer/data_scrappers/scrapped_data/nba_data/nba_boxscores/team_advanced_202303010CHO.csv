@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-01,202303010CHO,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202303010CHO.html,33:24,.347,.000,.500,1.000,0.0,7.8,4.5,3.4,2.9,2.6,25.8,10.4,61,92,-6.0
+2023-03-01,202303010CHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202303010CHO.html,33:20,.735,.700,.000,.200,3.5,39.3,24.0,18.0,0.0,2.6,8.4,15.9,139,85,6.1
+2023-03-01,202303010CHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202303010CHO.html,33:10,.646,.635,.269,.231,7.1,10.5,9.0,49.9,0.0,5.3,3.4,39.9,127,96,19.7
+2023-03-01,202303010CHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202303010CHO.html,32:51,.125,.125,.500,.000,0.0,5.3,3.0,39.6,2.9,0.0,27.3,14.9,65,95,-8.9
+2023-03-01,202303010CHO,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202303010CHO.html,26:50,.745,.733,.267,.067,0.0,19.5,11.2,14.8,0.0,6.5,11.5,29.0,119,92,11.9
+2023-03-01,202303010CHO,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202303010CHO.html,15:09,.417,.417,.500,.000,0.0,23.0,13.2,17.8,0.0,0.0,14.3,20.6,79,93,-9.3
+2023-03-01,202303010CHO,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202303010CHO.html,14:41,1.000,1.000,.500,.000,8.0,5.9,6.8,0.0,6.5,0.0,20.0,15.2,132,86,11.4
+2023-03-01,202303010CHO,PHO,Jock Landale,https://www.basketball-reference.com/boxscores/202303010CHO.html,14:40,.381,.357,.143,.286,0.0,17.9,10.2,18.5,0.0,11.9,0.0,24.0,86,88,-0.7
+2023-03-01,202303010CHO,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202303010CHO.html,14:36,.500,.500,.000,.000,0.0,17.9,10.3,0.0,0.0,0.0,0.0,6.1,94,95,-9.9
+2023-03-01,202303010CHO,PHO,T.J. Warren,https://www.basketball-reference.com/boxscores/202303010CHO.html,12:55,.200,.200,.200,.000,9.1,13.5,11.6,0.0,3.7,6.8,16.7,20.7,45,85,-11.1
+2023-03-01,202303010CHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202303010CHO.html,8:24,.000,.000,.500,.000,0.0,0.0,0.0,13.6,5.7,0.0,0.0,10.6,28,89,-11.3
+2023-03-01,202303010CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202303010CHO.html,38:11,.474,.472,.500,.389,0.0,18.4,7.9,27.1,0.0,0.0,22.2,30.0,79,109,-4.9
+2023-03-01,202303010CHO,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202303010CHO.html,38:06,.496,.438,.417,.208,6.9,18.4,11.8,6.1,0.0,2.0,3.7,30.2,103,106,2.3
+2023-03-01,202303010CHO,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202303010CHO.html,33:08,.476,.464,.571,.286,0.0,7.1,3.0,23.4,1.4,0.0,6.0,21.4,99,107,1.5
+2023-03-01,202303010CHO,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202303010CHO.html,28:32,.125,.125,.250,.000,6.1,24.6,14.0,5.5,0.0,2.6,11.1,13.4,42,105,-9.9
+2023-03-01,202303010CHO,CHO,Mark Williams,https://www.basketball-reference.com/boxscores/202303010CHO.html,28:06,.468,.400,.000,.400,15.5,20.8,17.8,13.6,1.7,2.7,7.8,19.2,108,102,0.3
+2023-03-01,202303010CHO,CHO,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202303010CHO.html,26:15,.415,.286,.286,.857,0.0,22.3,9.5,38.7,1.8,5.7,0.0,15.6,110,98,5.8
+2023-03-01,202303010CHO,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202303010CHO.html,19:54,.500,.500,.000,.000,4.4,5.9,5.0,0.0,0.0,7.5,33.3,6.4,75,102,-7.7
+2023-03-01,202303010CHO,CHO,Bryce McGowens,https://www.basketball-reference.com/boxscores/202303010CHO.html,14:52,.521,.500,.500,1.000,0.0,15.7,6.7,0.0,0.0,0.0,25.8,11.1,75,109,-8.0
+2023-03-01,202303010CHO,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202303010CHO.html,12:56,.667,.667,.333,.000,6.7,27.2,15.5,15.1,0.0,0.0,25.0,13.1,106,107,-2.1

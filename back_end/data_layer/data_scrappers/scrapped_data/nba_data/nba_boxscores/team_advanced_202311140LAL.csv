@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-14,202311140LAL,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202311140LAL.html,27:23,.663,.600,.600,.300,0.0,5.8,2.0,29.0,0.0,0.0,15.0,19.4,123,143,-4.1
+2023-11-14,202311140LAL,MEM,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202311140LAL.html,23:12,.000,.000,.000,.000,21.8,13.8,19.0,21.2,0.0,9.0,0.0,8.6,95,136,-10.1
+2023-11-14,202311140LAL,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202311140LAL.html,22:06,.250,.250,.375,.000,7.6,0.0,5.0,13.4,0.0,4.7,5.9,30.7,63,141,-18.4
+2023-11-14,202311140LAL,MEM,Jacob Gilyard,https://www.basketball-reference.com/boxscores/202311140LAL.html,20:48,.900,.900,1.000,.000,4.0,15.4,8.0,7.2,4.6,0.0,16.7,11.5,136,129,0.7
+2023-11-14,202311140LAL,MEM,Marcus Smart,https://www.basketball-reference.com/boxscores/202311140LAL.html,8:25,.500,.500,.667,.000,0.0,19.0,6.6,17.1,5.7,12.4,0.0,14.2,114,120,7.4
+2023-11-14,202311140LAL,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202311140LAL.html,31:05,.453,.412,.471,.235,2.7,10.3,5.3,15.6,3.1,6.7,0.0,24.1,104,131,-1.3
+2023-11-14,202311140LAL,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202311140LAL.html,25:43,.313,.313,.438,.000,0.0,6.2,2.1,0.0,1.9,4.1,5.9,26.4,61,136,-18.0
+2023-11-14,202311140LAL,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202311140LAL.html,25:08,.698,.700,.533,.333,0.0,31.8,11.0,35.0,0.0,8.3,14.9,32.1,116,134,10.0
+2023-11-14,202311140LAL,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202311140LAL.html,22:15,1.071,1.071,.429,.000,3.8,7.2,5.0,16.6,2.2,0.0,12.5,14.3,169,137,9.1
+2023-11-14,202311140LAL,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202311140LAL.html,18:08,.750,.750,.750,.000,4.6,17.6,9.1,47.1,2.6,0.0,0.0,8.8,183,134,10.5
+2023-11-14,202311140LAL,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202311140LAL.html,5:45,.000,.000,.600,.000,14.6,55.7,28.8,0.0,0.0,0.0,0.0,34.7,15,133,-36.5
+2023-11-14,202311140LAL,MEM,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202311140LAL.html,5:01,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.9,0,144,-28.8
+2023-11-14,202311140LAL,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202311140LAL.html,5:01,.000,.000,1.000,.000,0.0,31.9,11.0,0.0,0.0,0.0,0.0,8.0,0,138,-21.7
+2023-11-14,202311140LAL,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202311140LAL.html,29:28,.667,.667,.833,.000,0.0,8.6,5.6,3.9,1.6,0.0,0.0,8.9,149,111,-2.6
+2023-11-14,202311140LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202311140LAL.html,26:50,.696,.636,.000,.545,23.9,22.0,22.6,25.9,0.0,20.3,12.8,25.5,151,96,11.6
+2023-11-14,202311140LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202311140LAL.html,26:35,.901,.917,.667,.250,0.0,9.5,6.2,27.7,0.0,0.0,0.0,22.0,192,115,14.0
+2023-11-14,202311140LAL,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202311140LAL.html,24:45,.635,.643,.714,.286,0.0,3.4,2.2,9.4,0.0,0.0,0.0,13.9,148,117,-2.7
+2023-11-14,202311140LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202311140LAL.html,22:39,.673,.682,.545,.182,0.0,33.5,21.9,37.1,2.1,0.0,25.2,30.7,119,98,2.3
+2023-11-14,202311140LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202311140LAL.html,29:11,.775,.778,.444,.333,11.0,28.9,22.7,29.7,0.0,0.0,22.5,20.0,146,106,5.9
+2023-11-14,202311140LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202311140LAL.html,23:50,.978,.950,.300,.400,0.0,10.6,6.9,0.0,0.0,0.0,29.8,30.8,117,114,-1.1
+2023-11-14,202311140LAL,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202311140LAL.html,21:58,.125,.125,.375,.000,21.9,26.8,25.1,9.8,0.0,4.1,27.3,21.9,60,104,-20.1
+2023-11-14,202311140LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202311140LAL.html,21:10,.955,1.000,.000,1.000,7.6,0.0,2.6,6.0,2.3,12.8,0.0,11.9,202,105,9.1
+2023-11-14,202311140LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202311140LAL.html,8:33,1.250,1.250,.500,.000,0.0,9.8,6.5,15.7,5.6,0.0,33.3,15.4,145,101,14.3
+2023-11-14,202311140LAL,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202311140LAL.html,5:01,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.7,0,119,-16.6

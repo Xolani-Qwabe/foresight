@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-08,202204080WAS,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202204080WAS.html,38:08,.780,.773,.409,.045,2.8,11.1,6.4,5.4,2.6,0.0,8.2,28.8,134,98,10.6
+2022-04-08,202204080WAS,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202204080WAS.html,33:39,.521,.250,.000,1.000,12.7,21.0,16.3,10.8,1.5,7.0,14.8,9.0,135,94,-1.0
+2022-04-08,202204080WAS,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202204080WAS.html,32:55,.279,.167,.667,.444,3.2,25.7,12.9,18.4,1.5,3.6,15.7,17.4,78,97,-9.3
+2022-04-08,202204080WAS,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202204080WAS.html,27:38,.571,.571,.714,.143,0.0,15.3,6.6,11.4,3.6,0.0,0.0,24.2,118,96,1.9
+2022-04-08,202204080WAS,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202204080WAS.html,14:54,.595,.600,.000,.400,0.0,28.4,12.2,29.7,0.0,0.0,0.0,35.5,124,104,4.7
+2022-04-08,202204080WAS,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202204080WAS.html,36:21,.624,.611,.500,.056,2.9,19.4,10.0,45.4,2.8,0.0,9.8,25.3,131,98,9.3
+2022-04-08,202204080WAS,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202204080WAS.html,23:22,.740,.600,.000,.800,13.7,18.1,15.6,11.8,4.3,0.0,22.8,16.8,135,94,3.7
+2022-04-08,202204080WAS,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202204080WAS.html,18:31,.300,.300,.800,.000,0.0,7.6,3.3,6.7,2.7,0.0,0.0,12.1,76,98,-8.2
+2022-04-08,202204080WAS,NYK,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202204080WAS.html,12:42,.000,.000,1.000,.000,0.0,33.3,14.4,9.2,4.0,0.0,50.0,7.1,31,94,-9.9
+2022-04-08,202204080WAS,NYK,Feron Hunt,https://www.basketball-reference.com/boxscores/202204080WAS.html,1:50,,,,,0.0,0.0,0.0,0.0,27.5,0.0,,0.0,0,43,15.0
+2022-04-08,202204080WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202204080WAS.html,28:14,.666,.679,.357,.286,0.0,11.3,6.5,7.9,0.0,3.5,0.0,27.2,123,123,5.8
+2022-04-08,202204080WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202204080WAS.html,25:48,.500,.500,.364,.000,5.5,12.4,9.4,21.7,2.0,0.0,26.7,28.3,80,120,-7.0
+2022-04-08,202204080WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202204080WAS.html,25:37,.680,.600,1.000,.400,0.0,25.0,14.2,6.0,2.0,0.0,0.0,11.2,134,117,2.7
+2022-04-08,202204080WAS,WAS,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202204080WAS.html,20:11,.333,.333,.333,.000,0.0,10.6,6.0,62.9,0.0,0.0,33.3,21.7,83,125,-8.7
+2022-04-08,202204080WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202204080WAS.html,19:41,1.014,1.000,.000,.250,0.0,10.8,6.2,0.0,0.0,5.0,0.0,11.0,207,122,2.8
+2022-04-08,202204080WAS,WAS,Thomas Bryant,https://www.basketball-reference.com/boxscores/202204080WAS.html,25:32,.000,.000,.500,.000,0.0,41.8,23.8,0.0,0.0,11.5,20.0,9.5,0,109,-9.9
+2022-04-08,202204080WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202204080WAS.html,20:18,.799,.786,.429,.571,0.0,5.3,3.0,10.2,0.0,0.0,31.3,30.6,100,126,-7.8
+2022-04-08,202204080WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202204080WAS.html,15:57,1.000,1.000,.000,.000,0.0,13.4,7.6,20.8,3.2,0.0,60.0,15.3,82,117,-3.5
+2022-04-08,202204080WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/202204080WAS.html,15:49,.875,.875,.250,.000,0.0,6.7,3.8,46.9,3.2,0.0,33.3,18.5,125,119,6.7
+2022-04-08,202204080WAS,WAS,Isaiah Todd,https://www.basketball-reference.com/boxscores/202204080WAS.html,15:47,.333,.333,.500,.000,8.9,0.0,3.8,0.0,0.0,0.0,14.3,21.6,63,128,-16.9
+2022-04-08,202204080WAS,WAS,Jordan Schakel,https://www.basketball-reference.com/boxscores/202204080WAS.html,12:00,.512,.375,.750,.500,0.0,35.6,20.3,0.0,4.2,0.0,17.0,23.9,83,109,-1.9
+2022-04-08,202204080WAS,WAS,Cassius Winston,https://www.basketball-reference.com/boxscores/202204080WAS.html,7:46,.694,.500,.000,1.000,0.0,13.7,7.8,21.4,0.0,0.0,41.0,30.6,89,124,-12.4
+2022-04-08,202204080WAS,WAS,Vernon Carey Jr.,https://www.basketball-reference.com/boxscores/202204080WAS.html,7:20,.568,,,,0.0,0.0,0.0,0.0,0.0,0.0,53.2,12.5,55,128,-15.2

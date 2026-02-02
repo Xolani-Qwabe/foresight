@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-08,202401080IND,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202401080IND.html,37:59,.709,.712,.154,.192,2.9,13.3,7.8,9.9,0.0,0.0,15.1,35.6,120,134,0.9
+2024-01-08,202401080IND,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202401080IND.html,37:58,.656,.656,.375,.000,2.9,16.6,9.4,21.3,1.2,0.0,15.8,20.4,126,131,1.9
+2024-01-08,202401080IND,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202401080IND.html,37:34,.591,.500,.308,.538,5.9,10.1,7.9,22.7,0.0,7.5,5.9,18.5,142,130,5.4
+2024-01-08,202401080IND,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202401080IND.html,35:57,.375,.313,.500,.188,0.0,14.1,6.6,19.2,0.0,5.2,5.5,20.8,101,131,-6.4
+2024-01-08,202401080IND,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202401080IND.html,32:15,1.100,1.100,.800,.000,0.0,23.5,11.0,0.0,0.0,2.9,16.7,7.6,162,130,2.5
+2024-01-08,202401080IND,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202401080IND.html,23:27,1.167,1.167,.833,.000,19.0,16.2,17.7,16.7,0.0,0.0,14.3,12.2,197,134,13.7
+2024-01-08,202401080IND,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202401080IND.html,15:40,.452,.375,1.000,1.500,14.3,32.3,22.7,0.0,6.0,0.0,0.0,17.3,117,116,-1.3
+2024-01-08,202401080IND,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202401080IND.html,10:24,.434,.250,.000,1.000,21.5,0.0,11.4,21.8,0.0,18.1,14.8,26.5,112,124,-1.6
+2024-01-08,202401080IND,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202401080IND.html,4:50,.568,,,,23.1,0.0,12.3,0.0,0.0,0.0,36.2,23.3,92,137,-11.2
+2024-01-08,202401080IND,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202401080IND.html,3:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,10.4,0,136,-30.6
+2024-01-08,202401080IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202401080IND.html,34:50,.576,.577,.231,.154,7.3,19.2,13.6,3.6,0.0,0.0,12.6,19.2,109,131,-6.2
+2024-01-08,202401080IND,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202401080IND.html,26:41,.564,.438,.500,.500,9.5,29.3,20.0,4.2,0.0,9.8,17.0,18.6,111,122,-2.0
+2024-01-08,202401080IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202401080IND.html,26:10,.751,.750,.500,.300,9.7,8.5,9.1,9.9,0.0,3.3,0.0,18.3,161,132,7.3
+2024-01-08,202401080IND,IND,Bruce Brown,https://www.basketball-reference.com/boxscores/202401080IND.html,20:30,.451,.250,.167,.667,0.0,10.9,5.8,10.3,2.3,0.0,0.0,16.0,117,128,-3.1
+2024-01-08,202401080IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202401080IND.html,13:29,.700,.700,.600,.000,0.0,16.6,8.8,57.2,0.0,0.0,28.6,21.9,130,131,2.1
+2024-01-08,202401080IND,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202401080IND.html,29:05,.719,.700,.600,.467,0.0,15.4,8.2,14.2,3.2,0.0,10.0,29.2,133,124,7.3
+2024-01-08,202401080IND,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202401080IND.html,24:47,.682,.682,.636,.000,5.1,13.5,9.6,16.0,1.9,3.5,8.3,20.4,135,126,6.0
+2024-01-08,202401080IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202401080IND.html,24:46,.500,.500,.167,.000,5.1,13.5,9.6,37.3,3.8,0.0,14.3,23.9,115,124,0.2
+2024-01-08,202401080IND,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202401080IND.html,19:58,1.105,1.100,.800,.400,0.0,0.0,0.0,6.3,0.0,0.0,0.0,12.4,218,136,9.0
+2024-01-08,202401080IND,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202401080IND.html,12:23,.750,.750,.333,.000,0.0,0.0,0.0,35.8,0.0,0.0,25.0,27.3,120,134,-5.6
+2024-01-08,202401080IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202401080IND.html,7:21,,,,,17.2,15.2,16.1,0.0,0.0,23.7,,0.0,235,117,1.8

@@ -1,0 +1,87 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct,fg3_pct
+2020-02-03,202002030CLE,NYK,Q1,Julius Randle,https://www.basketball-reference.com/boxscores/202002030CLE.html,10.3,3,5,.600,0,0,0,0,0,3,3,0,2,0,1,1,6,5.2,-3,,
+2020-02-03,202002030CLE,NYK,Q1,Marcus Morris,https://www.basketball-reference.com/boxscores/202002030CLE.html,10.3,1,2,.500,0,0,2,2,0,0,0,1,0,0,0,0,4,3.7,-3,1.000,
+2020-02-03,202002030CLE,NYK,Q1,Elfrid Payton,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.33,3,4,.750,0,0,0,0,0,1,1,4,0,0,1,0,6,6.5,-3,,
+2020-02-03,202002030CLE,NYK,Q1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.33,2,4,.500,1,3,0,0,0,1,1,1,0,0,0,1,5,3.6,-3,,.333
+2020-02-03,202002030CLE,NYK,Q1,Taj Gibson,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.33,2,2,1.000,0,0,0,0,0,1,1,1,0,1,0,0,4,5.1,-3,,
+2020-02-03,202002030CLE,NYK,Q1,Bobby Portis,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.67,3,3,1.000,2,2,0,0,0,0,0,0,0,0,0,1,8,6.7,-1,,1.000
+2020-02-03,202002030CLE,NYK,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.67,0,1,.000,0,0,0,2,0,1,1,3,0,0,0,0,0,0.9,-1,.000,
+2020-02-03,202002030CLE,NYK,Q1,Kevin Knox,https://www.basketball-reference.com/boxscores/202002030CLE.html,1.7,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,,
+2020-02-03,202002030CLE,NYK,Q1,Damyean Dotson,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.67,0,1,.000,0,0,0,0,0,1,1,0,1,0,0,1,0,0.2,-1,,
+2020-02-03,202002030CLE,NYK,Q1,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202002030CLE.html,1.7,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.0,-1,,
+2020-02-03,202002030CLE,NYK,Q2,Julius Randle,https://www.basketball-reference.com/boxscores/202002030CLE.html,6.33,2,3,.667,0,1,0,0,0,1,1,0,0,0,0,0,4,3.0,-2,,.000
+2020-02-03,202002030CLE,NYK,Q2,Marcus Morris,https://www.basketball-reference.com/boxscores/202002030CLE.html,4.83,0,2,.000,0,1,0,0,0,1,1,0,0,0,1,0,0,-2.1,-2,,.000
+2020-02-03,202002030CLE,NYK,Q2,Elfrid Payton,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.47,1,4,.250,0,0,1,3,2,0,2,2,0,0,0,0,3,2.6,+1,.333,
+2020-02-03,202002030CLE,NYK,Q2,Reggie Bullock,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.15,0,0,,0,0,0,0,1,0,1,0,1,0,0,0,0,1.7,-2,,
+2020-02-03,202002030CLE,NYK,Q2,Bobby Portis,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.85,1,2,.500,0,1,0,0,0,0,0,0,1,0,1,0,2,1.0,+7,,.000
+2020-02-03,202002030CLE,NYK,Q2,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.68,2,3,.667,0,0,0,0,0,3,3,2,0,0,1,1,4,3.6,+6,,
+2020-02-03,202002030CLE,NYK,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,6.53,3,4,.750,0,0,1,2,0,1,1,1,3,0,1,1,7,7.6,+4,.500,
+2020-02-03,202002030CLE,NYK,Q2,Kevin Knox,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.17,3,3,1.000,2,2,0,0,0,1,1,1,0,0,1,1,8,6.7,+7,,1.000
+2020-02-03,202002030CLE,NYK,Q2,Damyean Dotson,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.32,0,1,.000,0,1,0,0,0,0,0,1,0,0,0,0,0,0.0,-1,,.000
+2020-02-03,202002030CLE,NYK,Q2,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.67,1,1,1.000,0,0,0,0,0,1,1,0,0,0,0,1,2,1.6,+7,,
+2020-02-03,202002030CLE,NYK,Q3,Julius Randle,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.62,0,2,.000,0,0,2,2,0,1,1,2,0,0,1,1,2,0.9,-7,1.000,
+2020-02-03,202002030CLE,NYK,Q3,Marcus Morris,https://www.basketball-reference.com/boxscores/202002030CLE.html,10.13,2,3,.667,1,1,1,1,0,0,0,0,0,0,0,1,6,4.3,-6,1.000,1.000
+2020-02-03,202002030CLE,NYK,Q3,Elfrid Payton,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.08,3,4,.750,0,1,0,0,1,1,2,3,1,0,0,1,6,8.1,-4,,.000
+2020-02-03,202002030CLE,NYK,Q3,Reggie Bullock,https://www.basketball-reference.com/boxscores/202002030CLE.html,4.98,1,2,.500,0,1,0,0,0,0,0,0,0,0,0,0,2,1.0,-1,,.000
+2020-02-03,202002030CLE,NYK,Q3,Taj Gibson,https://www.basketball-reference.com/boxscores/202002030CLE.html,4.98,2,4,.500,0,0,0,0,2,0,2,0,0,0,0,0,4,3.4,-2,,
+2020-02-03,202002030CLE,NYK,Q3,Bobby Portis,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.02,1,2,.500,0,1,0,0,0,0,0,0,0,0,1,1,2,-0.4,-5,,.000
+2020-02-03,202002030CLE,NYK,Q3,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202002030CLE.html,4.02,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-8,,.000
+2020-02-03,202002030CLE,NYK,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.92,2,3,.667,0,0,0,0,0,0,0,1,0,0,0,0,4,3.4,-2,,
+2020-02-03,202002030CLE,NYK,Q3,Kevin Knox,https://www.basketball-reference.com/boxscores/202002030CLE.html,1.87,1,1,1.000,0,0,0,0,0,2,2,0,0,0,0,0,2,2.3,0,,
+2020-02-03,202002030CLE,NYK,Q3,Damyean Dotson,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.0,1,1,1.000,0,0,2,2,0,0,0,0,0,0,0,0,4,3.7,+4,1.000,
+2020-02-03,202002030CLE,NYK,Q3,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.38,0,0,,0,0,0,0,0,0,0,1,0,0,0,1,0,0.3,+1,,
+2020-02-03,202002030CLE,NYK,Q4,Julius Randle,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.05,2,3,.667,0,0,0,0,1,0,1,1,0,0,1,1,4,2.7,+3,,
+2020-02-03,202002030CLE,NYK,Q4,Marcus Morris,https://www.basketball-reference.com/boxscores/202002030CLE.html,6.1,3,5,.600,1,1,3,3,1,0,1,0,0,0,0,1,10,8.0,+5,1.000,1.000
+2020-02-03,202002030CLE,NYK,Q4,Elfrid Payton,https://www.basketball-reference.com/boxscores/202002030CLE.html,6.1,0,3,.000,0,0,0,0,2,1,3,4,0,0,0,0,0,2.4,+5,,
+2020-02-03,202002030CLE,NYK,Q4,Reggie Bullock,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.03,0,0,,0,0,0,0,0,2,2,0,0,0,0,0,0,0.6,+2,,
+2020-02-03,202002030CLE,NYK,Q4,Bobby Portis,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.97,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,+3,,.000
+2020-02-03,202002030CLE,NYK,Q4,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.28,2,2,1.000,1,1,0,0,1,3,4,0,0,0,0,0,5,6.0,+10,,1.000
+2020-02-03,202002030CLE,NYK,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.9,1,3,.333,1,1,1,2,0,1,1,1,1,0,1,1,4,2.5,0,.500,1.000
+2020-02-03,202002030CLE,NYK,Q4,Kevin Knox,https://www.basketball-reference.com/boxscores/202002030CLE.html,6.72,1,3,.333,0,2,0,0,0,1,1,0,0,0,0,0,2,0.6,-5,,.000
+2020-02-03,202002030CLE,NYK,Q4,Damyean Dotson,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.9,2,3,.667,1,1,0,0,0,0,0,1,0,0,0,0,5,4.4,0,,1.000
+2020-02-03,202002030CLE,NYK,Q4,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.95,1,1,1.000,0,0,0,0,0,1,1,0,1,0,0,1,2,2.6,+2,,
+2020-02-03,202002030CLE,NYK,OT1,Julius Randle,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,2,3,.667,0,1,0,0,1,1,2,0,0,0,0,0,4,3.7,+5,,.000
+2020-02-03,202002030CLE,NYK,OT1,Marcus Morris,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,2,3,.667,0,1,2,2,0,0,0,0,0,0,0,1,6,4.3,+5,1.000,.000
+2020-02-03,202002030CLE,NYK,OT1,Elfrid Payton,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,1,2,.500,0,0,0,0,0,3,3,2,0,0,0,0,2,3.3,+5,,
+2020-02-03,202002030CLE,NYK,OT1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202002030CLE.html,0.22,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,,
+2020-02-03,202002030CLE,NYK,OT1,Bobby Portis,https://www.basketball-reference.com/boxscores/202002030CLE.html,4.78,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,,
+2020-02-03,202002030CLE,NYK,OT1,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,+5,,.000
+2020-02-03,202002030CLE,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.33,1,3,.333,0,2,0,0,0,0,0,3,0,0,0,0,2,2.4,+3,,.000
+2020-02-03,202002030CLE,CLE,Q1,Kevin Love,https://www.basketball-reference.com/boxscores/202002030CLE.html,12.0,6,9,.667,2,5,3,3,1,5,6,1,0,0,1,1,17,14.6,+4,1.000,.400
+2020-02-03,202002030CLE,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/202002030CLE.html,10.3,4,5,.800,0,0,2,2,0,0,0,1,0,0,1,0,10,7.8,+3,1.000,
+2020-02-03,202002030CLE,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/202002030CLE.html,10.03,1,2,.500,1,1,0,0,0,0,0,2,0,0,0,0,3,3.4,+4,,1.000
+2020-02-03,202002030CLE,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.33,2,2,1.000,1,1,0,0,0,1,1,0,0,0,0,1,5,4.3,+3,,1.000
+2020-02-03,202002030CLE,CLE,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.67,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,,
+2020-02-03,202002030CLE,CLE,Q1,John Henson,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.67,0,0,,0,0,0,0,0,1,1,1,0,0,0,1,0,0.6,+1,,
+2020-02-03,202002030CLE,CLE,Q1,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202002030CLE.html,3.67,0,1,.000,0,1,0,0,0,0,0,0,0,0,1,0,0,-1.7,+1,,.000
+2020-02-03,202002030CLE,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,12.0,2,3,.667,1,2,0,0,0,3,3,1,0,0,1,1,5,3.9,-5,,.500
+2020-02-03,202002030CLE,CLE,Q2,Kevin Love,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.55,1,3,.333,0,1,0,0,0,2,2,0,0,0,0,1,2,0.5,-2,,.000
+2020-02-03,202002030CLE,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.55,2,7,.286,2,3,0,0,1,0,1,3,1,0,1,0,6,4.7,-2,,.667
+2020-02-03,202002030CLE,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.0,2,4,.500,2,4,0,0,0,1,1,0,1,1,1,1,6,4.6,-3,,.500
+2020-02-03,202002030CLE,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/202002030CLE.html,6.33,0,0,,0,0,0,0,0,1,1,0,0,0,2,0,0,-1.7,+2,,
+2020-02-03,202002030CLE,CLE,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.67,1,2,.500,1,1,1,2,0,0,0,1,0,0,1,1,4,1.9,-7,.500,1.000
+2020-02-03,202002030CLE,CLE,Q2,John Henson,https://www.basketball-reference.com/boxscores/202002030CLE.html,4.45,1,1,1.000,0,0,0,0,0,0,0,0,1,0,1,1,2,1.3,-3,,
+2020-02-03,202002030CLE,CLE,Q2,Dante Exum,https://www.basketball-reference.com/boxscores/202002030CLE.html,6.28,0,0,,0,0,0,0,1,0,1,2,0,0,0,0,0,2.1,-7,,
+2020-02-03,202002030CLE,CLE,Q2,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202002030CLE.html,2.17,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,,
+2020-02-03,202002030CLE,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.9,4,5,.800,1,1,0,0,0,0,0,0,0,0,1,0,9,6.1,+3,,1.000
+2020-02-03,202002030CLE,CLE,Q3,Kevin Love,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.08,1,1,1.000,0,0,2,2,0,4,4,2,0,0,0,0,4,6.3,+4,1.000,
+2020-02-03,202002030CLE,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.62,3,4,.750,0,0,0,0,0,0,0,1,0,0,0,1,6,4.7,+7,,
+2020-02-03,202002030CLE,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.37,1,2,.500,0,1,0,0,0,0,0,2,0,0,0,0,2,2.4,0,,.000
+2020-02-03,202002030CLE,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/202002030CLE.html,10.35,3,4,.750,2,3,0,0,0,1,1,1,0,0,1,1,8,6.0,+9,,.667
+2020-02-03,202002030CLE,CLE,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.02,1,2,.500,1,1,1,2,0,0,0,2,1,0,0,0,4,5.0,+5,.500,1.000
+2020-02-03,202002030CLE,CLE,Q3,John Henson,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.02,2,2,1.000,0,0,1,1,1,1,2,1,0,0,0,2,5,5.3,+5,1.000,
+2020-02-03,202002030CLE,CLE,Q3,Dante Exum,https://www.basketball-reference.com/boxscores/202002030CLE.html,1.65,0,0,,0,0,0,0,0,0,0,0,1,0,0,0,0,1.0,-3,,
+2020-02-03,202002030CLE,CLE,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.15,0,0,,0,0,0,0,0,2,2,1,0,0,0,0,0,1.3,-8,,
+2020-02-03,202002030CLE,CLE,Q4,Kevin Love,https://www.basketball-reference.com/boxscores/202002030CLE.html,9.07,3,4,.750,2,2,0,0,0,1,1,2,0,1,0,2,8,8.0,-4,,1.000
+2020-02-03,202002030CLE,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.05,2,4,.500,1,2,2,2,0,1,1,2,0,0,0,0,7,6.7,-3,1.000,.500
+2020-02-03,202002030CLE,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.92,0,0,,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,-5,,
+2020-02-03,202002030CLE,CLE,Q4,Cedi Osman,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.05,1,2,.500,0,0,0,0,0,1,1,1,0,0,1,2,2,0.2,-3,,
+2020-02-03,202002030CLE,CLE,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,8.03,2,3,.667,0,0,0,2,0,0,0,0,1,0,1,0,4,1.9,-2,.000,
+2020-02-03,202002030CLE,CLE,Q4,John Henson,https://www.basketball-reference.com/boxscores/202002030CLE.html,2.93,1,1,1.000,0,0,0,0,0,0,0,1,0,0,0,0,2,2.4,-1,,
+2020-02-03,202002030CLE,CLE,Q4,Dante Exum,https://www.basketball-reference.com/boxscores/202002030CLE.html,7.8,2,4,.500,0,0,0,2,0,2,2,0,0,0,0,0,4,1.8,+1,.000,
+2020-02-03,202002030CLE,CLE,OT1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,1,2,.500,0,0,0,0,1,2,3,1,0,1,0,0,2,3.7,-5,,
+2020-02-03,202002030CLE,CLE,OT1,Kevin Love,https://www.basketball-reference.com/boxscores/202002030CLE.html,4.65,1,3,.333,0,1,0,0,0,0,0,1,0,0,0,0,2,1.0,-3,,.000
+2020-02-03,202002030CLE,CLE,OT1,Collin Sexton,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.8,-5,,
+2020-02-03,202002030CLE,CLE,OT1,Darius Garland,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,1,2,.500,1,1,0,0,0,0,0,0,0,0,0,0,3,2.0,-5,,1.000
+2020-02-03,202002030CLE,CLE,OT1,Cedi Osman,https://www.basketball-reference.com/boxscores/202002030CLE.html,5.0,0,2,.000,0,2,0,0,0,0,0,0,0,0,0,1,0,-1.8,-5,,.000
+2020-02-03,202002030CLE,CLE,OT1,John Henson,https://www.basketball-reference.com/boxscores/202002030CLE.html,0.35,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,,

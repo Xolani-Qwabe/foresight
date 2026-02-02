@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-01,202203010MIN,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202203010MIN.html,33:13,.608,.521,.667,.375,3.3,15.2,8.8,21.8,0.0,0.0,12.5,39.6,112,127,3.3
+2022-03-01,202203010MIN,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202203010MIN.html,30:19,.462,.462,.462,.000,3.6,25.0,13.5,19.1,1.5,6.5,18.8,21.7,87,117,-3.0
+2022-03-01,202203010MIN,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202203010MIN.html,27:26,.500,.500,.000,.000,0.0,32.2,14.9,22.3,1.6,3.6,33.3,4.5,117,118,1.9
+2022-03-01,202203010MIN,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202203010MIN.html,27:05,.595,.600,.500,.400,4.0,14.0,8.6,5.5,0.0,0.0,14.5,20.9,102,127,-6.3
+2022-03-01,202203010MIN,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202203010MIN.html,7:01,1.042,1.250,.500,1.000,0.0,0.0,0.0,25.0,0.0,0.0,0.0,16.9,201,129,17.4
+2022-03-01,202203010MIN,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202203010MIN.html,26:49,.845,.813,.250,.250,8.1,18.8,13.1,11.8,1.7,0.0,10.1,15.2,156,122,4.2
+2022-03-01,202203010MIN,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202203010MIN.html,26:34,.482,.458,.500,.083,8.2,0.0,4.4,17.0,0.0,0.0,13.9,22.4,97,129,-8.9
+2022-03-01,202203010MIN,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202203010MIN.html,23:11,.505,.458,.417,.167,0.0,16.3,7.6,6.8,0.0,0.0,13.4,26.4,89,127,-8.5
+2022-03-01,202203010MIN,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202203010MIN.html,21:38,.515,.333,.667,.667,0.0,5.8,2.7,22.9,4.2,0.0,0.0,7.4,141,118,1.3
+2022-03-01,202203010MIN,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202203010MIN.html,16:44,.250,.250,.500,.000,6.5,30.2,17.5,7.5,16.1,0.0,33.3,14.8,53,88,5.4
+2022-03-01,202203010MIN,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202203010MIN.html,32:06,.727,.705,.273,.500,0.0,30.6,16.4,5.7,0.0,0.0,6.9,37.5,131,109,8.5
+2022-03-01,202203010MIN,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202203010MIN.html,29:24,.586,.529,.412,.235,4.3,7.4,6.0,33.7,3.1,0.0,17.6,32.3,112,107,2.6
+2022-03-01,202203010MIN,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202203010MIN.html,24:13,1.000,1.000,.000,.000,10.4,27.0,19.3,8.8,0.0,0.0,75.0,6.9,91,110,-1.8
+2022-03-01,202203010MIN,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202203010MIN.html,23:08,.474,.438,.500,.125,5.5,14.1,10.1,5.1,0.0,4.6,10.6,17.0,96,110,-6.9
+2022-03-01,202203010MIN,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202203010MIN.html,21:51,.506,.444,.778,.222,0.0,5.0,2.7,38.1,2.1,0.0,9.2,20.8,120,110,3.3
+2022-03-01,202203010MIN,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202203010MIN.html,28:30,.250,.250,.500,.000,4.4,15.3,10.3,7.4,4.7,0.0,14.3,10.2,71,101,-4.9
+2022-03-01,202203010MIN,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202203010MIN.html,27:32,.909,.909,.818,.000,0.0,15.8,8.5,10.0,1.6,0.0,0.0,16.7,172,108,13.5
+2022-03-01,202203010MIN,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202203010MIN.html,20:44,.698,.643,.429,.286,0.0,10.5,5.6,6.1,6.5,5.1,20.2,19.9,110,95,7.1
+2022-03-01,202203010MIN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202203010MIN.html,16:38,1.025,1.000,.000,.500,7.6,13.1,10.6,21.0,0.0,0.0,0.0,6.1,220,113,5.4
+2022-03-01,202203010MIN,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202203010MIN.html,15:54,.654,.667,.167,.333,0.0,20.6,11.0,8.6,0.0,0.0,22.5,23.3,99,111,-4.3

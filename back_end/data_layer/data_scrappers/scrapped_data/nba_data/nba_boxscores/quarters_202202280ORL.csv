@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-02-28,202202280ORL,IND,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202202280ORL.html,9.72,0,2,.000,0,2,.000,0,0,0,0,0,2,0,0,0,0,0,0.0,0,
+2022-02-28,202202280ORL,IND,Q1,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.73,3,6,.500,2,4,.500,2,2,0,1,1,4,2,0,1,0,10,11.1,+8,1.000
+2022-02-28,202202280ORL,IND,Q1,Oshae Brissett,https://www.basketball-reference.com/boxscores/202202280ORL.html,9.72,1,3,.333,1,1,1.000,0,0,0,1,1,2,0,0,0,0,3,3.0,0,
+2022-02-28,202202280ORL,IND,Q1,Jalen Smith,https://www.basketball-reference.com/boxscores/202202280ORL.html,9.15,3,4,.750,2,3,.667,0,0,0,1,1,0,0,0,0,0,8,6.7,+7,
+2022-02-28,202202280ORL,IND,Q1,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.65,0,1,.000,0,1,.000,0,0,0,1,1,0,0,1,0,2,0,-0.5,+6,
+2022-02-28,202202280ORL,IND,Q1,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,2.28,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,+1,
+2022-02-28,202202280ORL,IND,Q1,Goga Bitadze,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.35,2,2,1.000,1,1,1.000,1,2,0,0,0,1,0,0,0,0,6,5.7,-5,.500
+2022-02-28,202202280ORL,IND,Q1,Keifer Sykes,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.27,0,1,.000,0,0,,0,0,0,1,1,0,0,1,0,0,0,0.3,-7,
+2022-02-28,202202280ORL,IND,Q1,Chris Duarte,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.13,2,3,.667,1,1,1.000,0,0,1,0,1,0,0,0,1,1,5,3.0,-5,
+2022-02-28,202202280ORL,IND,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.12,3,6,.500,1,2,.500,0,0,0,0,0,2,0,0,0,0,7,5.4,-3,
+2022-02-28,202202280ORL,IND,Q2,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202202280ORL.html,9.62,1,2,.500,0,1,.000,0,0,0,2,2,1,0,0,1,1,2,0.9,-7,
+2022-02-28,202202280ORL,IND,Q2,Oshae Brissett,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.12,0,0,,0,0,,0,0,0,2,2,0,0,1,0,0,0,1.3,-3,
+2022-02-28,202202280ORL,IND,Q2,Jalen Smith,https://www.basketball-reference.com/boxscores/202202280ORL.html,11.15,1,2,.500,1,2,.500,3,4,1,4,5,0,0,0,2,0,6,4.5,0,.750
+2022-02-28,202202280ORL,IND,Q2,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.27,1,4,.250,1,3,.333,0,0,0,0,0,0,0,0,0,1,3,0.2,+10,
+2022-02-28,202202280ORL,IND,Q2,Terry Taylor,https://www.basketball-reference.com/boxscores/202202280ORL.html,9.52,2,2,1.000,0,0,,0,0,0,1,1,2,0,0,1,1,4,3.7,+2,
+2022-02-28,202202280ORL,IND,Q2,Goga Bitadze,https://www.basketball-reference.com/boxscores/202202280ORL.html,0.83,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,
+2022-02-28,202202280ORL,IND,Q2,Chris Duarte,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.37,1,3,.333,0,1,.000,0,0,0,2,2,1,1,0,0,0,2,2.6,+1,
+2022-02-28,202202280ORL,IND,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202202280ORL.html,10.68,1,1,1.000,0,0,,1,1,0,1,1,1,0,0,0,1,3,3.3,-14,1.000
+2022-02-28,202202280ORL,IND,Q3,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202202280ORL.html,11.1,2,4,.500,1,2,.500,4,4,0,1,1,1,0,0,4,1,9,3.6,-14,1.000
+2022-02-28,202202280ORL,IND,Q3,Oshae Brissett,https://www.basketball-reference.com/boxscores/202202280ORL.html,7.73,0,2,.000,0,2,.000,1,2,0,0,0,0,0,0,0,1,1,-1.2,-14,.500
+2022-02-28,202202280ORL,IND,Q3,Jalen Smith,https://www.basketball-reference.com/boxscores/202202280ORL.html,4.93,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,1,1,0,-1.5,-8,
+2022-02-28,202202280ORL,IND,Q3,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202202280ORL.html,2.78,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-4,
+2022-02-28,202202280ORL,IND,Q3,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.27,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,1,0,3,1.0,-1,
+2022-02-28,202202280ORL,IND,Q3,Terry Taylor,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.17,0,1,.000,0,0,,1,2,0,2,2,0,0,0,0,0,1,0.5,-6,.500
+2022-02-28,202202280ORL,IND,Q3,Goga Bitadze,https://www.basketball-reference.com/boxscores/202202280ORL.html,7.42,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,1,2,2,0.9,-7,
+2022-02-28,202202280ORL,IND,Q3,Keifer Sykes,https://www.basketball-reference.com/boxscores/202202280ORL.html,0.88,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-2,
+2022-02-28,202202280ORL,IND,Q3,Chris Duarte,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.0,0,0,,0,0,,0,0,0,1,1,0,0,0,3,1,0,-3.1,-10,
+2022-02-28,202202280ORL,IND,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.5,3,4,.750,2,2,1.000,0,0,0,0,0,1,0,0,0,0,8,7.1,-3,
+2022-02-28,202202280ORL,IND,Q4,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.48,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,-3,
+2022-02-28,202202280ORL,IND,Q4,Oshae Brissett,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.5,0,1,.000,0,1,.000,2,2,0,3,3,0,0,0,0,0,2,2.2,-3,1.000
+2022-02-28,202202280ORL,IND,Q4,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202202280ORL.html,12.0,2,3,.667,0,0,,2,4,1,3,4,0,0,1,3,0,6,3.2,-1,.500
+2022-02-28,202202280ORL,IND,Q4,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,12.0,2,4,.500,0,1,.000,1,2,0,0,0,0,0,0,0,0,5,2.6,-1,.500
+2022-02-28,202202280ORL,IND,Q4,Terry Taylor,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.5,1,1,1.000,0,0,,0,0,1,1,2,1,0,0,1,1,2,2.0,+2,
+2022-02-28,202202280ORL,IND,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/202202280ORL.html,4.37,1,1,1.000,1,1,1.000,0,0,0,2,2,0,0,2,0,1,3,4.3,+3,
+2022-02-28,202202280ORL,IND,Q4,Keifer Sykes,https://www.basketball-reference.com/boxscores/202202280ORL.html,10.65,0,3,.000,0,2,.000,0,0,0,1,1,0,0,0,1,0,0,-2.8,+1,
+2022-02-28,202202280ORL,ORL,Q1,Mo Bamba,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.07,2,5,.400,0,2,.000,0,0,1,2,3,0,0,1,0,0,4,3.3,-2,
+2022-02-28,202202280ORL,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.08,2,4,.500,0,1,.000,0,0,0,1,1,1,0,0,1,1,4,1.6,-2,
+2022-02-28,202202280ORL,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,10.8,1,1,1.000,0,0,,1,2,1,3,4,1,0,0,1,2,3,2.8,-5,.500
+2022-02-28,202202280ORL,ORL,Q1,Jalen Suggs,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.87,2,4,.500,0,1,.000,0,0,0,2,2,1,1,0,1,0,4,3.3,-6,
+2022-02-28,202202280ORL,ORL,Q1,Franz Wagner,https://www.basketball-reference.com/boxscores/202202280ORL.html,9.72,3,3,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,6,6.1,0,
+2022-02-28,202202280ORL,ORL,Q1,Chuma Okeke,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.13,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+5,
+2022-02-28,202202280ORL,ORL,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.13,1,2,.500,0,1,.000,3,3,0,0,0,1,0,0,0,0,5,4.7,+5,1.000
+2022-02-28,202202280ORL,ORL,Q1,Markelle Fultz,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.92,0,0,,0,0,,0,0,0,0,0,3,0,0,1,1,0,0.7,+1,
+2022-02-28,202202280ORL,ORL,Q1,Terrence Ross,https://www.basketball-reference.com/boxscores/202202280ORL.html,2.28,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-1,
+2022-02-28,202202280ORL,ORL,Q2,Mo Bamba,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.98,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,-10,
+2022-02-28,202202280ORL,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.02,1,4,.250,1,2,.500,1,1,0,1,1,0,0,0,0,1,4,1.5,+10,1.000
+2022-02-28,202202280ORL,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.02,4,5,.800,0,0,,0,0,2,4,6,0,0,0,1,0,8,7.7,+10,
+2022-02-28,202202280ORL,ORL,Q2,Jalen Suggs,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.12,0,1,.000,0,1,.000,0,0,0,0,0,3,0,0,1,1,0,0.0,+3,
+2022-02-28,202202280ORL,ORL,Q2,Franz Wagner,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.02,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,1.0,+10,
+2022-02-28,202202280ORL,ORL,Q2,Chuma Okeke,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.98,0,2,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,-0.4,-10,
+2022-02-28,202202280ORL,ORL,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.88,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-1.7,-3,
+2022-02-28,202202280ORL,ORL,Q2,R.J. Hampton,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.12,3,4,.750,2,3,.667,0,0,0,0,0,0,1,0,1,0,8,6.4,+3,
+2022-02-28,202202280ORL,ORL,Q2,Markelle Fultz,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.88,2,3,.667,0,0,,0,0,0,0,0,0,0,0,0,0,4,2.7,-3,
+2022-02-28,202202280ORL,ORL,Q2,Terrence Ross,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.98,0,3,.000,0,1,.000,0,0,1,1,2,1,1,0,0,0,0,0.6,-10,
+2022-02-28,202202280ORL,ORL,Q3,Mo Bamba,https://www.basketball-reference.com/boxscores/202202280ORL.html,10.75,3,5,.600,1,2,.500,2,2,3,1,4,0,1,0,0,1,9,9.7,+18,1.000
+2022-02-28,202202280ORL,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.03,0,4,.000,0,3,.000,3,4,0,1,1,1,0,0,1,0,3,-0.2,+14,.750
+2022-02-28,202202280ORL,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,7.98,3,3,1.000,1,1,1.000,1,2,0,1,1,0,0,0,1,3,8,4.8,+13,.500
+2022-02-28,202202280ORL,ORL,Q3,Jalen Suggs,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.73,2,3,.667,1,1,1.000,2,4,0,1,1,4,1,0,0,2,7,8.2,+15,.500
+2022-02-28,202202280ORL,ORL,Q3,Franz Wagner,https://www.basketball-reference.com/boxscores/202202280ORL.html,8.93,2,4,.500,0,0,,2,2,0,0,0,0,1,0,0,1,6,4.6,+14,1.000
+2022-02-28,202202280ORL,ORL,Q3,Chuma Okeke,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.27,0,1,.000,0,1,.000,0,0,0,1,1,0,0,1,0,0,0,0.3,+1,
+2022-02-28,202202280ORL,ORL,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.27,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,0,0,0,0.3,+1,
+2022-02-28,202202280ORL,ORL,Q3,Markelle Fultz,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.97,1,2,.500,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.7,+2,
+2022-02-28,202202280ORL,ORL,Q3,Terrence Ross,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.07,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2022-02-28,202202280ORL,ORL,Q4,Mo Bamba,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.5,1,4,.250,0,1,.000,0,0,0,2,2,0,0,0,0,2,2,-0.6,+3,
+2022-02-28,202202280ORL,ORL,Q4,Cole Anthony,https://www.basketball-reference.com/boxscores/202202280ORL.html,6.5,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-1.1,-2,
+2022-02-28,202202280ORL,ORL,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.03,0,1,.000,0,0,,2,2,0,1,1,0,0,0,0,0,2,1.6,-1,1.000
+2022-02-28,202202280ORL,ORL,Q4,Jalen Suggs,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.72,1,1,1.000,1,1,1.000,0,0,0,0,0,2,0,0,0,0,3,4.1,0,
+2022-02-28,202202280ORL,ORL,Q4,Franz Wagner,https://www.basketball-reference.com/boxscores/202202280ORL.html,2.63,1,2,.500,1,1,1.000,0,0,0,0,0,0,1,0,0,1,3,2.6,0,
+2022-02-28,202202280ORL,ORL,Q4,Chuma Okeke,https://www.basketball-reference.com/boxscores/202202280ORL.html,7.63,1,2,.500,1,2,.500,0,0,0,1,1,2,1,0,0,0,3,4.7,+3,
+2022-02-28,202202280ORL,ORL,Q4,Gary Harris,https://www.basketball-reference.com/boxscores/202202280ORL.html,5.5,2,4,.500,2,3,.667,0,0,0,0,0,0,1,0,0,0,6,5.0,+3,
+2022-02-28,202202280ORL,ORL,Q4,R.J. Hampton,https://www.basketball-reference.com/boxscores/202202280ORL.html,9.22,2,5,.400,0,1,.000,0,0,0,2,2,1,0,0,0,0,4,2.6,-2,
+2022-02-28,202202280ORL,ORL,Q4,Markelle Fultz,https://www.basketball-reference.com/boxscores/202202280ORL.html,4.15,2,2,1.000,0,0,,0,0,2,0,2,2,0,0,0,0,4,6.2,+1,
+2022-02-28,202202280ORL,ORL,Q4,Terrence Ross,https://www.basketball-reference.com/boxscores/202202280ORL.html,2.78,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2022-02-28,202202280ORL,ORL,Q4,Ignas Brazdeikis,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.87,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-2,
+2022-02-28,202202280ORL,ORL,Q4,Admiral Schofield,https://www.basketball-reference.com/boxscores/202202280ORL.html,3.47,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-1,

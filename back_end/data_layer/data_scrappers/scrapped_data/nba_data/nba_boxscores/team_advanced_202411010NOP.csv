@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-01,202411010NOP,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202411010NOP.html,33:24,.517,.313,.750,.750,3.9,3.0,3.4,36.7,0.0,0.0,15.8,16.7,128,131,-3.9
+2024-11-01,202411010NOP,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202411010NOP.html,32:16,.552,.500,.133,.333,8.0,12.4,10.5,12.5,0.0,0.0,5.5,24.9,116,128,-4.4
+2024-11-01,202411010NOP,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202411010NOP.html,31:43,.615,.615,.385,.000,4.1,12.6,8.9,25.6,1.5,2.2,13.3,20.9,118,123,1.4
+2024-11-01,202411010NOP,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202411010NOP.html,29:55,.500,.500,.417,.000,0.0,13.4,7.6,8.4,0.0,2.3,25.0,23.6,74,126,-11.4
+2024-11-01,202411010NOP,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202411010NOP.html,10:04,1.200,1.200,.400,.000,0.0,9.9,5.6,21.5,0.0,0.0,16.7,26.3,166,129,22.7
+2024-11-01,202411010NOP,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202411010NOP.html,32:57,.833,.833,.917,.000,0.0,9.1,5.1,4.1,0.0,0.0,0.0,16.1,147,129,5.5
+2024-11-01,202411010NOP,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202411010NOP.html,21:49,.556,.556,.111,.000,0.0,13.8,7.8,56.6,2.2,0.0,18.2,22.3,120,123,2.2
+2024-11-01,202411010NOP,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202411010NOP.html,18:47,.583,.583,.500,.000,6.9,21.3,15.0,0.0,0.0,0.0,25.0,18.8,84,125,-10.9
+2024-11-01,202411010NOP,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202411010NOP.html,15:35,.773,1.000,.000,.667,0.0,51.3,29.0,8.4,0.0,4.4,0.0,11.0,145,111,5.3
+2024-11-01,202411010NOP,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202411010NOP.html,13:30,.417,.417,.500,.000,9.6,7.4,8.4,9.1,3.6,0.0,0.0,19.6,100,122,-3.7
+2024-11-01,202411010NOP,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202411010NOP.html,36:54,.723,.725,.100,.400,2.7,17.6,9.2,42.2,2.6,0.0,11.3,29.4,141,117,13.7
+2024-11-01,202411010NOP,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202411010NOP.html,36:43,.560,.471,.471,.471,0.0,14.1,6.2,3.3,0.0,0.0,0.0,22.9,127,124,-4.7
+2024-11-01,202411010NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202411010NOP.html,35:18,.494,.460,.320,.120,5.7,14.7,9.6,26.9,1.4,5.3,7.1,32.8,114,116,2.6
+2024-11-01,202411010NOP,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202411010NOP.html,32:25,.500,.500,.417,.000,3.1,20.0,10.5,24.9,3.0,0.0,0.0,15.1,133,116,-0.2
+2024-11-01,202411010NOP,NOP,Yves Missi,https://www.basketball-reference.com/boxscores/202411010NOP.html,26:10,.400,.400,.000,.000,22.9,19.8,21.6,0.0,0.0,3.6,0.0,7.8,136,120,-8.3
+2024-11-01,202411010NOP,NOP,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202411010NOP.html,22:48,.778,.778,.444,.000,0.0,11.4,5.0,11.6,4.2,0.0,0.0,16.1,162,114,7.7
+2024-11-01,202411010NOP,NOP,Javonte Green,https://www.basketball-reference.com/boxscores/202411010NOP.html,18:49,.875,.875,.250,.000,0.0,27.6,12.0,0.0,2.6,5.0,0.0,8.7,174,112,5.0
+2024-11-01,202411010NOP,NOP,Daniel Theis,https://www.basketball-reference.com/boxscores/202411010NOP.html,13:14,.500,.500,.333,.000,15.1,29.4,21.3,8.0,0.0,0.0,0.0,9.3,144,122,-1.5
+2024-11-01,202411010NOP,NOP,Jamal Cain,https://www.basketball-reference.com/boxscores/202411010NOP.html,9:03,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0,125,-19.1
+2024-11-01,202411010NOP,NOP,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202411010NOP.html,8:36,.250,.250,.250,.000,34.9,0.0,19.7,0.0,0.0,0.0,20.0,23.8,80,125,-19.5

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-03-30,202503300SAS,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202503300SAS.html,26:55,.907,.893,.643,.143,4.8,21.7,13.7,22.3,1.7,0.0,11.8,25.4,157,106,15.9
+2025-03-30,202503300SAS,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202503300SAS.html,25:48,.574,.500,.400,.300,0.0,13.6,7.2,23.0,1.8,4.4,0.0,17.8,146,104,1.3
+2025-03-30,202503300SAS,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202503300SAS.html,24:33,.784,.773,.545,.364,0.0,14.3,7.5,13.9,5.6,4.7,13.6,24.4,135,94,9.2
+2025-03-30,202503300SAS,GSW,Jimmy Butler,https://www.basketball-reference.com/boxscores/202503300SAS.html,23:32,.962,.900,.400,.800,5.5,9.9,7.8,34.1,7.8,0.0,37.2,18.5,142,93,13.0
+2025-03-30,202503300SAS,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202503300SAS.html,21:16,.778,.778,.444,.000,0.0,27.5,14.5,10.6,2.2,0.0,10.0,19.1,136,103,2.2
+2025-03-30,202503300SAS,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202503300SAS.html,24:34,.792,.792,.500,.000,5.3,19.1,12.5,19.4,5.6,0.0,0.0,19.8,167,97,13.9
+2025-03-30,202503300SAS,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202503300SAS.html,23:35,.333,.333,.500,.000,16.5,5.0,10.4,23.5,3.9,0.0,0.0,10.3,142,103,1.1
+2025-03-30,202503300SAS,GSW,Quinten Post,https://www.basketball-reference.com/boxscores/202503300SAS.html,17:43,.389,.389,.667,.000,0.0,13.2,6.9,5.7,2.6,0.0,10.0,22.9,79,105,-14.2
+2025-03-30,202503300SAS,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202503300SAS.html,13:06,.735,.700,.200,.200,9.9,53.6,32.9,8.1,0.0,8.7,0.0,16.8,161,98,5.9
+2025-03-30,202503300SAS,GSW,Kevin Knox,https://www.basketball-reference.com/boxscores/202503300SAS.html,12:52,.750,.750,.000,.000,0.0,18.2,9.6,0.0,3.6,0.0,0.0,12.6,144,102,-0.4
+2025-03-30,202503300SAS,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202503300SAS.html,10:12,.833,.833,.667,.000,0.0,0.0,0.0,40.4,0.0,0.0,0.0,11.9,193,112,6.7
+2025-03-30,202503300SAS,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202503300SAS.html,9:20,.481,.571,.143,.429,41.7,0.0,19.8,29.0,0.0,0.0,10.7,40.5,111,113,-11.3
+2025-03-30,202503300SAS,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202503300SAS.html,6:34,.694,.500,.000,1.000,0.0,17.8,9.4,0.0,0.0,0.0,25.8,24.0,105,110,-14.4
+2025-03-30,202503300SAS,SAS,Stephon Castle,https://www.basketball-reference.com/boxscores/202503300SAS.html,22:27,.365,.318,.364,.273,5.2,11.6,8.2,12.7,0.0,0.0,24.5,31.1,65,144,-20.0
+2025-03-30,202503300SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202503300SAS.html,20:29,.575,.600,.500,.100,0.0,19.0,9.0,24.9,0.0,0.0,8.7,23.9,107,143,-1.4
+2025-03-30,202503300SAS,SAS,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202503300SAS.html,18:11,.250,.250,.500,.000,6.4,7.1,6.8,7.1,0.0,0.0,20.0,11.8,64,145,-16.4
+2025-03-30,202503300SAS,SAS,Chris Paul,https://www.basketball-reference.com/boxscores/202503300SAS.html,17:37,1.000,1.000,1.000,.000,0.0,7.4,3.5,31.5,2.6,0.0,50.0,14.6,104,139,-2.7
+2025-03-30,202503300SAS,SAS,Harrison Barnes,https://www.basketball-reference.com/boxscores/202503300SAS.html,17:30,.466,.417,.500,.167,0.0,7.4,3.5,23.8,0.0,0.0,23.7,20.7,87,145,-9.3
+2025-03-30,202503300SAS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202503300SAS.html,26:51,.370,.400,.400,.800,4.4,4.8,4.6,9.8,3.4,0.0,22.8,14.0,74,138,-10.0
+2025-03-30,202503300SAS,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202503300SAS.html,26:43,.550,.550,.700,.000,0.0,24.3,11.5,11.0,0.0,3.4,16.7,19.2,91,140,-4.4
+2025-03-30,202503300SAS,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202503300SAS.html,25:04,.643,.650,.400,.200,9.3,46.6,27.0,26.9,0.0,3.6,15.5,22.0,119,136,2.3
+2025-03-30,202503300SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202503300SAS.html,21:26,.707,.692,.385,.077,10.9,6.1,8.6,20.3,2.1,0.0,13.0,30.9,120,141,5.3
+2025-03-30,202503300SAS,SAS,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202503300SAS.html,20:56,1.125,1.125,1.000,.000,0.0,6.2,2.9,27.7,0.0,0.0,20.0,10.2,167,145,1.7
+2025-03-30,202503300SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202503300SAS.html,12:52,.666,.563,.375,.500,0.0,10.1,4.8,44.6,0.0,0.0,9.3,35.8,130,145,4.2
+2025-03-30,202503300SAS,SAS,Charles Bassey,https://www.basketball-reference.com/boxscores/202503300SAS.html,9:54,,,,,0.0,13.1,6.2,0.0,0.0,9.1,,0.0,0,138,-7.4

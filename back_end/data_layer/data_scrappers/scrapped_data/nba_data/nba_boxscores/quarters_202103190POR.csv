@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-03-19,202103190POR,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,9.93,2,4,.500,2,3,.667,0,0,0,3,3,2,0,0,0,1,6,5.9,-2,
+2021-03-19,202103190POR,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202103190POR.html,7.42,2,4,.500,2,4,.500,0,0,0,0,0,3,0,0,1,0,6,5.1,-4,
+2021-03-19,202103190POR,DAL,Q1,Josh Richardson,https://www.basketball-reference.com/boxscores/202103190POR.html,10.12,1,2,.500,0,0,,0,0,1,2,3,0,0,1,2,1,2,0.6,-4,
+2021-03-19,202103190POR,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103190POR.html,7.42,3,3,1.000,2,2,1.000,0,0,0,0,0,0,0,1,0,0,8,7.8,-4,
+2021-03-19,202103190POR,DAL,Q1,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103190POR.html,9.93,0,3,.000,0,1,.000,2,2,0,3,3,1,0,1,0,1,2,1.8,-2,1.000
+2021-03-19,202103190POR,DAL,Q1,Wes Iwundu,https://www.basketball-reference.com/boxscores/202103190POR.html,6.65,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,-2,
+2021-03-19,202103190POR,DAL,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103190POR.html,6.65,3,3,1.000,1,1,1.000,0,0,0,1,1,1,0,0,1,0,7,6.1,-2,
+2021-03-19,202103190POR,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202103190POR.html,1.88,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2021-03-19,202103190POR,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,10.17,2,3,.667,2,3,.667,0,0,0,0,0,0,0,0,0,0,6,4.7,+5,
+2021-03-19,202103190POR,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202103190POR.html,10.17,6,10,.600,1,4,.250,3,4,0,1,1,2,0,0,1,1,16,11.3,+5,.750
+2021-03-19,202103190POR,DAL,Q2,Josh Richardson,https://www.basketball-reference.com/boxscores/202103190POR.html,7.55,0,0,,0,0,,0,0,0,1,1,0,0,0,1,1,0,-1.1,0,
+2021-03-19,202103190POR,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103190POR.html,8.57,0,0,,0,0,,0,0,0,2,2,1,0,0,0,0,0,1.3,+6,
+2021-03-19,202103190POR,DAL,Q2,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103190POR.html,7.87,0,3,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-1.5,-4,
+2021-03-19,202103190POR,DAL,Q2,Wes Iwundu,https://www.basketball-reference.com/boxscores/202103190POR.html,1.83,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2021-03-19,202103190POR,DAL,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103190POR.html,1.83,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2021-03-19,202103190POR,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202103190POR.html,6.28,0,0,,0,0,,0,0,0,2,2,1,0,0,0,1,0,0.9,-5,
+2021-03-19,202103190POR,DAL,Q2,Trey Burke,https://www.basketball-reference.com/boxscores/202103190POR.html,5.73,2,2,1.000,1,1,1.000,0,0,0,1,1,0,1,0,1,0,5,4.7,+3,
+2021-03-19,202103190POR,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,8.32,2,3,.667,1,2,.500,0,0,0,2,2,3,0,0,1,1,5,5.0,+4,
+2021-03-19,202103190POR,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202103190POR.html,9.27,4,6,.667,1,3,.333,1,1,0,2,2,1,0,0,0,0,10,8.7,+7,1.000
+2021-03-19,202103190POR,DAL,Q3,Josh Richardson,https://www.basketball-reference.com/boxscores/202103190POR.html,12.0,0,4,.000,0,2,.000,0,0,1,1,2,1,1,0,0,0,0,-0.1,+9,
+2021-03-19,202103190POR,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103190POR.html,10.07,3,3,1.000,2,2,1.000,0,0,1,0,1,2,0,0,0,1,8,8.8,+9,
+2021-03-19,202103190POR,DAL,Q3,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103190POR.html,7.52,3,3,1.000,1,1,1.000,2,2,1,2,3,0,0,0,2,3,9,6.2,+2,1.000
+2021-03-19,202103190POR,DAL,Q3,Wes Iwundu,https://www.basketball-reference.com/boxscores/202103190POR.html,6.42,1,1,1.000,0,0,,2,2,1,1,2,1,1,0,0,1,4,6.0,+7,1.000
+2021-03-19,202103190POR,DAL,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103190POR.html,6.42,0,1,.000,0,1,.000,2,2,0,0,0,1,0,0,0,0,2,2.0,+7,1.000
+2021-03-19,202103190POR,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,12.0,3,4,.750,2,3,.667,0,0,0,0,0,0,0,0,0,1,8,6.0,-11,
+2021-03-19,202103190POR,DAL,Q4,Luka Dončić,https://www.basketball-reference.com/boxscores/202103190POR.html,12.0,3,7,.429,0,2,.000,0,0,0,6,6,3,1,0,2,0,6,5.2,-11,
+2021-03-19,202103190POR,DAL,Q4,Josh Richardson,https://www.basketball-reference.com/boxscores/202103190POR.html,6.05,1,3,.333,0,0,,0,0,0,0,0,0,0,0,0,1,2,-0.1,-7,
+2021-03-19,202103190POR,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103190POR.html,8.37,0,3,.000,0,3,.000,0,0,0,1,1,1,0,0,0,1,0,-1.5,-10,
+2021-03-19,202103190POR,DAL,Q4,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103190POR.html,8.3,0,2,.000,0,1,.000,0,0,0,0,0,0,0,1,0,0,0,-0.7,-6,
+2021-03-19,202103190POR,DAL,Q4,Wes Iwundu,https://www.basketball-reference.com/boxscores/202103190POR.html,3.7,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-5,
+2021-03-19,202103190POR,DAL,Q4,Dwight Powell,https://www.basketball-reference.com/boxscores/202103190POR.html,3.63,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2021-03-19,202103190POR,DAL,Q4,Trey Burke,https://www.basketball-reference.com/boxscores/202103190POR.html,5.95,2,2,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.7,-4,
+2021-03-19,202103190POR,POR,Q1,Robert Covington,https://www.basketball-reference.com/boxscores/202103190POR.html,8.55,2,4,.500,1,3,.333,0,0,0,3,3,0,1,0,0,0,5,4.9,+8,
+2021-03-19,202103190POR,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202103190POR.html,12.0,4,7,.571,3,4,.750,2,2,0,1,1,3,0,0,0,0,13,12.1,+4,1.000
+2021-03-19,202103190POR,POR,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,9.93,1,1,1.000,1,1,1.000,0,0,1,1,2,3,0,0,0,1,3,5.4,+2,
+2021-03-19,202103190POR,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202103190POR.html,5.53,4,5,.800,1,1,1.000,1,1,0,1,1,1,0,0,0,0,10,9.1,+4,1.000
+2021-03-19,202103190POR,POR,Q1,Enes Freedom,https://www.basketball-reference.com/boxscores/202103190POR.html,5.35,0,3,.000,0,0,,0,0,2,1,3,0,0,0,0,0,0,-0.4,+2,
+2021-03-19,202103190POR,POR,Q1,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202103190POR.html,6.65,1,3,.333,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,0.9,+2,
+2021-03-19,202103190POR,POR,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,6.65,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,+2,
+2021-03-19,202103190POR,POR,Q1,Nassir Little,https://www.basketball-reference.com/boxscores/202103190POR.html,5.33,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-4,
+2021-03-19,202103190POR,POR,Q2,Robert Covington,https://www.basketball-reference.com/boxscores/202103190POR.html,10.17,0,1,.000,0,1,.000,0,0,0,1,1,0,2,0,2,2,0,-1.2,-5,
+2021-03-19,202103190POR,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202103190POR.html,4.43,2,2,1.000,0,0,,5,5,0,1,1,0,0,0,0,0,9,8.7,-2,1.000
+2021-03-19,202103190POR,POR,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,6.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2021-03-19,202103190POR,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202103190POR.html,7.57,2,7,.286,2,4,.500,0,0,1,0,1,1,0,0,0,2,6,2.5,+2,
+2021-03-19,202103190POR,POR,Q2,Enes Freedom,https://www.basketball-reference.com/boxscores/202103190POR.html,9.63,4,6,.667,0,0,,0,0,1,1,2,0,0,0,0,0,8,6.4,+2,
+2021-03-19,202103190POR,POR,Q2,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202103190POR.html,6.6,1,2,.500,0,1,.000,1,2,0,2,2,0,0,0,0,0,3,2.2,-3,.500
+2021-03-19,202103190POR,POR,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,5.4,0,2,.000,0,2,.000,1,1,0,1,1,0,0,0,0,0,1,-0.1,+3,1.000
+2021-03-19,202103190POR,POR,Q2,Rodney Hood,https://www.basketball-reference.com/boxscores/202103190POR.html,7.57,0,1,.000,0,0,,0,0,2,1,3,1,0,0,1,0,0,0.7,+2,
+2021-03-19,202103190POR,POR,Q2,Nassir Little,https://www.basketball-reference.com/boxscores/202103190POR.html,2.37,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-03-19,202103190POR,POR,Q3,Robert Covington,https://www.basketball-reference.com/boxscores/202103190POR.html,10.07,1,3,.333,1,2,.500,0,0,0,0,0,0,0,0,0,2,3,0.5,-9,
+2021-03-19,202103190POR,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202103190POR.html,12.0,2,6,.333,1,4,.250,0,0,0,0,0,2,0,0,1,1,5,1.6,-9,
+2021-03-19,202103190POR,POR,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,8.32,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,
+2021-03-19,202103190POR,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202103190POR.html,5.58,2,3,.667,1,2,.500,0,0,0,1,1,1,0,0,0,0,5,4.7,-2,
+2021-03-19,202103190POR,POR,Q3,Enes Freedom,https://www.basketball-reference.com/boxscores/202103190POR.html,4.38,2,3,.667,0,0,,0,0,1,1,2,0,0,0,0,1,4,3.3,-3,
+2021-03-19,202103190POR,POR,Q3,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202103190POR.html,7.62,3,4,.750,2,3,.667,0,0,0,0,0,0,0,0,1,2,8,4.6,-6,
+2021-03-19,202103190POR,POR,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,6.42,0,1,.000,0,1,.000,1,2,0,0,0,0,0,0,0,0,1,-0.1,-7,.500
+2021-03-19,202103190POR,POR,Q3,Rodney Hood,https://www.basketball-reference.com/boxscores/202103190POR.html,2.62,1,2,.500,1,1,1.000,0,0,1,2,3,0,0,0,0,0,3,3.3,0,
+2021-03-19,202103190POR,POR,Q3,Nassir Little,https://www.basketball-reference.com/boxscores/202103190POR.html,3.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2021-03-19,202103190POR,POR,Q4,Robert Covington,https://www.basketball-reference.com/boxscores/202103190POR.html,7.23,1,2,.500,1,2,.500,0,0,1,2,3,0,0,0,0,1,3,2.9,+4,
+2021-03-19,202103190POR,POR,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202103190POR.html,6.05,2,4,.500,0,2,.000,0,0,0,1,1,1,0,0,0,0,4,3.0,+7,
+2021-03-19,202103190POR,POR,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,5.77,0,2,.000,0,0,,0,0,1,1,2,1,1,0,0,0,0,1.3,+8,
+2021-03-19,202103190POR,POR,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202103190POR.html,8.98,3,8,.375,3,6,.500,2,2,0,1,1,1,0,0,0,0,11,7.6,+7,1.000
+2021-03-19,202103190POR,POR,Q4,Enes Freedom,https://www.basketball-reference.com/boxscores/202103190POR.html,4.12,1,1,1.000,0,0,,0,0,1,1,2,0,0,0,0,0,2,2.7,+4,
+2021-03-19,202103190POR,POR,Q4,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202103190POR.html,6.88,1,2,.500,0,0,,2,2,0,2,2,0,0,0,0,1,4,3.2,+6,1.000
+2021-03-19,202103190POR,POR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202103190POR.html,8.97,2,2,1.000,1,1,1.000,0,0,0,3,3,0,0,0,1,0,5,4.3,+8,
+2021-03-19,202103190POR,POR,Q4,Rodney Hood,https://www.basketball-reference.com/boxscores/202103190POR.html,12.0,1,2,.500,1,2,.500,0,0,1,1,2,1,1,0,0,1,3,4.3,+11,

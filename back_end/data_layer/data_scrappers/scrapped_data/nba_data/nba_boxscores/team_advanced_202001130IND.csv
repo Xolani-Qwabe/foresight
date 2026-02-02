@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-13,202001130IND,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202001130IND.html,40:18,.640,.588,.000,.235,7.3,24.7,16.3,14.2,1.3,0.0,9.6,22.8,126,104,6.1
+2020-01-13,202001130IND,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202001130IND.html,39:16,.444,.469,.313,.125,2.5,23.1,13.2,12.9,1.3,0.0,15.1,22.4,84,105,-2.3
+2020-01-13,202001130IND,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/202001130IND.html,35:30,.521,.447,.421,.368,5.5,5.1,5.3,15.5,0.0,0.0,4.3,28.8,114,116,1.0
+2020-01-13,202001130IND,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202001130IND.html,35:29,.455,.455,.273,.000,2.8,17.9,10.6,22.4,0.0,4.5,8.3,15.0,103,107,1.3
+2020-01-13,202001130IND,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202001130IND.html,18:14,.363,.250,1.000,.333,0.0,19.9,10.3,7.7,0.0,0.0,0.0,16.7,89,109,-4.1
+2020-01-13,202001130IND,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202001130IND.html,27:47,.338,.313,.625,.250,10.6,6.5,8.5,5.2,3.7,2.9,10.1,15.8,83,105,-1.6
+2020-01-13,202001130IND,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202001130IND.html,23:12,.300,.300,1.000,.000,0.0,7.8,4.1,5.9,4.4,0.0,0.0,9.5,75,105,-1.0
+2020-01-13,202001130IND,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/202001130IND.html,12:31,.250,.250,.000,.000,15.7,14.5,15.0,0.0,0.0,6.4,20.0,17.7,63,107,-13.7
+2020-01-13,202001130IND,PHI,Trey Burke,https://www.basketball-reference.com/boxscores/202001130IND.html,4:05,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,21.7,0,118,-33.9
+2020-01-13,202001130IND,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202001130IND.html,3:37,1.215,1.250,.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,25.8,47.5,149,118,41.9
+2020-01-13,202001130IND,IND,T.J. Warren,https://www.basketball-reference.com/boxscores/202001130IND.html,37:14,.653,.615,.154,.538,0.0,2.6,1.3,11.4,2.8,4.6,11.1,21.5,117,101,5.2
+2020-01-13,202001130IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202001130IND.html,33:40,.554,.433,.400,.600,8.1,11.6,9.8,49.6,1.5,0.0,5.0,26.2,130,104,13.0
+2020-01-13,202001130IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202001130IND.html,33:19,.554,.450,.300,.600,5.4,23.5,14.1,5.3,0.0,7.7,7.3,18.1,115,98,2.5
+2020-01-13,202001130IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202001130IND.html,32:01,.342,.250,.083,.500,17.0,30.6,23.5,15.8,0.0,0.0,6.4,21.6,95,100,-4.7
+2020-01-13,202001130IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202001130IND.html,22:36,.250,.250,.375,.000,0.0,26.0,12.5,7.4,0.0,0.0,11.1,17.6,52,102,-13.9
+2020-01-13,202001130IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202001130IND.html,27:55,.700,.700,.600,.000,0.0,10.5,5.1,0.0,0.0,3.1,0.0,15.8,129,105,4.8
+2020-01-13,202001130IND,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202001130IND.html,20:43,.500,.500,.667,.000,0.0,4.7,2.3,30.2,4.9,0.0,25.0,8.5,103,99,1.7
+2020-01-13,202001130IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202001130IND.html,14:20,.400,.400,.000,.000,0.0,6.8,3.3,38.2,3.6,0.0,16.7,18.5,86,101,-3.6
+2020-01-13,202001130IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202001130IND.html,13:57,.429,.313,.250,.375,13.0,14.0,13.5,0.0,0.0,0.0,0.0,29.5,104,106,-3.3
+2020-01-13,202001130IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202001130IND.html,4:14,.500,.500,.500,.000,0.0,23.1,11.1,52.3,0.0,0.0,33.3,31.3,74,102,-6.4

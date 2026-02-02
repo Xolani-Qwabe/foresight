@@ -1,0 +1,74 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-10-30,202110300CHI,UTA,Q1,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.37,3,7,.429,0,2,.000,3,3,1.000,0,3,3,1,0,1,0,0,9,7.6,+4
+2021-10-30,202110300CHI,UTA,Q1,Royce O'Neale,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.8,0,1,.000,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1.0,+4
+2021-10-30,202110300CHI,UTA,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.75,2,2,1.000,0,0,,0,0,,3,4,7,0,0,1,0,1,4,7.0,-5
+2021-10-30,202110300CHI,UTA,Q1,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.88,2,6,.333,0,2,.000,2,2,1.000,1,1,2,0,0,0,1,0,6,2.6,0
+2021-10-30,202110300CHI,UTA,Q1,Joe Ingles,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.32,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,1,0,3,1.3,-5
+2021-10-30,202110300CHI,UTA,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202110300CHI.html,6.88,0,6,.000,0,3,.000,2,2,1.000,0,1,1,0,0,0,1,1,2,-3.3,-1
+2021-10-30,202110300CHI,UTA,Q1,Eric Paschall,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2021-10-30,202110300CHI,UTA,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.25,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+4
+2021-10-30,202110300CHI,UTA,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202110300CHI.html,2.63,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-5
+2021-10-30,202110300CHI,UTA,Q2,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.02,3,5,.600,2,3,.667,5,5,1.000,0,1,1,2,0,0,2,1,13,10.0,+14
+2021-10-30,202110300CHI,UTA,Q2,Royce O'Neale,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.02,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,1,0,0,0,3,4.7,+14
+2021-10-30,202110300CHI,UTA,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.18,1,1,1.000,0,0,,1,2,.500,2,0,2,1,0,1,0,0,3,5.1,-2
+2021-10-30,202110300CHI,UTA,Q2,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.02,0,0,,0,0,,0,0,,1,1,2,1,0,0,0,0,0,1.7,+14
+2021-10-30,202110300CHI,UTA,Q2,Joe Ingles,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.18,2,6,.333,2,5,.400,0,0,,0,1,1,0,0,0,0,2,6,2.1,-2
+2021-10-30,202110300CHI,UTA,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.8,1,5,.200,0,2,.000,0,0,,0,1,1,1,0,0,2,0,2,-2.1,-4
+2021-10-30,202110300CHI,UTA,Q2,Eric Paschall,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.98,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,1,2,1.3,-10
+2021-10-30,202110300CHI,UTA,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.82,2,2,1.000,0,0,,0,0,,0,1,1,0,0,1,0,1,4,4.0,+6
+2021-10-30,202110300CHI,UTA,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.98,0,0,,0,0,,0,0,,0,1,1,1,0,1,2,0,0,-0.3,-10
+2021-10-30,202110300CHI,UTA,Q3,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.43,2,9,.222,0,3,.000,0,0,,1,1,2,1,0,0,2,0,4,-1.8,-9
+2021-10-30,202110300CHI,UTA,Q3,Royce O'Neale,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.43,2,3,.667,0,1,.000,0,0,,1,1,2,0,0,0,1,3,4,1.5,-9
+2021-10-30,202110300CHI,UTA,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.65,2,3,.667,0,0,,0,0,,1,4,5,0,1,0,0,2,4,4.8,-5
+2021-10-30,202110300CHI,UTA,Q3,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.68,0,2,.000,0,1,.000,0,0,,0,1,1,0,1,0,0,0,0,-0.1,-7
+2021-10-30,202110300CHI,UTA,Q3,Joe Ingles,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.65,0,0,,0,0,,0,0,,0,3,3,1,0,0,2,1,0,-0.8,-5
+2021-10-30,202110300CHI,UTA,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202110300CHI.html,5.92,1,3,.333,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,1.3,-6
+2021-10-30,202110300CHI,UTA,Q3,Eric Paschall,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2021-10-30,202110300CHI,UTA,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.35,0,2,.000,0,0,,0,0,,0,1,1,0,0,1,0,0,0,-0.4,-5
+2021-10-30,202110300CHI,UTA,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202110300CHI.html,2.57,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-1
+2021-10-30,202110300CHI,UTA,Q4,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.55,1,6,.167,0,3,.000,2,2,1.000,0,1,1,2,0,0,2,0,4,-0.1,+4
+2021-10-30,202110300CHI,UTA,Q4,Royce O'Neale,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.55,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,+4
+2021-10-30,202110300CHI,UTA,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.63,2,3,.667,0,0,,2,2,1.000,1,4,5,0,0,1,0,1,6,6.9,-3
+2021-10-30,202110300CHI,UTA,Q4,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.55,3,6,.500,2,3,.667,0,0,,2,2,4,1,0,0,0,0,8,7.7,+4
+2021-10-30,202110300CHI,UTA,Q4,Joe Ingles,https://www.basketball-reference.com/boxscores/202110300CHI.html,6.73,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,1,0,0,-0.7,-3
+2021-10-30,202110300CHI,UTA,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.72,3,5,.600,2,2,1.000,1,1,1.000,0,0,0,0,0,0,1,0,9,5.7,-3
+2021-10-30,202110300CHI,UTA,Q4,Eric Paschall,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.45,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-5
+2021-10-30,202110300CHI,UTA,Q4,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.37,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+2
+2021-10-30,202110300CHI,UTA,Q4,Trent Forrest,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.45,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-5
+2021-10-30,202110300CHI,CHI,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.28,2,5,.400,0,1,.000,0,0,,0,0,0,2,0,0,0,1,4,2.3,+7
+2021-10-30,202110300CHI,CHI,Q1,Zach LaVine,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.37,3,6,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,6,3.3,-4
+2021-10-30,202110300CHI,CHI,Q1,Nikola Vučević,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.37,0,5,.000,0,1,.000,1,2,.500,0,6,6,0,0,0,0,0,1,-1.1,-4
+2021-10-30,202110300CHI,CHI,Q1,Lonzo Ball,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.28,3,4,.750,1,1,1.000,2,2,1.000,0,2,2,0,2,0,1,0,9,9.0,+7
+2021-10-30,202110300CHI,CHI,Q1,Javonte Green,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.88,1,1,1.000,0,0,,1,2,.500,0,0,0,0,1,0,0,2,3,2.5,0
+2021-10-30,202110300CHI,CHI,Q1,Alex Caruso,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.67,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,-3
+2021-10-30,202110300CHI,CHI,Q1,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202110300CHI.html,0.68,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2
+2021-10-30,202110300CHI,CHI,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.12,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+1
+2021-10-30,202110300CHI,CHI,Q1,Tony Bradley,https://www.basketball-reference.com/boxscores/202110300CHI.html,2.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+5
+2021-10-30,202110300CHI,CHI,Q1,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202110300CHI.html,2.72,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-6
+2021-10-30,202110300CHI,CHI,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.57,4,6,.667,0,0,,4,4,1.000,1,0,1,1,0,0,1,0,12,9.8,0
+2021-10-30,202110300CHI,CHI,Q2,Zach LaVine,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.63,1,3,.333,0,2,.000,5,5,1.000,0,0,0,2,0,0,0,2,7,5.9,-12
+2021-10-30,202110300CHI,CHI,Q2,Nikola Vučević,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.63,2,3,.667,1,1,1.000,0,0,,0,2,2,1,0,0,0,1,5,4.6,-12
+2021-10-30,202110300CHI,CHI,Q2,Lonzo Ball,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.57,1,4,.250,0,3,.000,0,0,,1,1,2,0,1,0,0,0,2,1.6,0
+2021-10-30,202110300CHI,CHI,Q2,Javonte Green,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.3,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-7
+2021-10-30,202110300CHI,CHI,Q2,Alex Caruso,https://www.basketball-reference.com/boxscores/202110300CHI.html,6.37,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,2,0,0,-2.7,-9
+2021-10-30,202110300CHI,CHI,Q2,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.8,1,4,.250,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,1.6,+4
+2021-10-30,202110300CHI,CHI,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202110300CHI.html,5.77,0,0,,0,0,,0,0,,1,0,1,0,0,1,0,0,0,1.4,+8
+2021-10-30,202110300CHI,CHI,Q2,Tony Bradley,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.37,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+8
+2021-10-30,202110300CHI,CHI,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.65,3,4,.750,0,0,,2,2,1.000,0,3,3,0,0,0,0,0,8,7.3,+5
+2021-10-30,202110300CHI,CHI,Q3,Zach LaVine,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.43,2,6,.333,0,1,.000,1,2,.500,3,1,4,1,0,0,0,1,5,3.9,+9
+2021-10-30,202110300CHI,CHI,Q3,Nikola Vučević,https://www.basketball-reference.com/boxscores/202110300CHI.html,6.37,0,5,.000,0,2,.000,2,2,1.000,0,3,3,0,0,0,0,2,2,-1.4,+4
+2021-10-30,202110300CHI,CHI,Q3,Lonzo Ball,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.35,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,2,1,0,-3.1,+6
+2021-10-30,202110300CHI,CHI,Q3,Javonte Green,https://www.basketball-reference.com/boxscores/202110300CHI.html,7.35,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.7,+6
+2021-10-30,202110300CHI,CHI,Q3,Alex Caruso,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.65,2,4,.500,0,0,,1,2,.500,1,0,1,0,1,0,0,0,5,4.3,+4
+2021-10-30,202110300CHI,CHI,Q3,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202110300CHI.html,5.92,0,2,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,0,1,-0.8,+6
+2021-10-30,202110300CHI,CHI,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.65,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,1,0,0,0,1.3,+4
+2021-10-30,202110300CHI,CHI,Q3,Tony Bradley,https://www.basketball-reference.com/boxscores/202110300CHI.html,5.63,1,1,1.000,0,0,,0,0,,1,2,3,0,0,2,0,0,2,4.4,+6
+2021-10-30,202110300CHI,CHI,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.6,4,7,.571,0,0,,0,0,,0,2,2,0,0,0,0,0,8,5.3,+3
+2021-10-30,202110300CHI,CHI,Q4,Zach LaVine,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.02,3,4,.750,1,1,1.000,1,1,1.000,0,0,0,2,0,0,0,0,8,7.8,-3
+2021-10-30,202110300CHI,CHI,Q4,Nikola Vučević,https://www.basketball-reference.com/boxscores/202110300CHI.html,10.93,2,6,.333,1,2,.500,3,4,.750,0,1,1,1,1,0,0,2,8,5.4,+3
+2021-10-30,202110300CHI,CHI,Q4,Lonzo Ball,https://www.basketball-reference.com/boxscores/202110300CHI.html,8.02,0,1,.000,0,1,.000,0,0,,0,1,1,1,1,0,1,1,0,-0.1,-3
+2021-10-30,202110300CHI,CHI,Q4,Javonte Green,https://www.basketball-reference.com/boxscores/202110300CHI.html,3.5,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2021-10-30,202110300CHI,CHI,Q4,Alex Caruso,https://www.basketball-reference.com/boxscores/202110300CHI.html,9.3,1,1,1.000,0,0,,0,0,,0,2,2,3,0,0,1,0,2,3.4,-1
+2021-10-30,202110300CHI,CHI,Q4,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202110300CHI.html,6.25,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+5
+2021-10-30,202110300CHI,CHI,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202110300CHI.html,4.42,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,2,2.4,+5
+2021-10-30,202110300CHI,CHI,Q4,Tony Bradley,https://www.basketball-reference.com/boxscores/202110300CHI.html,0.97,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0

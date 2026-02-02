@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-01-19,202201190CHI,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202201190CHI.html,40.32,9,18,.500,1,6,.167,1,2,.500,2,3,5,12,0,0,4,2,20,16.5,-9
+2022-01-19,202201190CHI,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202201190CHI.html,35.77,2,5,.400,0,0,,2,2,1.000,4,6,10,3,1,1,4,2,6,6.9,-10
+2022-01-19,202201190CHI,CLE,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202201190CHI.html,32.55,9,14,.643,5,9,.556,5,6,.833,1,6,7,0,1,1,0,2,28,24.8,-12
+2022-01-19,202201190CHI,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202201190CHI.html,30.92,8,12,.667,1,1,1.000,1,4,.250,0,5,5,2,1,2,1,2,18,15.1,+5
+2022-01-19,202201190CHI,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202201190CHI.html,29.5,3,7,.429,0,1,.000,2,3,.667,0,0,0,3,0,0,1,4,8,3.4,-12
+2022-01-19,202201190CHI,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202201190CHI.html,20.97,5,10,.500,1,4,.250,2,3,.667,2,6,8,4,0,0,2,0,13,11.6,-7
+2022-01-19,202201190CHI,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202201190CHI.html,17.1,1,2,.500,1,2,.500,2,2,1.000,0,2,2,0,1,0,0,1,5,5.2,-2
+2022-01-19,202201190CHI,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202201190CHI.html,16.88,1,5,.200,0,4,.000,0,0,,0,1,1,1,1,0,2,2,2,-1.9,-10
+2022-01-19,202201190CHI,CLE,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202201190CHI.html,11.3,2,4,.500,0,0,,0,0,,0,0,0,2,1,0,0,0,4,4.4,-5
+2022-01-19,202201190CHI,CLE,Ed Davis,https://www.basketball-reference.com/boxscores/202201190CHI.html,1.57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2022-01-19,202201190CHI,CLE,Kevin Pangos,https://www.basketball-reference.com/boxscores/202201190CHI.html,1.57,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-1
+2022-01-19,202201190CHI,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202201190CHI.html,1.57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2022-01-19,202201190CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202201190CHI.html,38.58,7,8,.875,3,4,.750,1,2,.500,0,3,3,8,2,0,1,4,18,20.7,+11
+2022-01-19,202201190CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202201190CHI.html,37.83,5,11,.455,1,2,.500,5,5,1.000,0,4,4,3,4,0,1,0,16,16.6,+15
+2022-01-19,202201190CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202201190CHI.html,37.02,11,21,.524,2,6,.333,0,0,,3,9,12,3,0,1,2,4,24,17.7,+13
+2022-01-19,202201190CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202201190CHI.html,36.18,14,24,.583,0,0,,2,5,.400,0,2,2,7,1,2,4,4,30,19.9,+10
+2022-01-19,202201190CHI,CHI,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202201190CHI.html,5.18,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,-1
+2022-01-19,202201190CHI,CHI,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202201190CHI.html,26.15,2,6,.333,1,4,.250,1,2,.500,2,4,6,0,0,0,0,1,6,4.4,-6
+2022-01-19,202201190CHI,CHI,Matt Thomas,https://www.basketball-reference.com/boxscores/202201190CHI.html,23.6,3,4,.750,2,2,1.000,0,0,,0,1,1,2,0,0,0,1,8,7.7,+8
+2022-01-19,202201190CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202201190CHI.html,22.92,2,8,.250,1,4,.250,4,4,1.000,0,3,3,2,0,1,1,0,9,6.2,+18
+2022-01-19,202201190CHI,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202201190CHI.html,10.98,2,2,1.000,0,0,,0,0,,2,4,6,0,0,0,0,3,4,4.8,0
+2022-01-19,202201190CHI,CHI,Malcolm Hill,https://www.basketball-reference.com/boxscores/202201190CHI.html,1.55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3

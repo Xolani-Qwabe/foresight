@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-05,202312050MIL,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202312050MIL.html,36:36,.844,.789,.105,.632,10.6,10.9,10.8,26.6,0.0,0.0,14.1,31.6,151,153,11.3
+2023-12-05,202312050MIL,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202312050MIL.html,34:14,.478,.455,.227,.318,0.0,11.7,5.8,29.0,1.4,0.0,10.7,33.5,101,149,-8.0
+2023-12-05,202312050MIL,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202312050MIL.html,31:28,.534,.417,.222,.444,12.4,21.2,16.7,4.7,0.0,0.0,8.5,30.5,116,151,-6.6
+2023-12-05,202312050MIL,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202312050MIL.html,27:12,.500,.500,.000,.000,4.8,14.7,9.7,12.8,3.6,3.3,50.0,6.0,86,141,-1.8
+2023-12-05,202312050MIL,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202312050MIL.html,18:03,.000,.000,1.000,.000,0.0,7.4,3.6,0.0,2.7,0.0,0.0,2.3,0,146,-12.4
+2023-12-05,202312050MIL,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202312050MIL.html,25:41,.688,.688,.125,.000,5.1,15.6,10.2,5.6,5.6,0.0,0.0,12.7,148,138,2.9
+2023-12-05,202312050MIL,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202312050MIL.html,19:00,.400,.214,.571,.571,0.0,7.0,3.5,18.7,0.0,0.0,10.2,21.0,100,154,-10.6
+2023-12-05,202312050MIL,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202312050MIL.html,17:58,.667,.667,.000,.000,28.9,22.3,25.6,35.5,0.0,10.1,25.0,9.1,150,144,8.3
+2023-12-05,202312050MIL,NYK,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202312050MIL.html,17:02,.595,.500,.800,.400,0.0,7.8,3.9,15.1,0.0,0.0,0.0,14.1,144,153,-4.9
+2023-12-05,202312050MIL,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:50,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,14.4,0,155,-25.3
+2023-12-05,202312050MIL,NYK,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:29,,,,,0.0,53.7,26.5,45.0,19.5,0.0,,0.0,216,97,32.1
+2023-12-05,202312050MIL,NYK,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:29,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,66.7,49.3,0,155,-64.2
+2023-12-05,202312050MIL,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:29,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.4,300,155,30.0
+2023-12-05,202312050MIL,NYK,Jacob Toppin,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:29,,,,,0.0,0.0,0.0,0.0,0.0,36.5,,0.0,0,133,8.6
+2023-12-05,202312050MIL,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202312050MIL.html,33:59,.847,.808,.538,.615,3.9,7.6,5.8,22.6,1.4,2.2,15.4,24.8,159,126,7.4
+2023-12-05,202312050MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202312050MIL.html,33:49,.674,.705,.045,.409,11.8,19.2,15.6,42.1,4.3,0.0,13.4,38.2,139,119,9.6
+2023-12-05,202312050MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202312050MIL.html,33:31,.563,.563,.500,.000,8.0,23.2,15.7,8.7,4.3,6.7,0.0,10.3,151,113,3.6
+2023-12-05,202312050MIL,MIL,Malik Beasley,https://www.basketball-reference.com/boxscores/202312050MIL.html,32:45,.818,.818,.909,.000,0.0,11.9,6.0,0.0,0.0,0.0,0.0,14.5,166,130,-1.0
+2023-12-05,202312050MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202312050MIL.html,26:21,.583,.583,.250,.000,10.1,9.8,10.0,28.9,1.8,0.0,14.3,22.9,136,126,0.2
+2023-12-05,202312050MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202312050MIL.html,23:42,.658,.611,.333,.222,11.3,10.9,11.1,4.5,0.0,6.3,9.2,19.8,139,126,-4.6
+2023-12-05,202312050MIL,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202312050MIL.html,19:10,1.000,1.000,.667,.000,0.0,13.5,6.9,5.0,2.5,0.0,0.0,6.7,206,124,4.2
+2023-12-05,202312050MIL,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202312050MIL.html,15:11,1.125,1.125,1.000,.000,0.0,0.0,0.0,6.9,0.0,0.0,0.0,11.4,222,133,8.9
+2023-12-05,202312050MIL,MIL,Cameron Payne,https://www.basketball-reference.com/boxscores/202312050MIL.html,14:01,1.000,1.000,.500,.000,0.0,18.5,9.4,18.1,3.4,0.0,14.3,21.5,167,121,10.7
+2023-12-05,202312050MIL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:29,1.000,1.000,.000,.000,53.7,0.0,26.5,0.0,19.5,0.0,0.0,17.4,216,91,36.8
+2023-12-05,202312050MIL,MIL,Chris Livingston,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:29,.000,.000,.000,.000,53.7,52.2,53.0,0.0,19.5,0.0,50.0,34.7,46,77,-16.0
+2023-12-05,202312050MIL,MIL,Robin Lopez,https://www.basketball-reference.com/boxscores/202312050MIL.html,2:29,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.4,0,133,-29.0
+2023-12-05,202312050MIL,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202312050MIL.html,0:04,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-7.1

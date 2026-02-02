@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-08,201912080WAS,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/201912080WAS.html,36:27,.917,.917,.833,.000,0.0,18.0,9.5,2.9,2.5,2.4,0.0,6.7,181,111,6.3
+2019-12-08,201912080WAS,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/201912080WAS.html,31:36,.790,.750,.333,.444,0.0,38.0,20.1,23.9,1.5,0.0,15.7,32.9,137,111,12.3
+2019-12-08,201912080WAS,LAC,Paul George,https://www.basketball-reference.com/boxscores/201912080WAS.html,25:32,.617,.595,.476,.095,4.8,21.4,13.6,38.5,7.2,0.0,4.4,36.5,132,101,16.5
+2019-12-08,201912080WAS,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/201912080WAS.html,23:47,.900,.900,1.000,.000,5.2,27.5,17.0,18.4,0.0,0.0,0.0,8.6,192,117,6.9
+2019-12-08,201912080WAS,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/201912080WAS.html,20:55,.527,.250,.000,1.500,17.7,10.4,13.8,4.8,0.0,8.3,13.1,14.9,125,114,-3.3
+2019-12-08,201912080WAS,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/201912080WAS.html,29:49,.503,.471,.294,.118,0.0,3.7,1.9,24.9,0.0,0.0,5.3,25.8,114,122,-3.3
+2019-12-08,201912080WAS,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/201912080WAS.html,25:11,.663,.667,.083,.583,9.8,13.0,11.5,0.0,0.0,3.5,6.2,26.0,129,117,-0.7
+2019-12-08,201912080WAS,LAC,Jerome Robinson,https://www.basketball-reference.com/boxscores/201912080WAS.html,17:37,.170,.200,.800,.400,0.0,6.2,3.3,0.0,2.6,0.0,0.0,13.6,38,115,-14.1
+2019-12-08,201912080WAS,LAC,Derrick Walton,https://www.basketball-reference.com/boxscores/201912080WAS.html,12:24,.875,.875,.500,.000,9.9,0.0,4.7,10.1,0.0,0.0,0.0,13.1,182,122,6.3
+2019-12-08,201912080WAS,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/201912080WAS.html,10:32,.000,.000,.000,.000,0.0,0.0,0.0,18.2,0.0,0.0,33.3,11.6,43,122,-16.0
+2019-12-08,201912080WAS,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/201912080WAS.html,4:14,.000,.000,1.000,.000,0.0,25.8,13.7,0.0,0.0,0.0,0.0,9.6,0,117,-21.9
+2019-12-08,201912080WAS,LAC,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/201912080WAS.html,1:53,.000,.000,1.000,.000,65.4,0.0,30.7,51.0,0.0,0.0,50.0,43.2,64,122,-22.9
+2019-12-08,201912080WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/201912080WAS.html,37:24,.498,.357,.071,.500,8.8,13.2,10.8,15.3,0.0,0.0,0.0,19.2,123,133,-3.3
+2019-12-08,201912080WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/201912080WAS.html,36:14,.455,.306,.278,.500,0.0,6.8,3.2,19.8,0.0,0.0,12.0,29.0,94,134,-10.8
+2019-12-08,201912080WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/201912080WAS.html,30:53,.467,.467,.333,.000,0.0,19.9,9.4,20.3,0.0,0.0,25.0,27.2,75,131,-12.2
+2019-12-08,201912080WAS,WAS,Moritz Wagner,https://www.basketball-reference.com/boxscores/201912080WAS.html,17:34,.902,1.000,.667,.667,6.2,35.0,19.8,0.0,0.0,0.0,20.5,11.7,127,129,-1.2
+2019-12-08,201912080WAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/201912080WAS.html,13:15,.000,.000,.667,.000,0.0,0.0,0.0,9.1,0.0,0.0,0.0,9.5,23,135,-16.4
+2019-12-08,201912080WAS,WAS,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/201912080WAS.html,35:09,.799,.833,.333,.333,3.1,14.0,8.2,19.7,2.6,0.0,0.0,16.5,162,127,9.2
+2019-12-08,201912080WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/201912080WAS.html,28:28,.799,.769,.923,.462,3.8,8.6,6.1,12.0,1.6,0.0,0.0,23.1,157,130,12.5
+2019-12-08,201912080WAS,WAS,Ian Mahinmi,https://www.basketball-reference.com/boxscores/201912080WAS.html,17:30,.922,1.000,.000,.500,12.5,28.1,19.8,18.9,0.0,14.7,29.1,16.5,134,119,7.3
+2019-12-08,201912080WAS,WAS,Chris Chiozza,https://www.basketball-reference.com/boxscores/201912080WAS.html,15:36,.417,.417,.333,.000,0.0,15.8,7.4,54.5,5.9,0.0,14.3,18.9,106,119,5.6
+2019-12-08,201912080WAS,WAS,Admiral Schofield,https://www.basketball-reference.com/boxscores/201912080WAS.html,5:42,,,,,0.0,43.2,20.3,0.0,0.0,0.0,100.0,7.4,0,128,-12.1
+2019-12-08,201912080WAS,WAS,Justin Robinson,https://www.basketball-reference.com/boxscores/201912080WAS.html,2:14,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,135,-8.8

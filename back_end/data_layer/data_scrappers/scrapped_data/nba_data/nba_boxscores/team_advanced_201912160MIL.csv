@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-16,201912160MIL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201912160MIL.html,35:01,.656,.682,.455,.091,9.1,11.6,10.5,4.2,0.0,2.1,0.0,13.8,137,114,2.3
+2019-12-16,201912160MIL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201912160MIL.html,32:34,.626,.579,.421,.211,6.6,25.0,17.0,21.3,0.0,4.6,8.8,29.5,122,107,9.3
+2019-12-16,201912160MIL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/201912160MIL.html,32:20,.604,.500,.222,.444,3.3,7.5,5.7,46.6,1.4,0.0,15.7,16.6,135,114,5.3
+2019-12-16,201912160MIL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201912160MIL.html,24:15,.237,.100,.500,.600,0.0,13.4,7.6,5.1,0.0,0.0,24.0,28.9,43,114,-23.0
+2019-12-16,201912160MIL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/201912160MIL.html,19:10,.291,.167,.667,.333,5.6,29.7,19.3,6.5,0.0,3.9,0.0,15.1,82,105,-8.9
+2019-12-16,201912160MIL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/201912160MIL.html,28:33,.714,.714,.714,.000,3.7,17.1,11.3,0.0,0.0,2.6,12.5,11.8,118,111,-2.3
+2019-12-16,201912160MIL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/201912160MIL.html,26:19,.776,.733,.533,.267,0.0,15.5,8.8,29.7,0.0,0.0,19.3,33.2,122,114,8.6
+2019-12-16,201912160MIL,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/201912160MIL.html,18:41,.945,.917,.167,.333,0.0,13.1,7.4,18.3,9.8,4.0,0.0,15.5,192,91,25.7
+2019-12-16,201912160MIL,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/201912160MIL.html,16:31,.518,.500,.600,.800,0.0,4.9,2.8,24.8,0.0,0.0,0.0,17.3,123,118,1.8
+2019-12-16,201912160MIL,DAL,Courtney Lee,https://www.basketball-reference.com/boxscores/201912160MIL.html,6:32,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,6.5,0,120,-12.5
+2019-12-16,201912160MIL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/201912160MIL.html,0:00,,,,,,,,,,,,,,,-7.3
+2019-12-16,201912160MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/201912160MIL.html,34:23,.631,.597,.194,.516,9.5,31.0,18.8,29.6,1.3,3.0,7.3,46.4,123,111,19.3
+2019-12-16,201912160MIL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/201912160MIL.html,29:33,.282,.250,.375,.250,8.3,25.3,15.6,35.9,4.6,3.5,10.1,13.0,101,104,3.7
+2019-12-16,201912160MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/201912160MIL.html,28:26,.375,.375,.417,.000,5.7,15.0,9.7,13.6,1.6,3.6,7.7,17.8,89,114,-4.4
+2019-12-16,201912160MIL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/201912160MIL.html,24:45,.500,.500,.667,.000,3.3,4.3,3.7,0.0,1.8,0.0,0.0,9.4,109,118,-4.4
+2019-12-16,201912160MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/201912160MIL.html,20:01,.178,.125,.500,.125,4.1,21.3,11.5,11.5,0.0,0.0,10.6,18.3,54,119,-14.2
+2019-12-16,201912160MIL,MIL,Kyle Korver,https://www.basketball-reference.com/boxscores/201912160MIL.html,24:39,1.063,1.063,.875,.000,0.0,8.7,3.7,18.1,0.0,4.1,0.0,12.6,201,118,13.3
+2019-12-16,201912160MIL,MIL,George Hill,https://www.basketball-reference.com/boxscores/201912160MIL.html,24:07,.460,.400,.400,.200,3.4,4.4,3.8,16.6,3.8,0.0,0.0,17.5,112,113,-0.5
+2019-12-16,201912160MIL,MIL,Sterling Brown,https://www.basketball-reference.com/boxscores/201912160MIL.html,22:27,.167,.167,.333,.000,3.6,14.3,8.2,10.2,0.0,0.0,0.0,10.4,65,120,-10.2
+2019-12-16,201912160MIL,MIL,Ersan İlyasova,https://www.basketball-reference.com/boxscores/201912160MIL.html,17:18,.446,.409,.273,.273,4.7,30.8,16.0,16.9,0.0,0.0,14.0,32.2,87,117,-5.2
+2019-12-16,201912160MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/201912160MIL.html,11:35,.500,.500,.600,.000,7.0,0.0,4.0,11.6,0.0,0.0,0.0,16.8,117,123,-2.0
+2019-12-16,201912160MIL,MIL,Robin Lopez,https://www.basketball-reference.com/boxscores/201912160MIL.html,2:42,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-9.1

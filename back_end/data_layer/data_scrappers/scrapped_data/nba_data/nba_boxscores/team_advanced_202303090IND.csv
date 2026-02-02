@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-09,202303090IND,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202303090IND.html,46:56,.653,.605,.263,.474,6.3,22.1,13.6,9.0,2.0,2.1,4.2,19.9,146,118,8.4
+2023-03-09,202303090IND,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202303090IND.html,42:25,.468,.391,.304,.261,0.0,8.1,3.7,12.8,1.1,2.3,13.5,27.3,99,123,-4.6
+2023-03-09,202303090IND,HOU,Daishen Nix,https://www.basketball-reference.com/boxscores/202303090IND.html,35:28,.250,.250,.167,.000,8.3,13.0,10.5,6.7,0.0,0.0,20.0,16.5,64,127,-16.6
+2023-03-09,202303090IND,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202303090IND.html,32:30,.696,.692,.000,.615,6.0,3.5,4.9,4.8,2.9,0.0,5.7,21.0,143,121,6.8
+2023-03-09,202303090IND,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202303090IND.html,25:35,.589,.636,.000,.182,11.5,22.5,16.6,18.0,0.0,7.5,20.2,22.7,108,119,0.4
+2023-03-09,202303090IND,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202303090IND.html,29:02,.509,.455,.091,.364,6.8,23.8,14.6,13.7,0.0,3.3,0.0,17.2,130,122,-1.4
+2023-03-09,202303090IND,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202303090IND.html,27:10,.500,.500,.000,.000,7.2,33.9,19.5,4.7,1.8,3.5,27.3,15.8,86,116,-4.2
+2023-03-09,202303090IND,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202303090IND.html,16:15,.500,.500,.286,.000,6.0,7.1,6.5,8.3,0.0,0.0,0.0,16.8,126,128,-5.0
+2023-03-09,202303090IND,HOU,Usman Garuba,https://www.basketball-reference.com/boxscores/202303090IND.html,9:39,.000,.000,.000,.000,40.7,11.9,27.5,0.0,0.0,0.0,25.0,16.2,56,127,-18.6
+2023-03-09,202303090IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202303090IND.html,38:26,.594,.500,.450,.500,0.0,5.1,2.8,73.6,0.0,0.0,3.9,29.1,144,123,5.8
+2023-03-09,202303090IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202303090IND.html,37:46,.500,.500,.600,.000,3.1,15.6,9.8,6.6,1.3,1.6,16.7,14.0,91,115,-7.0
+2023-03-09,202303090IND,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202303090IND.html,33:17,.654,.654,.769,.000,0.0,17.7,9.6,0.0,2.9,3.5,0.0,17.2,119,109,2.1
+2023-03-09,202303090IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202303090IND.html,26:35,.610,.533,.133,.333,0.0,18.5,10.0,6.2,1.8,15.5,5.5,30.2,116,103,2.2
+2023-03-09,202303090IND,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202303090IND.html,25:33,1.000,1.000,.286,.000,0.0,7.7,4.1,5.8,3.7,0.0,12.5,13.8,154,114,2.8
+2023-03-09,202303090IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202303090IND.html,26:13,.732,.688,.375,.250,4.4,7.5,6.1,30.4,3.7,0.0,25.3,20.0,123,114,0.1
+2023-03-09,202303090IND,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202303090IND.html,24:21,.460,.400,.600,.200,0.0,12.1,6.5,15.7,3.9,2.4,0.0,19.7,107,110,0.3
+2023-03-09,202303090IND,IND,Jordan Nwora,https://www.basketball-reference.com/boxscores/202303090IND.html,23:24,.699,.667,.500,.167,9.8,12.6,11.3,7.0,4.1,2.5,7.2,26.1,130,110,7.3
+2023-03-09,202303090IND,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202303090IND.html,18:05,.500,.500,.000,.000,12.7,21.7,17.6,0.0,0.0,3.3,50.0,9.8,77,114,-13.7
+2023-03-09,202303090IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202303090IND.html,8:20,.000,.000,.000,.000,27.7,11.8,19.1,13.3,0.0,14.1,0.0,5.3,133,111,-1.3
+2023-03-09,202303090IND,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202303090IND.html,3:00,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.4,0,124,-45.7

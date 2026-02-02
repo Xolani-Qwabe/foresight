@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-17,202403170LAC,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202403170LAC.html,36:19,.623,.607,.214,.071,3.3,32.3,18.7,25.0,4.4,7.0,6.5,19.8,133,90,11.3
+2024-03-17,202403170LAC,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202403170LAC.html,34:17,.706,.679,.714,.143,0.0,6.2,3.3,44.9,3.1,0.0,21.2,25.6,125,106,8.2
+2024-03-17,202403170LAC,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202403170LAC.html,29:39,.393,.393,.786,.000,4.0,14.4,9.5,18.8,0.0,0.0,17.6,26.6,82,111,-12.1
+2024-03-17,202403170LAC,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202403170LAC.html,25:40,.631,.636,.000,.182,28.1,29.1,28.6,20.1,2.1,9.8,7.8,23.3,140,95,10.1
+2024-03-17,202403170LAC,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202403170LAC.html,24:40,.753,.500,.000,1.500,0.0,8.6,4.6,14.9,0.0,5.1,0.0,6.3,184,110,-1.5
+2024-03-17,202403170LAC,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202403170LAC.html,24:09,.720,.692,.385,.154,0.0,8.8,4.7,15.8,0.0,5.2,6.7,28.6,133,110,4.5
+2024-03-17,202403170LAC,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202403170LAC.html,22:20,.436,.333,.000,.333,10.7,23.9,17.7,5.9,4.8,0.0,36.8,22.6,71,96,-13.5
+2024-03-17,202403170LAC,ATL,Trent Forrest,https://www.basketball-reference.com/boxscores/202403170LAC.html,16:10,.333,.333,.000,.000,0.0,6.6,3.5,23.4,0.0,0.0,0.0,8.6,118,114,-7.1
+2024-03-17,202403170LAC,ATL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202403170LAC.html,13:37,1.500,1.500,1.000,.000,0.0,7.8,4.1,0.0,3.9,0.0,0.0,6.8,300,104,13.5
+2024-03-17,202403170LAC,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202403170LAC.html,13:09,.600,.600,.600,.000,0.0,0.0,0.0,0.0,4.0,9.6,0.0,17.7,114,102,6.2
+2024-03-17,202403170LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202403170LAC.html,36:47,.654,.559,.471,.588,0.0,6.5,3.1,14.9,1.4,2.6,12.3,31.3,118,125,4.9
+2024-03-17,202403170LAC,LAC,James Harden,https://www.basketball-reference.com/boxscores/202403170LAC.html,36:00,.431,.400,.500,.100,0.0,20.0,9.4,50.0,1.5,2.7,22.3,17.6,94,121,-2.7
+2024-03-17,202403170LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202403170LAC.html,34:40,.597,.550,.600,.200,0.0,20.8,9.8,8.9,6.1,2.8,4.4,31.0,115,110,11.0
+2024-03-17,202403170LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202403170LAC.html,31:47,.509,.417,.333,.333,0.0,15.1,7.1,0.0,3.3,3.0,0.0,10.2,109,118,-2.5
+2024-03-17,202403170LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202403170LAC.html,23:15,1.087,1.000,.000,4.000,18.4,10.3,14.6,8.0,0.0,4.1,26.6,7.6,182,127,-0.8
+2024-03-17,202403170LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202403170LAC.html,22:25,.167,.167,.667,.000,4.8,21.4,12.6,0.0,2.4,0.0,14.3,14.7,40,121,-15.4
+2024-03-17,202403170LAC,LAC,P.J. Tucker,https://www.basketball-reference.com/boxscores/202403170LAC.html,20:40,.500,.500,.333,.000,10.3,11.6,10.9,0.0,2.6,0.0,0.0,6.8,127,123,-2.4
+2024-03-17,202403170LAC,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202403170LAC.html,11:02,.205,.000,1.000,.500,0.0,10.9,5.1,15.5,0.0,0.0,50.6,42.2,27,129,-40.0
+2024-03-17,202403170LAC,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202403170LAC.html,6:55,.665,.500,.000,2.000,0.0,34.7,16.3,33.0,0.0,0.0,0.0,25.6,150,123,11.5
+2024-03-17,202403170LAC,LAC,Daniel Theis,https://www.basketball-reference.com/boxscores/202403170LAC.html,6:37,.000,.000,.000,.000,32.2,18.1,25.6,25.9,0.0,0.0,33.3,21.4,55,127,-20.1
+2024-03-17,202403170LAC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202403170LAC.html,2:28,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.1,0,132,-26.3
+2024-03-17,202403170LAC,LAC,Kobe Brown,https://www.basketball-reference.com/boxscores/202403170LAC.html,2:28,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-8.4
+2024-03-17,202403170LAC,LAC,Jordan Miller,https://www.basketball-reference.com/boxscores/202403170LAC.html,2:28,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-9.5
+2024-03-17,202403170LAC,LAC,Xavier Moon,https://www.basketball-reference.com/boxscores/202403170LAC.html,2:28,.868,1.000,.000,1.000,43.2,0.0,22.9,-178.2,0.0,0.0,0.0,55.1,186,132,43.0

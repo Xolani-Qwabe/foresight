@@ -1,0 +1,74 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-03-03,202303030LAL,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202303030LAL.html,12.0,3,8,.375,2,5,.400,0,0,0,0,0,1,1,1,0,1,8,5.6,-1,
+2023-03-03,202303030LAL,MIN,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202303030LAL.html,6.93,1,3,.333,0,0,,0,0,0,0,0,2,1,0,0,0,2,2.7,-6,
+2023-03-03,202303030LAL,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.32,2,3,.667,1,1,1.000,0,0,2,1,3,0,0,0,1,0,5,4.4,-3,
+2023-03-03,202303030LAL,MIN,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202303030LAL.html,6.93,1,3,.333,0,1,.000,0,0,0,1,1,0,0,0,1,1,2,-0.8,-6,
+2023-03-03,202303030LAL,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202303030LAL.html,6.1,2,2,1.000,0,0,,1,2,1,1,2,1,0,1,0,2,5,5.6,-7,.500
+2023-03-03,202303030LAL,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.9,1,4,.250,0,1,.000,0,0,0,3,3,1,0,0,0,1,2,0.8,+6,
+2023-03-03,202303030LAL,MIN,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.07,2,2,1.000,1,1,1.000,2,2,0,2,2,1,0,0,0,0,7,7.7,+5,1.000
+2023-03-03,202303030LAL,MIN,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202303030LAL.html,2.68,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2023-03-03,202303030LAL,MIN,Q1,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.07,1,2,.500,0,1,.000,0,0,0,0,0,2,0,0,0,0,2,2.4,+5,
+2023-03-03,202303030LAL,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202303030LAL.html,6.0,0,1,.000,0,0,,0,0,0,1,1,0,2,0,2,0,0,-0.4,+2,
+2023-03-03,202303030LAL,MIN,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.18,0,1,.000,0,0,,2,2,0,1,1,1,0,0,1,0,2,1.3,-6,1.000
+2023-03-03,202303030LAL,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.92,0,3,.000,0,1,.000,0,0,0,0,0,1,0,0,0,1,0,-1.8,+1,
+2023-03-03,202303030LAL,MIN,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.92,2,2,1.000,1,1,1.000,0,0,0,3,3,1,0,0,0,1,5,5.6,+1,
+2023-03-03,202303030LAL,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.92,2,3,.667,0,0,,2,4,2,4,6,0,0,1,0,0,6,7.2,+1,.500
+2023-03-03,202303030LAL,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.08,1,1,1.000,1,1,1.000,0,0,0,2,2,0,0,0,2,0,3,1.3,+1,
+2023-03-03,202303030LAL,MIN,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.08,0,3,.000,0,1,.000,2,2,1,1,2,0,0,0,0,1,2,0.5,+1,1.000
+2023-03-03,202303030LAL,MIN,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.82,2,4,.500,1,2,.500,0,0,0,1,1,3,0,0,0,2,5,4.6,+8,
+2023-03-03,202303030LAL,MIN,Q2,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.08,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+1,
+2023-03-03,202303030LAL,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.58,3,5,.600,2,2,1.000,0,0,0,3,3,1,1,0,2,3,8,5.1,+6,
+2023-03-03,202303030LAL,MIN,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202303030LAL.html,10.1,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+5,
+2023-03-03,202303030LAL,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.7,1,2,.500,0,1,.000,0,0,0,0,0,1,0,1,0,0,2,2.4,+6,
+2023-03-03,202303030LAL,MIN,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.68,1,1,1.000,0,0,,0,0,0,1,1,2,0,0,0,0,2,3.4,+5,
+2023-03-03,202303030LAL,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.83,2,2,1.000,0,0,,2,2,0,2,2,1,1,0,1,2,6,5.9,+8,1.000
+2023-03-03,202303030LAL,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.17,2,4,.500,1,2,.500,0,0,1,1,2,1,1,0,0,3,5,4.5,-2,
+2023-03-03,202303030LAL,MIN,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.32,1,3,.333,0,1,.000,0,0,0,0,0,0,0,0,1,0,2,-0.7,+1,
+2023-03-03,202303030LAL,MIN,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202303030LAL.html,3.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-03-03,202303030LAL,MIN,Q3,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.32,0,1,.000,0,0,,0,0,0,0,0,2,1,0,0,0,0,1.7,+1,
+2023-03-03,202303030LAL,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.98,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,1,1,1,3,1.6,-3,
+2023-03-03,202303030LAL,MIN,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.85,1,1,1.000,0,0,,0,0,0,2,2,1,0,1,0,2,2,2.9,+8,
+2023-03-03,202303030LAL,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202303030LAL.html,6.87,1,2,.500,0,0,,0,0,1,0,1,0,0,0,0,0,2,1.7,+1,
+2023-03-03,202303030LAL,MIN,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.2,2,5,.400,1,4,.250,0,0,0,1,1,0,0,0,0,0,5,2.6,-3,
+2023-03-03,202303030LAL,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.2,2,5,.400,0,0,,1,2,2,2,4,1,0,0,0,0,5,4.6,-3,.500
+2023-03-03,202303030LAL,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202303030LAL.html,3.8,2,3,.667,1,2,.500,0,0,0,1,1,0,1,0,0,0,5,5.0,+4,
+2023-03-03,202303030LAL,MIN,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.17,1,3,.333,0,2,.000,0,0,0,0,0,3,0,0,1,0,2,1.4,-3,
+2023-03-03,202303030LAL,MIN,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.13,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,2.3,0,
+2023-03-03,202303030LAL,MIN,Q4,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202303030LAL.html,3.8,0,1,.000,0,1,.000,0,0,0,0,0,2,1,0,0,0,0,1.7,+4,
+2023-03-03,202303030LAL,LAL,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.13,0,0,,0,0,,0,1,0,0,0,5,1,0,0,0,0,4.1,+4,.000
+2023-03-03,202303030LAL,LAL,Q1,Anthony Davis,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.32,6,9,.667,0,0,,4,4,0,1,1,1,0,1,2,1,16,11.4,+3,1.000
+2023-03-03,202303030LAL,LAL,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.13,2,3,.667,1,2,.500,0,0,0,0,0,1,1,0,1,0,5,4.4,+4,
+2023-03-03,202303030LAL,LAL,Q1,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.37,0,0,,0,0,,0,0,1,1,2,1,0,0,1,0,0,0.7,+3,
+2023-03-03,202303030LAL,LAL,Q1,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.78,3,3,1.000,2,2,1.000,0,0,0,3,3,0,0,0,0,2,8,7.2,+5,
+2023-03-03,202303030LAL,LAL,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.87,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,-3,
+2023-03-03,202303030LAL,LAL,Q1,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.9,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-6,
+2023-03-03,202303030LAL,LAL,Q1,Austin Reaves,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.87,1,3,.333,0,1,.000,0,0,0,0,0,1,0,0,0,0,2,1.0,-3,
+2023-03-03,202303030LAL,LAL,Q1,Mo Bamba,https://www.basketball-reference.com/boxscores/202303030LAL.html,2.63,0,1,.000,0,0,,0,0,1,2,3,0,0,0,0,0,0,0.6,-2,
+2023-03-03,202303030LAL,LAL,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.92,0,4,.000,0,1,.000,0,0,0,1,1,3,0,0,0,0,0,-0.4,-1,
+2023-03-03,202303030LAL,LAL,Q2,Anthony Davis,https://www.basketball-reference.com/boxscores/202303030LAL.html,3.32,1,4,.250,0,1,.000,0,0,0,0,0,0,0,0,2,2,2,-3.2,-7,
+2023-03-03,202303030LAL,LAL,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.52,1,4,.250,1,3,.333,0,0,1,4,5,0,0,0,0,0,3,2.5,-2,
+2023-03-03,202303030LAL,LAL,Q2,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.35,1,2,.500,1,2,.500,0,0,1,0,1,0,1,0,0,0,3,3.7,-4,
+2023-03-03,202303030LAL,LAL,Q2,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.13,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,+2,
+2023-03-03,202303030LAL,LAL,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202303030LAL.html,6.0,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,0,
+2023-03-03,202303030LAL,LAL,Q2,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303030LAL.html,6.0,2,5,.400,0,1,.000,2,2,0,0,0,0,0,0,0,1,6,2.9,0,1.000
+2023-03-03,202303030LAL,LAL,Q2,Austin Reaves,https://www.basketball-reference.com/boxscores/202303030LAL.html,10.08,0,3,.000,0,1,.000,2,2,1,1,2,2,0,0,1,0,2,1.3,-3,1.000
+2023-03-03,202303030LAL,LAL,Q2,Mo Bamba,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.6,1,1,1.000,0,0,,1,1,1,0,1,0,0,0,0,1,3,3.0,+6,1.000
+2023-03-03,202303030LAL,LAL,Q2,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.08,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,
+2023-03-03,202303030LAL,LAL,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.7,2,5,.400,0,1,.000,0,0,0,0,0,0,0,0,0,2,4,0.5,-6,
+2023-03-03,202303030LAL,LAL,Q3,Anthony Davis,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.78,2,5,.400,0,0,,7,8,1,1,2,1,0,0,2,0,11,7.6,-6,.875
+2023-03-03,202303030LAL,LAL,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202303030LAL.html,7.68,1,2,.500,0,0,,0,0,1,0,1,0,0,0,0,2,2,0.9,-5,
+2023-03-03,202303030LAL,LAL,Q3,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.7,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,-6,
+2023-03-03,202303030LAL,LAL,Q3,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.37,0,1,.000,0,0,,0,0,1,1,2,1,2,0,1,0,0,2.0,-3,
+2023-03-03,202303030LAL,LAL,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202303030LAL.html,3.3,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,0,
+2023-03-03,202303030LAL,LAL,Q3,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303030LAL.html,5.93,0,1,.000,0,0,,0,0,1,1,2,0,0,0,1,1,0,-1.1,-3,
+2023-03-03,202303030LAL,LAL,Q3,Austin Reaves,https://www.basketball-reference.com/boxscores/202303030LAL.html,4.32,1,2,.500,0,0,,0,0,0,1,1,0,0,0,1,0,2,0.3,-1,
+2023-03-03,202303030LAL,LAL,Q3,Mo Bamba,https://www.basketball-reference.com/boxscores/202303030LAL.html,2.22,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,0,
+2023-03-03,202303030LAL,LAL,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.97,1,4,.250,0,2,.000,0,0,0,0,0,4,0,0,0,0,2,2.4,+2,
+2023-03-03,202303030LAL,LAL,Q4,Anthony Davis,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.97,3,4,.750,2,3,.667,1,2,0,2,2,0,1,1,0,0,9,9.3,+2,.500
+2023-03-03,202303030LAL,LAL,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/202303030LAL.html,9.97,1,2,.500,1,1,1.000,2,2,0,2,2,0,0,0,0,0,5,4.6,+2,1.000
+2023-03-03,202303030LAL,LAL,Q4,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202303030LAL.html,8.2,1,1,1.000,0,0,,1,2,0,1,1,0,1,0,1,3,3,1.4,+3,.500
+2023-03-03,202303030LAL,LAL,Q4,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202303030LAL.html,2.03,0,1,.000,0,1,.000,0,0,1,0,1,1,0,0,0,0,0,0.7,-3,
+2023-03-03,202303030LAL,LAL,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202303030LAL.html,12.0,2,4,.500,1,2,.500,0,0,0,3,3,1,0,0,1,1,5,3.2,-1,
+2023-03-03,202303030LAL,LAL,Q4,Rui Hachimura,https://www.basketball-reference.com/boxscores/202303030LAL.html,3.8,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,-4,
+2023-03-03,202303030LAL,LAL,Q4,Austin Reaves,https://www.basketball-reference.com/boxscores/202303030LAL.html,2.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2023-03-03,202303030LAL,LAL,Q4,Mo Bamba,https://www.basketball-reference.com/boxscores/202303030LAL.html,2.03,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,1,0,2,0.3,-3,

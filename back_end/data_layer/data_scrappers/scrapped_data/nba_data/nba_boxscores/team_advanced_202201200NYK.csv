@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-20,202201200NYK,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202201200NYK.html,37:05,.786,.786,.429,.000,3.5,8.4,6.2,16.4,4.2,0.0,22.2,11.9,126,98,5.4
+2022-01-20,202201200NYK,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202201200NYK.html,35:17,.609,.600,.400,.900,3.7,17.7,11.5,17.4,1.5,0.0,0.0,19.4,130,99,4.6
+2022-01-20,202201200NYK,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202201200NYK.html,33:02,.758,.773,.364,.182,3.9,28.4,17.5,11.0,1.6,7.5,20.2,22.1,113,91,4.3
+2022-01-20,202201200NYK,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202201200NYK.html,28:02,.456,.438,.625,.063,0.0,11.2,6.2,5.8,0.0,0.0,5.7,30.6,81,106,-7.0
+2022-01-20,202201200NYK,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202201200NYK.html,26:53,.555,.450,.100,.800,0.0,19.4,10.8,34.7,1.9,0.0,18.2,30.2,104,98,2.3
+2022-01-20,202201200NYK,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202201200NYK.html,24:25,.410,.250,.000,.500,0.0,12.8,7.1,21.8,0.0,0.0,0.0,9.8,115,105,-3.4
+2022-01-20,202201200NYK,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202201200NYK.html,19:58,.722,.722,.222,.000,0.0,0.0,0.0,40.8,10.4,0.0,0.0,22.1,146,87,20.0
+2022-01-20,202201200NYK,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202201200NYK.html,16:28,.750,.750,.000,.000,0.0,12.7,7.0,10.0,0.0,0.0,20.0,14.9,111,104,-6.0
+2022-01-20,202201200NYK,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202201200NYK.html,10:53,,,,,0.0,9.6,5.3,0.0,0.0,0.0,100.0,4.5,0,107,-9.4
+2022-01-20,202201200NYK,NOP,Gary Clark,https://www.basketball-reference.com/boxscores/202201200NYK.html,7:57,.300,.300,.800,.000,0.0,0.0,0.0,18.9,0.0,0.0,16.7,37.1,56,112,-16.0
+2022-01-20,202201200NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202201200NYK.html,30:03,.746,.857,.000,1.429,24.3,34.5,28.9,0.0,0.0,3.3,8.1,18.4,143,111,5.9
+2022-01-20,202201200NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202201200NYK.html,29:29,.186,.111,.222,.444,7.1,22.0,13.7,35.7,1.8,3.4,21.8,20.8,61,108,-6.0
+2022-01-20,202201200NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202201200NYK.html,27:59,.529,.500,.385,.538,3.7,23.2,12.4,18.3,0.0,3.6,0.0,25.6,118,112,5.6
+2022-01-20,202201200NYK,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202201200NYK.html,25:09,.338,.313,.750,.250,4.1,10.3,6.9,7.6,0.0,0.0,10.1,17.5,76,116,-9.7
+2022-01-20,202201200NYK,NYK,Kemba Walker,https://www.basketball-reference.com/boxscores/202201200NYK.html,21:10,.370,.200,.600,.800,0.0,12.3,5.5,17.0,2.5,0.0,22.8,18.4,73,110,-9.6
+2022-01-20,202201200NYK,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202201200NYK.html,23:50,.722,.722,.667,.000,4.4,0.0,2.4,21.3,0.0,0.0,10.0,18.7,129,116,4.0
+2022-01-20,202201200NYK,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202201200NYK.html,23:17,.474,.385,.692,.308,0.0,22.3,9.9,49.7,6.7,0.0,21.3,35.9,90,100,5.9
+2022-01-20,202201200NYK,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202201200NYK.html,22:35,.580,.444,.667,.556,4.6,11.5,7.7,18.8,2.3,0.0,21.1,28.0,103,110,0.2
+2022-01-20,202201200NYK,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202201200NYK.html,18:31,.000,.000,1.000,.000,0.0,14.0,6.2,0.0,0.0,5.4,0.0,2.4,0,111,-9.0
+2022-01-20,202201200NYK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202201200NYK.html,17:57,.333,.333,.000,.000,5.8,28.9,16.1,10.2,0.0,5.6,0.0,7.4,100,109,-5.0

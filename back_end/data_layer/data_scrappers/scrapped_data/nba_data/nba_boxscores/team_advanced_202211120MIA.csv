@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-12,202211120MIA,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202211120MIA.html,34:06,.600,.588,.529,.176,0.0,3.4,1.7,24.3,2.7,0.0,9.8,26.2,113,126,4.1
+2022-11-12,202211120MIA,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202211120MIA.html,33:45,.577,.563,.313,.188,3.5,23.7,13.7,4.1,0.0,2.7,5.5,23.9,109,127,-1.6
+2022-11-12,202211120MIA,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202211120MIA.html,28:12,.419,.382,.529,.118,0.0,24.3,12.3,28.5,1.6,0.0,10.1,31.0,88,125,-7.9
+2022-11-12,202211120MIA,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202211120MIA.html,27:35,.286,.286,.286,.000,0.0,4.1,2.1,0.0,0.0,3.3,12.5,12.8,49,130,-15.8
+2022-11-12,202211120MIA,CHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202211120MIA.html,26:42,.699,.667,.000,.167,4.4,17.1,10.8,23.2,0.0,0.0,31.8,15.6,112,130,-1.9
+2022-11-12,202211120MIA,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202211120MIA.html,27:38,.654,.583,.333,.333,0.0,16.5,8.4,17.0,0.0,0.0,12.7,12.6,126,130,-1.1
+2022-11-12,202211120MIA,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202211120MIA.html,21:18,.901,.857,.000,.429,11.0,16.1,13.6,0.0,0.0,0.0,10.7,19.3,162,130,1.4
+2022-11-12,202211120MIA,CHO,Théo Maledon,https://www.basketball-reference.com/boxscores/202211120MIA.html,19:36,1.031,1.000,.000,.667,0.0,35.0,17.7,12.7,0.0,0.0,0.0,8.7,215,127,2.0
+2022-11-12,202211120MIA,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202211120MIA.html,14:06,.750,.750,.500,.000,0.0,0.0,0.0,0.0,0.0,6.5,0.0,18.7,137,128,3.6
+2022-11-12,202211120MIA,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202211120MIA.html,5:23,.250,.250,.250,.000,0.0,21.2,10.7,24.0,8.6,0.0,20.0,40.9,50,109,-13.5
+2022-11-12,202211120MIA,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202211120MIA.html,1:39,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.7,200,133,15.5
+2022-11-12,202211120MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202211120MIA.html,38:12,.895,.875,.875,.188,0.0,12.3,6.1,6.9,1.2,0.0,0.0,19.1,173,114,10.3
+2022-11-12,202211120MIA,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202211120MIA.html,33:46,.376,.375,.125,.375,6.8,6.9,6.9,12.7,1.4,0.0,17.7,14.1,92,114,-8.0
+2022-11-12,202211120MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202211120MIA.html,33:04,.621,.611,.000,.167,3.5,49.6,26.2,17.6,1.4,2.5,20.6,30.9,103,108,-1.7
+2022-11-12,202211120MIA,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202211120MIA.html,31:49,.482,.458,.500,.083,3.6,36.8,20.0,29.1,0.0,2.6,19.4,20.4,105,112,-2.9
+2022-11-12,202211120MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202211120MIA.html,31:18,.903,.813,.250,.875,7.3,18.7,12.9,30.8,1.5,0.0,0.0,14.9,200,112,12.7
+2022-11-12,202211120MIA,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202211120MIA.html,30:29,.698,.654,.615,.231,0.0,0.0,0.0,8.3,1.5,0.0,0.0,19.7,144,114,2.3
+2022-11-12,202211120MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202211120MIA.html,23:09,.265,.222,.667,.111,0.0,5.1,2.5,9.2,2.0,0.0,9.6,18.9,64,112,-14.2
+2022-11-12,202211120MIA,MIA,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202211120MIA.html,13:18,.500,.500,.286,.000,25.8,8.8,17.4,18.9,0.0,18.4,0.0,22.1,133,98,5.7
+2022-11-12,202211120MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202211120MIA.html,1:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-6.4
+2022-11-12,202211120MIA,MIA,Jamal Cain,https://www.basketball-reference.com/boxscores/202211120MIA.html,1:38,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,28.4,0.0,0.0,25.7,300,55,81.6
+2022-11-12,202211120MIA,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202211120MIA.html,1:38,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,51.4,58,117,21.9

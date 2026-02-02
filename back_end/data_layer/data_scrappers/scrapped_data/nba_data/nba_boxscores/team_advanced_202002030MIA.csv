@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-03,202002030MIA,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202002030MIA.html,34:03,.730,.571,.143,1.286,3.3,27.4,14.3,32.5,0.0,0.0,26.7,19.5,127,149,-2.4
+2020-02-03,202002030MIA,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202002030MIA.html,32:45,.770,.714,.143,.786,10.2,36.6,22.3,12.9,1.6,0.0,13.7,29.6,140,144,9.1
+2020-02-03,202002030MIA,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202002030MIA.html,29:57,.500,.500,.455,.000,0.0,0.0,0.0,22.9,0.0,0.0,15.4,19.3,101,152,-7.6
+2020-02-03,202002030MIA,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202002030MIA.html,25:13,.250,.250,.500,.000,4.4,21.2,12.0,12.6,0.0,0.0,0.0,21.2,75,150,-14.2
+2020-02-03,202002030MIA,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202002030MIA.html,22:14,.600,.600,.600,.000,5.0,18.0,10.9,6.8,0.0,0.0,16.7,12.0,112,150,-3.7
+2020-02-03,202002030MIA,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202002030MIA.html,18:21,1.079,1.071,1.000,.286,6.1,14.5,9.9,0.0,0.0,0.0,11.3,21.5,168,151,17.6
+2020-02-03,202002030MIA,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/202002030MIA.html,16:48,.400,.400,.600,.000,0.0,7.9,3.6,9.4,3.1,0.0,16.7,15.9,78,144,-8.6
+2020-02-03,202002030MIA,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202002030MIA.html,16:05,.375,.375,.875,.000,0.0,16.6,7.6,19.9,0.0,0.0,11.1,24.9,85,150,-13.5
+2020-02-03,202002030MIA,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202002030MIA.html,15:16,1.500,1.500,1.000,.000,0.0,8.7,4.0,9.6,0.0,5.9,0.0,2.9,278,146,1.6
+2020-02-03,202002030MIA,PHI,Trey Burke,https://www.basketball-reference.com/boxscores/202002030MIA.html,12:00,.000,.000,.000,.000,9.3,0.0,5.1,33.3,0.0,0.0,0.0,7.4,101,152,-6.9
+2020-02-03,202002030MIA,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202002030MIA.html,8:26,.000,.000,.600,.000,26.5,15.8,21.6,0.0,0.0,0.0,16.7,31.6,25,150,-35.6
+2020-02-03,202002030MIA,PHI,Kyle O'Quinn,https://www.basketball-reference.com/boxscores/202002030MIA.html,4:26,.694,.667,.000,1.000,100.0,0.0,54.8,75.5,0.0,0.0,0.0,43.3,171,152,31.4
+2020-02-03,202002030MIA,PHI,Zhaire Smith,https://www.basketball-reference.com/boxscores/202002030MIA.html,4:26,.333,.333,.000,.000,0.0,0.0,0.0,0.0,11.8,0.0,0.0,30.1,75,126,-4.1
+2020-02-03,202002030MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202002030MIA.html,35:23,.567,.533,.000,.133,11.3,15.8,13.7,40.2,1.5,0.0,0.0,21.3,150,116,10.0
+2020-02-03,202002030MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202002030MIA.html,33:58,.733,.667,.889,1.000,0.0,6.6,3.6,10.0,0.0,0.0,0.0,18.1,156,123,1.8
+2020-02-03,202002030MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202002030MIA.html,28:39,.808,.750,.100,.400,9.3,19.5,14.8,13.7,5.5,0.0,0.0,38.9,167,105,22.5
+2020-02-03,202002030MIA,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202002030MIA.html,24:03,.750,.750,.333,.000,5.5,9.3,7.6,15.0,2.2,0.0,14.3,13.8,143,117,2.2
+2020-02-03,202002030MIA,MIA,Meyers Leonard,https://www.basketball-reference.com/boxscores/202002030MIA.html,15:57,.387,.500,.667,.667,0.0,35.0,19.0,0.0,0.0,0.0,0.0,11.5,74,111,-9.3
+2020-02-03,202002030MIA,MIA,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202002030MIA.html,37:28,.952,.929,.571,.286,0.0,8.9,4.9,3.1,2.8,0.0,0.0,10.0,187,116,6.5
+2020-02-03,202002030MIA,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202002030MIA.html,25:57,.796,.750,.667,.583,0.0,12.9,7.0,31.7,2.0,0.0,0.0,27.6,170,116,16.4
+2020-02-03,202002030MIA,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202002030MIA.html,23:49,.583,.583,.667,.000,0.0,18.7,10.2,0.0,0.0,4.5,25.0,15.9,80,116,-8.1
+2020-02-03,202002030MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202002030MIA.html,10:20,.167,.167,.333,.000,0.0,0.0,0.0,10.7,0.0,0.0,0.0,27.5,48,126,-25.6
+2020-02-03,202002030MIA,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/202002030MIA.html,4:26,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.7,200,125,-7.2

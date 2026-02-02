@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-05-25,202305250BOS,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202305250BOS.html,33:35,.554,.500,.200,.600,0.0,18.8,9.8,21.8,3.4,0.0,13.7,21.3,114,125,1.7
+2023-05-25,202305250BOS,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202305250BOS.html,31:53,.533,.533,.000,.000,8.6,23.8,16.5,16.2,3.6,3.8,28.6,32.1,86,121,-3.9
+2023-05-25,202305250BOS,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202305250BOS.html,30:18,.500,.500,.400,.000,0.0,8.3,4.3,4.3,0.0,0.0,44.4,14.5,58,137,-13.7
+2023-05-25,202305250BOS,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202305250BOS.html,24:10,.300,.300,.800,.000,0.0,0.0,0.0,5.2,0.0,0.0,0.0,10.1,81,140,-8.6
+2023-05-25,202305250BOS,MIA,Kevin Love,https://www.basketball-reference.com/boxscores/202305250BOS.html,13:44,.429,.429,.143,.000,30.0,27.6,28.7,0.0,0.0,0.0,0.0,24.9,112,130,-5.3
+2023-05-25,202305250BOS,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202305250BOS.html,36:00,.833,.833,.444,.000,3.8,3.5,3.7,4.2,3.2,0.0,0.0,12.2,173,131,8.1
+2023-05-25,202305250BOS,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202305250BOS.html,31:49,.543,.500,.417,.167,4.3,15.9,10.3,0.0,0.0,0.0,13.4,22.8,102,134,-6.9
+2023-05-25,202305250BOS,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202305250BOS.html,27:44,.827,.800,.300,.200,4.9,13.7,9.5,55.9,0.0,0.0,8.4,20.9,171,134,16.9
+2023-05-25,202305250BOS,MIA,Cody Zeller,https://www.basketball-reference.com/boxscores/202305250BOS.html,4:07,1.000,1.000,.000,.000,33.3,30.7,31.9,0.0,0.0,0.0,33.3,35.5,115,129,8.5
+2023-05-25,202305250BOS,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202305250BOS.html,3:20,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.6,0,140,-21.5
+2023-05-25,202305250BOS,MIA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202305250BOS.html,3:20,.500,.500,.500,.000,41.1,37.9,39.5,0.0,0.0,36.0,0.0,29.3,124,108,11.3
+2023-05-25,202305250BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202305250BOS.html,40:52,.563,.531,.375,.375,0.0,26.8,12.9,42.2,2.8,0.0,17.7,27.6,120,113,2.8
+2023-05-25,202305250BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202305250BOS.html,37:05,.974,1.000,.727,.273,3.4,7.4,5.3,4.4,3.1,0.0,7.5,17.9,174,117,9.9
+2023-05-25,202305250BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202305250BOS.html,36:52,.583,.583,.278,.000,6.9,0.0,3.6,9.2,4.6,0.0,5.3,25.7,125,116,1.0
+2023-05-25,202305250BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202305250BOS.html,29:56,.786,.750,.500,.500,4.2,9.2,6.6,11.1,9.5,0.0,12.0,27.7,145,103,16.9
+2023-05-25,202305250BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202305250BOS.html,29:01,.429,.429,.429,.000,21.8,28.4,24.9,23.6,2.0,3.0,0.0,12.0,150,113,4.8
+2023-05-25,202305250BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202305250BOS.html,26:49,.521,.375,1.000,1.000,9.4,10.2,9.8,0.0,0.0,3.3,0.0,10.7,136,121,-7.6
+2023-05-25,202305250BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202305250BOS.html,17:55,1.000,1.000,.000,.000,0.0,30.6,14.7,8.4,0.0,4.9,0.0,8.3,205,115,5.0
+2023-05-25,202305250BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202305250BOS.html,7:55,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.6,0,126,-24.7
+2023-05-25,202305250BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202305250BOS.html,4:33,.000,.000,1.000,.000,0.0,30.1,14.5,26.4,0.0,0.0,33.3,32.8,26,118,-35.1
+2023-05-25,202305250BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202305250BOS.html,3:20,.375,.375,.750,.000,37.9,0.0,19.7,0.0,0.0,0.0,0.0,59.8,100,126,-16.6
+2023-05-25,202305250BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202305250BOS.html,3:20,,,,,0.0,0.0,0.0,0.0,0.0,26.2,,0.0,0,107,2.6
+2023-05-25,202305250BOS,BOS,Justin Champagnie,https://www.basketball-reference.com/boxscores/202305250BOS.html,2:22,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-8.5

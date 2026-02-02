@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-12,202201120WAS,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202201120WAS.html,34:36,.467,.467,.533,.000,0.0,0.0,0.0,4.2,3.0,0.0,0.0,18.1,103,120,-6.1
+2022-01-12,202201120WAS,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202201120WAS.html,33:14,.484,.412,.471,.353,8.0,31.2,17.5,40.2,0.0,2.8,16.9,29.7,105,120,-1.7
+2022-01-12,202201120WAS,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202201120WAS.html,32:27,.415,.375,.125,.125,8.2,12.0,9.8,46.0,1.6,0.0,0.0,21.7,122,122,2.6
+2022-01-12,202201120WAS,ORL,Robin Lopez,https://www.basketball-reference.com/boxscores/202201120WAS.html,31:12,.522,.500,.000,.214,19.9,16.6,18.6,10.2,0.0,3.0,0.0,20.5,131,122,-2.1
+2022-01-12,202201120WAS,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202201120WAS.html,28:26,.506,.444,.667,.222,6.3,9.1,7.4,0.0,3.6,3.3,0.0,14.5,121,115,-1.9
+2022-01-12,202201120WAS,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202201120WAS.html,34:12,.521,.500,.400,.200,0.0,15.2,6.2,12.9,0.0,5.5,5.8,21.1,110,120,-3.3
+2022-01-12,202201120WAS,ORL,Admiral Schofield,https://www.basketball-reference.com/boxscores/202201120WAS.html,19:12,.800,.800,.600,.000,13.9,27.0,19.2,7.5,0.0,0.0,16.7,13.0,137,123,1.6
+2022-01-12,202201120WAS,ORL,R.J. Hampton,https://www.basketball-reference.com/boxscores/202201120WAS.html,17:11,.250,.250,.250,.000,0.0,30.2,12.3,29.2,3.0,5.5,33.3,14.6,65,112,-6.9
+2022-01-12,202201120WAS,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202201120WAS.html,9:30,.750,.750,.250,.000,0.0,27.3,11.1,19.6,0.0,0.0,20.0,22.0,110,123,-4.0
+2022-01-12,202201120WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202201120WAS.html,35:12,.745,.727,.273,.364,3.7,22.7,15.0,36.7,0.0,2.1,28.2,23.9,120,111,5.8
+2022-01-12,202201120WAS,WAS,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202201120WAS.html,32:24,.525,.464,.357,.357,0.0,5.5,3.3,17.4,3.2,0.0,0.0,23.7,117,114,-3.0
+2022-01-12,202201120WAS,WAS,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202201120WAS.html,30:45,.505,.500,.636,.182,8.4,23.1,17.2,17.0,1.7,0.0,7.8,19.9,111,108,-1.4
+2022-01-12,202201120WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202201120WAS.html,29:11,.917,.917,.833,.000,0.0,9.1,5.4,0.0,0.0,0.0,14.3,11.4,136,119,-2.1
+2022-01-12,202201120WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202201120WAS.html,15:57,1.000,1.000,.000,.000,8.1,11.1,9.9,9.7,0.0,9.4,0.0,11.9,205,113,8.5
+2022-01-12,202201120WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202201120WAS.html,20:42,.519,.500,.286,.071,0.0,4.3,2.5,8.7,2.5,0.0,6.5,35.4,96,116,-9.4
+2022-01-12,202201120WAS,WAS,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202201120WAS.html,20:33,.784,.750,.000,.625,12.6,26.0,20.5,8.1,0.0,0.0,0.0,23.5,165,110,7.7
+2022-01-12,202201120WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202201120WAS.html,18:44,.563,.500,.250,.250,0.0,9.5,5.6,33.8,5.5,0.0,18.4,13.8,122,107,6.4
+2022-01-12,202201120WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202201120WAS.html,12:35,.000,.000,1.000,.000,0.0,7.1,4.2,0.0,0.0,6.0,0.0,11.3,0,117,-15.7
+2022-01-12,202201120WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202201120WAS.html,12:27,.276,.200,.400,.200,0.0,7.1,4.2,0.0,0.0,0.0,15.5,24.5,49,120,-22.8
+2022-01-12,202201120WAS,WAS,Thomas Bryant,https://www.basketball-reference.com/boxscores/202201120WAS.html,11:30,1.042,1.250,.500,1.000,0.0,7.7,4.6,12.0,0.0,0.0,0.0,11.9,202,120,6.8

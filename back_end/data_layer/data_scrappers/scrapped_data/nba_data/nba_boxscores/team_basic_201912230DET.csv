@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2019-12-23,201912230DET,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/201912230DET.html,37.25,8,14,.571,0,0,0,0,6,7,13,17,0,0,4,4,16,22.0,+20,,
+2019-12-23,201912230DET,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/201912230DET.html,34.25,14,21,.667,4,7,3,3,1,6,7,3,2,0,0,3,35,31.3,+22,.571,1.000
+2019-12-23,201912230DET,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/201912230DET.html,33.0,4,11,.364,0,4,1,2,0,2,2,3,1,2,3,4,9,3.0,-5,.000,.500
+2019-12-23,201912230DET,PHI,Al Horford,https://www.basketball-reference.com/boxscores/201912230DET.html,30.88,4,7,.571,1,3,0,0,0,6,6,4,1,1,0,1,9,11.6,+23,.333,
+2019-12-23,201912230DET,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/201912230DET.html,27.88,7,9,.778,1,1,5,6,3,5,8,3,1,3,3,2,20,21.1,-7,1.000,.833
+2019-12-23,201912230DET,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/201912230DET.html,24.02,2,7,.286,2,4,0,0,4,3,7,2,0,2,1,2,6,6.6,+20,.500,
+2019-12-23,201912230DET,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201912230DET.html,21.7,9,16,.563,3,7,0,0,2,2,4,0,3,0,0,0,21,18.4,+26,.429,
+2019-12-23,201912230DET,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/201912230DET.html,17.3,3,6,.500,1,4,0,0,1,0,1,0,0,0,0,1,7,4.3,-12,.250,
+2019-12-23,201912230DET,PHI,Trey Burke,https://www.basketball-reference.com/boxscores/201912230DET.html,10.73,0,3,.000,0,0,0,0,0,0,0,1,0,0,1,3,0,-3.6,-4,,
+2019-12-23,201912230DET,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/201912230DET.html,0.97,1,1,1.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1.7,-1,,
+2019-12-23,201912230DET,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/201912230DET.html,0.97,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,,
+2019-12-23,201912230DET,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/201912230DET.html,0.97,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2019-12-23,201912230DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/201912230DET.html,32.18,4,7,.571,4,5,1,2,0,2,2,4,0,0,0,3,13,11.5,-8,.800,.500
+2019-12-23,201912230DET,DET,Tony Snell,https://www.basketball-reference.com/boxscores/201912230DET.html,31.6,3,6,.500,2,4,0,0,0,2,2,0,0,0,2,1,8,3.2,-9,.500,
+2019-12-23,201912230DET,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/201912230DET.html,27.47,2,14,.143,0,6,4,5,1,4,5,3,2,0,1,1,8,3.2,-19,.000,.800
+2019-12-23,201912230DET,DET,Tim Frazier,https://www.basketball-reference.com/boxscores/201912230DET.html,22.7,3,5,.600,1,2,0,0,0,1,1,5,1,0,2,4,7,5.9,-13,.500,
+2019-12-23,201912230DET,DET,Thon Maker,https://www.basketball-reference.com/boxscores/201912230DET.html,9.67,1,4,.250,0,2,2,2,1,2,3,0,0,0,1,0,4,1.9,-6,.000,1.000
+2019-12-23,201912230DET,DET,Andre Drummond,https://www.basketball-reference.com/boxscores/201912230DET.html,32.45,13,16,.813,0,0,1,2,3,6,9,3,1,0,1,3,27,25.4,-2,,.500
+2019-12-23,201912230DET,DET,Langston Galloway,https://www.basketball-reference.com/boxscores/201912230DET.html,31.23,2,8,.250,1,3,1,1,1,0,1,4,1,0,2,0,6,3.7,-16,.333,1.000
+2019-12-23,201912230DET,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/201912230DET.html,25.28,7,14,.500,0,4,2,2,0,3,3,7,2,1,2,0,16,15.5,-3,.000,1.000
+2019-12-23,201912230DET,DET,Markieff Morris,https://www.basketball-reference.com/boxscores/201912230DET.html,22.13,4,5,.800,2,3,1,2,0,3,3,1,1,0,1,1,11,9.9,-4,.667,.500
+2019-12-23,201912230DET,DET,Christian Wood,https://www.basketball-reference.com/boxscores/201912230DET.html,4.25,4,5,.800,0,1,0,0,0,0,0,0,1,0,1,1,8,5.7,-1,.000,
+2019-12-23,201912230DET,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/201912230DET.html,0.97,0,0,,0,0,1,2,0,1,1,0,0,0,0,0,1,0.9,+1,,.500

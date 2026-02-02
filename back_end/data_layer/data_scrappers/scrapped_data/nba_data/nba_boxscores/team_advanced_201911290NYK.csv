@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-29,201911290NYK,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/201911290NYK.html,37:41,.487,.455,.000,.909,3.5,10.8,7.7,41.4,2.7,0.0,20.6,23.4,96,100,-1.8
+2019-11-29,201911290NYK,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/201911290NYK.html,35:27,.527,.368,.211,.789,11.3,40.3,27.7,12.6,0.0,7.0,10.5,36.7,108,93,2.2
+2019-11-29,201911290NYK,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/201911290NYK.html,35:06,.594,.594,.125,.000,3.8,14.5,9.9,7.3,1.4,4.7,20.0,25.9,90,98,-1.7
+2019-11-29,201911290NYK,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201911290NYK.html,30:36,.507,.438,.500,.250,0.0,20.0,11.3,6.0,0.0,0.0,10.1,14.7,97,104,-5.4
+2019-11-29,201911290NYK,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/201911290NYK.html,21:27,.000,.000,1.000,.000,0.0,4.8,2.7,14.4,2.4,0.0,0.0,4.2,52,102,-5.8
+2019-11-29,201911290NYK,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/201911290NYK.html,21:56,.000,.000,1.000,.000,12.2,14.0,13.2,7.1,0.0,0.0,0.0,8.3,50,105,-9.7
+2019-11-29,201911290NYK,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/201911290NYK.html,21:38,1.116,1.100,.800,1.800,6.2,14.2,10.7,20.1,0.0,3.8,0.0,18.8,227,102,26.6
+2019-11-29,201911290NYK,PHI,Trey Burke,https://www.basketball-reference.com/boxscores/201911290NYK.html,17:31,.625,.625,.750,.000,0.0,0.0,0.0,32.2,2.9,0.0,33.3,15.6,93,103,0.3
+2019-11-29,201911290NYK,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/201911290NYK.html,12:33,.852,,,,0.0,16.3,9.2,12.3,0.0,26.4,53.2,13.6,89,82,3.9
+2019-11-29,201911290NYK,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/201911290NYK.html,6:05,.500,.500,1.000,.000,0.0,0.0,0.0,34.1,0.0,0.0,0.0,22.4,113,107,-0.4
+2019-11-29,201911290NYK,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201911290NYK.html,37:02,.464,.464,.143,.000,0.0,7.2,3.1,19.8,1.4,0.0,12.5,19.5,92,109,-3.1
+2019-11-29,201911290NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/201911290NYK.html,35:11,.588,.500,.231,1.000,2.9,34.1,16.4,21.1,1.4,0.0,17.6,29.1,107,103,6.4
+2019-11-29,201911290NYK,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/201911290NYK.html,33:40,.683,.625,.333,.500,3.0,23.8,12.0,0.0,0.0,3.1,6.4,20.9,132,106,5.3
+2019-11-29,201911290NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/201911290NYK.html,28:46,.670,.654,.154,.077,0.0,13.9,6.0,16.2,0.0,0.0,13.0,24.2,118,110,2.7
+2019-11-29,201911290NYK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/201911290NYK.html,17:20,.400,.400,.000,.000,5.9,7.7,6.7,0.0,2.9,6.0,16.7,15.6,75,102,-4.7
+2019-11-29,201911290NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201911290NYK.html,29:22,.196,.200,.000,1.200,13.9,13.6,13.8,0.0,0.0,7.1,0.0,11.7,71,106,-9.4
+2019-11-29,201911290NYK,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/201911290NYK.html,19:32,.563,.500,.500,.250,0.0,0.0,0.0,9.2,2.6,0.0,0.0,20.5,121,108,5.7
+2019-11-29,201911290NYK,NYK,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/201911290NYK.html,14:04,.647,1.000,.000,3.000,7.3,19.0,12.3,22.3,0.0,0.0,56.4,17.0,74,109,-8.1
+2019-11-29,201911290NYK,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/201911290NYK.html,12:50,.205,.250,.500,.500,8.0,10.4,9.0,0.0,3.9,0.0,17.0,20.6,45,103,-10.9
+2019-11-29,201911290NYK,NYK,Wayne Ellington,https://www.basketball-reference.com/boxscores/201911290NYK.html,12:13,.000,.000,1.000,.000,0.0,10.9,4.7,11.6,0.0,0.0,0.0,11.1,20,111,-11.8

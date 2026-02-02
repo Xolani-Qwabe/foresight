@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-07,202212070PHO,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202212070PHO.html,29:06,.578,.553,.421,.316,0.0,15.0,8.1,9.7,3.1,0.0,12.2,34.2,104,93,2.2
+2022-12-07,202212070PHO,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202212070PHO.html,28:06,.477,.417,.333,.208,10.9,12.4,11.7,15.2,3.3,0.0,3.7,39.1,108,94,2.9
+2022-12-07,202212070PHO,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202212070PHO.html,25:41,.400,.400,.600,.000,4.0,10.2,7.3,24.8,5.3,0.0,50.0,15.7,73,90,-5.4
+2022-12-07,202212070PHO,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202212070PHO.html,22:13,1.167,1.167,.333,.000,9.2,15.7,12.7,0.0,0.0,0.0,0.0,10.9,233,100,11.0
+2022-12-07,202212070PHO,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202212070PHO.html,21:30,.750,.750,.667,.000,4.8,32.5,19.7,5.3,0.0,3.7,0.0,11.3,156,91,5.8
+2022-12-07,202212070PHO,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202212070PHO.html,26:05,1.000,1.000,.000,.000,3.9,10.0,7.2,14.5,3.5,3.0,0.0,9.3,208,92,13.5
+2022-12-07,202212070PHO,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202212070PHO.html,21:23,.429,.429,.857,.000,4.8,20.4,13.2,0.0,2.1,0.0,0.0,13.2,98,93,-3.8
+2022-12-07,202212070PHO,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202212070PHO.html,19:13,.889,.889,.444,.000,0.0,13.6,7.3,39.6,0.0,0.0,10.0,21.0,164,101,14.2
+2022-12-07,202212070PHO,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202212070PHO.html,18:13,.389,.389,.444,.000,5.6,4.8,5.2,38.5,7.5,0.0,0.0,20.0,117,87,9.6
+2022-12-07,202212070PHO,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202212070PHO.html,10:06,.000,.000,.667,.000,0.0,8.6,4.7,19.4,0.0,0.0,0.0,12.0,45,103,-10.0
+2022-12-07,202212070PHO,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202212070PHO.html,10:06,.595,.500,.600,.400,10.1,8.6,9.3,12.0,4.5,0.0,14.5,27.5,117,93,4.5
+2022-12-07,202212070PHO,BOS,Noah Vonleh,https://www.basketball-reference.com/boxscores/202212070PHO.html,8:18,.000,.000,.500,.000,0.0,42.1,22.7,0.0,0.0,9.5,33.3,14.6,0,84,-21.1
+2022-12-07,202212070PHO,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202212070PHO.html,27:40,.167,.167,.417,.000,3.2,7.4,5.1,0.0,1.7,0.0,7.7,18.9,39,121,-14.9
+2022-12-07,202212070PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202212070PHO.html,24:37,.453,.382,.353,.235,3.5,16.6,9.6,23.1,0.0,3.5,9.6,33.9,94,120,-1.5
+2022-12-07,202212070PHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202212070PHO.html,24:28,.571,.571,.000,.000,7.1,20.9,13.5,13.5,1.9,0.0,36.4,18.1,81,117,-4.2
+2022-12-07,202212070PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202212070PHO.html,24:03,.333,.333,.333,.000,0.0,17.0,7.8,24.2,1.9,0.0,40.0,16.7,56,118,-13.1
+2022-12-07,202212070PHO,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202212070PHO.html,23:43,.611,.611,.556,.000,3.7,8.6,6.0,7.5,0.0,3.6,10.0,17.0,113,122,0.3
+2022-12-07,202212070PHO,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202212070PHO.html,23:23,.761,.714,.429,.714,18.7,8.7,14.1,20.0,0.0,3.7,9.8,35.1,144,122,23.6
+2022-12-07,202212070PHO,PHO,Landry Shamet,https://www.basketball-reference.com/boxscores/202212070PHO.html,20:40,.600,.600,.800,.000,0.0,4.9,2.3,7.2,0.0,0.0,0.0,9.7,128,125,-1.2
+2022-12-07,202212070PHO,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202212070PHO.html,16:18,.419,.385,.154,.231,5.4,12.5,8.7,39.7,2.8,0.0,0.0,35.3,100,117,3.7
+2022-12-07,202212070PHO,PHO,Jock Landale,https://www.basketball-reference.com/boxscores/202212070PHO.html,14:14,.250,.250,.250,.000,6.1,14.4,9.9,20.1,0.0,0.0,20.0,14.1,68,123,-7.2
+2022-12-07,202212070PHO,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202212070PHO.html,13:51,1.000,1.000,.000,.000,0.0,29.5,13.6,0.0,0.0,0.0,50.0,5.8,80,119,-5.8
+2022-12-07,202212070PHO,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202212070PHO.html,12:00,.515,.333,.333,.667,0.0,51.1,23.5,0.0,0.0,0.0,20.5,16.4,87,114,-4.8
+2022-12-07,202212070PHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202212070PHO.html,10:06,,,,,0.0,10.1,4.7,12.8,4.5,0.0,,0.0,222,114,3.1
+2022-12-07,202212070PHO,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202212070PHO.html,4:57,.000,.000,.000,.000,17.6,20.6,19.0,0.0,0.0,17.3,33.3,24.4,20,109,-22.6

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-11,202201110CHI,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202201110CHI.html,36:50,.418,.400,.667,.267,4.2,9.8,6.4,22.2,0.0,2.2,10.7,20.6,88,136,-4.9
+2022-01-11,202201110CHI,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202201110CHI.html,33:26,.364,.364,.364,.000,2.3,7.2,4.2,29.6,5.6,0.0,21.4,16.9,72,125,-5.1
+2022-01-11,202201110CHI,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202201110CHI.html,29:22,.364,.364,.455,.000,2.6,24.5,11.2,19.5,1.6,0.0,35.3,23.4,54,129,-15.5
+2022-01-11,202201110CHI,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202201110CHI.html,28:10,.564,.500,.375,.500,13.7,8.5,11.7,14.7,0.0,11.8,17.0,16.9,110,131,-0.2
+2022-01-11,202201110CHI,DET,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202201110CHI.html,17:59,.500,.500,.286,.000,0.0,46.7,18.3,12.1,5.2,0.0,12.5,18.0,90,114,-0.9
+2022-01-11,202201110CHI,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202201110CHI.html,29:26,.559,.500,.385,.231,5.3,0.0,3.2,0.0,3.2,0.0,17.3,23.8,95,133,-6.0
+2022-01-11,202201110CHI,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202201110CHI.html,21:38,.458,.200,.200,1.200,3.6,11.1,6.5,8.0,0.0,0.0,11.6,16.1,97,137,-9.9
+2022-01-11,202201110CHI,DET,Cassius Stanley,https://www.basketball-reference.com/boxscores/202201110CHI.html,17:51,.254,.143,.286,.286,4.3,6.7,5.3,0.0,0.0,0.0,0.0,17.8,65,139,-14.1
+2022-01-11,202201110CHI,DET,Trey Lyles,https://www.basketball-reference.com/boxscores/202201110CHI.html,15:10,.387,.167,.333,.667,0.0,23.7,9.3,11.8,0.0,0.0,0.0,20.7,94,134,-7.3
+2022-01-11,202201110CHI,DET,Luka Garza,https://www.basketball-reference.com/boxscores/202201110CHI.html,10:06,.387,.333,.167,.667,15.3,0.0,9.3,0.0,0.0,16.4,0.0,31.0,92,131,0.1
+2022-01-11,202201110CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202201110CHI.html,29:05,.460,.400,.500,.200,0.0,24.0,14.6,25.6,1.6,0.0,8.4,16.7,126,83,0.7
+2022-01-11,202201110CHI,CHI,Lonzo Ball,https://www.basketball-reference.com/boxscores/202201110CHI.html,27:16,.872,.889,.778,.333,4.4,14.2,10.4,22.3,5.2,3.3,8.8,17.0,170,79,18.2
+2022-01-11,202201110CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202201110CHI.html,27:08,.611,.611,.222,.000,13.3,14.3,13.9,21.9,3.5,0.0,10.0,30.1,128,84,6.0
+2022-01-11,202201110CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202201110CHI.html,26:35,.658,.615,.000,.385,9.0,29.1,21.2,35.5,0.0,0.0,16.5,28.0,133,84,5.2
+2022-01-11,202201110CHI,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202201110CHI.html,13:21,1.000,1.000,.667,.000,0.0,11.6,7.1,0.0,0.0,0.0,0.0,9.2,194,92,0.7
+2022-01-11,202201110CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202201110CHI.html,27:10,.530,.500,.444,.111,0.0,2.8,1.7,0.0,0.0,3.3,9.6,15.7,102,96,-8.1
+2022-01-11,202201110CHI,CHI,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202201110CHI.html,24:32,.500,.500,.286,.000,9.8,15.8,13.4,22.2,11.5,0.0,12.5,13.3,132,66,15.9
+2022-01-11,202201110CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202201110CHI.html,23:02,.666,.563,.375,.500,0.0,3.4,2.0,15.0,0.0,0.0,23.5,22.7,116,97,-6.1
+2022-01-11,202201110CHI,CHI,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202201110CHI.html,12:07,1.000,1.000,.400,.000,9.9,6.4,7.8,0.0,3.9,0.0,16.7,20.3,146,87,12.7
+2022-01-11,202201110CHI,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202201110CHI.html,10:12,.644,.667,.000,.667,47.1,22.8,32.3,0.0,0.0,8.7,20.5,19.6,131,83,-2.5
+2022-01-11,202201110CHI,CHI,Matt Thomas,https://www.basketball-reference.com/boxscores/202201110CHI.html,7:20,1.025,1.125,1.000,.500,0.0,21.1,12.8,0.0,0.0,0.0,17.0,32.8,130,88,21.0
+2022-01-11,202201110CHI,CHI,Devon Dotson,https://www.basketball-reference.com/boxscores/202201110CHI.html,6:06,.333,.333,.333,.000,0.0,12.7,7.7,37.4,0.0,0.0,40.0,33.5,67,93,-20.4
+2022-01-11,202201110CHI,CHI,Marko Simonovic,https://www.basketball-reference.com/boxscores/202201110CHI.html,6:06,,,,,19.7,25.4,23.1,0.0,0.0,14.6,,0.0,232,77,-6.4

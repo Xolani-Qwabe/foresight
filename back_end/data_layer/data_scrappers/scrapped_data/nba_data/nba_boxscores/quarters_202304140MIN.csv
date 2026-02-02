@@ -1,0 +1,71 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-04-14,202304140MIN,OKC,Q1,Luguentz Dort,https://www.basketball-reference.com/boxscores/202304140MIN.html,12.0,2,4,.500,1,2,.500,1,2,.500,2,2,4,0,1,0,0,1,6,6.2,-1
+2023-04-14,202304140MIN,OKC,Q1,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202304140MIN.html,12.0,2,6,.333,0,1,.000,2,2,1.000,1,2,3,1,0,1,0,2,6,4.5,-1
+2023-04-14,202304140MIN,OKC,Q1,Jalen Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.92,2,3,.667,1,2,.500,0,0,,0,1,1,1,0,0,1,0,5,3.7,-3
+2023-04-14,202304140MIN,OKC,Q1,Josh Giddey,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.12,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,2,0,0,-2.4,-2
+2023-04-14,202304140MIN,OKC,Q1,Jaylin Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.43,0,0,,0,0,,0,0,,0,2,2,0,0,2,0,0,0,2.0,-4
+2023-04-14,202304140MIN,OKC,Q1,Isaiah Joe,https://www.basketball-reference.com/boxscores/202304140MIN.html,4.88,1,4,.250,1,2,.500,0,0,,1,1,2,1,0,1,0,0,3,3.0,+1
+2023-04-14,202304140MIN,OKC,Q1,Lindy Waters III,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.08,1,2,.500,1,2,.500,0,0,,1,0,1,0,0,0,1,1,3,1.3,+2
+2023-04-14,202304140MIN,OKC,Q1,Dario Šarić,https://www.basketball-reference.com/boxscores/202304140MIN.html,4.57,0,2,.000,0,2,.000,0,0,,0,1,1,0,1,0,0,1,0,-0.5,+3
+2023-04-14,202304140MIN,OKC,Q2,Luguentz Dort,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.47,1,3,.333,0,1,.000,0,0,,0,2,2,1,0,0,0,1,2,1.2,-4
+2023-04-14,202304140MIN,OKC,Q2,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202304140MIN.html,9.15,1,6,.167,0,0,,2,2,1.000,0,0,0,1,0,0,0,1,4,0.5,-2
+2023-04-14,202304140MIN,OKC,Q2,Jalen Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.77,2,2,1.000,2,2,1.000,3,4,.750,0,1,1,1,2,0,2,1,9,8.6,-11
+2023-04-14,202304140MIN,OKC,Q2,Josh Giddey,https://www.basketball-reference.com/boxscores/202304140MIN.html,9.22,1,4,.250,0,1,.000,0,0,,1,2,3,1,0,0,0,0,2,1.6,-8
+2023-04-14,202304140MIN,OKC,Q2,Jaylin Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,5.8,1,1,1.000,1,1,1.000,0,0,,0,3,3,0,0,0,0,0,3,3.6,+1
+2023-04-14,202304140MIN,OKC,Q2,Isaiah Joe,https://www.basketball-reference.com/boxscores/202304140MIN.html,4.98,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,2,1,0,-3.8,-10
+2023-04-14,202304140MIN,OKC,Q2,Lindy Waters III,https://www.basketball-reference.com/boxscores/202304140MIN.html,1.9,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2
+2023-04-14,202304140MIN,OKC,Q2,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202304140MIN.html,9.87,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,1,2,1.6,-6
+2023-04-14,202304140MIN,OKC,Q2,Dario Šarić,https://www.basketball-reference.com/boxscores/202304140MIN.html,2.85,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,-7
+2023-04-14,202304140MIN,OKC,Q3,Luguentz Dort,https://www.basketball-reference.com/boxscores/202304140MIN.html,12.0,2,5,.400,2,4,.500,0,0,,0,0,0,1,1,0,1,0,6,4.0,-7
+2023-04-14,202304140MIN,OKC,Q3,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202304140MIN.html,9.97,1,6,.167,0,0,,8,8,1.000,2,1,3,1,1,2,0,1,10,10.6,-10
+2023-04-14,202304140MIN,OKC,Q3,Jalen Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.88,0,1,.000,0,1,.000,0,0,,0,1,1,3,0,0,0,0,0,1.7,-1
+2023-04-14,202304140MIN,OKC,Q3,Josh Giddey,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.87,1,5,.200,0,2,.000,2,2,1.000,0,0,0,1,1,0,0,0,4,2.6,-4
+2023-04-14,202304140MIN,OKC,Q3,Jaylin Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,5.82,2,3,.667,1,2,.500,0,0,,0,1,1,0,0,0,0,2,5,3.2,-4
+2023-04-14,202304140MIN,OKC,Q3,Isaiah Joe,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.22,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,0,2,4,1.9,0
+2023-04-14,202304140MIN,OKC,Q3,Lindy Waters III,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.12,1,1,1.000,0,0,,0,0,,1,0,1,0,1,0,1,0,2,2.4,-6
+2023-04-14,202304140MIN,OKC,Q3,Dario Šarić,https://www.basketball-reference.com/boxscores/202304140MIN.html,5.13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2023-04-14,202304140MIN,OKC,Q4,Luguentz Dort,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.78,1,2,.500,1,1,1.000,0,0,,0,2,2,1,0,0,0,1,3,2.9,-2
+2023-04-14,202304140MIN,OKC,Q4,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202304140MIN.html,4.83,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,1,0,2,1.4,-9
+2023-04-14,202304140MIN,OKC,Q4,Jalen Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.82,1,4,.250,1,3,.333,0,0,,1,0,1,0,1,0,1,1,3,0.9,-8
+2023-04-14,202304140MIN,OKC,Q4,Josh Giddey,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.82,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4,-8
+2023-04-14,202304140MIN,OKC,Q4,Jaylin Williams,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.72,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-10
+2023-04-14,202304140MIN,OKC,Q4,Isaiah Joe,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2023-04-14,202304140MIN,OKC,Q4,Lindy Waters III,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.22,0,3,.000,0,3,.000,0,0,,0,0,0,2,0,0,0,1,0,-1.1,-6
+2023-04-14,202304140MIN,OKC,Q4,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202304140MIN.html,5.18,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,0
+2023-04-14,202304140MIN,OKC,Q4,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.17,2,5,.400,0,1,.000,0,0,,0,2,2,0,0,0,0,1,4,1.5,+1
+2023-04-14,202304140MIN,OKC,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202304140MIN.html,5.18,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,0
+2023-04-14,202304140MIN,OKC,Q4,Tre Mann,https://www.basketball-reference.com/boxscores/202304140MIN.html,5.18,0,0,,0,0,,0,0,,0,1,1,1,0,0,3,0,0,-2.0,0
+2023-04-14,202304140MIN,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202304140MIN.html,12.0,2,6,.333,0,2,.000,0,0,,0,3,3,3,1,0,0,0,4,4.6,+1
+2023-04-14,202304140MIN,MIN,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.92,1,3,.333,0,2,.000,0,0,,0,0,0,1,1,0,1,0,2,1.0,+3
+2023-04-14,202304140MIN,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.12,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,2,1.6,-2
+2023-04-14,202304140MIN,MIN,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.7,1,1,1.000,0,0,,2,2,1.000,0,1,1,1,0,0,0,0,4,4.7,+2
+2023-04-14,202304140MIN,MIN,Q1,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.92,3,4,.750,0,1,.000,0,0,,1,1,2,0,0,0,1,1,6,4.0,+3
+2023-04-14,202304140MIN,MIN,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.97,2,4,.500,1,1,1.000,1,1,1.000,0,3,3,0,0,0,1,1,6,3.5,+1
+2023-04-14,202304140MIN,MIN,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202304140MIN.html,5.3,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-1
+2023-04-14,202304140MIN,MIN,Q1,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.08,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.8,-2
+2023-04-14,202304140MIN,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.47,3,5,.600,1,1,1.000,0,0,,1,2,3,1,0,0,0,0,7,6.7,+4
+2023-04-14,202304140MIN,MIN,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202304140MIN.html,9.15,2,4,.500,1,3,.333,0,0,,0,1,1,0,0,0,0,2,5,2.5,+2
+2023-04-14,202304140MIN,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.97,1,3,.333,0,0,,0,2,.000,2,1,3,1,0,0,0,0,2,1.9,+8
+2023-04-14,202304140MIN,MIN,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.65,2,2,1.000,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,5,6.8,+6
+2023-04-14,202304140MIN,MIN,Q2,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.88,3,5,.600,0,0,,3,3,1.000,0,3,3,0,0,0,0,1,9,7.2,+8
+2023-04-14,202304140MIN,MIN,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202304140MIN.html,11.12,2,3,.667,1,2,.500,0,0,,0,2,2,2,0,1,1,1,5,5.0,+6
+2023-04-14,202304140MIN,MIN,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.77,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,1,0,-2.1,+11
+2023-04-14,202304140MIN,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202304140MIN.html,12.0,3,5,.600,2,3,.667,0,0,,0,3,3,2,0,0,1,1,8,6.6,+7
+2023-04-14,202304140MIN,MIN,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202304140MIN.html,11.48,1,2,.500,0,1,.000,0,0,,0,1,1,4,2,2,1,0,2,6.5,+6
+2023-04-14,202304140MIN,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.38,3,4,.750,0,0,,3,4,.750,1,3,4,0,0,0,2,1,9,6.2,+7
+2023-04-14,202304140MIN,MIN,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.6,0,1,.000,0,1,.000,2,2,1.000,0,1,1,1,0,0,1,0,2,1.3,+8
+2023-04-14,202304140MIN,MIN,Q3,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.88,4,5,.800,1,2,.500,2,2,1.000,1,3,4,2,0,2,0,0,11,13.5,+1
+2023-04-14,202304140MIN,MIN,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.73,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+6
+2023-04-14,202304140MIN,MIN,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202304140MIN.html,4.92,2,3,.667,2,2,1.000,0,0,,0,0,0,1,0,0,0,4,6,3.8,0
+2023-04-14,202304140MIN,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.47,0,3,.000,0,2,.000,0,0,,0,1,1,0,1,1,1,0,0,-1.1,-5
+2023-04-14,202304140MIN,MIN,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202304140MIN.html,7.73,1,1,1.000,1,1,1.000,0,0,,0,2,2,1,0,0,0,1,3,3.6,+7
+2023-04-14,202304140MIN,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202304140MIN.html,8.12,2,3,.667,0,0,,4,6,.667,1,1,2,1,0,0,0,0,8,7.6,+6
+2023-04-14,202304140MIN,MIN,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.82,1,2,.500,1,2,.500,0,0,,0,1,1,0,2,0,0,0,3,4.3,+8
+2023-04-14,202304140MIN,MIN,Q4,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202304140MIN.html,4.33,1,2,.500,0,1,.000,0,0,,1,1,2,1,0,1,0,0,2,3.4,+7
+2023-04-14,202304140MIN,MIN,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202304140MIN.html,6.7,0,2,.000,0,0,,0,0,,1,0,1,1,0,0,1,0,0,-1.0,+12
+2023-04-14,202304140MIN,MIN,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202304140MIN.html,2.18,0,2,.000,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0.3,+1
+2023-04-14,202304140MIN,MIN,Q4,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.88,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,+2
+2023-04-14,202304140MIN,MIN,Q4,Josh Minott,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.88,2,2,1.000,1,1,1.000,2,2,1.000,0,0,0,0,0,0,0,0,7,6.4,+2
+2023-04-14,202304140MIN,MIN,Q4,Nathan Knight,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.88,0,0,,0,0,,0,0,,0,2,2,1,1,0,2,0,0,0.3,+2
+2023-04-14,202304140MIN,MIN,Q4,Austin Rivers,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.0,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,-1
+2023-04-14,202304140MIN,MIN,Q4,Wendell Moore Jr.,https://www.basketball-reference.com/boxscores/202304140MIN.html,3.0,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1

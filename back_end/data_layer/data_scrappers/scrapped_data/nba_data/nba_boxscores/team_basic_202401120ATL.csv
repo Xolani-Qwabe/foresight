@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-01-12,202401120ATL,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202401120ATL.html,25.93,5,9,.556,0,3,.000,2,3,.667,2,5,7,4,2,2,3,2,12,12.6,+9
+2024-01-12,202401120ATL,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202401120ATL.html,22.67,4,6,.667,2,2,1.000,0,0,,0,4,4,6,2,0,4,2,10,10.0,+4
+2024-01-12,202401120ATL,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202401120ATL.html,21.42,5,6,.833,3,3,1.000,0,0,,1,3,4,0,1,0,1,3,13,11.2,+1
+2024-01-12,202401120ATL,IND,Bruce Brown,https://www.basketball-reference.com/boxscores/202401120ATL.html,21.15,5,9,.556,2,3,.667,0,0,,0,1,1,4,0,0,2,0,12,8.8,+8
+2024-01-12,202401120ATL,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202401120ATL.html,19.25,3,7,.429,0,0,,0,0,,3,4,7,0,0,0,0,1,6,5.2,+11
+2024-01-12,202401120ATL,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202401120ATL.html,27.28,6,9,.667,0,1,.000,3,5,.600,1,0,1,3,0,0,5,2,15,7.3,+16
+2024-01-12,202401120ATL,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202401120ATL.html,25.33,3,5,.600,0,0,,0,0,,0,4,4,14,3,1,5,0,6,13.4,+14
+2024-01-12,202401120ATL,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202401120ATL.html,23.23,7,11,.636,4,6,.667,0,0,,0,3,3,2,0,3,2,3,18,14.3,+14
+2024-01-12,202401120ATL,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202401120ATL.html,20.55,7,7,1.000,0,0,,4,4,1.000,2,5,7,4,0,0,1,4,18,19.0,+10
+2024-01-12,202401120ATL,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202401120ATL.html,18.37,6,7,.857,0,0,,0,0,,1,4,5,2,4,3,2,3,12,15.7,+11
+2024-01-12,202401120ATL,IND,Oscar Tshiebwe,https://www.basketball-reference.com/boxscores/202401120ATL.html,3.7,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7,-2
+2024-01-12,202401120ATL,IND,Kendall Brown,https://www.basketball-reference.com/boxscores/202401120ATL.html,3.7,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2
+2024-01-12,202401120ATL,IND,Jordan Nwora,https://www.basketball-reference.com/boxscores/202401120ATL.html,3.7,0,1,.000,0,0,,0,0,,0,1,1,2,0,0,0,0,0,1.0,-2
+2024-01-12,202401120ATL,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202401120ATL.html,3.7,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2024-01-12,202401120ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202401120ATL.html,32.47,7,11,.636,1,2,.500,1,3,.333,0,4,4,3,2,0,3,3,16,11.4,-17
+2024-01-12,202401120ATL,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202401120ATL.html,31.78,13,18,.722,3,6,.500,0,0,,0,4,4,4,3,0,3,2,29,24.8,-1
+2024-01-12,202401120ATL,ATL,Saddiq Bey,https://www.basketball-reference.com/boxscores/202401120ATL.html,31.2,3,10,.300,3,7,.429,8,9,.889,1,3,4,2,1,0,0,1,17,14.4,+1
+2024-01-12,202401120ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202401120ATL.html,30.05,4,17,.235,2,6,.333,3,3,1.000,3,0,3,6,2,0,5,1,13,5.6,-19
+2024-01-12,202401120ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202401120ATL.html,21.68,3,5,.600,0,0,,1,4,.250,3,2,5,1,1,1,0,1,7,8.2,-1
+2024-01-12,202401120ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202401120ATL.html,24.93,3,12,.250,2,5,.400,2,2,1.000,3,2,5,2,3,0,2,2,10,7.1,-24
+2024-01-12,202401120ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202401120ATL.html,22.62,3,4,.750,0,0,,0,0,,1,0,1,1,0,0,0,2,6,5.0,-19
+2024-01-12,202401120ATL,ATL,Trent Forrest,https://www.basketball-reference.com/boxscores/202401120ATL.html,19.63,2,5,.400,0,0,,0,0,,0,0,0,6,1,0,1,0,4,5.5,-5
+2024-01-12,202401120ATL,ATL,Patty Mills,https://www.basketball-reference.com/boxscores/202401120ATL.html,14.53,1,3,.333,0,1,.000,0,0,,1,0,1,0,1,0,0,1,2,1.6,-11
+2024-01-12,202401120ATL,ATL,AJ Griffin,https://www.basketball-reference.com/boxscores/202401120ATL.html,3.7,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,1,0,0,2,1.7,+2
+2024-01-12,202401120ATL,ATL,Seth Lundy,https://www.basketball-reference.com/boxscores/202401120ATL.html,3.7,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,1.3,+2
+2024-01-12,202401120ATL,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202401120ATL.html,3.7,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+2

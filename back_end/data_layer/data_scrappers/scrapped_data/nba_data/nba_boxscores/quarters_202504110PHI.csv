@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-04-11,202504110PHI,ATL,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.22,1,3,.333,0,1,.000,0,0,1,4,5,1,1,1,1,0,2,3.6,+1,
+2025-04-11,202504110PHI,ATL,Q1,Trae Young,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.0,2,4,.500,0,1,.000,3,4,0,0,0,3,0,0,1,0,7,5.7,0,.750
+2025-04-11,202504110PHI,ATL,Q1,Mouhamed Gueye,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.0,0,1,.000,0,1,.000,0,0,2,3,5,0,0,0,1,0,0,0.6,0,
+2025-04-11,202504110PHI,ATL,Q1,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.22,1,3,.333,0,2,.000,0,0,0,0,0,1,1,0,1,1,2,0.6,+1,
+2025-04-11,202504110PHI,ATL,Q1,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.12,2,3,.667,0,0,,2,2,0,2,2,0,0,0,1,0,6,4.3,0,1.000
+2025-04-11,202504110PHI,ATL,Q1,Caris LeVert,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.78,2,2,1.000,1,1,1.000,2,2,0,2,2,0,0,0,0,0,7,7.0,+5,1.000
+2025-04-11,202504110PHI,ATL,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202504110PHI.html,4.88,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,1.6,+3,
+2025-04-11,202504110PHI,ATL,Q1,Georges Niang,https://www.basketball-reference.com/boxscores/202504110PHI.html,2.32,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+5,
+2025-04-11,202504110PHI,ATL,Q1,Vit Krejci,https://www.basketball-reference.com/boxscores/202504110PHI.html,4.47,0,1,.000,0,1,.000,2,2,0,0,0,1,0,0,0,0,2,2.0,0,1.000
+2025-04-11,202504110PHI,ATL,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.97,0,4,.000,0,2,.000,0,0,1,0,1,3,1,1,1,0,0,0.7,-7,
+2025-04-11,202504110PHI,ATL,Q2,Trae Young,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.17,1,1,1.000,1,1,1.000,3,4,1,0,1,2,0,0,2,0,6,5.4,-2,.750
+2025-04-11,202504110PHI,ATL,Q2,Mouhamed Gueye,https://www.basketball-reference.com/boxscores/202504110PHI.html,4.03,0,0,,0,0,,0,0,0,0,0,1,1,0,0,1,0,1.3,-2,
+2025-04-11,202504110PHI,ATL,Q2,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.45,0,0,,0,0,,0,0,0,3,3,0,0,0,0,2,0,0.1,-8,
+2025-04-11,202504110PHI,ATL,Q2,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.87,2,4,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,4,2.0,-9,
+2025-04-11,202504110PHI,ATL,Q2,Caris LeVert,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.57,5,5,1.000,1,1,1.000,0,1,1,0,1,0,0,0,0,1,11,9.4,-4,.000
+2025-04-11,202504110PHI,ATL,Q2,Terance Mann,https://www.basketball-reference.com/boxscores/202504110PHI.html,5.43,1,2,.500,0,0,,0,0,1,0,1,1,0,0,0,0,2,2.4,-5,
+2025-04-11,202504110PHI,ATL,Q2,Georges Niang,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.17,3,6,.500,2,4,.500,0,0,0,1,1,0,0,0,1,1,8,3.9,-2,
+2025-04-11,202504110PHI,ATL,Q2,Vit Krejci,https://www.basketball-reference.com/boxscores/202504110PHI.html,3.83,0,1,.000,0,1,.000,0,0,1,0,1,0,0,0,0,0,0,0.0,-7,
+2025-04-11,202504110PHI,ATL,Q2,Dominick Barlow,https://www.basketball-reference.com/boxscores/202504110PHI.html,1.52,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2025-04-11,202504110PHI,ATL,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.47,0,1,.000,0,1,.000,0,2,0,3,3,1,1,0,0,0,0,1.1,+12,.000
+2025-04-11,202504110PHI,ATL,Q3,Trae Young,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.87,3,7,.429,1,3,.333,4,4,0,1,1,3,0,0,0,0,11,9.7,+7,1.000
+2025-04-11,202504110PHI,ATL,Q3,Mouhamed Gueye,https://www.basketball-reference.com/boxscores/202504110PHI.html,10.23,3,4,.750,1,1,1.000,1,1,5,3,8,0,1,0,1,2,8,10.0,+11,1.000
+2025-04-11,202504110PHI,ATL,Q3,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.1,0,1,.000,0,0,,0,0,0,2,2,0,0,0,2,1,0,-2.5,+8,
+2025-04-11,202504110PHI,ATL,Q3,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.1,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,+8,
+2025-04-11,202504110PHI,ATL,Q3,Caris LeVert,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.67,2,4,.500,1,2,.500,0,0,0,0,0,3,0,1,0,1,5,5.4,+5,
+2025-04-11,202504110PHI,ATL,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202504110PHI.html,4.9,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,+4,
+2025-04-11,202504110PHI,ATL,Q3,Georges Niang,https://www.basketball-reference.com/boxscores/202504110PHI.html,3.93,2,6,.333,1,2,.500,0,0,1,1,2,0,0,0,0,0,5,2.6,+3,
+2025-04-11,202504110PHI,ATL,Q3,Vit Krejci,https://www.basketball-reference.com/boxscores/202504110PHI.html,2.73,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2025-04-11,202504110PHI,ATL,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202504110PHI.html,12.0,3,3,1.000,0,0,,0,0,0,1,1,3,0,0,0,0,6,7.5,+8,
+2025-04-11,202504110PHI,ATL,Q4,Trae Young,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.67,4,10,.400,4,8,.500,0,0,0,1,1,3,1,0,0,0,12,10.0,+5,
+2025-04-11,202504110PHI,ATL,Q4,Mouhamed Gueye,https://www.basketball-reference.com/boxscores/202504110PHI.html,11.02,1,2,.500,0,0,,0,0,2,3,5,1,1,1,0,0,2,5.7,+12,
+2025-04-11,202504110PHI,ATL,Q4,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.68,1,3,.333,0,1,.000,0,0,1,2,3,0,0,1,1,1,2,0.9,0,
+2025-04-11,202504110PHI,ATL,Q4,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202504110PHI.html,3.83,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2025-04-11,202504110PHI,ATL,Q4,Caris LeVert,https://www.basketball-reference.com/boxscores/202504110PHI.html,10.22,3,4,.750,1,1,1.000,1,2,1,0,1,1,1,0,0,2,8,7.6,+7,.500
+2025-04-11,202504110PHI,ATL,Q4,Terance Mann,https://www.basketball-reference.com/boxscores/202504110PHI.html,4.12,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+4,
+2025-04-11,202504110PHI,ATL,Q4,Georges Niang,https://www.basketball-reference.com/boxscores/202504110PHI.html,2.47,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,1,3,1.3,+2,
+2025-04-11,202504110PHI,PHI,Q1,Marcus Bagley,https://www.basketball-reference.com/boxscores/202504110PHI.html,12.0,1,2,.500,0,1,.000,0,0,1,1,2,0,1,1,1,1,2,2.3,-3,
+2025-04-11,202504110PHI,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.22,1,5,.200,1,4,.250,0,0,0,3,3,1,0,0,0,0,3,1.5,-1,
+2025-04-11,202504110PHI,PHI,Q1,Adem Bona,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.22,3,3,1.000,0,0,,0,1,0,2,2,0,0,0,1,1,6,3.9,-1,.000
+2025-04-11,202504110PHI,PHI,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.63,3,6,.500,2,4,.500,0,0,2,0,2,2,1,0,1,1,8,7.4,-4,
+2025-04-11,202504110PHI,PHI,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,5.85,1,3,.333,1,3,.333,0,0,0,1,1,2,0,1,1,2,3,1.9,-2,
+2025-04-11,202504110PHI,PHI,Q1,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.15,0,1,.000,0,0,,0,0,0,1,1,2,0,0,0,0,0,1.0,-1,
+2025-04-11,202504110PHI,PHI,Q1,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.15,1,4,.250,0,1,.000,0,0,0,0,0,0,0,0,0,1,2,-0.8,-1,
+2025-04-11,202504110PHI,PHI,Q1,Colin Castleton,https://www.basketball-reference.com/boxscores/202504110PHI.html,2.78,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,-2,
+2025-04-11,202504110PHI,PHI,Q2,Marcus Bagley,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.97,4,4,1.000,4,4,1.000,0,0,0,1,1,2,0,0,0,0,12,12.5,+7,
+2025-04-11,202504110PHI,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.03,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+4,
+2025-04-11,202504110PHI,PHI,Q2,Adem Bona,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.87,3,4,.750,0,0,,2,3,2,0,2,1,0,1,0,0,8,8.8,+9,.667
+2025-04-11,202504110PHI,PHI,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202504110PHI.html,3.97,2,4,.500,1,2,.500,0,0,0,0,0,2,0,0,1,1,5,3.0,+2,
+2025-04-11,202504110PHI,PHI,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.87,4,5,.800,1,1,1.000,0,0,0,2,2,0,1,0,1,1,9,7.3,+9,
+2025-04-11,202504110PHI,PHI,Q2,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.03,1,4,.250,0,0,,0,0,0,1,1,1,0,0,0,1,2,0.2,+7,
+2025-04-11,202504110PHI,PHI,Q2,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.1,0,2,.000,0,0,,0,0,0,0,0,2,0,0,0,0,0,0.0,+5,
+2025-04-11,202504110PHI,PHI,Q2,Colin Castleton,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.17,1,1,1.000,0,0,,2,2,1,3,4,0,1,0,0,1,4,5.9,+2,1.000
+2025-04-11,202504110PHI,PHI,Q3,Marcus Bagley,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.87,2,6,.333,0,3,.000,0,0,1,2,3,2,0,1,0,0,4,4.0,-7,
+2025-04-11,202504110PHI,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.72,1,4,.250,0,3,.000,2,2,1,3,4,1,0,0,1,0,4,2.9,-13,1.000
+2025-04-11,202504110PHI,PHI,Q3,Adem Bona,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.87,1,1,1.000,0,0,,0,0,0,0,0,0,1,1,2,1,2,1.0,-7,
+2025-04-11,202504110PHI,PHI,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202504110PHI.html,12.0,2,5,.400,0,2,.000,2,2,0,2,2,3,1,0,1,1,6,5.6,-12,1.000
+2025-04-11,202504110PHI,PHI,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,4.52,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,2,0,-2.2,-6,
+2025-04-11,202504110PHI,PHI,Q3,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202504110PHI.html,7.48,0,2,.000,0,0,,0,0,0,2,2,1,0,0,0,1,0,-0.5,-6,
+2025-04-11,202504110PHI,PHI,Q3,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202504110PHI.html,5.42,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-4,
+2025-04-11,202504110PHI,PHI,Q3,Colin Castleton,https://www.basketball-reference.com/boxscores/202504110PHI.html,2.13,1,1,1.000,0,0,,1,1,0,0,0,0,0,0,0,0,3,2.7,-5,1.000
+2025-04-11,202504110PHI,PHI,Q4,Marcus Bagley,https://www.basketball-reference.com/boxscores/202504110PHI.html,8.53,1,2,.500,0,0,,0,0,1,3,4,1,0,0,0,0,2,3.3,-3,
+2025-04-11,202504110PHI,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,6.68,1,3,.333,0,0,,1,1,0,0,0,1,0,0,1,0,3,1.0,+5,1.000
+2025-04-11,202504110PHI,PHI,Q4,Adem Bona,https://www.basketball-reference.com/boxscores/202504110PHI.html,3.47,1,1,1.000,0,0,,0,0,1,1,2,0,0,1,0,0,2,3.4,-5,
+2025-04-11,202504110PHI,PHI,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202504110PHI.html,4.53,2,3,.667,1,1,1.000,1,1,0,0,0,0,0,0,1,0,6,3.7,-1,1.000
+2025-04-11,202504110PHI,PHI,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202504110PHI.html,5.32,0,4,.000,0,0,,0,0,0,2,2,1,0,0,1,0,0,-2.5,-13,
+2025-04-11,202504110PHI,PHI,Q4,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202504110PHI.html,10.45,2,4,.500,1,2,.500,0,0,0,1,1,2,0,0,0,0,5,4.7,-6,
+2025-04-11,202504110PHI,PHI,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202504110PHI.html,9.02,0,3,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,-1.4,-9,
+2025-04-11,202504110PHI,PHI,Q4,Colin Castleton,https://www.basketball-reference.com/boxscores/202504110PHI.html,12.0,3,4,.750,0,0,,1,2,4,0,4,0,0,0,1,1,7,6.4,-8,.500

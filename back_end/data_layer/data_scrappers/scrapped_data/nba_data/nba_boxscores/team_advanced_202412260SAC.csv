@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-26,202412260SAC,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202412260SAC.html,38:11,.564,.458,.458,.500,0.0,12.0,5.7,47.1,0.0,0.0,9.3,36.2,120,120,4.9
+2024-12-26,202412260SAC,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202412260SAC.html,32:55,.663,.654,.538,.231,9.5,10.4,9.9,0.0,0.0,3.4,17.3,22.6,109,118,-1.3
+2024-12-26,202412260SAC,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202412260SAC.html,31:58,.666,.625,.000,.500,6.5,28.6,17.1,14.8,3.1,7.0,9.3,14.4,137,105,6.0
+2024-12-26,202412260SAC,DET,Tobias Harris,https://www.basketball-reference.com/boxscores/202412260SAC.html,27:03,.254,.143,.286,.286,0.0,12.7,6.0,9.8,0.0,0.0,0.0,12.5,73,120,-11.3
+2024-12-26,202412260SAC,DET,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202412260SAC.html,23:18,.375,.375,.875,.000,4.5,14.7,9.4,18.2,0.0,0.0,0.0,14.7,103,120,-3.3
+2024-12-26,202412260SAC,DET,Malik Beasley,https://www.basketball-reference.com/boxscores/202412260SAC.html,27:13,.652,.625,.688,.125,3.8,4.2,4.0,13.7,0.0,0.0,0.0,26.6,134,122,6.7
+2024-12-26,202412260SAC,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202412260SAC.html,18:18,.595,.600,.000,.400,11.4,37.5,23.8,0.0,0.0,0.0,14.5,16.1,111,115,-5.4
+2024-12-26,202412260SAC,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202412260SAC.html,13:59,.000,.000,1.000,.000,7.5,16.3,11.7,18.1,3.5,0.0,25.0,12.3,48,111,-8.9
+2024-12-26,202412260SAC,DET,Paul Reed,https://www.basketball-reference.com/boxscores/202412260SAC.html,12:52,1.167,1.167,.333,.000,0.0,26.6,12.7,27.8,7.6,8.7,0.0,10.0,236,94,21.3
+2024-12-26,202412260SAC,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202412260SAC.html,7:34,.750,.750,1.000,.000,0.0,0.0,0.0,20.0,6.5,0.0,0.0,11.3,159,107,6.5
+2024-12-26,202412260SAC,DET,Ron Holland,https://www.basketball-reference.com/boxscores/202412260SAC.html,6:39,.000,.000,.000,.000,0.0,17.2,8.2,0.0,0.0,0.0,33.3,19.3,0,119,-26.3
+2024-12-26,202412260SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202412260SAC.html,38:25,.494,.480,.280,.120,3.0,13.6,8.5,19.8,0.0,5.3,10.2,34.1,98,117,-4.1
+2024-12-26,202412260SAC,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202412260SAC.html,37:03,.463,.409,.636,.182,6.2,28.2,17.7,7.7,1.3,2.8,7.8,15.5,104,111,-2.0
+2024-12-26,202412260SAC,SAC,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202412260SAC.html,36:11,.607,.577,.231,.462,0.0,8.7,4.5,17.9,0.0,0.0,6.0,20.5,125,122,-0.8
+2024-12-26,202412260SAC,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202412260SAC.html,29:39,.631,.591,.636,.182,0.0,3.5,1.8,0.0,1.6,0.0,14.4,20.9,105,120,-3.8
+2024-12-26,202412260SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202412260SAC.html,22:42,1.064,1.000,.000,2.000,5.0,23.0,14.4,22.9,0.0,9.0,34.7,5.7,171,112,7.2
+2024-12-26,202412260SAC,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202412260SAC.html,25:18,.868,.875,.875,1.000,4.5,28.9,17.2,0.0,0.0,0.0,8.0,22.1,157,116,8.7
+2024-12-26,202412260SAC,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202412260SAC.html,23:03,.508,.429,.857,.286,9.9,13.6,11.8,17.9,2.1,4.4,11.3,17.2,117,113,4.4
+2024-12-26,202412260SAC,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202412260SAC.html,13:37,.625,.625,.500,.000,8.4,7.7,8.0,11.0,0.0,0.0,33.3,19.7,93,122,-6.3
+2024-12-26,202412260SAC,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202412260SAC.html,10:46,1.000,1.000,.000,.000,0.0,9.7,5.1,12.9,0.0,0.0,50.0,8.3,104,121,-5.0
+2024-12-26,202412260SAC,SAC,Isaac Jones,https://www.basketball-reference.com/boxscores/202412260SAC.html,3:16,1.042,1.000,.000,1.000,0.0,0.0,0.0,60.5,0.0,0.0,41.0,33.4,130,125,12.2

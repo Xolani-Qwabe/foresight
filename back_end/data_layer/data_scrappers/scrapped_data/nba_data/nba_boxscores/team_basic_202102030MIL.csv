@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-02-03,202102030MIL,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202102030MIL.html,31.0,14,25,.560,3,5,.600,2,2,1.000,2,10,12,6,0,0,2,2,33,26.9,-25
+2021-02-03,202102030MIL,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202102030MIL.html,28.83,5,17,.294,2,6,.333,0,0,,1,2,3,3,2,0,1,2,12,5.7,-25
+2021-02-03,202102030MIL,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202102030MIL.html,28.77,5,8,.625,3,5,.600,2,2,1.000,1,7,8,1,2,1,0,0,15,17.6,-3
+2021-02-03,202102030MIL,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202102030MIL.html,22.85,1,3,.333,1,3,.333,0,0,,0,2,2,1,2,1,1,2,3,3.5,-32
+2021-02-03,202102030MIL,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202102030MIL.html,17.52,0,5,.000,0,2,.000,2,2,1.000,0,2,2,1,0,0,1,1,2,-1.6,-26
+2021-02-03,202102030MIL,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202102030MIL.html,29.05,6,12,.500,1,5,.200,0,1,.000,1,6,7,1,0,0,2,1,13,7.4,-5
+2021-02-03,202102030MIL,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202102030MIL.html,27.75,3,5,.600,0,0,,0,0,,1,1,2,12,1,1,3,2,6,11.0,-2
+2021-02-03,202102030MIL,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202102030MIL.html,25.7,3,12,.250,1,7,.143,4,4,1.000,0,0,0,2,0,0,3,1,11,1.8,-8
+2021-02-03,202102030MIL,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202102030MIL.html,12.58,3,3,1.000,0,0,,0,0,,2,3,5,0,0,2,0,1,6,8.4,+14
+2021-02-03,202102030MIL,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/202102030MIL.html,6.22,0,1,.000,0,0,,2,2,1.000,0,1,1,1,0,1,0,0,2,3.0,+4
+2021-02-03,202102030MIL,IND,Kelan Martin,https://www.basketball-reference.com/boxscores/202102030MIL.html,4.87,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7,+4
+2021-02-03,202102030MIL,IND,JaKarr Sampson,https://www.basketball-reference.com/boxscores/202102030MIL.html,4.87,1,2,.500,0,1,.000,1,2,.500,0,3,3,0,0,0,1,1,3,1.1,+4
+2021-02-03,202102030MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202102030MIL.html,30.63,7,8,.875,0,0,,7,8,.875,2,12,14,10,2,1,4,0,21,28.5,+30
+2021-02-03,202102030MIL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202102030MIL.html,26.83,5,9,.556,1,3,.333,0,0,,2,5,7,3,3,1,3,0,11,12.4,+11
+2021-02-03,202102030MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202102030MIL.html,26.0,4,9,.444,1,3,.333,3,3,1.000,0,5,5,4,0,0,3,1,12,8.2,+19
+2021-02-03,202102030MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202102030MIL.html,23.33,4,8,.500,3,5,.600,0,0,,1,5,6,1,0,1,0,2,11,9.8,+17
+2021-02-03,202102030MIL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202102030MIL.html,21.83,6,11,.545,4,8,.500,0,0,,1,3,4,3,0,1,0,1,16,14.7,+36
+2021-02-03,202102030MIL,MIL,Bryn Forbes,https://www.basketball-reference.com/boxscores/202102030MIL.html,22.17,8,15,.533,4,7,.571,0,0,,0,3,3,1,0,0,0,0,20,14.3,-8
+2021-02-03,202102030MIL,MIL,D.J. Augustin,https://www.basketball-reference.com/boxscores/202102030MIL.html,19.0,1,6,.167,1,5,.200,3,3,1.000,0,0,0,4,0,0,1,0,6,4.0,+17
+2021-02-03,202102030MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202102030MIL.html,16.7,7,13,.538,4,5,.800,0,0,,3,6,9,3,3,1,0,2,18,20.6,+19
+2021-02-03,202102030MIL,MIL,Torrey Craig,https://www.basketball-reference.com/boxscores/202102030MIL.html,16.47,3,6,.500,2,3,.667,0,0,,2,1,3,0,3,1,0,3,8,9.2,-13
+2021-02-03,202102030MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202102030MIL.html,10.4,1,5,.200,1,4,.250,0,0,,0,1,1,0,0,0,0,0,3,0.2,+17
+2021-02-03,202102030MIL,MIL,D.J. Wilson,https://www.basketball-reference.com/boxscores/202102030MIL.html,9.7,1,6,.167,0,4,.000,0,0,,0,0,0,0,0,1,0,1,2,-1.5,-15
+2021-02-03,202102030MIL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202102030MIL.html,8.47,1,2,.500,0,0,,0,0,,0,0,0,2,2,0,1,0,2,3.4,-15
+2021-02-03,202102030MIL,MIL,Jaylen Adams,https://www.basketball-reference.com/boxscores/202102030MIL.html,8.47,0,4,.000,0,1,.000,0,0,,0,1,1,2,0,0,0,1,0,-1.5,-15

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-17,202311170POR,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202311170POR.html,35:05,.601,.500,.714,.429,3.4,0.0,1.5,11.4,2.9,0.0,0.0,10.5,146,107,-0.3
+2023-11-17,202311170POR,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202311170POR.html,34:46,.412,.421,.053,.053,13.8,26.6,21.0,9.5,4.4,13.3,23.6,32.3,75,83,-7.2
+2023-11-17,202311170POR,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202311170POR.html,34:32,.710,.705,.409,.273,0.0,13.4,7.6,57.0,2.9,0.0,10.9,35.4,135,100,17.6
+2023-11-17,202311170POR,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202311170POR.html,30:35,.694,.625,.500,1.000,3.9,3.0,3.4,4.3,5.0,3.0,14.8,9.8,130,100,5.2
+2023-11-17,202311170POR,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202311170POR.html,28:50,.670,.700,.700,.100,4.2,6.4,5.4,31.5,0.0,0.0,27.7,22.1,108,110,-0.3
+2023-11-17,202311170POR,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202311170POR.html,27:40,.700,.700,.400,.000,4.3,13.3,9.4,10.0,0.0,0.0,0.0,8.0,156,106,-0.2
+2023-11-17,202311170POR,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202311170POR.html,19:54,.556,.556,.333,.000,12.1,37.1,26.2,0.0,0.0,0.0,0.0,20.0,121,93,-2.3
+2023-11-17,202311170POR,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202311170POR.html,17:59,.527,.250,.000,1.500,6.7,5.1,5.8,28.6,0.0,0.0,31.1,23.7,100,111,-6.5
+2023-11-17,202311170POR,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202311170POR.html,8:16,.000,,,,0.0,11.2,6.3,0.0,6.1,0.0,0.0,2.4,0,94,-2.7
+2023-11-17,202311170POR,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202311170POR.html,1:11,.000,.000,.000,.000,0.0,78.0,44.1,0.0,0.0,0.0,50.0,74.6,0,70,-80.8
+2023-11-17,202311170POR,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202311170POR.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,114,-6.6
+2023-11-17,202311170POR,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202311170POR.html,39:32,.551,.500,.450,.200,0.0,12.1,5.3,13.9,1.3,0.0,4.4,24.0,126,117,4.1
+2023-11-17,202311170POR,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202311170POR.html,38:01,.475,.441,.294,.118,4.9,22.1,12.4,9.3,1.3,2.4,35.9,30.6,68,112,-13.0
+2023-11-17,202311170POR,POR,Deandre Ayton,https://www.basketball-reference.com/boxscores/202311170POR.html,37:48,.571,.571,.000,.143,17.1,15.9,16.6,9.8,2.7,0.0,21.2,20.9,106,112,-2.3
+2023-11-17,202311170POR,POR,Toumani Camara,https://www.basketball-reference.com/boxscores/202311170POR.html,35:52,.490,.438,.750,.625,5.1,13.4,8.7,0.0,2.8,2.6,8.9,13.0,106,111,-2.7
+2023-11-17,202311170POR,POR,Skylar Mays,https://www.basketball-reference.com/boxscores/202311170POR.html,25:31,.536,.536,.500,.000,10.9,9.4,10.2,60.9,4.0,0.0,0.0,22.9,146,111,15.7
+2023-11-17,202311170POR,POR,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202311170POR.html,23:38,.833,.833,.667,.000,3.9,15.2,8.8,6.4,4.3,0.0,40.0,8.8,102,109,0.6
+2023-11-17,202311170POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202311170POR.html,18:10,.427,.333,.333,.833,10.2,19.8,14.4,8.6,0.0,0.0,0.0,18.9,113,117,-2.6
+2023-11-17,202311170POR,POR,Duop Reath,https://www.basketball-reference.com/boxscores/202311170POR.html,10:12,.000,.000,.800,.000,9.0,11.8,10.2,0.0,0.0,0.0,0.0,20.5,13,119,-25.9
+2023-11-17,202311170POR,POR,Kris Murray,https://www.basketball-reference.com/boxscores/202311170POR.html,5:29,.000,.000,1.000,.000,16.8,0.0,9.5,0.0,9.3,0.0,0.0,15.2,30,101,-10.4
+2023-11-17,202311170POR,POR,Justin Minaya,https://www.basketball-reference.com/boxscores/202311170POR.html,4:36,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-7.3
+2023-11-17,202311170POR,POR,Jamaree Bouyea,https://www.basketball-reference.com/boxscores/202311170POR.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-8.1

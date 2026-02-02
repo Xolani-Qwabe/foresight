@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-27,201911270HOU,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/201911270HOU.html,39:45,.685,.625,.000,1.250,8.6,23.0,15.8,31.2,1.2,6.2,28.7,19.1,120,114,5.7
+2019-11-27,201911270HOU,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/201911270HOU.html,33:35,.509,.545,.545,.364,0.0,6.8,3.4,4.8,1.4,0.0,13.6,19.2,87,120,-8.0
+2019-11-27,201911270HOU,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201911270HOU.html,28:08,.409,.409,.727,.000,0.0,0.0,0.0,21.4,1.7,4.4,0.0,17.1,101,119,-0.9
+2019-11-27,201911270HOU,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/201911270HOU.html,21:24,.732,.688,.875,.250,0.0,16.0,8.0,8.0,2.2,0.0,10.1,20.2,129,115,2.5
+2019-11-27,201911270HOU,MIA,Meyers Leonard,https://www.basketball-reference.com/boxscores/201911270HOU.html,14:56,.625,.625,.500,.000,0.0,23.0,11.5,10.5,3.2,0.0,0.0,11.7,131,111,0.7
+2019-11-27,201911270HOU,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/201911270HOU.html,35:33,.557,.528,.444,.222,3.2,22.5,12.9,15.5,2.7,0.0,20.2,30.4,94,113,-1.6
+2019-11-27,201911270HOU,MIA,Justise Winslow,https://www.basketball-reference.com/boxscores/201911270HOU.html,34:06,.425,.300,.300,.400,3.4,20.1,11.7,12.9,1.4,0.0,7.8,16.3,99,117,-5.8
+2019-11-27,201911270HOU,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201911270HOU.html,24:22,.839,.800,.300,.300,14.1,14.1,14.1,8.5,0.0,0.0,20.9,25.7,131,121,4.9
+2019-11-27,201911270HOU,MIA,James Johnson,https://www.basketball-reference.com/boxscores/201911270HOU.html,8:11,,,,,0.0,14.0,7.0,0.0,0.0,0.0,100.0,5.3,0,121,-13.4
+2019-11-27,201911270HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/201911270HOU.html,36:46,.583,.583,.333,.000,3.1,18.7,10.9,3.8,5.2,0.0,0.0,7.0,132,101,3.3
+2019-11-27,201911270HOU,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/201911270HOU.html,36:27,.571,.524,.095,.286,3.1,25.1,14.1,39.2,2.6,0.0,27.6,38.2,95,105,-4.6
+2019-11-27,201911270HOU,HOU,James Harden,https://www.basketball-reference.com/boxscores/201911270HOU.html,35:15,.620,.543,.739,.435,6.5,13.0,9.7,26.4,1.4,3.2,6.8,35.6,130,109,13.0
+2019-11-27,201911270HOU,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/201911270HOU.html,33:55,.817,.818,.727,.636,6.7,6.7,6.7,10.1,2.8,0.0,6.6,19.0,158,109,11.4
+2019-11-27,201911270HOU,HOU,Tyson Chandler,https://www.basketball-reference.com/boxscores/201911270HOU.html,7:38,.568,,,,0.0,15.0,7.5,0.0,0.0,0.0,53.2,10.5,53,113,-14.8
+2019-11-27,201911270HOU,HOU,Gary Clark,https://www.basketball-reference.com/boxscores/201911270HOU.html,29:17,.600,.600,.600,.000,11.7,19.5,15.6,5.5,1.6,3.8,0.0,14.6,137,106,2.9
+2019-11-27,201911270HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/201911270HOU.html,19:25,.509,.417,.833,.333,0.0,17.7,8.8,7.5,2.5,0.0,12.7,17.3,99,107,-6.9
+2019-11-27,201911270HOU,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/201911270HOU.html,18:58,.525,.333,.667,1.333,0.0,12.1,6.0,7.1,0.0,0.0,17.4,13.0,100,114,-7.4
+2019-11-27,201911270HOU,HOU,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/201911270HOU.html,11:22,.000,.000,1.000,.000,0.0,10.1,5.0,0.0,0.0,0.0,0.0,3.8,0,115,-10.3
+2019-11-27,201911270HOU,HOU,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201911270HOU.html,10:25,.266,.000,.000,2.000,0.0,21.9,11.0,12.1,0.0,0.0,0.0,7.7,87,112,-7.8
+2019-11-27,201911270HOU,HOU,Chris Clemons,https://www.basketball-reference.com/boxscores/201911270HOU.html,0:32,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,0,117,-82.4

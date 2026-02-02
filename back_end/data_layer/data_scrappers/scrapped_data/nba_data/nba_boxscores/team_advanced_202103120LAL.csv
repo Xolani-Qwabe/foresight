@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-12,202103120LAL,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202103120LAL.html,35:27,.709,.700,.350,.050,0.0,23.7,10.8,39.1,1.3,0.0,19.7,30.4,113,105,9.1
+2021-03-12,202103120LAL,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202103120LAL.html,33:47,.540,.467,.200,.533,5.9,42.6,22.6,42.0,0.0,2.6,13.9,27.0,111,103,8.2
+2021-03-12,202103120LAL,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202103120LAL.html,33:30,.227,.227,.909,.000,0.0,7.2,3.3,4.2,1.4,0.0,0.0,13.9,54,108,-8.7
+2021-03-12,202103120LAL,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202103120LAL.html,29:52,.484,.462,.462,.077,6.7,8.0,7.3,11.1,0.0,0.0,0.0,19.1,110,111,0.8
+2021-03-12,202103120LAL,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202103120LAL.html,27:59,.524,.200,.600,1.200,7.1,12.9,9.7,9.7,1.7,6.4,11.6,13.1,117,101,1.3
+2021-03-12,202103120LAL,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202103120LAL.html,24:34,.538,.571,.000,.143,4.1,29.3,15.5,13.4,3.9,3.6,28.7,18.0,81,96,-1.1
+2021-03-12,202103120LAL,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202103120LAL.html,15:11,.258,.000,.667,.667,0.0,15.8,7.2,0.0,0.0,0.0,0.0,10.8,61,109,-10.1
+2021-03-12,202103120LAL,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202103120LAL.html,14:59,.625,.625,.250,.000,6.7,0.0,3.6,0.0,6.4,0.0,11.1,25.5,105,98,6.6
+2021-03-12,202103120LAL,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/202103120LAL.html,14:34,.347,.000,.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,51.0,17.1,35,111,-22.2
+2021-03-12,202103120LAL,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202103120LAL.html,10:07,.375,.375,.500,.000,19.8,0.0,10.8,14.7,0.0,0.0,0.0,16.8,108,112,0.7
+2021-03-12,202103120LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202103120LAL.html,34:28,.403,.318,.273,.545,0.0,14.5,7.9,18.7,5.5,2.7,26.8,24.0,69,92,-3.3
+2021-03-12,202103120LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202103120LAL.html,34:21,.504,.423,.308,.846,0.0,8.7,4.8,51.7,1.4,0.0,14.4,26.9,105,104,2.4
+2021-03-12,202103120LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202103120LAL.html,27:53,.478,.333,.333,.500,4.3,14.3,9.8,5.6,1.7,0.0,12.0,13.2,97,102,-3.0
+2021-03-12,202103120LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202103120LAL.html,18:38,1.031,1.000,1.000,.667,0.0,37.6,20.5,17.9,0.0,5.0,20.5,11.6,158,96,13.7
+2021-03-12,202103120LAL,LAL,Damian Jones,https://www.basketball-reference.com/boxscores/202103120LAL.html,15:42,.735,.667,.000,1.333,0.0,6.4,3.5,0.0,0.0,0.0,17.4,16.3,120,108,-5.1
+2021-03-12,202103120LAL,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202103120LAL.html,32:09,.715,.727,.091,.182,3.7,15.6,10.2,6.8,1.5,8.6,0.0,16.4,142,96,7.7
+2021-03-12,202103120LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202103120LAL.html,30:28,.581,.528,.333,.333,11.8,32.8,23.3,7.4,1.6,0.0,8.8,33.0,111,97,5.8
+2021-03-12,202103120LAL,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202103120LAL.html,21:50,.436,.333,.333,.333,0.0,0.0,0.0,0.0,2.2,0.0,22.5,9.0,68,105,-7.3
+2021-03-12,202103120LAL,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202103120LAL.html,17:11,.381,.286,.286,.286,7.0,5.8,6.3,0.0,2.8,0.0,11.3,22.9,76,102,-9.1
+2021-03-12,202103120LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202103120LAL.html,7:20,1.064,1.000,.000,2.000,0.0,27.3,14.9,23.8,0.0,0.0,0.0,11.4,225,102,12.2

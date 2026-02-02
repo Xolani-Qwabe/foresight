@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-25,202101250DET,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202101250DET.html,29.85,10,19,.526,3,6,.500,2,4,.500,2,5,7,2,0,1,4,4,25,14.3,-11
+2021-01-25,202101250DET,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202101250DET.html,24.15,2,5,.400,0,0,,1,2,.500,2,2,4,0,2,1,1,3,5,4.4,-23
+2021-01-25,202101250DET,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202101250DET.html,22.12,2,10,.200,1,4,.250,2,2,1.000,1,1,2,2,1,0,1,0,7,3.2,-16
+2021-01-25,202101250DET,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202101250DET.html,22.07,2,6,.333,2,4,.500,0,0,,1,0,1,0,1,0,0,1,6,3.9,-19
+2021-01-25,202101250DET,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202101250DET.html,21.45,5,9,.556,0,1,.000,1,3,.333,2,2,4,4,2,0,2,4,11,9.1,-2
+2021-01-25,202101250DET,PHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202101250DET.html,23.33,5,7,.714,0,0,,2,2,1.000,4,5,9,0,0,1,0,2,12,13.3,+8
+2021-01-25,202101250DET,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202101250DET.html,22.93,3,10,.300,0,3,.000,4,4,1.000,0,3,3,1,0,0,0,5,10,3.8,-5
+2021-01-25,202101250DET,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202101250DET.html,20.97,6,12,.500,2,3,.667,3,3,1.000,0,2,2,2,3,0,1,2,17,14.2,-7
+2021-01-25,202101250DET,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202101250DET.html,19.9,1,3,.333,0,1,.000,0,0,,0,0,0,1,2,0,0,2,2,2.2,+5
+2021-01-25,202101250DET,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202101250DET.html,14.28,3,8,.375,1,4,.250,0,0,,1,3,4,1,1,0,0,1,7,5.5,+1
+2021-01-25,202101250DET,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202101250DET.html,9.67,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,1,0,-1.1,-4
+2021-01-25,202101250DET,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202101250DET.html,4.63,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,0,2,0.3,-1
+2021-01-25,202101250DET,PHI,Terrance Ferguson,https://www.basketball-reference.com/boxscores/202101250DET.html,4.63,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,-1
+2021-01-25,202101250DET,DET,Delon Wright,https://www.basketball-reference.com/boxscores/202101250DET.html,36.0,8,12,.667,4,8,.500,8,9,.889,2,5,7,9,2,1,3,1,28,30.9,+22
+2021-01-25,202101250DET,DET,Wayne Ellington,https://www.basketball-reference.com/boxscores/202101250DET.html,32.72,7,10,.700,6,9,.667,0,0,,1,1,2,3,0,0,1,2,20,17.1,+31
+2021-01-25,202101250DET,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202101250DET.html,32.35,6,13,.462,3,6,.500,10,10,1.000,3,5,8,5,1,1,0,4,25,25.5,+23
+2021-01-25,202101250DET,DET,Mason Plumlee,https://www.basketball-reference.com/boxscores/202101250DET.html,27.63,5,6,.833,0,0,,0,0,,5,5,10,1,0,0,3,1,10,10.1,+18
+2021-01-25,202101250DET,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/202101250DET.html,24.78,2,8,.250,1,4,.250,2,5,.400,0,4,4,2,1,1,3,4,7,0.7,+10
+2021-01-25,202101250DET,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202101250DET.html,20.53,4,8,.500,1,3,.333,3,4,.750,0,7,7,1,1,2,1,1,12,11.4,-8
+2021-01-25,202101250DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202101250DET.html,20.37,1,3,.333,0,0,,2,2,1.000,0,3,3,0,1,1,1,2,4,3.1,-3
+2021-01-25,202101250DET,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/202101250DET.html,17.35,2,3,.667,2,2,1.000,1,2,.500,0,2,2,0,0,0,3,1,7,2.5,-2
+2021-01-25,202101250DET,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202101250DET.html,12.0,0,1,.000,0,0,,4,4,1.000,0,1,1,1,0,0,2,3,4,1.1,-7
+2021-01-25,202101250DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202101250DET.html,8.63,0,2,.000,0,2,.000,0,0,,0,3,3,0,0,0,1,1,0,-1.9,-10
+2021-01-25,202101250DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202101250DET.html,5.87,0,3,.000,0,3,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,-0.1,+7
+2021-01-25,202101250DET,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202101250DET.html,1.77,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-6

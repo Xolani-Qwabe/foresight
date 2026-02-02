@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202101290NYK.html
+Scraped: 2025-12-14 19:16:44
+
+line_scores: 2 rows (nba_boxscores/line_scores_202101290NYK.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202101290NYK.csv)
+team_basic: 21 rows (nba_boxscores/team_basic_202101290NYK.csv)
+team_advanced: 21 rows (nba_boxscores/team_advanced_202101290NYK.csv)
+quarters: 74 rows (nba_boxscores/quarters_202101290NYK.csv)

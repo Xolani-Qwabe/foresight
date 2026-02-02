@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-10,202002100LAL,PHO,Cheick Diallo,https://www.basketball-reference.com/boxscores/202002100LAL.html,39:00,.794,.778,.000,.111,0.0,11.7,5.6,15.8,0.0,2.3,17.5,13.7,124,129,-1.2
+2020-02-10,202002100LAL,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202002100LAL.html,31:31,.355,.182,.364,.636,0.0,14.5,6.9,26.3,0.0,0.0,17.6,25.3,73,129,-14.0
+2020-02-10,202002100LAL,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202002100LAL.html,30:40,.827,.800,.600,.200,0.0,22.4,10.7,20.8,1.6,2.9,15.5,19.6,124,121,7.6
+2020-02-10,202002100LAL,PHO,Ricky Rubio,https://www.basketball-reference.com/boxscores/202002100LAL.html,24:36,.683,.500,.667,1.333,4.2,9.3,6.7,34.7,2.0,0.0,9.5,20.0,139,127,5.8
+2020-02-10,202002100LAL,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202002100LAL.html,21:49,.538,.571,.571,.143,0.0,0.0,0.0,34.6,6.7,0.0,11.8,18.1,100,120,7.2
+2020-02-10,202002100LAL,PHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202002100LAL.html,26:48,.484,.444,.222,.333,3.9,8.5,6.1,14.4,0.0,0.0,8.8,19.8,95,131,-7.7
+2020-02-10,202002100LAL,PHO,Ty Jerome,https://www.basketball-reference.com/boxscores/202002100LAL.html,20:07,.344,.200,.300,.700,5.2,17.0,10.8,17.5,2.4,0.0,7.1,32.7,76,124,-9.8
+2020-02-10,202002100LAL,PHO,Jevon Carter,https://www.basketball-reference.com/boxscores/202002100LAL.html,19:33,.929,.929,.714,.000,0.0,11.7,5.6,12.4,2.5,0.0,12.5,19.1,130,125,9.1
+2020-02-10,202002100LAL,PHO,Elie Okobo,https://www.basketball-reference.com/boxscores/202002100LAL.html,16:20,.000,.000,.333,.000,0.0,14.0,6.7,0.0,0.0,0.0,25.0,11.5,0,130,-18.9
+2020-02-10,202002100LAL,PHO,Jalen Lecque,https://www.basketball-reference.com/boxscores/202002100LAL.html,4:48,.333,.333,.333,.000,0.0,0.0,0.0,45.5,0.0,0.0,0.0,29.2,77,135,-9.2
+2020-02-10,202002100LAL,PHO,Tariq Owens,https://www.basketball-reference.com/boxscores/202002100LAL.html,4:48,.532,.000,1.000,2.000,0.0,23.8,11.4,0.0,0.0,0.0,0.0,18.3,114,125,-8.5
+2020-02-10,202002100LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202002100LAL.html,30:58,.609,.529,.176,.471,11.1,23.6,17.6,23.5,1.6,3.4,12.8,30.9,129,100,8.1
+2020-02-10,202002100LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202002100LAL.html,30:05,.479,.469,.375,.250,0.0,27.7,14.5,38.4,1.6,0.0,31.1,34.8,87,102,-5.3
+2020-02-10,202002100LAL,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202002100LAL.html,25:26,.357,.357,.857,.000,0.0,4.1,2.1,4.4,1.9,4.2,12.5,12.8,80,100,-5.5
+2020-02-10,202002100LAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202002100LAL.html,22:41,.761,.786,.571,.286,0.0,0.0,0.0,0.0,2.1,0.0,0.0,14.1,159,103,4.3
+2020-02-10,202002100LAL,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202002100LAL.html,14:59,.667,.667,.000,.000,15.3,34.8,25.5,0.0,0.0,0.0,0.0,8.1,159,105,-1.3
+2020-02-10,202002100LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202002100LAL.html,26:44,.829,.846,.385,.154,8.6,7.8,8.2,34.9,1.8,0.0,6.7,22.6,168,103,17.4
+2020-02-10,202002100LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202002100LAL.html,24:54,.902,1.000,.000,.667,22.9,41.9,32.9,0.0,0.0,0.0,0.0,12.7,187,104,7.5
+2020-02-10,202002100LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202002100LAL.html,24:40,.742,.643,.286,.571,4.6,0.0,2.2,9.9,3.9,0.0,10.2,16.1,152,99,7.0
+2020-02-10,202002100LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202002100LAL.html,20:21,.827,.900,.400,.200,5.6,35.9,21.4,25.1,2.4,10.5,26.9,14.9,131,90,15.8
+2020-02-10,202002100LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202002100LAL.html,4:48,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.5,0,109,-14.9
+2020-02-10,202002100LAL,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/202002100LAL.html,4:48,.000,.000,1.000,.000,23.8,0.0,11.4,21.3,0.0,0.0,0.0,16.9,73,109,-11.8
+2020-02-10,202002100LAL,LAL,Troy Daniels,https://www.basketball-reference.com/boxscores/202002100LAL.html,4:48,.300,.300,1.000,.000,0.0,43.5,22.7,0.0,0.0,0.0,0.0,42.4,77,104,-18.9
+2020-02-10,202002100LAL,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202002100LAL.html,4:48,.000,.000,.500,.000,23.8,21.7,22.7,0.0,0.0,0.0,0.0,16.9,43,106,-21.6

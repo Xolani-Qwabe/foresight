@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-11-11,202311110BOS,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202311110BOS.html,28.72,4,15,.267,2,9,.222,0,0,1,4,5,4,1,1,1,1,10,6.1,-28,
+2023-11-11,202311110BOS,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202311110BOS.html,28.12,6,17,.353,0,4,.000,5,6,2,5,7,3,3,0,3,0,17,12.1,-9,.833
+2023-11-11,202311110BOS,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202311110BOS.html,27.52,3,13,.231,2,8,.250,0,0,1,2,3,2,1,0,0,0,8,3.8,-26,
+2023-11-11,202311110BOS,TOR,Dennis Schröder,https://www.basketball-reference.com/boxscores/202311110BOS.html,25.32,3,7,.429,1,3,.333,7,7,0,1,1,4,1,0,1,3,14,12.2,-2,1.000
+2023-11-11,202311110BOS,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202311110BOS.html,21.28,6,10,.600,0,0,,0,0,2,1,3,2,0,0,1,3,12,8.3,-9,
+2023-11-11,202311110BOS,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202311110BOS.html,22.68,5,7,.714,2,4,.500,0,1,0,1,1,1,0,0,1,0,12,8.7,-21,.000
+2023-11-11,202311110BOS,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202311110BOS.html,21.97,2,4,.500,2,3,.667,0,0,0,5,5,1,0,0,0,2,6,5.4,-9,
+2023-11-11,202311110BOS,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202311110BOS.html,18.52,1,5,.200,0,2,.000,0,0,0,5,5,5,0,0,0,1,2,3.5,-12,
+2023-11-11,202311110BOS,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202311110BOS.html,14.53,1,4,.250,0,2,.000,2,2,0,1,1,1,0,0,1,1,4,1.2,-4,1.000
+2023-11-11,202311110BOS,TOR,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202311110BOS.html,14.33,1,2,.500,1,2,.500,0,0,0,3,3,0,1,0,0,1,3,3.5,-9,
+2023-11-11,202311110BOS,TOR,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202311110BOS.html,8.93,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,2,0,-1.9,+2,
+2023-11-11,202311110BOS,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202311110BOS.html,4.02,2,3,.667,0,0,,0,0,1,0,1,2,0,0,0,0,4,4.8,+6,
+2023-11-11,202311110BOS,TOR,Garrett Temple,https://www.basketball-reference.com/boxscores/202311110BOS.html,4.02,1,2,.500,0,0,,0,0,0,1,1,0,1,0,0,0,2,2.3,+6,
+2023-11-11,202311110BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202311110BOS.html,34.08,10,18,.556,3,9,.333,4,6,0,5,5,4,0,1,1,2,27,20.8,+42,.667
+2023-11-11,202311110BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202311110BOS.html,31.68,12,20,.600,3,8,.375,2,3,1,4,5,2,0,0,2,1,29,20.3,+9,.667
+2023-11-11,202311110BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202311110BOS.html,29.8,4,9,.444,0,2,.000,0,0,0,3,3,7,1,2,4,2,8,6.7,+22,
+2023-11-11,202311110BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202311110BOS.html,27.53,9,14,.643,3,7,.429,0,1,0,7,7,3,0,0,3,1,21,15.2,+12,.000
+2023-11-11,202311110BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202311110BOS.html,25.53,2,5,.400,0,3,.000,0,1,0,4,4,5,0,1,0,2,4,5.5,+20,.000
+2023-11-11,202311110BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202311110BOS.html,24.5,2,5,.400,1,3,.333,2,2,3,3,6,4,0,0,1,1,7,8.7,+14,1.000
+2023-11-11,202311110BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202311110BOS.html,24.02,3,5,.600,1,3,.333,0,0,1,6,7,4,0,0,0,2,7,9.2,+11,
+2023-11-11,202311110BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202311110BOS.html,18.42,4,6,.667,4,6,.667,0,0,0,4,4,0,0,0,0,2,12,9.8,-2,
+2023-11-11,202311110BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202311110BOS.html,8.78,1,1,1.000,0,0,,0,0,0,5,5,1,0,0,0,1,2,3.5,+3,
+2023-11-11,202311110BOS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202311110BOS.html,6.05,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2023-11-11,202311110BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202311110BOS.html,4.78,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-7,
+2023-11-11,202311110BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202311110BOS.html,4.78,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,1,0,0,-2.4,-7,

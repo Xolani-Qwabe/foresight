@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-30,202401300ATL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202401300ATL.html,35:49,.477,.471,.353,.529,6.5,22.3,14.5,27.8,1.3,2.1,12.5,27.9,103,130,-2.7
+2024-01-30,202401300ATL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202401300ATL.html,32:21,.634,.605,.421,.368,0.0,0.0,0.0,26.8,2.8,0.0,8.3,31.1,124,134,3.8
+2024-01-30,202401300ATL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202401300ATL.html,27:08,.379,.318,.455,.182,0.0,4.2,2.1,20.7,0.0,0.0,14.4,21.4,85,139,-14.4
+2024-01-30,202401300ATL,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202401300ATL.html,24:48,.500,.500,.571,.000,0.0,9.2,4.7,0.0,1.8,0.0,12.5,13.5,83,134,-9.6
+2024-01-30,202401300ATL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202401300ATL.html,24:28,.750,.750,.000,.000,4.8,23.4,14.2,4.7,7.4,3.1,33.3,10.2,103,115,-0.6
+2024-01-30,202401300ATL,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202401300ATL.html,25:41,.932,1.000,.000,.167,4.6,13.3,9.0,15.2,3.5,0.0,23.7,13.7,141,129,3.4
+2024-01-30,202401300ATL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202401300ATL.html,23:29,.673,.727,.364,.182,10.0,9.7,9.9,0.0,3.9,0.0,7.8,22.9,120,129,1.7
+2024-01-30,202401300ATL,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202401300ATL.html,22:07,.571,.571,.143,.286,5.3,36.2,20.9,11.0,0.0,0.0,0.0,14.9,128,131,-3.2
+2024-01-30,202401300ATL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202401300ATL.html,10:45,1.250,1.250,.500,.000,0.0,10.6,5.4,0.0,0.0,7.1,33.3,11.6,129,133,1.6
+2024-01-30,202401300ATL,LAL,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202401300ATL.html,3:21,.532,.000,1.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.4,120,140,-10.1
+2024-01-30,202401300ATL,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202401300ATL.html,3:21,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.5,200,140,-3.7
+2024-01-30,202401300ATL,LAL,Skylar Mays,https://www.basketball-reference.com/boxscores/202401300ATL.html,3:21,,,,,0.0,34.1,17.3,59.7,0.0,0.0,,0.0,225,132,2.7
+2024-01-30,202401300ATL,LAL,Dylan Windler,https://www.basketball-reference.com/boxscores/202401300ATL.html,3:21,.750,.750,.750,.000,0.0,34.1,17.3,74.1,0.0,0.0,0.0,49.8,145,132,34.7
+2024-01-30,202401300ATL,ATL,Saddiq Bey,https://www.basketball-reference.com/boxscores/202401300ATL.html,35:08,.666,.550,.500,.800,13.0,13.3,13.2,5.9,1.3,0.0,0.0,15.3,159,117,1.8
+2024-01-30,202401300ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202401300ATL.html,34:54,.638,.607,.143,.143,3.3,33.5,18.2,9.8,3.9,0.0,0.0,16.9,144,108,3.9
+2024-01-30,202401300ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202401300ATL.html,34:16,.623,.600,.450,.100,3.3,3.4,3.4,45.1,1.3,0.0,19.3,30.0,123,119,5.3
+2024-01-30,202401300ATL,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202401300ATL.html,33:20,.604,.579,.211,.105,0.0,14.0,6.9,34.9,2.7,0.0,13.1,27.2,123,115,3.3
+2024-01-30,202401300ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202401300ATL.html,24:21,.597,.600,.000,.200,23.5,33.7,28.5,4.8,1.9,3.5,8.4,19.4,132,110,-0.3
+2024-01-30,202401300ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202401300ATL.html,25:42,1.127,1.125,.250,.500,4.4,13.7,9.0,4.1,3.5,3.3,0.0,7.5,231,110,8.9
+2024-01-30,202401300ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202401300ATL.html,24:40,.600,.600,.600,.000,0.0,4.7,2.3,4.9,0.0,0.0,6.3,25.7,115,122,-3.0
+2024-01-30,202401300ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202401300ATL.html,16:24,.600,.600,1.000,.000,0.0,7.1,3.5,6.2,0.0,0.0,28.6,16.9,88,122,-6.9
+2024-01-30,202401300ATL,ATL,Garrison Mathews,https://www.basketball-reference.com/boxscores/202401300ATL.html,5:39,.000,.000,1.000,.000,0.0,20.7,10.2,0.0,0.0,0.0,0.0,7.0,0,113,-25.4
+2024-01-30,202401300ATL,ATL,Kobe Bufkin,https://www.basketball-reference.com/boxscores/202401300ATL.html,1:52,1.500,1.500,1.000,.000,0.0,62.7,31.0,94.2,0.0,0.0,0.0,21.3,281,115,64.1
+2024-01-30,202401300ATL,ATL,AJ Griffin,https://www.basketball-reference.com/boxscores/202401300ATL.html,1:52,.000,.000,.000,.000,0.0,62.7,31.0,0.0,0.0,0.0,0.0,21.3,0,115,-26.5
+2024-01-30,202401300ATL,ATL,Patty Mills,https://www.basketball-reference.com/boxscores/202401300ATL.html,1:52,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.3,0,123,-30.6

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-13,202302130PHI,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202302130PHI.html,36:17,.326,.250,.286,.214,17.3,23.3,19.8,8.5,0.0,0.0,24.6,23.0,73,131,-12.9
+2023-02-13,202302130PHI,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202302130PHI.html,32:58,.607,.556,.111,.222,6.3,25.7,14.6,5.3,3.0,0.0,16.8,14.8,113,124,-2.9
+2023-02-13,202302130PHI,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202302130PHI.html,31:56,.528,.350,.400,.850,0.0,13.3,5.6,23.1,3.1,0.0,6.8,38.0,118,125,5.6
+2023-02-13,202302130PHI,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202302130PHI.html,31:27,.638,.600,.100,.400,10.0,18.0,13.4,11.8,1.6,0.0,14.5,18.0,123,128,1.0
+2023-02-13,202302130PHI,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202302130PHI.html,24:15,.773,.667,.333,.667,0.0,11.6,4.9,6.4,2.0,4.1,34.0,10.0,105,125,-3.0
+2023-02-13,202302130PHI,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202302130PHI.html,21:14,.444,.444,.222,.000,4.9,6.6,5.7,8.7,2.3,0.0,10.0,19.4,94,128,-8.2
+2023-02-13,202302130PHI,HOU,TyTy Washington Jr.,https://www.basketball-reference.com/boxscores/202302130PHI.html,20:14,.400,.400,.000,.000,0.0,14.0,5.9,23.5,2.4,0.0,0.0,10.2,111,127,-3.0
+2023-02-13,202302130PHI,HOU,Josh Christopher,https://www.basketball-reference.com/boxscores/202302130PHI.html,16:04,.167,.167,.333,.000,0.0,8.8,3.7,18.7,0.0,0.0,25.0,20.5,41,133,-19.2
+2023-02-13,202302130PHI,HOU,Usman Garuba,https://www.basketball-reference.com/boxscores/202302130PHI.html,8:57,.833,.833,.333,.000,23.3,0.0,13.4,0.0,11.0,0.0,0.0,13.8,178,108,17.3
+2023-02-13,202302130PHI,HOU,Frank Kaminsky,https://www.basketball-reference.com/boxscores/202302130PHI.html,6:05,.000,.000,.500,.000,0.0,23.2,9.9,22.5,0.0,16.4,0.0,13.5,30,119,-5.3
+2023-02-13,202302130PHI,HOU,Darius Days,https://www.basketball-reference.com/boxscores/202302130PHI.html,3:31,1.000,1.000,1.000,.000,0.0,40.1,17.1,0.0,0.0,0.0,0.0,35.1,178,129,45.4
+2023-02-13,202302130PHI,HOU,Trevor Hudgins,https://www.basketball-reference.com/boxscores/202302130PHI.html,3:31,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,11.7,0,134,-22.6
+2023-02-13,202302130PHI,HOU,Boban Marjanović,https://www.basketball-reference.com/boxscores/202302130PHI.html,3:31,1.054,1.000,.000,1.500,29.7,0.0,17.1,0.0,0.0,0.0,0.0,38.9,226,134,40.4
+2023-02-13,202302130PHI,PHI,James Harden,https://www.basketball-reference.com/boxscores/202302130PHI.html,31:38,.664,.611,.500,.389,0.0,6.6,3.8,46.9,3.1,4.9,12.5,34.6,134,107,13.4
+2023-02-13,202302130PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202302130PHI.html,30:41,.691,.607,.143,.429,0.0,20.4,11.7,18.7,1.6,0.0,15.3,29.1,126,107,1.9
+2023-02-13,202302130PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202302130PHI.html,27:23,.688,.688,.500,.000,5.2,19.1,13.1,0.0,3.6,2.8,0.0,13.3,140,102,2.8
+2023-02-13,202302130PHI,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202302130PHI.html,21:08,.500,.500,.667,.000,13.4,9.9,11.4,10.4,4.7,3.7,40.0,10.8,99,103,0.4
+2023-02-13,202302130PHI,PHI,P.J. Tucker,https://www.basketball-reference.com/boxscores/202302130PHI.html,6:34,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,6.9,0,119,-14.8
+2023-02-13,202302130PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202302130PHI.html,34:45,.770,.750,.500,.125,4.1,12.0,8.6,25.7,2.8,0.0,5.6,23.4,156,108,10.8
+2023-02-13,202302130PHI,PHI,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202302130PHI.html,27:55,.901,.875,.250,.250,5.1,15.0,10.7,12.6,0.0,0.0,0.0,7.2,195,113,2.8
+2023-02-13,202302130PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202302130PHI.html,18:37,.901,.875,.250,.250,0.0,16.8,9.7,6.7,0.0,0.0,40.3,18.2,99,112,-6.2
+2023-02-13,202302130PHI,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202302130PHI.html,17:50,.500,.500,1.000,.000,7.9,11.7,10.1,0.0,0.0,0.0,14.3,17.9,93,114,-11.1
+2023-02-13,202302130PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202302130PHI.html,17:19,.600,.600,.000,.000,8.2,12.1,10.4,0.0,5.7,13.4,28.6,18.4,88,94,-2.8
+2023-02-13,202302130PHI,PHI,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202302130PHI.html,3:31,.000,.000,.500,.000,0.0,29.7,17.1,0.0,0.0,0.0,0.0,25.9,0,106,-38.7
+2023-02-13,202302130PHI,PHI,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202302130PHI.html,2:39,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.3,200,119,19.3

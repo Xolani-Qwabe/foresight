@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-20,202002200GSW,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202002200GSW.html,30:22,1.250,1.250,.833,.000,4.5,15.4,10.4,4.3,0.0,0.0,14.3,10.1,185,113,5.7
+2020-02-20,202002200GSW,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/202002200GSW.html,30:22,.553,.553,.105,.000,9.0,11.6,10.4,54.1,1.6,0.0,17.4,33.1,121,111,-3.9
+2020-02-20,202002200GSW,HOU,James Harden,https://www.basketball-reference.com/boxscores/202002200GSW.html,30:10,.642,.469,.750,.938,0.0,11.6,6.3,44.9,4.8,5.7,4.2,34.2,152,100,13.5
+2020-02-20,202002200GSW,HOU,Robert Covington,https://www.basketball-reference.com/boxscores/202002200GSW.html,27:22,.744,.731,.769,.077,5.0,17.1,11.5,5.4,0.0,12.5,0.0,21.5,149,106,7.5
+2020-02-20,202002200GSW,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202002200GSW.html,18:33,.786,.786,.571,.000,0.0,18.9,10.2,7.5,0.0,0.0,0.0,16.5,153,112,1.4
+2020-02-20,202002200GSW,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/202002200GSW.html,24:45,.583,.583,.500,.000,0.0,18.9,10.2,14.8,5.9,0.0,14.3,12.4,120,99,0.6
+2020-02-20,202002200GSW,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202002200GSW.html,24:27,1.079,1.143,.714,.286,5.6,14.4,10.3,0.0,2.0,0.0,27.6,19.5,123,109,3.0
+2020-02-20,202002200GSW,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202002200GSW.html,20:38,1.125,1.125,1.000,.000,6.6,11.3,9.2,6.1,2.3,0.0,0.0,8.5,215,109,6.8
+2020-02-20,202002200GSW,HOU,DeMarre Carroll,https://www.basketball-reference.com/boxscores/202002200GSW.html,13:28,1.136,,,,20.4,8.7,14.1,31.7,0.0,0.0,77.3,12.6,122,115,-1.9
+2020-02-20,202002200GSW,HOU,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202002200GSW.html,8:38,.205,.000,.500,.500,0.0,0.0,0.0,0.0,16.8,0.0,0.0,24.7,50,81,-9.7
+2020-02-20,202002200GSW,HOU,Michael Frazier,https://www.basketball-reference.com/boxscores/202002200GSW.html,6:04,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.4,100,117,-17.8
+2020-02-20,202002200GSW,HOU,Bruno Caboclo,https://www.basketball-reference.com/boxscores/202002200GSW.html,5:11,.000,.000,1.000,.000,0.0,22.6,12.2,0.0,18.7,16.5,66.7,25.3,0,62,-13.7
+2020-02-20,202002200GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202002200GSW.html,32:01,.582,.567,.667,.200,3.7,12.9,7.9,8.9,1.5,0.0,15.5,25.1,106,141,-8.1
+2020-02-20,202002200GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202002200GSW.html,28:57,.647,.647,.235,.000,8.1,4.7,6.5,0.0,1.7,9.2,5.6,25.9,125,137,2.5
+2020-02-20,202002200GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202002200GSW.html,28:32,.472,.375,.583,.333,0.0,14.4,6.6,13.5,3.4,0.0,6.8,21.5,108,136,-7.3
+2020-02-20,202002200GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202002200GSW.html,18:11,.333,.333,.667,.000,0.0,30.2,13.9,47.7,0.0,0.0,14.3,16.0,103,141,-4.8
+2020-02-20,202002200GSW,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202002200GSW.html,17:52,.563,.500,.000,.250,6.6,30.7,17.7,16.2,0.0,7.5,10.1,23.0,118,137,-2.4
+2020-02-20,202002200GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202002200GSW.html,31:53,.806,.786,.143,.143,14.7,8.6,11.9,8.3,0.0,4.2,40.2,16.2,102,143,-7.1
+2020-02-20,202002200GSW,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/202002200GSW.html,27:41,.424,.444,.333,.111,8.5,14.9,11.4,4.7,3.5,9.6,29.8,20.2,69,130,-8.9
+2020-02-20,202002200GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202002200GSW.html,24:45,.625,.625,.250,.000,4.7,27.7,15.3,28.3,3.9,5.4,20.0,16.8,118,129,3.2
+2020-02-20,202002200GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202002200GSW.html,18:26,.400,.400,.200,.000,0.0,7.4,3.4,13.4,5.2,0.0,28.6,15.8,72,132,-8.4
+2020-02-20,202002200GSW,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202002200GSW.html,11:42,.615,.500,.500,.500,20.0,11.7,16.2,20.6,4.1,0.0,29.1,12.2,123,134,0.7

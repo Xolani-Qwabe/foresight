@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-14,202202140LAC,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202202140LAC.html,33:49,.854,.833,.722,.167,0.0,7.7,3.5,12.1,0.0,0.0,17.2,31.3,128,128,9.9
+2022-02-14,202202140LAC,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202140LAC.html,28:05,.563,.500,.250,.250,0.0,9.2,4.2,5.3,1.8,3.4,25.3,19.2,85,121,-8.0
+2022-02-14,202202140LAC,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202140LAC.html,27:44,.597,.600,.400,.200,3.9,4.7,4.3,5.7,0.0,3.4,8.4,19.4,111,126,-1.6
+2022-02-14,202202140LAC,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202202140LAC.html,26:41,.250,.250,.357,.000,0.0,19.4,8.9,21.4,1.9,0.0,6.7,25.5,64,123,-11.6
+2022-02-14,202202140LAC,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202202140LAC.html,19:20,.595,.600,.000,.400,5.6,13.4,9.2,39.3,2.6,0.0,0.0,13.8,151,121,8.8
+2022-02-14,202202140LAC,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202202140LAC.html,25:01,.547,.500,.455,.182,4.4,31.1,16.6,19.6,2.0,0.0,14.4,25.2,105,121,-1.6
+2022-02-14,202202140LAC,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202202140LAC.html,20:38,.357,.357,.714,.000,5.3,25.1,14.4,13.5,2.4,0.0,0.0,15.4,94,121,-2.9
+2022-02-14,202202140LAC,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202202140LAC.html,16:10,.583,.583,.333,.000,13.5,48.1,29.3,0.0,3.1,0.0,0.0,16.9,126,116,2.0
+2022-02-14,202202140LAC,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202202140LAC.html,13:07,.375,.375,.750,.000,8.3,0.0,4.5,0.0,0.0,7.2,0.0,13.8,90,123,-5.8
+2022-02-14,202202140LAC,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202202140LAC.html,11:18,.568,,,,0.0,0.0,0.0,0.0,4.4,0.0,53.2,7.6,54,119,-9.0
+2022-02-14,202202140LAC,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202140LAC.html,10:56,.833,.833,.667,.000,0.0,11.9,5.4,43.6,0.0,0.0,25.0,16.6,139,128,7.7
+2022-02-14,202202140LAC,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202202140LAC.html,7:11,,,,,0.0,54.2,24.7,34.3,0.0,0.0,100.0,6.3,82,124,-2.1
+2022-02-14,202202140LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202202140LAC.html,39:05,.651,.676,.294,.294,0.0,19.5,10.6,21.4,1.3,2.7,9.4,25.1,126,106,6.2
+2022-02-14,202202140LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202202140LAC.html,37:32,.559,.559,.412,.000,0.0,23.3,12.6,30.5,0.0,0.0,15.0,24.7,113,110,0.6
+2022-02-14,202202140LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202202140LAC.html,28:35,.778,.778,.778,.000,4.5,26.7,16.6,4.2,3.5,0.0,0.0,14.6,155,101,10.9
+2022-02-14,202202140LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202202140LAC.html,26:45,.423,.423,.385,.000,0.0,8.2,4.4,4.6,0.0,0.0,0.0,22.5,89,113,-9.2
+2022-02-14,202202140LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202202140LAC.html,22:38,.765,.800,.000,.400,22.9,19.3,20.9,6.8,0.0,0.0,7.8,26.1,150,111,6.7
+2022-02-14,202202140LAC,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202202140LAC.html,26:41,.709,.667,.667,.667,4.9,4.1,4.4,8.4,3.7,4.0,11.4,15.2,137,102,4.5
+2022-02-14,202202140LAC,LAC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202202140LAC.html,22:35,1.125,1.125,.250,.000,0.0,29.0,15.7,10.8,2.2,0.0,33.3,12.3,140,104,5.0
+2022-02-14,202202140LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202202140LAC.html,22:33,.515,.500,.667,.667,0.0,9.7,5.3,9.3,0.0,0.0,20.5,10.0,100,113,-5.1
+2022-02-14,202202140LAC,LAC,Rodney Hood,https://www.basketball-reference.com/boxscores/202202140LAC.html,4:46,.000,.000,.000,.000,0.0,0.0,0.0,21.0,0.0,0.0,0.0,9.7,64,115,-7.2
+2022-02-14,202202140LAC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202202140LAC.html,4:25,1.333,1.333,.667,.000,0.0,0.0,0.0,0.0,0.0,24.2,0.0,31.5,267,97,60.1
+2022-02-14,202202140LAC,LAC,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202202140LAC.html,4:25,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,42.0,0,115,-48.1

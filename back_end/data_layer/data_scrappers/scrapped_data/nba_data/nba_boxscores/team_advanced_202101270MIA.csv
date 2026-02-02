@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-27,202101270MIA,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202101270MIA.html,35:47,.549,.455,.364,.364,3.0,12.5,7.7,14.6,1.4,0.0,7.3,16.8,123,94,-0.2
+2021-01-27,202101270MIA,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/202101270MIA.html,35:07,.470,.429,.286,.143,3.1,3.2,3.1,25.2,2.9,0.0,11.8,10.5,122,93,1.6
+2021-01-27,202101270MIA,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202101270MIA.html,34:06,.706,.679,.357,.143,6.4,29.5,17.8,14.4,0.0,4.0,6.3,20.4,141,91,6.5
+2021-01-27,202101270MIA,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202101270MIA.html,24:25,.611,.611,.444,.000,13.4,18.3,15.8,18.3,2.1,0.0,18.2,19.7,116,91,2.5
+2021-01-27,202101270MIA,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202101270MIA.html,21:16,.625,.625,.625,.000,0.0,15.7,7.8,6.8,0.0,6.4,27.3,22.6,85,93,-4.2
+2021-01-27,202101270MIA,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202101270MIA.html,24:59,.708,.708,.583,.000,0.0,22.3,11.0,6.7,8.2,0.0,20.0,26.2,102,76,8.2
+2021-01-27,202101270MIA,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202101270MIA.html,19:40,.638,.550,.700,.400,16.6,39.7,28.1,7.6,2.6,0.0,0.0,26.1,146,85,12.6
+2021-01-27,202101270MIA,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202101270MIA.html,16:40,.222,.222,.333,.000,6.5,6.7,6.6,39.7,3.1,0.0,10.0,26.2,78,92,-7.4
+2021-01-27,202101270MIA,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202101270MIA.html,10:07,.000,.000,.750,.000,0.0,0.0,0.0,11.3,10.1,13.6,0.0,17.3,19,68,-2.7
+2021-01-27,202101270MIA,DEN,R.J. Hampton,https://www.basketball-reference.com/boxscores/202101270MIA.html,7:40,.000,.000,.500,.000,0.0,0.0,0.0,0.0,13.3,0.0,33.3,17.1,0,68,-12.2
+2021-01-27,202101270MIA,DEN,Markus Howard,https://www.basketball-reference.com/boxscores/202101270MIA.html,2:52,1.500,1.500,1.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,30.5,285,101,94.3
+2021-01-27,202101270MIA,DEN,Bol Bol,https://www.basketball-reference.com/boxscores/202101270MIA.html,2:27,,,,,0.0,45.6,22.5,46.6,0.0,56.0,,0.0,233,56,32.7
+2021-01-27,202101270MIA,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202101270MIA.html,2:27,.000,.000,.000,.000,44.5,0.0,22.5,0.0,0.0,0.0,0.0,17.8,67,100,-25.1
+2021-01-27,202101270MIA,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202101270MIA.html,2:27,.667,.667,.000,.000,0.0,91.1,45.0,0.0,0.0,0.0,0.0,53.5,127,79,18.0
+2021-01-27,202101270MIA,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202101270MIA.html,38:55,.531,.531,.563,.000,0.0,5.6,2.8,5.8,3.9,0.0,11.1,22.0,86,114,-0.8
+2021-01-27,202101270MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202101270MIA.html,36:28,.364,.364,.909,.000,0.0,15.0,7.6,15.2,0.0,0.0,21.4,18.3,63,120,-11.8
+2021-01-27,202101270MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202101270MIA.html,33:31,.508,.462,.077,.308,6.7,16.3,11.5,40.1,0.0,0.0,16.9,25.2,100,120,-0.4
+2021-01-27,202101270MIA,MIA,KZ Okpala,https://www.basketball-reference.com/boxscores/202101270MIA.html,25:59,.129,.000,.667,.667,0.0,21.0,10.6,12.3,2.0,0.0,20.5,8.9,43,113,-8.8
+2021-01-27,202101270MIA,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202101270MIA.html,21:57,.500,.500,.778,.000,15.3,14.9,15.1,0.0,0.0,0.0,0.0,19.5,104,120,-1.7
+2021-01-27,202101270MIA,MIA,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202101270MIA.html,20:16,.563,.500,.000,.250,5.5,26.9,16.3,34.6,5.0,14.5,10.1,23.2,112,96,12.7
+2021-01-27,202101270MIA,MIA,Avery Bradley,https://www.basketball-reference.com/boxscores/202101270MIA.html,17:38,.667,.667,.667,.000,0.0,6.2,3.1,24.9,0.0,0.0,40.0,27.0,72,123,-9.3
+2021-01-27,202101270MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202101270MIA.html,16:33,.425,.300,1.000,.400,0.0,6.6,3.3,10.7,0.0,0.0,0.0,16.9,95,123,-8.2
+2021-01-27,202101270MIA,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202101270MIA.html,16:14,.600,.600,.800,.000,0.0,33.6,17.0,61.4,0.0,0.0,0.0,14.7,142,114,11.6
+2021-01-27,202101270MIA,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202101270MIA.html,12:29,.338,.250,.750,.250,0.0,0.0,0.0,14.7,0.0,0.0,31.1,24.6,54,125,-17.7

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-11-11,202211110OKC,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202211110OKC.html,31.35,6,15,.400,0,2,.000,1,1,1.000,3,3,6,1,2,1,3,1,13,7.9,-24
+2022-11-11,202211110OKC,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202211110OKC.html,28.63,5,13,.385,1,3,.333,4,6,.667,0,3,3,4,1,2,2,1,15,10.8,-4
+2022-11-11,202211110OKC,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202211110OKC.html,28.58,5,12,.417,3,7,.429,2,5,.400,0,2,2,3,2,0,3,3,15,7.9,-22
+2022-11-11,202211110OKC,TOR,Christian Koloko,https://www.basketball-reference.com/boxscores/202211110OKC.html,23.97,1,4,.250,0,0,,0,0,,3,1,4,1,1,0,1,3,2,1.5,0
+2022-11-11,202211110OKC,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202211110OKC.html,23.53,4,10,.400,0,2,.000,4,5,.800,1,1,2,1,1,0,0,1,12,8.5,-8
+2022-11-11,202211110OKC,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202211110OKC.html,31.15,6,9,.667,0,2,.000,8,10,.800,4,8,12,1,2,1,3,1,20,20.5,-7
+2022-11-11,202211110OKC,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202211110OKC.html,17.32,2,8,.250,1,4,.250,0,0,,1,0,1,4,1,0,1,0,5,3.7,-1
+2022-11-11,202211110OKC,TOR,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202211110OKC.html,17.22,2,5,.400,1,3,.333,1,1,1.000,0,1,1,1,1,0,0,2,6,4.5,-12
+2022-11-11,202211110OKC,TOR,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202211110OKC.html,17.05,3,4,.750,2,3,.667,1,2,.500,0,4,4,2,2,0,1,1,9,10.2,-4
+2022-11-11,202211110OKC,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202211110OKC.html,11.95,3,7,.429,3,4,.750,3,4,.750,0,2,2,0,0,0,2,2,12,5.7,-3
+2022-11-11,202211110OKC,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202211110OKC.html,9.25,1,1,1.000,0,0,,2,2,1.000,2,0,2,2,0,0,0,1,4,6.1,-10
+2022-11-11,202211110OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202211110OKC.html,33.62,6,12,.500,1,4,.250,4,5,.800,1,4,5,7,1,1,1,4,17,16.5,+13
+2022-11-11,202211110OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202211110OKC.html,28.05,8,14,.571,1,2,.500,3,4,.750,0,3,3,4,3,1,3,2,20,16.6,+13
+2022-11-11,202211110OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202211110OKC.html,22.97,4,7,.571,3,4,.750,2,3,.667,5,2,7,2,0,0,0,3,13,13.6,+16
+2022-11-11,202211110OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202211110OKC.html,22.62,6,9,.667,1,1,1.000,2,2,1.000,3,6,9,5,2,0,7,3,15,12.3,+8
+2022-11-11,202211110OKC,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202211110OKC.html,22.62,6,10,.600,1,2,.500,1,1,1.000,2,3,5,0,0,4,3,2,14,10.7,+10
+2022-11-11,202211110OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202211110OKC.html,30.48,5,10,.500,0,5,.000,0,0,,1,2,3,11,1,0,2,5,10,11.0,+15
+2022-11-11,202211110OKC,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202211110OKC.html,27.85,5,13,.385,3,10,.300,0,0,,1,2,3,1,2,0,1,0,13,8.9,+9
+2022-11-11,202211110OKC,OKC,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202211110OKC.html,27.0,8,10,.800,5,6,.833,1,2,.500,0,3,3,1,1,0,2,5,22,16.4,+12
+2022-11-11,202211110OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202211110OKC.html,19.37,3,6,.500,0,1,.000,0,0,,2,4,6,0,0,0,0,1,6,5.2,+10
+2022-11-11,202211110OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202211110OKC.html,5.43,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,2,2,0.2,-11

@@ -1,0 +1,71 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-02-09,202402090PHI,ATL,Q1,Trae Young,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.02,2,4,.500,1,3,.333,1,1,1.000,0,0,0,4,0,0,1,0,6,5.8,+5
+2024-02-09,202402090PHI,ATL,Q1,Jalen Johnson,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.23,2,4,.500,1,2,.500,0,0,,0,5,5,5,0,1,0,1,5,8.3,+6
+2024-02-09,202402090PHI,ATL,Q1,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202402090PHI.html,7.67,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,-1.4,+3
+2024-02-09,202402090PHI,ATL,Q1,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.02,5,6,.833,0,0,,0,0,,2,2,4,0,0,0,0,1,10,9.4,+8
+2024-02-09,202402090PHI,ATL,Q1,Saddiq Bey,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.02,2,5,.400,0,1,.000,2,2,1.000,3,2,5,0,0,0,0,0,6,6.0,+8
+2024-02-09,202402090PHI,ATL,Q1,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202402090PHI.html,5.75,1,3,.333,1,2,.500,2,2,1.000,0,0,0,0,0,0,0,0,5,3.3,+8
+2024-02-09,202402090PHI,ATL,Q1,Bruno Fernando,https://www.basketball-reference.com/boxscores/202402090PHI.html,2.98,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,+3
+2024-02-09,202402090PHI,ATL,Q1,Garrison Mathews,https://www.basketball-reference.com/boxscores/202402090PHI.html,4.33,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,3,2.6,+8
+2024-02-09,202402090PHI,ATL,Q1,Trent Forrest,https://www.basketball-reference.com/boxscores/202402090PHI.html,3.98,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,+6
+2024-02-09,202402090PHI,ATL,Q2,Trae Young,https://www.basketball-reference.com/boxscores/202402090PHI.html,10.28,3,4,.750,3,3,1.000,3,3,1.000,0,0,0,4,0,0,1,0,12,12.2,+10
+2024-02-09,202402090PHI,ATL,Q2,Jalen Johnson,https://www.basketball-reference.com/boxscores/202402090PHI.html,10.4,0,2,.000,0,0,,0,0,,0,3,3,1,0,0,1,0,0,-0.8,+6
+2024-02-09,202402090PHI,ATL,Q2,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.38,2,4,.500,1,2,.500,0,0,,2,0,2,3,0,0,0,1,5,6.1,+2
+2024-02-09,202402090PHI,ATL,Q2,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.9,3,3,1.000,1,1,1.000,0,0,,0,1,1,0,1,0,1,0,7,6.4,+4
+2024-02-09,202402090PHI,ATL,Q2,Saddiq Bey,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.9,1,2,.500,1,2,.500,0,0,,0,0,0,1,1,0,0,0,3,3.7,+4
+2024-02-09,202402090PHI,ATL,Q2,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.7,1,2,.500,1,1,1.000,0,0,,0,1,1,1,0,0,1,1,3,1.6,+2
+2024-02-09,202402090PHI,ATL,Q2,Bruno Fernando,https://www.basketball-reference.com/boxscores/202402090PHI.html,5.1,2,2,1.000,0,0,,0,0,,0,1,1,0,0,2,0,1,4,4.7,+2
+2024-02-09,202402090PHI,ATL,Q2,Garrison Mathews,https://www.basketball-reference.com/boxscores/202402090PHI.html,3.62,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,1,2,2.0,+4
+2024-02-09,202402090PHI,ATL,Q2,Trent Forrest,https://www.basketball-reference.com/boxscores/202402090PHI.html,1.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-4
+2024-02-09,202402090PHI,ATL,Q3,Trae Young,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.48,2,5,.400,1,4,.250,1,2,.500,0,1,1,3,1,0,3,0,6,3.3,+1
+2024-02-09,202402090PHI,ATL,Q3,Jalen Johnson,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.48,2,4,.500,0,2,.000,0,0,,0,1,1,0,0,0,0,1,4,1.9,+1
+2024-02-09,202402090PHI,ATL,Q3,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.82,3,3,1.000,2,2,1.000,0,0,,0,0,0,0,0,1,0,1,8,7.4,+2
+2024-02-09,202402090PHI,ATL,Q3,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.82,1,2,.500,0,1,.000,0,0,,0,0,0,2,0,2,0,1,2,3.4,+2
+2024-02-09,202402090PHI,ATL,Q3,Saddiq Bey,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.82,1,2,.500,1,1,1.000,4,4,1.000,2,3,5,0,0,0,0,0,7,8.3,+2
+2024-02-09,202402090PHI,ATL,Q3,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202402090PHI.html,5.7,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,2,0,3,1.7,-3
+2024-02-09,202402090PHI,ATL,Q3,Bruno Fernando,https://www.basketball-reference.com/boxscores/202402090PHI.html,3.18,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2024-02-09,202402090PHI,ATL,Q3,Garrison Mathews,https://www.basketball-reference.com/boxscores/202402090PHI.html,3.18,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2024-02-09,202402090PHI,ATL,Q3,Trent Forrest,https://www.basketball-reference.com/boxscores/202402090PHI.html,2.52,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,-1
+2024-02-09,202402090PHI,ATL,Q4,Trae Young,https://www.basketball-reference.com/boxscores/202402090PHI.html,12.0,3,8,.375,0,2,.000,7,10,.700,0,0,0,1,0,0,2,1,13,5.7,-11
+2024-02-09,202402090PHI,ATL,Q4,Jalen Johnson,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.37,1,2,.500,0,0,,0,2,.000,0,2,2,0,0,1,0,1,2,1.1,-6
+2024-02-09,202402090PHI,ATL,Q4,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.17,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,1,0,0,0,-0.4,-6
+2024-02-09,202402090PHI,ATL,Q4,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.17,0,1,.000,0,0,,2,2,1.000,0,3,3,0,0,0,0,1,2,1.8,-6
+2024-02-09,202402090PHI,ATL,Q4,Saddiq Bey,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.17,0,2,.000,0,1,.000,2,2,1.000,0,1,1,0,0,0,0,1,2,0.5,-6
+2024-02-09,202402090PHI,ATL,Q4,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202402090PHI.html,5.47,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-10
+2024-02-09,202402090PHI,ATL,Q4,Bruno Fernando,https://www.basketball-reference.com/boxscores/202402090PHI.html,2.83,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9,-5
+2024-02-09,202402090PHI,ATL,Q4,Garrison Mathews,https://www.basketball-reference.com/boxscores/202402090PHI.html,2.83,0,0,,0,0,,3,3,1.000,0,0,0,0,0,0,0,1,3,2.6,-5
+2024-02-09,202402090PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402090PHI.html,12.0,1,3,.333,0,2,.000,1,2,.500,1,1,2,0,0,0,0,1,3,1.5,-11
+2024-02-09,202402090PHI,PHI,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202402090PHI.html,10.65,2,7,.286,1,3,.333,0,0,,0,2,2,1,0,0,0,1,5,1.8,-6
+2024-02-09,202402090PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.02,2,4,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,0,5,3.3,-8
+2024-02-09,202402090PHI,PHI,Q1,Cameron Payne,https://www.basketball-reference.com/boxscores/202402090PHI.html,7.7,1,5,.200,0,2,.000,0,0,,1,0,1,2,0,0,1,0,2,0.0,-3
+2024-02-09,202402090PHI,PHI,Q1,Paul Reed,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.47,3,4,.750,0,0,,2,2,1.000,2,3,5,1,0,0,1,2,8,7.6,-8
+2024-02-09,202402090PHI,PHI,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202402090PHI.html,4.3,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-8
+2024-02-09,202402090PHI,PHI,Q1,Mo Bamba,https://www.basketball-reference.com/boxscores/202402090PHI.html,2.53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3
+2024-02-09,202402090PHI,PHI,Q1,Terquavion Smith,https://www.basketball-reference.com/boxscores/202402090PHI.html,4.05,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,1,0,3,0.3,-8
+2024-02-09,202402090PHI,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202402090PHI.html,0.28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-02-09,202402090PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.9,1,4,.250,0,1,.000,2,2,1.000,1,0,1,1,0,1,0,0,4,3.7,-4
+2024-02-09,202402090PHI,PHI,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.58,1,3,.333,0,2,.000,0,0,,0,0,0,1,0,0,1,0,2,0.0,-1
+2024-02-09,202402090PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.75,1,3,.333,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.0,-5
+2024-02-09,202402090PHI,PHI,Q2,Cameron Payne,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.02,2,4,.500,0,1,.000,2,2,1.000,1,0,1,0,1,0,1,2,6,3.9,-2
+2024-02-09,202402090PHI,PHI,Q2,Paul Reed,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.7,1,2,.500,0,0,,0,1,.000,3,2,5,0,0,0,0,0,2,3.3,-2
+2024-02-09,202402090PHI,PHI,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.02,2,2,1.000,0,0,,1,2,.500,1,2,3,0,0,0,1,0,5,4.3,-5
+2024-02-09,202402090PHI,PHI,Q2,Mo Bamba,https://www.basketball-reference.com/boxscores/202402090PHI.html,5.3,0,2,.000,0,1,.000,0,0,,1,0,1,2,0,1,0,1,0,1.0,-4
+2024-02-09,202402090PHI,PHI,Q2,Terquavion Smith,https://www.basketball-reference.com/boxscores/202402090PHI.html,4.63,2,3,.667,1,2,.500,0,0,,0,0,0,0,1,0,0,0,5,4.7,-5
+2024-02-09,202402090PHI,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202402090PHI.html,5.1,1,3,.333,0,1,.000,2,2,1.000,0,1,1,0,0,0,0,0,4,2.6,-2
+2024-02-09,202402090PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.05,3,5,.600,1,1,1.000,0,0,,1,2,3,0,0,0,0,1,7,5.6,+2
+2024-02-09,202402090PHI,PHI,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202402090PHI.html,11.15,2,6,.333,2,5,.400,0,0,,0,1,1,3,0,0,1,0,6,4.0,0
+2024-02-09,202402090PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.82,2,4,.500,1,1,1.000,1,2,.500,0,0,0,2,0,0,1,1,6,3.6,-2
+2024-02-09,202402090PHI,PHI,Q3,Cameron Payne,https://www.basketball-reference.com/boxscores/202402090PHI.html,7.97,2,3,.667,2,3,.667,0,0,,0,0,0,2,1,0,0,0,6,7.1,-2
+2024-02-09,202402090PHI,PHI,Q3,Paul Reed,https://www.basketball-reference.com/boxscores/202402090PHI.html,8.82,1,1,1.000,0,0,,0,0,,1,1,2,0,1,1,0,1,2,4.0,-2
+2024-02-09,202402090PHI,PHI,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.98,0,2,.000,0,1,.000,0,0,,0,2,2,0,1,0,0,2,0,-0.6,0
+2024-02-09,202402090PHI,PHI,Q3,Mo Bamba,https://www.basketball-reference.com/boxscores/202402090PHI.html,3.18,1,1,1.000,1,1,1.000,0,0,,1,0,1,1,0,0,1,0,3,3.1,+2
+2024-02-09,202402090PHI,PHI,Q3,Terquavion Smith,https://www.basketball-reference.com/boxscores/202402090PHI.html,4.03,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2
+2024-02-09,202402090PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402090PHI.html,12.0,3,7,.429,1,4,.250,7,10,.700,2,4,6,0,1,0,0,2,14,11.9,+11
+2024-02-09,202402090PHI,PHI,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202402090PHI.html,9.17,3,5,.600,1,2,.500,0,0,,1,0,1,1,0,0,0,2,7,5.3,+6
+2024-02-09,202402090PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202402090PHI.html,12.0,2,5,.400,0,1,.000,4,4,1.000,0,5,5,4,0,0,0,1,8,9.2,+11
+2024-02-09,202402090PHI,PHI,Q4,Cameron Payne,https://www.basketball-reference.com/boxscores/202402090PHI.html,12.0,2,4,.500,2,3,.667,0,0,,1,0,1,2,0,1,0,0,6,6.8,+11
+2024-02-09,202402090PHI,PHI,Q4,Paul Reed,https://www.basketball-reference.com/boxscores/202402090PHI.html,6.52,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,3,0,-2.3,+1
+2024-02-09,202402090PHI,PHI,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202402090PHI.html,1.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+3
+2024-02-09,202402090PHI,PHI,Q4,Mo Bamba,https://www.basketball-reference.com/boxscores/202402090PHI.html,5.47,0,0,,0,0,,0,0,,0,1,1,0,1,2,0,0,0,2.7,+10
+2024-02-09,202402090PHI,PHI,Q4,Terquavion Smith,https://www.basketball-reference.com/boxscores/202402090PHI.html,0.02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-02-09,202402090PHI,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202402090PHI.html,1.2,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+2

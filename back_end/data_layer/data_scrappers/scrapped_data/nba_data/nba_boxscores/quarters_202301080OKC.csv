@@ -1,0 +1,80 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-01-08,202301080OKC,DAL,Q1,Christian Wood,https://www.basketball-reference.com/boxscores/202301080OKC.html,12.0,3,5,.600,1,3,.333,6,7,.857,1,4,5,0,0,0,1,0,13,11.2,+1
+2023-01-08,202301080OKC,DAL,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202301080OKC.html,8.75,2,2,1.000,1,1,1.000,3,4,.750,0,1,1,2,0,0,0,1,8,8.3,+11
+2023-01-08,202301080OKC,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202301080OKC.html,12.0,1,6,.167,1,3,.333,0,0,,0,2,2,2,0,0,0,1,3,0.8,+1
+2023-01-08,202301080OKC,DAL,Q1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.32,2,2,1.000,2,2,1.000,0,0,,0,0,0,1,0,0,1,0,6,5.1,+9
+2023-01-08,202301080OKC,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.05,0,0,,0,0,,0,0,,1,2,3,1,0,0,0,0,0,2.0,+8
+2023-01-08,202301080OKC,DAL,Q1,Jaden Hardy,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.95,1,1,1.000,1,1,1.000,1,2,.500,0,0,0,0,0,0,1,1,4,1.9,-7
+2023-01-08,202301080OKC,DAL,Q1,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.68,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-8
+2023-01-08,202301080OKC,DAL,Q1,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202301080OKC.html,3.25,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-10
+2023-01-08,202301080OKC,DAL,Q2,Christian Wood,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.23,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3,-7
+2023-01-08,202301080OKC,DAL,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202301080OKC.html,10.03,0,6,.000,0,2,.000,2,2,1.000,0,0,0,3,0,0,1,0,2,-1.1,-10
+2023-01-08,202301080OKC,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.45,0,3,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,1,1,-1.9,-13
+2023-01-08,202301080OKC,DAL,Q2,Reggie Bullock,https://www.basketball-reference.com/boxscores/202301080OKC.html,9.22,1,4,.250,1,3,.333,0,0,,1,0,1,0,0,0,0,0,3,1.3,-8
+2023-01-08,202301080OKC,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.73,0,0,,0,0,,2,4,.500,0,1,1,0,0,0,0,1,2,1.1,-13
+2023-01-08,202301080OKC,DAL,Q2,Jaden Hardy,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.27,1,2,.500,0,0,,0,0,,0,0,0,2,0,0,0,0,2,2.4,-2
+2023-01-08,202301080OKC,DAL,Q2,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.93,3,4,.750,3,4,.750,0,0,,1,1,2,0,0,0,0,0,9,8.4,-8
+2023-01-08,202301080OKC,DAL,Q2,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202301080OKC.html,2.78,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-7
+2023-01-08,202301080OKC,DAL,Q2,Theo Pinson,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.25,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-5
+2023-01-08,202301080OKC,DAL,Q2,JaVale McGee,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.1,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-2
+2023-01-08,202301080OKC,DAL,Q3,Christian Wood,https://www.basketball-reference.com/boxscores/202301080OKC.html,12.0,2,5,.400,0,2,.000,1,2,.500,1,4,5,1,0,0,2,2,5,1.7,+1
+2023-01-08,202301080OKC,DAL,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202301080OKC.html,11.8,3,6,.500,0,1,.000,3,4,.750,1,0,1,3,1,0,0,0,9,9.4,+3
+2023-01-08,202301080OKC,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202301080OKC.html,12.0,4,7,.571,2,4,.500,2,2,1.000,0,3,3,0,0,0,0,1,12,9.2,+1
+2023-01-08,202301080OKC,DAL,Q3,Reggie Bullock,https://www.basketball-reference.com/boxscores/202301080OKC.html,11.73,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0
+2023-01-08,202301080OKC,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.1,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1
+2023-01-08,202301080OKC,DAL,Q3,Jaden Hardy,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.9,0,1,.000,0,1,.000,2,2,1.000,0,1,1,1,0,0,0,2,2,1.5,+2
+2023-01-08,202301080OKC,DAL,Q3,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202301080OKC.html,0.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2023-01-08,202301080OKC,DAL,Q3,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202301080OKC.html,0.2,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2023-01-08,202301080OKC,DAL,Q4,Christian Wood,https://www.basketball-reference.com/boxscores/202301080OKC.html,9.57,2,2,1.000,0,0,,3,3,1.000,1,3,4,1,0,0,1,1,7,7.3,+6
+2023-01-08,202301080OKC,DAL,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.22,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,2,1,2,-1.1,-6
+2023-01-08,202301080OKC,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.22,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,-6
+2023-01-08,202301080OKC,DAL,Q4,Reggie Bullock,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.7,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,-3
+2023-01-08,202301080OKC,DAL,Q4,Dwight Powell,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.57,0,0,,0,0,,4,4,1.000,0,1,1,1,0,0,0,0,4,5.0,-5
+2023-01-08,202301080OKC,DAL,Q4,Jaden Hardy,https://www.basketball-reference.com/boxscores/202301080OKC.html,9.12,0,4,.000,0,3,.000,1,2,.500,0,1,1,0,0,0,1,2,1,-3.7,+10
+2023-01-08,202301080OKC,DAL,Q4,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.68,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3
+2023-01-08,202301080OKC,DAL,Q4,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.78,2,2,1.000,0,0,,2,2,1.000,0,1,1,0,2,1,1,1,6,7.0,+8
+2023-01-08,202301080OKC,DAL,Q4,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202301080OKC.html,2.62,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2023-01-08,202301080OKC,DAL,Q4,Theo Pinson,https://www.basketball-reference.com/boxscores/202301080OKC.html,2.62,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,+2
+2023-01-08,202301080OKC,DAL,Q4,A.J. Lawson,https://www.basketball-reference.com/boxscores/202301080OKC.html,1.92,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1
+2023-01-08,202301080OKC,OKC,Q1,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202301080OKC.html,12.0,2,5,.400,0,0,,6,8,.750,0,2,2,2,0,0,0,0,10,8.5,-1
+2023-01-08,202301080OKC,OKC,Q1,Luguentz Dort,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.43,0,3,.000,0,1,.000,0,0,,0,1,1,1,1,0,0,2,0,-0.9,-8
+2023-01-08,202301080OKC,OKC,Q1,Josh Giddey,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.43,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,0,1,2,1.3,-8
+2023-01-08,202301080OKC,OKC,Q1,Jalen Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,8.1,3,5,.600,0,1,.000,0,0,,0,0,0,2,0,1,0,1,6,5.4,-11
+2023-01-08,202301080OKC,OKC,Q1,Kenrich Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.37,3,3,1.000,2,2,1.000,0,0,,1,0,1,0,0,0,0,0,8,7.8,-9
+2023-01-08,202301080OKC,OKC,Q1,Lindy Waters III,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.68,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,+8
+2023-01-08,202301080OKC,OKC,Q1,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202301080OKC.html,1.67,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-3
+2023-01-08,202301080OKC,OKC,Q1,Isaiah Joe,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.52,0,0,,0,0,,0,0,,0,3,3,1,0,0,0,2,0,0.8,+7
+2023-01-08,202301080OKC,OKC,Q1,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202301080OKC.html,0.05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2023-01-08,202301080OKC,OKC,Q1,Tre Mann,https://www.basketball-reference.com/boxscores/202301080OKC.html,3.85,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,0,2,1.0,+10
+2023-01-08,202301080OKC,OKC,Q1,Mike Muscala,https://www.basketball-reference.com/boxscores/202301080OKC.html,3.9,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,1,0,1,3,3.3,+10
+2023-01-08,202301080OKC,OKC,Q2,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+5
+2023-01-08,202301080OKC,OKC,Q2,Luguentz Dort,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.9,2,4,.500,2,3,.667,1,2,.500,0,2,2,0,0,0,0,0,7,5.2,+13
+2023-01-08,202301080OKC,OKC,Q2,Josh Giddey,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.67,0,2,.000,0,0,,0,0,,0,2,2,2,0,0,0,1,0,0.2,+5
+2023-01-08,202301080OKC,OKC,Q2,Jalen Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.17,2,2,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,4,4.0,+10
+2023-01-08,202301080OKC,OKC,Q2,Kenrich Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,2.13,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.7,-3
+2023-01-08,202301080OKC,OKC,Q2,Lindy Waters III,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.58,2,4,.500,2,4,.500,0,0,,0,2,2,1,0,2,0,0,6,6.7,+10
+2023-01-08,202301080OKC,OKC,Q2,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202301080OKC.html,9.55,3,4,.750,0,0,,0,0,,1,1,2,0,0,0,0,0,6,5.4,+15
+2023-01-08,202301080OKC,OKC,Q2,Isaiah Joe,https://www.basketball-reference.com/boxscores/202301080OKC.html,0.48,0,0,,0,0,,3,3,1.000,0,0,0,0,0,0,0,0,3,3.0,+3
+2023-01-08,202301080OKC,OKC,Q2,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202301080OKC.html,11.68,2,5,.400,2,3,.667,0,0,,2,0,2,5,0,0,0,2,6,7.4,+12
+2023-01-08,202301080OKC,OKC,Q2,Tre Mann,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.1,1,1,1.000,0,0,,0,0,,0,0,0,2,1,0,1,0,2,3.1,+2
+2023-01-08,202301080OKC,OKC,Q2,Mike Muscala,https://www.basketball-reference.com/boxscores/202301080OKC.html,0.32,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3
+2023-01-08,202301080OKC,OKC,Q3,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202301080OKC.html,12.0,7,10,.700,0,1,.000,3,3,1.000,0,2,2,1,0,2,1,2,17,13.7,-1
+2023-01-08,202301080OKC,OKC,Q3,Luguentz Dort,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.45,2,4,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,4,2.3,-4
+2023-01-08,202301080OKC,OKC,Q3,Josh Giddey,https://www.basketball-reference.com/boxscores/202301080OKC.html,3.33,0,1,.000,0,1,.000,0,0,,0,2,2,1,0,0,1,3,0,-1.6,+1
+2023-01-08,202301080OKC,OKC,Q3,Jalen Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,6.72,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,1,1,0,0,-1.7,-4
+2023-01-08,202301080OKC,OKC,Q3,Kenrich Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.45,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,0,0,1,2,1.6,-4
+2023-01-08,202301080OKC,OKC,Q3,Lindy Waters III,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.55,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3
+2023-01-08,202301080OKC,OKC,Q3,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202301080OKC.html,0.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2023-01-08,202301080OKC,OKC,Q3,Isaiah Joe,https://www.basketball-reference.com/boxscores/202301080OKC.html,8.67,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,2.3,-2
+2023-01-08,202301080OKC,OKC,Q3,Tre Mann,https://www.basketball-reference.com/boxscores/202301080OKC.html,5.28,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,1,2,1.6,+3
+2023-01-08,202301080OKC,OKC,Q3,Mike Muscala,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.28,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,+4
+2023-01-08,202301080OKC,OKC,Q4,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.83,2,2,1.000,0,0,,2,2,1.000,0,1,1,2,1,0,2,2,6,5.3,+4
+2023-01-08,202301080OKC,OKC,Q4,Luguentz Dort,https://www.basketball-reference.com/boxscores/202301080OKC.html,9.68,3,9,.333,1,3,.333,0,0,,0,1,1,0,0,0,0,0,7,2.2,+5
+2023-01-08,202301080OKC,OKC,Q4,Josh Giddey,https://www.basketball-reference.com/boxscores/202301080OKC.html,9.68,3,6,.500,2,3,.667,0,0,,0,1,1,0,0,0,0,0,8,5.3,+5
+2023-01-08,202301080OKC,OKC,Q4,Jalen Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.93,0,2,.000,0,0,,0,0,,2,0,2,0,0,1,0,0,0,0.7,-9
+2023-01-08,202301080OKC,OKC,Q4,Kenrich Williams,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.83,1,2,.500,0,0,,0,0,,1,3,4,2,1,0,0,1,2,4.6,+4
+2023-01-08,202301080OKC,OKC,Q4,Lindy Waters III,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.17,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,-6
+2023-01-08,202301080OKC,OKC,Q4,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202301080OKC.html,7.07,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-0.4,+7
+2023-01-08,202301080OKC,OKC,Q4,Isaiah Joe,https://www.basketball-reference.com/boxscores/202301080OKC.html,2.32,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-7
+2023-01-08,202301080OKC,OKC,Q4,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202301080OKC.html,4.17,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-6
+2023-01-08,202301080OKC,OKC,Q4,Mike Muscala,https://www.basketball-reference.com/boxscores/202301080OKC.html,2.32,0,0,,0,0,,1,2,.500,1,0,1,0,0,0,1,1,1,-0.1,-7

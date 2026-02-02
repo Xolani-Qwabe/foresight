@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-01-16,202001160MIL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202001160MIL.html,40.33,8,20,.400,1,5,.200,0,2,.000,0,7,7,3,0,1,2,2,17,7.5,+5
+2020-01-16,202001160MIL,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202001160MIL.html,38.23,14,23,.609,4,11,.364,8,9,.889,3,8,11,3,0,1,2,2,40,33.6,-4
+2020-01-16,202001160MIL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202001160MIL.html,36.32,6,15,.400,5,10,.500,7,7,1.000,1,3,4,2,2,1,1,4,24,19.0,-6
+2020-01-16,202001160MIL,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/202001160MIL.html,32.23,1,10,.100,1,9,.111,4,4,1.000,1,4,5,2,0,0,1,3,7,1.5,+4
+2020-01-16,202001160MIL,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202001160MIL.html,22.53,5,8,.625,1,4,.250,1,2,.500,3,7,10,0,1,2,0,5,12,12.6,+3
+2020-01-16,202001160MIL,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202001160MIL.html,19.85,2,5,.400,2,4,.500,0,0,,1,0,1,2,0,0,0,3,6,4.2,+7
+2020-01-16,202001160MIL,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202001160MIL.html,15.6,4,6,.667,0,0,,1,1,1.000,0,1,1,0,0,2,0,3,9,6.9,-10
+2020-01-16,202001160MIL,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202001160MIL.html,14.72,1,5,.200,0,2,.000,0,0,,0,1,1,4,0,0,0,1,2,1.6,-4
+2020-01-16,202001160MIL,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202001160MIL.html,13.03,1,2,.500,0,0,,0,0,,1,0,1,0,1,0,0,2,2,1.9,-14
+2020-01-16,202001160MIL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202001160MIL.html,7.15,1,4,.250,1,4,.250,1,2,.500,0,2,2,0,0,0,1,0,4,0.8,-6
+2020-01-16,202001160MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202001160MIL.html,34.9,11,22,.500,0,5,.000,10,20,.500,1,16,17,7,0,2,4,4,32,23.2,-7
+2020-01-16,202001160MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202001160MIL.html,30.88,8,13,.615,3,5,.600,4,5,.800,1,5,6,4,2,0,2,1,23,21.3,+3
+2020-01-16,202001160MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202001160MIL.html,30.27,6,10,.600,3,5,.600,1,1,1.000,0,3,3,1,0,4,0,2,16,15.0,+6
+2020-01-16,202001160MIL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202001160MIL.html,28.83,0,3,.000,0,1,.000,0,0,,1,3,4,1,0,0,0,3,0,-1.0,-14
+2020-01-16,202001160MIL,MIL,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202001160MIL.html,20.1,2,9,.222,1,3,.333,4,4,1.000,0,2,2,4,1,0,2,4,9,4.3,+2
+2020-01-16,202001160MIL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202001160MIL.html,27.77,6,11,.545,4,6,.667,3,3,1.000,1,2,3,1,2,0,0,1,19,17.3,-2
+2020-01-16,202001160MIL,MIL,George Hill,https://www.basketball-reference.com/boxscores/202001160MIL.html,25.47,4,6,.667,3,3,1.000,2,2,1.000,0,2,2,2,0,0,2,4,13,8.8,+13
+2020-01-16,202001160MIL,MIL,Kyle Korver,https://www.basketball-reference.com/boxscores/202001160MIL.html,18.08,3,5,.600,2,3,.667,0,0,,0,2,2,0,1,0,0,1,8,6.9,+18
+2020-01-16,202001160MIL,MIL,Ersan İlyasova,https://www.basketball-reference.com/boxscores/202001160MIL.html,15.75,3,5,.600,0,0,,2,2,1.000,3,6,9,0,0,0,0,2,8,8.8,+6
+2020-01-16,202001160MIL,MIL,Robin Lopez,https://www.basketball-reference.com/boxscores/202001160MIL.html,7.82,0,3,.000,0,0,,0,0,,0,2,2,1,0,0,0,0,0,-0.8,+3
+2020-01-16,202001160MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202001160MIL.html,0.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3

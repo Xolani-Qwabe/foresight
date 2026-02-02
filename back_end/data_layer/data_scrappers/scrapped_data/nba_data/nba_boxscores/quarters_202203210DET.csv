@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2022-03-21,202203210DET,POR,Q1,Brandon Williams,https://www.basketball-reference.com/boxscores/202203210DET.html,7.92,2,3,.667,0,0,3,3,1.000,0,1,1,2,0,0,1,0,7,6.4,+5,
+2022-03-21,202203210DET,POR,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203210DET.html,9.95,2,3,.667,0,0,2,2,1.000,1,1,2,0,0,1,0,0,6,6.4,+10,
+2022-03-21,202203210DET,POR,Q1,Justise Winslow,https://www.basketball-reference.com/boxscores/202203210DET.html,6.97,2,4,.500,0,0,0,0,,0,0,0,1,0,1,0,1,4,3.0,+5,
+2022-03-21,202203210DET,POR,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202203210DET.html,9.02,1,3,.333,0,0,0,0,,0,0,0,1,1,0,1,0,2,1.0,+2,
+2022-03-21,202203210DET,POR,Q1,CJ Elleby,https://www.basketball-reference.com/boxscores/202203210DET.html,8.8,2,3,.667,0,0,0,2,.000,2,4,6,1,1,1,0,1,4,6.5,+3,
+2022-03-21,202203210DET,POR,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/202203210DET.html,5.03,1,2,.500,0,1,0,0,,0,1,1,0,0,1,0,1,2,1.6,+2,.000
+2022-03-21,202203210DET,POR,Q1,Kris Dunn,https://www.basketball-reference.com/boxscores/202203210DET.html,4.08,0,2,.000,0,0,0,0,,0,0,0,1,0,1,0,0,0,0.0,+2,
+2022-03-21,202203210DET,POR,Q1,Keon Johnson,https://www.basketball-reference.com/boxscores/202203210DET.html,3.48,0,0,,0,0,0,0,,0,1,1,0,0,0,0,0,0,0.3,+4,
+2022-03-21,202203210DET,POR,Q1,Greg Brown III,https://www.basketball-reference.com/boxscores/202203210DET.html,4.73,1,1,1.000,0,0,2,4,.500,1,0,1,0,0,0,0,3,4,2.4,+2,
+2022-03-21,202203210DET,POR,Q2,Brandon Williams,https://www.basketball-reference.com/boxscores/202203210DET.html,6.2,1,1,1.000,0,0,2,2,1.000,0,0,0,0,0,0,1,0,4,2.7,0,
+2022-03-21,202203210DET,POR,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203210DET.html,5.8,0,1,.000,0,1,0,0,,0,1,1,1,0,0,0,0,0,0.3,+8,.000
+2022-03-21,202203210DET,POR,Q2,Justise Winslow,https://www.basketball-reference.com/boxscores/202203210DET.html,6.2,0,1,.000,0,1,0,0,,0,2,2,2,0,0,0,0,0,1.3,0,.000
+2022-03-21,202203210DET,POR,Q2,Trendon Watford,https://www.basketball-reference.com/boxscores/202203210DET.html,6.2,1,2,.500,0,0,2,2,1.000,0,1,1,1,0,0,0,2,4,3.2,0,
+2022-03-21,202203210DET,POR,Q2,CJ Elleby,https://www.basketball-reference.com/boxscores/202203210DET.html,5.8,1,1,1.000,1,1,3,4,.750,0,1,1,0,0,0,0,0,6,5.6,+8,1.000
+2022-03-21,202203210DET,POR,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/202203210DET.html,9.47,5,8,.625,4,6,0,0,,0,2,2,0,0,0,0,1,14,10.6,+3,.667
+2022-03-21,202203210DET,POR,Q2,Kris Dunn,https://www.basketball-reference.com/boxscores/202203210DET.html,8.33,1,2,.500,0,0,1,1,1.000,0,1,1,4,0,0,0,1,3,4.7,+13,
+2022-03-21,202203210DET,POR,Q2,Keon Johnson,https://www.basketball-reference.com/boxscores/202203210DET.html,5.8,0,1,.000,0,1,0,0,,0,1,1,1,2,0,0,1,0,1.9,+8,.000
+2022-03-21,202203210DET,POR,Q2,Elijah Hughes,https://www.basketball-reference.com/boxscores/202203210DET.html,6.2,3,5,.600,1,3,0,0,,0,2,2,0,0,0,0,1,7,4.9,0,.333
+2022-03-21,202203210DET,POR,Q3,Brandon Williams,https://www.basketball-reference.com/boxscores/202203210DET.html,9.77,1,5,.200,0,1,2,2,1.000,1,2,3,0,2,0,0,1,4,3.8,0,.000
+2022-03-21,202203210DET,POR,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203210DET.html,11.32,3,4,.750,0,0,3,4,.750,3,0,3,1,0,0,0,1,9,9.4,-2,
+2022-03-21,202203210DET,POR,Q3,Justise Winslow,https://www.basketball-reference.com/boxscores/202203210DET.html,7.73,0,4,.000,0,0,2,2,1.000,1,0,1,0,0,0,1,0,2,-1.1,-1,
+2022-03-21,202203210DET,POR,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202203210DET.html,6.9,0,0,,0,0,0,2,.000,0,0,0,2,1,1,0,2,0,1.5,-5,
+2022-03-21,202203210DET,POR,Q3,CJ Elleby,https://www.basketball-reference.com/boxscores/202203210DET.html,6.37,2,2,1.000,1,1,1,1,1.000,0,0,0,1,1,0,0,1,6,6.7,0,1.000
+2022-03-21,202203210DET,POR,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/202203210DET.html,5.62,1,3,.333,1,3,1,2,.500,1,0,1,1,1,0,1,0,4,3.3,-7,.333
+2022-03-21,202203210DET,POR,Q3,Kris Dunn,https://www.basketball-reference.com/boxscores/202203210DET.html,4.27,0,1,.000,0,0,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-6,
+2022-03-21,202203210DET,POR,Q3,Keon Johnson,https://www.basketball-reference.com/boxscores/202203210DET.html,2.23,0,2,.000,0,1,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-7,.000
+2022-03-21,202203210DET,POR,Q3,Greg Brown III,https://www.basketball-reference.com/boxscores/202203210DET.html,5.78,1,1,1.000,0,0,2,2,1.000,0,1,1,0,1,0,0,1,4,4.6,-7,
+2022-03-21,202203210DET,POR,Q4,Brandon Williams,https://www.basketball-reference.com/boxscores/202203210DET.html,9.5,2,8,.250,0,2,4,4,1.000,1,1,2,1,1,0,0,1,8,5.5,+3,.000
+2022-03-21,202203210DET,POR,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202203210DET.html,4.23,0,0,,0,0,2,2,1.000,1,1,2,0,0,0,0,2,2,2.2,-9,
+2022-03-21,202203210DET,POR,Q4,Justise Winslow,https://www.basketball-reference.com/boxscores/202203210DET.html,9.5,1,3,.333,0,1,2,2,1.000,3,3,6,0,1,0,1,0,4,5.3,+3,.000
+2022-03-21,202203210DET,POR,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202203210DET.html,7.77,3,4,.750,0,0,1,2,.500,1,1,2,0,1,1,1,1,7,6.3,+5,
+2022-03-21,202203210DET,POR,Q4,CJ Elleby,https://www.basketball-reference.com/boxscores/202203210DET.html,4.23,0,1,.000,0,1,0,0,,1,0,1,0,1,0,2,0,0,-1.0,-9,.000
+2022-03-21,202203210DET,POR,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/202203210DET.html,10.47,0,3,.000,0,2,1,2,.500,0,1,1,1,1,0,0,1,1,0.1,-1,.000
+2022-03-21,202203210DET,POR,Q4,Kris Dunn,https://www.basketball-reference.com/boxscores/202203210DET.html,10.27,0,3,.000,0,1,0,0,,0,1,1,0,0,0,0,0,0,-1.8,-2,.000
+2022-03-21,202203210DET,POR,Q4,Keon Johnson,https://www.basketball-reference.com/boxscores/202203210DET.html,2.5,0,1,.000,0,1,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,-7,.000
+2022-03-21,202203210DET,POR,Q4,Greg Brown III,https://www.basketball-reference.com/boxscores/202203210DET.html,1.53,0,0,,0,0,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2022-03-21,202203210DET,DET,Q1,Killian Hayes,https://www.basketball-reference.com/boxscores/202203210DET.html,3.88,0,1,.000,0,0,0,0,,0,1,1,1,0,0,0,2,0,-0.5,-6,
+2022-03-21,202203210DET,DET,Q1,Cade Cunningham,https://www.basketball-reference.com/boxscores/202203210DET.html,6.97,2,4,.500,0,1,1,2,.500,0,0,0,0,1,0,1,2,5,1.8,-5,.000
+2022-03-21,202203210DET,DET,Q1,Saddiq Bey,https://www.basketball-reference.com/boxscores/202203210DET.html,12.0,1,6,.167,1,4,4,4,1.000,1,2,3,0,0,0,1,0,7,3.5,-7,.250
+2022-03-21,202203210DET,DET,Q1,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202203210DET.html,8.52,1,2,.500,0,1,0,0,,2,2,4,0,0,0,0,0,2,3.0,-3,.000
+2022-03-21,202203210DET,DET,Q1,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202203210DET.html,10.4,1,2,.500,0,0,2,2,1.000,0,2,2,0,0,0,0,0,4,3.6,-6,
+2022-03-21,202203210DET,DET,Q1,Isaiah Livers,https://www.basketball-reference.com/boxscores/202203210DET.html,5.03,0,2,.000,0,2,1,1,1.000,0,0,0,0,0,0,0,1,1,-0.8,-2,.000
+2022-03-21,202203210DET,DET,Q1,Saben Lee,https://www.basketball-reference.com/boxscores/202203210DET.html,8.12,0,3,.000,0,0,0,0,,0,0,0,0,1,0,0,2,0,-1.9,-1,
+2022-03-21,202203210DET,DET,Q1,Luka Garza,https://www.basketball-reference.com/boxscores/202203210DET.html,3.48,0,0,,0,0,3,4,.750,0,0,0,0,0,0,0,1,3,2.2,-4,
+2022-03-21,202203210DET,DET,Q1,Jamorko Pickett,https://www.basketball-reference.com/boxscores/202203210DET.html,1.6,0,1,.000,0,1,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1,.000
+2022-03-21,202203210DET,DET,Q2,Killian Hayes,https://www.basketball-reference.com/boxscores/202203210DET.html,10.13,0,5,.000,0,2,0,0,,0,1,1,3,0,0,2,0,0,-3.1,-6,.000
+2022-03-21,202203210DET,DET,Q2,Cade Cunningham,https://www.basketball-reference.com/boxscores/202203210DET.html,10.13,5,8,.625,0,1,3,3,1.000,0,0,0,3,1,0,0,0,13,12.5,-4,.000
+2022-03-21,202203210DET,DET,Q2,Saddiq Bey,https://www.basketball-reference.com/boxscores/202203210DET.html,7.78,1,3,.333,1,3,2,2,1.000,0,1,1,0,0,0,0,0,5,3.6,+1,.333
+2022-03-21,202203210DET,DET,Q2,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202203210DET.html,9.2,1,2,.500,0,0,2,2,1.000,1,4,5,0,0,1,0,1,4,5.2,-1,
+2022-03-21,202203210DET,DET,Q2,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202203210DET.html,6.2,1,2,.500,0,1,0,0,,1,1,2,0,0,0,0,0,2,2.0,0,.000
+2022-03-21,202203210DET,DET,Q2,Isaiah Livers,https://www.basketball-reference.com/boxscores/202203210DET.html,5.8,0,0,,0,0,0,0,,0,2,2,0,0,0,1,0,0,-0.4,-8,
+2022-03-21,202203210DET,DET,Q2,Saben Lee,https://www.basketball-reference.com/boxscores/202203210DET.html,3.73,1,1,1.000,0,0,0,0,,0,0,0,2,0,0,0,1,2,2.7,-6,
+2022-03-21,202203210DET,DET,Q2,Luka Garza,https://www.basketball-reference.com/boxscores/202203210DET.html,2.8,1,2,.500,0,1,0,1,.000,0,0,0,0,0,0,0,0,2,0.6,-7,.000
+2022-03-21,202203210DET,DET,Q2,Jamorko Pickett,https://www.basketball-reference.com/boxscores/202203210DET.html,4.22,1,2,.500,0,1,0,0,,1,1,2,0,0,0,0,3,2,0.8,-9,.000
+2022-03-21,202203210DET,DET,Q3,Killian Hayes,https://www.basketball-reference.com/boxscores/202203210DET.html,9.9,2,3,.667,0,0,4,4,1.000,1,0,1,1,0,0,1,1,8,6.7,-1,
+2022-03-21,202203210DET,DET,Q3,Cade Cunningham,https://www.basketball-reference.com/boxscores/202203210DET.html,12.0,2,3,.667,0,0,0,0,,0,1,1,3,0,1,4,1,4,1.4,+7,
+2022-03-21,202203210DET,DET,Q3,Saddiq Bey,https://www.basketball-reference.com/boxscores/202203210DET.html,7.73,3,5,.600,2,3,0,0,,0,1,1,0,0,0,0,2,8,5.2,+1,.667
+2022-03-21,202203210DET,DET,Q3,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202203210DET.html,9.77,0,2,.000,0,0,2,2,1.000,1,2,3,0,0,0,1,1,2,0.5,0,
+2022-03-21,202203210DET,DET,Q3,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202203210DET.html,9.77,2,3,.667,0,0,1,1,1.000,1,3,4,2,0,0,0,2,5,5.9,0,
+2022-03-21,202203210DET,DET,Q3,Isaiah Livers,https://www.basketball-reference.com/boxscores/202203210DET.html,4.27,0,0,,0,0,0,0,,0,0,0,1,0,0,0,2,0,-0.1,+6,
+2022-03-21,202203210DET,DET,Q3,Saben Lee,https://www.basketball-reference.com/boxscores/202203210DET.html,2.1,1,2,.500,1,2,0,0,,0,0,0,0,0,0,0,0,3,2.0,+8,.500
+2022-03-21,202203210DET,DET,Q3,Luka Garza,https://www.basketball-reference.com/boxscores/202203210DET.html,2.23,0,0,,0,0,3,4,.750,0,0,0,0,1,0,0,1,3,3.2,+7,
+2022-03-21,202203210DET,DET,Q3,Jamorko Pickett,https://www.basketball-reference.com/boxscores/202203210DET.html,2.23,1,1,1.000,1,1,0,0,,0,1,1,0,0,0,0,0,3,3.0,+7,1.000
+2022-03-21,202203210DET,DET,Q4,Killian Hayes,https://www.basketball-reference.com/boxscores/202203210DET.html,11.72,2,2,1.000,0,0,0,1,.000,0,2,2,1,1,1,1,3,4,3.8,+2,
+2022-03-21,202203210DET,DET,Q4,Cade Cunningham,https://www.basketball-reference.com/boxscores/202203210DET.html,6.47,1,2,.500,1,1,0,0,,0,2,2,1,2,0,4,2,3,0.5,-3,1.000
+2022-03-21,202203210DET,DET,Q4,Saddiq Bey,https://www.basketball-reference.com/boxscores/202203210DET.html,5.92,1,3,.333,1,3,2,2,1.000,0,0,0,1,1,0,0,1,5,4.6,-1,.333
+2022-03-21,202203210DET,DET,Q4,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202203210DET.html,3.87,0,0,,0,0,0,0,,0,1,1,1,0,1,1,2,0,-0.1,-3,
+2022-03-21,202203210DET,DET,Q4,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202203210DET.html,2.43,2,2,1.000,0,0,0,0,,1,0,1,0,0,0,0,0,4,4.1,-2,
+2022-03-21,202203210DET,DET,Q4,Isaiah Livers,https://www.basketball-reference.com/boxscores/202203210DET.html,9.83,1,5,.200,1,5,1,2,.500,0,3,3,1,0,0,1,1,4,0.7,+8,.200
+2022-03-21,202203210DET,DET,Q4,Saben Lee,https://www.basketball-reference.com/boxscores/202203210DET.html,5.53,1,1,1.000,0,0,2,2,1.000,1,2,3,0,0,0,0,0,4,5.0,+7,
+2022-03-21,202203210DET,DET,Q4,Luka Garza,https://www.basketball-reference.com/boxscores/202203210DET.html,8.13,1,2,.500,0,0,1,2,.500,1,1,2,0,0,1,0,1,3,2.9,+7,
+2022-03-21,202203210DET,DET,Q4,Jamorko Pickett,https://www.basketball-reference.com/boxscores/202203210DET.html,6.08,0,3,.000,0,2,0,0,,0,0,0,1,0,0,0,1,0,-1.8,+5,.000

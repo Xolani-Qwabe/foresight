@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-12,202001120MEM,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202001120MEM.html,34:39,.638,.604,.375,.250,2.6,15.7,9.1,30.2,0.0,0.0,7.0,32.2,123,118,7.9
+2020-01-12,202001120MEM,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202001120MEM.html,28:48,.538,.500,.714,.143,6.2,15.7,10.9,0.0,3.1,0.0,21.2,12.8,90,111,-5.8
+2020-01-12,202001120MEM,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/202001120MEM.html,27:32,.458,.375,.167,.417,3.2,16.4,9.8,0.0,0.0,0.0,17.4,24.3,80,118,-13.2
+2020-01-12,202001120MEM,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/202001120MEM.html,26:46,.622,.643,.429,.857,6.6,6.8,6.7,18.2,1.7,5.5,17.2,16.9,114,115,2.8
+2020-01-12,202001120MEM,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202001120MEM.html,23:03,.300,.300,.400,.000,7.7,23.6,15.6,25.3,5.8,9.6,44.4,15.2,64,97,0.0
+2020-01-12,202001120MEM,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202001120MEM.html,29:55,.417,.417,.083,.000,8.9,6.1,7.5,29.7,7.5,0.0,14.3,18.2,96,106,2.8
+2020-01-12,202001120MEM,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202001120MEM.html,27:27,.568,.545,.818,.091,0.0,9.9,4.9,12.5,0.0,0.0,8.0,17.7,109,121,-3.3
+2020-01-12,202001120MEM,GSW,Jacob Evans,https://www.basketball-reference.com/boxscores/202001120MEM.html,17:48,.444,.444,.333,.000,5.0,0.0,2.5,30.1,0.0,0.0,18.2,24.1,88,125,-7.3
+2020-01-12,202001120MEM,GSW,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202001120MEM.html,16:58,.085,.000,.000,.400,0.0,16.0,7.9,8.1,0.0,0.0,33.8,20.4,19,118,-24.0
+2020-01-12,202001120MEM,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202001120MEM.html,7:04,,,,,0.0,38.4,19.0,19.4,0.0,10.4,100.0,5.5,45,103,-3.2
+2020-01-12,202001120MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202001120MEM.html,29:35,.427,.375,.167,.167,6.1,15.0,10.6,42.1,1.5,0.0,28.0,22.8,93,101,-5.1
+2020-01-12,202001120MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202001120MEM.html,28:42,.807,.794,.118,.294,28.4,31.0,29.7,7.2,1.6,5.8,13.5,29.2,144,91,14.9
+2020-01-12,202001120MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202001120MEM.html,27:36,.643,.633,.400,.200,6.6,9.7,8.1,11.2,1.6,6.0,5.8,23.7,129,98,6.1
+2020-01-12,202001120MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202001120MEM.html,26:09,.306,.273,.545,.091,0.0,6.8,3.4,0.0,0.0,0.0,0.0,16.5,73,107,-18.1
+2020-01-12,202001120MEM,MEM,Jae Crowder,https://www.basketball-reference.com/boxscores/202001120MEM.html,20:21,.317,.214,.714,.286,4.5,21.8,13.2,5.5,6.6,0.0,20.2,18.3,69,86,-6.3
+2020-01-12,202001120MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202001120MEM.html,19:37,.506,.500,.444,.222,0.0,13.6,6.9,34.7,4.6,8.4,16.8,22.9,103,88,6.2
+2020-01-12,202001120MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202001120MEM.html,18:46,.423,.250,.125,.750,14.5,37.9,26.3,12.8,0.0,4.4,8.6,23.4,108,92,-4.2
+2020-01-12,202001120MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202001120MEM.html,18:25,.799,.750,.167,.333,0.0,4.8,2.4,30.2,9.7,0.0,12.7,16.2,150,85,15.0
+2020-01-12,202001120MEM,MEM,Solomon Hill,https://www.basketball-reference.com/boxscores/202001120MEM.html,17:12,.400,.400,.600,.000,0.0,5.2,2.6,14.2,2.6,0.0,0.0,11.0,106,102,-4.0
+2020-01-12,202001120MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202001120MEM.html,15:44,.935,.900,.600,.400,5.8,16.9,11.4,17.0,0.0,0.0,14.5,16.5,159,104,10.6
+2020-01-12,202001120MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202001120MEM.html,13:25,.250,.250,.500,.000,0.0,6.6,3.3,25.9,13.3,0.0,0.0,11.3,95,76,7.1
+2020-01-12,202001120MEM,MEM,Bruno Caboclo,https://www.basketball-reference.com/boxscores/202001120MEM.html,2:14,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.9,0,110,-25.6
+2020-01-12,202001120MEM,MEM,Marko Gudurić,https://www.basketball-reference.com/boxscores/202001120MEM.html,2:14,,,,,0.0,0.0,0.0,47.8,0.0,0.0,,0.0,224,110,5.7

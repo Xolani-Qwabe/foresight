@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-13,202403130DAL,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202403130DAL.html,35:12,.631,.529,.118,.588,2.8,11.4,6.5,10.5,1.4,0.0,21.9,32.4,106,116,1.8
+2024-03-13,202403130DAL,GSW,Chris Paul,https://www.basketball-reference.com/boxscores/202403130DAL.html,31:10,.375,.375,.333,.000,0.0,17.1,7.3,20.0,0.0,0.0,0.0,16.0,100,118,-5.9
+2024-03-13,202403130DAL,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202403130DAL.html,27:45,.581,.458,.333,.500,3.6,19.2,10.3,6.1,1.8,0.0,12.0,25.0,115,114,2.6
+2024-03-13,202403130DAL,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202403130DAL.html,26:46,.308,.308,.538,.000,3.7,14.9,8.5,0.0,1.9,3.3,13.3,23.3,63,113,-7.7
+2024-03-13,202403130DAL,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202403130DAL.html,25:12,.556,.556,.000,.000,23.8,15.9,20.4,6.9,0.0,3.5,10.0,16.5,123,116,1.2
+2024-03-13,202403130DAL,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202403130DAL.html,27:41,.427,.417,.417,.167,3.6,19.3,10.3,34.6,7.2,0.0,13.4,22.4,98,103,9.9
+2024-03-13,202403130DAL,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202403130DAL.html,19:02,.563,.563,.375,.000,5.3,14.0,9.0,9.4,2.6,4.6,11.1,19.7,110,110,1.8
+2024-03-13,202403130DAL,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202403130DAL.html,17:23,.820,1.000,.000,.500,5.8,7.7,6.6,0.0,0.0,0.0,0.0,5.8,161,120,-4.3
+2024-03-13,202403130DAL,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202403130DAL.html,15:31,.000,.000,.667,.000,19.3,8.6,14.7,16.7,3.2,0.0,0.0,8.0,80,113,-2.9
+2024-03-13,202403130DAL,GSW,Dario Šarić,https://www.basketball-reference.com/boxscores/202403130DAL.html,7:37,.000,.000,.000,.000,0.0,0.0,0.0,17.0,0.0,0.0,50.0,10.9,25,122,-13.3
+2024-03-13,202403130DAL,GSW,Lester Quiñones,https://www.basketball-reference.com/boxscores/202403130DAL.html,3:53,,,,,0.0,0.0,0.0,33.4,0.0,0.0,,0.0,224,121,-1.2
+2024-03-13,202403130DAL,GSW,Jerome Robinson,https://www.basketball-reference.com/boxscores/202403130DAL.html,2:48,.667,.667,.333,.000,0.0,95.2,40.8,0.0,0.0,0.0,0.0,44.6,130,104,13.3
+2024-03-13,202403130DAL,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202403130DAL.html,34:57,.617,.531,.313,.375,0.0,22.9,13.1,41.6,1.4,2.1,5.1,25.4,138,101,10.6
+2024-03-13,202403130DAL,DAL,P.J. Washington,https://www.basketball-reference.com/boxscores/202403130DAL.html,34:00,.500,.500,.545,.000,3.9,17.6,11.8,3.8,2.9,6.6,8.3,15.9,99,97,2.4
+2024-03-13,202403130DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202403130DAL.html,29:35,.488,.417,.333,.444,4.5,6.8,5.8,44.7,0.0,0.0,21.8,42.0,95,112,-3.7
+2024-03-13,202403130DAL,DAL,Daniel Gafford,https://www.basketball-reference.com/boxscores/202403130DAL.html,26:19,1.000,1.000,.000,.000,10.1,15.2,13.0,5.2,3.8,19.9,28.6,12.0,134,88,10.8
+2024-03-13,202403130DAL,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202403130DAL.html,18:46,.717,.750,.250,.500,14.2,5.3,9.1,0.0,0.0,0.0,29.1,16.5,103,113,-4.8
+2024-03-13,202403130DAL,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202403130DAL.html,24:57,.846,.875,.250,.750,0.0,8.0,4.6,30.2,2.0,0.0,15.8,11.4,155,107,7.8
+2024-03-13,202403130DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202403130DAL.html,23:33,.917,.917,.333,.000,11.3,12.7,12.1,0.0,0.0,0.0,14.3,13.4,148,109,0.3
+2024-03-13,202403130DAL,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202403130DAL.html,19:42,.750,.750,.000,.000,6.8,35.5,23.2,0.0,0.0,7.6,11.1,20.6,125,95,6.2
+2024-03-13,202403130DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202403130DAL.html,14:20,.357,.357,.714,.000,0.0,0.0,0.0,18.0,0.0,0.0,12.5,25.2,77,115,-10.3
+2024-03-13,202403130DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202403130DAL.html,7:54,.000,.000,.000,.000,0.0,0.0,0.0,13.8,0.0,0.0,0.0,5.7,58,115,-13.4
+2024-03-13,202403130DAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202403130DAL.html,1:59,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.5,0,115,-51.1
+2024-03-13,202403130DAL,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202403130DAL.html,1:59,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,115,-6.4
+2024-03-13,202403130DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202403130DAL.html,1:59,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,115,-7.3

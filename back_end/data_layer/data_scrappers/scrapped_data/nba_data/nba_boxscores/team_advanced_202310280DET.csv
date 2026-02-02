@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-10-28,202310280DET,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202310280DET.html,37:26,.698,.682,.394,.242,5.0,11.0,7.5,0.0,1.4,0.0,9.9,48.1,126,133,14.8
+2023-10-28,202310280DET,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202310280DET.html,32:21,.524,.500,.182,.091,0.0,17.0,6.9,4.7,0.0,0.0,8.0,17.1,104,134,-10.1
+2023-10-28,202310280DET,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202310280DET.html,31:49,.622,.538,.077,.538,3.0,4.3,3.5,21.2,1.6,5.2,5.9,23.9,133,132,5.1
+2023-10-28,202310280DET,CHI,Coby White,https://www.basketball-reference.com/boxscores/202310280DET.html,27:55,.000,.000,.500,.000,0.0,9.8,4.0,4.4,0.0,0.0,20.0,8.0,13,136,-19.8
+2023-10-28,202310280DET,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202310280DET.html,21:19,.000,.000,.333,.000,4.4,12.9,7.9,5.8,2.5,0.0,25.0,8.3,31,129,-15.6
+2023-10-28,202310280DET,CHI,Torrey Craig,https://www.basketball-reference.com/boxscores/202310280DET.html,22:52,.286,.286,.286,.000,4.1,12.0,7.3,0.0,0.0,3.6,0.0,13.6,72,134,-14.6
+2023-10-28,202310280DET,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202310280DET.html,20:34,.500,.500,.000,.000,9.2,20.0,13.6,25.5,10.2,4.0,0.0,4.3,165,107,11.2
+2023-10-28,202310280DET,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202310280DET.html,14:59,.357,.357,.286,.000,12.6,9.2,11.2,29.5,0.0,0.0,0.0,20.8,109,137,-2.3
+2023-10-28,202310280DET,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202310280DET.html,14:28,.167,.167,.000,.000,19.5,19.0,19.3,18.6,10.9,5.7,0.0,18.4,82,106,2.8
+2023-10-28,202310280DET,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202310280DET.html,12:44,.250,.250,.667,.000,7.4,0.0,4.4,0.0,0.0,0.0,0.0,20.9,68,140,-16.0
+2023-10-28,202310280DET,CHI,Julian Phillips,https://www.basketball-reference.com/boxscores/202310280DET.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,140,-10.8
+2023-10-28,202310280DET,CHI,Terry Taylor,https://www.basketball-reference.com/boxscores/202310280DET.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,140,-11.1
+2023-10-28,202310280DET,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202310280DET.html,1:11,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.5,300,140,87.4
+2023-10-28,202310280DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202310280DET.html,39:37,.566,.500,.211,.368,0.0,9.5,5.6,35.5,0.0,0.0,21.4,31.0,114,117,-4.8
+2023-10-28,202310280DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202310280DET.html,33:46,.457,.429,.214,.214,8.1,19.5,14.9,0.0,0.0,0.0,11.5,22.4,98,112,-12.9
+2023-10-28,202310280DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202310280DET.html,33:13,.871,.818,.000,.455,24.8,25.5,25.2,22.6,1.6,4.4,7.0,18.7,181,103,17.7
+2023-10-28,202310280DET,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202310280DET.html,31:15,.514,.429,.286,.571,13.2,27.1,21.4,19.0,1.7,2.4,18.6,15.1,123,104,2.4
+2023-10-28,202310280DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202310280DET.html,22:40,.600,.600,.600,.000,6.1,0.0,2.5,20.8,2.3,0.0,16.7,11.6,139,115,1.2
+2023-10-28,202310280DET,DET,Alec Burks,https://www.basketball-reference.com/boxscores/202310280DET.html,25:33,.723,.750,.833,.083,0.0,7.4,4.4,0.0,0.0,2.9,0.0,21.3,155,115,7.9
+2023-10-28,202310280DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202310280DET.html,21:58,.583,.583,.333,.000,0.0,0.0,0.0,17.1,2.4,0.0,25.0,15.9,107,115,-2.3
+2023-10-28,202310280DET,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202310280DET.html,14:47,.688,.688,.125,.000,18.6,25.5,22.7,0.0,0.0,0.0,0.0,23.7,153,110,3.4
+2023-10-28,202310280DET,DET,Joe Harris,https://www.basketball-reference.com/boxscores/202310280DET.html,10:31,.750,.750,1.000,.000,0.0,8.9,5.3,11.3,0.0,0.0,33.3,12.5,108,117,-1.5
+2023-10-28,202310280DET,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202310280DET.html,5:58,.500,.500,.500,.000,23.0,31.5,28.1,21.8,0.0,0.0,0.0,14.7,150,108,3.3
+2023-10-28,202310280DET,DET,Stanley Umude,https://www.basketball-reference.com/boxscores/202310280DET.html,0:42,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-7.3

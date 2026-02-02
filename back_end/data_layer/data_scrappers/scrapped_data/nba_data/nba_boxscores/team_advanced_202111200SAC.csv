@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-20,202111200SAC,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202111200SAC.html,31:59,.579,.568,.318,.045,0.0,16.3,8.6,25.4,1.6,0.0,11.8,34.9,119,109,2.2
+2021-11-20,202111200SAC,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202111200SAC.html,30:56,.556,.556,.556,.000,0.0,13.5,7.1,3.9,1.6,0.0,10.0,14.2,113,110,-1.2
+2021-11-20,202111200SAC,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202111200SAC.html,30:18,.717,.667,.083,.500,27.0,24.1,25.5,4.8,1.7,2.6,12.0,24.1,147,105,6.1
+2021-11-20,202111200SAC,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202111200SAC.html,29:10,.455,.444,.667,.222,12.0,7.2,9.5,16.0,0.0,0.0,9.2,16.4,123,115,-1.0
+2021-11-20,202111200SAC,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202111200SAC.html,26:23,.850,.850,.400,.000,0.0,4.0,2.1,10.9,0.0,0.0,16.7,19.9,143,116,4.3
+2021-11-20,202111200SAC,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202111200SAC.html,23:46,.542,.500,.538,.308,9.9,8.8,9.3,16.9,0.0,0.0,6.3,29.1,129,114,1.3
+2021-11-20,202111200SAC,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202111200SAC.html,23:29,.750,.750,1.000,.000,0.0,4.4,2.3,15.4,4.3,0.0,0.0,11.2,177,106,10.9
+2021-11-20,202111200SAC,UTA,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202111200SAC.html,17:42,.740,.600,.000,.800,13.2,47.2,31.2,0.0,0.0,4.5,0.0,16.7,172,102,5.5
+2021-11-20,202111200SAC,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202111200SAC.html,17:04,.375,.375,.750,.000,0.0,36.7,19.4,6.5,0.0,0.0,20.0,12.8,79,109,-5.3
+2021-11-20,202111200SAC,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202111200SAC.html,5:41,1.000,1.000,.000,.000,0.0,18.4,9.7,0.0,0.0,0.0,0.0,7.7,200,113,2.3
+2021-11-20,202111200SAC,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202111200SAC.html,1:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-4.1
+2021-11-20,202111200SAC,UTA,Eric Paschall,https://www.basketball-reference.com/boxscores/202111200SAC.html,1:46,,,,,0.0,59.1,31.2,0.0,0.0,0.0,,0.0,0,104,-1.0
+2021-11-20,202111200SAC,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202111200SAC.html,37:00,.612,.615,.385,.154,2.8,3.2,3.0,8.1,5.4,0.0,12.6,19.0,110,126,0.0
+2021-11-20,202111200SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202111200SAC.html,35:25,.575,.577,.231,.462,2.9,23.1,12.5,21.5,1.4,2.6,11.3,22.1,113,127,2.8
+2021-11-20,202111200SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202111200SAC.html,32:53,.355,.324,.176,.176,0.0,3.6,1.7,13.0,0.0,2.8,5.2,26.1,77,137,-10.5
+2021-11-20,202111200SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202111200SAC.html,31:08,.902,.900,.000,.500,13.4,11.3,12.4,0.0,0.0,3.0,0.0,17.4,186,134,5.8
+2021-11-20,202111200SAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202111200SAC.html,22:35,.350,.350,.500,.000,0.0,15.6,7.3,12.3,2.2,4.1,0.0,19.6,81,127,-5.9
+2021-11-20,202111200SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202111200SAC.html,30:15,.595,.577,.615,.077,0.0,11.6,5.5,15.1,0.0,0.0,13.0,22.6,107,136,-2.0
+2021-11-20,202111200SAC,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202111200SAC.html,19:03,.266,.000,1.000,2.000,0.0,12.3,5.8,12.3,5.3,0.0,0.0,4.4,98,123,-0.6
+2021-11-20,202111200SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202111200SAC.html,16:04,.338,.313,.500,.250,6.5,7.3,6.9,17.1,0.0,0.0,10.1,27.3,78,138,-11.4
+2021-11-20,202111200SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202111200SAC.html,12:04,.417,.417,.333,.000,8.6,58.2,32.0,12.0,0.0,7.6,0.0,22.1,100,115,2.8
+2021-11-20,202111200SAC,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202111200SAC.html,1:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,140,-12.0
+2021-11-20,202111200SAC,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202111200SAC.html,1:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,140,-10.0

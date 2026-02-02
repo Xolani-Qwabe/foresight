@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-22,201911220DEN,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/201911220DEN.html,36:16,.594,.533,.467,.533,3.2,25.9,15.0,21.1,1.4,0.0,5.1,25.3,118,100,7.3
+2019-11-22,201911220DEN,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/201911220DEN.html,32:22,.588,.500,.182,.364,3.5,16.1,10.1,17.4,3.1,0.0,23.9,24.3,94,99,-0.5
+2019-11-22,201911220DEN,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/201911220DEN.html,32:10,.440,.375,.313,.313,0.0,6.5,3.4,18.6,0.0,2.5,0.0,26.6,94,107,-1.2
+2019-11-22,201911220DEN,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/201911220DEN.html,17:53,.509,.500,.000,.333,0.0,17.5,9.2,0.0,2.8,8.9,12.7,20.7,83,93,-1.1
+2019-11-22,201911220DEN,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/201911220DEN.html,12:02,.000,.000,.333,.000,0.0,8.7,4.5,36.3,8.3,0.0,0.0,11.7,45,90,1.0
+2019-11-22,201911220DEN,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/201911220DEN.html,26:53,.717,.625,.250,.500,0.0,7.8,4.1,29.7,0.0,0.0,9.3,18.8,137,108,1.5
+2019-11-22,201911220DEN,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/201911220DEN.html,20:33,.200,.200,.600,.000,0.0,20.3,10.6,0.0,2.4,0.0,16.7,13.7,33,100,-10.5
+2019-11-22,201911220DEN,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/201911220DEN.html,16:54,.000,.000,.500,.000,0.0,6.2,3.2,8.6,2.9,0.0,20.0,13.9,11,103,-13.2
+2019-11-22,201911220DEN,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/201911220DEN.html,15:02,1.000,1.000,.000,.000,7.6,20.8,14.5,0.0,3.3,10.6,33.3,9.4,124,90,1.7
+2019-11-22,201911220DEN,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/201911220DEN.html,13:56,.400,.400,.000,.000,16.4,22.5,19.6,26.4,3.6,5.7,0.0,16.9,108,92,8.3
+2019-11-22,201911220DEN,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/201911220DEN.html,9:20,1.250,1.250,.500,.000,0.0,11.2,5.8,22.6,10.7,0.0,33.3,15.1,138,85,20.5
+2019-11-22,201911220DEN,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/201911220DEN.html,6:39,.375,.375,1.000,.000,0.0,15.7,8.2,0.0,0.0,0.0,0.0,28.3,71,106,-6.4
+2019-11-22,201911220DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/201911220DEN.html,38:06,.583,.556,.333,.111,2.7,15.0,8.6,22.8,2.6,0.0,13.7,24.9,109,96,6.4
+2019-11-22,201911220DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/201911220DEN.html,35:30,.480,.412,.235,.235,8.8,41.9,24.6,45.8,4.2,2.5,13.8,26.6,108,86,14.2
+2019-11-22,201911220DEN,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/201911220DEN.html,33:59,.461,.375,.250,.500,0.0,13.5,6.4,4.1,1.5,0.0,9.3,13.7,92,98,-4.0
+2019-11-22,201911220DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/201911220DEN.html,33:47,.625,.625,.583,.000,0.0,3.4,1.6,23.3,0.0,0.0,14.3,18.0,114,103,2.8
+2019-11-22,201911220DEN,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/201911220DEN.html,31:36,.612,.591,.091,.091,13.2,21.7,17.3,10.2,0.0,5.6,20.8,19.8,107,95,4.2
+2019-11-22,201911220DEN,DEN,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/201911220DEN.html,18:10,.333,.333,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,9.5,50,104,-11.8
+2019-11-22,201911220DEN,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/201911220DEN.html,16:29,.313,.313,.500,.000,6.3,20.8,13.2,0.0,0.0,0.0,0.0,21.0,74,101,-6.9
+2019-11-22,201911220DEN,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/201911220DEN.html,12:25,.521,.500,.000,1.000,8.4,9.2,8.8,11.0,0.0,7.2,41.0,17.0,75,96,-4.0
+2019-11-22,201911220DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/201911220DEN.html,10:04,.400,.400,.400,.000,10.4,45.4,27.1,0.0,0.0,8.8,16.7,25.8,74,88,-8.9
+2019-11-22,201911220DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/201911220DEN.html,9:54,.500,.500,.250,.000,0.0,0.0,0.0,0.0,5.0,0.0,20.0,21.9,75,93,-4.3

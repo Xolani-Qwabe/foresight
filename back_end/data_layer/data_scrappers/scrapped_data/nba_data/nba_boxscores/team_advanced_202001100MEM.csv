@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-10,202001100MEM,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202001100MEM.html,37:47,.745,.639,.056,.778,5.9,20.7,13.3,40.8,1.3,0.0,4.0,29.6,158,131,10.6
+2020-01-10,202001100MEM,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202001100MEM.html,34:26,.815,.792,.750,.167,3.2,25.9,14.6,13.0,0.0,2.2,18.9,20.5,126,131,2.9
+2020-01-10,202001100MEM,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202001100MEM.html,28:39,.763,.750,.667,.333,0.0,7.8,3.9,0.0,0.0,0.0,12.7,24.4,117,137,-2.0
+2020-01-10,202001100MEM,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202001100MEM.html,24:09,.500,.500,.167,.000,4.6,9.2,6.9,27.6,0.0,3.2,25.0,14.7,105,134,-5.2
+2020-01-10,202001100MEM,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202001100MEM.html,15:58,.200,.200,.600,.000,0.0,21.0,10.5,15.4,0.0,0.0,0.0,13.9,64,134,-12.9
+2020-01-10,202001100MEM,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202001100MEM.html,25:44,.542,.542,.583,.000,4.3,17.4,10.8,11.4,0.0,3.0,0.0,20.7,112,132,-1.4
+2020-01-10,202001100MEM,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202001100MEM.html,23:03,.667,.667,.667,.000,0.0,4.8,2.4,11.6,2.1,0.0,0.0,11.6,133,133,-1.5
+2020-01-10,202001100MEM,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202001100MEM.html,19:36,.250,.250,.667,.000,0.0,5.7,2.8,24.8,0.0,0.0,14.3,15.9,73,137,-13.4
+2020-01-10,202001100MEM,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202001100MEM.html,14:45,.300,.300,.400,.000,0.0,15.1,7.6,0.0,3.2,0.0,16.7,18.1,48,128,-13.2
+2020-01-10,202001100MEM,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202001100MEM.html,11:48,.676,.750,.000,.250,0.0,18.9,9.5,27.3,0.0,19.7,18.4,20.5,113,119,7.3
+2020-01-10,202001100MEM,SAS,Marco Belinelli,https://www.basketball-reference.com/boxscores/202001100MEM.html,2:19,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.2,0,139,-28.8
+2020-01-10,202001100MEM,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202001100MEM.html,1:46,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.1,250,139,14.6
+2020-01-10,202001100MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202001100MEM.html,33:35,.550,.550,.100,.000,6.6,16.6,11.6,55.2,2.8,0.0,9.1,27.3,130,117,6.2
+2020-01-10,202001100MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202001100MEM.html,30:34,.527,.525,.600,.100,7.3,7.3,7.3,23.9,1.5,6.7,0.0,28.5,124,116,5.7
+2020-01-10,202001100MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202001100MEM.html,30:13,.770,.682,.273,.545,7.4,25.9,16.6,11.7,0.0,3.4,6.8,20.2,156,120,4.0
+2020-01-10,202001100MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202001100MEM.html,24:32,.940,.955,.636,.364,9.1,4.6,6.8,0.0,0.0,0.0,7.3,23.4,161,125,7.2
+2020-01-10,202001100MEM,MEM,Jae Crowder,https://www.basketball-reference.com/boxscores/202001100MEM.html,22:55,.500,.500,.600,.000,0.0,24.4,12.2,4.4,0.0,0.0,16.7,10.9,88,123,-9.5
+2020-01-10,202001100MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202001100MEM.html,23:15,.740,.600,.000,.800,9.6,33.6,21.6,18.0,2.0,8.8,0.0,12.1,178,110,10.5
+2020-01-10,202001100MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202001100MEM.html,19:39,.250,.250,.750,.000,5.7,11.4,8.5,0.0,2.4,0.0,20.0,10.6,58,119,-12.6
+2020-01-10,202001100MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202001100MEM.html,17:26,.591,.591,.182,.000,0.0,25.6,12.8,46.6,0.0,5.9,8.3,28.7,126,118,5.6
+2020-01-10,202001100MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202001100MEM.html,14:25,.300,.300,.400,.000,0.0,7.7,3.9,27.4,0.0,0.0,0.0,14.5,105,125,-8.6
+2020-01-10,202001100MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202001100MEM.html,11:54,.875,.875,.500,.000,0.0,9.4,4.7,0.0,0.0,0.0,0.0,14.0,161,125,1.8
+2020-01-10,202001100MEM,MEM,Solomon Hill,https://www.basketball-reference.com/boxscores/202001100MEM.html,11:32,.625,.625,.500,.000,0.0,29.0,14.5,9.5,0.0,0.0,20.0,18.1,100,122,-9.2

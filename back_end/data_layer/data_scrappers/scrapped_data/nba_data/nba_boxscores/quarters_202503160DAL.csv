@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-03-16,202503160DAL,PHI,Q1,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.28,3,4,.750,1,2,.500,0,0,0,1,1,1,0,0,1,1,7,5.0,+3,
+2025-03-16,202503160DAL,PHI,Q1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503160DAL.html,9.4,2,5,.400,1,2,.500,2,2,0,1,1,0,1,0,0,0,7,5.6,+4,1.000
+2025-03-16,202503160DAL,PHI,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.52,0,1,.000,0,0,,0,0,0,0,0,3,0,0,0,1,0,1.0,-1,
+2025-03-16,202503160DAL,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.25,1,1,1.000,0,0,,0,0,0,3,3,0,0,1,0,0,2,3.3,-1,
+2025-03-16,202503160DAL,PHI,Q1,Justin Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.25,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,1,2,0.9,-1,
+2025-03-16,202503160DAL,PHI,Q1,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.63,2,3,.667,1,2,.500,0,0,1,0,1,0,1,0,0,0,5,5.4,+4,
+2025-03-16,202503160DAL,PHI,Q1,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.75,3,5,.600,3,5,.600,0,0,0,0,0,0,0,0,0,0,9,6.7,+5,
+2025-03-16,202503160DAL,PHI,Q1,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.48,1,3,.333,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.0,+5,
+2025-03-16,202503160DAL,PHI,Q1,Alex Reese,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.72,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2025-03-16,202503160DAL,PHI,Q1,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.72,1,1,1.000,0,0,,0,0,1,2,3,0,0,0,0,0,2,3.0,+1,
+2025-03-16,202503160DAL,PHI,Q2,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.4,2,4,.500,1,2,.500,0,0,0,0,0,4,1,0,2,2,5,4.0,+4,
+2025-03-16,202503160DAL,PHI,Q2,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.38,0,0,,0,0,,0,0,0,2,2,0,0,0,1,0,0,-0.4,+1,
+2025-03-16,202503160DAL,PHI,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.4,1,1,1.000,0,0,,2,2,0,1,1,1,0,0,0,1,4,4.3,+4,1.000
+2025-03-16,202503160DAL,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.75,0,3,.000,0,2,.000,2,2,0,2,2,0,0,0,1,0,2,-0.5,-10,1.000
+2025-03-16,202503160DAL,PHI,Q2,Justin Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.97,1,3,.333,0,2,.000,0,0,0,1,1,0,1,0,0,1,2,1.2,-8,
+2025-03-16,202503160DAL,PHI,Q2,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503160DAL.html,7.83,1,2,.500,0,0,,0,0,0,1,1,1,1,0,2,1,2,0.6,-7,
+2025-03-16,202503160DAL,PHI,Q2,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.03,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,2.3,0,
+2025-03-16,202503160DAL,PHI,Q2,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.6,1,1,1.000,0,0,,2,3,0,0,0,0,0,0,1,1,4,1.9,-12,.667
+2025-03-16,202503160DAL,PHI,Q2,Alex Reese,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.03,2,2,1.000,2,2,1.000,0,0,0,1,1,1,1,0,0,1,6,7.0,0,
+2025-03-16,202503160DAL,PHI,Q2,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.6,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-12,
+2025-03-16,202503160DAL,PHI,Q3,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503160DAL.html,10.5,4,7,.571,0,1,.000,3,6,0,1,1,1,1,0,0,0,11,8.5,+14,.500
+2025-03-16,202503160DAL,PHI,Q3,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.08,3,5,.600,1,1,1.000,0,0,1,1,2,1,1,0,1,4,7,4.8,+10,
+2025-03-16,202503160DAL,PHI,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.08,1,4,.250,0,2,.000,0,0,0,0,0,3,1,0,0,0,2,2.7,+10,
+2025-03-16,202503160DAL,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503160DAL.html,7.3,2,2,1.000,0,0,,0,0,1,3,4,0,0,0,0,0,4,5.0,+9,
+2025-03-16,202503160DAL,PHI,Q3,Justin Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,7.3,2,2,1.000,0,0,,0,0,0,0,0,0,1,1,1,1,4,3.7,+9,
+2025-03-16,202503160DAL,PHI,Q3,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503160DAL.html,4.55,1,2,.500,0,1,.000,0,0,1,0,1,0,0,0,0,0,2,1.7,+7,
+2025-03-16,202503160DAL,PHI,Q3,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503160DAL.html,4.7,0,1,.000,0,1,.000,0,0,0,1,1,0,0,1,0,0,0,0.3,+7,
+2025-03-16,202503160DAL,PHI,Q3,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.92,2,3,.667,0,0,,0,0,1,1,2,0,0,0,0,0,4,3.7,+6,
+2025-03-16,202503160DAL,PHI,Q3,Alex Reese,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.92,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+6,
+2025-03-16,202503160DAL,PHI,Q3,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503160DAL.html,1.65,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+2,
+2025-03-16,202503160DAL,PHI,Q4,Quentin Grimes,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.03,1,4,.250,0,2,.000,3,3,0,0,0,0,0,0,0,1,5,2.2,-7,1.000
+2025-03-16,202503160DAL,PHI,Q4,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.25,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-5,
+2025-03-16,202503160DAL,PHI,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.03,0,1,.000,0,0,,2,2,0,0,0,0,0,0,0,0,2,1.3,-7,1.000
+2025-03-16,202503160DAL,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.25,1,2,.500,1,1,1.000,2,2,0,1,1,0,1,0,1,1,5,3.9,-5,1.000
+2025-03-16,202503160DAL,PHI,Q4,Justin Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,2.8,1,3,.333,0,1,.000,0,0,2,0,2,0,0,0,0,0,2,1.7,-3,
+2025-03-16,202503160DAL,PHI,Q4,Oshae Brissett,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.97,2,2,1.000,0,0,,0,0,1,1,2,0,0,0,0,0,4,4.4,0,
+2025-03-16,202503160DAL,PHI,Q4,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.98,2,3,.667,1,2,.500,2,2,0,0,0,1,0,0,0,1,7,6.0,-6,1.000
+2025-03-16,202503160DAL,PHI,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.97,2,5,.400,0,0,,0,0,0,1,1,2,1,0,0,0,4,4.0,0,
+2025-03-16,202503160DAL,PHI,Q4,Alex Reese,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.75,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,
+2025-03-16,202503160DAL,PHI,Q4,Chuma Okeke,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.97,1,1,1.000,1,1,1.000,0,0,0,0,0,1,1,0,0,1,3,4.0,0,
+2025-03-16,202503160DAL,DAL,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.97,2,6,.333,1,4,.250,0,0,1,1,2,1,0,0,0,0,5,3.3,0,
+2025-03-16,202503160DAL,DAL,Q1,Klay Thompson,https://www.basketball-reference.com/boxscores/202503160DAL.html,9.12,3,5,.600,0,1,.000,0,0,0,1,1,0,0,0,1,1,6,2.6,+1,
+2025-03-16,202503160DAL,DAL,Q1,Brandon Williams,https://www.basketball-reference.com/boxscores/202503160DAL.html,9.4,1,3,.333,0,1,.000,1,1,0,0,0,1,0,0,0,0,3,2.0,-4,1.000
+2025-03-16,202503160DAL,DAL,Q1,P.J. Washington,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.28,5,6,.833,0,1,.000,4,4,0,3,3,0,1,0,0,0,14,13.7,-3,1.000
+2025-03-16,202503160DAL,DAL,Q1,Kessler Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.25,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+1,
+2025-03-16,202503160DAL,DAL,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.75,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,-5,
+2025-03-16,202503160DAL,DAL,Q1,Max Christie,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.48,1,1,1.000,0,0,,0,0,0,2,2,2,0,0,1,0,2,2.7,-5,
+2025-03-16,202503160DAL,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.75,1,1,1.000,0,0,,0,0,0,1,1,2,0,0,0,1,2,3.0,-5,
+2025-03-16,202503160DAL,DAL,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.9,3,4,.750,0,0,,2,4,0,2,2,2,0,0,1,0,8,6.6,+9,.500
+2025-03-16,202503160DAL,DAL,Q2,Klay Thompson,https://www.basketball-reference.com/boxscores/202503160DAL.html,7.05,1,3,.333,0,1,.000,0,0,0,0,0,0,1,0,0,0,2,1.3,-4,
+2025-03-16,202503160DAL,DAL,Q2,Brandon Williams,https://www.basketball-reference.com/boxscores/202503160DAL.html,7.4,2,3,.667,0,1,.000,4,4,0,0,0,0,1,0,1,2,8,5.9,+11,1.000
+2025-03-16,202503160DAL,DAL,Q2,P.J. Washington,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.02,3,4,.750,0,0,,0,1,1,1,2,1,0,0,2,0,6,3.7,-3,.000
+2025-03-16,202503160DAL,DAL,Q2,Kessler Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,9.18,0,1,.000,0,1,.000,0,0,0,5,5,0,0,0,0,2,0,0.0,+7,
+2025-03-16,202503160DAL,DAL,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202503160DAL.html,9.55,2,4,.500,0,2,.000,2,2,0,1,1,2,0,0,0,1,6,5.3,+9,1.000
+2025-03-16,202503160DAL,DAL,Q2,Max Christie,https://www.basketball-reference.com/boxscores/202503160DAL.html,9.8,2,2,1.000,2,2,1.000,0,2,0,3,3,0,0,0,0,0,6,5.5,+12,.000
+2025-03-16,202503160DAL,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.1,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-1,
+2025-03-16,202503160DAL,DAL,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202503160DAL.html,9.2,0,5,.000,0,2,.000,2,2,0,1,1,2,1,0,0,2,2,0.4,-8,1.000
+2025-03-16,202503160DAL,DAL,Q3,Klay Thompson,https://www.basketball-reference.com/boxscores/202503160DAL.html,6.73,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,-10,
+2025-03-16,202503160DAL,DAL,Q3,Brandon Williams,https://www.basketball-reference.com/boxscores/202503160DAL.html,11.35,0,2,.000,0,1,.000,0,0,0,0,0,0,0,1,2,0,0,-2.7,-14,
+2025-03-16,202503160DAL,DAL,Q3,P.J. Washington,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.35,1,2,.500,0,1,.000,3,4,1,4,5,0,0,0,2,1,5,3.1,-12,.750
+2025-03-16,202503160DAL,DAL,Q3,Kessler Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,7.27,0,0,,0,0,,0,0,0,0,0,1,0,0,0,2,0,-0.1,-8,
+2025-03-16,202503160DAL,DAL,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.07,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-14,
+2025-03-16,202503160DAL,DAL,Q3,Max Christie,https://www.basketball-reference.com/boxscores/202503160DAL.html,5.95,2,3,.667,2,3,.667,2,2,0,2,2,0,0,0,2,1,8,4.9,-8,1.000
+2025-03-16,202503160DAL,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.08,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-6,
+2025-03-16,202503160DAL,DAL,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.82,3,5,.600,0,1,.000,0,0,3,0,3,1,0,0,0,1,6,6.1,+2,
+2025-03-16,202503160DAL,DAL,Q4,Klay Thompson,https://www.basketball-reference.com/boxscores/202503160DAL.html,12.0,4,5,.800,2,3,.667,0,0,0,2,2,2,0,0,1,0,10,9.1,+7,
+2025-03-16,202503160DAL,DAL,Q4,Brandon Williams,https://www.basketball-reference.com/boxscores/202503160DAL.html,3.98,0,0,,0,0,,0,0,2,0,2,1,0,0,0,0,0,2.1,+8,
+2025-03-16,202503160DAL,DAL,Q4,P.J. Washington,https://www.basketball-reference.com/boxscores/202503160DAL.html,10.32,2,5,.400,0,1,.000,0,0,1,1,2,1,0,0,0,0,4,3.0,+14,
+2025-03-16,202503160DAL,DAL,Q4,Kessler Edwards,https://www.basketball-reference.com/boxscores/202503160DAL.html,4.87,2,2,1.000,1,1,1.000,0,0,0,1,1,0,0,1,1,0,5,4.4,-2,
+2025-03-16,202503160DAL,DAL,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202503160DAL.html,11.2,4,8,.500,1,2,.500,3,4,1,2,3,3,0,0,1,1,12,9.6,+4,.750
+2025-03-16,202503160DAL,DAL,Q4,Max Christie,https://www.basketball-reference.com/boxscores/202503160DAL.html,8.82,1,2,.500,0,1,.000,0,0,0,1,1,1,0,1,0,3,2,1.5,+2,

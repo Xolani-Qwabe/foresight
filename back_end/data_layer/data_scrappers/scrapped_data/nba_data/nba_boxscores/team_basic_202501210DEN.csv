@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-01-21,202501210DEN,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501210DEN.html,33.9,11,21,.524,3,10,.300,3,3,1.000,0,2,2,10,2,0,2,1,28,24.9,-24
+2025-01-21,202501210DEN,PHI,Paul George,https://www.basketball-reference.com/boxscores/202501210DEN.html,28.27,5,11,.455,1,3,.333,0,0,,1,4,5,9,1,1,3,1,11,11.8,-15
+2025-01-21,202501210DEN,PHI,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202501210DEN.html,27.0,4,9,.444,0,2,.000,0,0,,0,3,3,2,2,1,1,4,8,5.7,-20
+2025-01-21,202501210DEN,PHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202501210DEN.html,20.48,4,7,.571,0,0,,0,0,,0,5,5,2,0,0,1,2,8,5.8,-16
+2025-01-21,202501210DEN,PHI,Eric Gordon,https://www.basketball-reference.com/boxscores/202501210DEN.html,19.13,3,4,.750,3,4,.750,0,0,,0,0,0,3,0,0,1,0,9,8.5,-12
+2025-01-21,202501210DEN,PHI,Justin Edwards,https://www.basketball-reference.com/boxscores/202501210DEN.html,27.93,4,10,.400,3,7,.429,0,0,,2,1,3,1,1,0,2,2,11,6.2,-18
+2025-01-21,202501210DEN,PHI,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202501210DEN.html,24.15,8,13,.615,4,5,.800,2,3,.667,2,1,3,3,0,0,0,3,22,18.3,-5
+2025-01-21,202501210DEN,PHI,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501210DEN.html,17.93,2,11,.182,1,6,.167,0,0,,0,0,0,3,0,0,0,1,5,-0.2,-17
+2025-01-21,202501210DEN,PHI,Adem Bona,https://www.basketball-reference.com/boxscores/202501210DEN.html,16.32,1,3,.333,0,0,,1,2,.500,2,1,3,1,1,2,0,3,3,4.5,-18
+2025-01-21,202501210DEN,PHI,Reggie Jackson,https://www.basketball-reference.com/boxscores/202501210DEN.html,10.42,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.2,-9
+2025-01-21,202501210DEN,PHI,Pete Nance,https://www.basketball-reference.com/boxscores/202501210DEN.html,8.15,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-0.4,-13
+2025-01-21,202501210DEN,PHI,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501210DEN.html,6.32,1,4,.250,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,-0.4,-8
+2025-01-21,202501210DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202501210DEN.html,32.67,2,7,.286,0,3,.000,5,5,1.000,1,5,6,7,0,0,3,1,9,8.6,+18
+2025-01-21,202501210DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202501210DEN.html,30.35,10,15,.667,2,3,.667,5,5,1.000,5,8,13,10,4,1,2,1,27,35.7,+21
+2025-01-21,202501210DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202501210DEN.html,25.12,8,11,.727,0,0,,4,5,.800,2,0,2,2,1,0,0,0,20,18.9,+20
+2025-01-21,202501210DEN,DEN,Russell Westbrook,https://www.basketball-reference.com/boxscores/202501210DEN.html,25.02,4,5,.800,1,2,.500,2,2,1.000,0,7,7,9,1,0,5,0,11,13.5,+20
+2025-01-21,202501210DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202501210DEN.html,24.55,8,13,.615,3,6,.500,0,0,,3,3,6,1,0,0,0,0,19,16.8,+19
+2025-01-21,202501210DEN,DEN,Julian Strawther,https://www.basketball-reference.com/boxscores/202501210DEN.html,26.23,8,14,.571,5,9,.556,2,2,1.000,0,2,2,2,0,0,0,2,23,17.6,+21
+2025-01-21,202501210DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202501210DEN.html,22.33,6,7,.857,3,3,1.000,4,4,1.000,0,0,0,3,0,0,1,1,19,17.2,+10
+2025-01-21,202501210DEN,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202501210DEN.html,18.3,1,4,.250,1,2,.500,0,0,,0,1,1,1,1,1,0,1,3,2.9,+9
+2025-01-21,202501210DEN,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202501210DEN.html,13.48,1,1,1.000,0,0,,2,2,1.000,1,5,6,1,0,1,1,3,4,5.1,+7
+2025-01-21,202501210DEN,DEN,Hunter Tyson,https://www.basketball-reference.com/boxscores/202501210DEN.html,6.32,1,4,.250,1,3,.333,0,0,,0,2,2,1,0,0,0,0,3,1.9,+8
+2025-01-21,202501210DEN,DEN,Jalen Pickett,https://www.basketball-reference.com/boxscores/202501210DEN.html,6.32,1,2,.500,0,0,,0,0,,1,0,1,1,0,0,1,0,2,1.4,+8
+2025-01-21,202501210DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202501210DEN.html,5.15,0,0,,0,0,,0,0,,0,2,2,0,0,1,0,0,0,1.3,+7
+2025-01-21,202501210DEN,DEN,PJ Hall,https://www.basketball-reference.com/boxscores/202501210DEN.html,4.17,2,2,1.000,0,0,,0,0,,1,2,3,1,0,0,0,1,4,5.0,+7

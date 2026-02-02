@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-10,202211100ATL,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202211100ATL.html,33:32,.378,.333,.267,.133,0.0,6.1,2.9,17.3,7.0,0.0,5.9,21.3,81,94,2.1
+2022-11-10,202211100ATL,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202211100ATL.html,33:16,.400,.353,.353,.235,2.8,9.2,5.8,29.1,0.0,0.0,5.1,25.2,90,108,-2.7
+2022-11-10,202211100ATL,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202211100ATL.html,31:45,.580,.500,.167,.556,0.0,41.8,19.9,16.4,0.0,2.4,26.3,40.6,86,98,-2.5
+2022-11-10,202211100ATL,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202211100ATL.html,28:27,.357,.357,.429,.000,13.0,21.5,17.0,5.9,0.0,0.0,30.0,14.9,72,105,-6.7
+2022-11-10,202211100ATL,PHI,P.J. Tucker,https://www.basketball-reference.com/boxscores/202211100ATL.html,24:03,.750,.750,1.000,.000,0.0,12.7,6.0,0.0,0.0,3.2,33.3,5.3,88,105,-2.2
+2022-11-10,202211100ATL,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202211100ATL.html,23:20,.461,.313,.875,.500,0.0,4.4,2.1,14.8,2.0,3.3,0.0,17.7,106,103,1.4
+2022-11-10,202211100ATL,PHI,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202211100ATL.html,19:02,1.163,1.167,.333,.333,0.0,0.0,0.0,0.0,2.5,4.1,0.0,7.7,236,103,8.0
+2022-11-10,202211100ATL,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202211100ATL.html,17:39,.425,.400,.200,.400,10.5,28.9,19.2,10.2,0.0,0.0,25.4,18.9,79,103,-7.1
+2022-11-10,202211100ATL,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202211100ATL.html,9:12,.000,.000,.667,.000,10.0,22.2,15.8,0.0,5.1,8.4,0.0,13.8,23,88,-11.6
+2022-11-10,202211100ATL,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202211100ATL.html,8:21,.000,.000,.500,.000,0.0,0.0,0.0,0.0,5.6,0.0,33.3,15.2,0,99,-14.6
+2022-11-10,202211100ATL,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202211100ATL.html,7:57,1.136,,,,0.0,0.0,0.0,18.9,0.0,0.0,0.0,9.4,246,111,8.4
+2022-11-10,202211100ATL,PHI,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202211100ATL.html,3:26,.926,1.000,.000,1.000,26.9,29.7,28.2,0.0,13.6,0.0,0.0,53.4,192,73,61.0
+2022-11-10,202211100ATL,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202211100ATL.html,34:42,.385,.385,.308,.000,0.0,8.0,4.2,34.5,2.7,0.0,13.3,17.9,90,93,1.4
+2022-11-10,202211100ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202211100ATL.html,33:04,.512,.381,.381,.476,3.1,5.6,4.4,35.2,1.4,0.0,19.1,39.3,97,96,3.0
+2022-11-10,202211100ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202211100ATL.html,31:56,.504,.500,.231,.154,6.4,5.8,6.1,0.0,0.0,0.0,12.6,20.6,94,99,-3.4
+2022-11-10,202211100ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202211100ATL.html,26:22,.712,.700,.000,.600,19.4,52.5,36.8,0.0,0.0,0.0,7.3,21.4,142,86,9.9
+2022-11-10,202211100ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202211100ATL.html,25:44,.417,.273,.273,.455,0.0,14.3,7.5,11.2,1.8,0.0,13.2,24.4,84,93,-5.1
+2022-11-10,202211100ATL,ATL,Aaron Holiday,https://www.basketball-reference.com/boxscores/202211100ATL.html,23:40,.400,.400,.400,.000,0.0,7.8,4.1,5.8,3.9,0.0,0.0,8.7,93,90,-1.0
+2022-11-10,202211100ATL,ATL,Justin Holiday,https://www.basketball-reference.com/boxscores/202211100ATL.html,22:39,.750,.750,1.000,.000,4.5,12.2,8.6,0.0,0.0,0.0,42.9,12.8,81,98,-2.4
+2022-11-10,202211100ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202211100ATL.html,21:15,.833,.833,.000,.000,9.6,39.1,25.1,0.0,0.0,8.5,14.3,13.6,141,84,6.1
+2022-11-10,202211100ATL,ATL,AJ Griffin,https://www.basketball-reference.com/boxscores/202211100ATL.html,14:19,.500,.500,.667,.000,0.0,12.9,6.8,9.4,3.3,0.0,25.0,11.5,83,90,0.0
+2022-11-10,202211100ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202211100ATL.html,6:19,.500,.500,.000,.000,0.0,14.6,7.7,0.0,7.4,0.0,0.0,13.1,103,81,6.8

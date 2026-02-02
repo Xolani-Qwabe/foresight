@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-23,202201230DAL,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202201230DAL.html,41:28,.494,.452,.097,.323,15.0,18.3,16.4,33.4,1.2,0.0,16.5,40.1,99,113,7.2
+2022-01-23,202201230DAL,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202201230DAL.html,34:51,.280,.265,.235,.118,7.7,3.6,6.0,0.0,1.5,0.0,10.1,22.4,67,116,-13.0
+2022-01-23,202201230DAL,MEM,Steven Adams,https://www.basketball-reference.com/boxscores/202201230DAL.html,32:24,.434,.250,.000,1.000,2.7,39.0,17.7,8.3,1.6,0.0,0.0,7.0,121,108,-0.4
+2022-01-23,202201230DAL,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202201230DAL.html,23:25,.346,.346,.615,.000,3.8,0.0,2.2,7.1,0.0,0.0,0.0,21.8,91,120,-9.2
+2022-01-23,202201230DAL,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202201230DAL.html,23:13,.167,.167,.333,.000,23.0,21.8,22.5,11.8,0.0,4.7,14.3,11.8,75,113,-4.7
+2022-01-23,202201230DAL,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202201230DAL.html,30:50,.355,.344,.188,.125,5.8,16.4,10.2,26.6,5.0,3.5,5.6,22.7,94,103,5.8
+2022-01-23,202201230DAL,MEM,Killian Tillie,https://www.basketball-reference.com/boxscores/202201230DAL.html,21:50,.583,.583,.500,.000,0.0,11.6,4.8,21.7,7.0,0.0,14.3,12.6,117,102,9.4
+2022-01-23,202201230DAL,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202201230DAL.html,15:36,1.000,1.000,.000,.000,5.7,16.2,10.0,0.0,3.3,0.0,50.0,15.1,80,109,-3.3
+2022-01-23,202201230DAL,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202201230DAL.html,13:09,.727,.667,.333,.333,0.0,0.0,0.0,12.3,0.0,8.3,0.0,10.3,163,115,4.7
+2022-01-23,202201230DAL,MEM,Jarrett Culver,https://www.basketball-reference.com/boxscores/202201230DAL.html,3:14,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-8.5
+2022-01-23,202201230DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202201230DAL.html,37:59,.611,.560,.280,.480,6.7,21.1,15.1,58.1,4.0,1.7,14.2,43.4,119,89,15.4
+2022-01-23,202201230DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202201230DAL.html,35:30,.507,.500,.625,.250,10.7,10.0,10.3,16.9,2.9,3.6,10.1,13.0,120,97,6.0
+2022-01-23,202201230DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202201230DAL.html,30:31,.587,.375,.125,.875,0.0,2.9,1.7,15.1,1.7,0.0,15.3,20.0,115,106,-2.3
+2022-01-23,202201230DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202201230DAL.html,25:35,.609,.636,.636,.273,4.9,24.3,16.3,15.2,0.0,15.0,0.0,22.5,129,88,10.9
+2022-01-23,202201230DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202201230DAL.html,23:55,.810,.833,.667,1.000,5.3,7.4,6.5,12.5,2.1,8.0,31.6,12.4,118,98,5.3
+2022-01-23,202201230DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202201230DAL.html,26:01,.507,.500,.625,.250,0.0,13.7,8.0,0.0,0.0,0.0,25.3,21.4,72,102,-11.1
+2022-01-23,202201230DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202201230DAL.html,20:55,.500,.500,.500,.000,0.0,8.5,5.0,0.0,2.4,0.0,0.0,8.9,102,100,-4.2
+2022-01-23,202201230DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202201230DAL.html,20:35,.615,.500,.000,.500,12.3,13.0,12.7,0.0,0.0,0.0,17.0,13.4,118,102,-9.0
+2022-01-23,202201230DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202201230DAL.html,14:44,.667,.667,.333,.000,0.0,6.0,3.5,22.1,6.9,0.0,25.0,12.7,111,93,7.4
+2022-01-23,202201230DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202201230DAL.html,1:41,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-7.6
+2022-01-23,202201230DAL,DAL,Marquese Chriss,https://www.basketball-reference.com/boxscores/202201230DAL.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-6.0
+2022-01-23,202201230DAL,DAL,Theo Pinson,https://www.basketball-reference.com/boxscores/202201230DAL.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-7.0

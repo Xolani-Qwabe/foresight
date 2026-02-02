@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-25,202212250BOS,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202212250BOS.html,36:35,.730,.679,.429,.286,3.5,18.2,10.6,29.2,2.6,0.0,16.0,22.2,136,136,5.3
+2022-12-25,202212250BOS,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202212250BOS.html,35:19,.495,.432,.227,.545,3.6,30.2,16.5,13.7,0.0,0.0,9.9,37.1,100,141,-6.8
+2022-12-25,202212250BOS,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202212250BOS.html,31:54,.901,.938,.250,.250,11.9,8.4,10.2,4.8,1.5,3.3,18.4,14.8,147,137,3.3
+2022-12-25,202212250BOS,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202212250BOS.html,29:31,.759,.778,.778,.222,0.0,18.1,8.8,14.4,1.6,0.0,0.0,14.5,158,138,7.9
+2022-12-25,202212250BOS,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202212250BOS.html,29:07,.508,.429,.429,.286,4.3,9.2,6.7,4.4,1.6,0.0,20.2,14.7,93,139,-7.9
+2022-12-25,202212250BOS,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202212250BOS.html,23:15,.500,.500,.250,.000,5.4,45.9,25.1,5.5,0.0,0.0,20.0,9.3,98,140,-6.4
+2022-12-25,202212250BOS,MIL,Joe Ingles,https://www.basketball-reference.com/boxscores/202212250BOS.html,19:29,.590,.500,.750,.375,0.0,13.7,6.7,0.0,2.4,0.0,24.4,27.4,89,137,-8.9
+2022-12-25,202212250BOS,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202212250BOS.html,14:45,.347,.000,1.000,1.000,0.0,0.0,0.0,23.2,3.2,0.0,0.0,8.5,122,136,-0.3
+2022-12-25,202212250BOS,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202212250BOS.html,12:43,.700,.700,.200,.000,9.9,0.0,5.1,36.9,3.8,0.0,16.7,20.4,136,135,8.4
+2022-12-25,202212250BOS,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202212250BOS.html,3:41,.833,.833,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.3,148,144,17.4
+2022-12-25,202212250BOS,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202212250BOS.html,3:41,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.5,0,144,-31.1
+2022-12-25,202212250BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202212250BOS.html,37:27,.670,.711,.474,.316,0.0,16.9,8.7,14.3,1.3,0.0,15.6,30.7,112,119,-0.1
+2022-12-25,202212250BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202212250BOS.html,35:58,.777,.705,.318,.455,0.0,24.6,12.6,21.3,4.0,0.0,3.6,34.2,155,111,15.5
+2022-12-25,202212250BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202212250BOS.html,30:02,.820,.833,.500,.500,0.0,12.6,6.5,18.3,1.6,0.0,12.0,12.4,157,119,5.4
+2022-12-25,202212250BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202212250BOS.html,29:56,.615,.500,.000,.500,4.5,8.4,6.5,27.4,1.6,0.0,17.0,8.8,155,120,3.1
+2022-12-25,202212250BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202212250BOS.html,29:52,.786,.786,.857,.000,0.0,16.9,8.7,3.7,0.0,0.0,0.0,10.5,151,122,2.0
+2022-12-25,202212250BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202212250BOS.html,25:52,.799,.750,.833,.333,10.3,19.5,15.0,12.5,3.7,0.0,0.0,11.9,176,113,10.2
+2022-12-25,202212250BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202212250BOS.html,16:49,.571,.500,.571,.286,0.0,15.0,7.7,6.9,0.0,0.0,20.2,26.4,94,122,-10.1
+2022-12-25,202212250BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202212250BOS.html,13:41,.750,.750,.000,.000,19.5,0.0,9.5,0.0,0.0,7.3,20.0,16.4,132,120,-5.4
+2022-12-25,202212250BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202212250BOS.html,7:11,.750,.750,1.000,.000,0.0,35.2,18.1,18.2,0.0,0.0,0.0,25.0,148,119,13.3
+2022-12-25,202212250BOS,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202212250BOS.html,6:11,.333,.333,.333,.000,0.0,0.0,0.0,0.0,7.7,0.0,0.0,21.8,67,107,-10.9
+2022-12-25,202212250BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202212250BOS.html,3:41,1.000,1.000,.000,.000,0.0,34.3,17.6,0.0,0.0,0.0,0.0,12.2,200,119,5.9
+2022-12-25,202212250BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202212250BOS.html,3:20,1.000,1.000,.000,.000,0.0,0.0,0.0,67.9,0.0,0.0,33.3,40.4,128,125,9.6

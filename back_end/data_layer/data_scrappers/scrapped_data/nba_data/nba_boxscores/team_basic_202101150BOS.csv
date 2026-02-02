@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-15,202101150BOS,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/202101150BOS.html,28.72,5,12,.417,3,5,.600,4,8,.500,2,0,2,3,0,0,2,1,17,10.1,-12
+2021-01-15,202101150BOS,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202101150BOS.html,27.4,7,18,.389,1,6,.167,0,1,.000,1,5,6,3,0,0,5,2,15,3.3,-22
+2021-01-15,202101150BOS,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/202101150BOS.html,25.97,6,13,.462,1,4,.250,2,2,1.000,2,4,6,4,2,0,1,2,15,13.9,-19
+2021-01-15,202101150BOS,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202101150BOS.html,25.6,5,14,.357,0,1,.000,5,7,.714,3,5,8,1,0,0,0,1,15,10.3,-11
+2021-01-15,202101150BOS,ORL,James Ennis III,https://www.basketball-reference.com/boxscores/202101150BOS.html,14.57,1,4,.250,0,2,.000,0,0,,0,1,1,0,0,0,0,3,2,-1.3,-5
+2021-01-15,202101150BOS,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/202101150BOS.html,32.85,5,8,.625,0,1,.000,2,2,1.000,7,5,12,2,1,0,1,1,12,15.8,-21
+2021-01-15,202101150BOS,ORL,Jordan Bone,https://www.basketball-reference.com/boxscores/202101150BOS.html,26.82,4,8,.500,1,3,.333,0,0,,0,3,3,0,1,0,0,2,9,6.1,-13
+2021-01-15,202101150BOS,ORL,Gary Clark,https://www.basketball-reference.com/boxscores/202101150BOS.html,26.82,1,4,.250,0,2,.000,1,2,.500,0,3,3,0,1,1,1,0,3,1.8,-13
+2021-01-15,202101150BOS,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202101150BOS.html,25.07,3,11,.273,0,3,.000,0,0,,0,5,5,1,0,0,1,2,6,-0.1,-11
+2021-01-15,202101150BOS,ORL,Karim Mané,https://www.basketball-reference.com/boxscores/202101150BOS.html,6.2,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.2,-8
+2021-01-15,202101150BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202101150BOS.html,27.82,5,13,.385,4,10,.400,0,0,,0,2,2,2,1,0,1,2,14,8.1,+28
+2021-01-15,202101150BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202101150BOS.html,25.02,6,12,.500,2,5,.400,7,7,1.000,0,2,2,8,1,0,2,1,21,19.8,+15
+2021-01-15,202101150BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202101150BOS.html,23.0,1,3,.333,0,1,.000,0,0,,1,1,2,0,0,0,0,1,2,0.9,+14
+2021-01-15,202101150BOS,BOS,Jeff Teague,https://www.basketball-reference.com/boxscores/202101150BOS.html,20.88,5,10,.500,2,4,.500,5,5,1.000,0,1,1,2,2,0,1,0,17,14.7,+14
+2021-01-15,202101150BOS,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202101150BOS.html,20.48,2,5,.400,0,0,,0,0,,1,10,11,1,1,1,2,2,4,4.6,+13
+2021-01-15,202101150BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202101150BOS.html,25.27,6,13,.462,4,8,.500,0,0,,0,4,4,3,0,1,0,2,16,12.5,+24
+2021-01-15,202101150BOS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202101150BOS.html,20.92,4,6,.667,0,2,.000,2,3,.667,1,1,2,1,2,0,1,2,10,8.9,+10
+2021-01-15,202101150BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202101150BOS.html,20.73,4,5,.800,0,0,,0,0,,3,7,10,0,0,0,0,2,8,9.5,+10
+2021-01-15,202101150BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202101150BOS.html,20.48,6,10,.600,3,6,.500,3,4,.750,0,6,6,1,0,0,0,2,18,14.7,+8
+2021-01-15,202101150BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202101150BOS.html,18.45,2,7,.286,1,5,.200,0,0,,0,0,0,2,0,1,1,3,5,0.8,-4
+2021-01-15,202101150BOS,BOS,Tremont Waters,https://www.basketball-reference.com/boxscores/202101150BOS.html,9.0,1,1,1.000,1,1,1.000,0,0,,0,0,0,5,0,0,2,0,3,4.2,-1
+2021-01-15,202101150BOS,BOS,Tacko Fall,https://www.basketball-reference.com/boxscores/202101150BOS.html,7.92,3,3,1.000,0,0,,0,0,,0,5,5,0,0,1,0,1,6,6.9,+4

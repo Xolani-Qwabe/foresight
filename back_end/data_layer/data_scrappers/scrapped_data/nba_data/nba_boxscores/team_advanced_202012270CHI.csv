@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-12-27,202012270CHI,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202012270CHI.html,36:26,.622,.540,.600,.360,0.0,6.9,2.8,28.7,2.3,5.9,12.1,33.6,115,112,7.8
+2020-12-27,202012270CHI,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202012270CHI.html,36:26,.539,.467,.200,.400,4.6,24.3,12.5,15.5,0.0,2.9,0.0,18.0,124,117,-0.6
+2020-12-27,202012270CHI,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202012270CHI.html,30:18,.237,.188,.375,.125,8.3,33.4,18.3,0.0,5.5,0.0,15.1,24.4,53,104,-15.3
+2020-12-27,202012270CHI,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202012270CHI.html,22:37,.438,.438,.125,.000,0.0,16.8,6.7,0.0,1.8,4.7,11.1,14.8,75,112,-10.3
+2020-12-27,202012270CHI,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202012270CHI.html,19:12,.833,.833,.667,.000,0.0,32.9,13.2,6.8,2.2,0.0,25.0,7.7,117,112,-2.8
+2020-12-27,202012270CHI,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202012270CHI.html,20:37,.857,.857,.714,.000,4.1,6.1,4.9,14.2,4.0,0.0,0.0,12.6,169,111,8.7
+2020-12-27,202012270CHI,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202012270CHI.html,19:07,.677,.563,.250,.875,4.4,6.6,5.3,15.7,4.4,0.0,8.3,23.5,135,111,5.7
+2020-12-27,202012270CHI,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202012270CHI.html,16:53,.680,.600,.000,.400,15.0,7.5,12.0,34.0,0.0,0.0,0.0,12.9,169,121,5.3
+2020-12-27,202012270CHI,GSW,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202012270CHI.html,14:24,.250,.250,.500,.000,0.0,8.8,3.5,43.1,11.6,0.0,33.3,15.5,72,94,3.4
+2020-12-27,202012270CHI,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202012270CHI.html,13:25,.635,.571,.857,.286,0.0,18.8,7.5,11.4,0.0,0.0,0.0,21.8,131,119,-0.1
+2020-12-27,202012270CHI,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202012270CHI.html,10:34,.509,.500,.833,.333,0.0,0.0,0.0,0.0,3.9,0.0,0.0,24.2,100,112,-1.7
+2020-12-27,202012270CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202012270CHI.html,35:38,.526,.526,.474,.000,0.0,16.5,9.9,20.3,0.0,0.0,13.6,24.0,100,115,-4.4
+2020-12-27,202012270CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202012270CHI.html,34:48,.612,.565,.522,.391,0.0,16.9,10.2,14.4,2.4,4.8,20.6,37.9,98,106,-0.2
+2020-12-27,202012270CHI,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202012270CHI.html,31:28,.879,.944,.222,.889,16.1,24.1,20.9,19.2,0.0,0.0,19.3,19.1,150,113,6.7
+2020-12-27,202012270CHI,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202012270CHI.html,29:15,.715,.692,.538,.538,0.0,20.2,12.1,5.0,1.4,2.9,11.1,24.0,124,109,4.8
+2020-12-27,202012270CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202012270CHI.html,26:21,.510,.400,.200,.400,4.8,9.6,7.7,9.0,0.0,9.6,25.4,11.6,96,110,-1.5
+2020-12-27,202012270CHI,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202012270CHI.html,22:50,.436,.333,.333,.333,0.0,3.7,2.2,15.1,0.0,0.0,46.6,10.9,71,119,-12.6
+2020-12-27,202012270CHI,CHI,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202012270CHI.html,20:45,1.042,1.125,1.000,1.000,12.2,16.2,14.6,18.7,0.0,0.0,34.2,16.4,139,115,6.2
+2020-12-27,202012270CHI,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202012270CHI.html,19:28,.200,.200,.600,.000,0.0,4.3,2.6,11.9,0.0,0.0,0.0,10.0,69,119,-13.7
+2020-12-27,202012270CHI,CHI,Chandler Hutchison,https://www.basketball-reference.com/boxscores/202012270CHI.html,19:27,.700,.700,.400,.000,0.0,34.6,20.8,27.0,2.1,0.0,16.7,12.0,135,105,7.6

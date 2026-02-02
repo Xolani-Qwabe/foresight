@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-10,202311100DET,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202311100DET.html,39.35,9,19,.474,2,7,.286,9,9,1.000,0,6,6,11,3,1,0,3,29,31.3,+17
+2023-11-10,202311100DET,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202311100DET.html,37.77,8,15,.533,2,3,.667,6,6,1.000,1,4,5,2,0,1,3,1,24,17.3,+10
+2023-11-10,202311100DET,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202311100DET.html,35.8,8,21,.381,1,4,.250,16,19,.842,7,9,16,3,0,2,5,3,33,25.2,+1
+2023-11-10,202311100DET,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202311100DET.html,29.7,3,9,.333,2,6,.333,2,4,.500,0,3,3,2,3,1,0,3,10,8.9,+15
+2023-11-10,202311100DET,PHI,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202311100DET.html,26.38,3,9,.333,0,3,.000,2,3,.667,2,6,8,1,2,0,0,3,8,7.2,+7
+2023-11-10,202311100DET,PHI,Nicolas Batum,https://www.basketball-reference.com/boxscores/202311100DET.html,26.47,1,2,.500,1,2,.500,0,0,,1,2,3,3,1,0,0,4,3,4.8,+13
+2023-11-10,202311100DET,PHI,Robert Covington,https://www.basketball-reference.com/boxscores/202311100DET.html,14.42,1,3,.333,1,3,.333,0,0,,0,0,0,0,4,0,0,0,3,5.3,+3
+2023-11-10,202311100DET,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202311100DET.html,12.2,1,2,.500,0,0,,0,0,,0,4,4,0,0,0,0,3,2,1.0,+7
+2023-11-10,202311100DET,PHI,Marcus Morris,https://www.basketball-reference.com/boxscores/202311100DET.html,6.03,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,-10
+2023-11-10,202311100DET,PHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202311100DET.html,5.28,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-8
+2023-11-10,202311100DET,PHI,Jaden Springer,https://www.basketball-reference.com/boxscores/202311100DET.html,4.82,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-6
+2023-11-10,202311100DET,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202311100DET.html,1.78,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-9
+2023-11-10,202311100DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202311100DET.html,38.58,8,17,.471,2,6,.333,5,7,.714,0,5,5,6,2,0,2,1,23,18.8,-9
+2023-11-10,202311100DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202311100DET.html,35.77,8,18,.444,1,5,.200,4,4,1.000,1,3,4,7,0,0,4,5,21,12.1,-5
+2023-11-10,202311100DET,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202311100DET.html,32.27,6,11,.545,0,1,.000,0,1,.000,3,10,13,4,1,3,2,4,12,13.7,+2
+2023-11-10,202311100DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202311100DET.html,31.68,4,10,.400,2,5,.400,0,0,,1,5,6,2,0,1,3,5,10,3.9,-16
+2023-11-10,202311100DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202311100DET.html,22.7,2,5,.400,0,0,,0,0,,1,3,4,3,0,1,3,1,4,2.3,-8
+2023-11-10,202311100DET,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202311100DET.html,34.6,3,13,.231,1,7,.143,2,2,1.000,0,3,3,4,0,0,0,4,9,3.2,-6
+2023-11-10,202311100DET,DET,Stanley Umude,https://www.basketball-reference.com/boxscores/202311100DET.html,17.35,1,2,.500,1,2,.500,7,8,.875,0,4,4,1,0,0,0,2,10,9.7,-2
+2023-11-10,202311100DET,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202311100DET.html,13.3,3,4,.750,0,0,,0,0,,2,3,5,1,0,0,1,2,6,5.6,+2
+2023-11-10,202311100DET,DET,Jared Rhoden,https://www.basketball-reference.com/boxscores/202311100DET.html,7.18,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,1,1,5,2.3,+2
+2023-11-10,202311100DET,DET,James Wiseman,https://www.basketball-reference.com/boxscores/202311100DET.html,6.57,3,3,1.000,0,0,,0,0,,3,1,4,0,0,0,0,1,6,7.1,0

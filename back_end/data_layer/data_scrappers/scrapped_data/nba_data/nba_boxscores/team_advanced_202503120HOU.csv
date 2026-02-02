@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-03-12,202503120HOU,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202503120HOU.html,37:25,.552,.533,.333,.333,0.0,9.0,5.1,17.1,0.0,0.0,10.4,24.9,107,127,-6.5
+2025-03-12,202503120HOU,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202503120HOU.html,36:39,.738,.750,.167,.167,0.0,21.3,12.2,0.0,1.4,2.6,28.0,23.7,93,118,-3.9
+2025-03-12,202503120HOU,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202503120HOU.html,32:50,.732,.643,.286,.500,0.0,0.0,0.0,17.0,1.6,0.0,10.5,28.2,136,126,1.1
+2025-03-12,202503120HOU,PHO,Royce O'Neale,https://www.basketball-reference.com/boxscores/202503120HOU.html,28:28,.167,.167,.833,.000,0.0,15.7,9.0,36.2,5.4,3.4,25.0,13.7,78,110,2.2
+2025-03-12,202503120HOU,PHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202503120HOU.html,13:16,1.000,1.000,.000,.000,11.3,42.1,28.9,0.0,0.0,0.0,0.0,7.3,205,117,3.0
+2025-03-12,202503120HOU,PHO,Oso Ighodaro,https://www.basketball-reference.com/boxscores/202503120HOU.html,28:21,1.000,1.000,.000,.000,10.6,15.7,13.5,0.0,0.0,13.5,42.9,12.0,108,116,-0.5
+2025-03-12,202503120HOU,PHO,Tyus Jones,https://www.basketball-reference.com/boxscores/202503120HOU.html,20:16,.688,.688,.750,.000,0.0,22.0,12.6,32.1,0.0,0.0,0.0,19.2,148,123,6.2
+2025-03-12,202503120HOU,PHO,Ryan Dunn,https://www.basketball-reference.com/boxscores/202503120HOU.html,16:47,.515,.500,.667,.667,0.0,13.3,7.6,0.0,0.0,11.4,0.0,11.2,104,118,-0.7
+2025-03-12,202503120HOU,PHO,Bol Bol,https://www.basketball-reference.com/boxscores/202503120HOU.html,16:44,.444,.357,.429,.286,9.0,13.3,11.5,8.6,6.2,0.0,20.2,28.7,83,111,-7.4
+2025-03-12,202503120HOU,PHO,Collin Gillespie,https://www.basketball-reference.com/boxscores/202503120HOU.html,5:03,1.136,,,,29.7,22.1,25.3,48.7,0.0,0.0,0.0,8.5,236,123,21.6
+2025-03-12,202503120HOU,PHO,TyTy Washington Jr.,https://www.basketball-reference.com/boxscores/202503120HOU.html,2:20,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.8,0,130,-28.4
+2025-03-12,202503120HOU,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202503120HOU.html,1:51,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.3,300,130,48.9
+2025-03-12,202503120HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202503120HOU.html,36:51,.696,.594,.375,.688,0.0,28.5,12.2,17.6,4.2,0.0,8.8,27.5,137,108,11.9
+2025-03-12,202503120HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202503120HOU.html,34:36,.620,.643,.357,.214,0.0,4.3,1.8,19.2,0.0,0.0,6.1,21.0,123,120,0.1
+2025-03-12,202503120HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202503120HOU.html,33:02,1.037,1.071,.143,.857,6.8,9.1,7.7,34.1,1.6,0.0,34.2,19.7,140,116,8.5
+2025-03-12,202503120HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202503120HOU.html,27:31,.556,.556,.667,.000,0.0,10.9,4.7,21.1,7.5,0.0,0.0,14.5,129,102,7.6
+2025-03-12,202503120HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202503120HOU.html,26:08,.540,.538,.385,.154,8.5,45.9,24.5,6.3,2.0,8.2,0.0,23.6,119,104,4.4
+2025-03-12,202503120HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202503120HOU.html,33:04,.333,.333,.500,.000,10.1,4.5,7.7,12.7,1.6,0.0,7.7,17.5,90,116,-8.9
+2025-03-12,202503120HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202503120HOU.html,12:56,.500,.500,.833,.000,0.0,11.6,4.9,0.0,0.0,8.2,0.0,20.6,102,112,-1.4
+2025-03-12,202503120HOU,HOU,Steven Adams,https://www.basketball-reference.com/boxscores/202503120HOU.html,11:17,.266,.000,.000,2.000,19.8,26.6,22.7,10.6,0.0,0.0,0.0,7.4,124,117,-5.4
+2025-03-12,202503120HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202503120HOU.html,9:06,.436,.333,.000,.333,12.3,33.0,21.1,15.2,0.0,0.0,0.0,16.8,121,116,-5.6
+2025-03-12,202503120HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202503120HOU.html,6:30,.000,.000,1.000,.000,0.0,23.1,9.8,0.0,0.0,0.0,0.0,13.7,0,118,-20.8
+2025-03-12,202503120HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202503120HOU.html,5:37,.000,.000,.400,.000,19.9,0.0,11.4,0.0,9.2,0.0,0.0,39.6,19,100,-31.0
+2025-03-12,202503120HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202503120HOU.html,1:51,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-8.8
+2025-03-12,202503120HOU,HOU,Jeenathan Williams,https://www.basketball-reference.com/boxscores/202503120HOU.html,1:31,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-8.8

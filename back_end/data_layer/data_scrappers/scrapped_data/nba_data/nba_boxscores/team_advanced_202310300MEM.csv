@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-10-30,202310300MEM,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202310300MEM.html,40:00,.663,.636,.545,.455,0.0,27.7,15.7,50.0,1.2,2.2,18.5,35.5,124,104,7.8
+2023-10-30,202310300MEM,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202310300MEM.html,34:16,.600,.600,.400,.000,3.5,2.7,3.0,12.0,1.4,0.0,9.1,14.1,122,112,-1.4
+2023-10-30,202310300MEM,DAL,Grant Williams,https://www.basketball-reference.com/boxscores/202310300MEM.html,31:12,.768,.750,1.000,.500,3.8,5.9,5.0,8.6,0.0,0.0,9.3,15.1,144,114,2.0
+2023-10-30,202310300MEM,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202310300MEM.html,26:40,.870,.900,.600,.600,0.0,13.8,7.8,0.0,0.0,0.0,7.3,22.4,149,113,6.6
+2023-10-30,202310300MEM,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202310300MEM.html,13:38,.500,.500,.000,.000,8.8,33.9,23.0,0.0,0.0,6.4,0.0,6.4,126,100,-8.5
+2023-10-30,202310300MEM,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202310300MEM.html,29:14,.706,.679,.500,.143,0.0,15.8,8.9,0.0,0.0,0.0,6.3,23.8,124,112,-0.8
+2023-10-30,202310300MEM,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202310300MEM.html,22:08,.717,.625,.750,.500,5.4,16.7,11.8,11.5,2.1,0.0,29.1,13.6,119,106,-0.8
+2023-10-30,202310300MEM,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202310300MEM.html,14:40,.300,.300,.600,.000,0.0,12.6,7.1,16.9,3.2,6.0,16.7,17.9,72,100,-5.6
+2023-10-30,202310300MEM,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202310300MEM.html,12:14,,,,,19.6,22.6,21.3,0.0,0.0,28.5,100.0,3.6,108,88,4.4
+2023-10-30,202310300MEM,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202310300MEM.html,9:43,.500,.500,.667,.000,0.0,0.0,0.0,15.4,0.0,0.0,14.3,31.6,90,115,-9.9
+2023-10-30,202310300MEM,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202310300MEM.html,6:15,.333,.333,.000,.000,0.0,59.1,33.4,44.8,0.0,0.0,0.0,21.0,106,101,-1.8
+2023-10-30,202310300MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202310300MEM.html,37:29,.800,.794,.412,.235,4.9,12.8,8.4,14.4,3.8,0.0,9.6,23.6,146,120,9.8
+2023-10-30,202310300MEM,MEM,Marcus Smart,https://www.basketball-reference.com/boxscores/202310300MEM.html,35:24,.676,.676,.588,.000,2.6,13.6,7.4,41.0,4.0,0.0,26.1,27.6,110,119,3.0
+2023-10-30,202310300MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202310300MEM.html,33:55,.626,.575,.300,.450,5.4,24.8,13.8,20.3,0.0,7.6,4.0,31.3,130,123,8.5
+2023-10-30,202310300MEM,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202310300MEM.html,33:05,.500,.500,.500,.000,2.8,21.8,11.0,7.7,1.4,0.0,27.3,14.1,82,125,-7.9
+2023-10-30,202310300MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202310300MEM.html,28:52,.196,.214,.357,.214,6.4,20.8,12.7,4.5,3.3,4.5,0.0,22.6,55,117,-12.8
+2023-10-30,202310300MEM,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202310300MEM.html,28:59,.507,.500,.125,.250,3.2,16.6,9.0,9.4,0.0,4.5,0.0,13.0,117,126,-4.3
+2023-10-30,202310300MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202310300MEM.html,19:12,.750,.750,1.000,.000,4.8,18.8,10.9,6.3,0.0,0.0,0.0,4.4,168,128,-4.4
+2023-10-30,202310300MEM,MEM,Derrick Rose,https://www.basketball-reference.com/boxscores/202310300MEM.html,14:16,.102,.000,.250,.500,0.0,8.4,3.7,0.0,0.0,0.0,0.0,14.6,24,130,-22.7
+2023-10-30,202310300MEM,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202310300MEM.html,6:16,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.8,0,130,-25.1
+2023-10-30,202310300MEM,MEM,Jacob Gilyard,https://www.basketball-reference.com/boxscores/202310300MEM.html,0:38,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.2,0,131,-66.0
+2023-10-30,202310300MEM,MEM,GG Jackson II,https://www.basketball-reference.com/boxscores/202310300MEM.html,0:38,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-11.3
+2023-10-30,202310300MEM,MEM,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202310300MEM.html,0:38,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-10.7
+2023-10-30,202310300MEM,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202310300MEM.html,0:38,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-11.8

@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-03,202303030DEN,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202303030DEN.html,33:13,.400,.400,.500,.000,2.9,6.7,4.7,10.8,1.5,0.0,16.7,16.1,75,125,-7.0
+2023-03-03,202303030DEN,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202303030DEN.html,32:56,.543,.450,.150,.550,2.9,10.2,6.3,75.4,3.1,0.0,10.8,37.7,113,120,12.8
+2023-03-03,202303030DEN,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202303030DEN.html,30:48,.493,.462,.231,.385,3.1,18.1,10.1,7.2,0.0,8.3,6.2,23.5,96,119,-2.3
+2023-03-03,202303030DEN,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202303030DEN.html,29:57,.591,.462,.538,.538,6.4,7.5,6.9,0.0,0.0,0.0,11.1,26.9,110,128,-1.5
+2023-03-03,202303030DEN,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202303030DEN.html,29:33,.590,.563,.125,.375,6.5,30.2,17.5,26.5,0.0,0.0,0.0,14.1,136,120,3.5
+2023-03-03,202303030DEN,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202303030DEN.html,23:27,.102,.000,.750,.500,0.0,19.0,8.8,13.2,0.0,3.7,29.1,13.1,31,121,-14.0
+2023-03-03,202303030DEN,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202303030DEN.html,18:26,.600,.600,.800,.000,0.0,6.1,2.8,0.0,0.0,0.0,0.0,12.1,109,128,-5.0
+2023-03-03,202303030DEN,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202303030DEN.html,14:01,.436,.333,.333,.333,6.8,15.9,11.0,12.4,11.0,12.2,0.0,10.9,114,93,11.1
+2023-03-03,202303030DEN,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202303030DEN.html,12:27,.000,.000,.500,.000,0.0,17.9,8.3,24.9,0.0,0.0,0.0,7.2,49,124,-11.5
+2023-03-03,202303030DEN,MEM,Kennedy Chandler,https://www.basketball-reference.com/boxscores/202303030DEN.html,2:37,,,,,0.0,42.7,19.7,0.0,0.0,0.0,,0.0,0,116,-7.8
+2023-03-03,202303030DEN,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202303030DEN.html,2:37,.750,.750,1.000,.000,36.7,0.0,19.7,0.0,0.0,0.0,0.0,34.1,145,130,28.5
+2023-03-03,202303030DEN,MEM,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202303030DEN.html,2:37,.000,.000,.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,17.0,81,130,12.8
+2023-03-03,202303030DEN,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202303030DEN.html,2:37,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0,130,-22.6
+2023-03-03,202303030DEN,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202303030DEN.html,2:37,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,300,130,35.6
+2023-03-03,202303030DEN,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202303030DEN.html,2:07,.266,.000,.000,2.000,45.4,0.0,24.4,0.0,0.0,0.0,0.0,39.6,87,130,-13.0
+2023-03-03,202303030DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202303030DEN.html,37:01,.530,.526,.421,.211,3.0,10.4,7.0,39.4,2.8,0.0,8.8,27.2,115,104,7.6
+2023-03-03,202303030DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202303030DEN.html,35:18,.712,.700,.000,.600,9.5,40.8,26.3,44.6,0.0,2.6,13.7,18.3,145,97,13.6
+2023-03-03,202303030DEN,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202303030DEN.html,30:56,.515,.417,.500,.667,0.0,0.0,0.0,21.0,1.7,0.0,11.4,12.5,117,110,-0.8
+2023-03-03,202303030DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202303030DEN.html,30:01,.742,.643,.500,.571,11.2,16.0,13.8,5.9,1.7,0.0,0.0,25.8,162,104,14.1
+2023-03-03,202303030DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202303030DEN.html,28:11,.574,.500,.200,.300,15.8,3.4,9.2,0.0,0.0,0.0,0.0,17.7,137,112,-2.5
+2023-03-03,202303030DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202303030DEN.html,24:47,.291,.167,.333,.333,0.0,15.5,8.3,5.1,0.0,11.2,0.0,12.3,78,100,-2.5
+2023-03-03,202303030DEN,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202303030DEN.html,23:24,.625,.625,.250,.000,4.8,20.5,13.2,8.0,0.0,3.9,0.0,22.7,130,104,7.7
+2023-03-03,202303030DEN,DEN,Reggie Jackson,https://www.basketball-reference.com/boxscores/202303030DEN.html,19:06,.063,.000,.857,.286,0.0,10.1,5.4,0.0,2.7,0.0,27.6,25.2,11,104,-26.5
+2023-03-03,202303030DEN,DEN,Thomas Bryant,https://www.basketball-reference.com/boxscores/202303030DEN.html,5:58,.532,.000,.000,2.000,18.7,32.2,26.0,0.0,8.6,0.0,0.0,13.9,147,81,-0.6
+2023-03-03,202303030DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202303030DEN.html,1:46,,,,,0.0,0.0,0.0,67.9,0.0,0.0,,0.0,220,114,18.0
+2023-03-03,202303030DEN,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202303030DEN.html,1:46,1.000,1.000,.000,.000,0.0,54.3,29.2,0.0,0.0,0.0,0.0,25.0,200,94,25.2
+2023-03-03,202303030DEN,DEN,Ish Smith,https://www.basketball-reference.com/boxscores/202303030DEN.html,1:46,1.000,1.000,.000,.000,0.0,54.3,29.2,0.0,0.0,0.0,0.0,25.0,200,94,23.3

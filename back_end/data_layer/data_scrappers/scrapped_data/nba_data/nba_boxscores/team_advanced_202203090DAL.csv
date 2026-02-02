@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-09,202203090DAL,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202203090DAL.html,38:51,.508,.423,.769,.308,3.2,23.3,14.8,19.9,0.0,0.0,11.9,19.1,116,85,4.7
+2022-03-09,202203090DAL,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202203090DAL.html,37:47,.495,.438,.188,.313,0.0,16.8,9.7,18.7,0.0,0.0,5.2,22.5,115,88,2.2
+2022-03-09,202203090DAL,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202203090DAL.html,33:57,.556,.500,.368,.526,3.6,18.7,12.3,28.6,0.0,0.0,7.9,33.1,122,88,11.7
+2022-03-09,202203090DAL,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202203090DAL.html,24:50,.556,.556,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,18.2,19.6,93,97,-4.6
+2022-03-09,202203090DAL,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202203090DAL.html,23:46,.955,1.000,.000,1.000,25.9,22.9,24.1,0.0,4.5,14.4,14.8,12.6,169,69,19.6
+2022-03-09,202203090DAL,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202203090DAL.html,30:48,.423,.250,.500,.750,8.0,11.8,10.2,28.4,1.7,0.0,0.0,15.3,130,87,5.4
+2022-03-09,202203090DAL,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202203090DAL.html,21:52,.167,.167,.500,.000,5.6,12.4,9.5,0.0,0.0,0.0,14.3,14.2,45,90,-13.7
+2022-03-09,202203090DAL,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202203090DAL.html,18:43,.799,.750,.167,.333,26.3,4.8,13.9,0.0,0.0,0.0,12.7,18.6,152,93,5.5
+2022-03-09,202203090DAL,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202203090DAL.html,5:31,.868,1.000,.000,1.000,0.0,49.3,28.4,0.0,0.0,0.0,0.0,23.1,166,71,15.4
+2022-03-09,202203090DAL,NYK,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202203090DAL.html,3:55,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,0,97,-13.5
+2022-03-09,202203090DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202203090DAL.html,34:33,.500,.500,.444,.000,7.9,7.1,7.6,13.0,0.0,2.8,18.2,14.6,95,124,-2.6
+2022-03-09,202203090DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202203090DAL.html,34:02,.552,.540,.440,.280,8.0,10.8,9.2,56.0,1.6,2.8,6.6,40.4,112,119,20.1
+2022-03-09,202203090DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202203090DAL.html,29:35,.000,.000,1.000,.250,3.1,25.0,12.3,12.0,0.0,3.2,0.0,13.7,17,117,-10.8
+2022-03-09,202203090DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202203090DAL.html,25:19,.311,.250,.417,.167,0.0,24.3,10.3,0.0,2.1,0.0,7.2,25.1,63,114,-9.9
+2022-03-09,202203090DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202203090DAL.html,21:27,.820,.750,.000,.500,8.4,11.5,9.7,0.0,0.0,0.0,0.0,10.4,174,123,-0.8
+2022-03-09,202203090DAL,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202203090DAL.html,28:19,.564,.500,.500,1.000,0.0,8.7,3.7,0.0,0.0,0.0,0.0,18.6,121,125,-1.5
+2022-03-09,202203090DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202203090DAL.html,26:30,.127,.000,.571,.286,6.8,4.6,5.9,13.4,0.0,0.0,0.0,13.6,52,127,-11.1
+2022-03-09,202203090DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202203090DAL.html,17:58,.500,.500,.500,.000,0.0,6.9,2.9,0.0,3.0,0.0,60.0,12.7,36,119,-14.5
+2022-03-09,202203090DAL,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202203090DAL.html,12:35,.000,.000,.833,.000,0.0,19.6,8.3,0.0,0.0,0.0,0.0,21.8,0,120,-24.8
+2022-03-09,202203090DAL,DAL,Sterling Brown,https://www.basketball-reference.com/boxscores/202203090DAL.html,4:51,.000,.000,.500,.000,0.0,25.4,10.8,0.0,0.0,19.8,0.0,18.9,0,110,-9.4
+2022-03-09,202203090DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202203090DAL.html,4:51,.515,.333,.333,.667,18.7,0.0,10.8,57.9,0.0,0.0,0.0,36.6,127,129,19.0

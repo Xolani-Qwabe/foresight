@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-09,202204090LAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202204090LAC.html,37:48,.583,.556,.167,.111,0.0,2.8,1.4,35.1,0.0,0.0,9.6,24.2,113,128,-1.5
+2022-04-09,202204090LAC,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202204090LAC.html,28:39,.595,.571,.143,1.000,3.7,11.2,7.4,10.7,6.8,0.0,28.4,21.5,89,109,-2.3
+2022-04-09,202204090LAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202204090LAC.html,26:07,.307,.375,.750,.500,0.0,20.4,10.2,0.0,0.0,0.0,0.0,8.2,60,124,-10.7
+2022-04-09,202204090LAC,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202204090LAC.html,19:38,.663,.650,.300,.300,5.4,27.2,16.3,0.0,2.5,0.0,0.0,25.3,128,116,7.0
+2022-04-09,202204090LAC,SAC,Justin Holiday,https://www.basketball-reference.com/boxscores/202204090LAC.html,17:50,.500,.500,.833,.000,0.0,12.0,6.0,33.0,5.4,0.0,0.0,14.7,118,112,8.8
+2022-04-09,202204090LAC,SAC,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202204090LAC.html,26:49,.355,.313,.750,.125,4.0,11.9,8.0,20.8,1.8,0.0,10.6,15.4,86,121,-4.8
+2022-04-09,202204090LAC,SAC,Josh Jackson,https://www.basketball-reference.com/boxscores/202204090LAC.html,22:47,.306,.273,.182,.091,9.4,14.0,11.7,13.3,4.3,0.0,14.9,25.8,68,115,-10.4
+2022-04-09,202204090LAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202204090LAC.html,20:44,.563,.563,.250,.000,5.1,46.3,25.7,0.0,2.3,0.0,0.0,16.9,111,111,1.1
+2022-04-09,202204090LAC,SAC,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202204090LAC.html,20:17,.508,.500,.429,.286,0.0,21.0,10.5,23.0,2.4,0.0,27.6,23.5,79,118,-4.7
+2022-04-09,202204090LAC,SAC,Neemias Queta,https://www.basketball-reference.com/boxscores/202204090LAC.html,19:21,.519,.429,.000,.857,5.5,0.0,2.8,16.2,0.0,11.5,9.4,24.1,106,121,-2.1
+2022-04-09,202204090LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202204090LAC.html,33:34,.773,.786,.643,.143,3.2,22.2,12.7,56.2,2.9,0.0,21.2,24.9,139,96,15.9
+2022-04-09,202204090LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202204090LAC.html,26:07,.833,.833,.667,.000,0.0,20.4,10.2,14.4,3.7,0.0,40.0,8.5,111,95,4.1
+2022-04-09,202204090LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202204090LAC.html,24:32,.631,.636,.000,.182,17.4,34.8,26.1,13.8,0.0,0.0,0.0,21.4,145,99,2.9
+2022-04-09,202204090LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202204090LAC.html,24:05,.409,.385,.615,.077,0.0,8.9,4.4,5.9,0.0,3.4,0.0,24.7,90,101,-9.3
+2022-04-09,202204090LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202204090LAC.html,22:29,.389,.389,.444,.000,0.0,14.2,7.1,6.0,0.0,0.0,30.8,25.6,56,104,-17.1
+2022-04-09,202204090LAC,LAC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202204090LAC.html,23:28,1.025,1.000,.500,.500,13.6,18.2,15.9,17.1,0.0,3.5,29.1,13.0,157,99,7.5
+2022-04-09,202204090LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202204090LAC.html,22:17,.758,.727,.545,.455,0.0,4.8,2.4,14.8,0.0,3.7,7.0,28.2,140,102,10.5
+2022-04-09,202204090LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202204090LAC.html,19:58,.625,.625,.500,.000,5.3,5.3,5.3,7.4,7.3,0.0,27.3,24.3,90,90,2.5
+2022-04-09,202204090LAC,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202204090LAC.html,19:49,.633,.500,.800,.600,5.4,32.3,18.8,6.5,0.0,0.0,0.0,14.1,147,100,0.5
+2022-04-09,202204090LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202204090LAC.html,15:38,.357,.357,.429,.000,0.0,6.8,3.4,17.1,0.0,0.0,0.0,19.8,92,103,-10.9
+2022-04-09,202204090LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202204090LAC.html,4:06,,,,,0.0,0.0,0.0,27.9,0.0,0.0,,0.0,250,106,2.0
+2022-04-09,202204090LAC,LAC,Rodney Hood,https://www.basketball-reference.com/boxscores/202204090LAC.html,3:57,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.2,300,106,18.9

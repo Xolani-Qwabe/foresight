@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-22,202303220WAS,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202303220WAS.html,33:36,.852,.813,.188,.313,18.8,25.0,22.0,40.2,4.8,0.0,9.9,28.2,168,109,25.6
+2023-03-22,202303220WAS,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202303220WAS.html,33:08,.654,.654,.462,.000,3.8,18.1,11.1,36.4,0.0,0.0,13.3,21.3,135,120,3.5
+2023-03-22,202303220WAS,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202303220WAS.html,30:44,.872,.833,.500,.333,0.0,3.9,2.0,4.4,1.8,0.0,12.7,12.0,149,120,1.9
+2023-03-22,202303220WAS,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202303220WAS.html,30:44,.639,.625,.563,.063,8.2,19.5,14.0,10.1,3.5,0.0,5.7,26.6,130,113,8.3
+2023-03-22,202303220WAS,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202303220WAS.html,29:27,.291,.222,.444,.333,0.0,12.2,6.3,16.8,1.8,0.0,0.0,16.5,91,118,-8.9
+2023-03-22,202303220WAS,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202303220WAS.html,29:07,.595,.500,.100,.400,8.7,16.5,12.7,9.8,0.0,5.4,14.5,22.2,119,116,-2.2
+2023-03-22,202303220WAS,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202303220WAS.html,16:06,.000,.000,1.000,.000,0.0,22.4,11.5,14.2,0.0,0.0,0.0,8.7,51,119,-13.3
+2023-03-22,202303220WAS,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202303220WAS.html,14:32,.709,.667,.500,.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.1,146,124,-0.9
+2023-03-22,202303220WAS,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202303220WAS.html,11:40,1.136,,,,0.0,20.6,10.5,0.0,0.0,0.0,53.2,7.6,106,119,-11.0
+2023-03-22,202303220WAS,DEN,Thomas Bryant,https://www.basketball-reference.com/boxscores/202303220WAS.html,2:44,.667,.667,.000,.000,46.2,0.0,22.5,0.0,0.0,0.0,0.0,51.5,145,125,6.4
+2023-03-22,202303220WAS,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202303220WAS.html,2:44,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,17.2,0,125,-26.7
+2023-03-22,202303220WAS,DEN,Ish Smith,https://www.basketball-reference.com/boxscores/202303220WAS.html,2:44,.000,.000,.000,.000,0.0,0.0,0.0,41.8,0.0,0.0,0.0,17.2,68,125,-13.3
+2023-03-22,202303220WAS,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202303220WAS.html,2:44,,,,,0.0,0.0,0.0,41.8,0.0,0.0,,0.0,236,124,4.0
+2023-03-22,202303220WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202303220WAS.html,31:41,.810,.833,.222,.222,0.0,31.9,15.5,27.2,0.0,0.0,28.8,20.8,119,131,4.9
+2023-03-22,202303220WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202303220WAS.html,30:34,.414,.350,.700,.200,3.9,8.3,6.0,8.0,0.0,0.0,0.0,16.9,104,138,-6.7
+2023-03-22,202303220WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202303220WAS.html,28:33,.500,.500,.000,.000,8.4,13.3,10.8,0.0,0.0,3.3,0.0,10.0,119,134,-9.8
+2023-03-22,202303220WAS,WAS,Monte Morris,https://www.basketball-reference.com/boxscores/202303220WAS.html,23:48,.400,.400,.300,.000,5.0,5.3,5.2,28.1,4.5,0.0,9.1,22.0,99,128,-0.1
+2023-03-22,202303220WAS,WAS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202303220WAS.html,22:14,.699,.676,.176,.118,0.0,17.0,8.3,21.3,0.0,0.0,5.3,40.3,134,135,11.6
+2023-03-22,202303220WAS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202303220WAS.html,23:21,.354,.333,.333,.222,10.3,5.4,7.9,0.0,2.3,0.0,0.0,20.1,89,133,-12.2
+2023-03-22,202303220WAS,WAS,Delon Wright,https://www.basketball-reference.com/boxscores/202303220WAS.html,20:33,.509,.500,.167,.333,5.8,12.3,9.0,12.6,0.0,9.2,0.0,15.9,122,131,2.1
+2023-03-22,202303220WAS,WAS,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202303220WAS.html,18:16,.676,.625,.375,.250,0.0,27.7,13.5,8.5,0.0,0.0,10.1,25.7,125,132,-0.4
+2023-03-22,202303220WAS,WAS,Taj Gibson,https://www.basketball-reference.com/boxscores/202303220WAS.html,11:26,.000,.000,.000,.000,10.5,0.0,5.4,0.0,0.0,8.2,0.0,8.3,42,135,-11.1
+2023-03-22,202303220WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202303220WAS.html,10:16,.521,.500,.000,1.000,11.7,24.6,18.0,0.0,0.0,0.0,0.0,13.3,124,133,-4.3
+2023-03-22,202303220WAS,WAS,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202303220WAS.html,8:21,.875,.875,.500,.000,0.0,0.0,0.0,21.5,0.0,0.0,0.0,22.8,176,140,15.3
+2023-03-22,202303220WAS,WAS,Xavier Cooks,https://www.basketball-reference.com/boxscores/202303220WAS.html,3:39,,,,,32.9,0.0,16.9,0.0,0.0,0.0,,0.0,208,140,-5.0
+2023-03-22,202303220WAS,WAS,Jay Huff,https://www.basketball-reference.com/boxscores/202303220WAS.html,3:39,.532,.000,1.000,2.000,0.0,34.6,16.9,29.9,0.0,0.0,0.0,24.5,138,130,10.5
+2023-03-22,202303220WAS,WAS,Quenton Jackson,https://www.basketball-reference.com/boxscores/202303220WAS.html,3:39,.333,.333,.333,.000,0.0,0.0,0.0,0.0,14.8,0.0,0.0,39.0,72,106,-0.3

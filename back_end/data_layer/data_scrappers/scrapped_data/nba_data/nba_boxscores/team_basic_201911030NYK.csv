@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2019-11-03,201911030NYK,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/201911030NYK.html,39.58,6,12,.500,3,7,.429,4,4,1.000,0,4,4,1,1,1,0,2,19,15.8,+28
+2019-11-03,201911030NYK,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/201911030NYK.html,34.78,8,18,.444,1,3,.333,7,10,.700,0,2,2,6,1,1,3,5,24,14.9,+17
+2019-11-03,201911030NYK,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/201911030NYK.html,30.48,8,16,.500,5,11,.455,1,3,.333,0,4,4,1,1,1,1,3,22,14.6,+26
+2019-11-03,201911030NYK,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/201911030NYK.html,29.67,6,8,.750,0,0,,2,2,1.000,4,6,10,3,0,1,1,4,14,15.6,+21
+2019-11-03,201911030NYK,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/201911030NYK.html,24.13,4,5,.800,2,3,.667,0,0,,2,7,9,6,1,0,2,4,10,13.2,+21
+2019-11-03,201911030NYK,SAC,Trevor Ariza,https://www.basketball-reference.com/boxscores/201911030NYK.html,24.77,3,8,.375,2,6,.333,0,0,,0,5,5,0,0,0,0,2,8,4.3,+4
+2019-11-03,201911030NYK,SAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/201911030NYK.html,19.15,2,8,.250,2,7,.286,0,0,,0,3,3,3,1,0,2,3,6,2.0,-7
+2019-11-03,201911030NYK,SAC,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/201911030NYK.html,14.67,1,3,.333,0,1,.000,0,0,,3,5,8,3,1,1,2,3,2,4.5,0
+2019-11-03,201911030NYK,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/201911030NYK.html,11.28,2,5,.400,0,1,.000,2,2,1.000,1,2,3,1,0,0,1,0,6,4.3,+5
+2019-11-03,201911030NYK,SAC,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/201911030NYK.html,5.68,0,1,.000,0,0,,0,2,.000,0,1,1,0,0,0,0,2,0,-2.0,-7
+2019-11-03,201911030NYK,SAC,Caleb Swanigan,https://www.basketball-reference.com/boxscores/201911030NYK.html,1.93,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,2,1,2,-0.7,-1
+2019-11-03,201911030NYK,SAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/201911030NYK.html,1.93,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2019-11-03,201911030NYK,SAC,Justin James,https://www.basketball-reference.com/boxscores/201911030NYK.html,1.93,0,0,,0,0,,0,2,.000,0,1,1,1,1,0,0,0,0,1.2,-1
+2019-11-03,201911030NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/201911030NYK.html,40.73,8,20,.400,1,5,.200,5,9,.556,1,3,4,3,1,1,2,0,22,13.0,-22
+2019-11-03,201911030NYK,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/201911030NYK.html,34.9,9,14,.643,4,6,.667,6,7,.857,1,5,6,2,0,1,1,5,28,22.7,-11
+2019-11-03,201911030NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/201911030NYK.html,26.93,4,13,.308,0,3,.000,0,0,,1,6,7,2,0,0,1,2,8,2.6,-27
+2019-11-03,201911030NYK,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/201911030NYK.html,20.0,1,6,.167,0,1,.000,0,0,,2,4,6,1,1,0,2,2,2,-0.3,-23
+2019-11-03,201911030NYK,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201911030NYK.html,14.93,1,3,.333,0,2,.000,0,0,,0,2,2,3,1,0,0,3,2,2.8,-11
+2019-11-03,201911030NYK,NYK,Wayne Ellington,https://www.basketball-reference.com/boxscores/201911030NYK.html,24.9,1,4,.250,1,4,.250,0,0,,0,1,1,1,1,0,1,4,3,0.0,-3
+2019-11-03,201911030NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201911030NYK.html,24.57,4,4,1.000,0,0,,2,3,.667,3,2,5,0,1,2,0,4,10,11.9,+5
+2019-11-03,201911030NYK,NYK,Allonzo Trier,https://www.basketball-reference.com/boxscores/201911030NYK.html,24.0,3,9,.333,2,5,.400,3,4,.750,1,3,4,4,0,1,3,3,11,6.4,-6
+2019-11-03,201911030NYK,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/201911030NYK.html,20.67,0,4,.000,0,3,.000,2,6,.333,0,3,3,1,1,0,1,0,2,-0.8,-3
+2019-11-03,201911030NYK,NYK,Ignas Brazdeikis,https://www.basketball-reference.com/boxscores/201911030NYK.html,4.18,1,2,.500,0,1,.000,2,2,1.000,0,0,0,1,0,0,1,0,4,2.7,-2
+2019-11-03,201911030NYK,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/201911030NYK.html,4.18,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-2

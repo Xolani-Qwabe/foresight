@@ -1,0 +1,18 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-06-10,202206100BOS,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202206100BOS.html,43:25,.475,.471,.353,.118,7.1,28.7,18.2,6.9,1.2,0.0,10.1,19.3,104,101,-0.2
+2022-06-10,202206100BOS,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202206100BOS.html,40:50,.529,.529,.588,.000,2.5,2.4,2.4,3.7,1.2,5.0,5.6,18.6,114,107,1.6
+2022-06-10,202206100BOS,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202206100BOS.html,40:41,.718,.673,.538,.346,5.0,18.9,12.2,20.1,0.0,0.0,14.3,36.3,133,107,14.5
+2022-06-10,202206100BOS,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202206100BOS.html,32:57,.143,.143,.286,.000,15.5,11.7,13.5,30.2,6.1,0.0,22.2,11.5,94,95,4.2
+2022-06-10,202206100BOS,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202206100BOS.html,14:30,.347,.000,1.000,1.000,0.0,6.6,3.4,8.3,0.0,0.0,0.0,8.4,108,112,-4.7
+2022-06-10,202206100BOS,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202206100BOS.html,28:10,.750,.750,.000,.000,14.5,23.9,19.3,9.8,1.8,3.6,42.9,10.5,107,99,1.6
+2022-06-10,202206100BOS,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202206100BOS.html,20:33,.538,.538,.538,.000,0.0,4.7,2.4,9.0,2.5,5.0,7.1,28.8,110,103,3.2
+2022-06-10,202206100BOS,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202206100BOS.html,9:54,.644,.667,.333,.667,10.3,29.1,20.0,16.0,5.1,10.3,20.5,20.8,116,85,13.8
+2022-06-10,202206100BOS,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202206100BOS.html,9:00,.000,.000,.500,.000,0.0,10.7,5.5,0.0,5.6,0.0,33.3,14.1,0,97,-12.9
+2022-06-10,202206100BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202206100BOS.html,42:40,.456,.435,.348,.217,6.8,19.1,12.8,27.0,1.2,7.0,19.2,32.4,87,109,1.7
+2022-06-10,202206100BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202206100BOS.html,39:57,.488,.472,.500,.056,4.8,5.1,5.0,23.5,5.1,0.0,9.8,22.7,103,110,4.6
+2022-06-10,202206100BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202206100BOS.html,39:42,.528,.526,.316,.105,4.8,10.3,7.5,10.5,1.3,0.0,9.1,24.4,101,116,-1.7
+2022-06-10,202206100BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202206100BOS.html,31:27,.902,1.000,.000,.667,12.2,26.0,18.9,20.8,1.6,6.4,0.0,5.5,205,106,11.2
+2022-06-10,202206100BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202206100BOS.html,28:05,.581,.500,1.000,.333,0.0,21.8,10.6,22.4,0.0,3.6,12.7,12.4,121,112,3.1
+2022-06-10,202206100BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202206100BOS.html,35:33,.563,.458,.417,.417,0.0,2.9,1.4,4.7,1.4,0.0,17.4,21.4,96,120,-2.7
+2022-06-10,202206100BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202206100BOS.html,12:32,.750,.750,1.000,.000,0.0,8.1,3.9,0.0,0.0,0.0,0.0,7.1,141,120,-6.4
+2022-06-10,202206100BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202206100BOS.html,10:04,.174,.000,1.000,1.000,0.0,10.1,4.9,0.0,0.0,0.0,25.8,17.1,28,120,-19.0

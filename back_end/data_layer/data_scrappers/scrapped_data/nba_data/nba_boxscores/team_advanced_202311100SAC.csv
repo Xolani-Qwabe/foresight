@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-10,202311100SAC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202311100SAC.html,37:41,.597,.560,.080,.240,0.0,18.2,9.9,30.1,2.5,5.8,6.7,34.3,114,100,13.1
+2023-11-10,202311100SAC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202311100SAC.html,31:29,.470,.429,.214,.143,0.0,15.6,8.5,10.2,1.5,0.0,16.8,24.8,80,106,-5.6
+2023-11-10,202311100SAC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202311100SAC.html,29:36,.450,.417,.250,.250,4.0,19.9,12.6,5.2,1.6,3.7,23.1,25.5,72,102,-7.2
+2023-11-10,202311100SAC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202311100SAC.html,26:34,.623,.600,.100,.100,4.4,11.1,8.0,32.1,0.0,0.0,27.7,23.7,99,112,0.5
+2023-11-10,202311100SAC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202311100SAC.html,25:20,.680,.600,.600,.400,9.2,15.5,12.6,10.8,5.7,4.3,25.4,13.6,113,94,7.7
+2023-11-10,202311100SAC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202311100SAC.html,23:50,.571,.571,.714,.000,4.9,8.2,6.7,12.2,0.0,4.6,0.0,12.8,122,111,4.0
+2023-11-10,202311100SAC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202311100SAC.html,20:14,.500,.500,.889,.000,0.0,4.8,2.6,0.0,2.4,0.0,10.0,21.6,84,109,-0.7
+2023-11-10,202311100SAC,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202311100SAC.html,19:13,.000,.000,1.000,.000,0.0,0.0,0.0,12.8,0.0,0.0,0.0,4.5,47,117,-8.1
+2023-11-10,202311100SAC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202311100SAC.html,18:24,.174,.000,1.000,1.000,0.0,21.3,11.6,13.4,2.6,0.0,0.0,6.8,67,100,-3.5
+2023-11-10,202311100SAC,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202311100SAC.html,7:36,.000,.000,1.000,.000,0.0,12.9,7.0,16.2,0.0,0.0,0.0,5.7,47,110,-7.6
+2023-11-10,202311100SAC,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202311100SAC.html,40:12,.625,.559,.588,.294,9.7,20.4,14.6,4.2,3.6,2.1,13.5,22.6,118,95,6.7
+2023-11-10,202311100SAC,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202311100SAC.html,38:12,.482,.467,.000,.400,15.4,21.5,18.2,55.9,1.3,4.4,22.1,24.3,109,97,7.8
+2023-11-10,202311100SAC,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202311100SAC.html,33:55,.704,.684,.526,.105,0.0,31.1,14.2,12.6,4.2,2.5,9.1,26.4,127,92,13.4
+2023-11-10,202311100SAC,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202311100SAC.html,30:43,.410,.313,.875,.500,3.2,11.4,6.9,9.0,0.0,8.2,9.3,14.3,97,98,-2.2
+2023-11-10,202311100SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202311100SAC.html,26:14,.225,.125,.500,.250,7.5,8.9,8.1,5.1,0.0,0.0,10.1,15.4,66,106,-12.4
+2023-11-10,202311100SAC,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202311100SAC.html,28:40,.500,.500,.417,.000,0.0,8.2,3.7,45.2,1.7,0.0,14.3,20.0,111,102,2.0
+2023-11-10,202311100SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202311100SAC.html,16:33,.250,.250,1.000,.000,0.0,7.1,3.2,8.3,0.0,0.0,0.0,14.8,71,106,-11.1
+2023-11-10,202311100SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202311100SAC.html,9:40,.798,1.000,.000,2.000,30.4,36.3,33.1,0.0,0.0,17.4,51.5,16.4,89,86,-0.8
+2023-11-10,202311100SAC,SAC,Sasha Vezenkov,https://www.basketball-reference.com/boxscores/202311100SAC.html,8:24,1.000,1.000,1.000,.000,0.0,13.9,6.3,0.0,5.7,0.0,0.0,14.6,178,93,19.0
+2023-11-10,202311100SAC,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202311100SAC.html,4:38,.000,.000,1.000,.000,0.0,25.3,11.5,0.0,10.3,0.0,33.3,26.5,0,81,-26.4
+2023-11-10,202311100SAC,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202311100SAC.html,2:47,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,107,-6.6

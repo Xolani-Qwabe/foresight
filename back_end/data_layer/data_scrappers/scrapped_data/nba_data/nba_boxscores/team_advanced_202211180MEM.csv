@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-18,202211180MEM,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202211180MEM.html,36:50,.489,.500,.200,.050,2.7,12.5,7.8,44.8,0.0,2.4,12.8,27.6,102,123,-0.1
+2022-11-18,202211180MEM,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202211180MEM.html,33:52,.407,.389,.222,.056,3.0,13.6,8.5,23.3,0.0,2.6,9.8,26.1,87,122,-7.2
+2022-11-18,202211180MEM,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202211180MEM.html,33:33,.621,.583,.417,.167,0.0,16.5,8.6,27.5,2.8,0.0,7.2,17.9,126,116,3.9
+2022-11-18,202211180MEM,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202211180MEM.html,26:44,.250,.250,.250,.000,11.2,13.8,12.6,4.3,1.8,0.0,0.0,13.0,80,119,-11.8
+2022-11-18,202211180MEM,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202211180MEM.html,14:11,1.250,1.250,.500,.000,0.0,6.5,3.4,10.8,0.0,18.8,0.0,12.2,246,118,21.1
+2022-11-18,202211180MEM,OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202211180MEM.html,27:30,.709,.667,.222,.222,3.6,20.1,12.2,5.1,0.0,9.7,16.8,18.7,114,116,1.7
+2022-11-18,202211180MEM,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202211180MEM.html,20:51,.714,.714,.571,.000,9.6,13.3,11.5,32.2,0.0,0.0,12.5,16.6,139,123,5.8
+2022-11-18,202211180MEM,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202211180MEM.html,18:37,.444,.444,.889,.000,0.0,19.8,10.3,0.0,2.5,0.0,0.0,20.9,84,115,-6.1
+2022-11-18,202211180MEM,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202211180MEM.html,11:12,.500,.500,.200,.000,0.0,8.2,4.3,0.0,0.0,0.0,0.0,19.3,93,126,-8.0
+2022-11-18,202211180MEM,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202211180MEM.html,8:40,.333,.333,.667,.000,0.0,0.0,0.0,28.1,5.5,10.3,0.0,15.0,94,113,4.8
+2022-11-18,202211180MEM,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202211180MEM.html,8:00,.938,1.000,.000,5.000,0.0,0.0,0.0,0.0,0.0,0.0,23.8,22.7,141,129,-4.7
+2022-11-18,202211180MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202211180MEM.html,35:30,.368,.350,.450,.200,2.6,5.6,4.1,26.3,1.3,0.0,4.4,25.3,95,112,-5.0
+2022-11-18,202211180MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202211180MEM.html,32:01,.389,.250,.100,.500,5.8,15.6,10.5,52.3,0.0,2.4,7.6,32.5,108,111,1.0
+2022-11-18,202211180MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202211180MEM.html,28:51,.950,.950,.700,.000,3.2,31.2,16.6,12.2,0.0,2.7,9.1,15.1,164,107,15.5
+2022-11-18,202211180MEM,MEM,Steven Adams,https://www.basketball-reference.com/boxscores/202211180MEM.html,25:18,.630,1.000,.000,1.333,10.9,15.8,13.3,0.0,0.0,0.0,29.6,10.5,86,113,-6.7
+2022-11-18,202211180MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202211180MEM.html,24:54,.600,.531,.375,.688,18.5,28.1,23.1,0.0,3.8,9.3,8.8,36.2,123,93,12.0
+2022-11-18,202211180MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202211180MEM.html,23:10,.742,.643,.571,.571,4.0,4.3,4.1,33.7,0.0,3.3,10.2,16.6,155,112,7.2
+2022-11-18,202211180MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202211180MEM.html,23:06,.697,.611,.778,.444,8.0,21.6,14.5,6.8,0.0,0.0,0.0,18.4,158,112,8.0
+2022-11-18,202211180MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202211180MEM.html,22:42,.500,.500,.000,.000,0.0,22.0,10.6,0.0,2.1,3.4,0.0,3.5,107,104,-3.5
+2022-11-18,202211180MEM,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202211180MEM.html,15:00,.463,.333,.667,1.000,12.3,6.7,9.6,0.0,0.0,0.0,31.6,16.6,81,115,-11.3
+2022-11-18,202211180MEM,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202211180MEM.html,9:28,.333,.333,.667,.000,0.0,10.6,5.1,14.9,0.0,0.0,0.0,12.5,93,114,-9.1

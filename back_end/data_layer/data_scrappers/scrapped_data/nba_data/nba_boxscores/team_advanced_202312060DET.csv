@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-06,202312060DET,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202312060DET.html,35:42,.719,.677,.258,.226,3.1,14.9,9.2,50.1,1.3,4.8,8.1,44.9,139,102,19.6
+2023-12-06,202312060DET,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202312060DET.html,35:00,.563,.550,.300,.150,0.0,12.2,6.2,0.0,0.0,7.3,0.0,26.3,113,103,-3.2
+2023-12-06,202312060DET,MEM,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202312060DET.html,25:42,.333,.333,.000,.000,8.7,37.4,23.3,16.6,0.0,3.3,40.0,8.4,93,101,-4.0
+2023-12-06,202312060DET,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202312060DET.html,21:58,.515,.500,.667,.667,5.1,24.3,14.9,4.9,4.3,0.0,43.6,13.5,71,97,-6.9
+2023-12-06,202312060DET,MEM,Derrick Rose,https://www.basketball-reference.com/boxscores/202312060DET.html,15:29,.286,.286,.143,.000,0.0,6.9,3.5,15.2,6.1,0.0,41.7,33.5,42,96,-23.2
+2023-12-06,202312060DET,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202312060DET.html,26:05,.389,.389,.333,.000,12.8,0.0,6.3,13.3,1.8,3.3,10.0,16.6,101,105,-4.7
+2023-12-06,202312060DET,MEM,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202312060DET.html,25:57,.750,.750,.250,.000,0.0,8.2,4.2,20.6,1.8,0.0,0.0,13.3,160,106,3.3
+2023-12-06,202312060DET,MEM,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202312060DET.html,24:46,.750,.750,1.000,.000,0.0,17.2,8.8,4.3,1.9,0.0,0.0,3.5,157,104,-4.2
+2023-12-06,202312060DET,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202312060DET.html,21:44,.922,1.000,.500,.500,5.1,29.4,17.6,10.9,4.4,3.9,0.0,9.7,187,92,12.7
+2023-12-06,202312060DET,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202312060DET.html,6:32,.250,.250,.000,.000,17.1,0.0,8.3,18.5,0.0,0.0,0.0,26.4,83,112,-14.7
+2023-12-06,202312060DET,MEM,Jacob Gilyard,https://www.basketball-reference.com/boxscores/202312060DET.html,0:20,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-13.2
+2023-12-06,202312060DET,MEM,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202312060DET.html,0:20,,,,,0.0,100.0,100.0,0.0,0.0,0.0,,0.0,0,44,11.0
+2023-12-06,202312060DET,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202312060DET.html,0:20,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-10.4
+2023-12-06,202312060DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202312060DET.html,34:01,.522,.464,.357,.214,0.0,13.1,6.4,43.4,2.8,2.2,24.6,25.8,96,113,-1.8
+2023-12-06,202312060DET,DET,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202312060DET.html,32:04,.693,.667,.533,.133,0.0,13.9,6.8,36.1,4.4,0.0,11.2,24.1,127,111,11.6
+2023-12-06,202312060DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202312060DET.html,30:08,.683,.667,.000,.083,3.5,37.0,19.9,0.0,0.0,2.5,13.9,20.7,109,114,-3.1
+2023-12-06,202312060DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202312060DET.html,27:57,.571,.500,.429,.286,7.6,20.0,13.7,4.8,0.0,0.0,11.3,13.7,112,120,-8.6
+2023-12-06,202312060DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202312060DET.html,27:06,.446,.423,.231,.077,7.9,8.2,8.1,22.0,1.8,0.0,18.2,26.2,87,118,-9.2
+2023-12-06,202312060DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202312060DET.html,23:45,.563,.563,.375,.000,0.0,14.1,6.9,12.3,6.0,6.2,11.1,16.4,101,102,5.5
+2023-12-06,202312060DET,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202312060DET.html,18:39,.500,.500,.800,.000,0.0,6.0,2.9,7.2,0.0,0.0,0.0,11.6,104,122,-8.1
+2023-12-06,202312060DET,DET,Alec Burks,https://www.basketball-reference.com/boxscores/202312060DET.html,17:06,.250,.250,.833,.000,0.0,13.1,6.4,14.7,0.0,0.0,14.3,17.7,58,121,-15.3
+2023-12-06,202312060DET,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202312060DET.html,16:07,.417,.417,.667,.000,13.2,13.9,13.5,0.0,0.0,0.0,0.0,16.1,98,121,-8.4
+2023-12-06,202312060DET,DET,James Wiseman,https://www.basketball-reference.com/boxscores/202312060DET.html,7:56,.667,.667,.000,.000,13.4,0.0,6.9,20.9,0.0,18.6,25.0,21.8,107,107,0.8
+2023-12-06,202312060DET,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202312060DET.html,5:10,.000,.000,.000,.000,0.0,21.6,10.6,45.3,0.0,0.0,0.0,16.7,53,119,-17.3

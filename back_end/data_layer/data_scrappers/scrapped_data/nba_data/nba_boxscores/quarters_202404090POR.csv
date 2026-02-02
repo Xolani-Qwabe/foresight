@@ -1,0 +1,68 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-04-09,202404090POR,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404090POR.html,9.07,1,3,.333,0,2,.000,0,0,0,2,2,1,1,0,0,0,2,2.6,+4,
+2024-04-09,202404090POR,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,0,1,.000,0,0,,2,2,0,1,1,1,0,0,0,1,2,1.9,+1,1.000
+2024-04-09,202404090POR,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202404090POR.html,9.57,5,8,.625,2,4,.500,0,0,0,2,2,0,0,0,0,0,12,9.0,0,
+2024-04-09,202404090POR,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202404090POR.html,9.27,2,4,.500,0,0,,5,5,0,2,2,1,0,0,1,0,9,7.3,+4,1.000
+2024-04-09,202404090POR,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404090POR.html,5.7,1,3,.333,0,2,.000,1,2,0,0,0,0,1,0,0,0,3,1.9,+4,.500
+2024-04-09,202404090POR,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404090POR.html,2.73,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2024-04-09,202404090POR,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404090POR.html,5.37,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,2,0,-1.5,-2,
+2024-04-09,202404090POR,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202404090POR.html,6.3,0,0,,0,0,,0,0,1,0,1,1,1,0,1,0,0,1.4,-3,
+2024-04-09,202404090POR,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404090POR.html,11.3,3,6,.500,2,4,.500,2,2,1,0,1,1,1,0,0,0,10,9.4,+1,1.000
+2024-04-09,202404090POR,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202404090POR.html,8.52,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+6,
+2024-04-09,202404090POR,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202404090POR.html,9.22,2,5,.400,1,2,.500,0,0,1,1,2,2,0,0,0,0,5,4.7,+1,
+2024-04-09,202404090POR,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202404090POR.html,8.77,1,3,.333,0,0,,0,0,1,1,2,1,0,0,0,0,2,2.0,-5,
+2024-04-09,202404090POR,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404090POR.html,3.23,1,4,.250,0,0,,0,0,0,2,2,1,0,0,0,0,2,0.9,+1,
+2024-04-09,202404090POR,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,1,2,.500,0,1,.000,0,0,0,3,3,3,0,0,1,0,2,3.0,-4,
+2024-04-09,202404090POR,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404090POR.html,3.48,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-10,
+2024-04-09,202404090POR,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202404090POR.html,3.48,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,0,0,0.3,-10,
+2024-04-09,202404090POR,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,5,7,.714,3,5,.600,4,4,0,4,4,1,0,0,0,1,17,15.6,+12,1.000
+2024-04-09,202404090POR,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202404090POR.html,9.52,0,2,.000,0,2,.000,0,0,2,0,2,1,1,0,0,1,0,1.3,+12,
+2024-04-09,202404090POR,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202404090POR.html,9.52,2,3,.667,2,3,.667,2,2,0,1,1,1,2,0,1,0,8,8.7,+12,1.000
+2024-04-09,202404090POR,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202404090POR.html,9.88,2,7,.286,0,0,,0,0,1,1,2,1,0,0,1,1,4,0.2,+6,
+2024-04-09,202404090POR,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404090POR.html,9.52,2,4,.500,0,0,,0,0,2,2,4,4,1,0,0,0,4,7.8,+12,
+2024-04-09,202404090POR,NOP,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404090POR.html,2.48,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,0,
+2024-04-09,202404090POR,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404090POR.html,4.6,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,+6,
+2024-04-09,202404090POR,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202404090POR.html,2.48,0,1,.000,0,1,.000,0,0,1,0,1,0,0,0,0,0,0,0.0,0,
+2024-04-09,202404090POR,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404090POR.html,5.5,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,0,0,2,1.6,+5,1.000
+2024-04-09,202404090POR,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202404090POR.html,7.75,0,1,.000,0,1,.000,2,2,0,1,1,0,1,0,1,0,2,1.6,+10,1.000
+2024-04-09,202404090POR,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202404090POR.html,5.5,1,3,.333,0,1,.000,2,2,0,0,0,0,0,0,0,0,4,2.3,+5,1.000
+2024-04-09,202404090POR,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202404090POR.html,5.3,2,4,.500,0,0,,3,4,0,1,1,0,1,1,0,0,7,6.6,+6,.750
+2024-04-09,202404090POR,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404090POR.html,2.37,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,2,2.3,+1,
+2024-04-09,202404090POR,NOP,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404090POR.html,10.87,1,2,.500,0,0,,0,0,0,3,3,1,1,1,2,1,2,1.9,+1,
+2024-04-09,202404090POR,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404090POR.html,6.23,0,1,.000,0,1,.000,0,0,0,0,0,1,1,0,0,0,0,1.0,+7,
+2024-04-09,202404090POR,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202404090POR.html,7.3,0,0,,0,0,,2,2,2,0,2,1,0,0,0,0,2,4.1,+10,1.000
+2024-04-09,202404090POR,NOP,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202404090POR.html,2.33,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-10,
+2024-04-09,202404090POR,NOP,Q4,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202404090POR.html,2.33,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-2.4,-10,
+2024-04-09,202404090POR,NOP,Q4,Matt Ryan,https://www.basketball-reference.com/boxscores/202404090POR.html,2.33,0,0,,0,0,,0,0,0,1,1,1,0,0,0,1,0,0.6,-10,
+2024-04-09,202404090POR,NOP,Q4,Cody Zeller,https://www.basketball-reference.com/boxscores/202404090POR.html,2.18,0,1,.000,0,0,,0,0,1,1,2,0,0,0,0,1,0,-0.1,-10,
+2024-04-09,202404090POR,POR,Q1,Scoot Henderson,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,3,5,.600,1,3,.333,0,0,0,0,0,6,1,0,2,1,7,7.5,-1,
+2024-04-09,202404090POR,POR,Q1,Kris Murray,https://www.basketball-reference.com/boxscores/202404090POR.html,5.7,0,1,.000,0,1,.000,0,0,1,1,2,2,0,0,1,0,0,0.7,-4,
+2024-04-09,202404090POR,POR,Q1,Deandre Ayton,https://www.basketball-reference.com/boxscores/202404090POR.html,8.25,5,7,.714,0,0,,0,0,0,2,2,0,0,0,1,2,10,5.9,-1,
+2024-04-09,202404090POR,POR,Q1,Rayan Rupert,https://www.basketball-reference.com/boxscores/202404090POR.html,8.25,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,1,3,1.6,-1,
+2024-04-09,202404090POR,POR,Q1,Jabari Walker,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,1,2,.500,0,1,.000,0,0,2,4,6,0,0,0,1,1,2,2.2,-1,
+2024-04-09,202404090POR,POR,Q1,Dalano Banton,https://www.basketball-reference.com/boxscores/202404090POR.html,6.3,0,2,.000,0,2,.000,0,0,0,1,1,1,0,0,1,0,0,-1.4,+3,
+2024-04-09,202404090POR,POR,Q1,Justin Minaya,https://www.basketball-reference.com/boxscores/202404090POR.html,3.75,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-04-09,202404090POR,POR,Q1,Duop Reath,https://www.basketball-reference.com/boxscores/202404090POR.html,3.75,2,3,.667,1,2,.500,0,0,0,0,0,0,0,0,0,0,5,3.7,0,
+2024-04-09,202404090POR,POR,Q2,Scoot Henderson,https://www.basketball-reference.com/boxscores/202404090POR.html,8.52,2,3,.667,1,2,.500,0,0,0,0,0,4,0,0,1,0,5,5.5,-6,
+2024-04-09,202404090POR,POR,Q2,Kris Murray,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,2,3,.667,2,2,1.000,0,0,1,0,1,0,0,0,0,0,6,5.4,+4,
+2024-04-09,202404090POR,POR,Q2,Deandre Ayton,https://www.basketball-reference.com/boxscores/202404090POR.html,8.4,5,5,1.000,0,0,,0,0,0,4,4,1,0,0,0,0,10,10.4,-4,
+2024-04-09,202404090POR,POR,Q2,Rayan Rupert,https://www.basketball-reference.com/boxscores/202404090POR.html,9.95,0,2,.000,0,1,.000,0,0,0,4,4,1,0,0,0,0,0,0.5,+4,
+2024-04-09,202404090POR,POR,Q2,Jabari Walker,https://www.basketball-reference.com/boxscores/202404090POR.html,3.35,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-3,
+2024-04-09,202404090POR,POR,Q2,Dalano Banton,https://www.basketball-reference.com/boxscores/202404090POR.html,5.53,2,3,.667,0,1,.000,0,0,0,1,1,2,0,0,1,0,4,3.4,+10,
+2024-04-09,202404090POR,POR,Q2,Justin Minaya,https://www.basketball-reference.com/boxscores/202404090POR.html,8.77,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,0,2,3,1.5,+5,
+2024-04-09,202404090POR,POR,Q2,Duop Reath,https://www.basketball-reference.com/boxscores/202404090POR.html,3.48,0,2,.000,0,0,,0,0,1,0,1,1,0,0,0,0,0,0.0,+10,
+2024-04-09,202404090POR,POR,Q3,Scoot Henderson,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,2,5,.400,0,2,.000,3,3,1,0,1,4,0,0,3,1,7,4.4,-12,1.000
+2024-04-09,202404090POR,POR,Q3,Kris Murray,https://www.basketball-reference.com/boxscores/202404090POR.html,9.52,1,1,1.000,1,1,1.000,2,2,1,0,1,0,0,2,1,2,5,5.0,-12,1.000
+2024-04-09,202404090POR,POR,Q3,Deandre Ayton,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,3,8,.375,0,1,.000,0,0,1,3,4,0,1,0,1,0,6,3.2,-12,
+2024-04-09,202404090POR,POR,Q3,Rayan Rupert,https://www.basketball-reference.com/boxscores/202404090POR.html,4.53,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2024-04-09,202404090POR,POR,Q3,Jabari Walker,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,1,2,.500,0,0,,0,0,0,3,3,0,0,0,0,1,2,1.5,-12,
+2024-04-09,202404090POR,POR,Q3,Dalano Banton,https://www.basketball-reference.com/boxscores/202404090POR.html,7.47,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,1,0,3,1.3,-7,
+2024-04-09,202404090POR,POR,Q3,Justin Minaya,https://www.basketball-reference.com/boxscores/202404090POR.html,2.48,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,0,
+2024-04-09,202404090POR,POR,Q4,Scoot Henderson,https://www.basketball-reference.com/boxscores/202404090POR.html,8.02,0,5,.000,0,3,.000,0,0,1,1,2,1,0,0,2,2,0,-4.6,-12,
+2024-04-09,202404090POR,POR,Q4,Kris Murray,https://www.basketball-reference.com/boxscores/202404090POR.html,10.1,1,3,.333,1,2,.500,0,0,0,1,1,0,1,0,2,3,3,-0.6,+4,
+2024-04-09,202404090POR,POR,Q4,Deandre Ayton,https://www.basketball-reference.com/boxscores/202404090POR.html,7.02,2,2,1.000,0,0,,0,0,2,1,3,0,0,0,1,0,4,4.1,-9,
+2024-04-09,202404090POR,POR,Q4,Rayan Rupert,https://www.basketball-reference.com/boxscores/202404090POR.html,10.48,1,5,.200,1,3,.333,0,0,0,0,0,3,0,0,1,0,3,1.0,+3,
+2024-04-09,202404090POR,POR,Q4,Jabari Walker,https://www.basketball-reference.com/boxscores/202404090POR.html,0.9,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2024-04-09,202404090POR,POR,Q4,Dalano Banton,https://www.basketball-reference.com/boxscores/202404090POR.html,12.0,1,4,.250,1,4,.250,2,2,0,0,0,0,0,1,1,1,5,1.9,-1,1.000
+2024-04-09,202404090POR,POR,Q4,Justin Minaya,https://www.basketball-reference.com/boxscores/202404090POR.html,6.5,0,1,.000,0,0,,0,0,1,1,2,1,0,0,0,0,0,1.0,+4,
+2024-04-09,202404090POR,POR,Q4,Duop Reath,https://www.basketball-reference.com/boxscores/202404090POR.html,4.98,3,3,1.000,1,1,1.000,0,1,1,3,4,0,0,0,0,2,7,6.5,+8,.000

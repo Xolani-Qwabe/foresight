@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-27,202103270OKC,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202103270OKC.html,38:03,.492,.481,.444,.037,0.0,12.1,6.2,12.6,1.3,0.0,3.5,31.4,101,98,0.8
+2021-03-27,202103270OKC,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202103270OKC.html,37:50,.481,.500,.571,.429,0.0,4.9,2.5,25.3,2.5,0.0,10.7,10.4,115,97,-0.4
+2021-03-27,202103270OKC,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202103270OKC.html,29:50,.505,.457,.435,.174,3.2,6.2,4.7,0.0,0.0,0.0,13.9,40.5,88,102,-9.0
+2021-03-27,202103270OKC,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202103270OKC.html,25:58,.589,.400,.000,1.200,18.5,32.0,25.4,9.2,3.7,8.2,11.6,14.0,136,81,6.0
+2021-03-27,202103270OKC,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202103270OKC.html,25:15,.333,.333,.667,.000,0.0,25.6,13.0,9.0,3.8,4.2,25.0,6.7,72,85,-1.7
+2021-03-27,202103270OKC,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202103270OKC.html,23:12,.600,.600,.100,.000,4.1,23.9,14.2,13.1,2.1,0.0,0.0,18.1,130,92,2.6
+2021-03-27,202103270OKC,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202103270OKC.html,16:16,.750,.750,.375,.000,0.0,5.7,2.9,0.0,0.0,0.0,11.1,23.3,122,102,2.3
+2021-03-27,202103270OKC,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202103270OKC.html,16:16,.333,.333,.667,.000,0.0,11.3,5.8,14.4,5.9,6.6,40.0,12.9,58,84,0.4
+2021-03-27,202103270OKC,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202103270OKC.html,13:12,.800,.800,.600,.000,14.5,21.0,17.8,11.0,0.0,0.0,16.7,19.1,139,98,7.8
+2021-03-27,202103270OKC,BOS,Moritz Wagner,https://www.basketball-reference.com/boxscores/202103270OKC.html,6:49,.333,.333,.333,.000,0.0,13.5,6.9,19.1,0.0,0.0,0.0,18.5,85,98,-9.0
+2021-03-27,202103270OKC,BOS,Tacko Fall,https://www.basketball-reference.com/boxscores/202103270OKC.html,6:02,1.000,1.000,.000,.000,15.9,61.2,39.0,0.0,0.0,0.0,0.0,13.9,205,86,14.0
+2021-03-27,202103270OKC,BOS,Tremont Waters,https://www.basketball-reference.com/boxscores/202103270OKC.html,1:17,,,,,0.0,0.0,0.0,85.0,0.0,0.0,,0.0,227,105,9.8
+2021-03-27,202103270OKC,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202103270OKC.html,37:07,.619,.563,.625,.250,2.5,18.1,10.1,20.7,2.6,0.0,10.1,23.3,120,108,4.9
+2021-03-27,202103270OKC,OKC,Moses Brown,https://www.basketball-reference.com/boxscores/202103270OKC.html,32:44,.777,.800,.000,.800,16.9,49.9,33.1,0.0,0.0,0.0,12.9,20.8,142,106,5.9
+2021-03-27,202103270OKC,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202103270OKC.html,31:03,.368,.300,.400,.200,0.0,6.2,3.0,26.3,1.5,2.7,21.6,19.6,76,111,-5.6
+2021-03-27,202103270OKC,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202103270OKC.html,27:14,.296,.200,.400,.800,6.8,17.6,12.1,5.5,0.0,3.0,22.8,14.1,65,111,-12.2
+2021-03-27,202103270OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202103270OKC.html,16:11,.500,.500,.500,.000,0.0,11.9,5.8,0.0,0.0,5.1,9.1,29.8,88,111,-3.1
+2021-03-27,202103270OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202103270OKC.html,29:42,.667,.667,.444,.000,0.0,3.2,1.6,12.5,3.2,2.8,10.0,14.8,122,108,2.0
+2021-03-27,202103270OKC,OKC,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202103270OKC.html,23:54,.273,.273,.636,.000,3.9,4.0,3.9,13.4,2.0,0.0,8.3,22.0,65,113,-9.3
+2021-03-27,202103270OKC,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202103270OKC.html,21:41,.500,.500,.429,.000,0.0,0.0,0.0,8.1,2.2,0.0,30.0,20.2,70,114,-10.2
+2021-03-27,202103270OKC,OKC,Josh Hall,https://www.basketball-reference.com/boxscores/202103270OKC.html,20:24,.262,.200,.600,1.200,0.0,23.5,11.5,7.4,0.0,0.0,11.6,18.6,55,112,-14.4

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-25,202110250IND,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202110250IND.html,36:16,.632,.556,.111,.722,3.2,25.3,14.9,42.9,1.3,4.9,7.8,30.5,132,105,12.2
+2021-10-25,202110250IND,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202110250IND.html,32:01,.658,.588,.176,.471,3.6,12.8,8.4,38.2,1.5,2.8,19.6,34.3,116,110,5.6
+2021-10-25,202110250IND,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202110250IND.html,31:45,.720,.636,.818,.455,0.0,12.9,6.8,0.0,1.5,2.8,7.0,19.2,131,109,1.8
+2021-10-25,202110250IND,MIL,George Hill,https://www.basketball-reference.com/boxscores/202110250IND.html,26:32,.429,.429,.286,.000,0.0,19.2,10.2,15.3,3.5,0.0,0.0,11.3,104,104,-4.4
+2021-10-25,202110250IND,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202110250IND.html,19:23,.800,.800,.000,.000,5.9,10.5,8.3,0.0,4.8,0.0,28.6,15.5,106,104,-4.4
+2021-10-25,202110250IND,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202110250IND.html,31:55,.630,.611,.778,.333,7.2,16.0,11.8,8.6,1.5,0.0,8.8,15.2,125,110,1.2
+2021-10-25,202110250IND,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202110250IND.html,23:19,.507,.438,.500,.250,4.9,13.1,9.3,17.7,0.0,7.6,0.0,16.4,122,110,1.6
+2021-10-25,202110250IND,MIL,Justin Robinson,https://www.basketball-reference.com/boxscores/202110250IND.html,18:20,.167,.167,.333,.000,0.0,0.0,0.0,0.0,10.2,0.0,25.0,18.8,26,95,-9.1
+2021-10-25,202110250IND,MIL,Rodney Hood,https://www.basketball-reference.com/boxscores/202110250IND.html,10:03,.750,.750,1.000,.000,0.0,10.2,5.4,0.0,4.7,0.0,0.0,8.6,139,105,1.0
+2021-10-25,202110250IND,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202110250IND.html,9:53,.500,.500,.500,.000,11.6,20.7,16.4,0.0,0.0,0.0,0.0,8.7,123,112,-5.6
+2021-10-25,202110250IND,MIL,Georgios Kalaitzakis,https://www.basketball-reference.com/boxscores/202110250IND.html,0:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-7.4
+2021-10-25,202110250IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202110250IND.html,37:52,.667,.667,1.000,.000,0.0,9.1,4.3,3.6,3.7,0.0,10.0,10.9,120,112,3.4
+2021-10-25,202110250IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202110250IND.html,37:27,.671,.615,.154,.462,5.5,33.6,18.7,21.5,1.3,0.0,16.1,20.5,126,114,5.3
+2021-10-25,202110250IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202110250IND.html,37:22,.549,.524,.190,.190,0.0,12.2,5.8,33.1,0.0,0.0,23.5,32.8,94,120,-4.7
+2021-10-25,202110250IND,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202110250IND.html,33:27,.533,.500,.313,.125,0.0,17.1,8.1,4.8,0.0,0.0,5.6,22.0,107,119,-3.0
+2021-10-25,202110250IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202110250IND.html,14:05,.500,.500,.800,.000,14.5,16.2,15.3,10.3,0.0,6.4,28.6,20.5,88,114,-5.9
+2021-10-25,202110250IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202110250IND.html,22:44,.250,.250,.667,.000,4.5,25.1,14.2,11.1,0.0,0.0,14.3,12.7,70,118,-7.1
+2021-10-25,202110250IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202110250IND.html,17:51,.700,.700,.200,.000,0.0,6.4,3.0,25.3,0.0,0.0,28.6,16.2,109,121,-2.8
+2021-10-25,202110250IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202110250IND.html,17:39,.394,.313,.375,.250,40.5,13.0,27.5,7.9,5.3,0.0,18.4,25.4,101,108,-4.8
+2021-10-25,202110250IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202110250IND.html,15:05,.661,.571,.571,.429,0.0,7.6,3.6,20.9,0.0,0.0,0.0,22.7,148,121,10.1
+2021-10-25,202110250IND,IND,Torrey Craig,https://www.basketball-reference.com/boxscores/202110250IND.html,6:28,,,,,0.0,17.7,8.3,0.0,0.0,0.0,,0.0,0,119,-7.0

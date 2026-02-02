@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-03,202105030MEM,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202105030MEM.html,38:14,.556,.500,.348,.217,0.0,15.1,8.3,22.4,1.3,0.0,3.8,31.4,121,113,5.8
+2021-05-03,202105030MEM,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202105030MEM.html,34:00,.512,.458,.083,.500,6.9,14.1,10.9,11.2,0.0,0.0,0.0,19.7,123,116,-0.8
+2021-05-03,202105030MEM,NYK,Reggie Bullock,https://www.basketball-reference.com/boxscores/202105030MEM.html,33:33,.630,.556,.667,.333,3.5,11.4,7.9,3.6,1.5,0.0,8.8,15.4,125,114,-1.4
+2021-05-03,202105030MEM,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202105030MEM.html,33:25,.600,.600,.200,.000,17.5,20.1,18.9,7.1,0.0,16.0,16.7,8.2,142,105,3.4
+2021-05-03,202105030MEM,NYK,Elfrid Payton,https://www.basketball-reference.com/boxscores/202105030MEM.html,17:55,.563,.500,.125,.250,0.0,26.8,14.7,15.6,5.7,0.0,18.4,27.8,101,97,0.3
+2021-05-03,202105030MEM,NYK,Derrick Rose,https://www.basketball-reference.com/boxscores/202105030MEM.html,26:37,.833,.833,.333,.000,0.0,7.2,4.0,14.3,1.9,0.0,6.3,27.5,153,115,13.7
+2021-05-03,202105030MEM,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202105030MEM.html,16:09,.667,.667,.500,.000,0.0,5.9,3.3,0.0,0.0,0.0,25.0,22.7,93,120,-9.4
+2021-05-03,202105030MEM,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202105030MEM.html,15:45,.571,.643,.143,.286,0.0,12.2,6.7,18.6,0.0,0.0,0.0,22.9,123,117,1.7
+2021-05-03,202105030MEM,NYK,Norvel Pelle,https://www.basketball-reference.com/boxscores/202105030MEM.html,14:35,1.000,1.000,.000,.000,0.0,13.2,7.2,7.9,0.0,21.9,0.0,3.1,208,105,6.6
+2021-05-03,202105030MEM,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202105030MEM.html,9:46,.333,.333,.333,.000,0.0,29.5,16.2,0.0,5.2,0.0,0.0,14.1,71,96,-7.0
+2021-05-03,202105030MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202105030MEM.html,37:33,.254,.143,.286,.286,2.6,12.5,7.0,24.4,0.0,0.0,16.0,22.1,70,131,-16.3
+2021-05-03,202105030MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202105030MEM.html,35:23,.578,.553,.474,.316,2.7,0.0,1.5,5.9,2.9,0.0,0.0,27.0,120,126,2.4
+2021-05-03,202105030MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202105030MEM.html,34:57,.590,.500,.000,.375,19.2,30.1,24.1,4.8,0.0,6.6,17.7,14.3,124,121,-2.3
+2021-05-03,202105030MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202105030MEM.html,31:56,.500,.500,.692,.000,0.0,22.0,9.9,39.7,1.6,2.4,7.1,19.4,114,123,4.0
+2021-05-03,202105030MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202105030MEM.html,26:28,.170,.000,.800,.400,3.6,17.7,10.0,26.7,1.9,0.0,0.0,9.8,93,125,-4.8
+2021-05-03,202105030MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202105030MEM.html,26:14,.846,.846,.538,.000,7.3,26.8,16.1,20.9,5.8,0.0,13.3,25.3,135,115,18.1
+2021-05-03,202105030MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202105030MEM.html,19:57,.705,.625,.500,.750,0.0,17.6,7.9,0.0,0.0,0.0,8.6,25.8,127,130,1.6
+2021-05-03,202105030MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202105030MEM.html,9:25,1.078,1.500,1.000,3.000,0.0,12.4,5.6,35.3,0.0,0.0,0.0,10.9,215,131,11.0
+2021-05-03,202105030MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202105030MEM.html,9:09,.000,.000,.000,.000,0.0,0.0,0.0,30.9,0.0,0.0,0.0,4.8,96,133,-6.4
+2021-05-03,202105030MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202105030MEM.html,8:57,.375,.375,.750,.000,10.7,0.0,5.9,0.0,0.0,0.0,42.9,34.6,47,133,-27.3

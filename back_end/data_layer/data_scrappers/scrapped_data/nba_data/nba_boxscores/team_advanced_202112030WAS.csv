@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-03,202112030WAS,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202112030WAS.html,36:50,.746,.765,.000,.235,11.6,27.9,19.5,10.4,1.4,5.1,13.8,24.9,130,100,9.1
+2021-12-03,202112030WAS,CLE,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202112030WAS.html,36:04,.519,.500,.857,.071,3.0,15.8,9.2,7.5,0.0,0.0,0.0,16.9,123,110,1.0
+2021-12-03,202112030WAS,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202112030WAS.html,35:59,.250,.250,.083,.000,8.9,12.7,10.7,14.0,0.0,7.8,7.7,15.2,84,102,-5.3
+2021-12-03,202112030WAS,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202112030WAS.html,34:15,.833,.794,.353,.294,3.1,23.4,12.9,52.7,1.5,0.0,26.7,32.2,128,105,12.5
+2021-12-03,202112030WAS,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202112030WAS.html,29:03,.602,.375,.500,1.500,3.7,11.8,7.6,8.2,0.0,0.0,13.1,11.1,130,110,-2.0
+2021-12-03,202112030WAS,CLE,Ricky Rubio,https://www.basketball-reference.com/boxscores/202112030WAS.html,28:51,.306,.318,.273,.091,0.0,15.8,7.6,27.0,0.0,0.0,0.0,16.7,98,110,-6.3
+2021-12-03,202112030WAS,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202112030WAS.html,17:34,.604,.500,.444,.444,24.3,32.5,28.3,17.6,0.0,0.0,0.0,25.8,151,108,12.3
+2021-12-03,202112030WAS,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202112030WAS.html,12:48,.420,.333,.000,1.333,8.3,8.9,8.6,9.8,0.0,0.0,17.4,18.9,91,110,-9.5
+2021-12-03,202112030WAS,CLE,Ed Davis,https://www.basketball-reference.com/boxscores/202112030WAS.html,2:09,,,,,0.0,53.2,25.7,0.0,0.0,0.0,,0.0,0,106,-9.0
+2021-12-03,202112030WAS,CLE,Kevin Pangos,https://www.basketball-reference.com/boxscores/202112030WAS.html,2:09,,,,,0.0,0.0,0.0,53.2,0.0,0.0,,0.0,231,111,7.4
+2021-12-03,202112030WAS,CLE,Denzel Valentine,https://www.basketball-reference.com/boxscores/202112030WAS.html,2:09,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,39.2,0,111,-48.5
+2021-12-03,202112030WAS,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202112030WAS.html,2:09,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.6,300,110,35.2
+2021-12-03,202112030WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202112030WAS.html,26:59,.373,.353,.176,.235,4.2,7.9,6.1,6.5,0.0,3.0,5.1,35.7,75,125,-11.1
+2021-12-03,202112030WAS,WAS,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202112030WAS.html,26:28,.417,.417,.667,.000,0.0,4.0,2.1,21.1,0.0,0.0,14.3,12.9,90,128,-8.4
+2021-12-03,202112030WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202112030WAS.html,23:13,.551,.500,.600,.200,0.0,18.4,9.5,20.9,0.0,0.0,8.4,25.0,106,123,1.8
+2021-12-03,202112030WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202112030WAS.html,22:43,.667,.667,.000,.000,0.0,28.2,14.6,6.3,2.2,3.6,25.0,8.6,99,112,-4.0
+2021-12-03,202112030WAS,WAS,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202112030WAS.html,19:58,.250,.250,.375,.000,0.0,16.0,8.3,14.5,2.5,0.0,11.1,22.0,55,118,-12.8
+2021-12-03,202112030WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202112030WAS.html,22:48,.766,.750,.600,.100,0.0,14.0,7.3,0.0,0.0,3.6,0.0,22.3,139,122,7.4
+2021-12-03,202112030WAS,WAS,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202112030WAS.html,22:15,.608,.500,.250,1.000,5.1,33.6,19.8,6.4,0.0,3.7,25.8,17.0,100,115,-6.1
+2021-12-03,202112030WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202112030WAS.html,21:32,.722,.722,.222,.000,5.3,5.0,5.1,36.2,2.3,0.0,0.0,20.4,151,123,10.4
+2021-12-03,202112030WAS,WAS,Aaron Holiday,https://www.basketball-reference.com/boxscores/202112030WAS.html,21:01,.799,.750,.167,.333,0.0,10.2,5.3,31.7,0.0,0.0,0.0,16.0,167,126,7.4
+2021-12-03,202112030WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202112030WAS.html,20:43,.621,.667,.667,.167,0.0,0.0,0.0,7.5,4.9,0.0,13.4,17.5,100,118,-1.2
+2021-12-03,202112030WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202112030WAS.html,7:06,.579,.333,.333,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.7,120,130,-2.9
+2021-12-03,202112030WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202112030WAS.html,5:14,1.136,,,,0.0,20.4,10.5,0.0,0.0,0.0,0.0,8.2,250,122,2.5

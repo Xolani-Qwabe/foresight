@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-08,201911080DAL,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/201911080DAL.html,40:53,.588,.545,.364,.273,6.5,14.4,10.3,13.9,1.2,0.0,7.5,27.3,121,105,5.6
+2019-11-08,201911080DAL,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201911080DAL.html,37:33,.583,.583,.417,.000,4.7,10.4,7.4,16.7,5.1,8.3,7.7,14.5,126,90,11.3
+2019-11-08,201911080DAL,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/201911080DAL.html,36:11,.538,.500,.500,.500,2.5,19.0,10.3,19.1,1.3,0.0,17.0,27.2,100,103,0.2
+2019-11-08,201911080DAL,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/201911080DAL.html,34:55,.129,.111,.111,.667,0.0,22.4,10.7,15.4,0.0,0.0,7.9,15.2,46,106,-13.5
+2019-11-08,201911080DAL,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/201911080DAL.html,27:41,.773,.833,.000,.667,12.8,14.2,13.5,6.1,1.7,0.0,11.4,13.2,147,103,1.5
+2019-11-08,201911080DAL,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/201911080DAL.html,24:27,.407,.367,.200,.333,14.5,32.1,22.9,7.2,2.0,0.0,5.5,31.2,95,99,-1.0
+2019-11-08,201911080DAL,NYK,Allonzo Trier,https://www.basketball-reference.com/boxscores/201911080DAL.html,16:49,.515,.333,.000,.667,0.0,5.8,2.8,16.7,2.8,0.0,20.5,12.2,103,102,-6.5
+2019-11-08,201911080DAL,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/201911080DAL.html,14:48,.750,.750,.500,.000,0.0,19.9,9.4,0.0,0.0,0.0,0.0,11.3,148,106,3.6
+2019-11-08,201911080DAL,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/201911080DAL.html,6:43,.750,.750,.500,.000,0.0,14.6,6.9,0.0,0.0,0.0,33.3,18.7,87,107,-6.2
+2019-11-08,201911080DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201911080DAL.html,35:35,.600,.591,.364,.136,0.0,22.5,11.8,0.0,0.0,11.1,4.1,29.7,110,97,7.2
+2019-11-08,201911080DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/201911080DAL.html,35:13,.634,.558,.423,.346,2.8,32.8,18.5,70.7,0.0,0.0,21.1,46.8,111,101,11.0
+2019-11-08,201911080DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/201911080DAL.html,27:15,.266,.000,.000,2.000,7.2,9.8,8.6,0.0,1.8,0.0,0.0,3.0,108,106,-5.9
+2019-11-08,201911080DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201911080DAL.html,21:42,.375,.375,1.000,.000,4.5,8.2,6.4,6.4,0.0,0.0,0.0,8.0,98,112,-4.0
+2019-11-08,201911080DAL,DAL,Courtney Lee,https://www.basketball-reference.com/boxscores/201911080DAL.html,4:39,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.7,97,116,-4.7
+2019-11-08,201911080DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911080DAL.html,29:29,.667,.667,.833,.000,3.3,12.1,7.9,0.0,1.6,0.0,0.0,8.8,134,107,1.3
+2019-11-08,201911080DAL,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/201911080DAL.html,25:45,.200,.200,.400,.000,3.8,10.4,7.2,10.6,0.0,3.1,16.7,10.1,61,109,-7.7
+2019-11-08,201911080DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201911080DAL.html,23:48,.441,.433,.667,.133,0.0,7.5,3.9,7.5,0.0,0.0,5.9,30.8,84,112,-4.7
+2019-11-08,201911080DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911080DAL.html,16:14,.338,.250,.500,.250,0.0,16.4,8.6,34.7,2.9,0.0,31.1,17.2,74,102,-3.4
+2019-11-08,201911080DAL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/201911080DAL.html,12:42,,,,,0.0,0.0,0.0,0.0,3.8,0.0,,0.0,0,104,-7.9
+2019-11-08,201911080DAL,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/201911080DAL.html,7:38,.300,.300,.400,.000,12.8,11.6,12.2,0.0,0.0,0.0,0.0,28.5,73,111,-8.4

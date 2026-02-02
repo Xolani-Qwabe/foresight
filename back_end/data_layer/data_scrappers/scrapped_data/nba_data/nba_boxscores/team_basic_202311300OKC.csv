@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-30,202311300OKC,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202311300OKC.html,35.98,11,18,.611,0,1,.000,9,10,.900,1,13,14,2,2,0,0,1,31,30.0,-12
+2023-11-30,202311300OKC,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202311300OKC.html,35.05,7,12,.583,4,8,.500,3,4,.750,2,10,12,6,1,1,5,1,21,19.9,-18
+2023-11-30,202311300OKC,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202311300OKC.html,32.12,6,13,.462,2,5,.400,2,2,1.000,1,2,3,10,1,0,2,3,16,15.4,-4
+2023-11-30,202311300OKC,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202311300OKC.html,31.8,2,7,.286,2,5,.400,0,0,,0,1,1,2,0,0,1,5,6,0.6,-10
+2023-11-30,202311300OKC,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202311300OKC.html,20.88,3,7,.429,2,3,.667,0,0,,0,0,0,0,2,1,1,4,8,4.4,-2
+2023-11-30,202311300OKC,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202311300OKC.html,28.78,5,9,.556,1,4,.250,3,3,1.000,0,2,2,3,0,0,2,2,14,9.6,-23
+2023-11-30,202311300OKC,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202311300OKC.html,20.48,1,6,.167,0,2,.000,5,7,.714,1,3,4,1,0,0,1,1,7,3.3,-11
+2023-11-30,202311300OKC,LAL,Jalen Hood-Schifino,https://www.basketball-reference.com/boxscores/202311300OKC.html,18.8,1,6,.167,0,3,.000,1,2,.500,0,1,1,0,0,0,1,3,3,-3.1,-15
+2023-11-30,202311300OKC,LAL,Colin Castleton,https://www.basketball-reference.com/boxscores/202311300OKC.html,4.02,0,1,.000,0,0,,2,2,1.000,1,2,3,0,0,0,0,0,2,2.6,-5
+2023-11-30,202311300OKC,LAL,Alex Fudge,https://www.basketball-reference.com/boxscores/202311300OKC.html,4.02,0,1,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,0,0,2,2.0,-5
+2023-11-30,202311300OKC,LAL,D'Moi Hodge,https://www.basketball-reference.com/boxscores/202311300OKC.html,4.02,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5
+2023-11-30,202311300OKC,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202311300OKC.html,4.02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5
+2023-11-30,202311300OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202311300OKC.html,34.93,11,18,.611,1,4,.250,10,10,1.000,0,4,4,7,1,0,0,4,33,30.3,+15
+2023-11-30,202311300OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202311300OKC.html,29.05,8,13,.615,1,4,.250,4,5,.800,0,5,5,7,0,1,0,3,21,20.6,0
+2023-11-30,202311300OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202311300OKC.html,28.27,8,15,.533,1,6,.167,1,1,1.000,1,4,5,1,2,0,2,3,18,12.1,+16
+2023-11-30,202311300OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202311300OKC.html,28.08,5,9,.556,2,5,.400,0,0,,3,4,7,3,2,1,0,2,12,15.0,+11
+2023-11-30,202311300OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202311300OKC.html,20.97,5,10,.500,2,5,.400,2,2,1.000,2,6,8,1,1,0,4,2,14,9.1,+6
+2023-11-30,202311300OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202311300OKC.html,21.97,4,7,.571,2,4,.500,0,0,,0,3,3,1,0,1,1,1,10,7.6,+19
+2023-11-30,202311300OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202311300OKC.html,19.77,4,8,.500,2,6,.333,0,0,,0,5,5,0,1,3,0,0,10,10.6,+19
+2023-11-30,202311300OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202311300OKC.html,18.75,0,4,.000,0,1,.000,1,2,.500,0,2,2,3,2,0,0,3,1,1.3,+10
+2023-11-30,202311300OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202311300OKC.html,12.53,2,2,1.000,1,1,1.000,1,2,.500,2,3,5,2,0,0,0,2,6,7.9,+5
+2023-11-30,202311300OKC,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202311300OKC.html,12.17,2,5,.400,1,4,.250,0,0,,0,1,1,1,0,0,0,3,5,2.1,+12
+2023-11-30,202311300OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202311300OKC.html,7.42,1,2,.500,1,2,.500,0,0,,0,2,2,1,0,0,0,0,3,3.3,-4
+2023-11-30,202311300OKC,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202311300OKC.html,3.02,0,0,,0,0,,0,0,,0,1,1,2,0,0,0,0,0,1.7,+3
+2023-11-30,202311300OKC,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202311300OKC.html,3.02,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+3

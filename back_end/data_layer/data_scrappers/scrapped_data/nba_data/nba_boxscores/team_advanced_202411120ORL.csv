@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-12,202411120ORL,CHO,Brandon Miller,https://www.basketball-reference.com/boxscores/202411120ORL.html,37:32,.217,.194,.611,.056,0.0,8.0,4.2,29.7,2.5,0.0,21.3,26.7,53,112,-13.5
+2024-11-12,202411120ORL,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202411120ORL.html,35:07,.618,.593,.519,.111,3.2,14.2,9.0,59.0,0.0,0.0,9.6,38.2,117,116,11.6
+2024-11-12,202411120ORL,CHO,Grant Williams,https://www.basketball-reference.com/boxscores/202411120ORL.html,31:11,.697,.722,.556,.444,0.0,12.8,6.8,5.9,3.0,0.0,15.7,17.5,110,110,2.3
+2024-11-12,202411120ORL,CHO,Josh Green,https://www.basketball-reference.com/boxscores/202411120ORL.html,28:39,.000,.000,.000,.000,0.0,10.5,5.5,4.9,0.0,0.0,80.0,7.5,11,117,-17.1
+2024-11-12,202411120ORL,CHO,Taj Gibson,https://www.basketball-reference.com/boxscores/202411120ORL.html,14:18,.667,.667,.000,.000,15.6,14.0,14.8,0.0,0.0,0.0,50.0,18.0,69,116,-13.7
+2024-11-12,202411120ORL,CHO,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202411120ORL.html,29:57,.857,.857,.000,.000,11.2,40.1,26.4,13.1,1.6,9.8,0.0,10.0,180,100,11.8
+2024-11-12,202411120ORL,CHO,Tidjane Salaün,https://www.basketball-reference.com/boxscores/202411120ORL.html,20:34,.218,.250,.500,.333,10.9,19.4,15.4,7.4,0.0,0.0,12.7,16.4,58,115,-11.8
+2024-11-12,202411120ORL,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202411120ORL.html,19:27,1.000,1.000,.500,.000,0.0,15.4,8.1,0.0,2.4,0.0,33.3,13.2,102,110,1.8
+2024-11-12,202411120ORL,CHO,Vasilije Micić,https://www.basketball-reference.com/boxscores/202411120ORL.html,13:35,.296,.200,.200,.800,0.0,22.1,11.6,11.6,3.5,0.0,12.9,24.4,62,107,-10.6
+2024-11-12,202411120ORL,CHO,Seth Curry,https://www.basketball-reference.com/boxscores/202411120ORL.html,5:44,.000,.000,1.000,.000,0.0,17.4,9.2,24.6,0.0,0.0,50.0,14.9,27,115,-19.3
+2024-11-12,202411120ORL,CHO,Jared Rhoden,https://www.basketball-reference.com/boxscores/202411120ORL.html,1:58,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.5,0,119,-43.5
+2024-11-12,202411120ORL,CHO,Nick Smith Jr.,https://www.basketball-reference.com/boxscores/202411120ORL.html,1:58,.000,.000,.000,.000,0.0,0.0,0.0,71.8,0.0,0.0,0.0,21.8,53,119,-9.1
+2024-11-12,202411120ORL,ORL,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202411120ORL.html,32:02,.417,.417,.667,.000,3.1,17.4,9.9,7.5,0.0,6.5,0.0,8.0,105,91,-1.7
+2024-11-12,202411120ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202411120ORL.html,31:58,.608,.600,.360,.120,3.1,24.4,13.2,34.2,4.4,0.0,7.1,37.8,117,83,12.7
+2024-11-12,202411120ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202411120ORL.html,28:00,.607,.607,.357,.000,0.0,15.9,7.5,22.1,3.4,3.7,12.5,24.4,109,85,5.7
+2024-11-12,202411120ORL,ORL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202411120ORL.html,24:48,.436,.333,.333,.333,0.0,4.5,2.1,14.8,0.0,0.0,12.7,13.6,94,98,-8.2
+2024-11-12,202411120ORL,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202411120ORL.html,20:09,.666,.600,.200,.800,5.0,5.5,5.2,13.3,0.0,5.2,12.9,16.5,129,94,0.1
+2024-11-12,202411120ORL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202411120ORL.html,24:35,.311,.292,.667,.167,0.0,22.7,10.7,15.8,0.0,8.5,7.2,24.1,70,88,-9.5
+2024-11-12,202411120ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202411120ORL.html,23:32,.934,.857,.571,.857,8.5,14.2,11.2,6.2,4.0,0.0,17.2,21.1,156,87,11.8
+2024-11-12,202411120ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202411120ORL.html,16:48,.000,.000,1.000,.000,6.0,13.3,9.4,6.6,5.6,0.0,0.0,5.1,62,83,-0.7
+2024-11-12,202411120ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202411120ORL.html,14:00,.875,.875,.500,.000,7.1,23.9,15.1,10.5,6.7,7.5,0.0,12.2,177,73,16.8
+2024-11-12,202411120ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202411120ORL.html,9:39,.510,.500,.400,.400,10.4,23.1,16.4,30.1,4.9,0.0,14.5,30.5,105,82,4.4
+2024-11-12,202411120ORL,ORL,Jett Howard,https://www.basketball-reference.com/boxscores/202411120ORL.html,6:14,.500,.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,27.4,68,98,-17.0
+2024-11-12,202411120ORL,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202411120ORL.html,4:19,,,,,0.0,25.9,12.2,0.0,0.0,0.0,,0.0,0,93,-6.4
+2024-11-12,202411120ORL,ORL,Cory Joseph,https://www.basketball-reference.com/boxscores/202411120ORL.html,1:58,.000,.000,1.000,.000,0.0,56.8,26.8,56.8,0.0,0.0,0.0,21.7,54,86,-8.5
+2024-11-12,202411120ORL,ORL,Trevelin Queen,https://www.basketball-reference.com/boxscores/202411120ORL.html,1:58,.500,.500,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.2,91,97,-5.0

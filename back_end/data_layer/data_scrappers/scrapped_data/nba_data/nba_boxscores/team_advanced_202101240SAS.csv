@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-24,202101240SAS,WAS,Jerome Robinson,https://www.basketball-reference.com/boxscores/202101240SAS.html,35:19,.518,.500,.667,.067,0.0,15.8,7.2,17.6,0.0,2.1,0.0,18.7,117,122,-0.5
+2021-01-24,202101240SAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/202101240SAS.html,32:33,.350,.350,.400,.000,11.6,10.3,11.0,4.3,1.5,2.3,0.0,13.1,97,119,-7.0
+2021-01-24,202101240SAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202101240SAS.html,32:28,.511,.500,.345,.103,2.9,20.6,11.0,29.9,0.0,0.0,11.7,45.2,96,124,-1.8
+2021-01-24,202101240SAS,WAS,Russell Westbrook,https://www.basketball-reference.com/boxscores/202101240SAS.html,25:17,.353,.318,.273,.364,11.2,22.1,16.2,34.2,0.0,0.0,23.9,28.4,81,124,-10.2
+2021-01-24,202101240SAS,WAS,Robin Lopez,https://www.basketball-reference.com/boxscores/202101240SAS.html,24:25,.680,.600,.000,.400,11.6,18.3,14.6,29.7,0.0,3.0,25.4,13.8,131,121,2.0
+2021-01-24,202101240SAS,WAS,Garrison Mathews,https://www.basketball-reference.com/boxscores/202101240SAS.html,34:35,.643,.643,1.000,.000,2.7,9.7,5.9,0.0,4.1,0.0,12.5,9.9,111,116,-3.6
+2021-01-24,202101240SAS,WAS,Cassius Winston,https://www.basketball-reference.com/boxscores/202101240SAS.html,21:44,.571,.571,.714,.000,0.0,20.5,9.4,13.6,0.0,3.4,12.5,15.8,107,120,-4.1
+2021-01-24,202101240SAS,WAS,Alex Len,https://www.basketball-reference.com/boxscores/202101240SAS.html,20:40,.709,.750,.333,.667,0.0,27.0,12.4,7.8,2.3,0.0,20.5,20.2,108,118,-0.9
+2021-01-24,202101240SAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202101240SAS.html,10:04,.000,.000,1.000,.000,0.0,22.2,10.1,0.0,0.0,0.0,0.0,4.3,0,124,-13.6
+2021-01-24,202101240SAS,WAS,Jordan Bell,https://www.basketball-reference.com/boxscores/202101240SAS.html,2:55,1.000,1.000,.000,.000,0.0,38.3,17.5,0.0,0.0,25.3,0.0,14.7,200,93,20.1
+2021-01-24,202101240SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202101240SAS.html,30:42,.423,.423,.231,.000,0.0,33.7,18.3,38.9,1.6,0.0,7.1,20.1,107,98,1.6
+2021-01-24,202101240SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202101240SAS.html,29:32,.576,.538,.385,.154,0.0,6.4,3.5,4.2,4.9,0.0,0.0,20.7,115,99,0.6
+2021-01-24,202101240SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202101240SAS.html,28:24,.658,.611,.111,.222,0.0,13.3,7.2,4.3,0.0,0.0,9.2,16.9,118,108,-3.8
+2021-01-24,202101240SAS,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202101240SAS.html,27:21,.514,.429,.143,.571,0.0,10.3,5.6,32.9,1.7,0.0,18.6,17.4,113,104,-5.3
+2021-01-24,202101240SAS,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202101240SAS.html,24:05,.577,.577,.231,.000,0.0,7.8,4.2,0.0,0.0,8.0,0.0,23.8,108,105,-1.7
+2021-01-24,202101240SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202101240SAS.html,24:03,.636,.636,.545,.000,0.0,15.7,8.5,5.2,4.0,4.0,0.0,20.2,121,96,8.6
+2021-01-24,202101240SAS,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202101240SAS.html,22:26,.658,.611,.333,.222,5.0,21.0,13.7,0.0,2.1,4.3,16.8,23.4,107,98,-1.0
+2021-01-24,202101240SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202101240SAS.html,21:27,.500,.500,.000,.000,15.6,13.2,14.3,5.1,4.5,4.5,0.0,8.2,139,95,0.8
+2021-01-24,202101240SAS,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202101240SAS.html,20:47,.727,.714,.571,.071,5.4,13.6,9.8,23.5,2.3,0.0,6.5,32.8,135,103,14.3
+2021-01-24,202101240SAS,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202101240SAS.html,2:55,.000,.000,.000,.000,0.0,0.0,0.0,34.3,0.0,0.0,0.0,15.1,56,113,-9.4
+2021-01-24,202101240SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202101240SAS.html,2:55,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,30.2,71,111,-17.9
+2021-01-24,202101240SAS,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202101240SAS.html,2:55,,,,,0.0,64.5,35.0,34.3,0.0,0.0,,0.0,231,91,12.0
+2021-01-24,202101240SAS,SAS,Luka Šamanić,https://www.basketball-reference.com/boxscores/202101240SAS.html,2:28,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.9,300,113,31.8

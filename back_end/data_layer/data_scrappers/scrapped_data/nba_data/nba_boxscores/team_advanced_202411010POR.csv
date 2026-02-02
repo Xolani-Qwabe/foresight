@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-01,202411010POR,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202411010POR.html,28:23,.727,.694,.333,.333,4.3,24.2,14.6,33.0,1.7,0.0,12.7,34.4,141,116,8.3
+2024-11-01,202411010POR,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202411010POR.html,26:35,.607,.611,.889,.222,0.0,21.5,11.1,8.2,3.6,0.0,16.8,18.4,111,112,-3.5
+2024-11-01,202411010POR,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202411010POR.html,26:16,.854,.833,.500,.167,4.7,17.4,11.3,20.1,7.3,0.0,18.9,24.9,144,105,14.9
+2024-11-01,202411010POR,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202411010POR.html,25:28,.424,.389,.444,.111,4.8,18.0,11.6,8.3,7.5,7.9,0.0,15.3,119,100,4.8
+2024-11-01,202411010POR,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202411010POR.html,18:23,.630,.333,.667,1.333,0.0,6.2,3.2,16.2,2.6,27.2,29.6,15.2,116,103,3.8
+2024-11-01,202411010POR,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202411010POR.html,22:57,.650,.650,.500,.000,21.5,19.9,20.7,10.3,2.1,0.0,9.1,19.8,144,116,4.2
+2024-11-01,202411010POR,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202411010POR.html,22:45,.929,.929,.714,.000,0.0,5.0,2.6,15.6,2.1,4.4,12.5,14.5,166,118,10.6
+2024-11-01,202411010POR,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202411010POR.html,19:19,.506,.450,.500,.200,6.4,11.8,9.2,12.1,0.0,5.2,0.0,23.2,131,120,-4.3
+2024-11-01,202411010POR,OKC,Alex Caruso,https://www.basketball-reference.com/boxscores/202411010POR.html,17:23,.600,.600,.400,.000,7.1,13.1,10.2,12.9,0.0,0.0,0.0,11.9,152,121,-6.5
+2024-11-01,202411010POR,OKC,Ajay Mitchell,https://www.basketball-reference.com/boxscores/202411010POR.html,17:13,.667,.667,.500,.000,14.3,0.0,6.9,13.1,0.0,0.0,14.3,16.8,140,125,-4.2
+2024-11-01,202411010POR,OKC,Dillon Jones,https://www.basketball-reference.com/boxscores/202411010POR.html,11:49,.700,.700,.600,.000,20.8,19.3,20.1,20.9,0.0,0.0,0.0,17.5,172,119,2.7
+2024-11-01,202411010POR,OKC,Malevy Leons,https://www.basketball-reference.com/boxscores/202411010POR.html,3:29,.266,.000,.000,2.000,35.3,0.0,17.0,27.0,0.0,0.0,0.0,22.3,120,123,-15.7
+2024-11-01,202411010POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202411010POR.html,28:28,.423,.188,.375,.750,0.0,17.3,8.3,27.1,0.0,3.7,15.8,18.4,103,139,-6.2
+2024-11-01,202411010POR,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202411010POR.html,28:17,.644,.591,.636,.455,0.0,13.1,6.3,11.1,0.0,3.7,7.0,20.8,127,140,1.0
+2024-11-01,202411010POR,POR,Deandre Ayton,https://www.basketball-reference.com/boxscores/202411010POR.html,28:04,.636,.636,.000,.000,12.2,8.8,10.6,12.7,3.4,0.0,15.4,19.2,117,135,-0.5
+2024-11-01,202411010POR,POR,Toumani Camara,https://www.basketball-reference.com/boxscores/202411010POR.html,24:21,.825,.786,.714,.286,0.0,15.2,7.3,12.7,3.9,0.0,20.2,16.8,128,132,5.1
+2024-11-01,202411010POR,POR,Deni Avdija,https://www.basketball-reference.com/boxscores/202411010POR.html,23:00,.527,.550,.300,.100,5.0,10.7,7.7,29.2,2.1,0.0,36.5,29.7,77,138,-10.7
+2024-11-01,202411010POR,POR,Scoot Henderson,https://www.basketball-reference.com/boxscores/202411010POR.html,24:35,.450,.438,.500,.250,4.6,10.0,7.2,29.5,0.0,0.0,18.4,18.4,101,143,-8.1
+2024-11-01,202411010POR,POR,Rayan Rupert,https://www.basketball-reference.com/boxscores/202411010POR.html,22:52,.778,.778,.778,.000,0.0,10.8,5.2,0.0,2.1,4.6,0.0,16.3,145,136,6.8
+2024-11-01,202411010POR,POR,Kris Murray,https://www.basketball-reference.com/boxscores/202411010POR.html,22:17,.489,.500,.429,.714,5.1,11.0,8.0,0.0,2.1,0.0,9.8,19.0,93,137,-9.1
+2024-11-01,202411010POR,POR,Donovan Clingan,https://www.basketball-reference.com/boxscores/202411010POR.html,12:32,.387,.333,.000,.667,27.4,39.3,33.1,0.0,0.0,8.3,0.0,12.8,118,130,-8.8
+2024-11-01,202411010POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202411010POR.html,10:51,.225,.250,.250,.250,21.1,11.3,16.4,38.4,4.4,0.0,18.4,20.8,87,132,-2.7
+2024-11-01,202411010POR,POR,Dalano Banton,https://www.basketball-reference.com/boxscores/202411010POR.html,9:15,.905,1.000,.000,2.333,0.0,0.0,0.0,66.4,0.0,11.3,24.8,36.3,143,141,15.6
+2024-11-01,202411010POR,POR,Duop Reath,https://www.basketball-reference.com/boxscores/202411010POR.html,5:28,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.2,139,146,1.6

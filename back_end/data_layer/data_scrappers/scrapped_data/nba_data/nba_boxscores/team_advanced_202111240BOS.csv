@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-24,202111240BOS,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202111240BOS.html,37:10,.563,.500,.250,.375,6.5,4.7,5.4,31.6,2.7,0.0,13.9,25.8,120,112,2.0
+2021-11-24,202111240BOS,BRK,James Harden,https://www.basketball-reference.com/boxscores/202111240BOS.html,35:55,.590,.462,.692,.692,3.3,14.6,9.8,39.0,2.8,0.0,15.0,24.7,128,106,6.7
+2021-11-24,202111240BOS,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202111240BOS.html,33:11,.958,.958,.833,.000,0.0,2.6,1.5,9.2,0.0,0.0,0.0,16.0,180,119,11.5
+2021-11-24,202111240BOS,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202111240BOS.html,28:32,.576,.538,.000,.308,8.4,21.4,15.9,5.4,1.7,3.9,0.0,22.9,128,104,2.6
+2021-11-24,202111240BOS,BRK,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202111240BOS.html,26:19,.765,.800,.000,.400,4.6,29.8,19.2,10.2,5.7,4.2,25.4,13.3,119,90,6.9
+2021-11-24,202111240BOS,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202111240BOS.html,24:56,.477,.364,.545,.545,4.8,7.0,6.1,16.4,0.0,4.5,0.0,24.3,119,115,-3.2
+2021-11-24,202111240BOS,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202111240BOS.html,21:15,.595,.600,.200,.400,0.0,16.4,9.5,0.0,0.0,0.0,0.0,12.3,119,112,-6.6
+2021-11-24,202111240BOS,BRK,Paul Millsap,https://www.basketball-reference.com/boxscores/202111240BOS.html,16:49,.300,.300,.600,.000,7.1,25.9,18.0,0.0,0.0,6.6,16.7,15.8,65,104,-13.3
+2021-11-24,202111240BOS,BRK,Jevon Carter,https://www.basketball-reference.com/boxscores/202111240BOS.html,10:35,1.500,1.500,1.000,.000,0.0,33.0,19.1,26.7,0.0,0.0,33.3,12.6,167,103,12.7
+2021-11-24,202111240BOS,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202111240BOS.html,2:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-5.5
+2021-11-24,202111240BOS,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202111240BOS.html,2:39,.581,.667,.000,.333,90.6,0.0,38.1,0.0,0.0,0.0,0.0,57.6,134,120,5.9
+2021-11-24,202111240BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202111240BOS.html,36:29,.617,.536,.571,.357,2.4,6.6,4.2,40.3,2.7,2.6,5.8,19.8,136,126,8.6
+2021-11-24,202111240BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202111240BOS.html,30:19,.384,.281,.563,.500,11.5,15.8,13.3,17.2,1.6,3.2,20.4,34.0,78,126,-8.5
+2021-11-24,202111240BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202111240BOS.html,24:17,.474,.438,.500,.125,3.6,14.8,8.3,21.1,0.0,0.0,10.6,16.3,103,132,-5.5
+2021-11-24,202111240BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202111240BOS.html,23:57,.398,.333,.533,.200,3.6,20.0,10.5,0.0,4.2,0.0,10.9,32.1,77,122,-8.9
+2021-11-24,202111240BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202111240BOS.html,21:43,.500,.500,.875,.000,4.0,16.6,9.3,8.1,2.3,4.4,11.1,17.4,96,124,-1.6
+2021-11-24,202111240BOS,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202111240BOS.html,35:49,.425,.350,.500,.400,0.0,20.1,8.5,26.8,0.0,0.0,7.8,15.0,102,131,-7.1
+2021-11-24,202111240BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202111240BOS.html,22:46,.571,.571,.429,.000,0.0,10.5,4.4,7.6,0.0,0.0,0.0,12.9,118,133,-2.1
+2021-11-24,202111240BOS,BOS,Jabari Parker,https://www.basketball-reference.com/boxscores/202111240BOS.html,16:15,.515,.333,.000,.667,16.1,29.5,21.8,9.5,0.0,0.0,0.0,10.0,145,129,-4.1
+2021-11-24,202111240BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202111240BOS.html,11:31,.625,.625,.750,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.6,119,135,-5.0
+2021-11-24,202111240BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202111240BOS.html,7:28,.810,.667,.000,1.000,46.8,16.1,33.8,0.0,0.0,25.7,0.0,24.3,186,116,24.7
+2021-11-24,202111240BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202111240BOS.html,4:08,.615,.500,.500,.500,0.0,0.0,0.0,100.0,0.0,0.0,0.0,24.8,153,136,16.6
+2021-11-24,202111240BOS,BOS,Bruno Fernando,https://www.basketball-reference.com/boxscores/202111240BOS.html,2:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,136,-9.8
+2021-11-24,202111240BOS,BOS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202111240BOS.html,2:39,1.042,1.000,.000,1.000,0.0,45.3,19.1,0.0,0.0,0.0,0.0,22.8,222,126,22.0

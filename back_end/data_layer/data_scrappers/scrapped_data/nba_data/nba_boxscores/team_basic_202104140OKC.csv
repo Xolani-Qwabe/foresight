@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-04-14,202104140OKC,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202104140OKC.html,30.35,5,10,.500,0,2,.000,2,3,.667,1,9,10,16,3,2,4,1,12,21.2,+33
+2021-04-14,202104140OKC,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202104140OKC.html,29.38,14,20,.700,11,16,.688,3,3,1.000,0,6,6,8,0,0,0,3,42,39.8,+31
+2021-04-14,202104140OKC,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202104140OKC.html,26.43,6,12,.500,1,3,.333,3,4,.750,0,2,2,1,1,0,1,2,16,10.1,+33
+2021-04-14,202104140OKC,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202104140OKC.html,21.73,4,6,.667,0,0,,1,1,1.000,3,2,5,3,1,0,0,2,9,11.4,+31
+2021-04-14,202104140OKC,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202104140OKC.html,21.32,5,8,.625,3,4,.750,2,3,.667,1,1,2,2,2,0,1,2,15,13.6,+23
+2021-04-14,202104140OKC,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202104140OKC.html,24.98,5,13,.385,3,7,.429,4,4,1.000,0,1,1,4,0,0,5,2,17,7.2,+14
+2021-04-14,202104140OKC,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202104140OKC.html,19.37,2,5,.400,1,4,.250,1,1,1.000,1,2,3,3,0,0,0,3,6,5.5,+17
+2021-04-14,202104140OKC,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202104140OKC.html,19.23,2,5,.400,1,4,.250,0,0,,0,1,1,1,0,1,0,1,5,3.6,+3
+2021-04-14,202104140OKC,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202104140OKC.html,16.68,3,4,.750,3,4,.750,0,0,,0,2,2,1,1,0,1,2,9,7.9,+11
+2021-04-14,202104140OKC,GSW,Nico Mannion,https://www.basketball-reference.com/boxscores/202104140OKC.html,12.0,1,5,.200,0,1,.000,0,0,,1,2,3,0,0,0,1,0,2,-0.8,-4
+2021-04-14,202104140OKC,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202104140OKC.html,9.23,3,4,.750,1,2,.500,3,4,.750,1,2,3,0,4,1,1,1,10,12.6,-1
+2021-04-14,202104140OKC,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202104140OKC.html,9.23,2,3,.667,0,0,,0,0,,1,2,3,0,0,2,0,1,4,5.0,-1
+2021-04-14,202104140OKC,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202104140OKC.html,31.32,5,12,.417,0,4,.000,1,5,.200,1,2,3,5,1,0,2,1,11,6.4,-20
+2021-04-14,202104140OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202104140OKC.html,28.33,10,18,.556,0,3,.000,2,2,1.000,2,6,8,1,0,0,2,2,22,14.5,-21
+2021-04-14,202104140OKC,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202104140OKC.html,28.28,4,6,.667,1,1,1.000,0,0,,0,3,3,4,0,0,4,6,9,3.7,-21
+2021-04-14,202104140OKC,OKC,Moses Brown,https://www.basketball-reference.com/boxscores/202104140OKC.html,28.03,8,13,.615,0,0,,2,3,.667,7,5,12,0,2,2,4,3,18,16.3,-15
+2021-04-14,202104140OKC,OKC,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202104140OKC.html,25.47,6,11,.545,2,6,.333,0,1,.000,1,4,5,3,0,0,2,0,14,10.3,-15
+2021-04-14,202104140OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202104140OKC.html,22.93,1,7,.143,1,2,.500,1,2,.500,0,2,2,3,0,0,1,3,4,-0.4,-26
+2021-04-14,202104140OKC,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202104140OKC.html,21.28,2,9,.222,2,7,.286,4,4,1.000,0,2,2,3,0,0,2,3,10,4.0,-21
+2021-04-14,202104140OKC,OKC,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202104140OKC.html,18.7,0,4,.000,0,1,.000,1,2,.500,1,2,3,0,2,0,3,2,1,-2.7,-23
+2021-04-14,202104140OKC,OKC,Tony Bradley,https://www.basketball-reference.com/boxscores/202104140OKC.html,14.58,6,7,.857,0,0,,1,4,.250,4,3,7,1,0,0,0,0,13,13.7,-19
+2021-04-14,202104140OKC,OKC,Justin Robinson,https://www.basketball-reference.com/boxscores/202104140OKC.html,10.62,2,2,1.000,1,1,1.000,0,0,,1,1,2,2,1,0,0,0,5,7.8,-5
+2021-04-14,202104140OKC,OKC,Josh Hall,https://www.basketball-reference.com/boxscores/202104140OKC.html,10.42,0,3,.000,0,2,.000,2,2,1.000,0,3,3,0,0,0,1,2,2,-1.0,-4

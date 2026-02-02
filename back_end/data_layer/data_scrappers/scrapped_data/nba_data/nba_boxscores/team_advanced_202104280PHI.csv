@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-28,202104280PHI,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202104280PHI.html,32:15,.227,.227,.455,.000,0.0,10.9,4.8,12.4,0.0,0.0,26.7,20.7,42,143,-19.2
+2021-04-28,202104280PHI,ATL,Lou Williams,https://www.basketball-reference.com/boxscores/202104280PHI.html,30:57,.496,.286,.143,1.000,6.0,22.7,13.3,32.4,1.7,0.0,9.0,15.9,119,136,1.1
+2021-04-28,202104280PHI,ATL,Solomon Hill,https://www.basketball-reference.com/boxscores/202104280PHI.html,30:17,.595,.500,.400,.400,9.1,7.7,8.5,30.7,0.0,0.0,0.0,17.3,146,143,4.7
+2021-04-28,202104280PHI,ATL,John Collins,https://www.basketball-reference.com/boxscores/202104280PHI.html,28:55,.823,.818,.182,.364,0.0,16.2,7.1,24.2,0.0,0.0,13.6,22.7,136,142,9.2
+2021-04-28,202104280PHI,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202104280PHI.html,24:18,.305,.308,.000,.308,22.8,9.6,17.0,0.0,0.0,7.5,11.9,30.7,71,138,-12.5
+2021-04-28,202104280PHI,ATL,Skylar Mays,https://www.basketball-reference.com/boxscores/202104280PHI.html,22:31,.688,.688,.375,.000,4.1,20.8,11.5,13.0,2.4,0.0,11.1,17.8,122,136,4.8
+2021-04-28,202104280PHI,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202104280PHI.html,21:50,.202,.111,.222,.222,8.5,16.1,11.8,8.9,0.0,0.0,0.0,20.2,66,141,-14.3
+2021-04-28,202104280PHI,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202104280PHI.html,16:06,,,,,5.7,0.0,3.2,11.0,3.3,5.6,100.0,5.5,34,134,-9.1
+2021-04-28,202104280PHI,ATL,Kris Dunn,https://www.basketball-reference.com/boxscores/202104280PHI.html,14:50,.322,.167,.167,.667,0.0,15.8,7.0,13.6,0.0,0.0,11.4,26.3,72,140,-19.6
+2021-04-28,202104280PHI,ATL,Nathan Knight,https://www.basketball-reference.com/boxscores/202104280PHI.html,9:46,.420,.000,.333,1.333,9.5,24.0,15.9,0.0,0.0,0.0,0.0,21.7,113,140,-7.0
+2021-04-28,202104280PHI,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202104280PHI.html,8:15,.000,.000,.000,.000,11.2,28.4,18.8,0.0,0.0,0.0,25.0,21.6,13,139,-25.3
+2021-04-28,202104280PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202104280PHI.html,25:40,.618,.542,.167,.333,13.7,14.4,14.1,30.5,0.0,3.0,0.0,24.3,155,98,9.6
+2021-04-28,202104280PHI,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202104280PHI.html,25:38,.833,.833,.583,.000,4.6,7.2,6.0,5.7,0.0,0.0,7.7,23.0,148,104,7.5
+2021-04-28,202104280PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202104280PHI.html,25:09,.504,.469,.188,.125,14.0,14.7,14.4,5.5,2.1,9.2,5.6,32.3,112,90,-1.1
+2021-04-28,202104280PHI,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202104280PHI.html,25:09,.500,.500,.600,.000,0.0,11.0,6.2,4.3,4.2,3.1,16.7,10.8,91,91,-2.1
+2021-04-28,202104280PHI,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202104280PHI.html,15:42,.680,.800,.000,.400,7.5,17.6,13.1,51.3,6.8,0.0,14.5,19.9,145,82,13.3
+2021-04-28,202104280PHI,PHI,George Hill,https://www.basketball-reference.com/boxscores/202104280PHI.html,22:00,.470,.500,.571,.143,0.0,25.2,14.1,15.8,0.0,0.0,11.8,17.4,101,93,-6.6
+2021-04-28,202104280PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202104280PHI.html,16:40,.410,.500,.500,.500,7.0,5.5,6.2,0.0,0.0,13.9,0.0,6.6,107,98,1.8
+2021-04-28,202104280PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202104280PHI.html,16:21,1.000,1.000,1.000,.000,0.0,5.6,3.2,0.0,6.5,0.0,14.3,19.4,145,91,15.6
+2021-04-28,202104280PHI,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202104280PHI.html,14:07,.521,.500,.500,1.000,0.0,13.1,7.3,7.6,0.0,0.0,25.8,12.5,89,101,-7.3
+2021-04-28,202104280PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202104280PHI.html,13:32,.917,.917,.333,.000,0.0,13.6,7.6,23.4,0.0,0.0,0.0,20.1,186,100,12.7
+2021-04-28,202104280PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202104280PHI.html,13:27,.542,.375,.125,.875,17.4,27.5,23.0,57.4,7.9,0.0,0.0,37.4,148,73,20.0
+2021-04-28,202104280PHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202104280PHI.html,8:44,.500,.500,.667,.000,0.0,21.1,11.8,12.9,12.2,0.0,0.0,15.6,121,68,11.7
+2021-04-28,202104280PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202104280PHI.html,6:33,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,23.6,0.0,6.9,200,96,0.9
+2021-04-28,202104280PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202104280PHI.html,5:39,1.000,1.000,1.000,.000,0.0,16.3,9.1,27.4,9.4,0.0,0.0,24.1,195,77,40.3
+2021-04-28,202104280PHI,PHI,Anthony Tolliver,https://www.basketball-reference.com/boxscores/202104280PHI.html,5:39,.431,.000,1.000,3.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.7,101,109,-12.7

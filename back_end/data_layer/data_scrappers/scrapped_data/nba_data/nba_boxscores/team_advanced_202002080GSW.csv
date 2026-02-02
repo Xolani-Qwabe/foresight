@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-08,202002080GSW,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202002080GSW.html,35:10,.685,.643,.000,.929,7.4,25.4,17.1,17.8,3.8,2.4,9.2,24.5,139,106,8.3
+2020-02-08,202002080GSW,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202002080GSW.html,33:34,.560,.500,.471,.353,0.0,26.6,14.3,47.7,1.3,0.0,26.3,31.5,106,113,-1.4
+2020-02-08,202002080GSW,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202002080GSW.html,30:24,.884,.864,.636,.182,4.3,11.0,7.9,9.9,3.0,0.0,7.8,16.8,164,112,11.1
+2020-02-08,202002080GSW,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202002080GSW.html,29:28,.727,.667,.500,.333,4.4,3.8,4.1,4.3,0.0,0.0,12.7,10.6,138,119,-2.4
+2020-02-08,202002080GSW,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202002080GSW.html,20:58,.500,.500,.000,.000,6.2,21.3,14.3,0.0,2.1,4.0,42.9,13.2,61,108,-10.9
+2020-02-08,202002080GSW,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202002080GSW.html,29:24,.615,.500,.000,.500,4.4,3.8,4.1,26.9,4.6,0.0,33.9,19.9,104,109,0.7
+2020-02-08,202002080GSW,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202002080GSW.html,21:10,.688,.688,.625,.000,0.0,21.1,11.3,26.7,0.0,0.0,33.3,22.5,100,117,-4.0
+2020-02-08,202002080GSW,LAL,Troy Daniels,https://www.basketball-reference.com/boxscores/202002080GSW.html,16:51,.515,.500,1.000,.667,7.7,0.0,3.6,0.0,0.0,0.0,0.0,9.1,125,120,-6.4
+2020-02-08,202002080GSW,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202002080GSW.html,12:39,.652,.714,.000,.714,41.0,35.3,37.9,0.0,0.0,0.0,9.8,32.0,126,113,-2.9
+2020-02-08,202002080GSW,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202002080GSW.html,6:51,.000,.000,1.000,.000,18.9,32.6,26.3,0.0,6.6,0.0,0.0,11.6,42,100,-8.1
+2020-02-08,202002080GSW,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202002080GSW.html,3:31,.500,.500,.500,.000,0.0,0.0,0.0,46.5,0.0,0.0,0.0,22.6,131,119,-4.5
+2020-02-08,202002080GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202002080GSW.html,30:54,.752,.792,.333,.750,3.6,4.2,3.9,13.9,7.3,2.9,20.0,26.5,117,109,8.7
+2020-02-08,202002080GSW,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/202002080GSW.html,29:07,.405,.167,.333,1.000,7.7,0.0,4.1,40.9,0.0,3.1,31.6,17.8,103,126,-5.3
+2020-02-08,202002080GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202002080GSW.html,27:55,.273,.273,.182,.000,0.0,18.6,8.6,8.4,1.6,3.2,15.4,19.1,56,118,-16.3
+2020-02-08,202002080GSW,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202002080GSW.html,27:19,.842,.833,.133,.067,8.2,33.2,19.8,7.1,1.6,6.6,0.0,23.2,166,113,11.9
+2020-02-08,202002080GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202002080GSW.html,22:23,.500,.500,.750,.000,5.0,11.6,8.0,10.8,6.0,0.0,20.0,18.3,90,112,-2.3
+2020-02-08,202002080GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202002080GSW.html,22:48,.792,.792,.583,.000,4.9,5.7,5.3,21.7,2.0,0.0,7.7,23.4,142,122,8.1
+2020-02-08,202002080GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202002080GSW.html,19:27,.417,.417,.167,.000,0.0,20.0,9.3,12.0,0.0,0.0,14.3,14.7,84,124,-8.5
+2020-02-08,202002080GSW,GSW,Zach Norvell,https://www.basketball-reference.com/boxscores/202002080GSW.html,17:22,.788,.750,.750,.250,0.0,29.9,13.8,13.7,5.2,0.0,18.4,12.8,130,109,6.0
+2020-02-08,202002080GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202002080GSW.html,14:25,.225,.250,.500,.250,0.0,9.0,4.2,0.0,0.0,0.0,18.4,15.5,37,125,-24.1
+2020-02-08,202002080GSW,GSW,Jeremy Pargo,https://www.basketball-reference.com/boxscores/202002080GSW.html,14:15,.466,.500,.167,.167,7.8,9.1,8.4,37.5,3.2,0.0,13.4,21.4,107,119,-3.5
+2020-02-08,202002080GSW,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202002080GSW.html,14:05,.740,.700,.400,.800,0.0,9.2,4.3,9.5,3.2,6.4,12.9,22.6,128,115,5.3

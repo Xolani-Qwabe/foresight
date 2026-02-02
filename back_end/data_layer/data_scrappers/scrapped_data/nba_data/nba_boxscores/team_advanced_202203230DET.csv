@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-23,202203230DET,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202203230DET.html,33:56,.583,.583,.500,.000,0.0,7.1,3.0,52.5,2.8,0.0,18.2,27.6,106,119,4.0
+2022-03-23,202203230DET,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202203230DET.html,27:47,.333,.333,.583,.000,0.0,8.6,3.7,10.9,1.7,0.0,7.7,19.9,69,121,-10.1
+2022-03-23,202203230DET,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202203230DET.html,26:22,.638,.550,.400,.400,0.0,13.7,5.8,6.5,0.0,0.0,7.8,20.6,120,124,-2.0
+2022-03-23,202203230DET,ATL,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202203230DET.html,21:53,.214,.214,.857,.000,0.0,11.0,4.7,0.0,0.0,0.0,0.0,13.6,45,125,-15.8
+2022-03-23,202203230DET,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202203230DET.html,17:27,.085,.000,.000,.400,15.3,41.3,26.3,0.0,0.0,0.0,14.5,16.8,44,119,-18.1
+2022-03-23,202203230DET,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202203230DET.html,27:45,.406,.406,.500,.000,0.0,8.6,3.7,12.2,3.4,0.0,11.1,27.7,76,118,-5.9
+2022-03-23,202203230DET,ATL,Delon Wright,https://www.basketball-reference.com/boxscores/202203230DET.html,26:32,.799,.750,.833,.333,0.0,13.6,5.8,22.9,3.5,3.3,12.7,12.7,146,114,10.1
+2022-03-23,202203230DET,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202203230DET.html,24:42,.583,.556,.333,.111,7.2,24.3,14.5,7.1,1.9,0.0,17.5,19.7,102,118,-3.9
+2022-03-23,202203230DET,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202203230DET.html,21:22,.698,.714,.000,.286,16.6,16.8,16.7,17.4,0.0,8.2,20.2,19.7,125,118,2.8
+2022-03-23,202203230DET,ATL,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202203230DET.html,6:07,1.330,1.500,1.000,2.000,0.0,39.2,16.7,0.0,0.0,0.0,0.0,13.1,268,119,18.2
+2022-03-23,202203230DET,ATL,Kevin Knox,https://www.basketball-reference.com/boxscores/202203230DET.html,6:07,.532,.000,1.000,2.000,0.0,19.6,8.3,0.0,0.0,0.0,0.0,13.1,119,123,-8.2
+2022-03-23,202203230DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202203230DET.html,35:16,.638,.583,.167,.250,3.4,12.6,8.7,31.6,1.3,2.8,27.3,21.9,109,101,0.0
+2022-03-23,202203230DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202203230DET.html,34:19,.360,.346,.692,.154,3.5,7.8,6.0,14.1,2.7,0.0,0.0,17.0,95,101,-2.5
+2022-03-23,202203230DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202203230DET.html,22:50,.571,.571,.000,.000,10.5,31.1,22.4,0.0,2.1,4.4,22.2,16.6,94,93,-4.0
+2022-03-23,202203230DET,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202203230DET.html,21:54,.723,.636,.364,.727,5.5,28.4,18.7,28.4,2.1,0.0,0.0,27.9,159,96,16.5
+2022-03-23,202203230DET,DET,Cory Joseph,https://www.basketball-reference.com/boxscores/202203230DET.html,17:47,.799,.750,.500,.333,0.0,15.0,8.6,16.3,5.3,0.0,22.5,21.0,122,93,6.0
+2022-03-23,202203230DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202203230DET.html,33:00,.630,.611,.222,.333,7.3,16.2,12.4,19.8,1.4,0.0,22.5,17.0,114,101,-1.7
+2022-03-23,202203230DET,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202203230DET.html,27:42,.440,.346,.308,.308,0.0,19.3,11.1,0.0,3.4,0.0,0.0,22.4,95,96,-6.0
+2022-03-23,202203230DET,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202203230DET.html,23:38,.833,.833,.667,.000,5.1,15.0,10.8,34.0,0.0,0.0,25.0,14.3,138,105,7.4
+2022-03-23,202203230DET,DET,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202203230DET.html,18:22,.775,.722,.333,.333,6.5,14.5,11.1,9.2,0.0,10.9,8.8,26.0,142,98,10.1
+2022-03-23,202203230DET,DET,Jamorko Pickett,https://www.basketball-reference.com/boxscores/202203230DET.html,5:12,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.2,137,109,0.4

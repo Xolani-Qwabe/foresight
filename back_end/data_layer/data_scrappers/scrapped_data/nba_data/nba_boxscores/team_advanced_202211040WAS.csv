@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-04,202211040WAS,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202211040WAS.html,33:11,.592,.524,.286,.286,0.0,27.1,15.0,44.8,0.0,3.0,7.8,36.0,128,91,10.5
+2022-11-04,202211040WAS,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202211040WAS.html,28:47,.722,.722,.556,.000,4.3,6.9,5.8,32.0,1.7,0.0,0.0,14.5,165,95,11.2
+2022-11-04,202211040WAS,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202211040WAS.html,28:15,.900,.900,.000,.000,8.7,24.8,17.6,4.9,0.0,10.4,0.0,16.5,183,86,9.5
+2022-11-04,202211040WAS,BRK,Edmond Sumner,https://www.basketball-reference.com/boxscores/202211040WAS.html,25:08,.628,.500,.286,.571,4.9,11.9,8.8,0.0,4.0,0.0,18.6,19.9,107,88,-3.4
+2022-11-04,202211040WAS,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202211040WAS.html,24:27,.800,.800,.800,.000,0.0,16.4,9.0,13.4,2.1,0.0,0.0,9.5,165,91,3.5
+2022-11-04,202211040WAS,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202211040WAS.html,31:50,.594,.538,.308,.231,0.0,12.6,6.9,22.1,1.6,0.0,0.0,20.9,135,94,2.9
+2022-11-04,202211040WAS,BRK,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202211040WAS.html,24:02,.875,.875,.375,.000,15.4,20.8,18.4,0.0,2.1,8.2,11.1,17.4,153,84,11.4
+2022-11-04,202211040WAS,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202211040WAS.html,16:19,.625,.625,.500,.000,0.0,6.1,3.4,6.7,3.1,6.0,0.0,11.4,129,88,3.3
+2022-11-04,202211040WAS,BRK,David Duke Jr.,https://www.basketball-reference.com/boxscores/202211040WAS.html,12:45,.652,.625,.000,.125,0.0,23.5,13.0,0.0,0.0,0.0,10.6,34.5,107,94,-8.6
+2022-11-04,202211040WAS,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202211040WAS.html,7:43,.000,.000,.000,.000,0.0,13.0,7.1,0.0,0.0,0.0,50.0,12.1,0,97,-23.5
+2022-11-04,202211040WAS,BRK,Markieff Morris,https://www.basketball-reference.com/boxscores/202211040WAS.html,7:33,.375,.375,.500,.000,0.0,26.5,14.6,29.1,6.6,0.0,0.0,24.7,102,79,5.0
+2022-11-04,202211040WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202211040WAS.html,29:36,.530,.500,.333,.111,0.0,12.5,5.6,28.6,3.4,2.6,0.0,29.0,108,127,8.8
+2022-11-04,202211040WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202211040WAS.html,28:25,.667,.667,.000,.000,10.6,4.3,7.8,0.0,1.8,0.0,0.0,9.6,141,135,-2.9
+2022-11-04,202211040WAS,WAS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202211040WAS.html,25:41,.513,.455,.364,.545,11.7,33.5,21.5,8.3,0.0,0.0,6.8,25.9,105,134,-1.0
+2022-11-04,202211040WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202211040WAS.html,23:43,.612,.542,.667,.667,0.0,25.9,11.6,20.4,0.0,0.0,6.1,31.6,117,136,6.5
+2022-11-04,202211040WAS,WAS,Monte Morris,https://www.basketball-reference.com/boxscores/202211040WAS.html,22:43,.333,.333,.500,.000,0.0,16.3,7.3,41.0,0.0,0.0,33.3,18.0,64,137,-12.1
+2022-11-04,202211040WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202211040WAS.html,21:32,.400,.400,.400,.000,0.0,11.4,5.1,8.7,0.0,0.0,28.6,14.8,59,138,-14.2
+2022-11-04,202211040WAS,WAS,Will Barton,https://www.basketball-reference.com/boxscores/202211040WAS.html,19:03,.214,.214,.571,.000,0.0,19.4,8.7,27.5,2.6,0.0,12.5,19.1,54,130,-8.0
+2022-11-04,202211040WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202211040WAS.html,18:07,.145,.000,.833,.333,0.0,6.8,3.0,17.7,0.0,0.0,22.5,22.3,35,138,-19.8
+2022-11-04,202211040WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202211040WAS.html,17:41,.200,.200,.200,.000,0.0,13.9,6.2,0.0,0.0,4.4,16.7,15.4,34,133,-15.8
+2022-11-04,202211040WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202211040WAS.html,10:20,1.000,1.000,.000,.000,0.0,11.9,5.3,0.0,0.0,7.5,33.3,13.2,105,130,-3.7
+2022-11-04,202211040WAS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202211040WAS.html,7:43,1.136,,,,13.0,15.9,14.3,0.0,0.0,0.0,53.2,11.1,124,137,-10.1
+2022-11-04,202211040WAS,WAS,Taj Gibson,https://www.basketball-reference.com/boxscores/202211040WAS.html,7:43,.515,.333,.000,.667,0.0,47.8,21.4,0.0,0.0,0.0,0.0,22.8,109,132,-4.5
+2022-11-04,202211040WAS,WAS,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202211040WAS.html,7:43,.000,.000,.500,.000,0.0,0.0,0.0,20.7,0.0,0.0,0.0,11.8,24,139,-18.0

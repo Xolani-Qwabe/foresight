@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-20,202403200POR,LAC,James Harden,https://www.basketball-reference.com/boxscores/202403200POR.html,36:02,.800,.773,.818,.182,0.0,12.7,6.7,50.4,0.0,2.8,20.2,19.1,147,117,8.2
+2024-03-20,202403200POR,LAC,Paul George,https://www.basketball-reference.com/boxscores/202403200POR.html,35:50,.699,.667,.389,.167,0.0,19.1,10.0,17.0,2.8,2.9,0.0,25.0,145,109,8.3
+2024-03-20,202403200POR,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202403200POR.html,30:44,.550,.550,.400,.000,0.0,3.7,2.0,8.4,1.7,0.0,9.1,16.6,105,117,-7.3
+2024-03-20,202403200POR,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202403200POR.html,28:02,.644,.594,.188,.375,4.5,12.2,8.6,11.6,7.2,0.0,9.7,34.1,121,103,5.7
+2024-03-20,202403200POR,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202403200POR.html,23:57,.778,.778,.000,.000,21.1,23.9,22.5,12.9,8.5,8.5,10.0,19.3,152,91,12.0
+2024-03-20,202403200POR,LAC,P.J. Tucker,https://www.basketball-reference.com/boxscores/202403200POR.html,25:37,,,,,0.0,31.2,16.4,4.2,4.0,0.0,,0.0,229,106,-2.7
+2024-03-20,202403200POR,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202403200POR.html,23:05,.455,.444,.222,.222,0.0,9.9,5.2,0.0,2.2,8.8,9.2,21.8,82,108,-10.6
+2024-03-20,202403200POR,LAC,Daniel Theis,https://www.basketball-reference.com/boxscores/202403200POR.html,19:32,1.025,1.000,.500,.500,6.5,23.4,15.4,13.1,0.0,5.2,17.0,13.9,169,113,6.4
+2024-03-20,202403200POR,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202403200POR.html,7:13,.000,.000,.750,.000,0.0,15.8,8.3,29.6,0.0,0.0,20.0,32.1,29,117,-40.3
+2024-03-20,202403200POR,LAC,Xavier Moon,https://www.basketball-reference.com/boxscores/202403200POR.html,5:46,.333,.333,.333,.000,0.0,0.0,0.0,0.0,8.8,0.0,25.0,32.1,49,102,-18.6
+2024-03-20,202403200POR,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202403200POR.html,4:12,.000,.000,.000,.000,60.2,27.2,42.9,0.0,0.0,0.0,0.0,22.1,76,115,-31.7
+2024-03-20,202403200POR,POR,Scoot Henderson,https://www.basketball-reference.com/boxscores/202403200POR.html,35:04,.510,.467,.333,.400,0.0,7.2,3.4,22.2,2.9,0.0,10.2,25.7,106,122,-4.7
+2024-03-20,202403200POR,POR,Kris Murray,https://www.basketball-reference.com/boxscores/202403200POR.html,32:41,.773,.773,.545,.000,3.5,15.5,9.2,10.2,1.6,0.0,15.4,18.3,129,124,3.3
+2024-03-20,202403200POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202403200POR.html,28:25,.636,.636,.455,.000,0.0,17.8,8.4,5.9,0.0,3.1,21.4,22.6,95,124,-6.7
+2024-03-20,202403200POR,POR,Deandre Ayton,https://www.basketball-reference.com/boxscores/202403200POR.html,26:25,.383,.400,.000,.100,4.3,28.7,15.9,5.7,0.0,3.3,27.7,25.1,62,122,-15.0
+2024-03-20,202403200POR,POR,Toumani Camara,https://www.basketball-reference.com/boxscores/202403200POR.html,17:49,1.500,1.500,1.000,.000,0.0,14.2,6.7,14.8,2.8,0.0,0.0,2.6,271,121,4.3
+2024-03-20,202403200POR,POR,Dalano Banton,https://www.basketball-reference.com/boxscores/202403200POR.html,28:15,.466,.417,.583,.167,4.0,8.9,6.4,31.7,0.0,0.0,13.4,24.2,105,128,-3.4
+2024-03-20,202403200POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202403200POR.html,23:04,.872,.833,.333,.333,9.9,5.5,7.8,0.0,4.4,0.0,30.4,19.7,117,119,-2.1
+2024-03-20,202403200POR,POR,Rayan Rupert,https://www.basketball-reference.com/boxscores/202403200POR.html,19:35,.680,.600,.400,.400,5.8,25.8,15.3,23.2,0.0,0.0,0.0,13.8,160,125,3.3
+2024-03-20,202403200POR,POR,Duop Reath,https://www.basketball-reference.com/boxscores/202403200POR.html,16:06,.500,.500,.500,.000,0.0,15.7,7.5,9.9,0.0,5.4,11.1,25.7,92,123,-3.1
+2024-03-20,202403200POR,POR,Justin Minaya,https://www.basketball-reference.com/boxscores/202403200POR.html,6:50,.750,.750,1.000,.000,16.7,18.5,17.6,0.0,0.0,12.8,0.0,13.4,158,116,11.9
+2024-03-20,202403200POR,POR,Moses Brown,https://www.basketball-reference.com/boxscores/202403200POR.html,5:46,.000,,,,19.8,43.8,31.2,0.0,0.0,0.0,0.0,7.0,67,122,-10.4

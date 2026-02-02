@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-08,202311080DEN,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202311080DEN.html,34:28,.599,.529,.765,.294,3.0,11.6,7.4,19.4,1.5,0.0,13.5,29.0,114,115,6.1
+2023-11-08,202311080DEN,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202311080DEN.html,32:03,.512,.500,.667,.500,0.0,18.7,9.6,5.1,1.6,0.0,12.0,23.4,93,113,-2.6
+2023-11-08,202311080DEN,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202311080DEN.html,29:36,.940,1.000,.000,.750,7.1,20.3,13.8,21.3,1.7,0.0,27.3,11.2,147,112,5.5
+2023-11-08,202311080DEN,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202311080DEN.html,28:36,.373,.308,.231,.308,10.9,7.0,8.9,0.0,0.0,0.0,6.3,24.9,86,119,-11.7
+2023-11-08,202311080DEN,GSW,Dario Šarić,https://www.basketball-reference.com/boxscores/202311080DEN.html,26:14,.400,.400,.600,.000,4.0,26.7,15.6,11.0,0.0,0.0,0.0,8.6,109,114,-2.3
+2023-11-08,202311080DEN,GSW,Chris Paul,https://www.basketball-reference.com/boxscores/202311080DEN.html,26:54,.450,.450,.400,.000,3.9,14.9,9.5,23.9,1.9,0.0,9.1,18.4,102,113,-1.5
+2023-11-08,202311080DEN,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202311080DEN.html,18:49,.388,.333,.083,.167,11.1,10.6,10.9,19.0,0.0,0.0,0.0,30.9,99,118,-3.9
+2023-11-08,202311080DEN,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202311080DEN.html,18:13,.769,.667,.000,1.667,0.0,11.0,5.6,8.3,0.0,0.0,0.0,12.9,167,118,0.3
+2023-11-08,202311080DEN,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202311080DEN.html,13:53,.714,.714,.429,.000,0.0,21.6,11.0,14.9,3.7,0.0,0.0,22.7,142,108,16.5
+2023-11-08,202311080DEN,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202311080DEN.html,11:14,.727,.667,.000,.333,9.3,17.8,13.6,30.0,0.0,0.0,0.0,13.8,169,116,7.3
+2023-11-08,202311080DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202311080DEN.html,36:54,.500,.500,.471,.000,5.4,17.0,11.1,8.2,0.0,5.1,0.0,20.5,110,113,1.6
+2023-11-08,202311080DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202311080DEN.html,36:36,.595,.580,.320,.400,8.2,28.5,18.1,29.0,4.2,2.6,9.3,39.5,116,101,14.9
+2023-11-08,202311080DEN,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202311080DEN.html,35:07,.512,.375,.375,.500,2.8,5.9,4.4,11.1,1.5,0.0,0.0,12.4,124,116,-3.2
+2023-11-08,202311080DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202311080DEN.html,34:25,.444,.393,.143,.286,11.6,21.2,16.3,12.3,4.4,2.7,11.3,23.0,99,103,1.8
+2023-11-08,202311080DEN,DEN,Reggie Jackson,https://www.basketball-reference.com/boxscores/202311080DEN.html,32:21,.559,.559,.412,.118,0.0,6.5,3.2,30.6,0.0,0.0,0.0,24.6,124,119,1.9
+2023-11-08,202311080DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202311080DEN.html,15:45,.515,.500,.667,.667,0.0,13.3,6.5,16.1,0.0,0.0,0.0,11.0,123,117,-0.7
+2023-11-08,202311080DEN,DEN,Collin Gillespie,https://www.basketball-reference.com/boxscores/202311080DEN.html,15:39,.750,.750,1.000,.000,0.0,0.0,0.0,8.1,0.0,0.0,33.3,8.5,99,121,-8.8
+2023-11-08,202311080DEN,DEN,Peyton Watson,https://www.basketball-reference.com/boxscores/202311080DEN.html,10:36,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.4,100,122,-7.5
+2023-11-08,202311080DEN,DEN,Julian Strawther,https://www.basketball-reference.com/boxscores/202311080DEN.html,8:14,.000,.000,1.000,.000,0.0,12.7,6.2,0.0,0.0,0.0,0.0,5.4,0,117,-16.9
+2023-11-08,202311080DEN,DEN,Justin Holiday,https://www.basketball-reference.com/boxscores/202311080DEN.html,7:54,.750,.750,1.000,.000,0.0,39.6,19.4,0.0,0.0,0.0,0.0,11.3,141,108,0.4
+2023-11-08,202311080DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202311080DEN.html,6:29,.000,.000,.000,.000,0.0,32.2,15.8,36.1,0.0,0.0,0.0,6.9,86,111,3.9

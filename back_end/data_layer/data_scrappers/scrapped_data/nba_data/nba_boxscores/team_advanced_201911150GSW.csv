@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-15,201911150GSW,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/201911150GSW.html,37:54,.460,.391,.304,.304,7.0,13.2,9.9,4.7,3.7,0.0,7.1,30.9,94,97,-1.1
+2019-11-15,201911150GSW,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/201911150GSW.html,34:55,.625,.625,.750,.000,5.1,2.9,4.0,18.3,2.7,2.5,14.3,16.7,115,101,5.6
+2019-11-15,201911150GSW,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/201911150GSW.html,34:52,.472,.395,.632,.263,0.0,14.3,6.7,24.0,1.3,2.5,4.5,26.5,103,100,1.9
+2019-11-15,201911150GSW,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/201911150GSW.html,34:47,.615,.618,.176,.118,2.6,20.1,10.8,16.8,4.1,0.0,10.1,23.8,112,94,6.5
+2019-11-15,201911150GSW,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/201911150GSW.html,21:51,.421,.429,.143,.429,8.1,22.9,15.1,0.0,4.3,4.1,0.0,15.9,96,90,-3.7
+2019-11-15,201911150GSW,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/201911150GSW.html,18:25,.678,.500,.000,1.500,0.0,5.4,2.6,24.6,2.6,0.0,23.1,19.6,117,102,1.0
+2019-11-15,201911150GSW,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/201911150GSW.html,15:37,1.000,1.000,.000,.000,0.0,19.2,9.0,9.1,3.0,0.0,75.0,10.7,46,97,-7.7
+2019-11-15,201911150GSW,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/201911150GSW.html,14:41,.667,.667,.000,.000,6.1,27.2,16.0,10.7,0.0,12.1,40.0,14.2,86,93,-3.6
+2019-11-15,201911150GSW,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/201911150GSW.html,12:42,.000,.000,.250,.000,0.0,15.7,7.4,20.4,0.0,0.0,0.0,13.1,30,104,-13.6
+2019-11-15,201911150GSW,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/201911150GSW.html,10:02,,,,,17.7,29.9,23.5,38.8,0.0,0.0,,0.0,232,100,9.6
+2019-11-15,201911150GSW,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/201911150GSW.html,4:14,1.000,1.000,.000,.000,0.0,0.0,0.0,44.2,0.0,0.0,0.0,9.8,209,109,8.4
+2019-11-15,201911150GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/201911150GSW.html,34:02,.671,.583,.667,.833,2.9,26.1,15.2,19.0,2.8,2.4,19.6,12.4,122,96,6.1
+2019-11-15,201911150GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/201911150GSW.html,33:25,.494,.464,.286,.357,0.0,21.3,11.3,5.7,0.0,0.0,11.0,22.5,93,106,-3.9
+2019-11-15,201911150GSW,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201911150GSW.html,32:12,.379,.318,.182,.182,3.1,8.3,5.8,5.0,1.5,0.0,0.0,15.3,92,107,-2.9
+2019-11-15,201911150GSW,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201911150GSW.html,25:06,.551,.550,.600,.200,0.0,7.1,3.7,54.8,1.9,3.3,45.3,32.8,70,103,-6.3
+2019-11-15,201911150GSW,GSW,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201911150GSW.html,25:04,.833,.833,.000,.000,4.0,24.8,15.0,15.7,1.9,3.3,14.3,11.6,144,98,10.3
+2019-11-15,201911150GSW,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/201911150GSW.html,30:30,.614,.409,.273,1.091,0.0,8.7,4.6,5.7,1.5,0.0,0.0,22.1,138,106,5.0
+2019-11-15,201911150GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/201911150GSW.html,21:40,.225,.125,.625,.250,0.0,24.6,13.0,7.0,2.2,0.0,10.1,18.9,52,99,-11.8
+2019-11-15,201911150GSW,GSW,Ky Bowman,https://www.basketball-reference.com/boxscores/201911150GSW.html,13:31,.375,.375,.250,.000,14.8,6.6,10.4,0.0,3.5,0.0,11.1,27.6,79,102,-5.9
+2019-11-15,201911150GSW,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/201911150GSW.html,12:55,.667,.667,.333,.000,0.0,13.8,7.3,0.0,0.0,0.0,25.0,12.8,92,108,-4.1
+2019-11-15,201911150GSW,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/201911150GSW.html,11:34,.524,.400,.200,1.200,60.5,7.7,32.5,0.0,0.0,7.2,20.7,34.5,111,105,3.6

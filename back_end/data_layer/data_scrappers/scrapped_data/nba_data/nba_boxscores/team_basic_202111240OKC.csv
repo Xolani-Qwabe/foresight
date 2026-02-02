@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2021-11-24,202111240OKC,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202111240OKC.html,39.17,5,7,.714,0,0,5,6,.833,3,14,17,0,2,5,2,0,15,21.5,+13,
+2021-11-24,202111240OKC,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202111240OKC.html,35.72,6,16,.375,1,7,0,0,,1,2,3,5,1,0,1,2,13,8.2,+2,.143
+2021-11-24,202111240OKC,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202111240OKC.html,31.42,2,9,.222,1,5,0,0,,0,7,7,1,5,2,0,3,5,7.5,-3,.200
+2021-11-24,202111240OKC,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202111240OKC.html,30.52,6,12,.500,2,7,5,6,.833,0,5,5,1,1,0,2,0,19,13.8,-2,.286
+2021-11-24,202111240OKC,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202111240OKC.html,29.43,6,12,.500,4,10,2,2,1.000,1,0,1,4,1,0,1,1,18,15.1,-5,.400
+2021-11-24,202111240OKC,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202111240OKC.html,24.33,7,12,.583,3,7,3,4,.750,0,3,3,5,0,0,1,3,20,16.2,+11,.429
+2021-11-24,202111240OKC,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202111240OKC.html,21.73,1,6,.167,1,6,0,0,,1,0,1,2,1,0,1,1,3,0.9,+5,.167
+2021-11-24,202111240OKC,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202111240OKC.html,16.47,5,8,.625,3,4,2,2,1.000,0,5,5,0,0,0,0,2,15,12.1,+7,.750
+2021-11-24,202111240OKC,UTA,Eric Paschall,https://www.basketball-reference.com/boxscores/202111240OKC.html,5.93,0,2,.000,0,1,0,0,,0,0,0,0,0,1,1,2,0,-2.5,-3,.000
+2021-11-24,202111240OKC,UTA,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202111240OKC.html,2.9,1,2,.500,0,0,0,0,,1,0,1,0,0,0,0,1,2,1.3,-4,
+2021-11-24,202111240OKC,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202111240OKC.html,2.38,0,0,,0,0,0,0,,0,0,0,1,0,0,0,0,0,0.7,+9,
+2021-11-24,202111240OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202111240OKC.html,36.58,8,19,.421,5,12,6,8,.750,0,3,3,3,1,0,2,2,27,17.3,0,.417
+2021-11-24,202111240OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202111240OKC.html,33.73,8,15,.533,3,4,0,0,,0,7,7,8,0,0,6,3,19,12.2,0,.750
+2021-11-24,202111240OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202111240OKC.html,30.58,3,7,.429,1,3,1,2,.500,1,7,8,1,1,3,0,0,8,10.5,-7,.333
+2021-11-24,202111240OKC,OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202111240OKC.html,28.35,5,10,.500,3,4,0,0,,1,9,10,4,0,0,1,3,13,12.0,-1,.750
+2021-11-24,202111240OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202111240OKC.html,26.03,0,1,.000,0,1,1,2,.500,1,2,3,1,1,0,1,3,1,0.7,+6,.000
+2021-11-24,202111240OKC,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202111240OKC.html,17.52,2,8,.250,2,6,2,2,1.000,0,2,2,0,0,1,0,1,8,4.1,-13,.333
+2021-11-24,202111240OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202111240OKC.html,17.42,6,6,1.000,0,0,0,2,.000,0,2,2,3,3,0,1,3,12,12.9,+1,
+2021-11-24,202111240OKC,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202111240OKC.html,15.22,2,4,.500,0,1,0,0,,1,0,1,1,0,0,0,2,4,2.6,-3,.000
+2021-11-24,202111240OKC,OKC,Derrick Favors,https://www.basketball-reference.com/boxscores/202111240OKC.html,13.78,0,4,.000,0,2,1,2,.500,0,4,4,0,1,0,0,0,1,0.0,-9,.000
+2021-11-24,202111240OKC,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202111240OKC.html,12.62,1,3,.333,0,2,4,4,1.000,0,2,2,0,0,0,0,0,6,4.9,-8,.000
+2021-11-24,202111240OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202111240OKC.html,8.17,2,5,.400,1,1,0,0,,0,1,1,0,0,0,1,1,5,1.2,+4,1.000

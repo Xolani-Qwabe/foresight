@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-16,202204160GSW,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202204160GSW.html,35:34,.636,.611,.333,.111,0.0,22.5,10.7,22.9,0.0,2.9,13.7,27.2,115,131,3.4
+2022-04-16,202204160GSW,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202204160GSW.html,34:34,.483,.480,.160,.080,13.9,23.1,18.3,31.6,4.4,3.0,10.4,36.9,103,120,5.1
+2022-04-16,202204160GSW,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202204160GSW.html,31:23,.530,.500,.556,.111,0.0,0.0,0.0,24.9,4.8,0.0,9.6,14.7,117,127,1.4
+2022-04-16,202204160GSW,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202204160GSW.html,26:21,.353,.300,.300,.300,13.7,10.1,12.0,0.0,0.0,0.0,0.0,19.0,91,136,-12.2
+2022-04-16,202204160GSW,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202204160GSW.html,23:11,.902,1.000,.667,.667,5.2,17.3,10.9,5.3,2.2,0.0,0.0,7.4,179,129,3.8
+2022-04-16,202204160GSW,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202204160GSW.html,26:06,.460,.400,.600,.200,0.0,5.1,2.4,4.7,0.0,0.0,15.5,10.9,86,137,-11.0
+2022-04-16,202204160GSW,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202204160GSW.html,17:07,.500,.500,.700,.000,0.0,15.6,7.4,26.5,0.0,0.0,9.1,28.4,102,134,-4.5
+2022-04-16,202204160GSW,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202204160GSW.html,14:44,.500,.500,.333,.000,8.1,27.1,17.1,8.2,0.0,0.0,0.0,9.0,127,131,-5.2
+2022-04-16,202204160GSW,DEN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202204160GSW.html,13:47,.625,.625,.500,.000,0.0,0.0,0.0,0.0,3.7,0.0,0.0,12.8,123,129,-1.0
+2022-04-16,202204160GSW,DEN,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202204160GSW.html,9:39,.595,.500,.200,.400,0.0,27.6,13.1,30.1,0.0,10.6,0.0,26.9,137,126,16.7
+2022-04-16,202204160GSW,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202204160GSW.html,3:47,,,,,0.0,35.2,16.7,29.5,0.0,0.0,100.0,11.7,44,130,-9.3
+2022-04-16,202204160GSW,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202204160GSW.html,3:47,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.7,300,137,14.9
+2022-04-16,202204160GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202204160GSW.html,30:06,.908,.885,.538,.615,0.0,4.0,2.1,16.7,0.0,0.0,15.4,29.2,146,120,9.8
+2022-04-16,202204160GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202204160GSW.html,29:29,.627,.591,.182,.364,4.5,32.6,19.3,9.8,1.7,0.0,7.3,21.0,127,110,0.7
+2022-04-16,202204160GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202204160GSW.html,29:05,.633,.633,.667,.000,0.0,12.4,6.5,10.5,0.0,0.0,16.7,27.8,102,118,-3.2
+2022-04-16,202204160GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202204160GSW.html,28:55,.806,.786,.286,.143,4.6,20.7,13.1,43.1,0.0,8.6,0.0,11.6,190,110,17.0
+2022-04-16,202204160GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202204160GSW.html,13:09,.773,.667,.000,.667,30.4,36.5,33.6,0.0,0.0,0.0,0.0,13.3,182,113,0.7
+2022-04-16,202204160GSW,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202204160GSW.html,25:05,.333,.333,.500,.000,0.0,4.8,2.5,19.5,2.0,3.3,14.3,12.5,92,113,-4.9
+2022-04-16,202204160GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202204160GSW.html,21:41,.559,.500,.462,.231,12.3,5.5,8.7,27.7,2.3,0.0,6.5,31.8,127,115,5.4
+2022-04-16,202204160GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202204160GSW.html,19:40,.644,.667,.000,.667,13.6,6.1,9.6,12.8,0.0,4.2,0.0,8.9,163,117,3.4
+2022-04-16,202204160GSW,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202204160GSW.html,14:57,.488,.500,.333,.833,8.9,16.1,12.7,9.6,3.4,5.5,19.6,30.7,88,106,-8.5
+2022-04-16,202204160GSW,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202204160GSW.html,13:25,.000,.000,1.000,.000,0.0,17.9,9.4,33.3,0.0,6.2,0.0,3.4,148,112,2.6
+2022-04-16,202204160GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202204160GSW.html,3:37,.568,,,,0.0,0.0,0.0,30.9,0.0,22.9,53.2,23.4,79,104,4.4
+2022-04-16,202204160GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202204160GSW.html,3:37,.500,.500,.000,.000,0.0,66.4,34.9,0.0,0.0,0.0,0.0,24.9,100,105,-11.0
+2022-04-16,202204160GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202204160GSW.html,3:37,.266,.000,1.000,2.000,0.0,0.0,0.0,30.9,14.0,0.0,0.0,23.4,93,90,7.6
+2022-04-16,202204160GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202204160GSW.html,3:37,1.500,1.500,1.000,.000,0.0,33.2,17.5,0.0,0.0,0.0,0.0,12.4,300,114,22.8

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-02-25,202402250HOU,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202402250HOU.html,36:35,.668,.609,.130,.391,0.0,12.9,6.7,31.7,3.8,2.5,12.9,36.1,124,105,9.9
+2024-02-25,202402250HOU,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202402250HOU.html,36:11,.481,.455,.273,.091,0.0,10.4,5.4,19.5,0.0,0.0,0.0,27.0,109,116,-5.9
+2024-02-25,202402250HOU,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202402250HOU.html,33:12,.859,.844,.500,.125,6.2,17.0,11.8,33.6,1.4,8.3,10.6,24.2,158,105,20.2
+2024-02-25,202402250HOU,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202402250HOU.html,31:32,.810,.778,.667,.222,0.0,14.9,7.8,7.9,1.5,0.0,0.0,13.4,162,110,4.0
+2024-02-25,202402250HOU,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202402250HOU.html,23:10,.200,.200,.000,.000,13.2,24.4,19.0,23.6,6.0,4.0,16.7,11.0,101,94,0.4
+2024-02-25,202402250HOU,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202402250HOU.html,18:30,.429,.429,.714,.000,5.5,5.1,5.3,6.4,0.0,10.0,0.0,16.1,103,112,-0.8
+2024-02-25,202402250HOU,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202402250HOU.html,16:55,.500,.500,.600,.000,0.0,16.7,8.7,0.0,8.3,0.0,16.7,15.1,78,94,-3.0
+2024-02-25,202402250HOU,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202402250HOU.html,15:03,.000,.000,.500,.000,6.8,6.3,6.5,0.0,3.1,6.1,0.0,5.7,44,107,-6.4
+2024-02-25,202402250HOU,OKC,Gordon Hayward,https://www.basketball-reference.com/boxscores/202402250HOU.html,12:11,.000,.000,.000,.000,16.8,15.5,16.1,17.1,0.0,0.0,25.0,14.0,65,114,-12.6
+2024-02-25,202402250HOU,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202402250HOU.html,11:57,.625,.625,.750,.000,8.5,31.5,20.5,10.6,0.0,0.0,0.0,14.3,141,108,2.8
+2024-02-25,202402250HOU,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202402250HOU.html,4:44,1.000,1.000,.000,.000,0.0,19.9,10.3,0.0,0.0,0.0,0.0,9.0,200,112,-2.7
+2024-02-25,202402250HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202402250HOU.html,41:28,.597,.533,.600,.267,9.1,32.0,20.1,14.9,1.1,0.0,5.6,17.0,135,118,7.2
+2024-02-25,202402250HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202402250HOU.html,38:08,.592,.563,.625,.125,2.5,5.4,3.9,12.9,1.2,0.0,19.2,21.7,104,125,-1.9
+2024-02-25,202402250HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202402250HOU.html,33:21,.597,.600,.500,.200,2.8,3.1,2.9,8.9,0.0,0.0,8.4,14.1,121,129,-0.5
+2024-02-25,202402250HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202402250HOU.html,31:52,.423,.423,.385,.000,3.0,19.2,10.8,19.8,0.0,4.9,13.3,18.7,92,120,-1.7
+2024-02-25,202402250HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202402250HOU.html,29:30,.630,.542,.250,.583,16.0,24.2,19.9,11.5,1.6,2.6,28.5,28.3,103,117,-0.2
+2024-02-25,202402250HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202402250HOU.html,21:04,.255,.200,.200,.400,4.5,24.2,13.9,6.8,4.4,11.0,7.8,24.0,62,103,-4.7
+2024-02-25,202402250HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202402250HOU.html,16:44,.558,.500,.444,.444,0.0,18.3,8.8,0.0,2.8,4.6,15.7,30.2,96,114,-1.4
+2024-02-25,202402250HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202402250HOU.html,15:43,.333,.333,.667,.000,0.0,0.0,0.0,8.7,0.0,0.0,0.0,7.6,90,129,-6.3
+2024-02-25,202402250HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202402250HOU.html,10:42,.700,.700,.200,.000,0.0,0.0,0.0,18.3,0.0,0.0,16.7,22.2,118,129,2.3
+2024-02-25,202402250HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202402250HOU.html,1:28,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-7.3

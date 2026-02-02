@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-03-08,202003080SAC,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202003080SAC.html,42:47,.681,.667,.571,.190,0.0,5.1,2.6,21.0,2.3,1.9,4.2,25.9,127,116,7.4
+2020-03-08,202003080SAC,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202003080SAC.html,38:50,.685,.714,.429,.571,0.0,5.6,2.9,0.0,1.2,0.0,18.6,12.9,97,119,-6.6
+2020-03-08,202003080SAC,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202003080SAC.html,38:25,.621,.533,.533,.533,0.0,22.7,11.6,20.6,3.8,0.0,5.1,23.7,125,109,4.8
+2020-03-08,202003080SAC,TOR,Serge Ibaka,https://www.basketball-reference.com/boxscores/202003080SAC.html,35:48,.638,.550,.400,.400,6.4,24.4,15.6,20.8,0.0,4.5,14.5,17.9,127,114,2.1
+2020-03-08,202003080SAC,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202003080SAC.html,35:44,.872,.867,.667,.333,0.0,15.3,7.8,42.0,4.1,0.0,10.4,25.1,155,111,15.9
+2020-03-08,202003080SAC,TOR,Patrick McCaw,https://www.basketball-reference.com/boxscores/202003080SAC.html,16:47,.500,.500,1.000,.000,0.0,13.0,6.7,7.9,2.9,0.0,0.0,8.3,105,114,-1.9
+2020-03-08,202003080SAC,TOR,Marc Gasol,https://www.basketball-reference.com/boxscores/202003080SAC.html,15:46,.300,.300,.600,.000,0.0,13.8,7.1,16.9,0.0,0.0,0.0,14.8,78,120,-6.9
+2020-03-08,202003080SAC,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202003080SAC.html,5:53,.000,.000,.750,.000,0.0,55.6,28.5,0.0,0.0,0.0,20.0,39.7,0,110,-48.7
+2020-03-08,202003080SAC,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202003080SAC.html,5:43,,,,,0.0,19.1,9.8,21.5,0.0,0.0,,0.0,249,119,0.8
+2020-03-08,202003080SAC,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202003080SAC.html,4:17,.174,.000,1.000,1.000,0.0,25.5,13.0,0.0,0.0,0.0,0.0,31.4,37,117,-35.2
+2020-03-08,202003080SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202003080SAC.html,33:58,.414,.350,.300,.200,9.6,6.7,8.2,11.2,1.4,4.2,0.0,13.8,113,119,-0.3
+2020-03-08,202003080SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202003080SAC.html,30:40,.686,.563,.375,.625,3.6,11.2,7.3,21.2,0.0,0.0,12.8,33.0,129,125,4.1
+2020-03-08,202003080SAC,SAC,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202003080SAC.html,30:07,.431,.450,.600,.100,0.0,15.2,7.4,8.9,1.6,4.7,22.3,19.3,71,117,-9.4
+2020-03-08,202003080SAC,SAC,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202003080SAC.html,29:53,.543,.500,.333,.167,7.3,30.6,18.7,9.9,0.0,4.7,0.0,18.6,124,120,0.1
+2020-03-08,202003080SAC,SAC,Harry Giles,https://www.basketball-reference.com/boxscores/202003080SAC.html,14:18,.333,.333,.000,.000,0.0,24.0,11.7,17.4,0.0,0.0,0.0,9.1,97,124,-4.9
+2020-03-08,202003080SAC,SAC,Kent Bazemore,https://www.basketball-reference.com/boxscores/202003080SAC.html,26:16,.631,.591,.182,.182,0.0,26.1,12.7,5.9,0.0,0.0,7.8,21.2,118,124,-1.0
+2020-03-08,202003080SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202003080SAC.html,23:39,.458,.458,.667,.000,4.6,19.3,11.8,6.0,2.0,0.0,14.3,25.6,85,120,-4.9
+2020-03-08,202003080SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202003080SAC.html,18:53,.676,.750,.000,.250,0.0,18.2,8.9,14.8,0.0,15.0,18.4,12.4,113,113,0.8
+2020-03-08,202003080SAC,SAC,Cory Joseph,https://www.basketball-reference.com/boxscores/202003080SAC.html,17:27,.515,.333,.667,.667,0.0,19.6,9.6,42.0,5.6,0.0,20.5,12.1,122,111,8.2
+2020-03-08,202003080SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202003080SAC.html,14:49,.727,.667,.000,.333,22.1,30.9,26.4,14.4,0.0,19.1,0.0,30.1,157,110,16.5

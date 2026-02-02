@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-08,202204080DET,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202204080DET.html,28:18,.577,.577,.538,.000,0.0,3.4,1.8,4.3,3.3,0.0,0.0,18.7,118,99,3.0
+2022-04-08,202204080DET,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202204080DET.html,27:41,.691,.594,.188,.813,3.9,41.6,24.0,40.3,3.4,0.0,4.4,33.4,149,88,26.9
+2022-04-08,202204080DET,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202204080DET.html,26:49,.455,.455,.364,.000,0.0,10.7,5.7,39.2,0.0,0.0,15.4,19.7,105,105,-3.9
+2022-04-08,202204080DET,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202204080DET.html,21:39,.699,.667,.333,.167,0.0,4.4,2.4,5.4,0.0,0.0,0.0,12.1,145,107,0.4
+2022-04-08,202204080DET,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202204080DET.html,21:04,.773,.773,.364,.000,10.4,9.1,9.7,0.0,0.0,5.4,8.3,23.1,137,102,8.0
+2022-04-08,202204080DET,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202204080DET.html,23:32,.563,.500,.625,.250,4.6,12.2,8.7,9.3,2.0,0.0,10.1,17.1,116,100,1.3
+2022-04-08,202204080DET,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202204080DET.html,21:36,.308,.308,.231,.000,20.2,48.9,35.5,0.0,0.0,0.0,0.0,24.5,87,94,-10.1
+2022-04-08,202204080DET,MIL,George Hill,https://www.basketball-reference.com/boxscores/202204080DET.html,16:12,.683,.583,.667,.500,0.0,0.0,0.0,7.2,0.0,0.0,12.0,20.9,125,108,-0.3
+2022-04-08,202204080DET,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202204080DET.html,13:46,.500,.500,.667,.000,0.0,7.0,3.7,22.5,3.4,0.0,25.0,11.8,102,98,-1.2
+2022-04-08,202204080DET,MIL,Serge Ibaka,https://www.basketball-reference.com/boxscores/202204080DET.html,11:17,.800,.800,.200,.000,19.3,17.0,18.1,0.0,0.0,0.0,0.0,18.0,167,103,3.3
+2022-04-08,202204080DET,MIL,Lindell Wigginton,https://www.basketball-reference.com/boxscores/202204080DET.html,7:51,.258,.000,.333,.667,0.0,24.5,13.0,24.5,0.0,0.0,0.0,20.1,86,101,-8.5
+2022-04-08,202204080DET,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202204080DET.html,5:57,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.5,200,108,11.5
+2022-04-08,202204080DET,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202204080DET.html,5:57,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.8,200,108,0.8
+2022-04-08,202204080DET,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202204080DET.html,5:57,.174,.000,.500,1.000,0.0,48.4,25.7,0.0,0.0,0.0,0.0,19.7,41,94,-15.0
+2022-04-08,202204080DET,MIL,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202204080DET.html,2:24,,,,,0.0,0.0,0.0,80.0,19.6,0.0,,0.0,222,62,43.3
+2022-04-08,202204080DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202204080DET.html,38:31,.371,.333,.278,.111,0.0,17.0,8.0,31.7,0.0,1.9,24.1,27.9,68,130,-14.2
+2022-04-08,202204080DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202204080DET.html,32:34,.482,.421,.632,.211,0.0,3.3,1.6,11.9,0.0,0.0,0.0,27.5,100,134,-5.8
+2022-04-08,202204080DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202204080DET.html,27:20,.333,.333,.556,.000,0.0,12.0,5.6,17.7,0.0,2.7,0.0,14.2,81,130,-9.2
+2022-04-08,202204080DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202204080DET.html,26:31,.363,.250,.667,.333,18.1,28.8,23.1,21.8,0.0,5.7,0.0,11.2,123,124,-0.3
+2022-04-08,202204080DET,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202204080DET.html,19:23,.000,.000,.500,.000,0.0,16.9,7.9,0.0,4.8,0.0,0.0,4.5,0,121,-10.3
+2022-04-08,202204080DET,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202204080DET.html,23:59,1.019,1.000,.455,.364,8.0,4.5,6.4,23.6,3.9,0.0,7.3,24.8,178,126,23.5
+2022-04-08,202204080DET,DET,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202204080DET.html,22:48,.776,.643,.571,1.286,4.2,19.1,11.2,39.6,0.0,3.3,21.5,26.4,131,128,8.0
+2022-04-08,202204080DET,DET,Braxton Key,https://www.basketball-reference.com/boxscores/202204080DET.html,19:54,.363,.333,.667,.333,0.0,21.9,10.3,16.0,2.4,0.0,12.7,17.1,74,125,-9.4
+2022-04-08,202204080DET,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202204080DET.html,15:46,.188,.188,.625,.000,6.1,20.8,13.0,9.5,3.0,0.0,0.0,21.9,54,124,-14.0
+2022-04-08,202204080DET,DET,Carsen Edwards,https://www.basketball-reference.com/boxscores/202204080DET.html,13:14,.625,.625,.750,.000,0.0,16.5,7.7,13.1,0.0,0.0,0.0,13.1,122,132,-4.1

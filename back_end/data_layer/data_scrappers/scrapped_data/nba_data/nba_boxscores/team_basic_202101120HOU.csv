@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-12,202101120HOU,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202101120HOU.html,29.18,10,20,.500,4,9,.444,2,4,.500,1,7,8,5,0,1,5,0,26,17.2,+15
+2021-01-12,202101120HOU,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202101120HOU.html,28.88,7,8,.875,1,1,1.000,4,4,1.000,2,8,10,2,0,5,0,1,19,24.5,+21
+2021-01-12,202101120HOU,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202101120HOU.html,25.25,6,9,.667,2,2,1.000,0,0,,1,2,3,3,1,0,3,2,14,10.7,+22
+2021-01-12,202101120HOU,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202101120HOU.html,21.33,2,6,.333,1,4,.250,0,0,,0,4,4,5,2,2,2,0,5,7.7,+17
+2021-01-12,202101120HOU,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202101120HOU.html,20.1,5,9,.556,4,5,.800,0,0,,2,1,3,1,3,0,0,1,14,14.7,+19
+2021-01-12,202101120HOU,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202101120HOU.html,27.42,4,6,.667,1,2,.500,2,3,.667,0,11,11,1,0,0,2,3,11,8.8,-2
+2021-01-12,202101120HOU,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202101120HOU.html,26.67,4,8,.500,0,0,,6,8,.750,2,2,4,1,0,2,0,2,14,12.5,0
+2021-01-12,202101120HOU,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202101120HOU.html,17.75,0,4,.000,0,2,.000,0,0,,1,5,6,3,3,1,2,1,0,2.8,+8
+2021-01-12,202101120HOU,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202101120HOU.html,16.78,1,8,.125,0,4,.000,2,4,.500,1,1,2,4,1,0,4,5,4,-3.2,-1
+2021-01-12,202101120HOU,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202101120HOU.html,14.87,2,4,.500,1,2,.500,2,2,1.000,1,2,3,1,0,1,1,2,7,5.9,-1
+2021-01-12,202101120HOU,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/202101120HOU.html,7.52,1,2,.500,0,1,.000,1,2,.500,0,0,0,0,0,0,1,1,3,0.2,-10
+2021-01-12,202101120HOU,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202101120HOU.html,4.25,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2021-01-12,202101120HOU,HOU,James Harden,https://www.basketball-reference.com/boxscores/202101120HOU.html,30.92,5,16,.313,1,6,.167,5,5,1.000,1,6,7,6,1,0,3,2,16,10.7,-23
+2021-01-12,202101120HOU,HOU,John Wall,https://www.basketball-reference.com/boxscores/202101120HOU.html,29.9,4,11,.364,0,1,.000,2,3,.667,0,0,0,5,2,1,3,0,10,6.7,-18
+2021-01-12,202101120HOU,HOU,Christian Wood,https://www.basketball-reference.com/boxscores/202101120HOU.html,25.9,8,18,.444,2,5,.400,0,0,,2,6,8,1,0,0,2,1,18,10.1,-23
+2021-01-12,202101120HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202101120HOU.html,22.88,0,1,.000,0,1,.000,0,0,,0,1,1,1,2,1,0,2,0,2.2,-19
+2021-01-12,202101120HOU,HOU,David Nwaba,https://www.basketball-reference.com/boxscores/202101120HOU.html,10.47,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0,-12
+2021-01-12,202101120HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202101120HOU.html,25.12,4,9,.444,0,2,.000,1,1,1.000,1,2,3,0,1,1,0,4,9,5.7,+2
+2021-01-12,202101120HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202101120HOU.html,20.62,5,10,.500,3,8,.375,0,0,,0,0,0,2,1,1,0,1,13,10.7,-17
+2021-01-12,202101120HOU,HOU,Sterling Brown,https://www.basketball-reference.com/boxscores/202101120HOU.html,17.92,1,7,.143,0,3,.000,0,0,,2,0,2,1,4,0,1,2,2,1.8,-9
+2021-01-12,202101120HOU,HOU,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202101120HOU.html,17.85,5,9,.556,2,4,.500,1,1,1.000,3,7,10,3,1,0,1,3,13,13.8,+3
+2021-01-12,202101120HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202101120HOU.html,16.92,4,9,.444,3,6,.500,0,0,,0,3,3,1,1,0,3,1,11,5.5,+12
+2021-01-12,202101120HOU,HOU,Mason Jones,https://www.basketball-reference.com/boxscores/202101120HOU.html,12.0,1,4,.250,1,3,.333,2,4,.500,0,3,3,1,1,0,0,2,5,3.6,+9
+2021-01-12,202101120HOU,HOU,KJ Martin,https://www.basketball-reference.com/boxscores/202101120HOU.html,5.27,0,2,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.0,+7
+2021-01-12,202101120HOU,HOU,Bruno Caboclo,https://www.basketball-reference.com/boxscores/202101120HOU.html,4.25,1,1,1.000,0,0,,1,2,.500,1,3,4,0,0,0,0,1,3,3.5,+3

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-30,202212300TOR,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202212300TOR.html,37:17,.869,.778,.444,.778,0.0,6.3,3.5,9.4,0.0,2.7,14.2,17.1,152,123,3.8
+2022-12-30,202212300TOR,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202212300TOR.html,35:09,.683,.625,.500,.500,0.0,16.7,9.4,61.1,1.4,0.0,29.1,26.6,120,120,3.7
+2022-12-30,202212300TOR,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202212300TOR.html,30:58,.200,.200,.000,.000,4.8,22.7,14.9,14.6,0.0,0.0,16.7,17.5,61,122,-13.6
+2022-12-30,202212300TOR,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202212300TOR.html,30:01,.658,.667,.444,.222,10.0,19.5,15.3,5.9,1.7,0.0,16.8,17.9,113,118,-1.4
+2022-12-30,202212300TOR,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202212300TOR.html,12:16,.512,.500,.500,.500,12.2,0.0,5.4,28.8,4.1,0.0,17.0,21.7,109,117,-1.1
+2022-12-30,202212300TOR,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202212300TOR.html,23:27,.900,.900,.800,.000,6.4,5.0,5.6,0.0,8.7,0.0,16.7,11.6,132,105,8.3
+2022-12-30,202212300TOR,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202212300TOR.html,20:47,1.000,1.000,.667,.000,7.2,11.3,9.5,0.0,0.0,0.0,62.5,17.4,55,124,-8.7
+2022-12-30,202212300TOR,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202212300TOR.html,20:00,.514,.357,.429,.571,0.0,11.7,6.6,23.8,0.0,0.0,18.6,24.3,105,124,-3.7
+2022-12-30,202212300TOR,PHO,Jock Landale,https://www.basketball-reference.com/boxscores/202212300TOR.html,17:02,1.042,1.000,.000,1.000,26.4,55.0,42.5,9.6,0.0,0.0,0.0,7.6,226,116,10.0
+2022-12-30,202212300TOR,PHO,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202212300TOR.html,13:03,.550,.550,.500,.000,0.0,17.9,10.1,44.3,0.0,0.0,28.6,48.5,79,123,-14.9
+2022-12-30,202212300TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202212300TOR.html,40:48,.607,.529,.294,.588,5.7,0.0,3.2,23.1,0.0,0.0,8.5,26.4,127,122,-0.5
+2022-12-30,202212300TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202212300TOR.html,39:25,.674,.591,.500,.409,0.0,19.0,8.3,9.2,3.9,3.0,7.2,32.6,129,107,8.3
+2022-12-30,202212300TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202212300TOR.html,38:13,.427,.375,.333,.167,9.2,7.8,8.6,10.8,4.0,3.1,7.2,16.7,104,109,-0.5
+2022-12-30,202212300TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202212300TOR.html,29:25,.735,.700,.500,.200,4.0,20.4,11.2,21.6,3.4,0.0,21.6,21.7,123,109,3.3
+2022-12-30,202212300TOR,TOR,Christian Koloko,https://www.basketball-reference.com/boxscores/202212300TOR.html,21:17,1.031,1.167,.333,.667,5.5,21.1,12.4,0.0,2.4,0.0,0.0,8.4,204,111,1.9
+2022-12-30,202212300TOR,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202212300TOR.html,23:29,.538,.571,.000,.143,5.0,19.2,11.2,12.8,8.6,0.0,21.2,18.5,96,97,3.2
+2022-12-30,202212300TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202212300TOR.html,20:14,.700,.700,.600,.000,0.0,14.8,6.5,0.0,2.5,0.0,0.0,11.4,137,113,-1.3
+2022-12-30,202212300TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202212300TOR.html,18:14,.000,.000,1.000,.000,0.0,24.7,10.8,13.2,0.0,6.4,33.3,15.1,22,113,-17.2
+2022-12-30,202212300TOR,TOR,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202212300TOR.html,4:35,,,,,0.0,32.7,14.3,0.0,0.0,0.0,,0.0,0,114,-4.5
+2022-12-30,202212300TOR,TOR,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202212300TOR.html,4:20,1.000,1.000,.000,.000,0.0,0.0,0.0,38.3,11.7,0.0,0.0,10.6,207,94,24.3

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-28,202211280TOR,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202211280TOR.html,33:07,.758,.727,.455,.182,2.8,10.6,6.3,60.8,4.8,2.6,14.4,19.0,144,102,17.7
+2022-11-28,202211280TOR,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202211280TOR.html,32:30,.541,.500,.286,.429,8.7,43.2,24.1,6.2,1.6,5.3,5.7,24.6,112,100,7.2
+2022-11-28,202211280TOR,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202211280TOR.html,32:10,.091,.091,.455,.000,11.7,3.6,8.1,4.6,1.6,0.0,8.3,16.9,43,113,-14.0
+2022-11-28,202211280TOR,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202211280TOR.html,28:22,.400,.400,.600,.000,3.3,20.6,11.0,5.9,1.9,0.0,0.0,16.0,93,109,-3.1
+2022-11-28,202211280TOR,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202211280TOR.html,25:28,.350,.318,.455,.091,0.0,4.6,2.0,13.3,0.0,0.0,0.0,20.3,84,117,-7.2
+2022-11-28,202211280TOR,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202211280TOR.html,29:19,.372,.278,.444,.444,3.2,20.0,10.7,16.0,0.0,0.0,15.7,19.7,80,114,-7.5
+2022-11-28,202211280TOR,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202211280TOR.html,28:06,.375,.375,.667,.000,0.0,8.3,3.7,0.0,1.9,0.0,14.3,22.6,65,112,-10.3
+2022-11-28,202211280TOR,CLE,Robin Lopez,https://www.basketball-reference.com/boxscores/202211280TOR.html,17:48,.615,.500,.000,.500,10.6,6.6,8.8,20.8,0.0,0.0,12.0,21.2,125,116,2.8
+2022-11-28,202211280TOR,CLE,Isaiah Mobley,https://www.basketball-reference.com/boxscores/202211280TOR.html,6:35,.500,.500,.000,.000,14.3,53.3,31.7,0.0,0.0,0.0,0.0,13.8,118,107,1.2
+2022-11-28,202211280TOR,CLE,Raul Neto,https://www.basketball-reference.com/boxscores/202211280TOR.html,6:35,.750,.750,.250,.000,0.0,17.8,7.9,60.1,0.0,0.0,0.0,27.5,147,114,15.0
+2022-11-28,202211280TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202211280TOR.html,36:44,.769,.769,.462,.000,0.0,2.6,1.4,9.8,1.4,2.5,0.0,16.7,148,101,10.6
+2022-11-28,202211280TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202211280TOR.html,32:29,.433,.433,.400,.000,0.0,5.8,3.2,25.0,1.6,0.0,11.8,24.8,88,101,-3.1
+2022-11-28,202211280TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202211280TOR.html,30:11,.571,.536,.214,.286,3.9,31.2,19.0,30.7,0.0,0.0,11.3,27.8,113,93,4.2
+2022-11-28,202211280TOR,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202211280TOR.html,26:13,.635,.571,.000,.286,4.5,21.5,13.9,18.5,0.0,0.0,11.3,16.0,127,97,3.6
+2022-11-28,202211280TOR,TOR,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202211280TOR.html,20:25,.833,.833,.333,.000,0.0,27.7,15.3,0.0,0.0,4.5,0.0,7.0,155,92,4.5
+2022-11-28,202211280TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202211280TOR.html,26:31,.458,.458,.333,.000,4.4,10.6,7.9,32.4,2.0,10.4,14.3,25.0,95,92,8.5
+2022-11-28,202211280TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202211280TOR.html,25:52,.625,.556,.556,.556,9.1,18.2,14.1,6.3,2.0,0.0,21.1,26.0,104,94,-0.3
+2022-11-28,202211280TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202211280TOR.html,21:45,.434,.250,.250,1.000,0.0,8.7,4.8,0.0,0.0,0.0,0.0,12.5,94,103,-7.9
+2022-11-28,202211280TOR,TOR,Christian Koloko,https://www.basketball-reference.com/boxscores/202211280TOR.html,7:09,1.136,,,,0.0,13.2,7.3,0.0,0.0,0.0,0.0,5.8,250,101,-1.9
+2022-11-28,202211280TOR,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202211280TOR.html,4:29,.000,.000,.000,.000,26.1,21.0,23.3,28.9,0.0,0.0,0.0,21.1,61,98,-8.8
+2022-11-28,202211280TOR,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202211280TOR.html,4:28,.250,.250,.250,.000,26.2,21.1,23.4,40.9,0.0,0.0,0.0,42.4,80,97,-11.2
+2022-11-28,202211280TOR,TOR,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202211280TOR.html,1:52,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,107,-6.9
+2022-11-28,202211280TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202211280TOR.html,1:52,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.3,0,107,-29.1

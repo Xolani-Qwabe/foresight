@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-30,202210300SAS,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202210300SAS.html,36:18,.466,.417,.222,.167,0.0,6.2,2.7,25.8,2.7,2.9,4.9,22.6,107,112,1.7
+2022-10-30,202210300SAS,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202210300SAS.html,35:24,.444,.429,.286,.286,2.5,6.3,4.2,3.8,4.1,2.9,20.2,11.3,80,108,-5.6
+2022-10-30,202210300SAS,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202210300SAS.html,34:18,.577,.553,.368,.421,7.8,26.0,15.9,21.5,1.4,6.1,11.8,30.1,113,105,8.4
+2022-10-30,202210300SAS,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202210300SAS.html,27:50,.294,.294,.412,.000,6.4,12.0,8.9,22.0,0.0,3.7,10.5,27.6,72,115,-11.7
+2022-10-30,202210300SAS,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202210300SAS.html,27:22,.365,.364,.000,.273,19.5,24.5,21.7,0.0,1.8,7.6,7.5,19.7,90,104,-6.1
+2022-10-30,202210300SAS,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202210300SAS.html,23:23,.900,.900,.400,.000,0.0,9.5,4.2,6.5,2.1,0.0,16.7,10.4,141,113,-0.5
+2022-10-30,202210300SAS,MIN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202210300SAS.html,19:19,.291,.167,.333,.333,9.2,5.8,7.7,6.6,5.0,0.0,12.7,16.5,75,108,-4.9
+2022-10-30,202210300SAS,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202210300SAS.html,12:30,1.136,,,,7.1,26.8,15.8,38.4,0.0,0.0,0.0,2.8,226,110,3.6
+2022-10-30,202210300SAS,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202210300SAS.html,10:19,.125,.125,.375,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.3,31,122,-28.6
+2022-10-30,202210300SAS,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202210300SAS.html,8:33,.786,.786,.286,.000,10.4,13.1,11.6,0.0,5.7,0.0,0.0,33.1,153,103,28.6
+2022-10-30,202210300SAS,MIN,Austin Rivers,https://www.basketball-reference.com/boxscores/202210300SAS.html,4:44,.000,.000,.000,.000,0.0,23.6,10.5,0.0,0.0,0.0,0.0,8.5,0,112,-16.1
+2022-10-30,202210300SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202210300SAS.html,38:03,.746,.700,.667,.267,0.0,14.0,7.8,39.0,1.3,1.8,23.0,23.7,125,100,10.2
+2022-10-30,202210300SAS,SAS,Romeo Langford,https://www.basketball-reference.com/boxscores/202210300SAS.html,34:17,.444,.429,.286,.286,13.0,7.8,10.1,4.4,2.8,2.0,11.3,10.7,106,99,-0.7
+2022-10-30,202210300SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202210300SAS.html,33:30,1.000,1.000,.000,.000,3.3,34.5,20.7,17.3,2.9,6.1,60.0,6.2,98,85,3.4
+2022-10-30,202210300SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202210300SAS.html,31:30,.332,.208,.167,.583,3.5,2.8,3.1,37.0,0.0,0.0,11.7,22.4,96,108,-9.5
+2022-10-30,202210300SAS,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202210300SAS.html,22:57,.523,.433,.333,.333,9.7,15.5,12.9,8.9,0.0,0.0,18.9,38.2,95,103,-9.5
+2022-10-30,202210300SAS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202210300SAS.html,25:26,.719,.719,.875,.000,0.0,10.5,5.8,9.0,0.0,2.7,5.9,27.7,130,103,11.4
+2022-10-30,202210300SAS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202210300SAS.html,22:44,.533,.563,.250,.125,9.8,15.6,13.1,15.3,2.1,3.0,19.2,19.0,99,96,-2.7
+2022-10-30,202210300SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202210300SAS.html,19:00,.317,.214,.571,.286,5.9,4.7,5.2,15.1,0.0,0.0,0.0,17.2,99,108,-7.7
+2022-10-30,202210300SAS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202210300SAS.html,8:14,.630,.667,.000,1.333,13.6,10.8,12.0,0.0,0.0,0.0,17.4,28.9,105,105,-2.1
+2022-10-30,202210300SAS,SAS,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202210300SAS.html,4:19,.000,.000,1.000,.000,51.7,41.2,45.9,0.0,0.0,0.0,0.0,9.6,97,92,-8.6

@@ -1,0 +1,19 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-14,202312140BOS,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202312140BOS.html,39:49,.592,.542,.333,.208,3.0,19.6,11.6,28.3,1.3,0.0,10.3,33.1,118,123,5.2
+2023-12-14,202312140BOS,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202312140BOS.html,39:14,.571,.571,.000,.000,3.1,25.6,14.7,10.5,0.0,0.0,30.0,11.5,93,124,-3.4
+2023-12-14,202312140BOS,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202312140BOS.html,36:04,.500,.500,.368,.000,3.3,3.1,3.2,13.6,2.8,0.0,20.8,30.0,86,124,-5.2
+2023-12-14,202312140BOS,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202312140BOS.html,31:17,.500,.500,.800,.000,7.7,7.1,7.4,8.3,0.0,0.0,16.7,8.6,111,129,-5.7
+2023-12-14,202312140BOS,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202312140BOS.html,15:51,.425,.300,1.000,.400,7.6,21.1,14.6,0.0,0.0,0.0,0.0,16.7,104,125,-4.0
+2023-12-14,202312140BOS,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202312140BOS.html,35:03,.697,.656,.375,.375,3.4,6.4,4.9,24.7,4.4,2.8,5.1,25.3,144,118,15.9
+2023-12-14,202312140BOS,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202312140BOS.html,22:08,.410,.250,.500,.500,0.0,10.1,5.2,0.0,0.0,0.0,17.0,12.0,74,129,-10.5
+2023-12-14,202312140BOS,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202312140BOS.html,17:49,1.215,1.250,.500,1.000,6.7,18.8,13.0,15.6,2.9,0.0,25.8,9.8,181,119,10.1
+2023-12-14,202312140BOS,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/202312140BOS.html,2:45,1.000,1.000,.000,.000,43.6,40.6,42.1,0.0,0.0,0.0,50.0,32.8,96,119,-7.3
+2023-12-14,202312140BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202312140BOS.html,37:13,.682,.682,.273,.000,6.0,3.2,4.7,15.2,0.0,0.0,15.4,15.7,131,122,-0.7
+2023-12-14,202312140BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202312140BOS.html,36:26,.529,.477,.455,.364,9.2,26.3,17.5,12.7,0.0,7.9,10.5,35.2,112,111,2.6
+2023-12-14,202312140BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202312140BOS.html,36:01,.550,.550,.250,.000,6.2,10.0,8.0,22.5,2.8,0.0,9.1,27.5,118,114,2.0
+2023-12-14,202312140BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202312140BOS.html,35:10,.643,.600,.400,.200,6.3,10.2,8.2,11.3,4.4,0.0,21.6,17.7,116,111,3.2
+2023-12-14,202312140BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202312140BOS.html,30:43,.620,.500,.545,.727,3.6,19.5,11.3,0.0,1.7,6.3,17.1,25.6,111,110,-1.9
+2023-12-14,202312140BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202312140BOS.html,23:34,.875,.875,.500,.000,14.2,35.6,24.5,16.6,0.0,4.1,0.0,7.6,198,112,10.8
+2023-12-14,202312140BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202312140BOS.html,18:01,1.500,1.500,1.000,.000,0.0,0.0,0.0,7.6,0.0,0.0,0.0,7.5,290,123,11.5
+2023-12-14,202312140BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202312140BOS.html,14:19,.000,.000,1.000,.000,0.0,25.1,12.1,15.6,0.0,6.7,0.0,3.1,102,112,-1.9
+2023-12-14,202312140BOS,BOS,Lamar Stevens,https://www.basketball-reference.com/boxscores/202312140BOS.html,8:32,.515,.333,.667,.667,0.0,14.1,6.8,15.1,6.0,11.3,0.0,20.4,130,98,4.7

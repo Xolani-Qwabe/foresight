@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-12-05,201912050NYK,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/201912050NYK.html,10.08,1,3,.333,0,1,.000,0,0,0,4,4,3,0,1,0,0,2,4.3,-1,
+2019-12-05,201912050NYK,DEN,Q1,Will Barton,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.0,2,3,.667,2,2,1.000,0,0,0,1,1,1,0,0,0,0,6,5.7,-2,
+2019-12-05,201912050NYK,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.0,3,4,.750,1,1,1.000,2,2,1,0,1,0,0,0,1,0,9,7.1,-2,1.000
+2019-12-05,201912050NYK,DEN,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/201912050NYK.html,10.08,1,1,1.000,0,0,,0,0,0,1,1,2,0,0,1,0,2,2.4,-1,
+2019-12-05,201912050NYK,DEN,Q1,Paul Millsap,https://www.basketball-reference.com/boxscores/201912050NYK.html,8.17,0,3,.000,0,2,.000,0,0,0,1,1,1,0,2,0,0,0,0.3,-1,
+2019-12-05,201912050NYK,DEN,Q1,Monte Morris,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.0,1,1,1.000,0,0,,0,0,0,2,2,0,0,1,0,0,2,3.0,+8,
+2019-12-05,201912050NYK,DEN,Q1,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.0,2,2,1.000,2,2,1.000,0,0,0,0,0,1,0,0,0,1,6,5.7,+8,
+2019-12-05,201912050NYK,DEN,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/201912050NYK.html,1.92,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+7,
+2019-12-05,201912050NYK,DEN,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.83,1,2,.500,1,2,.500,0,3,0,0,0,1,0,0,0,1,3,1.1,+7,.000
+2019-12-05,201912050NYK,DEN,Q1,Mason Plumlee,https://www.basketball-reference.com/boxscores/201912050NYK.html,1.92,1,1,1.000,0,0,,1,2,0,0,0,1,0,0,0,0,3,3.0,+7,.500
+2019-12-05,201912050NYK,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.1,2,2,1.000,0,0,,0,0,1,1,2,3,0,0,0,1,4,6.1,+12,
+2019-12-05,201912050NYK,DEN,Q2,Will Barton,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.78,1,1,1.000,0,0,,1,2,0,0,0,1,1,0,0,2,3,3.2,+14,.500
+2019-12-05,201912050NYK,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/201912050NYK.html,4.87,1,2,.500,0,1,.000,0,0,1,1,2,1,0,0,0,0,2,2.7,+10,
+2019-12-05,201912050NYK,DEN,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/201912050NYK.html,2.48,0,0,,0,0,,0,0,0,0,0,0,1,0,0,0,0,1.0,+2,
+2019-12-05,201912050NYK,DEN,Q2,Paul Millsap,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.1,2,4,.500,1,1,1.000,0,0,1,2,3,1,0,0,1,1,5,3.6,+12,
+2019-12-05,201912050NYK,DEN,Q2,Monte Morris,https://www.basketball-reference.com/boxscores/201912050NYK.html,7.13,1,2,.500,0,0,,0,0,0,0,0,1,1,0,0,0,2,2.7,+6,
+2019-12-05,201912050NYK,DEN,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.22,1,4,.250,1,2,.500,0,0,0,1,1,2,0,0,0,0,3,2.3,+2,
+2019-12-05,201912050NYK,DEN,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.52,4,5,.800,3,3,1.000,0,0,0,1,1,0,0,0,0,0,11,9.4,+14,
+2019-12-05,201912050NYK,DEN,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.9,2,3,.667,0,1,.000,0,0,0,0,0,0,0,0,0,1,4,2.3,+4,
+2019-12-05,201912050NYK,DEN,Q2,Mason Plumlee,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.9,0,0,,0,0,,0,0,0,3,3,3,1,0,1,1,0,2.6,+4,
+2019-12-05,201912050NYK,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.55,0,2,.000,0,0,,0,0,0,4,4,2,0,0,0,1,0,0.8,-1,
+2019-12-05,201912050NYK,DEN,Q3,Will Barton,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.3,3,5,.600,2,2,1.000,0,0,0,1,1,0,0,0,0,0,8,6.0,-1,
+2019-12-05,201912050NYK,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/201912050NYK.html,8.32,1,3,.333,0,1,.000,1,2,0,0,0,3,0,0,0,0,3,3.0,+2,.500
+2019-12-05,201912050NYK,DEN,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.3,2,3,.667,2,2,1.000,0,0,0,1,1,0,0,0,0,0,6,5.0,-1,
+2019-12-05,201912050NYK,DEN,Q3,Paul Millsap,https://www.basketball-reference.com/boxscores/201912050NYK.html,8.32,2,3,.667,0,1,.000,1,2,1,1,2,1,0,0,1,1,5,3.6,+2,.500
+2019-12-05,201912050NYK,DEN,Q3,Monte Morris,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.68,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,1,2,4,1.6,-1,
+2019-12-05,201912050NYK,DEN,Q3,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/201912050NYK.html,2.7,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+2,
+2019-12-05,201912050NYK,DEN,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/201912050NYK.html,2.7,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.7,+2,
+2019-12-05,201912050NYK,DEN,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.68,1,1,1.000,0,0,,1,1,0,1,1,0,0,0,0,0,3,3.0,-1,1.000
+2019-12-05,201912050NYK,DEN,Q3,Mason Plumlee,https://www.basketball-reference.com/boxscores/201912050NYK.html,2.45,0,0,,0,0,,0,0,0,0,0,2,1,0,0,0,0,2.4,+2,
+2019-12-05,201912050NYK,DEN,Q4,Monte Morris,https://www.basketball-reference.com/boxscores/201912050NYK.html,12.0,2,4,.500,1,3,.333,2,2,0,1,1,5,2,0,0,2,7,10.0,+14,1.000
+2019-12-05,201912050NYK,DEN,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/201912050NYK.html,12.0,1,6,.167,1,4,.250,0,0,1,1,2,0,0,0,1,1,3,-1.2,+14,
+2019-12-05,201912050NYK,DEN,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.5,0,3,.000,0,3,.000,1,2,0,1,1,1,0,0,0,0,1,-0.5,+10,.500
+2019-12-05,201912050NYK,DEN,Q4,Jerami Grant,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.73,2,3,.667,2,2,1.000,0,0,0,2,2,0,0,0,1,0,6,4.3,+16,
+2019-12-05,201912050NYK,DEN,Q4,Mason Plumlee,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.62,4,4,1.000,0,0,,0,0,3,5,8,0,1,1,2,2,8,9.3,+19,
+2019-12-05,201912050NYK,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.27,2,4,.500,2,3,.667,0,0,0,3,3,1,0,0,2,1,6,3.2,-2,
+2019-12-05,201912050NYK,DEN,Q4,Torrey Craig,https://www.basketball-reference.com/boxscores/201912050NYK.html,4.88,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,
+2019-12-05,201912050NYK,NYK,Q1,Marcus Morris,https://www.basketball-reference.com/boxscores/201912050NYK.html,10.08,2,5,.400,2,4,.500,0,0,0,1,1,0,0,1,0,0,6,4.3,+1,
+2019-12-05,201912050NYK,NYK,Q1,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201912050NYK.html,7.48,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,3,3.4,+2,
+2019-12-05,201912050NYK,NYK,Q1,RJ Barrett,https://www.basketball-reference.com/boxscores/201912050NYK.html,8.17,2,5,.400,1,2,.500,0,0,1,1,2,2,2,0,0,1,5,6.3,+1,
+2019-12-05,201912050NYK,NYK,Q1,Julius Randle,https://www.basketball-reference.com/boxscores/201912050NYK.html,9.0,1,4,.250,0,1,.000,1,2,0,2,2,1,0,0,0,0,3,1.5,+2,.500
+2019-12-05,201912050NYK,NYK,Q1,Taj Gibson,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.75,2,3,.667,0,1,.000,0,0,1,0,1,2,0,0,0,0,4,4.8,+4,
+2019-12-05,201912050NYK,NYK,Q1,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.25,2,2,1.000,0,0,,0,0,1,1,2,0,0,0,0,0,4,4.4,-10,
+2019-12-05,201912050NYK,NYK,Q1,Bobby Portis,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.0,0,0,,0,0,,0,0,0,1,1,0,0,0,1,1,0,-1.1,-8,
+2019-12-05,201912050NYK,NYK,Q1,Kevin Knox,https://www.basketball-reference.com/boxscores/201912050NYK.html,1.92,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,
+2019-12-05,201912050NYK,NYK,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/201912050NYK.html,4.52,0,3,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-2.2,-8,
+2019-12-05,201912050NYK,NYK,Q1,Elfrid Payton,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.83,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,1,2,2.0,-7,
+2019-12-05,201912050NYK,NYK,Q2,Marcus Morris,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.78,0,3,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-2.1,-14,
+2019-12-05,201912050NYK,NYK,Q2,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201912050NYK.html,8.42,0,0,,0,0,,0,0,0,0,0,0,0,0,1,2,0,-1.8,-18,
+2019-12-05,201912050NYK,NYK,Q2,RJ Barrett,https://www.basketball-reference.com/boxscores/201912050NYK.html,7.03,0,2,.000,0,2,.000,0,0,0,1,1,1,1,1,3,0,0,-1.7,-15,
+2019-12-05,201912050NYK,NYK,Q2,Julius Randle,https://www.basketball-reference.com/boxscores/201912050NYK.html,7.03,1,2,.500,0,1,.000,1,2,0,1,1,1,0,0,1,0,3,1.6,-15,.500
+2019-12-05,201912050NYK,NYK,Q2,Taj Gibson,https://www.basketball-reference.com/boxscores/201912050NYK.html,4.55,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-13,
+2019-12-05,201912050NYK,NYK,Q2,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201912050NYK.html,7.45,2,2,1.000,0,0,,3,3,0,3,3,0,0,0,0,0,7,7.3,-3,1.000
+2019-12-05,201912050NYK,NYK,Q2,Bobby Portis,https://www.basketball-reference.com/boxscores/201912050NYK.html,4.97,0,2,.000,0,2,.000,2,2,0,0,0,0,0,0,0,0,2,0.6,-1,1.000
+2019-12-05,201912050NYK,NYK,Q2,Kevin Knox,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.22,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,1,0,0,3,2.7,-2,
+2019-12-05,201912050NYK,NYK,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/201912050NYK.html,3.58,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+2,
+2019-12-05,201912050NYK,NYK,Q2,Elfrid Payton,https://www.basketball-reference.com/boxscores/201912050NYK.html,0.87,0,0,,0,0,,0,0,0,1,1,0,0,0,2,0,0,-1.7,0,
+2019-12-05,201912050NYK,NYK,Q2,Damyean Dotson,https://www.basketball-reference.com/boxscores/201912050NYK.html,4.1,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.7,-1,
+2019-12-05,201912050NYK,NYK,Q3,Marcus Morris,https://www.basketball-reference.com/boxscores/201912050NYK.html,10.43,2,5,.400,0,3,.000,0,0,0,1,1,2,0,0,0,2,4,2.2,-3,
+2019-12-05,201912050NYK,NYK,Q3,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201912050NYK.html,7.8,2,4,.500,2,3,.667,0,0,0,0,0,0,0,0,0,0,6,4.0,-4,
+2019-12-05,201912050NYK,NYK,Q3,RJ Barrett,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.77,2,3,.667,0,1,.000,0,0,0,0,0,2,0,0,0,1,4,3.7,-7,
+2019-12-05,201912050NYK,NYK,Q3,Julius Randle,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.4,0,3,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,-0.4,-5,
+2019-12-05,201912050NYK,NYK,Q3,Taj Gibson,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.77,0,0,,0,0,,0,0,0,1,1,0,0,1,0,0,0,1.0,-7,
+2019-12-05,201912050NYK,NYK,Q3,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.23,2,2,1.000,0,0,,1,1,0,0,0,1,0,1,0,0,5,5.8,+6,1.000
+2019-12-05,201912050NYK,NYK,Q3,Bobby Portis,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.6,1,2,.500,0,1,.000,1,1,0,2,2,0,0,0,0,1,3,2.2,+4,1.000
+2019-12-05,201912050NYK,NYK,Q3,Kevin Knox,https://www.basketball-reference.com/boxscores/201912050NYK.html,1.57,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,0,0,0,3,3.7,+2,
+2019-12-05,201912050NYK,NYK,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/201912050NYK.html,4.2,1,1,1.000,0,0,,1,2,0,1,1,2,0,0,0,1,3,3.6,+3,.500
+2019-12-05,201912050NYK,NYK,Q3,Wayne Ellington,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.23,1,1,1.000,0,0,,0,0,0,0,0,1,1,0,1,0,2,2.4,+6,
+2019-12-05,201912050NYK,NYK,Q4,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201912050NYK.html,12.0,0,2,.000,0,0,,1,4,2,0,2,0,2,0,0,0,1,1.8,-14,.250
+2019-12-05,201912050NYK,NYK,Q4,Bobby Portis,https://www.basketball-reference.com/boxscores/201912050NYK.html,12.0,2,4,.500,0,0,,1,2,0,1,1,0,0,1,0,2,5,2.8,-14,.500
+2019-12-05,201912050NYK,NYK,Q4,Kevin Knox,https://www.basketball-reference.com/boxscores/201912050NYK.html,12.0,1,4,.250,0,1,.000,0,0,0,2,2,0,0,0,0,0,2,0.2,-14,
+2019-12-05,201912050NYK,NYK,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.42,0,2,.000,0,0,,1,2,0,1,1,1,0,1,2,0,1,-1.1,-4,.500
+2019-12-05,201912050NYK,NYK,Q4,Elfrid Payton,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.58,1,4,.250,0,0,,0,0,0,1,1,1,0,0,2,1,2,-1.8,-10,
+2019-12-05,201912050NYK,NYK,Q4,Wayne Ellington,https://www.basketball-reference.com/boxscores/201912050NYK.html,5.53,0,2,.000,0,1,.000,0,0,0,1,1,0,2,0,0,0,0,0.9,-11,
+2019-12-05,201912050NYK,NYK,Q4,Allonzo Trier,https://www.basketball-reference.com/boxscores/201912050NYK.html,6.47,2,3,.667,0,1,.000,2,2,0,2,2,0,0,0,1,1,6,3.9,-3,1.000

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-01,202311010TOR,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202311010TOR.html,30.6,4,9,.444,1,4,.250,6,7,.857,0,2,2,6,0,0,2,1,15,12.3,-26
+2023-11-01,202311010TOR,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202311010TOR.html,27.68,5,11,.455,0,0,,6,9,.667,3,1,4,2,1,0,3,3,16,9.7,-10
+2023-11-01,202311010TOR,MIL,Malik Beasley,https://www.basketball-reference.com/boxscores/202311010TOR.html,25.25,7,10,.700,6,9,.667,0,0,,0,2,2,0,2,0,0,2,20,17.6,-23
+2023-11-01,202311010TOR,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202311010TOR.html,17.13,4,10,.400,1,4,.250,2,2,1.000,0,3,3,0,1,0,4,2,11,2.7,-13
+2023-11-01,202311010TOR,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202311010TOR.html,16.65,1,8,.125,0,4,.000,4,4,1.000,2,1,3,0,2,1,0,0,6,5.2,-22
+2023-11-01,202311010TOR,MIL,Jae Crowder,https://www.basketball-reference.com/boxscores/202311010TOR.html,25.07,3,5,.600,2,3,.667,1,3,.333,1,0,1,3,0,1,0,2,9,8.6,-5
+2023-11-01,202311010TOR,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202311010TOR.html,22.63,1,2,.500,0,1,.000,1,2,.500,0,2,2,1,0,0,1,1,3,1.5,-10
+2023-11-01,202311010TOR,MIL,Cameron Payne,https://www.basketball-reference.com/boxscores/202311010TOR.html,19.1,2,5,.400,0,2,.000,0,0,,0,2,2,1,0,0,1,2,4,0.8,-4
+2023-11-01,202311010TOR,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202311010TOR.html,18.7,2,6,.333,0,1,.000,6,9,.667,1,5,6,1,2,0,1,1,10,8.9,-7
+2023-11-01,202311010TOR,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202311010TOR.html,15.98,2,5,.400,2,5,.400,2,2,1.000,0,2,2,0,0,0,0,0,8,5.9,+5
+2023-11-01,202311010TOR,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202311010TOR.html,6.35,1,1,1.000,0,0,,0,0,,0,1,1,3,1,0,0,2,2,4.3,+4
+2023-11-01,202311010TOR,MIL,Chris Livingston,https://www.basketball-reference.com/boxscores/202311010TOR.html,5.52,2,2,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,5,5.1,+6
+2023-11-01,202311010TOR,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202311010TOR.html,5.52,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,2.3,+6
+2023-11-01,202311010TOR,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202311010TOR.html,3.82,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4
+2023-11-01,202311010TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202311010TOR.html,32.9,9,13,.692,5,8,.625,3,3,1.000,0,6,6,7,0,0,3,3,26,23.0,+22
+2023-11-01,202311010TOR,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202311010TOR.html,29.13,7,10,.700,0,0,,0,0,,4,7,11,2,0,3,2,4,14,14.6,+22
+2023-11-01,202311010TOR,TOR,Dennis Schröder,https://www.basketball-reference.com/boxscores/202311010TOR.html,28.6,9,13,.692,2,4,.500,4,4,1.000,1,3,4,11,1,0,2,2,24,26.0,+21
+2023-11-01,202311010TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202311010TOR.html,28.58,8,16,.500,4,6,.667,1,1,1.000,5,7,12,5,1,2,3,1,21,21.1,+14
+2023-11-01,202311010TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202311010TOR.html,24.95,7,7,1.000,1,1,1.000,1,2,.500,0,2,2,3,1,0,2,5,16,13.2,+16
+2023-11-01,202311010TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202311010TOR.html,23.42,4,11,.364,0,5,.000,0,0,,1,2,3,1,0,0,1,2,8,2.1,+8
+2023-11-01,202311010TOR,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202311010TOR.html,21.25,2,10,.200,1,8,.125,0,0,,0,1,1,0,0,0,0,1,5,-1.3,-3
+2023-11-01,202311010TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202311010TOR.html,19.4,1,3,.333,0,1,.000,0,0,,1,2,3,4,3,0,3,1,2,4.0,-2
+2023-11-01,202311010TOR,TOR,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202311010TOR.html,15.62,2,4,.500,2,4,.500,0,0,,2,1,3,1,0,1,0,3,6,5.9,+11
+2023-11-01,202311010TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202311010TOR.html,13.47,2,4,.500,0,1,.000,2,2,1.000,1,4,5,1,1,0,0,3,6,6.4,-10
+2023-11-01,202311010TOR,TOR,Garrett Temple,https://www.basketball-reference.com/boxscores/202311010TOR.html,2.68,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-4

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-22,202110220DEN,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202110220DEN.html,37:24,.683,.667,.111,.222,0.0,12.8,6.4,10.4,3.8,0.0,4.8,24.2,129,98,9.0
+2021-10-22,202110220DEN,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202110220DEN.html,36:44,.542,.462,.538,.308,0.0,6.5,3.3,31.2,2.6,4.7,11.9,19.9,112,99,8.2
+2021-10-22,202110220DEN,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202110220DEN.html,34:53,.417,.417,.222,.000,3.4,27.5,15.5,27.2,2.7,0.0,18.2,27.5,81,98,-3.2
+2021-10-22,202110220DEN,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202110220DEN.html,30:58,.417,.417,.667,.000,0.0,11.6,5.8,4.2,0.0,0.0,25.0,11.3,65,107,-7.3
+2021-10-22,202110220DEN,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202110220DEN.html,26:10,.759,.778,.000,.222,18.3,18.3,18.3,6.8,1.8,0.0,23.3,21.4,117,102,1.8
+2021-10-22,202110220DEN,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202110220DEN.html,20:15,.436,.417,.333,.333,0.0,23.7,11.9,13.4,2.3,0.0,12.7,17.0,86,100,-0.4
+2021-10-22,202110220DEN,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202110220DEN.html,20:13,.381,.357,.429,.286,5.9,17.8,11.9,6.7,4.7,0.0,0.0,17.0,90,96,1.4
+2021-10-22,202110220DEN,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202110220DEN.html,12:42,1.000,1.000,.000,.000,9.4,28.3,18.9,23.3,0.0,0.0,60.0,17.2,86,103,-4.9
+2021-10-22,202110220DEN,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202110220DEN.html,10:20,.000,.000,1.000,.000,0.0,11.6,5.8,11.6,0.0,0.0,33.3,12.7,19,107,-14.2
+2021-10-22,202110220DEN,SAS,Thaddeus Young,https://www.basketball-reference.com/boxscores/202110220DEN.html,9:08,.333,.333,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,40.0,23.9,38,109,-19.5
+2021-10-22,202110220DEN,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202110220DEN.html,1:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,35.8,0,109,-45.8
+2021-10-22,202110220DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202110220DEN.html,33:37,.787,.789,.105,.158,17.8,39.3,28.6,41.6,4.2,2.4,22.8,34.0,127,85,21.0
+2021-10-22,202110220DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202110220DEN.html,31:38,.462,.462,.308,.000,3.8,22.8,13.3,25.0,0.0,0.0,0.0,17.8,115,99,3.4
+2021-10-22,202110220DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202110220DEN.html,29:49,.581,.500,.167,.333,8.0,12.1,10.1,4.1,0.0,0.0,30.4,14.4,92,100,-7.9
+2021-10-22,202110220DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202110220DEN.html,29:07,.542,.542,.417,.000,0.0,8.2,4.1,4.8,1.6,0.0,25.0,23.9,78,98,-7.0
+2021-10-22,202110220DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202110220DEN.html,27:10,.350,.350,.500,.000,0.0,4.4,2.2,0.0,1.7,0.0,9.1,17.6,65,98,-9.7
+2021-10-22,202110220DEN,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202110220DEN.html,21:19,.543,.583,.500,.167,0.0,11.3,5.6,18.1,0.0,0.0,0.0,13.1,123,101,4.0
+2021-10-22,202110220DEN,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202110220DEN.html,18:53,.500,.500,.375,.000,0.0,25.4,12.7,30.1,2.5,4.2,11.1,20.7,106,90,5.7
+2021-10-22,202110220DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202110220DEN.html,18:29,.333,.333,.667,.000,0.0,6.5,3.2,12.5,0.0,0.0,25.0,9.4,73,102,-5.1
+2021-10-22,202110220DEN,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202110220DEN.html,15:53,.307,.250,.500,.500,0.0,7.6,3.8,7.4,3.0,0.0,17.0,16.1,63,95,-7.1
+2021-10-22,202110220DEN,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202110220DEN.html,14:05,1.000,1.000,.600,.000,0.0,17.0,8.5,11.2,10.1,0.0,44.4,27.8,89,78,11.2

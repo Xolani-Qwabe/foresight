@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-07,202403070IND,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202403070IND.html,39:41,.682,.636,.000,.455,16.1,23.0,19.5,0.0,2.4,6.5,13.2,15.9,133,106,3.6
+2024-03-07,202403070IND,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202403070IND.html,38:36,.571,.557,.200,.229,5.5,11.8,8.6,15.8,2.5,4.4,0.0,41.5,126,110,16.6
+2024-03-07,202403070IND,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202403070IND.html,30:22,.278,.278,.667,.000,3.5,15.1,9.1,14.8,3.2,0.0,18.2,15.1,72,111,-6.7
+2024-03-07,202403070IND,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202403070IND.html,27:53,.698,.643,.143,.286,3.8,28.7,15.8,26.4,0.0,0.0,0.0,11.8,165,116,7.4
+2024-03-07,202403070IND,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202403070IND.html,27:40,.255,.200,.000,.400,0.0,12.4,6.0,15.7,0.0,0.0,14.5,10.3,75,118,-11.5
+2024-03-07,202403070IND,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202403070IND.html,27:52,.460,.400,.400,.200,3.8,4.1,4.0,8.8,3.5,0.0,15.5,19.2,93,112,-5.0
+2024-03-07,202403070IND,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202403070IND.html,26:03,.433,.433,.267,.000,8.2,26.3,16.9,10.5,1.9,3.3,11.8,27.2,91,110,-2.5
+2024-03-07,202403070IND,MIN,T.J. Warren,https://www.basketball-reference.com/boxscores/202403070IND.html,16:05,.700,.700,.600,.000,0.0,7.1,3.4,0.0,0.0,0.0,0.0,12.9,143,119,-0.2
+2024-03-07,202403070IND,MIN,Monte Morris,https://www.basketball-reference.com/boxscores/202403070IND.html,5:48,1.000,1.000,.000,.000,0.0,19.7,9.5,43.9,0.0,0.0,0.0,7.2,206,118,11.7
+2024-03-07,202403070IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202403070IND.html,37:18,.686,.667,.467,.267,0.0,8.6,4.4,55.0,1.3,0.0,23.0,26.1,122,118,5.8
+2024-03-07,202403070IND,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202403070IND.html,33:35,.563,.525,.150,.150,6.8,6.4,6.6,10.3,0.0,0.0,8.6,31.1,108,122,-1.8
+2024-03-07,202403070IND,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202403070IND.html,30:33,.700,.700,.400,.000,7.5,14.0,10.8,12.6,1.6,0.0,37.5,11.7,103,116,-3.1
+2024-03-07,202403070IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202403070IND.html,30:17,.353,.250,.400,.300,0.0,14.1,7.3,4.1,0.0,4.3,0.0,16.7,80,116,-6.6
+2024-03-07,202403070IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202403070IND.html,20:49,.588,.563,.375,.625,5.5,30.7,18.6,7.0,0.0,12.6,16.4,26.3,102,104,1.1
+2024-03-07,202403070IND,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202403070IND.html,20:22,.916,1.100,.200,1.200,5.6,5.2,5.4,31.2,0.0,3.2,0.0,16.8,189,120,18.8
+2024-03-07,202403070IND,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202403070IND.html,18:31,.750,.750,.500,.000,0.0,23.0,11.9,0.0,0.0,0.0,0.0,9.7,138,116,-1.6
+2024-03-07,202403070IND,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202403070IND.html,15:40,.625,.625,.500,.000,7.3,27.2,17.6,8.5,3.1,0.0,0.0,11.4,137,109,4.8
+2024-03-07,202403070IND,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202403070IND.html,14:25,.333,.333,.333,.000,0.0,22.2,11.5,0.0,0.0,9.1,25.0,12.4,48,110,-7.5
+2024-03-07,202403070IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202403070IND.html,11:41,.429,.429,.143,.000,0.0,9.1,4.7,13.8,8.3,0.0,22.2,34.5,68,103,-4.2
+2024-03-07,202403070IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202403070IND.html,6:49,1.064,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,9.6,0.0,12.4,228,116,8.7

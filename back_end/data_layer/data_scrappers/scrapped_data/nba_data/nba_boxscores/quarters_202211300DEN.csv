@@ -1,0 +1,78 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-11-30,202211300DEN,HOU,Q1,Jalen Green,https://www.basketball-reference.com/boxscores/202211300DEN.html,10.28,2,3,.667,0,1,.000,2,4,.500,0,1,1,0,0,0,1,0,6,3.2,-16
+2022-11-30,202211300DEN,HOU,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.38,3,5,.600,1,1,1.000,1,1,1.000,1,1,2,1,1,0,1,1,8,7.0,-14
+2022-11-30,202211300DEN,HOU,Q1,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.15,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,-6
+2022-11-30,202211300DEN,HOU,Q1,Alperen Şengün,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.15,3,5,.600,0,1,.000,0,0,,1,1,2,0,0,0,1,2,6,2.9,-6
+2022-11-30,202211300DEN,HOU,Q1,Eric Gordon,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.83,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,2,0,0,-2.7,-9
+2022-11-30,202211300DEN,HOU,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202211300DEN.html,5.88,0,1,.000,0,0,,1,2,.500,0,0,0,1,0,0,0,0,1,0.6,-15
+2022-11-30,202211300DEN,HOU,Q1,Daishen Nix,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.62,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,0,3,2.3,-6
+2022-11-30,202211300DEN,HOU,Q1,Usman Garuba,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.85,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,1,0,-0.7,-14
+2022-11-30,202211300DEN,HOU,Q1,Tari Eason,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.85,0,2,.000,0,2,.000,0,0,,1,1,2,0,0,1,0,1,0,-0.1,-14
+2022-11-30,202211300DEN,HOU,Q2,Jalen Green,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.33,1,7,.143,0,3,.000,0,0,,0,0,0,1,0,0,1,0,2,-2.8,-2
+2022-11-30,202211300DEN,HOU,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.6,1,6,.167,1,3,.333,0,0,,1,2,3,0,0,0,1,0,3,-0.5,-4
+2022-11-30,202211300DEN,HOU,Q2,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.92,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,0,2,3,2.9,-13
+2022-11-30,202211300DEN,HOU,Q2,Alperen Şengün,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.23,2,3,.667,0,0,,0,0,,1,3,4,1,0,0,0,0,4,5.0,-2
+2022-11-30,202211300DEN,HOU,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.67,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-5
+2022-11-30,202211300DEN,HOU,Q2,Garrison Mathews,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.6,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,2,3,1.2,-4
+2022-11-30,202211300DEN,HOU,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.4,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2022-11-30,202211300DEN,HOU,Q2,Daishen Nix,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.4,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-3
+2022-11-30,202211300DEN,HOU,Q2,Tari Eason,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.17,0,1,.000,0,0,,4,4,1.000,1,1,2,2,1,0,0,0,4,6.7,+6
+2022-11-30,202211300DEN,HOU,Q2,Bruno Fernando,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.67,0,2,.000,0,0,,2,2,1.000,1,1,2,0,0,0,0,1,2,1.2,-5
+2022-11-30,202211300DEN,HOU,Q3,Jalen Green,https://www.basketball-reference.com/boxscores/202211300DEN.html,12.0,2,4,.500,1,3,.333,1,1,1.000,1,0,1,1,0,0,0,1,6,5.0,+3
+2022-11-30,202211300DEN,HOU,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.78,2,4,.500,2,2,1.000,0,0,,0,1,1,4,0,0,1,4,6,4.5,+5
+2022-11-30,202211300DEN,HOU,Q3,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.03,2,3,.667,1,2,.500,0,0,,0,2,2,0,0,0,1,1,5,2.9,+3
+2022-11-30,202211300DEN,HOU,Q3,Alperen Şengün,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.78,3,4,.750,0,1,.000,0,0,,1,2,3,0,0,0,1,1,6,4.3,+5
+2022-11-30,202211300DEN,HOU,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.03,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+3
+2022-11-30,202211300DEN,HOU,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.97,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,0
+2022-11-30,202211300DEN,HOU,Q3,Daishen Nix,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.22,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-2
+2022-11-30,202211300DEN,HOU,Q3,Usman Garuba,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.22,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2
+2022-11-30,202211300DEN,HOU,Q3,Tari Eason,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.97,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-1.5,0
+2022-11-30,202211300DEN,HOU,Q4,Jalen Green,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.28,1,2,.500,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.0,-1
+2022-11-30,202211300DEN,HOU,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.28,2,3,.667,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,6,4.7,-1
+2022-11-30,202211300DEN,HOU,Q4,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.9,2,6,.333,1,2,.500,0,0,,0,2,2,1,0,1,0,1,5,3.2,+1
+2022-11-30,202211300DEN,HOU,Q4,Alperen Şengün,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.28,0,0,,0,0,,2,2,1.000,0,2,2,0,0,0,0,0,2,2.6,-1
+2022-11-30,202211300DEN,HOU,Q4,Garrison Mathews,https://www.basketball-reference.com/boxscores/202211300DEN.html,12.0,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,0,3,2.3,+4
+2022-11-30,202211300DEN,HOU,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.62,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2
+2022-11-30,202211300DEN,HOU,Q4,Daishen Nix,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.72,2,3,.667,0,1,.000,0,0,,1,1,2,0,0,0,1,0,4,2.7,+5
+2022-11-30,202211300DEN,HOU,Q4,Usman Garuba,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.72,1,3,.333,0,2,.000,0,1,.000,0,1,1,1,1,1,0,1,2,2.2,+5
+2022-11-30,202211300DEN,HOU,Q4,Bruno Fernando,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.1,0,0,,0,0,,0,0,,0,0,0,0,0,2,0,0,0,1.4,+3
+2022-11-30,202211300DEN,HOU,Q4,Josh Christopher,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.1,2,2,1.000,0,0,,0,0,,0,0,0,0,1,0,1,0,4,3.4,+3
+2022-11-30,202211300DEN,DEN,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.22,2,4,.500,2,3,.667,0,0,,0,0,0,1,1,0,0,0,6,5.7,+15
+2022-11-30,202211300DEN,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.38,5,7,.714,1,2,.500,0,0,,2,0,2,0,0,0,1,0,11,8.5,+14
+2022-11-30,202211300DEN,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.15,3,5,.600,0,1,.000,3,3,1.000,1,1,2,0,0,0,0,1,9,7.3,+10
+2022-11-30,202211300DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.38,1,1,1.000,0,0,,0,0,,0,4,4,6,1,0,1,2,2,6.3,+14
+2022-11-30,202211300DEN,DEN,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.15,1,2,.500,1,1,1.000,0,0,,0,0,0,0,1,0,0,0,3,3.0,+10
+2022-11-30,202211300DEN,DEN,Q1,Ish Smith,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.85,1,2,.500,0,0,,0,0,,0,0,0,3,0,0,0,0,2,3.1,+10
+2022-11-30,202211300DEN,DEN,Q1,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202211300DEN.html,6.63,3,4,.750,2,3,.667,0,0,,0,3,3,0,0,0,1,1,8,5.9,+15
+2022-11-30,202211300DEN,DEN,Q1,Davon Reed,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.62,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+6
+2022-11-30,202211300DEN,DEN,Q1,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.62,1,1,1.000,0,0,,1,1,1.000,0,1,1,0,0,0,0,0,3,3.0,+6
+2022-11-30,202211300DEN,DEN,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.73,3,3,1.000,1,1,1.000,0,0,,0,3,3,1,0,0,0,2,7,6.9,-1
+2022-11-30,202211300DEN,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.8,1,2,.500,1,1,1.000,1,2,.500,0,2,2,0,0,1,0,0,4,3.9,+2
+2022-11-30,202211300DEN,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.23,4,7,.571,3,4,.750,0,0,,0,1,1,1,0,0,0,1,11,8.3,+2
+2022-11-30,202211300DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202211300DEN.html,5.53,1,1,1.000,0,0,,0,0,,1,1,2,4,0,0,2,1,2,3.1,-1
+2022-11-30,202211300DEN,DEN,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202211300DEN.html,6.88,0,2,.000,0,1,.000,0,0,,0,1,1,1,1,1,0,0,0,1.3,-1
+2022-11-30,202211300DEN,DEN,Q2,Ish Smith,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.92,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,2,0,0,0,1.0,+13
+2022-11-30,202211300DEN,DEN,Q2,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.28,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+5
+2022-11-30,202211300DEN,DEN,Q2,Davon Reed,https://www.basketball-reference.com/boxscores/202211300DEN.html,5.2,0,2,.000,0,1,.000,2,2,1.000,0,0,0,0,0,1,0,1,2,0.9,+8
+2022-11-30,202211300DEN,DEN,Q2,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202211300DEN.html,6.37,1,1,1.000,0,0,,0,0,,0,1,1,1,0,2,0,1,2,3.7,+8
+2022-11-30,202211300DEN,DEN,Q3,Bruce Brown,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.52,1,5,.200,1,3,.333,2,2,1.000,0,1,1,0,1,0,1,1,5,1.8,-1
+2022-11-30,202211300DEN,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.78,1,1,1.000,0,0,,2,3,.667,0,2,2,2,0,0,0,1,4,4.9,-5
+2022-11-30,202211300DEN,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.95,1,1,1.000,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,2.6,-5
+2022-11-30,202211300DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.78,3,5,.600,1,2,.500,1,1,1.000,0,0,0,1,0,0,1,1,8,5.0,-5
+2022-11-30,202211300DEN,DEN,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.03,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,1,0,-2.1,-3
+2022-11-30,202211300DEN,DEN,Q3,Ish Smith,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.05,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+2
+2022-11-30,202211300DEN,DEN,Q3,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202211300DEN.html,5.7,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,1,0,0.3,0
+2022-11-30,202211300DEN,DEN,Q3,Davon Reed,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.97,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0
+2022-11-30,202211300DEN,DEN,Q3,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.22,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2
+2022-11-30,202211300DEN,DEN,Q4,Bruce Brown,https://www.basketball-reference.com/boxscores/202211300DEN.html,8.9,0,1,.000,0,0,,0,0,,0,1,1,2,0,0,0,0,0,1.0,-1
+2022-11-30,202211300DEN,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.28,0,2,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,1,1,-1.2,+1
+2022-11-30,202211300DEN,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.28,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,2.7,+1
+2022-11-30,202211300DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.85,2,2,1.000,1,1,1.000,0,0,,0,3,3,1,0,1,0,1,5,6.3,+2
+2022-11-30,202211300DEN,DEN,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202211300DEN.html,2.85,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+2
+2022-11-30,202211300DEN,DEN,Q4,Ish Smith,https://www.basketball-reference.com/boxscores/202211300DEN.html,9.15,1,5,.200,0,0,,0,0,,0,1,1,3,0,0,0,0,2,1.3,-6
+2022-11-30,202211300DEN,DEN,Q4,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202211300DEN.html,4.62,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,-2
+2022-11-30,202211300DEN,DEN,Q4,Davon Reed,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.72,2,3,.667,1,2,.500,0,0,,0,1,1,0,1,0,0,1,5,4.6,-5
+2022-11-30,202211300DEN,DEN,Q4,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202211300DEN.html,7.4,1,2,.500,0,0,,1,2,.500,2,1,3,0,0,0,2,2,3,0.5,-2
+2022-11-30,202211300DEN,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.1,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-3
+2022-11-30,202211300DEN,DEN,Q4,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202211300DEN.html,3.1,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,-3
+2022-11-30,202211300DEN,DEN,Q4,Jack White,https://www.basketball-reference.com/boxscores/202211300DEN.html,1.75,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4

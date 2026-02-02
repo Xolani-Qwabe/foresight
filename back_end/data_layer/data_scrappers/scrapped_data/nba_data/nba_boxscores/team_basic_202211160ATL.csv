@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-11-16,202211160ATL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202211160ATL.html,32.9,6,19,.316,3,10,.300,4,4,1.000,1,6,7,8,1,1,2,1,19,15.5,+28
+2022-11-16,202211160ATL,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202211160ATL.html,31.2,6,11,.545,2,4,.500,2,2,1.000,1,4,5,10,0,1,2,0,16,18.3,+17
+2022-11-16,202211160ATL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202211160ATL.html,27.83,6,10,.600,4,7,.571,2,2,1.000,0,1,1,1,0,0,2,4,18,10.8,+7
+2022-11-16,202211160ATL,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202211160ATL.html,27.32,3,6,.500,1,3,.333,0,0,,3,8,11,4,0,1,2,4,7,8.4,+23
+2022-11-16,202211160ATL,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202211160ATL.html,23.18,10,17,.588,1,6,.167,1,2,.500,0,5,5,0,2,0,3,4,22,12.6,+10
+2022-11-16,202211160ATL,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202211160ATL.html,27.48,5,6,.833,5,6,.833,0,0,,0,6,6,0,0,0,0,2,15,13.8,+35
+2022-11-16,202211160ATL,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202211160ATL.html,25.38,7,7,1.000,1,1,1.000,0,0,,1,7,8,1,0,4,1,2,15,17.4,+7
+2022-11-16,202211160ATL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202211160ATL.html,24.2,5,8,.625,4,6,.667,0,0,,0,3,3,4,1,0,1,2,14,13.3,+5
+2022-11-16,202211160ATL,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202211160ATL.html,10.03,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,1,0,0,0,0.3,0
+2022-11-16,202211160ATL,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202211160ATL.html,6.93,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,0,1,0,0.2,-4
+2022-11-16,202211160ATL,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202211160ATL.html,3.53,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,0,0,-2.4,-3
+2022-11-16,202211160ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202211160ATL.html,34.47,4,13,.308,2,6,.333,3,3,1.000,0,4,4,0,0,0,0,1,13,6.3,-21
+2022-11-16,202211160ATL,ATL,Dejounte Murray,https://www.basketball-reference.com/boxscores/202211160ATL.html,33.72,9,17,.529,1,3,.333,0,0,,0,3,3,5,1,0,3,3,19,11.9,-24
+2022-11-16,202211160ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202211160ATL.html,31.98,6,12,.500,0,3,.000,0,0,,0,3,3,0,0,3,2,0,12,7.0,-17
+2022-11-16,202211160ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202211160ATL.html,30.7,10,23,.435,2,7,.286,5,6,.833,1,4,5,9,1,0,1,1,27,22.3,-10
+2022-11-16,202211160ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202211160ATL.html,18.42,3,3,1.000,0,0,,1,2,.500,2,6,8,0,0,0,0,0,7,8.9,-9
+2022-11-16,202211160ATL,ATL,AJ Griffin,https://www.basketball-reference.com/boxscores/202211160ATL.html,20.85,3,9,.333,0,4,.000,0,0,,3,0,3,1,1,0,2,1,6,2.3,-21
+2022-11-16,202211160ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202211160ATL.html,20.5,1,3,.333,0,0,,0,0,,5,4,9,3,1,0,1,2,2,6.3,-13
+2022-11-16,202211160ATL,ATL,Aaron Holiday,https://www.basketball-reference.com/boxscores/202211160ATL.html,10.63,1,6,.167,0,1,.000,0,0,,0,2,2,0,0,0,0,2,2,-2.0,-19
+2022-11-16,202211160ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202211160ATL.html,10.57,3,11,.273,0,4,.000,1,2,.500,2,2,4,0,1,1,0,0,7,3.8,-5
+2022-11-16,202211160ATL,ATL,Justin Holiday,https://www.basketball-reference.com/boxscores/202211160ATL.html,6.7,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,1,0,1,0,-0.4,-2
+2022-11-16,202211160ATL,ATL,Frank Kaminsky,https://www.basketball-reference.com/boxscores/202211160ATL.html,5.37,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.7,+4
+2022-11-16,202211160ATL,ATL,Vit Krejci,https://www.basketball-reference.com/boxscores/202211160ATL.html,5.37,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+4
+2022-11-16,202211160ATL,ATL,Trent Forrest,https://www.basketball-reference.com/boxscores/202211160ATL.html,5.37,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,+4
+2022-11-16,202211160ATL,ATL,Tyrese Martin,https://www.basketball-reference.com/boxscores/202211160ATL.html,5.37,0,1,.000,0,1,.000,0,0,,1,2,3,0,0,0,0,0,0,0.6,+4

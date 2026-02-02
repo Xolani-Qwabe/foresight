@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-09,202201090DAL,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202201090DAL.html,34:32,.439,.381,.333,.190,0.0,7.3,3.2,9.5,3.0,0.0,14.9,36.2,77,122,-8.9
+2022-01-09,202201090DAL,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202201090DAL.html,34:15,.382,.382,.294,.000,8.6,11.1,9.7,9.2,1.5,2.7,0.0,23.2,91,123,-4.5
+2022-01-09,202201090DAL,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202201090DAL.html,33:27,.563,.563,.063,.250,0.0,15.1,6.6,44.0,0.0,2.8,5.3,26.2,120,126,4.5
+2022-01-09,202201090DAL,CHI,Lonzo Ball,https://www.basketball-reference.com/boxscores/202201090DAL.html,32:17,.643,.643,.857,.000,3.0,19.6,10.3,21.5,4.8,0.0,12.5,11.6,127,116,4.3
+2022-01-09,202201090DAL,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202201090DAL.html,23:49,.571,.500,.571,.286,12.3,26.5,18.5,0.0,2.2,0.0,0.0,15.5,130,121,-0.8
+2022-01-09,202201090DAL,CHI,Coby White,https://www.basketball-reference.com/boxscores/202201090DAL.html,27:22,.630,.611,.444,.333,0.0,18.5,8.1,11.6,0.0,0.0,0.0,17.6,130,127,0.4
+2022-01-09,202201090DAL,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202201090DAL.html,23:19,.750,.750,.750,.000,0.0,5.4,2.4,11.8,0.0,0.0,0.0,8.0,152,130,-2.8
+2022-01-09,202201090DAL,CHI,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202201090DAL.html,13:20,.500,.500,.667,.000,7.3,9.5,8.3,0.0,3.9,0.0,0.0,10.5,112,120,-0.3
+2022-01-09,202201090DAL,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202201090DAL.html,10:35,.500,.500,.000,.000,0.0,59.7,26.1,0.0,0.0,8.7,0.0,8.8,97,112,-2.8
+2022-01-09,202201090DAL,CHI,Devon Dotson,https://www.basketball-reference.com/boxscores/202201090DAL.html,2:21,1.000,1.000,.000,.000,0.0,53.8,23.5,0.0,0.0,0.0,50.0,39.8,65,121,-8.0
+2022-01-09,202201090DAL,CHI,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202201090DAL.html,2:21,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.8,92,131,-6.4
+2022-01-09,202201090DAL,CHI,Matt Thomas,https://www.basketball-reference.com/boxscores/202201090DAL.html,2:21,.000,.000,.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,19.9,83,131,6.9
+2022-01-09,202201090DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202201090DAL.html,35:24,.444,.391,.261,.174,0.0,38.7,21.8,57.3,0.0,0.0,13.9,38.6,104,104,2.5
+2022-01-09,202201090DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202201090DAL.html,29:59,.818,.818,.818,.000,0.0,13.1,7.4,9.3,0.0,2.8,0.0,17.4,156,108,10.7
+2022-01-09,202201090DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202201090DAL.html,29:47,.857,.857,1.000,.000,4.2,3.3,3.7,8.6,0.0,2.8,12.5,12.8,146,110,5.6
+2022-01-09,202201090DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202201090DAL.html,27:54,.850,.850,.200,.000,4.5,10.5,7.9,22.8,1.9,0.0,9.1,18.7,158,107,10.1
+2022-01-09,202201090DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202201090DAL.html,25:24,.740,.600,.200,.800,5.0,11.6,8.7,9.9,0.0,0.0,0.0,12.7,167,111,2.1
+2022-01-09,202201090DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202201090DAL.html,27:58,.450,.450,.500,.000,0.0,21.0,11.8,4.6,5.6,0.0,9.1,18.7,84,96,-1.8
+2022-01-09,202201090DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202201090DAL.html,22:25,.862,.850,.100,.100,5.6,21.8,14.8,8.0,0.0,0.0,8.7,24.3,151,108,7.3
+2022-01-09,202201090DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202201090DAL.html,18:20,.625,.625,.750,.000,0.0,10.7,6.0,13.5,0.0,0.0,0.0,10.4,139,111,0.4
+2022-01-09,202201090DAL,DAL,Sterling Brown,https://www.basketball-reference.com/boxscores/202201090DAL.html,9:36,.000,.000,.333,.000,13.2,10.2,11.5,0.0,0.0,0.0,0.0,14.9,32,111,-18.8
+2022-01-09,202201090DAL,DAL,Marquese Chriss,https://www.basketball-reference.com/boxscores/202201090DAL.html,7:49,.500,.500,.500,.000,16.2,25.1,21.2,0.0,0.0,0.0,0.0,12.2,125,107,-11.2
+2022-01-09,202201090DAL,DAL,Moses Brown,https://www.basketball-reference.com/boxscores/202201090DAL.html,3:01,.000,.000,.000,.000,41.9,0.0,18.3,0.0,0.0,0.0,33.3,47.3,30,114,-51.7
+2022-01-09,202201090DAL,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202201090DAL.html,2:21,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.2,0,114,-27.5

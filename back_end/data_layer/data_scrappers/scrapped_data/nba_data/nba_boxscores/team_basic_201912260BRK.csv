@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-12-26,201912260BRK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/201912260BRK.html,35.05,14,26,.538,5,9,.556,0,0,1,7,8,2,0,0,2,3,33,21.4,+25,
+2019-12-26,201912260BRK,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/201912260BRK.html,34.48,8,16,.500,1,4,.250,5,5,1,7,8,2,0,0,1,2,22,16.4,+17,1.000
+2019-12-26,201912260BRK,NYK,Elfrid Payton,https://www.basketball-reference.com/boxscores/201912260BRK.html,31.8,6,12,.500,1,4,.250,0,1,1,6,7,4,1,0,1,3,13,10.7,+25,.000
+2019-12-26,201912260BRK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/201912260BRK.html,24.25,2,10,.200,1,4,.250,0,0,3,4,7,2,1,0,2,2,5,1.7,+20,
+2019-12-26,201912260BRK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/201912260BRK.html,11.98,0,4,.000,0,0,,0,0,1,3,4,1,0,0,1,2,0,-2.3,0,
+2019-12-26,201912260BRK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201912260BRK.html,28.33,4,6,.667,0,0,,2,5,5,5,10,1,1,2,0,2,10,13.5,+12,.400
+2019-12-26,201912260BRK,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/201912260BRK.html,25.13,1,3,.333,0,0,,0,0,0,5,5,2,1,0,1,1,2,2.8,-12,
+2019-12-26,201912260BRK,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/201912260BRK.html,18.25,0,6,.000,0,4,.000,2,2,1,7,8,1,0,0,1,4,2,-1.3,-7,1.000
+2019-12-26,201912260BRK,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201912260BRK.html,14.02,1,5,.200,1,3,.333,0,0,0,0,0,1,1,0,1,5,3,-1.4,-7,
+2019-12-26,201912260BRK,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/201912260BRK.html,13.52,1,3,.333,0,0,,2,2,0,3,3,0,1,0,2,2,4,1.4,-5,1.000
+2019-12-26,201912260BRK,NYK,Kadeem Allen,https://www.basketball-reference.com/boxscores/201912260BRK.html,2.18,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,1,0,-2.1,-6,
+2019-12-26,201912260BRK,NYK,Ignas Brazdeikis,https://www.basketball-reference.com/boxscores/201912260BRK.html,1.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2019-12-26,201912260BRK,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/201912260BRK.html,31.63,5,15,.333,3,9,.333,12,17,0,8,8,3,0,0,5,3,25,12.8,-10,.706
+2019-12-26,201912260BRK,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/201912260BRK.html,31.35,3,12,.250,2,7,.286,0,0,1,5,6,2,0,0,0,1,8,4.0,-8,
+2019-12-26,201912260BRK,BRK,Garrett Temple,https://www.basketball-reference.com/boxscores/201912260BRK.html,29.78,2,10,.200,2,7,.286,1,2,2,7,9,1,0,0,0,0,7,4.6,-5,.500
+2019-12-26,201912260BRK,BRK,Taurean Prince,https://www.basketball-reference.com/boxscores/201912260BRK.html,27.98,1,10,.100,1,10,.100,0,0,1,4,5,2,0,1,1,2,3,-1.4,-13,
+2019-12-26,201912260BRK,BRK,Jarrett Allen,https://www.basketball-reference.com/boxscores/201912260BRK.html,26.68,0,2,.000,0,0,,4,6,3,3,6,2,1,1,2,2,4,5.1,-16,.667
+2019-12-26,201912260BRK,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/201912260BRK.html,20.33,2,3,.667,2,3,.667,4,4,1,1,2,1,2,1,1,2,10,11.3,-11,1.000
+2019-12-26,201912260BRK,BRK,Rodions Kurucs,https://www.basketball-reference.com/boxscores/201912260BRK.html,18.97,2,4,.500,2,2,1.000,2,2,1,2,3,0,0,0,1,3,8,5.1,+1,1.000
+2019-12-26,201912260BRK,BRK,Wilson Chandler,https://www.basketball-reference.com/boxscores/201912260BRK.html,18.37,2,9,.222,0,6,.000,0,0,0,4,4,2,0,0,1,2,4,-0.7,-10,
+2019-12-26,201912260BRK,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/201912260BRK.html,17.78,2,6,.333,0,0,,4,5,0,6,6,1,0,0,2,1,8,4.3,-1,.800
+2019-12-26,201912260BRK,BRK,Theo Pinson,https://www.basketball-reference.com/boxscores/201912260BRK.html,9.0,1,3,.333,1,3,.333,0,0,0,1,1,3,0,0,0,3,3,2.5,+2,
+2019-12-26,201912260BRK,BRK,Džanan Musa,https://www.basketball-reference.com/boxscores/201912260BRK.html,4.58,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,+6,
+2019-12-26,201912260BRK,BRK,Henry Ellenson,https://www.basketball-reference.com/boxscores/201912260BRK.html,3.53,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,+5,

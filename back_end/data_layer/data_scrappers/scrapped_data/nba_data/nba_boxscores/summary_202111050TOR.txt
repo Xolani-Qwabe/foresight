@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202111050TOR.html
+Scraped: 2025-12-14 22:48:49
+
+line_scores: 2 rows (nba_boxscores/line_scores_202111050TOR.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202111050TOR.csv)
+team_basic: 19 rows (nba_boxscores/team_basic_202111050TOR.csv)
+team_advanced: 19 rows (nba_boxscores/team_advanced_202111050TOR.csv)
+quarters: 67 rows (nba_boxscores/quarters_202111050TOR.csv)

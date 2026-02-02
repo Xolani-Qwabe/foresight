@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-03-27,202503270WAS,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202503270WAS.html,24:57,.843,.833,.667,.333,0.0,7.9,4.8,27.7,1.9,3.5,5.5,30.4,173,110,14.3
+2025-03-27,202503270WAS,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202503270WAS.html,22:46,.813,.813,.125,.000,6.6,4.3,5.2,22.7,2.1,0.0,11.1,16.4,168,113,5.9
+2025-03-27,202503270WAS,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202503270WAS.html,21:24,.970,1.000,.857,.571,0.0,22.9,13.8,9.4,0.0,0.0,10.2,19.0,169,111,6.8
+2025-03-27,202503270WAS,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202503270WAS.html,20:11,.902,.833,.667,.667,7.4,14.6,11.7,35.1,2.4,0.0,20.5,10.1,192,109,10.9
+2025-03-27,202503270WAS,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202503270WAS.html,18:35,.786,.786,.714,.000,8.1,15.8,12.8,0.0,0.0,0.0,22.2,20.2,114,114,-7.7
+2025-03-27,202503270WAS,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202503270WAS.html,24:40,.800,.800,.500,.000,6.1,15.9,12.0,20.6,0.0,3.5,9.1,18.6,166,111,5.2
+2025-03-27,202503270WAS,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202503270WAS.html,21:44,.519,.286,.714,.857,6.9,4.5,5.5,4.0,2.2,0.0,23.7,24.2,102,112,-16.2
+2025-03-27,202503270WAS,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202503270WAS.html,17:11,.714,.714,.000,.000,26.2,34.2,31.0,49.6,0.0,0.0,12.5,19.4,177,108,8.0
+2025-03-27,202503270WAS,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202503270WAS.html,16:29,.833,.833,.333,.000,0.0,11.9,7.2,30.2,2.9,0.0,0.0,22.7,185,108,11.9
+2025-03-27,202503270WAS,IND,Thomas Bryant,https://www.basketball-reference.com/boxscores/202503270WAS.html,13:58,1.020,1.000,.400,.400,21.5,35.1,29.7,0.0,0.0,0.0,0.0,17.5,213,107,7.4
+2025-03-27,202503270WAS,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202503270WAS.html,12:00,.750,.750,1.000,.000,12.5,8.2,9.9,15.7,0.0,0.0,0.0,13.9,186,116,3.7
+2025-03-27,202503270WAS,IND,Tony Bradley,https://www.basketball-reference.com/boxscores/202503270WAS.html,9:23,.667,.667,.333,.000,0.0,20.9,12.6,0.0,0.0,0.0,14.3,31.0,108,112,-17.5
+2025-03-27,202503270WAS,IND,Quenton Jackson,https://www.basketball-reference.com/boxscores/202503270WAS.html,9:01,.833,.833,.333,.000,16.6,10.9,13.1,77.1,16.1,0.0,0.0,13.8,220,79,46.5
+2025-03-27,202503270WAS,IND,Johnny Furphy,https://www.basketball-reference.com/boxscores/202503270WAS.html,7:41,1.500,1.500,1.000,.000,19.5,12.7,15.4,0.0,0.0,0.0,0.0,5.4,268,115,2.8
+2025-03-27,202503270WAS,WAS,Justin Champagnie,https://www.basketball-reference.com/boxscores/202503270WAS.html,33:17,.697,.667,.222,.444,11.8,13.5,12.5,4.9,2.9,0.0,15.7,16.5,129,160,-4.4
+2025-03-27,202503270WAS,WAS,Bub Carrington,https://www.basketball-reference.com/boxscores/202503270WAS.html,30:39,.542,.542,.500,.000,0.0,19.6,7.7,31.1,0.0,3.5,14.3,19.7,110,164,-5.7
+2025-03-27,202503270WAS,WAS,Alex Sarr,https://www.basketball-reference.com/boxscores/202503270WAS.html,27:31,.624,.567,.267,.400,14.2,16.4,15.1,7.3,1.8,3.9,14.5,32.3,116,161,-5.3
+2025-03-27,202503270WAS,WAS,Jordan Poole,https://www.basketball-reference.com/boxscores/202503270WAS.html,24:30,.648,.615,.615,.154,0.0,0.0,0.0,22.4,4.0,0.0,12.6,27.9,120,161,1.7
+2025-03-27,202503270WAS,WAS,Khris Middleton,https://www.basketball-reference.com/boxscores/202503270WAS.html,14:03,.508,.500,.429,.286,0.0,10.7,4.2,24.6,3.4,0.0,0.0,24.2,117,160,-2.8
+2025-03-27,202503270WAS,WAS,Colby Jones,https://www.basketball-reference.com/boxscores/202503270WAS.html,29:37,.685,.571,.429,.571,0.0,10.1,4.0,9.8,4.9,0.0,10.2,14.2,134,156,-1.0
+2025-03-27,202503270WAS,WAS,AJ Johnson,https://www.basketball-reference.com/boxscores/202503270WAS.html,26:36,.143,.143,.286,.000,3.7,11.3,6.7,0.0,0.0,0.0,0.0,11.3,44,168,-20.1
+2025-03-27,202503270WAS,WAS,Jaylen Martin,https://www.basketball-reference.com/boxscores/202503270WAS.html,22:31,.667,.667,.000,.000,4.4,0.0,2.6,12.6,0.0,0.0,25.0,7.7,120,170,-9.1
+2025-03-27,202503270WAS,WAS,Tristan Vukcevic,https://www.basketball-reference.com/boxscores/202503270WAS.html,14:33,.291,.167,.333,.333,0.0,20.6,8.1,9.5,0.0,0.0,36.8,32.2,44,166,-33.4
+2025-03-27,202503270WAS,WAS,Richaun Holmes,https://www.basketball-reference.com/boxscores/202503270WAS.html,13:18,.589,.400,.000,1.200,14.7,11.3,13.4,11.7,0.0,0.0,0.0,24.7,142,168,-3.9
+2025-03-27,202503270WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202503270WAS.html,3:25,1.000,1.000,.000,.000,0.0,43.9,17.3,0.0,0.0,0.0,0.0,12.6,200,161,1.3

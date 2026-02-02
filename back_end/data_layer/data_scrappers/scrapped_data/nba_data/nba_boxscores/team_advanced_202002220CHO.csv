@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-22,202002220CHO,BRK,Caris LeVert,https://www.basketball-reference.com/boxscores/202002220CHO.html,29:58,.447,.447,.526,.000,0.0,8.9,4.9,10.4,9.9,0.0,0.0,28.9,95,76,5.0
+2020-02-22,202002220CHO,BRK,Taurean Prince,https://www.basketball-reference.com/boxscores/202002220CHO.html,29:38,.700,.700,.800,.000,0.0,12.0,6.5,4.8,1.7,6.1,23.1,20.0,98,88,1.2
+2020-02-22,202002220CHO,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202002220CHO.html,28:13,.425,.350,.600,.400,3.8,15.8,10.3,41.5,0.0,0.0,14.5,22.2,109,96,-4.1
+2020-02-22,202002220CHO,BRK,Jarrett Allen,https://www.basketball-reference.com/boxscores/202002220CHO.html,24:53,.785,.800,.000,1.200,12.9,28.6,21.4,16.9,0.0,7.3,11.6,15.8,159,86,9.2
+2020-02-22,202002220CHO,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202002220CHO.html,24:33,.600,.600,.600,.000,0.0,7.2,3.9,30.3,2.0,0.0,9.1,20.4,124,94,3.9
+2020-02-22,202002220CHO,BRK,Garrett Temple,https://www.basketball-reference.com/boxscores/202002220CHO.html,26:26,.689,.650,.600,.200,0.0,37.0,20.2,16.5,1.9,0.0,0.0,18.8,146,85,9.0
+2020-02-22,202002220CHO,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202002220CHO.html,23:27,.763,.750,.583,.333,9.1,7.6,8.3,0.0,0.0,0.0,6.8,28.7,138,98,5.0
+2020-02-22,202002220CHO,BRK,Wilson Chandler,https://www.basketball-reference.com/boxscores/202002220CHO.html,22:13,.000,.000,1.000,.000,0.0,12.0,6.5,0.0,2.2,8.2,0.0,4.1,0,86,-5.0
+2020-02-22,202002220CHO,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202002220CHO.html,19:58,.949,1.000,.000,.600,10.7,4.5,7.3,8.0,0.0,0.0,24.0,19.0,143,99,-0.1
+2020-02-22,202002220CHO,BRK,Theo Pinson,https://www.basketball-reference.com/boxscores/202002220CHO.html,4:23,.500,.500,.500,.000,0.0,60.8,33.2,35.3,0.0,0.0,0.0,20.8,122,81,3.3
+2020-02-22,202002220CHO,BRK,Chris Chiozza,https://www.basketball-reference.com/boxscores/202002220CHO.html,3:09,.000,.000,1.000,.000,33.9,0.0,15.4,36.3,0.0,0.0,0.0,14.5,106,102,-4.4
+2020-02-22,202002220CHO,BRK,Rodions Kurucs,https://www.basketball-reference.com/boxscores/202002220CHO.html,3:09,.000,.000,.000,.000,0.0,84.7,46.2,0.0,0.0,0.0,0.0,14.5,0,73,-14.6
+2020-02-22,202002220CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202002220CHO.html,37:12,.615,.615,.538,.000,2.4,17.2,9.1,22.2,1.3,0.0,13.3,17.7,107,119,2.2
+2020-02-22,202002220CHO,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202002220CHO.html,34:01,.558,.444,.444,.667,0.0,15.7,7.1,26.4,0.0,0.0,0.0,15.0,127,123,1.7
+2020-02-22,202002220CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202002220CHO.html,33:00,.455,.455,.364,.000,2.7,6.5,4.4,11.6,1.5,0.0,8.3,16.0,89,121,-6.3
+2020-02-22,202002220CHO,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/202002220CHO.html,26:56,.255,.100,.300,.400,0.0,4.0,1.8,12.2,3.7,4.5,14.5,22.4,54,114,-11.2
+2020-02-22,202002220CHO,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/202002220CHO.html,21:29,.583,.583,.083,.000,8.3,34.8,20.3,0.0,0.0,0.0,7.7,26.6,103,118,0.0
+2020-02-22,202002220CHO,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/202002220CHO.html,26:55,.447,.433,.600,.267,3.3,11.9,7.2,16.2,0.0,0.0,10.7,30.6,83,123,-5.1
+2020-02-22,202002220CHO,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202002220CHO.html,22:58,.371,.389,.333,.111,7.7,32.5,19.0,8.5,0.0,0.0,9.6,20.0,76,118,-9.9
+2020-02-22,202002220CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202002220CHO.html,17:04,.000,.000,.600,.400,0.0,12.5,5.7,27.2,2.9,7.0,25.4,20.3,20,112,-14.9
+2020-02-22,202002220CHO,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202002220CHO.html,9:38,.525,.667,.000,1.333,18.5,22.1,20.1,23.7,0.0,0.0,0.0,21.7,119,121,4.4
+2020-02-22,202002220CHO,CHO,Caleb Martin,https://www.basketball-reference.com/boxscores/202002220CHO.html,7:38,,,,,0.0,14.0,6.4,40.6,0.0,0.0,100.0,5.8,68,123,-10.1
+2020-02-22,202002220CHO,CHO,Joe Chealey,https://www.basketball-reference.com/boxscores/202002220CHO.html,3:09,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.9,0,126,-21.6

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-14,202303140POR,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202303140POR.html,33:57,.761,.714,.571,.500,7.9,20.9,15.7,13.8,1.4,0.0,5.5,23.7,155,108,8.6
+2023-03-14,202303140POR,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202303140POR.html,33:50,.492,.400,.250,.500,3.9,23.6,15.8,18.5,0.0,0.0,7.6,34.7,109,110,-7.1
+2023-03-14,202303140POR,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202303140POR.html,27:59,.684,.654,.231,.538,0.0,15.9,9.5,0.0,0.0,9.5,11.1,28.7,120,107,2.5
+2023-03-14,202303140POR,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202303140POR.html,21:27,.347,.500,.000,1.000,12.4,8.3,9.9,0.0,2.2,4.1,0.0,6.0,108,108,-3.9
+2023-03-14,202303140POR,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202303140POR.html,20:10,.515,.500,1.000,.667,0.0,4.4,2.6,0.0,2.4,4.4,43.6,15.2,55,108,-12.3
+2023-03-14,202303140POR,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202303140POR.html,37:23,.576,.538,.385,.154,3.6,19.0,12.8,30.0,3.9,0.0,12.6,18.9,128,103,6.0
+2023-03-14,202303140POR,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202303140POR.html,26:33,.000,.000,.500,.000,15.1,26.8,22.1,17.2,1.8,3.3,50.0,6.7,93,102,-2.4
+2023-03-14,202303140POR,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202303140POR.html,24:31,.922,1.000,.625,.500,0.0,3.6,2.2,19.4,2.0,7.3,0.0,17.7,185,108,17.8
+2023-03-14,202303140POR,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202303140POR.html,14:10,.917,.917,.833,.000,0.0,6.3,3.8,11.9,0.0,0.0,0.0,18.8,180,117,12.3
+2023-03-14,202303140POR,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202303140POR.html,40:06,.417,.417,.167,.000,6.7,10.0,8.0,14.4,3.6,0.0,0.0,12.3,110,122,-0.2
+2023-03-14,202303140POR,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202303140POR.html,39:02,.634,.577,.654,.346,4.6,17.1,9.6,35.2,0.0,0.0,11.8,35.7,121,129,10.5
+2023-03-14,202303140POR,POR,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303140POR.html,38:09,.631,.636,.455,.182,2.3,24.5,11.2,12.4,3.8,2.7,7.8,13.9,124,117,4.0
+2023-03-14,202303140POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202303140POR.html,34:25,.486,.425,.550,.300,2.6,0.0,1.5,4.9,0.0,0.0,8.1,29.4,95,132,-6.8
+2023-03-14,202303140POR,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202303140POR.html,28:10,.437,.455,.182,.091,6.3,37.9,18.9,17.3,0.0,3.7,8.0,18.1,98,122,-5.1
+2023-03-14,202303140POR,POR,Cam Reddish,https://www.basketball-reference.com/boxscores/202303140POR.html,19:19,.167,.167,.500,.000,0.0,6.9,2.8,0.0,5.0,0.0,14.3,14.9,30,120,-12.8
+2023-03-14,202303140POR,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202303140POR.html,18:00,.000,.000,.000,.000,4.9,14.8,8.9,14.0,0.0,0.0,50.0,4.6,70,129,-11.2
+2023-03-14,202303140POR,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202303140POR.html,9:51,.000,.000,.200,.000,9.0,0.0,5.4,0.0,0.0,0.0,0.0,20.8,16,133,-25.9
+2023-03-14,202303140POR,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303140POR.html,7:28,.600,.600,.800,.000,0.0,17.9,7.1,0.0,0.0,14.0,0.0,27.5,112,120,10.2
+2023-03-14,202303140POR,POR,Keon Johnson,https://www.basketball-reference.com/boxscores/202303140POR.html,1:50,1.000,1.000,.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,22.4,215,133,50.7
+2023-03-14,202303140POR,POR,Kevin Knox,https://www.basketball-reference.com/boxscores/202303140POR.html,1:50,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-10.3
+2023-03-14,202303140POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202303140POR.html,1:50,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.4,200,133,16.1

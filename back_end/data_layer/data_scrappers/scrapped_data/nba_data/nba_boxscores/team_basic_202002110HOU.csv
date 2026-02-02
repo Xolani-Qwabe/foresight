@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-02-11,202002110HOU,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202002110HOU.html,34.52,5,15,.333,0,7,.000,5,9,.556,1,8,9,4,4,1,1,3,15,13.3,-10
+2020-02-11,202002110HOU,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/202002110HOU.html,34.38,8,14,.571,2,3,.667,2,2,1.000,2,6,8,6,0,1,2,3,20,18.3,-19
+2020-02-11,202002110HOU,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202002110HOU.html,32.65,7,12,.583,4,8,.500,1,2,.500,1,2,3,1,1,1,5,4,19,10.1,-13
+2020-02-11,202002110HOU,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202002110HOU.html,29.38,3,5,.600,0,1,.000,5,5,1.000,4,5,9,1,1,0,0,4,11,13.1,-6
+2020-02-11,202002110HOU,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202002110HOU.html,28.43,5,17,.294,1,6,.167,3,3,1.000,0,4,4,4,1,0,3,3,14,4.9,-24
+2020-02-11,202002110HOU,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202002110HOU.html,30.23,3,9,.333,2,4,.500,0,0,,1,4,5,4,1,1,3,3,8,5.1,+1
+2020-02-11,202002110HOU,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202002110HOU.html,19.95,5,9,.556,1,2,.500,0,0,,0,1,1,3,2,0,1,1,11,9.7,+7
+2020-02-11,202002110HOU,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202002110HOU.html,8.75,1,2,.500,1,1,1.000,4,4,1.000,1,3,4,0,0,0,0,1,7,7.2,0
+2020-02-11,202002110HOU,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202002110HOU.html,8.15,0,2,.000,0,0,,0,0,,0,3,3,0,0,0,2,2,0,-3.3,-2
+2020-02-11,202002110HOU,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202002110HOU.html,7.1,0,0,,0,0,,0,0,,0,1,1,1,1,0,1,1,0,0.6,0
+2020-02-11,202002110HOU,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202002110HOU.html,4.32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+7
+2020-02-11,202002110HOU,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202002110HOU.html,2.13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+4
+2020-02-11,202002110HOU,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202002110HOU.html,39.58,5,11,.455,3,9,.333,4,4,1.000,3,6,9,1,0,0,1,2,17,14.1,+15
+2020-02-11,202002110HOU,HOU,James Harden,https://www.basketball-reference.com/boxscores/202002110HOU.html,38.63,9,19,.474,7,16,.438,17,18,.944,0,8,8,7,1,1,6,5,42,32.9,+24
+2020-02-11,202002110HOU,HOU,Robert Covington,https://www.basketball-reference.com/boxscores/202002110HOU.html,37.65,3,11,.273,2,8,.250,4,5,.800,0,7,7,3,3,4,2,5,12,11.1,+15
+2020-02-11,202002110HOU,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/202002110HOU.html,36.6,13,23,.565,0,2,.000,10,13,.769,1,9,10,5,2,0,4,3,36,27.6,+9
+2020-02-11,202002110HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202002110HOU.html,35.88,1,4,.250,0,3,.000,2,2,1.000,1,5,6,0,2,0,0,3,4,4.6,+21
+2020-02-11,202002110HOU,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/202002110HOU.html,19.65,1,5,.200,0,3,.000,0,0,,0,2,2,0,0,0,0,1,2,-0.9,+2
+2020-02-11,202002110HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202002110HOU.html,18.18,1,4,.250,1,4,.250,0,0,,0,2,2,0,0,0,0,1,3,0.8,-4
+2020-02-11,202002110HOU,HOU,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/202002110HOU.html,8.75,0,0,,0,0,,0,0,,0,1,1,1,1,1,1,1,0,1.3,-11
+2020-02-11,202002110HOU,HOU,Chris Clemons,https://www.basketball-reference.com/boxscores/202002110HOU.html,1.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2020-02-11,202002110HOU,HOU,Michael Frazier,https://www.basketball-reference.com/boxscores/202002110HOU.html,1.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2020-02-11,202002110HOU,HOU,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202002110HOU.html,1.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2020-02-11,202002110HOU,HOU,William Howard,https://www.basketball-reference.com/boxscores/202002110HOU.html,1.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4

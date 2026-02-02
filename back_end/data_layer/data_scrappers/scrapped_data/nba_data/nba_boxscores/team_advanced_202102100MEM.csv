@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-10,202102100MEM,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202102100MEM.html,33:03,.906,.882,.529,.235,0.0,9.5,5.4,15.8,1.5,0.0,5.1,27.3,172,139,14.1
+2021-02-10,202102100MEM,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202102100MEM.html,30:14,.682,.682,.182,.000,9.1,6.9,7.8,9.4,0.0,0.0,21.4,21.1,114,143,-7.7
+2021-02-10,202102100MEM,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202102100MEM.html,28:35,.317,.286,.286,.286,0.0,11.0,6.2,16.1,0.0,3.7,20.2,15.8,77,140,-11.0
+2021-02-10,202102100MEM,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202102100MEM.html,28:14,.567,.567,.267,.000,4.9,3.7,4.2,27.1,5.3,3.8,16.7,29.1,110,131,1.9
+2021-02-10,202102100MEM,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/202102100MEM.html,22:37,.500,.500,.111,.000,0.0,13.8,7.9,23.3,2.2,0.0,18.2,22.2,100,135,-5.6
+2021-02-10,202102100MEM,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202102100MEM.html,30:59,.697,.667,.444,.444,8.9,26.9,19.1,8.3,1.6,3.4,27.1,21.7,110,129,-3.0
+2021-02-10,202102100MEM,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/202102100MEM.html,23:02,.375,.375,.625,.000,0.0,9.1,5.1,5.1,0.0,0.0,20.0,19.8,68,142,-18.0
+2021-02-10,202102100MEM,CHO,Caleb Martin,https://www.basketball-reference.com/boxscores/202102100MEM.html,17:51,.532,.000,1.000,2.000,0.0,11.7,6.6,0.0,8.4,0.0,0.0,4.8,125,121,0.6
+2021-02-10,202102100MEM,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202102100MEM.html,13:25,1.000,1.000,.000,.000,20.4,15.6,17.7,0.0,0.0,8.0,0.0,3.4,215,136,-2.3
+2021-02-10,202102100MEM,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202102100MEM.html,12:00,1.125,1.125,.250,.000,11.4,8.7,9.9,27.6,8.3,0.0,20.0,19.0,177,122,21.5
+2021-02-10,202102100MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202102100MEM.html,30:52,.476,.464,.214,.286,6.8,4.4,5.8,45.4,1.6,0.0,24.1,27.4,111,122,-5.1
+2021-02-10,202102100MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202102100MEM.html,29:49,.769,.769,.615,.000,3.5,4.6,4.0,18.9,1.7,0.0,18.8,21.8,132,122,3.4
+2021-02-10,202102100MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202102100MEM.html,28:52,.462,.462,.154,.000,21.7,42.8,30.8,13.5,3.5,0.0,13.3,21.2,117,112,-1.9
+2021-02-10,202102100MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202102100MEM.html,25:52,.758,.727,.727,.182,4.0,0.0,2.3,10.3,3.9,0.0,14.4,21.8,138,118,7.3
+2021-02-10,202102100MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202102100MEM.html,24:22,.907,.929,.571,.143,4.3,5.6,4.9,21.6,0.0,3.7,0.0,24.9,186,123,23.5
+2021-02-10,202102100MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202102100MEM.html,29:36,.610,.577,.923,.308,0.0,13.9,6.0,12.5,1.7,0.0,11.9,23.0,126,121,-2.1
+2021-02-10,202102100MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202102100MEM.html,21:43,.761,.786,.571,.286,9.6,6.3,8.2,17.4,2.3,0.0,0.0,14.8,178,120,7.3
+2021-02-10,202102100MEM,MEM,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202102100MEM.html,19:08,.347,.000,1.000,1.000,16.4,35.8,24.8,5.3,2.6,0.0,25.8,8.3,112,115,-6.0
+2021-02-10,202102100MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202102100MEM.html,16:57,.615,.500,.000,.500,6.2,16.2,10.5,20.6,0.0,0.0,17.0,14.1,139,124,-3.1
+2021-02-10,202102100MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202102100MEM.html,12:49,.000,.000,.667,.000,16.3,42.8,27.7,8.0,3.9,7.1,0.0,9.5,79,105,-5.5

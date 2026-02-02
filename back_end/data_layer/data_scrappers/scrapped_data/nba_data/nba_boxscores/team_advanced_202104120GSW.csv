@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-12,202104120GSW,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202104120GSW.html,37:50,.548,.548,.333,.095,12.1,18.1,14.8,10.1,0.0,0.0,8.4,26.8,110,122,-0.2
+2021-04-12,202104120GSW,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202104120GSW.html,37:17,.551,.500,.238,.381,12.3,29.4,20.1,39.4,1.3,3.5,14.0,32.5,113,115,8.7
+2021-04-12,202104120GSW,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202104120GSW.html,33:10,.482,.367,.333,.400,3.4,12.4,7.5,18.2,4.3,3.9,18.5,27.7,93,109,0.1
+2021-04-12,202104120GSW,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202104120GSW.html,32:53,.654,.583,.333,.333,0.0,4.2,1.9,8.4,1.4,0.0,30.4,12.8,95,119,-4.4
+2021-04-12,202104120GSW,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202104120GSW.html,23:27,.765,.700,.400,.400,4.9,29.2,15.9,18.7,2.0,0.0,14.5,12.5,144,115,6.3
+2021-04-12,202104120GSW,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202104120GSW.html,21:05,1.000,1.000,.667,.000,0.0,19.5,8.9,13.2,9.0,0.0,0.0,6.0,197,99,13.0
+2021-04-12,202104120GSW,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202104120GSW.html,20:45,.683,.583,.167,.500,0.0,6.6,3.0,14.4,0.0,0.0,12.0,17.0,130,123,-1.4
+2021-04-12,202104120GSW,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202104120GSW.html,15:11,.000,.000,1.000,.000,0.0,27.1,12.3,0.0,0.0,0.0,50.0,5.6,0,121,-14.5
+2021-04-12,202104120GSW,DEN,JaVale McGee,https://www.basketball-reference.com/boxscores/202104120GSW.html,10:43,.333,.333,.000,.000,0.0,25.6,11.6,0.0,4.4,0.0,25.0,15.9,50,110,-10.3
+2021-04-12,202104120GSW,DEN,PJ Dozier,https://www.basketball-reference.com/boxscores/202104120GSW.html,7:39,.521,.500,.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,41.0,27.1,58,123,-18.8
+2021-04-12,202104120GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202104120GSW.html,41:23,.500,.500,.176,.000,0.0,2.8,1.5,3.9,2.3,2.0,15.0,21.7,82,108,-5.5
+2021-04-12,202104120GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202104120GSW.html,36:43,1.014,1.000,.375,.250,0.0,21.8,11.9,30.7,5.2,0.0,18.4,13.3,172,99,13.3
+2021-04-12,202104120GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202104120GSW.html,35:42,.854,.792,.750,.667,0.0,19.2,10.5,26.7,0.0,0.0,13.9,45.4,142,111,20.9
+2021-04-12,202104120GSW,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202104120GSW.html,34:58,.543,.542,.500,.167,0.0,9.8,5.3,8.5,1.4,0.0,13.4,19.1,95,110,-4.2
+2021-04-12,202104120GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202104120GSW.html,31:03,.000,.000,.667,.000,17.7,25.8,22.1,11.9,1.5,0.0,25.0,5.8,98,106,-2.7
+2021-04-12,202104120GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202104120GSW.html,24:17,1.000,1.000,.000,.000,0.0,23.5,12.8,16.0,2.0,0.0,50.0,3.7,138,106,1.9
+2021-04-12,202104120GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202104120GSW.html,17:28,.222,.222,.556,.000,0.0,6.5,3.6,8.2,0.0,4.8,10.0,25.8,47,111,-17.3
+2021-04-12,202104120GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202104120GSW.html,14:11,.581,.500,1.000,.333,0.0,0.0,0.0,10.5,6.7,5.9,0.0,21.8,122,97,11.9
+2021-04-12,202104120GSW,GSW,Nico Mannion,https://www.basketball-reference.com/boxscores/202104120GSW.html,3:50,.000,.000,1.000,.000,0.0,29.8,16.3,32.1,0.0,0.0,50.0,23.5,33,108,-24.7
+2021-04-12,202104120GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202104120GSW.html,0:14,,,,,0.0,100.0,100.0,0.0,0.0,0.0,,0.0,0,-1,20.4
+2021-04-12,202104120GSW,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202104120GSW.html,0:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-5.0

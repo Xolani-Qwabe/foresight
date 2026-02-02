@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-12,202401120PHI,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202401120PHI.html,37:49,.529,.400,.467,.733,2.3,11.3,6.3,19.8,1.3,0.0,9.2,22.6,121,121,2.2
+2024-01-12,202401120PHI,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202401120PHI.html,35:13,.519,.536,.500,.071,5.0,18.2,10.9,17.2,1.4,4.7,12.2,18.3,108,115,4.6
+2024-01-12,202401120PHI,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202401120PHI.html,32:45,.643,.600,.000,.200,13.3,22.8,17.6,31.6,0.0,0.0,26.9,17.8,111,119,1.0
+2024-01-12,202401120PHI,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202401120PHI.html,21:06,.340,.200,.800,.400,8.3,0.0,4.5,0.0,2.4,0.0,14.5,12.8,82,123,-8.3
+2024-01-12,202401120PHI,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202401120PHI.html,9:48,.174,.000,.500,1.000,8.9,21.8,14.7,0.0,0.0,0.0,25.8,15.5,41,120,-17.3
+2024-01-12,202401120PHI,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202401120PHI.html,26:55,.382,.294,.412,.353,0.0,4.0,1.8,30.9,3.8,3.1,9.2,31.5,93,116,1.2
+2024-01-12,202401120PHI,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202401120PHI.html,21:40,.313,.313,.625,.000,8.1,4.9,6.6,0.0,0.0,0.0,0.0,14.5,90,127,-9.2
+2024-01-12,202401120PHI,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202401120PHI.html,10:02,.500,.500,.667,.000,0.0,21.3,9.6,0.0,0.0,0.0,40.0,19.5,58,120,-14.3
+2024-01-12,202401120PHI,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202401120PHI.html,8:48,.000,.000,.250,.000,9.9,24.2,16.4,51.1,5.8,0.0,20.0,22.3,40,105,-10.5
+2024-01-12,202401120PHI,SAC,Sasha Vezenkov,https://www.basketball-reference.com/boxscores/202401120PHI.html,8:32,.200,.200,.200,.000,51.1,0.0,28.1,0.0,0.0,0.0,16.7,27.6,69,129,-13.0
+2024-01-12,202401120PHI,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202401120PHI.html,8:11,1.000,1.000,.000,.000,21.3,26.1,23.5,22.4,0.0,0.0,0.0,4.8,209,118,5.6
+2024-01-12,202401120PHI,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202401120PHI.html,5:46,.333,.333,.333,.000,15.1,0.0,8.3,0.0,0.0,0.0,0.0,20.4,93,129,-10.4
+2024-01-12,202401120PHI,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202401120PHI.html,5:46,.667,.667,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4,139,129,4.1
+2024-01-12,202401120PHI,SAC,JaVale McGee,https://www.basketball-reference.com/boxscores/202401120PHI.html,5:00,.258,.000,.333,.667,17.5,85.3,48.0,0.0,0.0,16.6,0.0,30.4,85,83,0.5
+2024-01-12,202401120PHI,SAC,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202401120PHI.html,2:38,.750,.750,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.8,154,129,16.2
+2024-01-12,202401120PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202401120PHI.html,40:22,.535,.441,.353,.353,0.0,6.5,3.6,14.5,3.8,4.2,13.3,23.6,109,100,2.8
+2024-01-12,202401120PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202401120PHI.html,36:23,.669,.620,.280,.240,8.8,9.6,9.2,18.4,4.2,0.0,9.8,35.5,131,98,14.8
+2024-01-12,202401120PHI,PHI,Nicolas Batum,https://www.basketball-reference.com/boxscores/202401120PHI.html,25:27,1.400,1.400,.800,.000,12.6,6.9,9.4,18.5,0.0,0.0,0.0,8.3,265,109,18.0
+2024-01-12,202401120PHI,PHI,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202401120PHI.html,25:07,.333,.333,.889,.000,4.2,10.4,7.6,15.8,2.0,0.0,10.0,16.8,88,102,-6.3
+2024-01-12,202401120PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202401120PHI.html,24:27,.405,.333,.111,.222,21.8,10.7,15.7,11.5,4.2,10.3,0.0,17.0,123,94,3.1
+2024-01-12,202401120PHI,PHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202401120PHI.html,27:09,.250,.250,.500,.000,0.0,28.9,15.9,33.9,0.0,0.0,27.3,17.1,73,93,-8.6
+2024-01-12,202401120PHI,PHI,Mo Bamba,https://www.basketball-reference.com/boxscores/202401120PHI.html,20:20,.799,.833,.333,.333,10.5,4.3,7.1,0.0,2.5,16.6,22.5,18.4,120,101,9.4
+2024-01-12,202401120PHI,PHI,Marcus Morris,https://www.basketball-reference.com/boxscores/202401120PHI.html,16:43,.000,.000,.000,.000,0.0,20.9,11.5,0.0,0.0,0.0,16.7,15.1,0,99,-20.7
+2024-01-12,202401120PHI,PHI,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202401120PHI.html,14:22,.694,.500,.500,1.000,0.0,12.1,6.7,9.1,0.0,0.0,0.0,8.4,164,105,-3.7
+2024-01-12,202401120PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202401120PHI.html,3:13,.500,.500,.667,.000,0.0,0.0,0.0,0.0,15.8,0.0,0.0,39.3,105,79,20.6
+2024-01-12,202401120PHI,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202401120PHI.html,3:13,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.1,200,115,6.9
+2024-01-12,202401120PHI,PHI,Jaden Springer,https://www.basketball-reference.com/boxscores/202401120PHI.html,3:13,.333,.333,.000,.000,0.0,27.1,14.9,0.0,0.0,0.0,0.0,39.3,74,93,-22.8

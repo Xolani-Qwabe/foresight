@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-18,201911180LAC,OKC,Terrance Ferguson,https://www.basketball-reference.com/boxscores/201911180LAC.html,35:20,.500,.500,.800,.000,12.1,8.3,10.1,0.0,2.9,0.0,16.7,7.8,105,98,-0.4
+2019-11-18,201911180LAC,OKC,Chris Paul,https://www.basketball-reference.com/boxscores/201911180LAC.html,33:20,.741,.600,.400,1.100,0.0,11.8,6.1,27.7,6.1,0.0,6.3,21.9,149,90,16.0
+2019-11-18,201911180LAC,OKC,Danilo Gallinari,https://www.basketball-reference.com/boxscores/201911180LAC.html,31:41,.448,.308,.615,.462,3.4,12.4,8.1,12.9,0.0,0.0,16.1,27.1,85,103,-5.4
+2019-11-18,201911180LAC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/201911180LAC.html,30:37,.506,.450,.400,.200,0.0,3.2,1.7,0.0,1.7,0.0,31.5,23.9,66,103,-12.3
+2019-11-18,201911180LAC,OKC,Steven Adams,https://www.basketball-reference.com/boxscores/201911180LAC.html,27:02,.507,.500,.000,.250,0.0,36.2,18.9,51.0,3.8,0.0,18.4,18.5,99,85,9.9
+2019-11-18,201911180LAC,OKC,Dennis Schröder,https://www.basketball-reference.com/boxscores/201911180LAC.html,29:05,.353,.353,.059,.000,0.0,13.5,7.0,18.2,0.0,3.2,19.0,33.2,60,101,-10.9
+2019-11-18,201911180LAC,OKC,Nerlens Noel,https://www.basketball-reference.com/boxscores/201911180LAC.html,20:44,.754,.500,.000,3.000,15.4,23.6,19.7,27.0,4.9,13.6,0.0,10.3,180,80,18.5
+2019-11-18,201911180LAC,OKC,Abdel Nader,https://www.basketball-reference.com/boxscores/201911180LAC.html,15:36,.735,.700,.400,.200,6.8,12.6,9.8,0.0,3.3,0.0,15.5,19.0,119,96,7.7
+2019-11-18,201911180LAC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/201911180LAC.html,14:13,.000,.000,.750,.000,0.0,13.8,7.2,0.0,0.0,0.0,0.0,12.9,0,103,-14.8
+2019-11-18,201911180LAC,OKC,Deonte Burton,https://www.basketball-reference.com/boxscores/201911180LAC.html,2:19,.000,.000,1.000,.000,0.0,42.3,22.0,0.0,0.0,0.0,0.0,19.9,0,91,-18.5
+2019-11-18,201911180LAC,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/201911180LAC.html,34:29,.643,.643,1.000,.000,0.0,12.4,5.9,0.0,4.4,0.0,0.0,8.8,127,90,3.6
+2019-11-18,201911180LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/201911180LAC.html,29:01,.605,.607,.500,.143,0.0,25.7,12.3,28.3,0.0,0.0,32.0,32.9,82,96,-1.0
+2019-11-18,201911180LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/201911180LAC.html,20:46,.222,.000,.400,.800,0.0,15.4,7.4,0.0,0.0,0.0,0.0,14.2,55,99,-11.7
+2019-11-18,201911180LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/201911180LAC.html,20:22,.615,.500,.125,.500,19.2,31.4,25.1,9.2,0.0,0.0,17.0,25.2,117,94,5.1
+2019-11-18,201911180LAC,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/201911180LAC.html,18:12,.500,.500,.667,.000,0.0,5.9,2.8,24.4,2.8,16.5,50.0,14.4,66,85,4.6
+2019-11-18,201911180LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/201911180LAC.html,32:20,.458,.458,.083,.000,0.0,3.3,1.6,48.4,1.6,0.0,14.3,18.9,104,99,2.7
+2019-11-18,201911180LAC,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/201911180LAC.html,27:38,.643,.650,.100,.200,28.4,15.4,22.2,69.9,1.8,3.6,8.4,37.5,129,92,25.7
+2019-11-18,201911180LAC,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/201911180LAC.html,20:34,.300,.300,1.000,.000,0.0,25.9,12.4,0.0,2.5,0.0,16.7,12.7,53,90,-6.5
+2019-11-18,201911180LAC,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/201911180LAC.html,20:24,.000,.000,.571,.000,4.8,5.2,5.0,6.7,0.0,0.0,0.0,15.0,19,102,-15.3
+2019-11-18,201911180LAC,LAC,Jerome Robinson,https://www.basketball-reference.com/boxscores/201911180LAC.html,10:08,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.6,0,104,-15.6
+2019-11-18,201911180LAC,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/201911180LAC.html,6:05,.375,.375,1.000,.000,0.0,70.1,33.6,0.0,0.0,16.4,0.0,28.7,80,71,9.7

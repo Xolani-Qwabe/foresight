@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-18,202211180GSW,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202211180GSW.html,39:40,.425,.342,.316,.263,0.0,11.0,5.0,26.6,0.0,0.0,12.4,24.8,88,117,-5.0
+2022-11-18,202211180GSW,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202211180GSW.html,31:41,.393,.192,.385,.615,0.0,17.2,7.9,22.5,3.0,0.0,10.8,23.8,88,108,-2.7
+2022-11-18,202211180GSW,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202211180GSW.html,30:15,.597,.567,.467,.267,12.2,10.8,11.6,16.8,0.0,0.0,19.3,27.9,105,117,1.1
+2022-11-18,202211180GSW,NYK,Cam Reddish,https://www.basketball-reference.com/boxscores/202211180GSW.html,25:23,.564,.438,.500,.500,7.3,0.0,3.9,7.8,3.7,0.0,0.0,15.6,133,112,5.5
+2022-11-18,202211180GSW,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202211180GSW.html,17:24,.901,.875,.250,.250,10.6,18.8,14.4,0.0,2.7,6.7,18.4,12.7,145,104,6.1
+2022-11-18,202211180GSW,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202211180GSW.html,27:15,.635,.571,.000,.286,16.9,20.0,18.3,0.0,0.0,12.9,20.2,14.8,117,108,0.1
+2022-11-18,202211180GSW,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202211180GSW.html,26:43,.393,.000,.600,1.200,0.0,24.5,11.2,6.0,3.6,0.0,28.2,16.2,66,105,-6.6
+2022-11-18,202211180GSW,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202211180GSW.html,18:59,.085,.000,.600,.400,0.0,28.7,13.2,0.0,0.0,6.2,14.5,14.7,17,107,-16.3
+2022-11-18,202211180GSW,NYK,Derrick Rose,https://www.basketball-reference.com/boxscores/202211180GSW.html,13:48,.571,.500,.429,.286,0.0,0.0,0.0,35.6,0.0,17.0,0.0,23.2,130,114,14.3
+2022-11-18,202211180GSW,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202211180GSW.html,2:31,.333,.333,.333,.000,0.0,43.3,19.9,100.0,0.0,0.0,0.0,48.5,88,107,-1.9
+2022-11-18,202211180GSW,NYK,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202211180GSW.html,2:07,,,,,0.0,0.0,0.0,0.0,22.5,0.0,,0.0,0,68,23.5
+2022-11-18,202211180GSW,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202211180GSW.html,2:07,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.2,300,121,43.5
+2022-11-18,202211180GSW,NYK,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202211180GSW.html,2:07,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-7.6
+2022-11-18,202211180GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202211180GSW.html,33:50,.591,.605,.684,.158,0.0,16.4,8.9,50.3,2.8,0.0,19.7,31.0,108,98,9.1
+2022-11-18,202211180GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202211180GSW.html,31:55,.868,.875,.250,1.000,0.0,26.0,14.1,28.9,0.0,5.7,25.8,10.1,147,97,6.3
+2022-11-18,202211180GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202211180GSW.html,31:24,.625,.625,.625,.000,3.5,5.9,4.8,10.6,0.0,0.0,5.9,22.4,119,109,2.4
+2022-11-18,202211180GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202211180GSW.html,30:18,.597,.633,.533,.267,10.8,12.2,11.6,11.2,0.0,0.0,5.6,24.3,118,106,1.9
+2022-11-18,202211180GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202211180GSW.html,23:51,.665,.500,.000,2.000,13.7,19.4,16.8,15.5,2.0,0.0,0.0,6.5,178,98,3.4
+2022-11-18,202211180GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202211180GSW.html,26:09,.382,.382,.471,.000,4.2,7.1,5.7,23.1,0.0,3.5,15.0,31.7,81,107,-8.4
+2022-11-18,202211180GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202211180GSW.html,19:46,.600,.600,1.000,.000,5.5,18.7,12.6,6.7,2.4,0.0,16.7,12.6,108,98,0.8
+2022-11-18,202211180GSW,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202211180GSW.html,16:51,.644,.625,.125,.375,6.5,11.0,8.9,21.3,2.8,0.0,9.7,25.4,124,100,6.1
+2022-11-18,202211180GSW,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202211180GSW.html,14:23,.000,.000,1.000,.000,7.6,6.4,7.0,8.1,6.6,0.0,40.0,14.4,27,93,-13.0
+2022-11-18,202211180GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202211180GSW.html,8:54,.174,.000,.500,1.000,12.3,41.5,28.1,0.0,5.3,0.0,0.0,13.4,64,80,-3.7
+2022-11-18,202211180GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202211180GSW.html,2:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-6.9

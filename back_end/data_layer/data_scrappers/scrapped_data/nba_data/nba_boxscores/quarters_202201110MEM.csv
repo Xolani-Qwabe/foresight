@@ -1,0 +1,78 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-01-11,202201110MEM,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202201110MEM.html,11.88,0,4,.000,0,2,.000,3,3,1.000,1,5,6,4,0,0,1,1,3,3.8,-3
+2022-01-11,202201110MEM,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201110MEM.html,8.82,3,6,.500,1,2,.500,0,0,,0,2,2,1,0,0,2,0,7,3.3,-9
+2022-01-11,202201110MEM,GSW,Q1,Klay Thompson,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.5,2,4,.500,0,1,.000,0,0,,0,0,0,0,0,0,1,0,4,1.0,-1
+2022-01-11,202201110MEM,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.08,0,1,.000,0,0,,0,0,,1,2,3,1,0,0,0,1,0,0.9,-8
+2022-01-11,202201110MEM,GSW,Q1,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.07,0,0,,0,0,,0,0,,0,2,2,0,0,0,2,0,0,-1.4,-8
+2022-01-11,202201110MEM,GSW,Q1,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,3.18,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,+5
+2022-01-11,202201110MEM,GSW,Q1,Gary Payton II,https://www.basketball-reference.com/boxscores/202201110MEM.html,0.12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1
+2022-01-11,202201110MEM,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.38,2,4,.500,0,1,.000,0,0,,0,0,0,0,0,2,0,0,4,3.4,-2
+2022-01-11,202201110MEM,GSW,Q1,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.05,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,+3
+2022-01-11,202201110MEM,GSW,Q1,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.92,1,1,1.000,1,1,1.000,1,2,.500,0,1,1,0,0,0,0,0,4,3.6,+4
+2022-01-11,202201110MEM,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.3,3,4,.750,0,1,.000,3,3,1.000,0,2,2,2,0,0,1,1,9,8.0,+6
+2022-01-11,202201110MEM,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201110MEM.html,8.03,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,1,1,3,0.6,+3
+2022-01-11,202201110MEM,GSW,Q2,Klay Thompson,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.7,1,3,.333,1,1,1.000,0,0,,0,1,1,2,1,1,1,1,3,3.3,+10
+2022-01-11,202201110MEM,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.3,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,-3
+2022-01-11,202201110MEM,GSW,Q2,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202201110MEM.html,0.28,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,0
+2022-01-11,202201110MEM,GSW,Q2,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,9.3,1,1,1.000,0,0,,1,2,.500,0,2,2,1,0,1,1,0,3,3.3,-5
+2022-01-11,202201110MEM,GSW,Q2,Gary Payton II,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.8,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,1,2,1.9,+1
+2022-01-11,202201110MEM,GSW,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.7,0,2,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,1,0,2,-0.4,-10
+2022-01-11,202201110MEM,GSW,Q2,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.7,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4,-10
+2022-01-11,202201110MEM,GSW,Q2,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201110MEM.html,2.65,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.7,-1
+2022-01-11,202201110MEM,GSW,Q2,Moses Moody,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.23,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,2.0,-11
+2022-01-11,202201110MEM,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202201110MEM.html,9.47,4,7,.571,2,3,.667,3,4,.750,0,2,2,3,2,0,1,1,13,12.6,+7
+2022-01-11,202201110MEM,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201110MEM.html,9.35,1,2,.500,1,2,.500,0,0,,0,2,2,1,0,0,1,0,3,2.3,+8
+2022-01-11,202201110MEM,GSW,Q3,Klay Thompson,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.77,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,1,0,3,2.0,+13
+2022-01-11,202201110MEM,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.0,1,1,1.000,0,0,,4,4,1.000,1,2,3,0,0,0,1,1,6,5.6,+7
+2022-01-11,202201110MEM,GSW,Q3,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.0,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,3,1.9,+4
+2022-01-11,202201110MEM,GSW,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202201110MEM.html,8.15,2,3,.667,0,0,,0,0,,0,1,1,0,2,0,0,2,4,4.2,+15
+2022-01-11,202201110MEM,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202201110MEM.html,2.8,0,0,,0,0,,2,2,1.000,0,0,0,1,0,0,0,0,2,2.7,+1
+2022-01-11,202201110MEM,GSW,Q3,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.43,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,1,0,0.9,0
+2022-01-11,202201110MEM,GSW,Q3,Damion Lee,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.08,1,2,.500,1,1,1.000,2,2,1.000,0,0,0,1,0,0,0,0,5,4.7,0
+2022-01-11,202201110MEM,GSW,Q3,Moses Moody,https://www.basketball-reference.com/boxscores/202201110MEM.html,0.95,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2022-01-11,202201110MEM,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202201110MEM.html,10.03,1,6,.167,0,3,.000,0,0,,0,0,0,1,0,0,0,0,2,-1.1,-11
+2022-01-11,202201110MEM,GSW,Q4,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.35,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,2,0,-2.2,-6
+2022-01-11,202201110MEM,GSW,Q4,Klay Thompson,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.65,1,5,.200,0,2,.000,2,2,1.000,0,1,1,1,0,0,0,0,4,1.9,-5
+2022-01-11,202201110MEM,GSW,Q4,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,10.9,0,0,,0,0,,1,2,.500,0,3,3,1,0,0,0,0,1,2.2,-11
+2022-01-11,202201110MEM,GSW,Q4,Gary Payton II,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.67,3,4,.750,1,2,.500,0,0,,1,1,2,0,1,0,0,1,7,7.0,-6
+2022-01-11,202201110MEM,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.35,1,5,.200,1,4,.250,1,1,1.000,0,1,1,1,0,0,0,0,4,1.9,-6
+2022-01-11,202201110MEM,GSW,Q4,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.75,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,1,0,0.3,-5
+2022-01-11,202201110MEM,GSW,Q4,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.33,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-5
+2022-01-11,202201110MEM,GSW,Q4,Damion Lee,https://www.basketball-reference.com/boxscores/202201110MEM.html,1.97,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2022-01-11,202201110MEM,MEM,Q1,Ja Morant,https://www.basketball-reference.com/boxscores/202201110MEM.html,9.23,6,10,.600,1,2,.500,2,2,1.000,0,0,0,2,0,0,1,0,15,10.8,+7
+2022-01-11,202201110MEM,MEM,Q1,Desmond Bane,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.87,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,+5
+2022-01-11,202201110MEM,MEM,Q1,Ziaire Williams,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.95,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,+7
+2022-01-11,202201110MEM,MEM,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.95,1,2,.500,0,0,,0,0,,1,0,1,0,1,0,0,0,2,2.7,+7
+2022-01-11,202201110MEM,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.87,0,2,.000,0,1,.000,0,0,,0,2,2,0,2,1,0,0,0,1.9,+5
+2022-01-11,202201110MEM,MEM,Q1,Brandon Clarke,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.05,1,1,1.000,0,0,,1,2,.500,0,2,2,1,0,1,0,0,3,4.3,-3
+2022-01-11,202201110MEM,MEM,Q1,Tyus Jones,https://www.basketball-reference.com/boxscores/202201110MEM.html,2.77,1,3,.333,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,1.3,-3
+2022-01-11,202201110MEM,MEM,Q1,John Konchar,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.05,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2022-01-11,202201110MEM,MEM,Q1,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.13,1,3,.333,0,1,.000,0,0,,1,2,3,1,0,0,0,0,2,2.3,-1
+2022-01-11,202201110MEM,MEM,Q1,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.13,0,2,.000,0,1,.000,0,0,,0,1,1,2,0,0,0,2,0,-0.5,-1
+2022-01-11,202201110MEM,MEM,Q2,Ja Morant,https://www.basketball-reference.com/boxscores/202201110MEM.html,8.03,1,3,.333,0,0,,1,2,.500,0,3,3,2,0,0,0,1,3,2.8,-3
+2022-01-11,202201110MEM,MEM,Q2,Desmond Bane,https://www.basketball-reference.com/boxscores/202201110MEM.html,9.13,2,6,.333,2,2,1.000,0,0,,0,1,1,3,0,0,0,1,6,4.6,+6
+2022-01-11,202201110MEM,MEM,Q2,Ziaire Williams,https://www.basketball-reference.com/boxscores/202201110MEM.html,9.07,2,4,.500,1,2,.500,2,2,1.000,0,0,0,0,0,0,1,1,7,3.6,+3
+2022-01-11,202201110MEM,MEM,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202201110MEM.html,9.07,2,4,.500,0,0,,0,0,,2,1,3,2,1,1,1,1,4,5.4,+3
+2022-01-11,202201110MEM,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.3,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,2,3,5,1.5,+7
+2022-01-11,202201110MEM,MEM,Q2,Brandon Clarke,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.93,0,2,.000,0,0,,0,0,,1,1,2,0,0,1,0,0,0,0.3,-8
+2022-01-11,202201110MEM,MEM,Q2,Tyus Jones,https://www.basketball-reference.com/boxscores/202201110MEM.html,3.97,2,2,1.000,2,2,1.000,0,0,,0,1,1,1,0,0,0,0,6,6.4,+7
+2022-01-11,202201110MEM,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202201110MEM.html,2.93,0,0,,0,0,,0,0,,0,0,0,1,2,0,0,0,0,2.7,+1
+2022-01-11,202201110MEM,MEM,Q2,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,4.7,0,3,.000,0,1,.000,0,0,,0,2,2,0,1,0,0,0,0,-0.5,+6
+2022-01-11,202201110MEM,MEM,Q2,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202201110MEM.html,2.87,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,0.3,-2
+2022-01-11,202201110MEM,MEM,Q3,Ja Morant,https://www.basketball-reference.com/boxscores/202201110MEM.html,12.0,2,5,.400,0,1,.000,2,3,.667,0,1,1,2,0,0,1,0,6,3.6,-11
+2022-01-11,202201110MEM,MEM,Q3,Desmond Bane,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.12,1,3,.333,1,2,.500,2,3,.667,0,0,0,0,0,0,2,0,5,0.9,-14
+2022-01-11,202201110MEM,MEM,Q3,Ziaire Williams,https://www.basketball-reference.com/boxscores/202201110MEM.html,8.18,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,0,2,2,-0.2,-7
+2022-01-11,202201110MEM,MEM,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202201110MEM.html,8.18,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,1,0,2,1.0,-7
+2022-01-11,202201110MEM,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,1.22,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-7
+2022-01-11,202201110MEM,MEM,Q3,Brandon Clarke,https://www.basketball-reference.com/boxscores/202201110MEM.html,8.65,4,4,1.000,0,0,,1,1,1.000,1,1,2,0,1,0,0,0,9,9.8,0
+2022-01-11,202201110MEM,MEM,Q3,Tyus Jones,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.03,1,1,1.000,0,0,,0,0,,0,1,1,2,1,0,0,0,2,4.4,+5
+2022-01-11,202201110MEM,MEM,Q3,John Konchar,https://www.basketball-reference.com/boxscores/202201110MEM.html,3.67,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-6
+2022-01-11,202201110MEM,MEM,Q3,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,3.82,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-4
+2022-01-11,202201110MEM,MEM,Q3,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202201110MEM.html,2.13,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,2,2,-0.5,-4
+2022-01-11,202201110MEM,MEM,Q4,Ja Morant,https://www.basketball-reference.com/boxscores/202201110MEM.html,7.67,2,5,.400,0,1,.000,1,1,1.000,0,1,1,2,0,2,0,0,5,5.4,+6
+2022-01-11,202201110MEM,MEM,Q4,Desmond Bane,https://www.basketball-reference.com/boxscores/202201110MEM.html,12.0,0,3,.000,0,3,.000,0,0,,1,1,2,0,0,0,1,1,0,-2.5,+11
+2022-01-11,202201110MEM,MEM,Q4,Ziaire Williams,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.22,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,0,0,5,3.7,+5
+2022-01-11,202201110MEM,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,12.0,3,8,.375,0,1,.000,2,2,1.000,2,6,8,0,0,2,0,0,8,8.2,+11
+2022-01-11,202201110MEM,MEM,Q4,Brandon Clarke,https://www.basketball-reference.com/boxscores/202201110MEM.html,6.15,1,2,.500,0,0,,0,0,,1,2,3,0,0,0,0,2,2,1.5,+5
+2022-01-11,202201110MEM,MEM,Q4,Tyus Jones,https://www.basketball-reference.com/boxscores/202201110MEM.html,10.58,2,2,1.000,2,2,1.000,0,0,,1,3,4,5,0,0,1,0,6,9.5,+11
+2022-01-11,202201110MEM,MEM,Q4,John Konchar,https://www.basketball-reference.com/boxscores/202201110MEM.html,5.38,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+6

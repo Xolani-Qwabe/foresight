@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-24,202201240CLE,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202201240CLE.html,34:18,.588,.594,.250,.625,2.8,12.2,7.3,25.0,3.0,0.0,4.7,28.7,120,101,9.7
+2022-01-24,202201240CLE,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202201240CLE.html,32:54,.458,.412,.412,.353,2.9,19.0,10.6,22.2,4.7,0.0,16.9,33.1,87,95,0.4
+2022-01-24,202201240CLE,NYK,Nerlens Noel,https://www.basketball-reference.com/boxscores/202201240CLE.html,29:04,.431,1.000,.000,3.000,9.9,35.9,22.4,5.0,3.5,0.0,0.0,3.7,127,91,-0.2
+2022-01-24,202201240CLE,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202201240CLE.html,21:18,.389,.389,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.5,80,112,-9.2
+2022-01-24,202201240CLE,NYK,Kemba Walker,https://www.basketball-reference.com/boxscores/202201240CLE.html,19:49,.500,.500,.375,.000,0.0,5.3,2.5,9.6,2.6,0.0,20.0,23.2,80,104,-6.9
+2022-01-24,202201240CLE,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202201240CLE.html,25:50,.150,.150,.600,.000,0.0,4.0,1.9,33.6,2.0,0.0,9.1,19.6,60,106,-10.5
+2022-01-24,202201240CLE,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202201240CLE.html,24:23,.857,.857,.857,.000,3.9,0.0,2.1,7.3,0.0,4.4,0.0,13.2,166,110,10.5
+2022-01-24,202201240CLE,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202201240CLE.html,18:54,.773,.667,.000,.667,10.2,33.1,21.2,0.0,2.7,0.0,20.5,11.9,133,94,-0.4
+2022-01-24,202201240CLE,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202201240CLE.html,18:23,.000,.000,.500,.000,5.2,11.4,8.2,29.8,0.0,0.0,0.0,10.0,67,107,-10.1
+2022-01-24,202201240CLE,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202201240CLE.html,15:06,.722,.722,.444,.000,12.7,27.6,19.9,0.0,3.4,0.0,18.2,33.5,107,94,9.7
+2022-01-24,202201240CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202201240CLE.html,38:49,.342,.342,.316,.000,0.0,4.9,2.6,53.8,2.6,0.0,24.0,28.4,79,102,-6.6
+2022-01-24,202201240CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202201240CLE.html,38:27,.497,.500,.083,.583,13.6,17.5,15.6,22.7,0.0,0.0,21.0,21.9,98,104,-0.5
+2022-01-24,202201240CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202201240CLE.html,35:02,.732,.750,.875,.250,0.0,13.7,7.1,0.0,4.4,0.0,10.1,12.4,115,94,6.0
+2022-01-24,202201240CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202201240CLE.html,32:43,.489,.462,.231,.231,9.6,8.8,9.2,11.2,0.0,3.2,0.0,19.3,115,104,1.0
+2022-01-24,202201240CLE,CLE,Ed Davis,https://www.basketball-reference.com/boxscores/202201240CLE.html,17:29,.347,.000,.000,1.000,11.9,22.0,17.2,15.7,0.0,0.0,0.0,7.3,131,98,-3.6
+2022-01-24,202201240CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202201240CLE.html,23:57,.776,.750,1.000,.167,0.0,44.1,23.0,26.2,2.1,0.0,18.9,29.3,115,88,19.0
+2022-01-24,202201240CLE,CLE,Rajon Rondo,https://www.basketball-reference.com/boxscores/202201240CLE.html,18:15,1.000,1.000,.750,.000,0.0,21.0,11.0,29.1,2.8,0.0,33.3,14.5,119,95,6.5
+2022-01-24,202201240CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202201240CLE.html,15:18,.752,.750,.000,.750,13.6,0.0,6.5,0.0,0.0,0.0,15.8,18.2,128,109,0.7
+2022-01-24,202201240CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202201240CLE.html,10:44,.000,.000,.600,.000,0.0,8.9,4.7,25.6,0.0,0.0,0.0,20.6,29,107,-18.2
+2022-01-24,202201240CLE,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202201240CLE.html,9:14,.410,.500,.500,.500,0.0,20.8,10.8,0.0,0.0,0.0,45.0,21.2,37,97,-24.5

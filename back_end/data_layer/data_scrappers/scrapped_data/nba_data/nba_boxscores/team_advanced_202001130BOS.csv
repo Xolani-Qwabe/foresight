@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-13,202001130BOS,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202001130BOS.html,34:52,.683,.583,.333,.500,3.4,13.4,8.5,11.2,1.4,0.0,21.5,36.2,110,119,3.9
+2020-01-13,202001130BOS,CHI,Kris Dunn,https://www.basketball-reference.com/boxscores/202001130BOS.html,30:01,.541,.500,.286,.429,0.0,19.5,9.9,5.0,0.0,0.0,19.4,15.5,90,120,-6.2
+2020-01-13,202001130BOS,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202001130BOS.html,25:55,.521,.375,.125,1.000,4.6,0.0,2.3,41.2,1.9,0.0,14.8,23.5,112,121,3.0
+2020-01-13,202001130BOS,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202001130BOS.html,25:20,.455,.444,.333,.222,4.7,23.1,14.0,0.0,3.9,0.0,0.0,17.6,99,111,-1.7
+2020-01-13,202001130BOS,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202001130BOS.html,20:24,.850,.800,.000,.400,11.8,5.7,8.7,8.5,0.0,7.8,0.0,13.0,180,118,7.4
+2020-01-13,202001130BOS,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202001130BOS.html,24:23,.607,.607,.286,.000,0.0,9.6,4.9,9.3,0.0,0.0,6.7,27.7,112,123,1.8
+2020-01-13,202001130BOS,CHI,Coby White,https://www.basketball-reference.com/boxscores/202001130BOS.html,23:23,.375,.375,.500,.000,5.1,10.0,7.6,26.6,0.0,0.0,11.1,17.4,91,123,-3.9
+2020-01-13,202001130BOS,CHI,Luke Kornet,https://www.basketball-reference.com/boxscores/202001130BOS.html,21:53,.000,.000,1.000,.000,0.0,26.7,13.5,0.0,0.0,3.7,33.3,6.2,0,116,-9.5
+2020-01-13,202001130BOS,CHI,Chandler Hutchison,https://www.basketball-reference.com/boxscores/202001130BOS.html,14:24,.200,.200,.000,.000,8.3,16.3,12.3,0.0,3.5,11.1,16.7,18.8,47,105,-6.7
+2020-01-13,202001130BOS,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202001130BOS.html,13:25,.000,.000,1.000,.000,0.0,26.2,13.3,0.0,0.0,0.0,0.0,6.7,0,119,-13.5
+2020-01-13,202001130BOS,CHI,Cristiano Felício,https://www.basketball-reference.com/boxscores/202001130BOS.html,2:00,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-5.3
+2020-01-13,202001130BOS,CHI,Shaquille Harrison,https://www.basketball-reference.com/boxscores/202001130BOS.html,2:00,.266,.000,.000,2.000,0.0,58.5,29.6,0.0,0.0,0.0,0.0,42.4,60,110,-16.8
+2020-01-13,202001130BOS,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202001130BOS.html,2:00,1.250,1.250,.500,.000,0.0,58.5,29.6,0.0,0.0,0.0,0.0,45.1,250,110,75.9
+2020-01-13,202001130BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202001130BOS.html,30:15,.560,.385,.077,.692,7.7,4.0,5.9,15.3,3.3,0.0,0.0,25.0,134,105,3.6
+2020-01-13,202001130BOS,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/202001130BOS.html,30:09,.364,.364,.091,.000,0.0,23.9,11.8,39.0,0.0,0.0,8.3,17.7,98,109,-3.2
+2020-01-13,202001130BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202001130BOS.html,29:43,.523,.471,.412,.412,0.0,24.2,12.0,11.7,1.7,5.8,4.7,31.6,106,100,3.6
+2020-01-13,202001130BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202001130BOS.html,27:36,.709,.722,.667,.222,0.0,17.4,8.6,11.5,0.0,6.2,16.8,19.2,112,105,3.8
+2020-01-13,202001130BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202001130BOS.html,26:27,.794,.778,.000,.111,8.9,31.8,20.2,0.0,1.9,3.2,34.6,24.3,93,100,-3.0
+2020-01-13,202001130BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202001130BOS.html,33:24,.676,.625,.625,.250,0.0,18.0,8.9,34.6,4.5,0.0,10.1,13.2,142,100,8.6
+2020-01-13,202001130BOS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202001130BOS.html,24:11,.765,.700,.200,.400,4.8,9.9,7.4,12.0,0.0,0.0,0.0,10.8,167,111,1.9
+2020-01-13,202001130BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202001130BOS.html,16:17,.619,.563,.250,.250,28.8,7.4,18.2,32.5,0.0,5.3,10.1,27.0,136,107,9.9
+2020-01-13,202001130BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202001130BOS.html,12:57,,,,,9.0,0.0,4.6,0.0,0.0,0.0,,0.0,224,113,-4.1
+2020-01-13,202001130BOS,BOS,Vincent Poirier,https://www.basketball-reference.com/boxscores/202001130BOS.html,5:01,.258,.000,.000,.667,0.0,0.0,0.0,0.0,0.0,0.0,20.5,43.3,47,112,-40.4
+2020-01-13,202001130BOS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202001130BOS.html,2:00,,,,,0.0,60.0,29.6,0.0,0.0,0.0,,0.0,0,102,-2.8
+2020-01-13,202001130BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202001130BOS.html,2:00,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.6,250,113,17.2

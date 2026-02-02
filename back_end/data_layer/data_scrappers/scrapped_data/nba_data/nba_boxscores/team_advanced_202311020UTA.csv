@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-02,202311020UTA,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202311020UTA.html,37:37,.480,.476,.286,.095,2.8,8.3,5.6,23.2,4.9,0.0,8.4,25.9,98,108,-1.1
+2023-11-02,202311020UTA,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202311020UTA.html,35:45,.765,.731,.154,1.154,6.0,20.4,13.3,24.9,3.8,4.8,23.4,29.2,122,103,8.6
+2023-11-02,202311020UTA,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202311020UTA.html,29:03,.543,.542,.500,.167,7.3,28.7,18.2,10.8,0.0,3.0,13.4,20.9,101,110,-3.7
+2023-11-02,202311020UTA,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202311020UTA.html,21:29,.342,.143,.000,.571,9.9,9.7,9.8,18.2,8.5,0.0,25.5,22.3,77,99,-5.9
+2023-11-02,202311020UTA,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202311020UTA.html,14:28,.000,.000,1.000,.000,0.0,0.0,0.0,8.5,0.0,5.9,0.0,5.6,32,118,-10.0
+2023-11-02,202311020UTA,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202311020UTA.html,30:56,.712,.600,.400,.600,0.0,23.6,11.9,34.8,3.0,0.0,19.2,20.6,128,107,5.9
+2023-11-02,202311020UTA,ORL,Joe Ingles,https://www.basketball-reference.com/boxscores/202311020UTA.html,23:30,.340,.300,.800,.400,4.5,4.4,4.5,5.5,1.9,0.0,0.0,10.2,90,116,-7.6
+2023-11-02,202311020UTA,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202311020UTA.html,18:56,.672,.643,.286,.143,0.0,5.5,2.8,8.8,0.0,9.1,0.0,16.0,136,114,1.7
+2023-11-02,202311020UTA,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202311020UTA.html,15:47,.846,1.000,.000,.750,6.8,13.2,10.0,11.3,5.8,0.0,15.8,16.3,133,104,6.7
+2023-11-02,202311020UTA,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202311020UTA.html,12:29,.338,.250,.750,.250,8.5,16.7,12.7,10.9,3.7,20.6,0.0,14.5,96,96,2.5
+2023-11-02,202311020UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202311020UTA.html,37:01,.438,.300,.400,.450,8.5,8.6,8.5,22.5,1.2,0.0,20.0,32.3,91,114,-6.4
+2023-11-02,202311020UTA,UTA,John Collins,https://www.basketball-reference.com/boxscores/202311020UTA.html,33:14,.850,.850,.400,.400,9.4,22.5,15.9,0.0,0.0,2.6,14.5,16.5,141,111,3.5
+2023-11-02,202311020UTA,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202311020UTA.html,33:09,.615,.647,.588,.118,3.1,19.3,11.1,5.2,2.8,0.0,14.4,25.1,102,108,1.4
+2023-11-02,202311020UTA,UTA,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202311020UTA.html,31:06,.536,.536,.286,.000,0.0,10.3,5.1,40.9,4.4,2.8,12.5,20.5,115,104,6.2
+2023-11-02,202311020UTA,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202311020UTA.html,25:10,.333,.333,.000,.000,12.4,29.7,21.0,5.1,0.0,17.0,14.3,11.1,88,100,-0.7
+2023-11-02,202311020UTA,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202311020UTA.html,18:37,.500,.500,.250,.000,5.6,5.7,5.7,21.6,7.4,0.0,33.3,12.8,92,100,-1.2
+2023-11-02,202311020UTA,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202311020UTA.html,16:53,.470,.375,.250,.750,6.2,0.0,3.1,8.8,0.0,0.0,15.8,29.8,91,119,-10.0
+2023-11-02,202311020UTA,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202311020UTA.html,16:43,.714,.750,.500,2.500,0.0,12.8,6.3,22.6,0.0,0.0,32.3,14.8,110,116,-2.2
+2023-11-02,202311020UTA,UTA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202311020UTA.html,8:00,1.167,1.167,.333,.000,13.0,26.7,19.8,0.0,0.0,0.0,0.0,14.9,231,112,15.0
+2023-11-02,202311020UTA,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202311020UTA.html,7:49,.500,.500,.500,.000,0.0,0.0,0.0,17.6,0.0,0.0,0.0,10.2,124,118,-5.1
+2023-11-02,202311020UTA,UTA,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202311020UTA.html,6:48,.000,.000,1.000,.000,0.0,31.4,15.5,0.0,0.0,0.0,0.0,5.9,0,111,-10.1
+2023-11-02,202311020UTA,UTA,Kris Dunn,https://www.basketball-reference.com/boxscores/202311020UTA.html,5:30,.500,.500,.000,.000,0.0,38.8,19.2,81.1,0.0,0.0,0.0,14.5,150,110,11.8

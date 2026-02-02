@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-01-05,202301050DAL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202301050DAL.html,35.43,8,22,.364,2,8,.250,11,12,.917,2,12,14,10,1,2,2,2,29,28.0,+15
+2023-01-05,202301050DAL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202301050DAL.html,33.87,4,10,.400,4,9,.444,3,3,1.000,2,3,5,3,1,0,2,1,15,12.6,+25
+2023-01-05,202301050DAL,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202301050DAL.html,29.63,6,12,.500,2,5,.400,5,6,.833,1,6,7,3,0,2,2,4,19,15.0,+12
+2023-01-05,202301050DAL,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202301050DAL.html,23.6,3,6,.500,1,4,.250,1,2,.500,2,6,8,3,1,0,1,3,8,8.7,+8
+2023-01-05,202301050DAL,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202301050DAL.html,20.85,4,7,.571,2,5,.400,0,0,,0,0,0,1,0,2,2,4,10,5.2,+14
+2023-01-05,202301050DAL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202301050DAL.html,27.88,5,9,.556,1,4,.250,1,1,1.000,1,3,4,3,1,0,0,3,12,11.2,+25
+2023-01-05,202301050DAL,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202301050DAL.html,24.75,4,8,.500,3,5,.600,4,5,.800,0,3,3,4,0,0,1,2,15,12.5,+22
+2023-01-05,202301050DAL,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202301050DAL.html,21.38,1,1,1.000,0,0,,1,2,.500,1,6,7,0,0,1,0,1,3,5.1,+8
+2023-01-05,202301050DAL,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202301050DAL.html,10.7,2,4,.500,1,3,.333,0,0,,1,1,2,1,0,0,0,1,5,4.3,+7
+2023-01-05,202301050DAL,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202301050DAL.html,3.75,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7,+6
+2023-01-05,202301050DAL,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202301050DAL.html,2.72,1,2,.500,0,0,,0,0,,0,0,0,1,1,1,0,1,2,3.0,+1
+2023-01-05,202301050DAL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202301050DAL.html,2.72,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,1,0,2,1.7,+1
+2023-01-05,202301050DAL,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202301050DAL.html,2.72,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1
+2023-01-05,202301050DAL,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202301050DAL.html,40.03,6,15,.400,2,6,.333,4,5,.800,0,1,1,5,0,0,2,3,18,10.1,-23
+2023-01-05,202301050DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202301050DAL.html,36.6,0,1,.000,0,1,.000,0,1,.000,1,2,3,2,2,2,1,4,0,2.4,-12
+2023-01-05,202301050DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202301050DAL.html,36.58,2,11,.182,2,6,.333,2,2,1.000,0,4,4,1,0,0,1,1,8,1.6,-17
+2023-01-05,202301050DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202301050DAL.html,31.1,7,23,.304,0,6,.000,9,11,.818,0,9,9,3,0,0,4,4,23,8.1,-20
+2023-01-05,202301050DAL,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202301050DAL.html,28.93,5,12,.417,0,2,.000,2,3,.667,5,7,12,1,0,1,1,1,12,10.8,-18
+2023-01-05,202301050DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202301050DAL.html,16.85,5,6,.833,0,0,,0,0,,5,3,8,0,1,0,0,1,10,12.8,-11
+2023-01-05,202301050DAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202301050DAL.html,15.08,5,8,.625,3,3,1.000,2,2,1.000,0,2,2,2,0,0,0,1,15,13.0,-7
+2023-01-05,202301050DAL,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202301050DAL.html,7.85,0,3,.000,0,3,.000,0,0,,0,1,1,0,0,0,0,1,0,-2.2,-3
+2023-01-05,202301050DAL,DAL,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202301050DAL.html,6.83,1,3,.333,0,1,.000,0,0,,0,1,1,1,1,0,1,1,2,0.9,-8
+2023-01-05,202301050DAL,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202301050DAL.html,6.47,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-7
+2023-01-05,202301050DAL,DAL,Theo Pinson,https://www.basketball-reference.com/boxscores/202301050DAL.html,3.75,1,2,.500,0,1,.000,1,1,1.000,0,0,0,0,0,0,0,0,3,2.0,-6
+2023-01-05,202301050DAL,DAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202301050DAL.html,3.75,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,1,0,2,0.3,-6
+2023-01-05,202301050DAL,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202301050DAL.html,3.75,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-6
+2023-01-05,202301050DAL,DAL,Kemba Walker,https://www.basketball-reference.com/boxscores/202301050DAL.html,2.42,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-1

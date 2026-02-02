@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-26,202104260PHI,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202104260PHI.html,30:45,.568,.545,.182,.273,3.7,25.3,13.8,12.2,0.0,0.0,24.5,21.8,90,121,-6.7
+2021-04-26,202104260PHI,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202104260PHI.html,29:38,.337,.318,.545,.182,0.0,8.8,4.1,26.9,3.1,0.0,29.6,23.3,63,117,-7.8
+2021-04-26,202104260PHI,OKC,Moses Brown,https://www.basketball-reference.com/boxscores/202104260PHI.html,27:19,.619,.625,.000,.250,12.6,23.7,17.8,6.7,1.7,0.0,25.3,17.8,98,117,-3.5
+2021-04-26,202104260PHI,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202104260PHI.html,26:04,.680,.800,.200,.400,4.4,14.9,9.3,26.7,0.0,0.0,46.0,17.1,79,123,-7.0
+2021-04-26,202104260PHI,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202104260PHI.html,22:13,.563,.563,.250,.250,0.0,5.8,2.7,16.4,4.2,0.0,36.0,25.6,73,115,-6.3
+2021-04-26,202104260PHI,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202104260PHI.html,30:59,.854,.833,.667,.167,0.0,8.4,3.9,13.7,1.5,0.0,7.2,18.4,156,121,9.4
+2021-04-26,202104260PHI,OKC,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202104260PHI.html,24:28,.200,.200,.400,.000,0.0,10.6,5.0,0.0,0.0,0.0,50.0,16.8,20,124,-21.6
+2021-04-26,202104260PHI,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202104260PHI.html,21:12,.325,.222,.556,.444,16.2,30.6,22.9,29.7,4.4,4.1,8.5,22.7,91,107,0.7
+2021-04-26,202104260PHI,OKC,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202104260PHI.html,15:50,.222,.200,.200,.800,21.7,8.2,15.3,9.5,2.9,0.0,0.0,17.5,75,117,-7.9
+2021-04-26,202104260PHI,OKC,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202104260PHI.html,11:32,.512,.375,.750,.500,0.0,0.0,0.0,0.0,8.1,0.0,0.0,17.3,116,107,4.6
+2021-04-26,202104260PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202104260PHI.html,25:26,.550,.550,.200,.000,0.0,18.0,9.6,20.1,7.3,0.0,16.7,19.9,107,82,3.5
+2021-04-26,202104260PHI,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202104260PHI.html,23:54,.750,.750,.833,.000,0.0,4.8,2.5,4.9,3.9,0.0,0.0,10.6,156,93,3.8
+2021-04-26,202104260PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202104260PHI.html,22:59,.752,.700,.500,.900,0.0,24.9,13.2,6.1,6.1,0.0,12.5,29.3,135,82,7.4
+2021-04-26,202104260PHI,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202104260PHI.html,22:37,.750,.750,.000,.000,0.0,15.2,8.1,24.8,6.2,8.8,20.0,18.6,129,81,11.4
+2021-04-26,202104260PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202104260PHI.html,20:31,.556,.556,.556,.000,0.0,0.0,0.0,18.6,2.3,0.0,0.0,18.5,131,96,-0.6
+2021-04-26,202104260PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202104260PHI.html,18:08,1.000,1.000,1.000,.000,0.0,12.6,6.7,6.3,7.7,5.5,57.1,16.3,73,79,3.9
+2021-04-26,202104260PHI,PHI,Anthony Tolliver,https://www.basketball-reference.com/boxscores/202104260PHI.html,16:38,.694,.500,.667,1.000,0.0,13.7,7.3,0.0,0.0,6.0,18.8,13.5,120,95,-3.3
+2021-04-26,202104260PHI,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202104260PHI.html,14:38,.589,.600,.200,1.200,35.5,54.7,45.7,17.7,3.2,0.0,11.6,24.9,132,79,2.9
+2021-04-26,202104260PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202104260PHI.html,14:36,.500,.500,.143,.000,0.0,7.8,4.2,17.7,0.0,6.8,12.5,23.1,102,96,-5.2
+2021-04-26,202104260PHI,PHI,George Hill,https://www.basketball-reference.com/boxscores/202104260PHI.html,14:01,.500,.500,.000,.000,9.3,0.0,4.3,23.6,6.6,0.0,50.0,12.0,94,88,0.4
+2021-04-26,202104260PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202104260PHI.html,12:00,1.100,1.100,.200,.000,0.0,9.5,5.1,59.3,0.0,0.0,16.7,21.1,183,98,16.1
+2021-04-26,202104260PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202104260PHI.html,10:23,.714,.714,.000,.000,62.5,44.0,52.7,19.4,4.5,19.3,12.5,32.5,143,72,19.7
+2021-04-26,202104260PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202104260PHI.html,10:05,.250,.250,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,14.3,29.3,48,102,-25.6
+2021-04-26,202104260PHI,PHI,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202104260PHI.html,8:08,.333,.333,.667,.000,0.0,14.1,7.5,14.4,5.7,0.0,25.0,20.7,67,85,-10.8
+2021-04-26,202104260PHI,PHI,Mason Jones,https://www.basketball-reference.com/boxscores/202104260PHI.html,5:56,.500,.500,.000,.000,0.0,0.0,0.0,0.0,7.9,0.0,33.3,21.3,62,83,-13.6

@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-02-14,202202140LAC,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.22,6,7,.857,4,5,.800,0,0,0,0,0,0,0,0,0,0,16,13.5,-5,
+2022-02-14,202202140LAC,GSW,Q1,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202140LAC.html,6.3,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,0,2,2.4,-1,
+2022-02-14,202202140LAC,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,2,5,.400,2,3,.667,0,0,0,1,1,1,0,0,0,1,6,3.9,+3,
+2022-02-14,202202140LAC,GSW,Q1,Klay Thompson,https://www.basketball-reference.com/boxscores/202202140LAC.html,6.3,1,3,.333,1,3,.333,0,0,0,0,0,2,1,0,1,0,3,2.7,-1,
+2022-02-14,202202140LAC,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.97,1,2,.500,0,0,,0,0,1,1,2,4,0,0,0,2,2,4.0,0,
+2022-02-14,202202140LAC,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202202140LAC.html,5.7,0,1,.000,0,1,.000,0,0,0,2,2,2,0,0,0,0,0,1.3,+4,
+2022-02-14,202202140LAC,GSW,Q1,Damion Lee,https://www.basketball-reference.com/boxscores/202202140LAC.html,2.78,1,2,.500,1,1,1.000,0,0,0,3,3,0,0,0,0,0,3,2.9,+8,
+2022-02-14,202202140LAC,GSW,Q1,Gary Payton II,https://www.basketball-reference.com/boxscores/202202140LAC.html,5.7,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+4,
+2022-02-14,202202140LAC,GSW,Q1,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.03,2,2,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,5,5.1,+3,
+2022-02-14,202202140LAC,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.8,3,4,.750,2,2,1.000,2,2,0,0,0,0,0,0,2,2,10,5.6,+1,1.000
+2022-02-14,202202140LAC,GSW,Q2,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202140LAC.html,8.2,0,2,.000,0,0,,2,2,0,2,2,0,0,1,2,2,2,-0.9,-3,1.000
+2022-02-14,202202140LAC,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.85,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-1.7,-2,
+2022-02-14,202202140LAC,GSW,Q2,Klay Thompson,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.15,2,5,.400,0,1,.000,0,0,0,1,1,0,0,0,0,1,4,1.2,-3,
+2022-02-14,202202140LAC,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/202202140LAC.html,3.07,0,0,,0,0,,0,0,0,0,0,0,1,0,0,0,0,1.0,+1,
+2022-02-14,202202140LAC,GSW,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202202140LAC.html,6.53,1,3,.333,0,1,.000,0,0,0,1,1,0,1,0,1,1,2,0.2,-13,
+2022-02-14,202202140LAC,GSW,Q2,Damion Lee,https://www.basketball-reference.com/boxscores/202202140LAC.html,5.85,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-2,
+2022-02-14,202202140LAC,GSW,Q2,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202202140LAC.html,10.75,2,4,.500,0,1,.000,0,0,2,4,6,0,0,0,0,1,4,4.2,-2,
+2022-02-14,202202140LAC,GSW,Q2,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202140LAC.html,3.8,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-2,
+2022-02-14,202202140LAC,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.98,1,5,.200,1,4,.250,1,1,0,2,2,1,0,0,0,0,4,2.2,-10,1.000
+2022-02-14,202202140LAC,GSW,Q3,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202140LAC.html,6.4,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,1,0,0,-0.7,-10,
+2022-02-14,202202140LAC,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202140LAC.html,8.73,3,3,1.000,0,0,,1,2,1,0,1,0,0,0,0,0,7,6.4,-11,.500
+2022-02-14,202202140LAC,GSW,Q3,Klay Thompson,https://www.basketball-reference.com/boxscores/202202140LAC.html,8.42,0,4,.000,0,0,,0,0,0,1,1,2,0,0,0,0,0,-1.1,-14,
+2022-02-14,202202140LAC,GSW,Q3,Kevon Looney,https://www.basketball-reference.com/boxscores/202202140LAC.html,8.3,2,3,.667,0,0,,1,2,0,1,1,1,0,0,0,1,5,3.9,-10,.500
+2022-02-14,202202140LAC,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202202140LAC.html,5.6,1,2,.500,0,1,.000,0,0,0,2,2,0,0,0,1,1,2,0.2,-4,
+2022-02-14,202202140LAC,GSW,Q3,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202202140LAC.html,0.6,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2022-02-14,202202140LAC,GSW,Q3,Moses Moody,https://www.basketball-reference.com/boxscores/202202140LAC.html,3.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2022-02-14,202202140LAC,GSW,Q3,Gary Payton II,https://www.basketball-reference.com/boxscores/202202140LAC.html,5.6,0,0,,0,0,,1,2,0,0,0,0,1,0,1,0,1,0.6,-4,.500
+2022-02-14,202202140LAC,GSW,Q3,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202202140LAC.html,3.1,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,1,1,0,-1.1,-4,
+2022-02-14,202202140LAC,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.82,1,2,.500,1,2,.500,0,0,0,0,0,1,0,0,2,0,3,0.7,-5,
+2022-02-14,202202140LAC,GSW,Q4,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.18,3,4,.750,0,1,.000,0,0,0,0,0,0,0,0,0,1,6,4.0,+6,
+2022-02-14,202202140LAC,GSW,Q4,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202202140LAC.html,2.15,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.0,-2,
+2022-02-14,202202140LAC,GSW,Q4,Klay Thompson,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.82,0,2,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-0.8,-5,
+2022-02-14,202202140LAC,GSW,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.18,3,5,.600,1,2,.500,2,2,1,1,2,1,0,0,0,0,9,8.4,+6,1.000
+2022-02-14,202202140LAC,GSW,Q4,Damion Lee,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,1,5,.200,0,4,.000,0,0,1,1,2,1,1,0,0,1,2,1.2,+1,
+2022-02-14,202202140LAC,GSW,Q4,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.82,1,2,.500,1,1,1.000,0,0,0,2,2,0,1,0,0,1,3,3.2,-5,
+2022-02-14,202202140LAC,GSW,Q4,Moses Moody,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.85,1,4,.250,1,3,.333,0,0,1,0,1,0,0,1,0,0,3,2.0,+3,
+2022-02-14,202202140LAC,GSW,Q4,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.18,0,0,,0,0,,0,0,0,3,3,2,0,0,1,0,0,1.3,+6,
+2022-02-14,202202140LAC,LAC,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,2,5,.400,0,1,.000,0,0,0,3,3,2,0,0,1,1,4,2.2,-3,
+2022-02-14,202202140LAC,LAC,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.22,3,5,.600,2,3,.667,0,0,0,0,0,0,0,0,0,0,8,5.7,+5,
+2022-02-14,202202140LAC,LAC,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,2,4,.500,2,3,.667,0,0,0,3,3,0,1,0,0,0,6,5.9,-3,
+2022-02-14,202202140LAC,LAC,Q1,Marcus Morris,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,3,6,.500,1,2,.500,0,0,0,1,1,1,0,0,0,0,7,5.0,-3,
+2022-02-14,202202140LAC,LAC,Q1,Ivica Zubac,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.22,4,5,.800,0,0,,1,1,3,1,4,1,0,0,0,0,9,10.2,+5,1.000
+2022-02-14,202202140LAC,LAC,Q1,Robert Covington,https://www.basketball-reference.com/boxscores/202202140LAC.html,2.78,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-8,
+2022-02-14,202202140LAC,LAC,Q1,Amir Coffey,https://www.basketball-reference.com/boxscores/202202140LAC.html,2.78,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-8,
+2022-02-14,202202140LAC,LAC,Q2,Terance Mann,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.5,1,2,.500,0,1,.000,1,2,0,0,0,0,0,1,0,0,3,2.3,+8,.500
+2022-02-14,202202140LAC,LAC,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,2,6,.333,0,1,.000,0,0,0,3,3,5,0,0,2,1,4,2.6,+5,
+2022-02-14,202202140LAC,LAC,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.23,2,3,.667,1,2,.500,0,0,1,3,4,1,1,0,0,1,5,6.6,+6,
+2022-02-14,202202140LAC,LAC,Q2,Marcus Morris,https://www.basketball-reference.com/boxscores/202202140LAC.html,2.75,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2022-02-14,202202140LAC,LAC,Q2,Ivica Zubac,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.07,1,2,.500,0,0,,0,1,0,0,0,0,0,0,0,0,2,0.6,+1,.000
+2022-02-14,202202140LAC,LAC,Q2,Robert Covington,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.25,2,3,.667,1,2,.500,2,2,0,1,1,0,1,0,0,1,7,6.6,+6,1.000
+2022-02-14,202202140LAC,LAC,Q2,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.93,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,1,5,3.0,+4,
+2022-02-14,202202140LAC,LAC,Q2,Amir Coffey,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.5,0,0,,0,0,,1,2,0,1,1,0,0,0,0,1,1,0.5,-3,.500
+2022-02-14,202202140LAC,LAC,Q2,Rodney Hood,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.77,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,-1,
+2022-02-14,202202140LAC,LAC,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,6,7,.857,1,2,.500,1,1,0,3,3,2,0,0,1,1,14,12.4,+14,1.000
+2022-02-14,202202140LAC,LAC,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202202140LAC.html,8.73,2,3,.667,1,2,.500,0,0,0,1,1,3,0,0,0,1,5,5.7,+11,
+2022-02-14,202202140LAC,LAC,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.35,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,0,0,3,2.3,+7,
+2022-02-14,202202140LAC,LAC,Q3,Marcus Morris,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,2,6,.333,0,2,.000,0,0,0,1,1,0,0,0,0,2,4,0.1,+14,
+2022-02-14,202202140LAC,LAC,Q3,Ivica Zubac,https://www.basketball-reference.com/boxscores/202202140LAC.html,9.35,3,3,1.000,0,0,,1,2,1,3,4,0,0,0,1,1,7,5.9,+7,.500
+2022-02-14,202202140LAC,LAC,Q3,Robert Covington,https://www.basketball-reference.com/boxscores/202202140LAC.html,2.65,0,0,,0,0,,0,0,0,0,0,1,1,0,0,0,0,1.7,+7,
+2022-02-14,202202140LAC,LAC,Q3,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202202140LAC.html,2.65,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+7,
+2022-02-14,202202140LAC,LAC,Q3,Amir Coffey,https://www.basketball-reference.com/boxscores/202202140LAC.html,3.27,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,+3,
+2022-02-14,202202140LAC,LAC,Q4,Terance Mann,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.58,2,3,.667,0,1,.000,0,2,0,1,1,2,1,0,0,0,4,4.6,+6,.000
+2022-02-14,202202140LAC,LAC,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202202140LAC.html,7.58,1,3,.333,0,1,.000,0,0,0,4,4,1,0,0,1,0,2,1.2,+6,
+2022-02-14,202202140LAC,LAC,Q4,Robert Covington,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,1,3,.333,1,2,.500,1,2,1,0,1,1,0,1,1,3,4,1.8,-1,.500
+2022-02-14,202202140LAC,LAC,Q4,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,2,2,1.000,0,0,,0,0,0,5,5,2,1,0,1,2,4,5.5,-1,
+2022-02-14,202202140LAC,LAC,Q4,Amir Coffey,https://www.basketball-reference.com/boxscores/202202140LAC.html,12.0,1,2,.500,1,1,1.000,0,0,0,1,1,2,0,0,0,0,3,3.7,-1,
+2022-02-14,202202140LAC,LAC,Q4,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.42,3,3,1.000,2,2,1.000,0,0,0,0,0,0,0,1,0,0,8,7.8,-7,
+2022-02-14,202202140LAC,LAC,Q4,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202202140LAC.html,4.42,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,2,0,0,-3.4,-7,

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-28,202202280CLE,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202202280CLE.html,34:47,.636,.588,.471,.353,3.8,12.5,8.0,11.5,1.4,3.7,16.9,30.4,112,129,-3.2
+2022-02-28,202202280CLE,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202202280CLE.html,34:14,.612,.577,.308,.154,3.9,12.7,8.1,11.3,1.4,3.8,6.7,19.4,127,129,-2.8
+2022-02-28,202202280CLE,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202202280CLE.html,32:22,.612,.577,.385,.154,8.2,9.0,8.6,16.2,6.1,0.0,22.4,24.7,109,120,-1.8
+2022-02-28,202202280CLE,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202202280CLE.html,29:10,.688,.688,.750,.000,0.0,10.0,4.8,24.4,1.7,13.3,11.1,13.8,142,125,6.3
+2022-02-28,202202280CLE,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202202280CLE.html,27:06,.694,.750,.000,1.000,4.9,42.9,23.1,8.5,0.0,4.8,0.0,9.5,157,125,-0.4
+2022-02-28,202202280CLE,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202202280CLE.html,20:10,.735,.688,.500,.625,6.6,7.2,6.9,13.6,7.4,0.0,0.0,22.6,160,118,11.5
+2022-02-28,202202280CLE,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202202280CLE.html,17:50,.944,.944,.778,.000,0.0,24.5,11.7,8.7,0.0,0.0,18.2,27.6,130,131,6.0
+2022-02-28,202202280CLE,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202202280CLE.html,17:29,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.3,141,137,-2.3
+2022-02-28,202202280CLE,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202202280CLE.html,13:46,.500,.500,.333,.000,0.0,0.0,0.0,19.1,3.6,0.0,14.3,22.7,99,128,-5.3
+2022-02-28,202202280CLE,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202202280CLE.html,13:06,.500,.500,.000,.000,20.4,11.1,15.9,59.2,3.8,0.0,0.0,6.8,191,125,14.8
+2022-02-28,202202280CLE,CLE,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202202280CLE.html,35:23,.632,.615,.308,.077,8.2,7.5,7.9,55.2,2.8,0.0,0.0,16.7,167,129,9.0
+2022-02-28,202202280CLE,CLE,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202202280CLE.html,35:04,.519,.357,.857,.857,0.0,15.2,7.9,3.8,0.0,0.0,34.2,18.4,75,135,-13.6
+2022-02-28,202202280CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202202280CLE.html,33:49,.582,.542,.333,.167,4.3,35.5,20.6,18.6,0.0,6.5,28.0,23.3,97,127,-4.4
+2022-02-28,202202280CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202202280CLE.html,33:31,.893,.900,.000,.400,8.7,23.9,16.6,5.5,0.0,3.3,20.3,19.4,136,131,1.9
+2022-02-28,202202280CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202202280CLE.html,28:23,.444,.300,.600,.800,15.4,9.4,12.3,4.5,1.7,0.0,0.0,10.5,132,131,-3.8
+2022-02-28,202202280CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202202280CLE.html,28:26,.839,.833,1.000,.889,0.0,4.7,2.4,27.6,1.7,0.0,19.3,24.0,140,132,7.2
+2022-02-28,202202280CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202202280CLE.html,26:12,.761,.679,.714,.500,5.6,20.4,13.3,28.0,1.9,0.0,10.5,32.1,147,129,14.4
+2022-02-28,202202280CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202202280CLE.html,9:56,.000,.000,1.000,.000,14.6,0.0,7.0,0.0,0.0,0.0,0.0,4.4,77,137,-9.0
+2022-02-28,202202280CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202202280CLE.html,5:17,.694,.500,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,25.8,32.4,105,137,-14.4
+2022-02-28,202202280CLE,CLE,Tim Frazier,https://www.basketball-reference.com/boxscores/202202280CLE.html,3:59,1.000,1.000,.000,.000,0.0,0.0,0.0,44.7,0.0,0.0,50.0,22.1,102,137,-7.5

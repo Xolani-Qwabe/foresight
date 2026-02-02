@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-05-09,202105090BOS,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202105090BOS.html,39.98,9,14,.643,1,3,.333,7,8,.875,1,7,8,11,2,0,3,3,26,27.7,+10
+2021-05-09,202105090BOS,MIA,Trevor Ariza,https://www.basketball-reference.com/boxscores/202105090BOS.html,35.7,8,13,.615,2,7,.286,1,1,1.000,0,4,4,1,3,1,0,2,19,17.9,+6
+2021-05-09,202105090BOS,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202105090BOS.html,33.53,7,13,.538,6,10,.600,2,2,1.000,0,3,3,1,1,0,1,1,22,16.9,+4
+2021-05-09,202105090BOS,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202105090BOS.html,33.25,5,5,1.000,0,0,,10,11,.909,1,5,6,3,2,0,3,4,20,19.8,-3
+2021-05-09,202105090BOS,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202105090BOS.html,24.37,5,11,.455,2,6,.333,0,0,,0,2,2,2,0,0,0,3,12,7.1,+2
+2021-05-09,202105090BOS,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202105090BOS.html,28.98,3,10,.300,3,5,.600,0,0,,1,2,3,7,0,0,1,3,9,7.2,-5
+2021-05-09,202105090BOS,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202105090BOS.html,17.13,5,9,.556,2,3,.667,0,0,,0,3,3,0,0,0,1,1,12,7.2,+7
+2021-05-09,202105090BOS,MIA,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202105090BOS.html,14.75,3,3,1.000,0,0,,0,0,,0,5,5,2,0,1,0,3,6,7.5,+9
+2021-05-09,202105090BOS,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202105090BOS.html,12.3,2,4,.500,0,1,.000,0,0,,0,1,1,3,0,0,2,0,4,2.4,0
+2021-05-09,202105090BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202105090BOS.html,39.88,5,12,.417,1,4,.250,7,8,.875,0,2,2,6,2,0,4,2,18,13.2,+6
+2021-05-09,202105090BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202105090BOS.html,38.37,11,16,.688,2,6,.333,5,6,.833,0,5,5,6,1,2,3,3,29,25.7,-14
+2021-05-09,202105090BOS,BOS,Evan Fournier,https://www.basketball-reference.com/boxscores/202105090BOS.html,35.0,11,16,.688,7,11,.636,1,1,1.000,1,2,3,8,0,1,0,4,30,29.2,-2
+2021-05-09,202105090BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202105090BOS.html,33.92,7,14,.500,1,4,.250,1,2,.500,0,2,2,4,2,0,6,5,16,6.0,+4
+2021-05-09,202105090BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202105090BOS.html,11.45,2,2,1.000,0,0,,0,0,,0,2,2,2,0,0,0,0,4,5.4,-13
+2021-05-09,202105090BOS,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202105090BOS.html,31.92,1,1,1.000,0,0,,0,2,.000,4,8,12,0,1,0,1,2,2,5.3,+9
+2021-05-09,202105090BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202105090BOS.html,19.43,5,9,.556,2,5,.400,4,4,1.000,1,3,4,1,1,0,0,2,16,14.2,-6
+2021-05-09,202105090BOS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202105090BOS.html,9.17,1,3,.333,1,3,.333,2,2,1.000,0,2,2,0,0,0,0,1,5,3.5,-1
+2021-05-09,202105090BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202105090BOS.html,8.35,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,0,2,2,-0.2,-8
+2021-05-09,202105090BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202105090BOS.html,8.28,0,4,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,1,0,-2.2,-1
+2021-05-09,202105090BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202105090BOS.html,4.23,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,-4

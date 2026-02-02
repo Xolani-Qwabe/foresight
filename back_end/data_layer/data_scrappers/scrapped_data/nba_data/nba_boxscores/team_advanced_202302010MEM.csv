@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-01,202302010MEM,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202302010MEM.html,39:52,.723,.614,.591,.727,2.9,19.2,11.3,43.4,0.0,2.4,6.4,33.4,151,114,17.9
+2023-02-01,202302010MEM,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202302010MEM.html,32:40,.673,.639,.389,.167,0.0,6.7,3.5,22.3,0.0,0.0,13.4,29.3,120,119,1.1
+2023-02-01,202302010MEM,POR,Josh Hart,https://www.basketball-reference.com/boxscores/202302010MEM.html,31:50,.000,.000,.500,.000,0.0,6.9,3.5,7.4,0.0,0.0,20.0,6.7,28,119,-11.0
+2023-02-01,202302010MEM,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202302010MEM.html,19:52,.634,.542,.250,.417,0.0,16.5,8.5,9.1,0.0,4.8,0.0,30.7,134,114,7.9
+2023-02-01,202302010MEM,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202302010MEM.html,2:29,.000,.000,1.000,.000,0.0,43.9,22.7,47.1,0.0,0.0,50.0,34.6,30,107,-25.9
+2023-02-01,202302010MEM,POR,Gary Payton II,https://www.basketball-reference.com/boxscores/202302010MEM.html,28:51,.595,.500,.400,.400,12.2,3.8,7.8,0.0,1.7,3.3,14.5,10.2,124,114,-2.1
+2023-02-01,202302010MEM,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202302010MEM.html,23:48,.739,.714,.000,.143,19.7,32.1,26.1,19.6,2.0,4.0,21.2,17.0,138,104,6.2
+2023-02-01,202302010MEM,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202302010MEM.html,21:43,.417,.417,.167,.000,0.0,15.1,7.8,12.1,0.0,4.4,25.0,15.8,74,114,-5.1
+2023-02-01,202302010MEM,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202302010MEM.html,19:24,.750,.750,.833,.000,0.0,11.2,5.8,0.0,0.0,0.0,0.0,13.3,143,118,1.2
+2023-02-01,202302010MEM,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202302010MEM.html,13:30,.333,.333,.667,.000,8.7,24.2,16.7,9.5,3.6,0.0,25.0,12.7,79,106,-2.1
+2023-02-01,202302010MEM,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202302010MEM.html,6:01,.333,.333,.000,.000,0.0,18.1,9.4,0.0,0.0,0.0,0.0,21.4,70,116,-12.3
+2023-02-01,202302010MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202302010MEM.html,38:10,.500,.500,.667,.000,0.0,3.1,1.5,7.0,1.3,0.0,0.0,10.2,112,130,-7.4
+2023-02-01,202302010MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202302010MEM.html,34:22,.669,.594,.438,1.125,6.3,23.8,14.8,56.2,1.4,0.0,17.3,36.3,128,124,12.2
+2023-02-01,202302010MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202302010MEM.html,33:45,.643,.643,.214,.000,0.0,24.3,11.7,0.0,0.0,16.7,0.0,17.9,126,116,2.4
+2023-02-01,202302010MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202302010MEM.html,27:53,.376,.250,.000,.750,15.6,25.2,20.3,21.9,7.0,0.0,27.3,11.3,106,111,3.5
+2023-02-01,202302010MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202302010MEM.html,25:32,.517,.500,.438,.063,0.0,0.0,0.0,20.3,1.9,3.7,15.4,32.8,93,126,-4.9
+2023-02-01,202302010MEM,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202302010MEM.html,18:50,.500,.500,.800,.000,0.0,6.2,3.0,0.0,0.0,0.0,0.0,11.4,103,132,-8.3
+2023-02-01,202302010MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202302010MEM.html,17:32,.714,.714,.286,.000,0.0,13.4,6.4,0.0,0.0,0.0,0.0,17.2,137,130,-0.7
+2023-02-01,202302010MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202302010MEM.html,17:14,.387,.250,.667,.667,0.0,20.4,9.8,21.9,0.0,0.0,11.4,21.9,92,129,-9.7
+2023-02-01,202302010MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202302010MEM.html,16:50,.581,.500,.000,.333,32.4,13.9,23.5,17.6,0.0,0.0,0.0,17.6,152,130,0.7
+2023-02-01,202302010MEM,MEM,Danny Green,https://www.basketball-reference.com/boxscores/202302010MEM.html,9:52,.375,.375,1.000,.000,11.1,35.6,22.9,13.5,4.9,0.0,20.0,21.9,82,114,-5.3

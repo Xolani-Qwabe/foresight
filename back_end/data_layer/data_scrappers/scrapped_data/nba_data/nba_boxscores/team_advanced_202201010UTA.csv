@@ -1,0 +1,19 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-01,202201010UTA,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201010UTA.html,38:06,.566,.579,.316,.368,0.0,0.0,0.0,14.5,2.5,0.0,12.0,28.7,100,122,-2.1
+2022-01-01,202201010UTA,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201010UTA.html,36:10,.714,.714,.286,.000,7.2,13.8,10.9,31.2,4.0,0.0,0.0,16.9,159,113,14.6
+2022-01-01,202201010UTA,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202201010UTA.html,35:31,.664,.611,.667,.389,0.0,16.9,9.5,34.6,0.0,2.8,12.5,29.5,126,119,6.7
+2022-01-01,202201010UTA,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202201010UTA.html,30:47,.571,.571,.000,.000,8.4,16.2,12.8,23.5,1.6,0.0,12.5,11.3,135,117,1.2
+2022-01-01,202201010UTA,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202201010UTA.html,28:10,.575,.600,.500,.100,4.6,10.7,8.0,4.5,3.4,0.0,0.0,16.1,115,115,0.0
+2022-01-01,202201010UTA,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201010UTA.html,23:54,.857,.857,.429,.000,10.9,20.9,16.5,44.7,0.0,0.0,0.0,12.8,190,119,15.6
+2022-01-01,202201010UTA,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202201010UTA.html,16:53,.644,.583,.333,.667,0.0,11.8,6.7,15.2,0.0,0.0,34.0,30.3,86,122,-12.8
+2022-01-01,202201010UTA,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201010UTA.html,12:24,1.064,1.000,.000,2.000,0.0,32.3,18.2,0.0,0.0,0.0,61.5,17.1,68,114,-11.8
+2022-01-01,202201010UTA,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202201010UTA.html,11:50,.500,.500,.000,.000,0.0,16.9,9.5,9.7,4.1,8.5,33.3,11.0,78,107,-3.3
+2022-01-01,202201010UTA,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202201010UTA.html,6:15,.500,.500,.000,.000,0.0,16.0,9.0,0.0,7.7,0.0,0.0,13.9,94,102,-10.5
+2022-01-01,202201010UTA,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202201010UTA.html,36:13,.419,.263,.474,.579,2.8,17.9,9.4,34.4,2.6,0.0,7.7,29.2,109,120,1.8
+2022-01-01,202201010UTA,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202201010UTA.html,35:55,.856,.857,.571,.571,5.6,7.2,6.3,8.0,0.0,0.0,10.2,11.1,163,127,4.4
+2022-01-01,202201010UTA,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202201010UTA.html,35:01,.672,.643,.714,.143,2.9,18.5,9.7,4.5,1.4,0.0,11.8,19.7,126,123,5.3
+2022-01-01,202201010UTA,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202201010UTA.html,34:58,.850,.900,.000,.400,20.0,44.5,30.7,9.9,0.0,0.0,14.5,16.1,155,122,7.7
+2022-01-01,202201010UTA,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202201010UTA.html,27:45,.407,.385,.462,.308,7.2,14.0,10.2,15.7,1.7,0.0,16.9,26.2,87,123,-4.9
+2022-01-01,202201010UTA,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202201010UTA.html,25:53,.143,.143,.857,.000,0.0,0.0,0.0,9.7,1.9,0.0,0.0,11.1,55,124,-11.1
+2022-01-01,202201010UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202201010UTA.html,24:23,.714,.714,.500,.000,4.1,16.0,9.3,0.0,0.0,0.0,17.6,28.5,114,126,3.8
+2022-01-01,202201010UTA,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202201010UTA.html,19:52,.376,.250,.250,.375,5.0,0.0,2.8,0.0,4.8,0.0,0.0,19.2,96,117,-5.7

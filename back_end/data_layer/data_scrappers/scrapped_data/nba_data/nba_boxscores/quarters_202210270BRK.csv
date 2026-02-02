@@ -1,0 +1,81 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-10-27,202210270BRK,DAL,Q1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202210270BRK.html,9.9,1,2,.500,0,1,.000,0,0,0,1,1,0,1,0,0,1,2,1.9,+5,
+2022-10-27,202210270BRK,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202210270BRK.html,12.0,4,9,.444,1,2,.500,4,5,1,2,3,2,2,0,0,1,13,12.2,+7,.800
+2022-10-27,202210270BRK,DAL,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202210270BRK.html,9.32,0,3,.000,0,3,.000,0,0,0,0,0,1,0,0,0,0,0,-1.4,+5,
+2022-10-27,202210270BRK,DAL,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.15,2,2,1.000,2,2,1.000,0,0,0,2,2,0,0,0,0,1,6,5.6,+1,
+2022-10-27,202210270BRK,DAL,Q1,JaVale McGee,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.15,2,2,1.000,0,0,,4,4,1,0,1,0,0,0,1,0,8,7.1,+1,1.000
+2022-10-27,202210270BRK,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/202210270BRK.html,3.85,0,0,,0,0,,1,2,0,0,0,0,0,0,0,1,1,0.2,+6,.500
+2022-10-27,202210270BRK,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.78,0,3,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-2.1,+4,
+2022-10-27,202210270BRK,DAL,Q1,Christian Wood,https://www.basketball-reference.com/boxscores/202210270BRK.html,3.85,0,0,,0,0,,0,0,0,2,2,0,0,0,0,1,0,0.2,+6,
+2022-10-27,202210270BRK,DAL,Q2,Reggie Bullock,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.23,1,1,1.000,1,1,1.000,0,0,0,1,1,1,1,0,0,0,3,4.7,-1,
+2022-10-27,202210270BRK,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.18,2,5,.400,0,1,.000,1,2,0,0,0,3,0,0,0,1,5,3.6,+6,.500
+2022-10-27,202210270BRK,DAL,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.17,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,2.3,0,
+2022-10-27,202210270BRK,DAL,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.82,0,2,.000,0,0,,0,0,0,0,0,3,1,0,0,0,0,1.7,-11,
+2022-10-27,202210270BRK,DAL,Q2,JaVale McGee,https://www.basketball-reference.com/boxscores/202210270BRK.html,1.83,0,3,.000,0,0,,0,0,2,0,2,0,0,0,0,0,0,-0.7,-3,
+2022-10-27,202210270BRK,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.18,1,2,.500,1,2,.500,1,2,0,0,0,1,0,0,0,0,4,3.3,+4,.500
+2022-10-27,202210270BRK,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.82,3,4,.750,2,3,.667,0,0,0,0,0,0,0,0,1,0,8,5.4,-11,
+2022-10-27,202210270BRK,DAL,Q2,Christian Wood,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.82,1,2,.500,1,1,1.000,1,2,0,1,1,0,0,1,2,2,4,0.8,-11,.500
+2022-10-27,202210270BRK,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.17,1,1,1.000,1,1,1.000,1,2,1,3,4,1,0,0,0,1,4,5.2,0,.500
+2022-10-27,202210270BRK,DAL,Q2,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202210270BRK.html,2.78,0,0,,0,0,,0,0,0,0,0,1,1,0,0,1,0,1.3,+2,
+2022-10-27,202210270BRK,DAL,Q3,Reggie Bullock,https://www.basketball-reference.com/boxscores/202210270BRK.html,12.0,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-0.1,+4,
+2022-10-27,202210270BRK,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202210270BRK.html,12.0,5,8,.625,1,2,.500,4,4,0,5,5,3,0,0,3,0,15,12.0,+4,1.000
+2022-10-27,202210270BRK,DAL,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.28,1,3,.333,0,2,.000,0,0,1,2,3,0,0,0,0,2,2,0.8,-3,
+2022-10-27,202210270BRK,DAL,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.28,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,1,0,0,0.0,-3,
+2022-10-27,202210270BRK,DAL,Q3,JaVale McGee,https://www.basketball-reference.com/boxscores/202210270BRK.html,1.95,0,0,,0,0,,0,0,0,0,0,0,0,0,2,0,0,-2.0,-6,
+2022-10-27,202210270BRK,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.4,1,1,1.000,0,0,,2,2,1,0,1,0,0,0,1,0,4,3.4,+6,1.000
+2022-10-27,202210270BRK,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.72,1,2,.500,1,2,.500,0,0,0,0,0,0,0,2,0,1,3,3.0,+7,
+2022-10-27,202210270BRK,DAL,Q3,Christian Wood,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.72,0,0,,0,0,,2,2,0,1,1,0,0,0,0,0,2,2.3,+7,1.000
+2022-10-27,202210270BRK,DAL,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202210270BRK.html,1.65,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,0,0,0,3,3.7,+4,
+2022-10-27,202210270BRK,DAL,Q4,Reggie Bullock,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.47,0,2,.000,0,2,.000,0,0,0,0,0,0,0,1,0,0,0,-0.7,-5,
+2022-10-27,202210270BRK,DAL,Q4,Luka Dončić,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.32,1,3,.333,0,1,.000,2,2,0,2,2,2,1,0,2,0,4,3.3,-1,1.000
+2022-10-27,202210270BRK,DAL,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202210270BRK.html,11.87,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,-6,
+2022-10-27,202210270BRK,DAL,Q4,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.38,2,3,.667,1,2,.500,0,0,0,0,0,0,0,0,1,2,5,1.9,-7,
+2022-10-27,202210270BRK,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.47,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-5,
+2022-10-27,202210270BRK,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.97,0,1,.000,0,1,.000,2,2,0,1,1,1,0,0,0,0,2,2.3,-5,1.000
+2022-10-27,202210270BRK,DAL,Q4,Christian Wood,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.0,2,3,.667,1,1,1.000,0,0,0,2,2,0,0,0,1,2,5,2.5,0,
+2022-10-27,202210270BRK,DAL,Q4,Josh Green,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.53,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,1,1,3,1.3,-1,
+2022-10-27,202210270BRK,DAL,OT1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,1,1,1.000,1,1,1.000,1,2,0,0,0,0,0,0,0,2,4,2.5,+4,.500
+2022-10-27,202210270BRK,DAL,OT1,Luka Dončić,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,2,3,.667,0,0,,0,0,0,1,1,4,0,0,0,0,4,5.8,+4,
+2022-10-27,202210270BRK,DAL,OT1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,+4,.500
+2022-10-27,202210270BRK,DAL,OT1,Maxi Kleber,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,2.3,+4,
+2022-10-27,202210270BRK,DAL,OT1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,2,3,.667,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.0,+4,
+2022-10-27,202210270BRK,BRK,Q1,Kyrie Irving,https://www.basketball-reference.com/boxscores/202210270BRK.html,9.9,3,9,.333,0,5,.000,1,1,0,1,1,1,0,3,0,0,7,5.0,-5,1.000
+2022-10-27,202210270BRK,BRK,Q1,Kevin Durant,https://www.basketball-reference.com/boxscores/202210270BRK.html,9.32,2,2,1.000,1,1,1.000,0,0,0,1,1,2,1,0,2,0,5,5.1,-5,
+2022-10-27,202210270BRK,BRK,Q1,Royce O'Neale,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.15,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,1,3,1.6,-1,
+2022-10-27,202210270BRK,BRK,Q1,Ben Simmons,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.25,1,4,.250,0,0,,0,0,0,2,2,1,0,0,0,1,2,0.5,+1,
+2022-10-27,202210270BRK,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.22,1,1,1.000,0,0,,0,2,1,0,1,0,0,0,0,1,2,1.2,-3,.000
+2022-10-27,202210270BRK,BRK,Q1,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202210270BRK.html,2.68,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,2,0,-1.5,-2,
+2022-10-27,202210270BRK,BRK,Q1,David Duke Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,3.85,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-6,
+2022-10-27,202210270BRK,BRK,Q1,Patty Mills,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.85,0,1,.000,0,1,.000,0,0,1,1,2,0,0,0,1,0,0,-0.7,-10,
+2022-10-27,202210270BRK,BRK,Q1,Edmond Sumner,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.78,0,0,,0,0,,4,4,0,2,2,0,0,0,0,0,4,4.6,-4,1.000
+2022-10-27,202210270BRK,BRK,Q2,Kyrie Irving,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.23,2,5,.400,1,2,.500,0,0,1,1,2,2,1,0,0,0,5,5.7,+1,
+2022-10-27,202210270BRK,BRK,Q2,Kevin Durant,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.17,2,3,.667,0,0,,5,5,0,0,0,2,1,0,1,0,9,9.1,0,1.000
+2022-10-27,202210270BRK,BRK,Q2,Royce O'Neale,https://www.basketball-reference.com/boxscores/202210270BRK.html,11.05,2,2,1.000,1,1,1.000,0,0,0,3,3,0,0,0,0,1,5,4.9,+10,
+2022-10-27,202210270BRK,BRK,Q2,Ben Simmons,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.17,1,1,1.000,0,0,,0,0,0,0,0,1,1,0,0,1,2,3.0,0,
+2022-10-27,202210270BRK,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.83,1,1,1.000,0,0,,1,2,1,1,2,0,0,0,1,0,3,2.3,+5,.500
+2022-10-27,202210270BRK,BRK,Q2,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.77,2,2,1.000,2,2,1.000,0,0,0,2,2,1,0,1,0,1,6,7.0,+6,
+2022-10-27,202210270BRK,BRK,Q2,David Duke Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.18,2,3,.667,0,0,,0,0,0,2,2,0,0,0,0,2,4,2.5,-6,
+2022-10-27,202210270BRK,BRK,Q2,Patty Mills,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.83,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+5,
+2022-10-27,202210270BRK,BRK,Q2,Edmond Sumner,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.77,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,1,0,2,0.6,+4,1.000
+2022-10-27,202210270BRK,BRK,Q3,Kyrie Irving,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.93,3,6,.500,1,2,.500,1,1,0,2,2,0,2,1,1,0,8,7.3,-1,1.000
+2022-10-27,202210270BRK,BRK,Q3,Kevin Durant,https://www.basketball-reference.com/boxscores/202210270BRK.html,10.35,2,4,.500,0,1,.000,2,2,1,1,2,0,0,0,0,0,6,5.0,0,1.000
+2022-10-27,202210270BRK,BRK,Q3,Royce O'Neale,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.0,1,3,.333,0,2,.000,0,0,0,1,1,1,1,0,0,1,2,1.9,+2,
+2022-10-27,202210270BRK,BRK,Q3,Ben Simmons,https://www.basketball-reference.com/boxscores/202210270BRK.html,9.22,1,1,1.000,0,0,,1,1,0,1,1,0,0,0,1,1,3,1.6,-1,1.000
+2022-10-27,202210270BRK,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/202210270BRK.html,10.28,1,5,.200,0,1,.000,0,0,1,0,1,0,0,0,0,0,2,-0.4,-3,
+2022-10-27,202210270BRK,BRK,Q3,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202210270BRK.html,1.23,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-2,
+2022-10-27,202210270BRK,BRK,Q3,David Duke Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.27,2,3,.667,0,1,.000,0,0,1,1,2,1,0,0,1,2,4,2.6,-8,
+2022-10-27,202210270BRK,BRK,Q3,Edmond Sumner,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.72,0,3,.000,0,1,.000,0,0,0,0,0,0,1,0,0,1,0,-1.5,-7,
+2022-10-27,202210270BRK,BRK,Q4,Kyrie Irving,https://www.basketball-reference.com/boxscores/202210270BRK.html,12.0,5,9,.556,3,4,.750,0,0,1,1,2,0,0,0,2,3,13,6.5,+6,
+2022-10-27,202210270BRK,BRK,Q4,Kevin Durant,https://www.basketball-reference.com/boxscores/202210270BRK.html,9.4,4,7,.571,0,1,.000,2,2,0,0,0,1,0,1,0,0,10,8.1,+3,1.000
+2022-10-27,202210270BRK,BRK,Q4,Royce O'Neale,https://www.basketball-reference.com/boxscores/202210270BRK.html,8.55,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,1,1,0,-2.1,+4,
+2022-10-27,202210270BRK,BRK,Q4,Ben Simmons,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.47,0,1,.000,0,0,,0,0,1,2,3,1,2,0,0,0,0,3.3,+5,
+2022-10-27,202210270BRK,BRK,Q4,Nic Claxton,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.67,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+1,
+2022-10-27,202210270BRK,BRK,Q4,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202210270BRK.html,7.47,0,0,,0,0,,0,0,0,2,2,1,0,0,0,0,0,1.3,+9,
+2022-10-27,202210270BRK,BRK,Q4,David Duke Jr.,https://www.basketball-reference.com/boxscores/202210270BRK.html,4.4,0,0,,0,0,,2,2,1,0,1,0,0,0,0,1,2,2.3,-3,1.000
+2022-10-27,202210270BRK,BRK,Q4,Patty Mills,https://www.basketball-reference.com/boxscores/202210270BRK.html,6.05,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,1,3,2.3,+5,
+2022-10-27,202210270BRK,BRK,OT1,Kyrie Irving,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,1,2,.500,0,1,.000,4,4,0,0,0,1,0,0,0,0,6,5.7,-4,1.000
+2022-10-27,202210270BRK,BRK,OT1,Kevin Durant,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,2,5,.400,1,2,.500,2,2,0,0,0,0,0,0,0,2,7,3.5,-4,1.000
+2022-10-27,202210270BRK,BRK,OT1,Royce O'Neale,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,0,3,.000,0,2,.000,0,0,1,1,2,0,0,0,0,1,0,-1.5,-4,
+2022-10-27,202210270BRK,BRK,OT1,Ben Simmons,https://www.basketball-reference.com/boxscores/202210270BRK.html,5.0,0,0,,0,0,,0,0,2,0,2,1,0,0,0,1,0,1.7,-4,
+2022-10-27,202210270BRK,BRK,OT1,Nic Claxton,https://www.basketball-reference.com/boxscores/202210270BRK.html,1.67,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,
+2022-10-27,202210270BRK,BRK,OT1,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202210270BRK.html,3.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-7,

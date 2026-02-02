@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-19,202201190PHI,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202201190PHI.html,34:12,.379,.318,.545,.182,3.0,35.1,17.7,7.8,1.4,0.0,0.0,15.4,94,125,-8.8
+2022-01-19,202201190PHI,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202201190PHI.html,33:49,.421,.393,.071,.429,3.0,28.4,14.7,21.6,2.9,0.0,15.3,25.8,88,122,-6.6
+2022-01-19,202201190PHI,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202201190PHI.html,32:11,.464,.464,.357,.000,0.0,14.9,6.9,38.4,0.0,0.0,26.3,26.2,87,130,-10.4
+2022-01-19,202201190PHI,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202201190PHI.html,31:32,.357,.357,.571,.000,0.0,3.8,1.7,8.2,0.0,0.0,0.0,9.9,88,132,-10.4
+2022-01-19,202201190PHI,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202201190PHI.html,29:51,1.008,1.033,.533,.133,13.7,0.0,7.4,15.5,0.0,8.8,5.9,25.1,177,124,21.0
+2022-01-19,202201190PHI,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202201190PHI.html,20:57,1.286,1.286,1.000,.000,0.0,17.2,7.9,8.7,2.4,0.0,0.0,14.8,231,125,23.1
+2022-01-19,202201190PHI,ORL,Robin Lopez,https://www.basketball-reference.com/boxscores/202201190PHI.html,15:12,.375,.375,.250,.000,13.4,0.0,7.3,8.6,0.0,5.7,20.0,14.6,91,127,-11.1
+2022-01-19,202201190PHI,ORL,R.J. Hampton,https://www.basketball-reference.com/boxscores/202201190PHI.html,11:36,.167,.167,.167,.000,0.0,31.0,14.3,23.1,0.0,0.0,14.3,26.8,48,128,-20.5
+2022-01-19,202201190PHI,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202201190PHI.html,10:54,.205,.000,.250,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.9,48,132,-21.1
+2022-01-19,202201190PHI,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202201190PHI.html,9:50,.500,.500,.167,.000,0.0,24.4,11.2,0.0,0.0,0.0,0.0,27.1,95,129,-7.1
+2022-01-19,202201190PHI,ORL,Ignas Brazdeikis,https://www.basketball-reference.com/boxscores/202201190PHI.html,5:04,.694,.500,.000,1.000,20.2,23.7,21.8,93.1,0.0,0.0,0.0,25.3,179,129,28.5
+2022-01-19,202201190PHI,ORL,Admiral Schofield,https://www.basketball-reference.com/boxscores/202201190PHI.html,4:52,1.136,,,,0.0,49.3,22.7,0.0,0.0,0.0,0.0,8.0,250,126,-0.4
+2022-01-19,202201190PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202201190PHI.html,35:01,.700,.700,.300,.000,3.4,5.8,4.7,7.5,1.4,0.0,0.0,13.2,146,119,-0.6
+2022-01-19,202201190PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202201190PHI.html,34:47,.691,.654,.231,.385,0.0,11.7,6.3,16.3,2.8,2.5,0.0,20.2,147,112,6.4
+2022-01-19,202201190PHI,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202201190PHI.html,32:37,.357,.357,.571,.000,0.0,25.0,13.5,10.5,0.0,2.7,0.0,9.9,93,115,-6.5
+2022-01-19,202201190PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202201190PHI.html,27:03,.820,.761,.174,.739,4.4,41.5,24.5,23.9,1.8,9.7,6.2,55.5,155,100,29.4
+2022-01-19,202201190PHI,PHI,Charlie Brown Jr.,https://www.basketball-reference.com/boxscores/202201190PHI.html,16:32,.500,.500,.333,.000,0.0,0.0,0.0,0.0,0.0,5.3,0.0,8.4,99,119,-5.5
+2022-01-19,202201190PHI,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202201190PHI.html,25:29,.563,.500,.750,.250,4.7,8.0,6.5,14.4,1.9,0.0,10.1,17.9,118,117,-2.2
+2022-01-19,202201190PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202201190PHI.html,22:39,.680,.700,.400,.400,5.3,22.5,14.6,27.4,0.0,0.0,25.4,16.1,124,118,0.3
+2022-01-19,202201190PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202201190PHI.html,21:09,.375,.375,1.000,.000,5.7,4.8,5.2,5.3,0.0,0.0,0.0,8.7,103,122,-9.2
+2022-01-19,202201190PHI,PHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202201190PHI.html,17:11,.533,.500,.000,.125,7.0,23.8,16.1,0.0,5.8,10.2,32.2,33.5,74,95,-11.7
+2022-01-19,202201190PHI,PHI,Charles Bassey,https://www.basketball-reference.com/boxscores/202201190PHI.html,3:46,.000,.000,1.000,.000,0.0,27.1,14.6,28.3,0.0,0.0,0.0,12.3,57,115,-15.2
+2022-01-19,202201190PHI,PHI,Myles Powell,https://www.basketball-reference.com/boxscores/202201190PHI.html,3:46,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.3,0,124,-21.1

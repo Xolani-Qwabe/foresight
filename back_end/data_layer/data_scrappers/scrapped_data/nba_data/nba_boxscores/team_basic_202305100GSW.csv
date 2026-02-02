@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-05-10,202305100GSW,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202305100GSW.html,39.17,9,17,.529,3,7,.429,4,4,1.000,1,8,9,3,2,1,4,3,25,19.4,-16
+2023-05-10,202305100GSW,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202305100GSW.html,35.6,5,12,.417,3,6,.500,2,2,1.000,2,5,7,5,1,0,1,0,15,15.0,-21
+2023-05-10,202305100GSW,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202305100GSW.html,32.3,10,18,.556,0,0,,3,5,.600,0,9,9,3,0,0,3,4,23,13.8,-22
+2023-05-10,202305100GSW,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202305100GSW.html,30.0,6,10,.600,1,2,.500,2,2,1.000,1,3,4,2,1,1,2,3,15,11.9,-9
+2023-05-10,202305100GSW,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202305100GSW.html,10.97,0,2,.000,0,2,.000,0,0,,0,1,1,0,1,1,0,3,0,-0.6,-16
+2023-05-10,202305100GSW,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202305100GSW.html,28.88,6,11,.545,2,5,.400,0,0,,0,2,2,4,0,0,2,3,14,8.9,+14
+2023-05-10,202305100GSW,LAL,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202305100GSW.html,28.32,2,6,.333,0,2,.000,0,0,,0,0,0,4,0,0,1,1,4,2.0,-7
+2023-05-10,202305100GSW,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202305100GSW.html,20.85,2,3,.667,0,1,.000,0,0,,0,2,2,1,1,0,1,0,4,4.0,+7
+2023-05-10,202305100GSW,LAL,Malik Beasley,https://www.basketball-reference.com/boxscores/202305100GSW.html,2.78,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,-1
+2023-05-10,202305100GSW,LAL,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202305100GSW.html,2.78,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,0,2,0.3,-1
+2023-05-10,202305100GSW,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202305100GSW.html,2.78,0,2,.000,0,0,,1,2,.500,3,0,3,0,0,1,0,0,1,2.0,-1
+2023-05-10,202305100GSW,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202305100GSW.html,2.78,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1
+2023-05-10,202305100GSW,LAL,Shaquille Harrison,https://www.basketball-reference.com/boxscores/202305100GSW.html,2.78,0,0,,0,0,,0,0,,0,1,1,2,0,0,0,0,0,1.7,-1
+2023-05-10,202305100GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202305100GSW.html,39.33,12,24,.500,3,11,.273,0,0,,0,3,3,8,0,1,2,0,27,20.2,+12
+2023-05-10,202305100GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202305100GSW.html,37.2,3,12,.250,2,6,.333,2,2,1.000,0,6,6,2,1,2,2,1,10,6.0,+16
+2023-05-10,202305100GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202305100GSW.html,35.72,10,18,.556,2,5,.400,3,3,1.000,1,6,7,5,1,0,1,2,25,21.6,+16
+2023-05-10,202305100GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202305100GSW.html,29.72,7,11,.636,1,2,.500,5,5,1.000,1,9,10,4,2,1,5,3,20,17.8,+13
+2023-05-10,202305100GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202305100GSW.html,27.45,4,5,.800,1,2,.500,4,5,.800,3,3,6,1,1,0,2,4,13,11.8,+25
+2023-05-10,202305100GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202305100GSW.html,22.97,5,14,.357,1,6,.167,0,0,,0,1,1,4,0,0,0,3,11,5.1,-1
+2023-05-10,202305100GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202305100GSW.html,20.27,2,2,1.000,0,0,,0,0,,4,4,8,2,2,1,0,3,4,10.3,-7
+2023-05-10,202305100GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202305100GSW.html,12.83,0,1,.000,0,0,,0,0,,0,2,2,2,1,0,2,1,0,-0.1,-2
+2023-05-10,202305100GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202305100GSW.html,9.72,2,3,.667,2,2,1.000,0,0,,0,4,4,0,0,0,0,0,6,5.9,+1
+2023-05-10,202305100GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202305100GSW.html,2.4,2,2,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,5,5.4,+1
+2023-05-10,202305100GSW,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202305100GSW.html,2.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+1

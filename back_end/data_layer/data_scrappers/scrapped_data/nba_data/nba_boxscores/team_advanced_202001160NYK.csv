@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-16,202001160NYK,PHO,Ricky Rubio,https://www.basketball-reference.com/boxscores/202001160NYK.html,35:23,.662,.639,.278,.111,6.2,16.6,11.7,52.7,5.2,2.1,17.5,26.1,132,86,15.3
+2020-01-16,202001160NYK,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202001160NYK.html,34:48,.776,.733,.000,.267,18.8,42.2,31.1,8.7,0.0,4.3,10.7,21.8,150,89,9.9
+2020-01-16,202001160NYK,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202001160NYK.html,34:45,.643,.700,.400,.200,0.0,14.1,7.4,12.9,0.0,0.0,42.4,11.0,83,100,-4.8
+2020-01-16,202001160NYK,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202001160NYK.html,28:22,.458,.458,.417,.000,7.7,13.8,10.9,13.2,1.6,0.0,7.7,18.5,108,96,-1.9
+2020-01-16,202001160NYK,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202001160NYK.html,27:55,.664,.588,.471,.647,0.0,14.0,7.4,21.8,1.6,0.0,15.5,37.4,121,96,3.7
+2020-01-16,202001160NYK,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202001160NYK.html,23:23,.556,.556,.333,.000,9.3,8.4,8.8,0.0,0.0,3.2,10.0,17.3,110,99,-2.6
+2020-01-16,202001160NYK,PHO,Cheick Diallo,https://www.basketball-reference.com/boxscores/202001160NYK.html,15:24,.500,.500,.000,.000,0.0,6.4,3.4,7.1,9.0,0.0,33.3,7.9,80,83,3.2
+2020-01-16,202001160NYK,PHO,Aron Baynes,https://www.basketball-reference.com/boxscores/202001160NYK.html,14:44,.417,.417,.667,.000,7.4,6.6,7.0,8.0,0.0,0.0,14.3,19.2,90,101,-9.1
+2020-01-16,202001160NYK,PHO,Elie Okobo,https://www.basketball-reference.com/boxscores/202001160NYK.html,13:54,.375,.375,.500,.000,7.8,0.0,3.7,7.9,6.6,0.0,0.0,11.6,110,89,1.4
+2020-01-16,202001160NYK,PHO,Jevon Carter,https://www.basketball-reference.com/boxscores/202001160NYK.html,7:02,.500,.500,.333,.000,0.0,13.9,7.3,17.0,0.0,0.0,25.0,23.0,87,100,-4.8
+2020-01-16,202001160NYK,PHO,Ty Jerome,https://www.basketball-reference.com/boxscores/202001160NYK.html,2:10,,,,,0.0,0.0,0.0,47.1,0.0,0.0,,0.0,226,102,1.7
+2020-01-16,202001160NYK,PHO,Jalen Lecque,https://www.basketball-reference.com/boxscores/202001160NYK.html,2:10,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.6,0,104,-25.1
+2020-01-16,202001160NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202001160NYK.html,35:33,.544,.522,.217,.087,5.5,12.3,8.7,18.3,3.9,0.0,11.2,30.6,102,114,4.9
+2020-01-16,202001160NYK,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/202001160NYK.html,33:20,.552,.455,.455,.909,2.9,6.5,4.6,4.6,1.4,0.0,6.1,19.9,112,121,0.2
+2020-01-16,202001160NYK,NYK,Elfrid Payton,https://www.basketball-reference.com/boxscores/202001160NYK.html,24:12,.571,.571,.143,.000,0.0,9.0,4.3,47.8,1.9,0.0,30.0,16.7,99,119,-3.1
+2020-01-16,202001160NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202001160NYK.html,14:10,.359,.313,.250,.500,6.9,15.4,10.9,22.4,0.0,0.0,9.3,30.8,80,121,-8.9
+2020-01-16,202001160NYK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202001160NYK.html,12:59,1.025,1.000,.000,.500,0.0,8.4,4.0,0.0,0.0,0.0,45.0,13.8,94,123,-9.6
+2020-01-16,202001160NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202001160NYK.html,30:07,.721,.714,.000,.429,13.0,14.5,13.7,0.0,4.6,5.1,10.7,12.5,136,108,4.4
+2020-01-16,202001160NYK,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/202001160NYK.html,26:05,.500,.500,.333,.000,0.0,8.4,4.0,0.0,0.0,0.0,25.0,12.4,70,124,-10.7
+2020-01-16,202001160NYK,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202001160NYK.html,23:48,.143,.143,.143,.000,4.1,0.0,2.2,34.6,3.9,3.3,22.2,15.3,59,115,-6.9
+2020-01-16,202001160NYK,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/202001160NYK.html,17:21,.357,.357,.571,.000,5.6,56.6,29.7,8.8,0.0,0.0,12.5,18.7,74,109,-4.6
+2020-01-16,202001160NYK,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/202001160NYK.html,16:38,.359,.313,.375,.500,0.0,26.2,12.4,0.0,5.5,0.0,9.3,26.2,68,106,-5.0
+2020-01-16,202001160NYK,NYK,Kadeem Allen,https://www.basketball-reference.com/boxscores/202001160NYK.html,5:47,.375,.375,.750,.000,0.0,0.0,0.0,28.9,0.0,0.0,20.0,35.0,69,126,-13.1

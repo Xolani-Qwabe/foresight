@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-05-05,202105050ORL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202105050ORL.html,30.87,10,22,.455,4,12,.333,3,3,1.000,1,6,7,3,2,2,0,2,27,22.8,+28
+2021-05-05,202105050ORL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202105050ORL.html,29.9,1,6,.167,1,3,.333,0,0,,0,3,3,9,1,1,2,3,3,4.9,+28
+2021-05-05,202105050ORL,BOS,Evan Fournier,https://www.basketball-reference.com/boxscores/202105050ORL.html,28.78,8,14,.571,2,5,.400,0,0,,1,4,5,4,2,0,0,3,18,16.9,+26
+2021-05-05,202105050ORL,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202105050ORL.html,28.33,11,18,.611,6,9,.667,4,5,.800,1,2,3,4,1,0,1,1,32,27.1,+25
+2021-05-05,202105050ORL,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202105050ORL.html,21.22,4,5,.800,0,0,,0,2,.000,3,3,6,1,1,2,1,2,8,9.6,+19
+2021-05-05,202105050ORL,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202105050ORL.html,20.48,2,3,.667,1,2,.500,0,0,,0,4,4,0,0,0,1,4,5,2.3,+3
+2021-05-05,202105050ORL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202105050ORL.html,18.0,5,8,.625,4,6,.667,0,0,,0,1,1,1,0,0,0,2,14,10.6,+10
+2021-05-05,202105050ORL,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202105050ORL.html,15.15,3,5,.600,1,3,.333,0,0,,1,2,3,1,1,0,0,0,7,7.7,+5
+2021-05-05,202105050ORL,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202105050ORL.html,13.05,2,2,1.000,1,1,1.000,0,0,,1,0,1,1,0,0,2,3,5,2.6,+7
+2021-05-05,202105050ORL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202105050ORL.html,8.4,1,3,.333,0,1,.000,0,0,,0,3,3,2,0,0,3,1,2,-0.8,+5
+2021-05-05,202105050ORL,BOS,Jabari Parker,https://www.basketball-reference.com/boxscores/202105050ORL.html,8.15,1,2,.500,0,0,,0,0,,1,4,5,0,0,0,1,1,2,1.5,+6
+2021-05-05,202105050ORL,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202105050ORL.html,7.0,1,3,.333,1,2,.500,2,2,1.000,0,0,0,0,0,0,0,1,5,2.9,+8
+2021-05-05,202105050ORL,BOS,Tacko Fall,https://www.basketball-reference.com/boxscores/202105050ORL.html,5.33,1,1,1.000,0,0,,0,0,,0,3,3,0,0,4,0,0,2,5.4,+5
+2021-05-05,202105050ORL,BOS,Tremont Waters,https://www.basketball-reference.com/boxscores/202105050ORL.html,5.33,1,4,.250,0,1,.000,0,0,,0,1,1,2,0,0,0,0,2,1.3,+5
+2021-05-05,202105050ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202105050ORL.html,30.75,5,11,.455,1,7,.143,8,10,.800,4,11,15,1,3,4,3,1,19,21.7,-26
+2021-05-05,202105050ORL,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202105050ORL.html,29.15,10,18,.556,0,1,.000,0,0,,0,4,4,0,0,1,1,0,20,12.3,-27
+2021-05-05,202105050ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202105050ORL.html,25.92,4,8,.500,3,5,.600,9,9,1.000,1,3,4,0,2,1,4,2,20,15.5,-27
+2021-05-05,202105050ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202105050ORL.html,23.12,1,6,.167,0,2,.000,2,2,1.000,1,2,3,1,0,1,1,0,4,1.9,-25
+2021-05-05,202105050ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202105050ORL.html,21.8,2,10,.200,0,2,.000,0,0,,0,3,3,4,0,0,3,1,4,-1.9,-16
+2021-05-05,202105050ORL,ORL,R.J. Hampton,https://www.basketball-reference.com/boxscores/202105050ORL.html,31.37,6,14,.429,1,2,.500,5,7,.714,2,8,10,5,0,0,1,0,18,16.1,-11
+2021-05-05,202105050ORL,ORL,Ignas Brazdeikis,https://www.basketball-reference.com/boxscores/202105050ORL.html,30.42,3,9,.333,1,2,.500,0,0,,1,3,4,1,0,0,1,4,7,1.6,-16
+2021-05-05,202105050ORL,ORL,Chasson Randle,https://www.basketball-reference.com/boxscores/202105050ORL.html,26.2,2,5,.400,0,2,.000,0,0,,0,0,0,0,0,0,3,2,4,-2.5,-20
+2021-05-05,202105050ORL,ORL,Sindarius Thornwell,https://www.basketball-reference.com/boxscores/202105050ORL.html,21.28,0,4,.000,0,2,.000,0,0,,1,1,2,1,2,0,0,1,0,0.5,-12

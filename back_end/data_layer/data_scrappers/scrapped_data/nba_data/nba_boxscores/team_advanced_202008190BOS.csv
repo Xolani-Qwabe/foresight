@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-19,202008190BOS,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202008190BOS.html,35:26,.371,.286,.143,.571,10.4,22.6,16.7,9.8,0.0,0.0,0.0,22.8,92,136,-7.9
+2020-08-19,202008190BOS,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202008190BOS.html,34:20,.636,.524,.095,.619,0.0,33.3,17.3,23.8,0.0,3.3,7.0,38.5,122,132,10.0
+2020-08-19,202008190BOS,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202008190BOS.html,29:18,.751,.750,.625,.375,0.0,11.7,6.1,26.4,0.0,0.0,9.7,16.2,136,139,2.3
+2020-08-19,202008190BOS,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/202008190BOS.html,28:56,.654,.583,.250,.333,4.3,7.9,6.1,21.6,0.0,0.0,6.8,23.5,127,140,2.7
+2020-08-19,202008190BOS,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202008190BOS.html,24:40,.500,.500,.500,.000,0.0,9.3,4.8,6.3,0.0,0.0,33.3,5.6,72,139,-10.1
+2020-08-19,202008190BOS,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202008190BOS.html,23:10,.667,.667,.000,.000,0.0,9.9,5.1,0.0,0.0,4.8,0.0,6.0,127,137,-4.9
+2020-08-19,202008190BOS,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202008190BOS.html,15:49,.288,.000,1.000,1.667,0.0,7.2,3.7,18.4,3.2,0.0,16.1,18.0,65,133,-7.2
+2020-08-19,202008190BOS,PHI,Alec Burks,https://www.basketball-reference.com/boxscores/202008190BOS.html,15:48,.125,.125,.250,.000,15.6,7.2,11.3,20.3,0.0,0.0,11.1,26.2,50,140,-19.2
+2020-08-19,202008190BOS,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202008190BOS.html,14:44,.500,.500,.400,.000,0.0,15.5,8.0,36.9,0.0,0.0,0.0,15.6,115,139,1.0
+2020-08-19,202008190BOS,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/202008190BOS.html,6:31,,,,,0.0,0.0,0.0,0.0,7.8,17.1,,0.0,0,113,6.0
+2020-08-19,202008190BOS,PHI,Kyle O'Quinn,https://www.basketball-reference.com/boxscores/202008190BOS.html,5:39,,,,,0.0,20.2,10.5,25.7,0.0,0.0,100.0,16.3,21,135,-26.1
+2020-08-19,202008190BOS,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202008190BOS.html,5:39,.630,.333,.333,1.333,0.0,20.2,10.5,0.0,0.0,0.0,0.0,38.8,136,137,2.8
+2020-08-19,202008190BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202008190BOS.html,30:54,.790,.800,.600,.100,3.7,15.9,9.6,30.6,0.0,0.0,0.0,31.0,167,111,21.8
+2020-08-19,202008190BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202008190BOS.html,29:56,.406,.318,.636,.273,3.8,12.3,7.9,8.2,1.7,2.8,14.0,21.9,89,106,-7.6
+2020-08-19,202008190BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202008190BOS.html,28:26,.639,.538,.538,.462,8.0,13.0,10.4,5.0,0.0,2.9,0.0,25.2,145,109,4.6
+2020-08-19,202008190BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202008190BOS.html,25:48,.604,.531,.375,.313,4.4,14.3,9.2,12.8,2.0,0.0,0.0,32.3,136,107,5.8
+2020-08-19,202008190BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202008190BOS.html,12:29,.200,.200,.400,.000,9.2,19.7,14.2,9.6,4.1,0.0,0.0,18.4,76,102,-11.5
+2020-08-19,202008190BOS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202008190BOS.html,22:50,1.167,1.167,.333,.000,0.0,10.8,5.2,22.3,0.0,7.2,50.0,12.0,124,106,4.6
+2020-08-19,202008190BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202008190BOS.html,22:47,.615,.625,.250,.500,0.0,5.4,2.6,0.0,2.2,0.0,0.0,9.8,127,108,-0.6
+2020-08-19,202008190BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202008190BOS.html,21:40,.543,.643,.143,.714,21.1,28.4,24.6,6.3,0.0,0.0,0.0,19.5,135,109,-1.0
+2020-08-19,202008190BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202008190BOS.html,20:36,1.197,1.500,1.000,2.000,0.0,35.8,17.3,11.8,0.0,4.0,0.0,8.4,239,104,13.3
+2020-08-19,202008190BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202008190BOS.html,9:12,1.500,1.500,1.000,.000,0.0,13.4,6.4,0.0,0.0,0.0,0.0,5.0,300,111,4.0
+2020-08-19,202008190BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202008190BOS.html,6:54,.000,.000,1.000,.000,0.0,17.8,8.6,31.6,0.0,0.0,50.0,13.3,61,110,-8.6
+2020-08-19,202008190BOS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/202008190BOS.html,5:39,.750,.750,1.000,.000,0.0,21.8,10.5,0.0,0.0,0.0,0.0,16.2,149,110,2.7
+2020-08-19,202008190BOS,BOS,Tacko Fall,https://www.basketball-reference.com/boxscores/202008190BOS.html,2:49,.798,1.000,.000,2.000,0.0,43.7,21.0,0.0,0.0,0.0,0.0,30.6,156,106,12.7

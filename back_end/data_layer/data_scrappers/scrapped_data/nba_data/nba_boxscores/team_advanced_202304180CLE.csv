@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-04-18,202304180CLE,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202304180CLE.html,36:19,.467,.324,.471,.588,2.9,15.5,8.4,35.4,5.8,0.0,8.5,28.3,107,113,7.5
+2023-04-18,202304180CLE,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202304180CLE.html,33:21,.435,.308,.231,.538,3.2,8.5,5.5,0.0,1.6,0.0,0.0,21.2,103,125,-4.4
+2023-04-18,202304180CLE,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202304180CLE.html,33:00,.516,.475,.350,.150,12.9,17.1,14.7,8.4,1.6,0.0,22.0,36.4,88,122,-2.9
+2023-04-18,202304180CLE,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202304180CLE.html,21:55,.476,.000,1.000,2.500,0.0,19.3,8.3,15.1,7.2,0.0,32.3,12.4,81,109,0.6
+2023-04-18,202304180CLE,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202304180CLE.html,21:15,.500,.500,.000,.000,5.0,26.6,14.3,0.0,0.0,20.5,50.0,8.3,56,113,-5.2
+2023-04-18,202304180CLE,NYK,Josh Hart,https://www.basketball-reference.com/boxscores/202304180CLE.html,26:47,.833,.833,.333,.000,4.0,15.8,9.1,0.0,2.0,0.0,25.0,6.6,119,122,-3.7
+2023-04-18,202304180CLE,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202304180CLE.html,26:45,.311,.333,.000,.167,19.9,10.6,15.9,35.3,2.0,0.0,23.7,13.9,91,123,-1.9
+2023-04-18,202304180CLE,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202304180CLE.html,23:06,.615,.563,.500,.500,0.0,6.1,2.6,10.0,4.6,0.0,9.3,20.5,118,119,3.2
+2023-04-18,202304180CLE,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202304180CLE.html,15:00,.438,.438,.500,.000,0.0,0.0,0.0,16.5,3.5,7.3,11.1,26.4,85,119,0.7
+2023-04-18,202304180CLE,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202304180CLE.html,2:32,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-8.4
+2023-04-18,202304180CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202304180CLE.html,39:10,.547,.545,.000,.182,7.2,30.0,20.2,0.0,2.7,4.9,14.4,16.5,100,90,0.1
+2023-04-18,202304180CLE,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202304180CLE.html,38:55,.666,.636,.455,.364,3.6,2.7,3.1,52.4,2.7,2.5,13.6,17.6,150,103,13.0
+2023-04-18,202304180CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202304180CLE.html,36:21,.733,.647,.588,.647,0.0,8.8,5.0,33.7,0.0,0.0,15.5,33.1,138,108,10.2
+2023-04-18,202304180CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202304180CLE.html,34:49,.507,.500,.000,.250,24.3,12.3,17.5,12.7,4.6,8.3,10.1,13.2,131,92,7.7
+2023-04-18,202304180CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202304180CLE.html,2:45,.000,.000,.000,.000,51.3,0.0,22.1,0.0,0.0,0.0,66.7,50.7,22,111,-64.7
+2023-04-18,202304180CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202304180CLE.html,39:51,.711,.688,.563,.125,0.0,10.7,6.1,13.3,0.0,0.0,10.6,22.0,133,107,5.0
+2023-04-18,202304180CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202304180CLE.html,22:45,.278,.278,.778,.000,6.2,23.4,16.0,0.0,2.3,4.2,25.0,24.5,51,94,-13.8
+2023-04-18,202304180CLE,CLE,Danny Green,https://www.basketball-reference.com/boxscores/202304180CLE.html,19:49,.750,.750,1.000,.000,0.0,21.5,12.3,0.0,5.3,0.0,33.3,7.0,86,91,0.8
+2023-04-18,202304180CLE,CLE,Raul Neto,https://www.basketball-reference.com/boxscores/202304180CLE.html,3:13,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-18.0
+2023-04-18,202304180CLE,CLE,Robin Lopez,https://www.basketball-reference.com/boxscores/202304180CLE.html,2:22,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.3,200,112,32.2

@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-09,201912090BOS,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/201912090BOS.html,35:30,.604,.727,.000,.636,20.8,12.7,17.7,5.4,1.4,0.0,26.2,22.0,94,118,-2.4
+2019-12-09,201912090BOS,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/201912090BOS.html,29:35,.286,.286,.143,.000,9.4,5.1,7.7,16.5,0.0,0.0,6.7,20.7,79,122,-7.5
+2019-12-09,201912090BOS,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/201912090BOS.html,26:48,.292,.292,.583,.000,6.9,44.8,21.3,5.8,0.0,0.0,7.7,19.8,73,118,-7.3
+2019-12-09,201912090BOS,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/201912090BOS.html,24:18,.340,.300,.800,.400,0.0,6.2,2.4,5.8,2.1,0.0,14.5,11.6,74,117,-7.8
+2019-12-09,201912090BOS,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/201912090BOS.html,24:11,.409,.409,.273,.000,3.8,6.2,4.7,14.1,0.0,0.0,15.4,22.0,85,122,-8.1
+2019-12-09,201912090BOS,CLE,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201912090BOS.html,25:32,.638,.607,.571,.143,0.0,17.6,6.7,24.7,2.0,0.0,16.8,28.6,115,116,9.0
+2019-12-09,201912090BOS,CLE,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201912090BOS.html,23:42,.483,.500,.125,.375,0.0,12.7,4.8,14.5,6.4,4.0,24.4,21.3,80,102,1.5
+2019-12-09,201912090BOS,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201912090BOS.html,19:46,.630,.500,.667,1.333,4.7,45.5,20.2,7.2,0.0,0.0,17.4,11.9,122,118,0.6
+2019-12-09,201912090BOS,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201912090BOS.html,16:42,.000,.000,.667,.000,5.5,18.0,10.3,31.9,0.0,0.0,0.0,7.3,76,121,-7.5
+2019-12-09,201912090BOS,CLE,John Henson,https://www.basketball-reference.com/boxscores/201912090BOS.html,8:50,.699,.667,.167,.167,10.4,0.0,6.5,0.0,5.7,0.0,13.4,34.4,120,109,12.4
+2019-12-09,201912090BOS,CLE,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/201912090BOS.html,2:33,.000,.000,.500,.000,36.2,0.0,22.4,0.0,19.8,0.0,0.0,32.1,27,76,-4.6
+2019-12-09,201912090BOS,CLE,Ante Žižić,https://www.basketball-reference.com/boxscores/201912090BOS.html,2:33,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,36.9,0.0,32.1,0,89,-19.0
+2019-12-09,201912090BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/201912090BOS.html,32:09,.648,.633,.333,.067,0.0,20.1,12.4,9.5,0.0,5.0,16.3,27.7,109,91,-1.7
+2019-12-09,201912090BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/201912090BOS.html,29:38,.638,.643,.429,.143,0.0,34.3,21.2,9.6,3.4,5.4,21.2,30.7,100,78,6.0
+2019-12-09,201912090BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/201912090BOS.html,29:10,.818,.808,.692,.077,0.0,6.3,3.9,36.2,0.0,2.7,13.0,25.5,151,100,14.0
+2019-12-09,201912090BOS,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/201912090BOS.html,26:10,.700,.700,.200,.000,5.7,14.1,10.9,22.8,1.9,0.0,16.7,22.1,129,93,4.4
+2019-12-09,201912090BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/201912090BOS.html,21:27,1.250,1.250,.500,.000,0.0,4.3,2.7,12.4,0.0,11.2,33.3,13.5,153,97,12.5
+2019-12-09,201912090BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/201912090BOS.html,23:25,1.500,1.500,1.000,.000,0.0,7.9,4.9,0.0,8.6,0.0,0.0,2.1,300,81,9.1
+2019-12-09,201912090BOS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/201912090BOS.html,22:08,.218,.167,.000,.333,0.0,0.0,0.0,15.2,0.0,0.0,22.5,19.4,59,104,-17.3
+2019-12-09,201912090BOS,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/201912090BOS.html,17:53,.595,.600,.000,.400,8.4,15.5,12.8,7.3,0.0,0.0,14.5,18.6,114,96,-3.5
+2019-12-09,201912090BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/201912090BOS.html,13:25,.500,.500,.333,.000,11.2,0.0,4.3,8.6,0.0,0.0,25.0,14.4,99,104,-4.9
+2019-12-09,201912090BOS,BOS,Vincent Poirier,https://www.basketball-reference.com/boxscores/201912090BOS.html,8:40,.500,.500,.000,.000,34.6,32.0,33.0,0.0,5.8,0.0,0.0,22.3,124,74,-1.3
+2019-12-09,201912090BOS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/201912090BOS.html,8:24,.750,.750,.500,.000,0.0,11.0,6.8,0.0,0.0,0.0,33.3,17.2,88,98,-5.8
+2019-12-09,201912090BOS,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/201912090BOS.html,7:31,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,10.6,0.0,6.4,200,100,7.1

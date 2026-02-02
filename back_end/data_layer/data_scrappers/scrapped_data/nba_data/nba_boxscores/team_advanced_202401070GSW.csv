@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-07,202401070GSW,TOR,RJ Barrett,https://www.basketball-reference.com/boxscores/202401070GSW.html,36:10,.787,.775,.400,.400,0.0,15.6,9.0,21.1,1.4,0.0,0.0,29.1,163,122,12.6
+2024-01-07,202401070GSW,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202401070GSW.html,30:51,.686,.750,.000,.625,12.6,24.4,19.4,17.0,0.0,0.0,16.4,17.7,135,121,-1.2
+2024-01-07,202401070GSW,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202401070GSW.html,30:10,.727,.727,.273,.000,4.3,15.6,10.8,21.8,0.0,5.9,8.3,17.8,147,122,6.2
+2024-01-07,202401070GSW,TOR,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202401070GSW.html,26:02,.450,.450,.400,.000,5.0,14.5,10.5,38.7,1.9,0.0,0.0,17.2,138,121,2.6
+2024-01-07,202401070GSW,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202401070GSW.html,23:40,.273,.273,.364,.000,5.5,4.0,4.6,12.4,2.1,3.8,15.4,24.6,70,123,-16.6
+2024-01-07,202401070GSW,TOR,Dennis Schröder,https://www.basketball-reference.com/boxscores/202401070GSW.html,27:47,.623,.650,.300,.100,0.0,10.2,5.9,15.5,0.0,0.0,0.0,16.8,137,127,-7.5
+2024-01-07,202401070GSW,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202401070GSW.html,26:23,.636,.636,.455,.000,0.0,3.6,2.1,4.1,3.7,3.4,0.0,18.7,128,119,0.5
+2024-01-07,202401070GSW,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202401070GSW.html,16:03,1.214,1.214,.429,.000,16.2,41.0,30.6,8.8,3.1,5.5,0.0,19.5,237,104,30.1
+2024-01-07,202401070GSW,TOR,Jontay Porter,https://www.basketball-reference.com/boxscores/202401070GSW.html,11:38,.333,.333,.667,.000,11.2,8.1,9.4,8.1,4.2,7.6,0.0,11.6,110,114,-3.1
+2024-01-07,202401070GSW,TOR,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202401070GSW.html,3:44,,,,,0.0,0.0,0.0,23.4,0.0,0.0,,0.0,227,131,1.9
+2024-01-07,202401070GSW,TOR,Garrett Temple,https://www.basketball-reference.com/boxscores/202401070GSW.html,3:44,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,24.0,68,131,-13.4
+2024-01-07,202401070GSW,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202401070GSW.html,3:44,.750,.750,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,36.0,79,131,-10.1
+2024-01-07,202401070GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202401070GSW.html,29:51,.278,.143,.643,.357,0.0,4.3,1.8,23.1,0.0,0.0,11.0,25.1,77,141,-18.3
+2024-01-07,202401070GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202401070GSW.html,28:29,.833,.833,.467,.000,0.0,0.0,0.0,18.0,0.0,0.0,11.8,24.6,138,143,8.4
+2024-01-07,202401070GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202401070GSW.html,26:49,.889,.889,.000,.000,10.5,38.7,22.4,11.7,0.0,8.8,0.0,13.8,186,129,11.2
+2024-01-07,202401070GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202401070GSW.html,24:54,.468,.423,.385,.154,3.8,15.6,8.8,21.8,2.0,3.2,6.7,24.6,108,133,-0.3
+2024-01-07,202401070GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202401070GSW.html,16:58,.218,.167,.333,.333,0.0,15.3,6.4,6.7,0.0,0.0,12.7,19.1,51,141,-19.7
+2024-01-07,202401070GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202401070GSW.html,28:33,.227,.227,.727,.000,6.6,27.3,15.3,16.2,0.0,0.0,0.0,15.9,84,138,-11.3
+2024-01-07,202401070GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202401070GSW.html,21:36,1.017,1.000,.667,.333,0.0,18.0,7.6,7.5,2.3,0.0,8.8,21.6,172,135,16.6
+2024-01-07,202401070GSW,GSW,Dario Šarić,https://www.basketball-reference.com/boxscores/202401070GSW.html,18:20,.527,.500,.500,.100,10.3,21.2,14.9,30.3,5.4,0.0,0.0,23.4,134,127,10.9
+2024-01-07,202401070GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202401070GSW.html,17:04,.727,.667,.000,.333,38.6,0.0,22.4,16.7,0.0,0.0,12.7,19.0,157,142,2.1
+2024-01-07,202401070GSW,GSW,Cory Joseph,https://www.basketball-reference.com/boxscores/202401070GSW.html,14:25,.000,.000,.500,.000,0.0,0.0,0.0,14.8,0.0,0.0,33.3,8.6,39,142,-17.0
+2024-01-07,202401070GSW,GSW,Lester Quiñones,https://www.basketball-reference.com/boxscores/202401070GSW.html,6:30,.833,.833,.667,.000,0.0,20.0,8.4,0.0,7.6,0.0,25.0,25.3,99,121,5.5
+2024-01-07,202401070GSW,GSW,Jerome Robinson,https://www.basketball-reference.com/boxscores/202401070GSW.html,6:30,.000,.000,.500,.000,0.0,20.0,8.4,16.4,0.0,0.0,0.0,12.7,35,138,-19.5

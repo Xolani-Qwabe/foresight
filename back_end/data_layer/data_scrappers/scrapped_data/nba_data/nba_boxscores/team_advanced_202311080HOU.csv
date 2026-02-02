@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-08,202311080HOU,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202311080HOU.html,27:35,.611,.611,.389,.000,0.0,8.1,3.8,34.2,0.0,8.7,5.3,31.6,113,132,10.7
+2023-11-08,202311080HOU,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202311080HOU.html,27:12,.592,.538,.154,.385,3.7,20.5,11.6,14.9,0.0,0.0,16.5,30.7,101,134,-5.1
+2023-11-08,202311080HOU,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202311080HOU.html,26:38,.583,.583,.333,.000,0.0,4.2,2.0,5.9,0.0,0.0,14.3,12.1,96,138,-10.5
+2023-11-08,202311080HOU,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202311080HOU.html,25:56,.339,.222,.444,.333,0.0,4.3,2.0,22.9,3.8,0.0,16.2,21.8,71,130,-9.8
+2023-11-08,202311080HOU,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202311080HOU.html,21:46,.000,.000,.000,2.000,0.0,20.5,9.7,6.1,0.0,0.0,0.0,4.0,26,133,-14.7
+2023-11-08,202311080HOU,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202311080HOU.html,27:58,.215,.125,.250,.375,3.6,27.9,15.1,15.0,0.0,2.9,9.7,16.9,59,130,-12.3
+2023-11-08,202311080HOU,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202311080HOU.html,25:34,.698,.733,.200,.333,3.9,30.6,16.5,21.8,3.8,3.1,0.0,30.9,134,121,17.7
+2023-11-08,202311080HOU,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202311080HOU.html,24:36,.400,.286,.429,.571,0.0,4.5,2.1,0.0,6.0,0.0,0.0,16.3,82,125,-5.0
+2023-11-08,202311080HOU,LAL,Colin Castleton,https://www.basketball-reference.com/boxscores/202311080HOU.html,14:26,.333,.333,.000,.000,13.9,0.0,7.3,20.4,0.0,0.0,0.0,9.5,112,138,-12.0
+2023-11-08,202311080HOU,LAL,D'Moi Hodge,https://www.basketball-reference.com/boxscores/202311080HOU.html,10:29,.387,.333,.667,.667,0.0,0.0,0.0,14.6,0.0,7.6,20.5,21.4,69,134,-11.2
+2023-11-08,202311080HOU,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202311080HOU.html,7:48,.000,.000,.000,.000,0.0,14.3,6.8,0.0,0.0,0.0,0.0,11.8,0,136,-20.2
+2023-11-08,202311080HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202311080HOU.html,29:14,.418,.278,.667,.444,3.8,10.3,7.2,34.4,1.7,0.0,8.5,17.2,129,97,1.8
+2023-11-08,202311080HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202311080HOU.html,26:00,.676,.625,.500,.250,4.3,19.2,12.2,0.0,1.9,0.0,18.4,17.9,116,95,-0.4
+2023-11-08,202311080HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202311080HOU.html,25:03,.808,.800,.000,.400,0.0,27.9,14.7,21.5,0.0,0.0,7.8,21.8,158,98,12.0
+2023-11-08,202311080HOU,HOU,Dillon Brooks,https://www.basketball-reference.com/boxscores/202311080HOU.html,24:42,.417,.417,.500,.000,0.0,16.2,8.5,4.1,0.0,0.0,25.0,13.8,72,99,-10.8
+2023-11-08,202311080HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202311080HOU.html,21:28,.835,.900,.400,.267,5.2,28.0,17.2,25.4,2.3,0.0,5.6,35.3,157,93,25.9
+2023-11-08,202311080HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202311080HOU.html,27:26,.700,.700,.600,.000,4.1,0.0,1.9,4.3,0.0,5.8,0.0,15.6,153,96,5.4
+2023-11-08,202311080HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202311080HOU.html,22:53,.583,.583,.333,.000,0.0,8.7,4.6,14.1,0.0,0.0,0.0,11.2,144,100,-1.4
+2023-11-08,202311080HOU,HOU,Tari Eason,https://www.basketball-reference.com/boxscores/202311080HOU.html,14:09,.450,.450,.200,.000,31.6,35.3,33.5,18.1,0.0,5.7,16.7,36.2,105,91,-1.2
+2023-11-08,202311080HOU,HOU,Reggie Bullock,https://www.basketball-reference.com/boxscores/202311080HOU.html,12:00,.500,.500,.667,.000,0.0,8.3,4.4,8.5,0.0,0.0,0.0,10.7,128,101,0.6
+2023-11-08,202311080HOU,HOU,Jock Landale,https://www.basketball-reference.com/boxscores/202311080HOU.html,12:00,.333,.333,.333,.000,9.3,16.7,13.2,0.0,0.0,6.7,25.0,14.2,70,93,-7.3
+2023-11-08,202311080HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202311080HOU.html,10:57,.765,.800,.000,.400,30.6,27.4,28.9,0.0,0.0,0.0,14.5,26.8,140,97,3.0
+2023-11-08,202311080HOU,HOU,Jeenathan Williams,https://www.basketball-reference.com/boxscores/202311080HOU.html,7:48,.512,.500,.250,.500,0.0,0.0,0.0,15.9,6.3,0.0,0.0,26.7,121,89,6.0
+2023-11-08,202311080HOU,HOU,Boban Marjanović,https://www.basketball-reference.com/boxscores/202311080HOU.html,6:17,.676,.750,.000,.250,35.5,79.6,58.8,0.0,0.0,0.0,0.0,30.2,146,90,10.4

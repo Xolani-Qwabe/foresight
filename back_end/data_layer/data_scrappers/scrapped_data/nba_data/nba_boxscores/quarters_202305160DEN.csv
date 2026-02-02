@@ -1,0 +1,64 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-05-16,202305160DEN,LAL,Q1,Austin Reaves,https://www.basketball-reference.com/boxscores/202305160DEN.html,12.0,1,3,.333,1,3,.333,0,0,0,0,0,4,0,0,0,2,3,3.3,-12,
+2023-05-16,202305160DEN,LAL,Q1,Anthony Davis,https://www.basketball-reference.com/boxscores/202305160DEN.html,11.28,2,7,.286,0,0,,2,2,0,1,1,1,0,1,0,0,6,3.6,-11,1.000
+2023-05-16,202305160DEN,LAL,Q1,LeBron James,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.32,4,7,.571,0,1,.000,0,0,1,3,4,2,0,1,1,0,8,7.4,-7,
+2023-05-16,202305160DEN,LAL,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202305160DEN.html,6.93,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,0,1,3,1.9,-10,
+2023-05-16,202305160DEN,LAL,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.62,0,2,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-2.4,-15,
+2023-05-16,202305160DEN,LAL,Q1,Rui Hachimura,https://www.basketball-reference.com/boxscores/202305160DEN.html,5.07,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,1,2,0.6,-2,
+2023-05-16,202305160DEN,LAL,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202305160DEN.html,5.07,1,2,.500,1,1,1.000,0,0,0,0,0,0,1,0,0,0,3,3.0,-2,
+2023-05-16,202305160DEN,LAL,Q1,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202305160DEN.html,0.72,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,
+2023-05-16,202305160DEN,LAL,Q2,Austin Reaves,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.03,1,4,.250,0,1,.000,0,0,0,0,0,2,0,0,0,0,2,1.0,-9,
+2023-05-16,202305160DEN,LAL,Q2,Anthony Davis,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.0,5,7,.714,0,0,,2,2,0,1,1,0,2,1,0,0,12,12.1,-6,1.000
+2023-05-16,202305160DEN,LAL,Q2,LeBron James,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.8,1,1,1.000,0,0,,1,2,1,3,4,1,0,0,0,0,3,4.6,-5,.500
+2023-05-16,202305160DEN,LAL,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.8,0,0,,0,0,,0,0,0,1,1,1,0,0,1,1,0,-0.4,-2,
+2023-05-16,202305160DEN,LAL,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.77,1,4,.250,0,2,.000,0,0,0,0,0,3,0,0,0,1,2,1.3,-8,
+2023-05-16,202305160DEN,LAL,Q2,Rui Hachimura,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.83,3,4,.750,1,1,1.000,0,0,0,0,0,0,0,1,0,2,7,5.3,-2,
+2023-05-16,202305160DEN,LAL,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202305160DEN.html,5.75,1,3,.333,1,2,.500,0,0,0,1,1,0,0,0,0,1,3,1.2,+2,
+2023-05-16,202305160DEN,LAL,Q2,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202305160DEN.html,3.0,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,0,
+2023-05-16,202305160DEN,LAL,Q3,Austin Reaves,https://www.basketball-reference.com/boxscores/202305160DEN.html,11.1,2,3,.667,1,1,1.000,2,2,1,1,2,1,0,0,0,0,7,7.4,+10,1.000
+2023-05-16,202305160DEN,LAL,Q3,Anthony Davis,https://www.basketball-reference.com/boxscores/202305160DEN.html,12.0,5,5,1.000,0,0,,3,3,0,4,4,1,0,0,0,1,13,13.0,+4,1.000
+2023-05-16,202305160DEN,LAL,Q3,LeBron James,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.75,3,4,.750,0,1,.000,2,2,0,0,0,2,0,0,0,0,8,7.8,-2,1.000
+2023-05-16,202305160DEN,LAL,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.07,0,0,,0,0,,0,0,0,0,0,3,0,0,1,0,0,1.1,-2,
+2023-05-16,202305160DEN,LAL,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.75,3,5,.600,0,1,.000,0,0,0,0,0,0,0,0,0,0,6,3.7,-2,
+2023-05-16,202305160DEN,LAL,Q3,Rui Hachimura,https://www.basketball-reference.com/boxscores/202305160DEN.html,3.25,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,+6,
+2023-05-16,202305160DEN,LAL,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202305160DEN.html,4.03,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,0,0,0,0.3,+3,
+2023-05-16,202305160DEN,LAL,Q3,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202305160DEN.html,4.03,0,0,,0,0,,0,0,0,1,1,0,1,0,0,0,0,1.3,+3,
+2023-05-16,202305160DEN,LAL,Q4,Austin Reaves,https://www.basketball-reference.com/boxscores/202305160DEN.html,12.0,3,4,.750,3,4,.750,2,2,0,0,0,1,0,0,0,3,11,8.9,+8,1.000
+2023-05-16,202305160DEN,LAL,Q4,Anthony Davis,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.55,2,4,.500,1,1,1.000,4,4,1,3,4,1,1,0,0,2,9,9.5,+5,1.000
+2023-05-16,202305160DEN,LAL,Q4,LeBron James,https://www.basketball-reference.com/boxscores/202305160DEN.html,12.0,1,4,.250,0,2,.000,5,7,1,3,4,4,0,0,2,1,7,5.8,+8,.714
+2023-05-16,202305160DEN,LAL,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.23,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,1,3,3.3,+8,
+2023-05-16,202305160DEN,LAL,Q4,Rui Hachimura,https://www.basketball-reference.com/boxscores/202305160DEN.html,12.0,2,3,.667,0,0,,0,0,0,0,0,1,0,0,0,1,4,3.0,+8,
+2023-05-16,202305160DEN,LAL,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202305160DEN.html,4.77,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,0,
+2023-05-16,202305160DEN,LAL,Q4,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202305160DEN.html,2.45,0,0,,0,0,,0,0,0,0,0,0,0,0,1,2,0,-1.8,+3,
+2023-05-16,202305160DEN,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202305160DEN.html,11.28,4,6,.667,0,0,,0,0,6,6,12,5,0,2,1,0,8,15.3,+11,
+2023-05-16,202305160DEN,DEN,Q1,Jamal Murray,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.32,2,6,.333,1,2,.500,0,0,1,2,3,2,1,0,0,1,5,4.9,+7,
+2023-05-16,202305160DEN,DEN,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.62,2,4,.500,0,1,.000,0,0,0,0,0,0,1,1,0,1,4,3.3,+15,
+2023-05-16,202305160DEN,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202305160DEN.html,10.33,3,6,.500,0,2,.000,2,2,1,0,1,2,0,0,1,1,8,5.7,+16,1.000
+2023-05-16,202305160DEN,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.52,2,4,.500,1,2,.500,0,0,1,2,3,0,0,0,0,0,5,4.3,+16,
+2023-05-16,202305160DEN,DEN,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202305160DEN.html,5.07,2,3,.667,1,1,1.000,2,2,0,2,2,0,0,0,0,0,7,6.3,+2,1.000
+2023-05-16,202305160DEN,DEN,Q1,Jeff Green,https://www.basketball-reference.com/boxscores/202305160DEN.html,2.38,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2023-05-16,202305160DEN,DEN,Q1,Christian Braun,https://www.basketball-reference.com/boxscores/202305160DEN.html,3.48,0,1,.000,0,1,.000,0,0,0,1,1,0,0,1,0,0,0,0.3,-4,
+2023-05-16,202305160DEN,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.0,3,4,.750,1,1,1.000,4,4,0,4,4,2,0,0,1,2,11,10.2,+6,1.000
+2023-05-16,202305160DEN,DEN,Q2,Jamal Murray,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.17,5,5,1.000,1,1,1.000,1,1,0,1,1,1,0,1,0,0,12,12.2,+3,1.000
+2023-05-16,202305160DEN,DEN,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.77,0,2,.000,0,1,.000,0,0,1,1,2,3,1,0,0,0,0,2.7,+8,
+2023-05-16,202305160DEN,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202305160DEN.html,10.03,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+9,
+2023-05-16,202305160DEN,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.25,2,5,.400,1,3,.333,0,0,2,2,4,0,0,1,1,1,5,3.6,+5,
+2023-05-16,202305160DEN,DEN,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.85,3,6,.500,0,0,,1,1,0,2,2,0,0,0,0,0,7,4.6,+2,1.000
+2023-05-16,202305160DEN,DEN,Q2,Jeff Green,https://www.basketball-reference.com/boxscores/202305160DEN.html,4.97,0,2,.000,0,0,,0,0,1,0,1,0,0,0,1,1,0,-2.1,-3,
+2023-05-16,202305160DEN,DEN,Q2,Christian Braun,https://www.basketball-reference.com/boxscores/202305160DEN.html,2.97,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-05-16,202305160DEN,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202305160DEN.html,12.0,5,5,1.000,2,2,1.000,0,0,0,3,3,5,0,0,1,0,12,13.9,-4,
+2023-05-16,202305160DEN,DEN,Q3,Jamal Murray,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.57,2,4,.500,2,3,.667,0,0,0,0,0,0,0,0,1,2,6,2.2,+1,
+2023-05-16,202305160DEN,DEN,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202305160DEN.html,10.35,5,7,.714,2,3,.667,0,0,0,0,0,0,0,0,1,2,12,7.3,-3,
+2023-05-16,202305160DEN,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.97,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-1.7,-1,
+2023-05-16,202305160DEN,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.07,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,+2,
+2023-05-16,202305160DEN,DEN,Q3,Bruce Brown,https://www.basketball-reference.com/boxscores/202305160DEN.html,6.08,1,2,.500,0,0,,0,0,0,0,0,2,0,0,0,1,2,2.0,-6,
+2023-05-16,202305160DEN,DEN,Q3,Jeff Green,https://www.basketball-reference.com/boxscores/202305160DEN.html,4.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2023-05-16,202305160DEN,DEN,Q3,Christian Braun,https://www.basketball-reference.com/boxscores/202305160DEN.html,3.93,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-6,
+2023-05-16,202305160DEN,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202305160DEN.html,10.15,0,2,.000,0,0,,3,4,0,2,2,2,0,0,2,2,3,0.4,-2,.750
+2023-05-16,202305160DEN,DEN,Q4,Jamal Murray,https://www.basketball-reference.com/boxscores/202305160DEN.html,12.0,3,5,.600,0,2,.000,2,2,0,1,1,2,2,0,0,2,8,8.6,-8,1.000
+2023-05-16,202305160DEN,DEN,Q4,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202305160DEN.html,8.25,2,4,.500,1,3,.333,0,0,0,0,0,0,0,0,0,2,5,2.2,-4,
+2023-05-16,202305160DEN,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202305160DEN.html,7.65,1,1,1.000,0,0,,2,6,2,0,2,0,0,0,0,0,4,3.5,-13,.333
+2023-05-16,202305160DEN,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202305160DEN.html,9.72,1,2,.500,1,1,1.000,0,0,0,2,2,1,0,1,0,1,3,3.6,-3,
+2023-05-16,202305160DEN,DEN,Q4,Bruce Brown,https://www.basketball-reference.com/boxscores/202305160DEN.html,4.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2023-05-16,202305160DEN,DEN,Q4,Jeff Green,https://www.basketball-reference.com/boxscores/202305160DEN.html,6.2,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-1,
+2023-05-16,202305160DEN,DEN,Q4,Christian Braun,https://www.basketball-reference.com/boxscores/202305160DEN.html,1.85,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-6,

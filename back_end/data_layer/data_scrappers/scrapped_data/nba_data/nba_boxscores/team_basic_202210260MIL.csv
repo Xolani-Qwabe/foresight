@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-10-26,202210260MIL,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202210260MIL.html,38.98,9,21,.429,0,7,.000,9,10,.900,0,9,9,1,1,0,1,4,27,17.3,-9
+2022-10-26,202210260MIL,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202210260MIL.html,38.87,10,23,.435,1,4,.250,12,13,.923,0,6,6,3,0,2,5,3,33,19.6,-17
+2022-10-26,202210260MIL,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202210260MIL.html,37.05,4,13,.308,4,9,.444,0,0,,0,0,0,0,2,0,2,4,12,2.9,-3
+2022-10-26,202210260MIL,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202210260MIL.html,34.47,2,7,.286,0,0,,0,2,.000,1,4,5,9,2,1,2,4,4,6.4,+2
+2022-10-26,202210260MIL,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202210260MIL.html,23.43,1,4,.250,0,0,,1,2,.500,4,4,8,1,0,2,1,3,3,4.1,-10
+2022-10-26,202210260MIL,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202210260MIL.html,20.6,1,5,.200,1,3,.333,0,0,,1,3,4,2,0,0,0,2,3,2.1,-12
+2022-10-26,202210260MIL,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202210260MIL.html,17.73,0,2,.000,0,2,.000,0,0,,0,1,1,3,0,0,1,0,0,0.0,-7
+2022-10-26,202210260MIL,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202210260MIL.html,13.15,1,3,.333,0,0,,1,2,.500,1,2,3,3,1,1,2,4,3,2.4,-6
+2022-10-26,202210260MIL,BRK,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202210260MIL.html,7.6,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,5,4.7,+12
+2022-10-26,202210260MIL,BRK,Edmond Sumner,https://www.basketball-reference.com/boxscores/202210260MIL.html,6.18,4,6,.667,0,1,.000,1,1,1.000,0,0,0,1,1,0,0,0,9,8.1,-7
+2022-10-26,202210260MIL,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202210260MIL.html,0.97,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2022-10-26,202210260MIL,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202210260MIL.html,0.97,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2022-10-26,202210260MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202210260MIL.html,37.87,16,25,.640,1,4,.250,10,14,.714,2,12,14,5,1,3,7,4,43,33.3,+5
+2022-10-26,202210260MIL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202210260MIL.html,35.93,5,18,.278,1,6,.167,4,5,.800,3,4,7,4,2,1,5,4,15,6.2,+10
+2022-10-26,202210260MIL,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202210260MIL.html,28.13,1,8,.125,1,6,.167,2,2,1.000,0,5,5,4,0,0,1,0,5,3.1,+17
+2022-10-26,202210260MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202210260MIL.html,27.85,3,10,.300,1,5,.200,0,0,,3,3,6,1,0,6,2,2,7,6.3,+21
+2022-10-26,202210260MIL,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202210260MIL.html,15.7,1,1,1.000,0,0,,0,0,,1,1,2,1,2,0,1,4,2,2.8,-9
+2022-10-26,202210260MIL,MIL,George Hill,https://www.basketball-reference.com/boxscores/202210260MIL.html,29.82,2,3,.667,0,1,.000,4,4,1.000,1,2,3,4,1,0,1,3,8,9.6,+12
+2022-10-26,202210260MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202210260MIL.html,26.15,8,14,.571,3,6,.500,1,2,.500,3,8,11,0,2,2,0,0,20,20.9,-4
+2022-10-26,202210260MIL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202210260MIL.html,21.9,2,7,.286,2,7,.286,1,2,.500,0,0,0,1,0,0,1,5,7,0.2,-3
+2022-10-26,202210260MIL,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202210260MIL.html,16.65,1,2,.500,1,1,1.000,0,0,,1,5,6,1,0,0,0,0,3,4.9,+6

@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2025-03-24,202503240IND,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202503240IND.html,34.67,8,12,.667,0,0,0,0,5,11,16,3,0,0,2,0,16,17.7,-3,,
+2025-03-24,202503240IND,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202503240IND.html,34.18,7,19,.368,1,11,2,3,0,2,2,4,1,0,3,2,17,6.7,-24,.091,.667
+2025-03-24,202503240IND,MIN,Julius Randle,https://www.basketball-reference.com/boxscores/202503240IND.html,23.95,3,7,.429,0,2,3,5,1,5,6,2,0,0,2,1,9,5.7,-12,.000,.600
+2025-03-24,202503240IND,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202503240IND.html,21.98,3,5,.600,1,2,0,0,0,4,4,5,1,1,2,0,7,9.1,-8,.500,
+2025-03-24,202503240IND,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202503240IND.html,21.62,3,7,.429,0,0,0,0,0,1,1,1,0,1,1,1,6,2.6,-7,,
+2025-03-24,202503240IND,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202503240IND.html,26.4,8,13,.615,3,6,1,2,0,3,3,2,0,0,1,2,20,14.2,-5,.500,.500
+2025-03-24,202503240IND,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202503240IND.html,23.85,2,7,.286,2,5,0,0,1,1,2,2,1,0,3,0,6,2.3,-13,.400,
+2025-03-24,202503240IND,MIN,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202503240IND.html,23.02,4,13,.308,1,7,0,0,1,8,9,4,0,0,1,3,9,5.2,-2,.143,
+2025-03-24,202503240IND,MIN,Jaylen Clark,https://www.basketball-reference.com/boxscores/202503240IND.html,18.5,3,5,.600,0,1,0,0,1,1,2,1,2,1,0,2,6,7.3,-5,.000,
+2025-03-24,202503240IND,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202503240IND.html,2.5,2,2,1.000,1,1,0,0,0,0,0,0,0,0,1,2,5,2.6,-1,1.000,
+2025-03-24,202503240IND,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202503240IND.html,2.5,1,1,1.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1.7,-1,,
+2025-03-24,202503240IND,MIN,Rob Dillingham,https://www.basketball-reference.com/boxscores/202503240IND.html,2.5,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2025-03-24,202503240IND,MIN,Terrence Shannon Jr.,https://www.basketball-reference.com/boxscores/202503240IND.html,2.5,0,0,,0,0,0,0,0,0,0,1,0,0,1,0,0,-0.3,-1,,
+2025-03-24,202503240IND,MIN,Bones Hyland,https://www.basketball-reference.com/boxscores/202503240IND.html,1.83,0,0,,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,+3,,
+2025-03-24,202503240IND,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202503240IND.html,32.8,3,7,.429,0,1,0,0,0,3,3,5,2,0,2,0,6,6.7,+19,.000,
+2025-03-24,202503240IND,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202503240IND.html,30.78,6,16,.375,0,3,2,2,2,4,6,4,0,0,0,2,14,9.8,+26,.000,1.000
+2025-03-24,202503240IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202503240IND.html,29.35,3,10,.300,1,5,0,0,0,9,9,1,2,4,2,1,7,7.0,+9,.200,
+2025-03-24,202503240IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202503240IND.html,29.1,9,16,.563,3,7,3,3,0,4,4,11,1,1,1,0,24,26.0,+13,.429,1.000
+2025-03-24,202503240IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202503240IND.html,24.22,7,9,.778,3,3,0,0,2,5,7,1,0,0,0,1,17,16.7,+16,1.000,
+2025-03-24,202503240IND,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202503240IND.html,23.58,7,10,.700,6,9,0,0,0,1,1,1,0,0,0,2,20,16.0,0,.667,
+2025-03-24,202503240IND,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202503240IND.html,22.17,3,8,.375,0,3,5,5,2,4,6,2,1,0,3,5,11,6.6,+1,.000,1.000
+2025-03-24,202503240IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202503240IND.html,17.17,5,10,.500,0,0,0,0,1,4,5,4,1,0,0,0,10,10.7,+4,,
+2025-03-24,202503240IND,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202503240IND.html,15.32,1,2,.500,0,1,0,0,1,2,3,1,0,0,2,1,2,0.6,-3,.000,
+2025-03-24,202503240IND,IND,Thomas Bryant,https://www.basketball-reference.com/boxscores/202503240IND.html,10.45,1,5,.200,0,3,4,4,1,1,2,0,2,0,1,0,6,4.9,0,.000,1.000
+2025-03-24,202503240IND,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202503240IND.html,1.83,1,1,1.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1.7,-3,,
+2025-03-24,202503240IND,IND,Johnny Furphy,https://www.basketball-reference.com/boxscores/202503240IND.html,1.62,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2025-03-24,202503240IND,IND,Quenton Jackson,https://www.basketball-reference.com/boxscores/202503240IND.html,1.62,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,

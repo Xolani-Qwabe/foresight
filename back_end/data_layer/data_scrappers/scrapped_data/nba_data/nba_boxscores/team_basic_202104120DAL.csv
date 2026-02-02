@@ -1,0 +1,31 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-04-12,202104120DAL,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202104120DAL.html,27.57,4,11,.364,1,2,.500,1,2,.500,0,4,4,4,1,2,1,1,10,8.5,+16
+2021-04-12,202104120DAL,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202104120DAL.html,25.65,10,17,.588,2,3,.667,14,15,.933,1,6,7,2,1,0,1,1,36,31.2,+8
+2021-04-12,202104120DAL,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202104120DAL.html,25.4,2,5,.400,2,5,.400,0,0,,0,3,3,2,0,1,0,0,6,6.3,+10
+2021-04-12,202104120DAL,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202104120DAL.html,24.35,3,8,.375,2,3,.667,0,0,,0,2,2,2,0,0,0,3,8,4.4,+9
+2021-04-12,202104120DAL,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202104120DAL.html,24.02,3,6,.500,0,0,,2,6,.333,2,4,6,7,1,0,1,4,8,9.3,+13
+2021-04-12,202104120DAL,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202104120DAL.html,24.28,3,6,.500,0,1,.000,4,6,.667,0,3,3,5,1,0,1,3,10,9.4,+16
+2021-04-12,202104120DAL,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202104120DAL.html,23.4,3,5,.600,1,3,.333,0,0,,1,3,4,0,2,1,0,2,7,8.2,+7
+2021-04-12,202104120DAL,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202104120DAL.html,20.93,2,3,.667,0,1,.000,0,1,.000,2,5,7,0,1,0,4,4,4,0.6,+12
+2021-04-12,202104120DAL,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202104120DAL.html,18.37,7,10,.700,4,7,.571,2,3,.667,0,2,2,1,2,0,1,1,20,17.3,+5
+2021-04-12,202104120DAL,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202104120DAL.html,18.13,2,6,.333,0,3,.000,0,0,,0,1,1,1,0,0,0,0,4,1.6,-1
+2021-04-12,202104120DAL,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202104120DAL.html,2.3,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+3
+2021-04-12,202104120DAL,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202104120DAL.html,1.42,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-2
+2021-04-12,202104120DAL,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202104120DAL.html,1.42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2021-04-12,202104120DAL,PHI,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202104120DAL.html,1.42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2021-04-12,202104120DAL,PHI,Mason Jones,https://www.basketball-reference.com/boxscores/202104120DAL.html,1.35,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2021-04-12,202104120DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202104120DAL.html,34.63,5,10,.500,2,7,.286,0,0,,4,7,11,1,1,0,1,2,12,11.8,-19
+2021-04-12,202104120DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202104120DAL.html,33.02,10,20,.500,2,7,.286,10,11,.909,2,2,4,4,1,1,4,0,32,24.1,-17
+2021-04-12,202104120DAL,DAL,Josh Richardson,https://www.basketball-reference.com/boxscores/202104120DAL.html,31.05,3,7,.429,0,3,.000,1,2,.500,0,1,1,2,0,1,0,4,7,3.7,-14
+2021-04-12,202104120DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202104120DAL.html,30.62,7,14,.500,0,3,.000,1,2,.500,0,6,6,2,1,0,1,1,15,10.4,-6
+2021-04-12,202104120DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202104120DAL.html,14.32,1,2,.500,1,2,.500,0,0,,1,2,3,0,1,0,1,4,3,1.7,-3
+2021-04-12,202104120DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202104120DAL.html,21.3,3,9,.333,3,6,.500,0,0,,0,3,3,2,0,0,2,1,9,3.8,-8
+2021-04-12,202104120DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202104120DAL.html,13.83,1,2,.500,0,1,.000,1,2,.500,1,3,4,2,3,0,2,1,3,5.2,0
+2021-04-12,202104120DAL,DAL,JJ Redick,https://www.basketball-reference.com/boxscores/202104120DAL.html,13.82,1,7,.143,1,3,.333,1,1,1.000,0,2,2,2,0,0,1,0,4,0.5,-4
+2021-04-12,202104120DAL,DAL,Nicolò Melli,https://www.basketball-reference.com/boxscores/202104120DAL.html,10.47,0,3,.000,0,2,.000,0,0,,1,1,2,1,0,0,0,2,0,-1.2,-5
+2021-04-12,202104120DAL,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202104120DAL.html,10.08,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,1,3,0,-2.3,-7
+2021-04-12,202104120DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202104120DAL.html,7.87,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,1,1,2,-1.1,+1
+2021-04-12,202104120DAL,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202104120DAL.html,7.63,0,1,.000,0,0,,2,2,1.000,0,4,4,0,0,1,0,3,2,2.0,-3
+2021-04-12,202104120DAL,DAL,Tyler Bey,https://www.basketball-reference.com/boxscores/202104120DAL.html,5.03,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+1
+2021-04-12,202104120DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202104120DAL.html,4.03,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,1,1,2,0.6,-3
+2021-04-12,202104120DAL,DAL,Nate Hinton,https://www.basketball-reference.com/boxscores/202104120DAL.html,2.3,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,1,2,2.0,-3

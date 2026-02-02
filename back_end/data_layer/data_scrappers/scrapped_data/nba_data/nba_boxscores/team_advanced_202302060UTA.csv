@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-06,202302060UTA,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202302060UTA.html,37:29,.738,.676,.353,.353,2.9,15.2,8.9,9.1,0.0,0.0,0.0,21.9,166,119,5.6
+2023-02-06,202302060UTA,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202302060UTA.html,34:35,.445,.406,.438,.438,0.0,9.9,4.8,8.1,0.0,0.0,9.5,25.5,97,120,-11.7
+2023-02-06,202302060UTA,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202302060UTA.html,33:32,.591,.591,.727,.000,3.3,3.4,3.3,12.7,5.9,2.6,8.3,15.0,130,107,6.4
+2023-02-06,202302060UTA,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202302060UTA.html,28:10,.833,.800,.000,1.000,31.0,32.5,31.7,10.0,0.0,3.0,35.7,16.6,130,112,0.7
+2023-02-06,202302060UTA,DAL,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202302060UTA.html,19:49,.500,.500,.300,.000,5.5,11.5,8.4,33.5,0.0,0.0,9.1,23.2,119,119,-3.8
+2023-02-06,202302060UTA,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202302060UTA.html,25:39,.909,.833,.500,.750,4.3,13.4,8.7,28.8,3.9,0.0,11.1,29.3,172,111,21.5
+2023-02-06,202302060UTA,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202302060UTA.html,18:36,.342,.143,.571,.571,5.9,49.2,27.0,26.9,0.0,0.0,0.0,19.7,119,110,-2.0
+2023-02-06,202302060UTA,DAL,Theo Pinson,https://www.basketball-reference.com/boxscores/202302060UTA.html,12:34,.750,.750,1.000,.000,26.0,9.1,17.8,20.5,0.0,0.0,33.3,10.0,145,120,2.6
+2023-02-06,202302060UTA,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202302060UTA.html,12:17,.375,.375,.750,.000,0.0,0.0,0.0,0.0,0.0,0.0,20.0,17.0,67,122,-18.9
+2023-02-06,202302060UTA,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202302060UTA.html,7:25,.000,.000,.000,.000,14.7,15.4,15.1,47.4,0.0,11.6,0.0,11.3,111,111,1.4
+2023-02-06,202302060UTA,DAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202302060UTA.html,6:53,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,12.5,0.0,6.1,0,114,-10.0
+2023-02-06,202302060UTA,DAL,Chris Silva,https://www.basketball-reference.com/boxscores/202302060UTA.html,3:01,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,27.8,63,122,-22.6
+2023-02-06,202302060UTA,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202302060UTA.html,36:15,.559,.559,.412,.000,3.2,18.1,10.8,0.0,2.7,2.7,10.5,22.6,101,122,-3.4
+2023-02-06,202302060UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202302060UTA.html,32:09,.508,.368,.263,.789,7.1,6.8,6.9,9.8,0.0,0.0,13.5,39.7,100,135,-8.0
+2023-02-06,202302060UTA,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202302060UTA.html,31:14,.592,.563,.500,.125,0.0,3.5,1.8,48.5,0.0,0.0,19.2,14.4,125,136,0.6
+2023-02-06,202302060UTA,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202302060UTA.html,28:09,.590,.500,.375,.375,12.2,11.6,11.9,15.0,0.0,0.0,0.0,14.3,144,132,-0.1
+2023-02-06,202302060UTA,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202302060UTA.html,26:48,.689,.667,.000,.111,17.1,20.4,18.7,5.9,1.9,11.0,9.6,16.8,138,120,7.3
+2023-02-06,202302060UTA,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202302060UTA.html,25:03,.887,.667,.000,2.000,0.0,0.0,0.0,5.2,0.0,0.0,26.2,13.1,136,138,-6.4
+2023-02-06,202302060UTA,UTA,Malik Beasley,https://www.basketball-reference.com/boxscores/202302060UTA.html,23:04,.500,.500,.778,.000,0.0,33.1,16.9,6.0,2.2,0.0,18.2,20.5,85,117,-3.5
+2023-02-06,202302060UTA,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202302060UTA.html,15:03,.455,.455,.182,.000,0.0,7.2,3.7,25.5,0.0,0.0,0.0,31.5,102,135,-3.0
+2023-02-06,202302060UTA,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202302060UTA.html,13:28,.500,.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,105,138,-6.6
+2023-02-06,202302060UTA,UTA,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202302060UTA.html,8:47,,,,,0.0,24.8,12.7,0.0,0.0,0.0,,0.0,0,126,-7.4

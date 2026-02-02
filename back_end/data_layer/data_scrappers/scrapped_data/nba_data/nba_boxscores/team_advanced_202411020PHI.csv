@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-02,202411020PHI,MEM,Jaylen Wells,https://www.basketball-reference.com/boxscores/202411020PHI.html,36:14,.656,.636,.364,.091,7.4,8.1,7.8,6.6,0.0,0.0,8.0,14.6,133,115,-2.5
+2024-11-02,202411020PHI,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202411020PHI.html,34:49,.417,.417,.417,.000,3.8,33.8,21.1,13.4,1.4,3.2,7.7,15.8,102,103,-2.6
+2024-11-02,202411020PHI,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202411020PHI.html,31:24,.545,.462,.154,.615,0.0,18.7,10.8,47.2,3.0,0.0,26.6,30.4,107,105,-0.9
+2024-11-02,202411020PHI,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202411020PHI.html,31:00,.760,.750,.188,.250,8.6,12.6,10.9,0.0,4.6,7.2,0.0,24.3,155,98,11.9
+2024-11-02,202411020PHI,MEM,Zach Edey,https://www.basketball-reference.com/boxscores/202411020PHI.html,21:59,.635,.571,.000,.286,30.3,22.3,25.7,5.6,2.2,5.1,27.6,21.0,113,102,-3.6
+2024-11-02,202411020PHI,MEM,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202411020PHI.html,29:02,.581,.500,.222,.333,0.0,13.5,7.8,51.9,1.6,0.0,16.2,18.0,139,109,5.4
+2024-11-02,202411020PHI,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202411020PHI.html,26:10,.800,.800,.800,.000,0.0,7.5,4.3,8.6,0.0,0.0,37.5,13.0,94,115,-7.5
+2024-11-02,202411020PHI,MEM,Jay Huff,https://www.basketball-reference.com/boxscores/202411020PHI.html,14:11,.958,.950,.700,.100,9.4,27.6,19.9,13.9,0.0,7.9,0.0,31.2,182,104,31.9
+2024-11-02,202411020PHI,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202411020PHI.html,13:03,.410,.500,.000,.500,0.0,7.5,4.3,0.0,3.7,8.6,0.0,15.9,81,100,-6.8
+2024-11-02,202411020PHI,MEM,Yuki Kawamura,https://www.basketball-reference.com/boxscores/202411020PHI.html,1:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-8.4
+2024-11-02,202411020PHI,MEM,Colin Castleton,https://www.basketball-reference.com/boxscores/202411020PHI.html,0:41,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-5.7
+2024-11-02,202411020PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202411020PHI.html,37:28,.566,.526,.474,.158,0.0,7.1,3.0,29.9,3.8,0.0,12.9,26.7,108,122,1.0
+2024-11-02,202411020PHI,PHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202411020PHI.html,29:17,.254,.143,.143,.286,6.7,31.9,17.4,9.5,1.6,0.0,33.7,17.4,55,122,-15.5
+2024-11-02,202411020PHI,PHI,Caleb Martin,https://www.basketball-reference.com/boxscores/202411020PHI.html,27:42,.395,.143,.429,1.429,3.5,9.6,6.1,15.2,1.7,2.9,14.9,20.8,87,125,-7.6
+2024-11-02,202411020PHI,PHI,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202411020PHI.html,27:15,.467,.467,.667,.000,3.6,14.7,8.3,0.0,3.5,2.9,0.0,23.6,94,119,-3.8
+2024-11-02,202411020PHI,PHI,Kyle Lowry,https://www.basketball-reference.com/boxscores/202411020PHI.html,20:55,1.025,1.125,1.000,.500,4.7,12.7,8.1,7.9,4.6,0.0,17.0,12.1,154,120,8.1
+2024-11-02,202411020PHI,PHI,Eric Gordon,https://www.basketball-reference.com/boxscores/202411020PHI.html,22:26,.833,.833,.500,.000,4.4,0.0,2.5,15.6,0.0,0.0,25.0,15.3,123,133,-2.4
+2024-11-02,202411020PHI,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202411020PHI.html,20:18,.694,.500,.000,1.000,0.0,19.7,8.3,7.0,0.0,11.8,0.0,6.1,156,120,-1.2
+2024-11-02,202411020PHI,PHI,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202411020PHI.html,18:41,.750,.750,1.000,.000,0.0,21.4,9.1,0.0,2.6,0.0,0.0,13.8,136,122,1.7
+2024-11-02,202411020PHI,PHI,Jared McCain,https://www.basketball-reference.com/boxscores/202411020PHI.html,16:36,.578,.563,.375,.063,5.9,24.1,13.6,22.5,2.9,0.0,5.7,45.1,106,121,6.9
+2024-11-02,202411020PHI,PHI,Reggie Jackson,https://www.basketball-reference.com/boxscores/202411020PHI.html,8:37,.300,.300,.800,.000,0.0,0.0,0.0,54.9,0.0,0.0,0.0,24.9,93,133,-5.0
+2024-11-02,202411020PHI,PHI,Ricky Council IV,https://www.basketball-reference.com/boxscores/202411020PHI.html,7:51,,,,,0.0,0.0,0.0,51.0,0.0,0.0,,0.0,253,133,4.6
+2024-11-02,202411020PHI,PHI,Adem Bona,https://www.basketball-reference.com/boxscores/202411020PHI.html,1:27,1.000,1.000,.000,.000,67.6,0.0,38.9,0.0,0.0,0.0,50.0,59.2,95,133,-5.8
+2024-11-02,202411020PHI,PHI,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202411020PHI.html,1:27,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.6,0,133,-36.7

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-23,201912230DET,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/201912230DET.html,37:15,.571,.571,.000,.000,18.9,24.4,21.5,52.5,0.0,0.0,22.2,20.7,137,120,4.8
+2019-12-23,201912230DET,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/201912230DET.html,34:15,.784,.762,.333,.143,3.4,22.7,12.6,13.0,3.0,0.0,0.0,28.0,171,114,14.7
+2019-12-23,201912230DET,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/201912230DET.html,33:00,.379,.364,.364,.182,0.0,7.9,3.7,9.4,1.5,5.4,20.2,19.4,79,114,-12.4
+2019-12-23,201912230DET,PHI,Al Horford,https://www.basketball-reference.com/boxscores/201912230DET.html,30:53,.643,.643,.429,.000,0.0,25.2,12.0,13.6,1.6,2.9,0.0,9.7,159,114,2.8
+2019-12-23,201912230DET,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/201912230DET.html,27:53,.859,.833,.111,.667,12.6,23.3,17.7,12.9,1.8,9.6,20.5,22.5,144,108,9.8
+2019-12-23,201912230DET,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/201912230DET.html,24:01,.429,.429,.571,.000,19.5,16.2,17.9,8.3,0.0,7.4,12.5,14.3,121,115,-2.5
+2019-12-23,201912230DET,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201912230DET.html,21:42,.656,.656,.438,.000,10.8,12.0,11.3,0.0,7.0,0.0,0.0,31.6,145,107,12.1
+2019-12-23,201912230DET,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/201912230DET.html,17:18,.583,.583,.667,.000,6.8,0.0,3.6,0.0,0.0,0.0,0.0,14.9,138,123,-6.8
+2019-12-23,201912230DET,PHI,Trey Burke,https://www.basketball-reference.com/boxscores/201912230DET.html,10:44,.000,.000,.000,.000,0.0,0.0,0.0,8.6,0.0,0.0,25.0,16.0,22,123,-30.3
+2019-12-23,201912230DET,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/201912230DET.html,0:58,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.4,200,123,33.8
+2019-12-23,201912230DET,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/201912230DET.html,0:58,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-30.5
+2019-12-23,201912230DET,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/201912230DET.html,0:58,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-8.1
+2019-12-23,201912230DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/201912230DET.html,32:11,.825,.857,.714,.286,0.0,7.3,3.8,16.1,0.0,0.0,0.0,11.2,164,139,1.9
+2019-12-23,201912230DET,DET,Tony Snell,https://www.basketball-reference.com/boxscores/201912230DET.html,31:36,.667,.667,.667,.000,0.0,7.4,3.9,0.0,0.0,0.0,25.0,11.6,87,139,-9.4
+2019-12-23,201912230DET,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/201912230DET.html,27:28,.247,.143,.429,.357,4.7,17.0,11.2,13.3,3.7,0.0,5.8,28.6,65,127,-14.7
+2019-12-23,201912230DET,DET,Tim Frazier,https://www.basketball-reference.com/boxscores/201912230DET.html,22:42,.700,.700,.400,.000,0.0,5.2,2.7,28.8,2.2,0.0,28.6,14.1,115,134,-4.9
+2019-12-23,201912230DET,DET,Thon Maker,https://www.basketball-reference.com/boxscores/201912230DET.html,9:40,.410,.250,.500,.500,13.4,24.2,19.1,0.0,0.0,0.0,17.0,27.8,82,133,-16.0
+2019-12-23,201912230DET,DET,Andre Drummond,https://www.basketball-reference.com/boxscores/201912230DET.html,32:27,.800,.813,.000,.125,12.0,21.6,17.1,18.7,1.6,0.0,5.6,25.2,152,130,9.4
+2019-12-23,201912230DET,DET,Langston Galloway,https://www.basketball-reference.com/boxscores/201912230DET.html,31:14,.355,.313,.375,.125,4.2,0.0,2.0,15.4,1.6,0.0,19.2,15.3,82,138,-8.6
+2019-12-23,201912230DET,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/201912230DET.html,25:17,.538,.500,.286,.143,0.0,13.9,7.3,44.7,4.0,2.9,11.8,30.5,110,126,5.4
+2019-12-23,201912230DET,DET,Markieff Morris,https://www.basketball-reference.com/boxscores/201912230DET.html,22:08,.935,1.000,.600,.400,0.0,15.9,8.3,6.3,2.3,0.0,14.5,14.2,144,130,4.2
+2019-12-23,201912230DET,DET,Christian Wood,https://www.basketball-reference.com/boxscores/201912230DET.html,4:15,.800,.800,.200,.000,0.0,0.0,0.0,0.0,11.9,0.0,16.7,64.6,134,114,19.5
+2019-12-23,201912230DET,DET,Sekou Doumbouya,https://www.basketball-reference.com/boxscores/201912230DET.html,0:58,.568,,,,0.0,100.0,63.7,0.0,0.0,0.0,0.0,41.6,123,97,2.2

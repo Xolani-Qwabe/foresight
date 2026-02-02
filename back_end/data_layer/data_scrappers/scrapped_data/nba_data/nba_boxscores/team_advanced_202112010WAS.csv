@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-01,202112010WAS,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202112010WAS.html,39:02,.253,.194,.667,.222,2.5,12.0,6.8,33.2,0.0,4.2,13.2,25.1,72,121,-8.2
+2021-12-01,202112010WAS,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202112010WAS.html,38:25,.609,.529,.529,.471,0.0,9.1,4.1,13.3,1.3,2.1,12.8,26.4,115,120,4.8
+2021-12-01,202112010WAS,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202112010WAS.html,33:28,.667,.667,.000,.000,11.5,28.0,18.9,0.0,0.0,4.9,0.0,3.9,167,115,0.5
+2021-12-01,202112010WAS,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202112010WAS.html,32:57,.570,.480,.160,.440,14.6,17.8,16.0,6.9,1.5,2.5,9.1,42.9,116,116,7.4
+2021-12-01,202112010WAS,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202112010WAS.html,15:32,.563,.625,.750,.250,0.0,15.1,6.8,0.0,0.0,0.0,0.0,12.3,114,121,-5.6
+2021-12-01,202112010WAS,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202112010WAS.html,23:10,.571,.571,.714,.000,0.0,20.2,9.1,6.7,0.0,0.0,12.5,14.9,105,120,-3.1
+2021-12-01,202112010WAS,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202112010WAS.html,18:12,.650,.650,.300,.000,10.5,6.4,8.7,0.0,0.0,0.0,16.7,28.4,110,124,-4.0
+2021-12-01,202112010WAS,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202112010WAS.html,17:09,.694,.500,.500,1.000,0.0,0.0,0.0,8.2,2.9,0.0,0.0,7.2,159,120,-1.2
+2021-12-01,202112010WAS,MIN,Leandro Bolmaro,https://www.basketball-reference.com/boxscores/202112010WAS.html,15:42,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.7,200,126,-8.6
+2021-12-01,202112010WAS,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202112010WAS.html,6:23,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.7,200,127,-1.1
+2021-12-01,202112010WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202112010WAS.html,38:04,.437,.425,.250,.200,9.2,7.6,8.3,32.5,1.3,0.0,12.1,27.6,104,115,-2.3
+2021-12-01,202112010WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202112010WAS.html,31:42,.417,.417,.500,.000,0.0,18.2,10.0,18.0,1.6,8.9,25.0,10.7,92,105,-0.2
+2021-12-01,202112010WAS,WAS,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202112010WAS.html,31:09,.167,.167,.778,.000,3.8,15.4,10.2,39.0,0.0,0.0,10.0,13.6,97,115,-6.3
+2021-12-01,202112010WAS,WAS,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202112010WAS.html,27:12,.521,.500,.462,.077,12.9,3.5,7.8,9.8,3.7,0.0,6.9,22.5,117,111,0.2
+2021-12-01,202112010WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202112010WAS.html,26:48,.705,.636,.000,.364,17.5,21.5,19.7,5.5,1.9,10.5,19.0,24.9,123,102,3.7
+2021-12-01,202112010WAS,WAS,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202112010WAS.html,21:12,.870,.917,.000,.667,5.5,18.1,12.4,33.8,0.0,0.0,11.4,35.0,149,114,17.5
+2021-12-01,202112010WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202112010WAS.html,19:51,.563,.563,.500,.000,5.9,29.0,18.6,6.8,2.5,4.7,0.0,17.1,127,102,2.7
+2021-12-01,202112010WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202112010WAS.html,16:51,.387,.333,.333,.667,0.0,5.7,3.1,13.5,0.0,0.0,0.0,9.8,110,119,-10.3
+2021-12-01,202112010WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202112010WAS.html,16:18,1.090,1.083,.667,.333,0.0,17.7,9.7,0.0,0.0,0.0,12.7,20.5,166,114,14.1
+2021-12-01,202112010WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202112010WAS.html,10:53,.333,.333,.667,.000,10.8,26.5,19.4,0.0,0.0,0.0,0.0,11.7,95,111,-8.4

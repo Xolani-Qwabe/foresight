@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-23,202412230CLE,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202412230CLE.html,38:27,.521,.667,.167,1.000,20.8,23.2,21.9,11.3,0.0,8.3,0.0,9.0,141,125,1.4
+2024-12-23,202412230CLE,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202412230CLE.html,36:20,.545,.545,.455,.000,2.8,6.1,4.4,26.6,1.4,0.0,15.4,28.5,107,131,-2.3
+2024-12-23,202412230CLE,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202412230CLE.html,31:58,.540,.476,.667,.333,9.4,14.0,11.6,5.5,0.0,0.0,4.0,31.3,124,132,0.8
+2024-12-23,202412230CLE,UTA,Micah Potter,https://www.basketball-reference.com/boxscores/202412230CLE.html,26:12,.786,.786,.857,.000,7.6,21.3,14.1,11.9,1.9,4.1,12.5,12.2,148,123,7.8
+2024-12-23,202412230CLE,UTA,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202412230CLE.html,25:23,.506,.500,.500,.200,0.0,13.2,6.2,18.6,1.9,0.0,15.5,20.2,102,128,-2.8
+2024-12-23,202412230CLE,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202412230CLE.html,33:29,.618,.500,.294,.647,0.0,20.0,9.5,25.6,2.9,3.2,15.5,30.8,123,122,4.5
+2024-12-23,202412230CLE,UTA,Johnny Juzang,https://www.basketball-reference.com/boxscores/202412230CLE.html,14:10,.750,.750,1.000,.000,7.1,0.0,3.7,0.0,0.0,0.0,50.0,11.3,71,136,-12.6
+2024-12-23,202412230CLE,UTA,Isaiah Collier,https://www.basketball-reference.com/boxscores/202412230CLE.html,13:38,.000,.000,.000,.000,7.3,0.0,3.9,37.1,0.0,0.0,50.0,5.8,105,136,-9.9
+2024-12-23,202412230CLE,UTA,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202412230CLE.html,10:50,.250,.250,.250,.000,9.2,20.6,14.6,26.4,4.5,0.0,0.0,14.7,102,119,-4.1
+2024-12-23,202412230CLE,UTA,Kyle Filipowski,https://www.basketball-reference.com/boxscores/202412230CLE.html,9:33,.000,.000,.000,.000,10.5,35.1,22.1,26.5,0.0,0.0,33.3,12.5,59,126,-13.3
+2024-12-23,202412230CLE,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202412230CLE.html,33:42,.640,.600,.533,.333,0.0,8.9,4.7,30.2,4.4,0.0,5.5,23.5,136,113,8.8
+2024-12-23,202412230CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202412230CLE.html,33:42,.615,.618,.294,.118,6.6,23.7,15.7,18.9,1.5,8.9,10.1,25.7,119,109,6.4
+2024-12-23,202412230CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202412230CLE.html,32:41,.710,.679,.429,.357,3.4,6.1,4.8,37.6,1.5,0.0,11.0,24.3,142,122,6.9
+2024-12-23,202412230CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202412230CLE.html,26:54,.451,.333,.000,.667,8.3,14.9,11.8,9.1,0.0,0.0,11.4,14.2,109,121,-7.8
+2024-12-23,202412230CLE,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202412230CLE.html,23:58,.776,.750,.917,.167,4.7,0.0,2.2,25.9,6.2,0.0,7.2,25.2,147,114,18.3
+2024-12-23,202412230CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202412230CLE.html,23:56,.671,.583,.500,.833,4.7,8.4,6.6,5.4,0.0,0.0,0.0,14.9,148,124,-3.7
+2024-12-23,202412230CLE,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202412230CLE.html,21:45,.333,.333,.667,.000,10.3,18.4,14.6,10.8,0.0,0.0,0.0,6.0,131,118,-7.1
+2024-12-23,202412230CLE,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202412230CLE.html,21:15,.500,.500,.750,.000,5.3,28.2,17.4,18.7,2.3,0.0,20.0,20.5,97,107,-4.0
+2024-12-23,202412230CLE,CLE,Ty Jerome,https://www.basketball-reference.com/boxscores/202412230CLE.html,13:54,.357,.357,.714,.000,0.0,0.0,0.0,19.1,0.0,0.0,0.0,22.0,91,128,-14.6
+2024-12-23,202412230CLE,CLE,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202412230CLE.html,8:13,.667,.667,.000,.000,0.0,12.2,6.4,0.0,6.0,0.0,0.0,15.9,125,107,-0.7

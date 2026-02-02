@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-26,202001260NYK,BRK,Garrett Temple,https://www.basketball-reference.com/boxscores/202001260NYK.html,33:43,.458,.458,.667,.000,0.0,10.4,5.2,15.1,1.5,2.0,0.0,16.3,101,116,-1.1
+2020-01-26,202001260NYK,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202001260NYK.html,32:21,.537,.471,.235,.588,0.0,14.5,7.2,31.4,0.0,2.0,12.3,34.4,104,118,1.0
+2020-01-26,202001260NYK,BRK,Jarrett Allen,https://www.basketball-reference.com/boxscores/202001260NYK.html,31:36,.644,.667,.000,.667,7.4,11.1,9.3,0.0,0.0,4.2,34.0,8.5,93,117,-8.5
+2020-01-26,202001260NYK,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202001260NYK.html,31:35,.550,.550,.500,.000,3.7,11.1,7.4,5.8,3.2,0.0,16.7,17.3,93,113,-3.5
+2020-01-26,202001260NYK,BRK,Taurean Prince,https://www.basketball-reference.com/boxscores/202001260NYK.html,28:31,.618,.550,.700,.300,0.0,12.3,6.2,24.7,0.0,0.0,15.0,21.3,114,119,0.8
+2020-01-26,202001260NYK,BRK,Caris LeVert,https://www.basketball-reference.com/boxscores/202001260NYK.html,22:45,.254,.167,.500,.333,5.1,10.3,7.7,21.3,2.2,0.0,6.8,29.6,67,115,-14.1
+2020-01-26,202001260NYK,BRK,Rodions Kurucs,https://www.basketball-reference.com/boxscores/202001260NYK.html,21:28,.667,.667,.444,.000,5.5,10.9,8.2,19.6,4.7,0.0,18.2,23.4,109,110,5.3
+2020-01-26,202001260NYK,BRK,Wilson Chandler,https://www.basketball-reference.com/boxscores/202001260NYK.html,16:27,.875,.875,.500,.000,0.0,21.4,10.7,0.0,0.0,0.0,33.3,16.7,93,116,-6.5
+2020-01-26,202001260NYK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202001260NYK.html,13:46,.725,1.000,.000,4.000,17.0,25.5,21.3,22.9,0.0,0.0,0.0,9.2,176,116,6.1
+2020-01-26,202001260NYK,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202001260NYK.html,2:36,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.1,127,124,18.6
+2020-01-26,202001260NYK,BRK,Džanan Musa,https://www.basketball-reference.com/boxscores/202001260NYK.html,2:36,,,,,0.0,0.0,0.0,54.3,0.0,0.0,,0.0,238,124,5.5
+2020-01-26,202001260NYK,BRK,Theo Pinson,https://www.basketball-reference.com/boxscores/202001260NYK.html,2:36,.000,.000,1.000,.000,0.0,45.0,22.5,0.0,0.0,0.0,0.0,17.6,0,111,-22.0
+2020-01-26,202001260NYK,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/202001260NYK.html,34:14,.531,.528,.222,.222,3.4,10.3,6.8,0.0,1.5,3.3,4.8,26.3,113,104,-0.8
+2020-01-26,202001260NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202001260NYK.html,33:24,.463,.455,.136,.182,21.0,31.5,26.3,4.2,0.0,3.4,20.2,38.6,89,103,-9.6
+2020-01-26,202001260NYK,NYK,Reggie Bullock,https://www.basketball-reference.com/boxscores/202001260NYK.html,31:25,.625,.625,.375,.000,0.0,18.6,9.3,3.6,1.6,0.0,0.0,11.0,142,104,1.0
+2020-01-26,202001260NYK,NYK,Elfrid Payton,https://www.basketball-reference.com/boxscores/202001260NYK.html,29:31,.450,.450,.300,.000,4.0,7.9,5.9,34.4,1.7,7.7,0.0,14.7,136,101,7.1
+2020-01-26,202001260NYK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202001260NYK.html,23:44,.619,.625,.000,.250,14.8,19.7,17.3,0.0,0.0,9.6,10.1,18.0,126,102,1.9
+2020-01-26,202001260NYK,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/202001260NYK.html,19:23,.667,.667,.333,.000,0.0,12.1,6.0,5.6,2.6,0.0,25.0,8.9,107,104,-0.9
+2020-01-26,202001260NYK,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202001260NYK.html,18:29,.611,.611,.222,.000,0.0,19.0,9.5,14.4,2.7,0.0,18.2,25.8,110,101,-2.3
+2020-01-26,202001260NYK,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/202001260NYK.html,18:07,.466,.500,.167,.167,6.5,19.4,12.9,6.5,5.6,0.0,13.4,17.8,97,95,1.4
+2020-01-26,202001260NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202001260NYK.html,17:07,1.000,1.000,.000,.000,13.7,20.5,17.1,8.7,0.0,13.4,14.3,17.7,168,98,9.9
+2020-01-26,202001260NYK,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/202001260NYK.html,14:36,.694,.750,1.000,1.000,0.0,0.0,0.0,21.6,0.0,0.0,0.0,8.6,169,112,7.9

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-09,202008090POR,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/202008090POR.html,38:03,.814,.800,.500,.100,5.3,9.2,7.1,24.7,0.0,0.0,12.6,25.2,149,125,11.2
+2020-08-09,202008090POR,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202008090POR.html,32:39,.421,.421,.211,.000,6.1,17.9,11.6,12.0,0.0,0.0,0.0,23.4,106,123,-4.0
+2020-08-09,202008090POR,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202008090POR.html,24:33,.468,.400,.300,.400,0.0,0.0,0.0,10.0,0.0,0.0,7.8,20.9,102,126,-8.2
+2020-08-09,202008090POR,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202008090POR.html,22:22,.833,.833,.444,.000,0.0,31.4,14.5,31.4,0.0,3.8,30.8,23.4,120,118,6.5
+2020-08-09,202008090POR,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202008090POR.html,5:42,.155,.167,.000,.167,35.1,41.1,37.8,21.8,0.0,0.0,13.4,52.4,57,120,-31.4
+2020-08-09,202008090POR,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202008090POR.html,33:19,.333,.333,.000,.000,12.0,17.6,14.6,9.5,4.2,2.6,40.0,6.0,100,112,0.5
+2020-08-09,202008090POR,PHI,Alec Burks,https://www.basketball-reference.com/boxscores/202008090POR.html,23:27,.653,.607,.286,.214,8.5,15.0,11.5,13.4,0.0,0.0,6.1,28.0,136,124,5.3
+2020-08-09,202008090POR,PHI,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202008090POR.html,17:23,.400,.400,.000,.000,0.0,20.2,9.3,0.0,2.7,0.0,16.7,13.9,69,117,-8.9
+2020-08-09,202008090POR,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202008090POR.html,15:58,.643,.643,.286,.000,12.5,14.7,13.5,17.2,0.0,0.0,0.0,17.6,151,124,2.6
+2020-08-09,202008090POR,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202008090POR.html,12:50,1.094,1.500,1.000,5.000,0.0,9.1,4.2,0.0,3.6,0.0,23.8,13.1,156,117,5.6
+2020-08-09,202008090POR,PHI,Norvel Pelle,https://www.basketball-reference.com/boxscores/202008090POR.html,8:05,.266,.000,.000,2.000,0.0,29.0,13.3,0.0,5.7,10.6,34.7,14.3,38,100,-11.0
+2020-08-09,202008090POR,PHI,Kyle O'Quinn,https://www.basketball-reference.com/boxscores/202008090POR.html,5:39,.000,.000,1.000,.000,0.0,41.4,19.1,0.0,0.0,0.0,0.0,14.2,0,119,-21.9
+2020-08-09,202008090POR,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202008090POR.html,40:12,.728,.643,.429,.571,0.0,7.5,4.0,35.0,2.3,0.0,14.6,43.1,130,119,12.3
+2020-08-09,202008090POR,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202008090POR.html,39:01,.471,.471,.353,.000,0.0,17.9,9.7,14.3,1.2,0.0,5.6,19.5,99,118,-4.2
+2020-08-09,202008090POR,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202008090POR.html,35:35,.639,.538,.308,.462,0.0,19.7,10.6,0.0,2.6,2.0,6.0,19.7,123,113,2.0
+2020-08-09,202008090POR,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202008090POR.html,29:02,.670,.556,.111,.556,4.0,17.2,11.1,14.3,0.0,7.4,15.2,19.2,126,115,1.0
+2020-08-09,202008090POR,POR,Zach Collins,https://www.basketball-reference.com/boxscores/202008090POR.html,22:45,.333,.333,.000,.000,15.4,13.2,14.2,10.3,2.0,3.1,0.0,5.6,133,115,0.7
+2020-08-09,202008090POR,POR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202008090POR.html,33:39,.313,.313,.750,.000,3.5,5.9,4.8,3.6,0.0,0.0,0.0,10.0,80,125,-9.6
+2020-08-09,202008090POR,POR,Mario Hezonja,https://www.basketball-reference.com/boxscores/202008090POR.html,25:26,.600,.600,.500,.000,4.6,23.6,14.8,11.2,3.6,0.0,0.0,16.6,131,110,4.6
+2020-08-09,202008090POR,POR,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202008090POR.html,12:24,.521,.500,.000,1.000,9.4,8.1,8.7,0.0,0.0,5.8,0.0,9.8,125,119,-6.2
+2020-08-09,202008090POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202008090POR.html,1:56,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.8,0,127,-28.6

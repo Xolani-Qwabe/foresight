@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-03,202104030MIA,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202104030MIA.html,38:21,.676,.625,.500,.250,6.6,7.4,7.0,33.4,2.7,0.0,25.3,14.9,123,122,-0.4
+2021-04-03,202104030MIA,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202104030MIA.html,35:49,.843,.857,.286,1.000,0.0,11.8,5.6,0.0,1.4,3.0,16.6,16.2,128,122,1.1
+2021-04-03,202104030MIA,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202104030MIA.html,35:19,.693,.647,.235,.235,0.0,12.0,5.7,20.3,4.3,0.0,21.0,32.3,105,118,0.0
+2021-04-03,202104030MIA,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202104030MIA.html,31:13,.188,.188,.750,.000,0.0,22.6,10.7,4.6,1.6,3.5,11.1,13.8,40,120,-12.2
+2021-04-03,202104030MIA,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202104030MIA.html,23:00,.506,.444,.889,.222,0.0,61.4,29.0,21.8,0.0,4.7,23.3,26.9,84,119,-3.8
+2021-04-03,202104030MIA,CLE,Taurean Prince,https://www.basketball-reference.com/boxscores/202104030MIA.html,32:22,.663,.615,.308,.231,3.9,21.8,12.4,18.1,0.0,0.0,0.0,21.2,137,127,2.7
+2021-04-03,202104030MIA,CLE,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202104030MIA.html,17:12,.740,.667,.000,2.333,7.3,16.4,11.6,0.0,0.0,6.3,14.1,19.8,133,122,-2.7
+2021-04-03,202104030MIA,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202104030MIA.html,16:38,.500,.500,.333,.000,7.6,0.0,4.0,44.9,0.0,0.0,0.0,8.7,150,129,2.0
+2021-04-03,202104030MIA,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202104030MIA.html,10:06,.167,.167,.333,.000,0.0,0.0,0.0,31.4,0.0,0.0,0.0,28.5,54,129,-21.3
+2021-04-03,202104030MIA,MIA,Trevor Ariza,https://www.basketball-reference.com/boxscores/202104030MIA.html,32:25,.759,.778,.889,.222,0.0,7.8,4.1,0.0,0.0,0.0,0.0,14.6,131,113,-0.7
+2021-04-03,202104030MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202104030MIA.html,32:03,.677,.500,.000,.875,8.8,15.8,12.5,43.3,3.2,0.0,8.3,18.1,159,105,10.1
+2021-04-03,202104030MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202104030MIA.html,30:31,.750,.750,.083,.000,9.3,37.3,24.0,26.4,1.7,3.7,7.7,20.4,147,102,10.7
+2021-04-03,202104030MIA,MIA,Victor Oladipo,https://www.basketball-reference.com/boxscores/202104030MIA.html,29:35,.288,.269,.462,.154,0.0,4.3,2.3,20.7,3.4,3.8,22.4,29.0,62,102,-16.0
+2021-04-03,202104030MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202104030MIA.html,29:00,1.000,1.000,1.000,.000,0.0,13.1,6.9,9.7,1.8,0.0,18.2,18.2,130,108,8.2
+2021-04-03,202104030MIA,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202104030MIA.html,26:46,.650,.650,.600,.000,0.0,9.4,5.0,20.5,0.0,0.0,9.1,19.7,119,113,-0.3
+2021-04-03,202104030MIA,MIA,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202104030MIA.html,24:11,.442,.450,.500,.300,0.0,36.6,19.3,27.5,0.0,0.0,8.1,24.4,97,109,-5.4
+2021-04-03,202104030MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202104030MIA.html,23:02,.635,.571,.429,.286,0.0,16.5,8.7,5.8,0.0,0.0,0.0,16.4,128,112,-5.0
+2021-04-03,202104030MIA,MIA,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202104030MIA.html,8:53,1.000,1.000,.000,.000,0.0,28.4,15.0,19.4,0.0,12.6,25.0,21.6,132,101,11.7
+2021-04-03,202104030MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202104030MIA.html,1:47,,,,,0.0,0.0,0.0,61.2,0.0,0.0,,0.0,234,113,2.5
+2021-04-03,202104030MIA,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202104030MIA.html,1:47,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.9,200,113,2.7

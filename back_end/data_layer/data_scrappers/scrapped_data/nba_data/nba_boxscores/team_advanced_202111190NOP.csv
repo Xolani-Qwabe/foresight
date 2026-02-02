@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-19,202111190NOP,LAC,Paul George,https://www.basketball-reference.com/boxscores/202111190NOP.html,34:38,.365,.365,.538,.000,0.0,20.6,9.9,36.3,1.5,0.0,3.7,36.3,79,102,1.2
+2021-11-19,202111190NOP,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202111190NOP.html,30:47,.721,.714,.714,.429,6.1,3.3,4.8,0.0,1.7,0.0,10.7,14.1,126,108,0.8
+2021-11-19,202111190NOP,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202111190NOP.html,28:24,.800,.800,.000,.000,9.9,28.8,19.0,24.8,0.0,3.0,16.7,9.8,148,100,5.2
+2021-11-19,202111190NOP,LAC,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202111190NOP.html,27:38,.335,.300,.300,.100,0.0,18.5,8.9,18.1,3.8,0.0,16.1,20.9,66,98,-5.3
+2021-11-19,202111190NOP,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202111190NOP.html,25:20,.182,.182,.273,.000,0.0,8.1,3.9,12.5,0.0,0.0,26.7,27.5,33,110,-22.7
+2021-11-19,202111190NOP,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202111190NOP.html,30:14,.250,.250,.667,.000,0.0,10.1,4.9,10.3,1.7,0.0,0.0,18.5,59,106,-7.3
+2021-11-19,202111190NOP,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202111190NOP.html,26:31,.688,.688,.250,.000,3.5,15.4,9.2,7.3,0.0,0.0,11.1,15.8,117,108,0.6
+2021-11-19,202111190NOP,LAC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202111190NOP.html,19:25,.739,.714,.000,.143,9.7,21.0,15.1,22.8,5.4,13.0,11.8,20.2,134,83,17.8
+2021-11-19,202111190NOP,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202111190NOP.html,13:55,.750,.750,1.000,.000,0.0,7.3,3.5,22.6,0.0,0.0,0.0,6.7,159,111,2.1
+2021-11-19,202111190NOP,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202111190NOP.html,1:34,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.7,0,113,-30.6
+2021-11-19,202111190NOP,LAC,Jay Scrubb,https://www.basketball-reference.com/boxscores/202111190NOP.html,1:34,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.7,0,113,-30.6
+2021-11-19,202111190NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202111190NOP.html,39:07,.453,.441,.294,.235,2.6,26.5,15.0,20.0,0.0,0.0,24.2,29.3,81,90,-5.5
+2021-11-19,202111190NOP,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111190NOP.html,38:15,.654,.658,.474,.105,13.4,19.7,16.6,9.9,1.4,0.0,4.8,25.3,136,89,12.4
+2021-11-19,202111190NOP,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202111190NOP.html,35:08,.633,.633,.133,.000,2.9,24.1,13.9,21.3,3.0,0.0,6.3,21.1,130,84,8.6
+2021-11-19,202111190NOP,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111190NOP.html,27:04,.400,.400,.600,.000,0.0,20.9,10.9,0.0,0.0,0.0,9.1,18.8,77,92,-7.7
+2021-11-19,202111190NOP,NOP,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111190NOP.html,25:25,.400,.400,.000,.000,8.0,11.1,9.6,11.0,0.0,0.0,16.7,10.9,97,95,-6.2
+2021-11-19,202111190NOP,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202111190NOP.html,26:57,.000,.000,.333,.000,3.8,7.0,5.5,4.7,1.9,3.4,25.0,6.9,32,89,-5.9
+2021-11-19,202111190NOP,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111190NOP.html,22:35,.667,.667,.250,.000,9.0,8.3,8.7,36.8,7.0,0.0,7.7,26.7,137,80,20.8
+2021-11-19,202111190NOP,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202111190NOP.html,14:33,.000,.000,.750,.000,0.0,6.5,3.4,8.7,7.2,0.0,20.0,15.9,14,80,-8.8
+2021-11-19,202111190NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202111190NOP.html,9:45,.694,.500,.500,1.000,0.0,9.7,5.0,0.0,0.0,0.0,0.0,13.7,152,95,-1.3
+2021-11-19,202111190NOP,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202111190NOP.html,1:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,98,-6.6

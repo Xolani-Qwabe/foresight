@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-05-30,202105300BOS,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202105300BOS.html,40.55,11,24,.458,6,12,.500,11,11,1.000,3,8,11,2,2,0,1,4,39,31.9,+15
+2021-05-30,202105300BOS,BRK,James Harden,https://www.basketball-reference.com/boxscores/202105300BOS.html,40.48,8,12,.667,2,5,.400,5,6,.833,1,4,5,18,2,2,6,3,23,28.1,+8
+2021-05-30,202105300BOS,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202105300BOS.html,39.85,14,20,.700,3,3,1.000,11,11,1.000,1,3,4,5,1,2,1,4,42,38.5,+3
+2021-05-30,202105300BOS,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202105300BOS.html,37.13,5,9,.556,4,5,.800,0,0,,0,4,4,3,0,0,0,3,14,11.8,+17
+2021-05-30,202105300BOS,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202105300BOS.html,18.37,1,3,.333,0,0,,0,0,,2,0,2,0,0,1,0,2,2,1.6,+12
+2021-05-30,202105300BOS,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202105300BOS.html,23.7,6,10,.600,0,0,,2,2,1.000,2,5,7,1,0,1,0,5,14,11.7,-4
+2021-05-30,202105300BOS,BRK,Tyler Johnson,https://www.basketball-reference.com/boxscores/202105300BOS.html,16.03,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,4,2,1.1,+5
+2021-05-30,202105300BOS,BRK,Landry Shamet,https://www.basketball-reference.com/boxscores/202105300BOS.html,13.23,2,4,.500,1,2,.500,0,0,,0,2,2,0,2,0,1,2,5,3.8,+6
+2021-05-30,202105300BOS,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202105300BOS.html,7.97,0,0,,0,0,,0,0,,0,1,1,0,0,3,0,1,0,2.0,+14
+2021-05-30,202105300BOS,BRK,Mike James,https://www.basketball-reference.com/boxscores/202105300BOS.html,0.92,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2021-05-30,202105300BOS,BRK,Chris Chiozza,https://www.basketball-reference.com/boxscores/202105300BOS.html,0.88,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-05-30,202105300BOS,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202105300BOS.html,0.88,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-05-30,202105300BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202105300BOS.html,40.42,10,22,.455,3,7,.429,17,17,1.000,1,6,7,5,1,2,2,3,40,33.8,-9
+2021-05-30,202105300BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202105300BOS.html,33.62,4,12,.333,2,9,.222,6,7,.857,1,5,6,9,2,0,2,4,16,15.7,-9
+2021-05-30,202105300BOS,BOS,Evan Fournier,https://www.basketball-reference.com/boxscores/202105300BOS.html,27.88,5,15,.333,2,9,.222,4,4,1.000,0,0,0,2,1,0,0,3,16,8.7,-24
+2021-05-30,202105300BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202105300BOS.html,25.77,2,6,.333,1,3,.333,4,4,1.000,1,0,1,1,0,0,1,0,9,6.0,-13
+2021-05-30,202105300BOS,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202105300BOS.html,22.5,2,4,.500,0,0,,1,2,.500,3,3,6,1,2,0,0,4,5,6.7,-15
+2021-05-30,202105300BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202105300BOS.html,23.68,5,9,.556,2,4,.500,0,0,,1,1,2,3,1,0,1,0,12,10.8,-1
+2021-05-30,202105300BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202105300BOS.html,20.82,1,3,.333,1,2,.500,2,2,1.000,2,0,2,2,0,1,0,1,5,6.4,-11
+2021-05-30,202105300BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202105300BOS.html,19.13,4,6,.667,3,5,.600,0,0,,0,2,2,0,0,0,1,3,11,6.8,-1
+2021-05-30,202105300BOS,BOS,Jabari Parker,https://www.basketball-reference.com/boxscores/202105300BOS.html,17.25,4,5,.800,0,0,,2,2,1.000,2,4,6,1,0,1,2,3,10,8.9,+9
+2021-05-30,202105300BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202105300BOS.html,5.27,0,2,.000,0,1,.000,1,2,.500,0,0,0,0,1,0,0,0,1,0.2,-5
+2021-05-30,202105300BOS,BOS,Tremont Waters,https://www.basketball-reference.com/boxscores/202105300BOS.html,0.92,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,1,0,1,-0.4,+1
+2021-05-30,202105300BOS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202105300BOS.html,0.92,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2021-05-30,202105300BOS,BOS,Tacko Fall,https://www.basketball-reference.com/boxscores/202105300BOS.html,0.92,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1
+2021-05-30,202105300BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202105300BOS.html,0.92,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1

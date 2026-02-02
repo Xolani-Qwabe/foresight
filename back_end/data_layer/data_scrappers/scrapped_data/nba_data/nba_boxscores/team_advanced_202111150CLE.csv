@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-15,202111150CLE,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202111150CLE.html,36:48,.504,.500,.385,.154,0.0,11.1,5.9,23.1,2.8,0.0,17.8,21.8,91,99,-1.8
+2021-11-15,202111150CLE,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202111150CLE.html,35:40,.498,.400,.400,.350,3.3,20.0,12.2,25.3,1.4,6.3,8.0,33.5,103,95,5.1
+2021-11-15,202111150CLE,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202111150CLE.html,34:26,.549,.455,.091,.364,0.0,5.9,3.2,14.4,1.5,0.0,19.0,21.8,95,103,-6.5
+2021-11-15,202111150CLE,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202111150CLE.html,31:41,.850,.850,.400,.000,0.0,29.0,15.5,17.9,0.0,7.0,9.1,16.5,146,96,11.5
+2021-11-15,202111150CLE,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202111150CLE.html,13:13,.000,.000,.000,.000,8.9,38.6,24.8,0.0,0.0,0.0,33.3,10.8,26,98,-14.5
+2021-11-15,202111150CLE,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202111150CLE.html,25:29,.750,.750,.333,.000,4.6,16.0,10.7,6.6,0.0,8.8,14.3,13.1,125,98,4.1
+2021-11-15,202111150CLE,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202111150CLE.html,23:31,.786,.786,.857,.000,0.0,17.4,9.3,7.3,2.2,0.0,0.0,14.2,146,98,8.1
+2021-11-15,202111150CLE,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202111150CLE.html,15:28,.181,.000,.000,4.000,7.6,13.2,10.6,17.2,6.6,0.0,0.0,8.5,89,89,5.1
+2021-11-15,202111150CLE,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202111150CLE.html,10:50,.515,.333,.667,.667,0.0,28.3,15.1,14.0,0.0,0.0,20.5,21.5,92,101,-5.6
+2021-11-15,202111150CLE,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202111150CLE.html,8:02,.727,.667,.000,.333,29.1,0.0,13.6,0.0,0.0,0.0,36.8,32.2,99,108,-9.5
+2021-11-15,202111150CLE,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202111150CLE.html,4:52,.000,.000,.500,.000,0.0,0.0,0.0,54.8,0.0,0.0,0.0,19.6,53,109,-10.1
+2021-11-15,202111150CLE,CLE,Ricky Rubio,https://www.basketball-reference.com/boxscores/202111150CLE.html,37:13,.607,.550,.400,.350,0.0,18.9,8.8,12.6,0.0,0.0,11.5,32.6,108,108,2.4
+2021-11-15,202111150CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202111150CLE.html,35:08,.000,.000,.500,.000,0.0,26.7,12.4,0.0,0.0,0.0,0.0,5.3,0,107,-11.4
+2021-11-15,202111150CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202111150CLE.html,34:43,.521,.500,.467,.200,0.0,3.4,1.6,11.7,1.5,0.0,15.5,25.9,89,107,-3.9
+2021-11-15,202111150CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202111150CLE.html,31:32,.615,.563,.500,.500,3.2,14.9,8.6,17.6,4.9,0.0,9.3,15.9,124,98,6.5
+2021-11-15,202111150CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202111150CLE.html,28:40,.042,.000,.182,.182,10.7,24.5,17.1,26.2,0.0,6.8,20.2,24.2,42,102,-12.4
+2021-11-15,202111150CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202111150CLE.html,31:19,.765,.765,.706,.000,0.0,7.5,3.5,46.0,3.3,0.0,0.0,25.3,153,103,21.7
+2021-11-15,202111150CLE,CLE,Denzel Valentine,https://www.basketball-reference.com/boxscores/202111150CLE.html,22:02,.429,.429,.714,.000,13.9,31.9,22.3,7.9,0.0,0.0,30.0,21.1,77,106,-6.7
+2021-11-15,202111150CLE,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202111150CLE.html,11:05,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,8.8,0.0,4.2,200,104,-0.8
+2021-11-15,202111150CLE,CLE,Tacko Fall,https://www.basketball-reference.com/boxscores/202111150CLE.html,8:18,,,,,0.0,28.2,13.1,0.0,0.0,0.0,,0.0,0,107,-3.5

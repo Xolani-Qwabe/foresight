@@ -1,0 +1,74 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-12-10,202212100CHI,DAL,Q1,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202212100CHI.html,10.4,6,8,.750,3,3,1.000,0,0,0,1,1,3,0,0,0,1,15,13.8,-7,
+2022-12-10,202212100CHI,DAL,Q1,Christian Wood,https://www.basketball-reference.com/boxscores/202212100CHI.html,9.72,2,4,.500,1,1,1.000,2,3,0,2,2,0,0,0,2,0,7,3.2,-11,.667
+2022-12-10,202212100CHI,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.22,0,3,.000,0,3,.000,0,0,0,1,1,0,0,0,0,0,0,-1.8,-16,
+2022-12-10,202212100CHI,DAL,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.5,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,2,0,0,-2.7,-15,
+2022-12-10,202212100CHI,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.5,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,4,3.3,-15,
+2022-12-10,202212100CHI,DAL,Q1,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.5,0,0,,0,0,,0,0,0,1,1,1,0,1,0,0,0,1.7,+5,
+2022-12-10,202212100CHI,DAL,Q1,Reggie Bullock,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.78,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,+6,
+2022-12-10,202212100CHI,DAL,Q1,Kemba Walker,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.78,2,3,.667,0,0,,0,0,0,1,1,1,0,1,0,0,4,4.4,+6,
+2022-12-10,202212100CHI,DAL,Q1,JaVale McGee,https://www.basketball-reference.com/boxscores/202212100CHI.html,1.6,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2022-12-10,202212100CHI,DAL,Q2,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.93,1,2,.500,0,1,.000,5,6,0,2,2,1,0,0,1,0,7,5.9,-9,.833
+2022-12-10,202212100CHI,DAL,Q2,Christian Wood,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.12,0,3,.000,0,3,.000,0,0,0,2,2,2,0,1,0,0,0,0.6,-13,
+2022-12-10,202212100CHI,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.58,2,6,.333,1,4,.250,0,0,0,0,0,0,0,0,0,1,5,1.2,-7,
+2022-12-10,202212100CHI,DAL,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2022-12-10,202212100CHI,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.93,1,2,.500,0,0,,0,0,0,2,2,0,0,0,0,1,2,1.2,+1,
+2022-12-10,202212100CHI,DAL,Q2,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.42,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-12,
+2022-12-10,202212100CHI,DAL,Q2,Reggie Bullock,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.3,1,1,1.000,1,1,1.000,0,0,0,1,1,1,1,0,0,0,3,4.7,-2,
+2022-12-10,202212100CHI,DAL,Q2,Jaden Hardy,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.7,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-17,
+2022-12-10,202212100CHI,DAL,Q2,Kemba Walker,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.07,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,2,0,-1.5,-10,
+2022-12-10,202212100CHI,DAL,Q2,JaVale McGee,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.42,1,1,1.000,0,0,,1,2,0,0,0,0,0,0,0,3,3,1.1,-12,.500
+2022-12-10,202212100CHI,DAL,Q2,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202212100CHI.html,4.23,1,3,.333,1,3,.333,0,0,1,0,1,0,1,0,0,0,3,3.0,-12,
+2022-12-10,202212100CHI,DAL,Q3,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202212100CHI.html,9.83,2,5,.400,0,2,.000,1,1,1,0,1,4,1,0,0,1,5,6.4,+1,1.000
+2022-12-10,202212100CHI,DAL,Q3,Christian Wood,https://www.basketball-reference.com/boxscores/202212100CHI.html,12.0,6,8,.750,2,3,.667,0,0,1,4,5,0,0,0,0,0,14,12.7,+1,
+2022-12-10,202212100CHI,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.78,2,4,.500,1,3,.333,2,2,0,0,0,0,0,0,1,0,7,4.0,+2,1.000
+2022-12-10,202212100CHI,DAL,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.55,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+4,
+2022-12-10,202212100CHI,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.55,0,0,,0,0,,0,0,2,1,3,0,0,0,0,0,0,1.7,+4,
+2022-12-10,202212100CHI,DAL,Q3,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.45,0,1,.000,0,0,,0,0,1,0,1,1,0,0,0,0,0,0.7,-3,
+2022-12-10,202212100CHI,DAL,Q3,Reggie Bullock,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.45,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2022-12-10,202212100CHI,DAL,Q3,Jaden Hardy,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.22,3,5,.600,0,1,.000,0,0,0,0,0,0,0,0,0,1,6,3.3,-1,
+2022-12-10,202212100CHI,DAL,Q3,Kemba Walker,https://www.basketball-reference.com/boxscores/202212100CHI.html,2.17,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,0,
+2022-12-10,202212100CHI,DAL,Q4,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202212100CHI.html,12.0,0,4,.000,0,2,.000,0,0,0,3,3,3,0,0,0,1,0,-0.2,-1,
+2022-12-10,202212100CHI,DAL,Q4,Reggie Bullock,https://www.basketball-reference.com/boxscores/202212100CHI.html,4.82,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+2,
+2022-12-10,202212100CHI,DAL,Q4,Jaden Hardy,https://www.basketball-reference.com/boxscores/202212100CHI.html,12.0,2,6,.333,0,2,.000,5,5,0,1,1,1,1,1,1,0,9,7.3,-1,1.000
+2022-12-10,202212100CHI,DAL,Q4,Kemba Walker,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.48,0,1,.000,0,1,.000,4,5,1,0,1,3,0,0,0,1,4,5.3,+6,.800
+2022-12-10,202212100CHI,DAL,Q4,JaVale McGee,https://www.basketball-reference.com/boxscores/202212100CHI.html,12.0,7,9,.778,1,3,.333,0,0,1,3,4,0,0,0,0,1,15,12.7,-1,
+2022-12-10,202212100CHI,DAL,Q4,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202212100CHI.html,7.18,0,1,.000,0,1,.000,2,2,0,2,2,0,0,0,1,0,2,0.9,-3,1.000
+2022-12-10,202212100CHI,DAL,Q4,Theo Pinson,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.52,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,
+2022-12-10,202212100CHI,CHI,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212100CHI.html,7.82,1,2,.500,0,1,.000,2,2,0,3,3,2,0,0,1,0,4,4.3,+19,1.000
+2022-12-10,202212100CHI,CHI,Q1,Patrick Williams,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.5,2,3,.667,2,3,.667,0,0,0,0,0,2,0,1,0,0,6,6.8,+15,
+2022-12-10,202212100CHI,CHI,Q1,Zach LaVine,https://www.basketball-reference.com/boxscores/202212100CHI.html,10.4,5,7,.714,1,3,.333,0,0,0,1,1,0,2,0,0,0,11,10.4,+7,
+2022-12-10,202212100CHI,CHI,Q1,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212100CHI.html,10.4,3,4,.750,2,2,1.000,2,2,0,3,3,2,0,0,0,0,10,10.7,+7,1.000
+2022-12-10,202212100CHI,CHI,Q1,Alex Caruso,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.22,0,0,,0,0,,1,2,0,1,1,1,1,0,0,0,1,2.6,+16,.500
+2022-12-10,202212100CHI,CHI,Q1,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.78,1,2,.500,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.0,-6,
+2022-12-10,202212100CHI,CHI,Q1,Coby White,https://www.basketball-reference.com/boxscores/202212100CHI.html,4.18,0,2,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,0.3,-9,
+2022-12-10,202212100CHI,CHI,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.5,2,3,.667,2,2,1.000,0,0,0,0,0,0,0,0,0,1,6,4.3,-5,
+2022-12-10,202212100CHI,CHI,Q1,Andre Drummond,https://www.basketball-reference.com/boxscores/202212100CHI.html,1.6,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2022-12-10,202212100CHI,CHI,Q1,Goran Dragić,https://www.basketball-reference.com/boxscores/202212100CHI.html,1.6,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,+3,
+2022-12-10,202212100CHI,CHI,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212100CHI.html,9.67,3,3,1.000,0,0,,7,7,0,4,4,3,0,0,0,1,13,15.0,+23,1.000
+2022-12-10,202212100CHI,CHI,Q2,Patrick Williams,https://www.basketball-reference.com/boxscores/202212100CHI.html,10.32,2,4,.500,2,2,1.000,0,0,0,1,1,0,0,0,0,0,6,4.3,+11,
+2022-12-10,202212100CHI,CHI,Q2,Zach LaVine,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.3,1,1,1.000,0,0,,0,0,0,1,1,3,0,0,1,0,2,3.1,+2,
+2022-12-10,202212100CHI,CHI,Q2,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.87,3,4,.750,0,1,.000,0,0,0,2,2,0,0,0,0,1,6,4.6,+4,
+2022-12-10,202212100CHI,CHI,Q2,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.93,1,1,1.000,0,0,,0,1,0,3,3,1,0,0,1,1,2,1.5,+14,.000
+2022-12-10,202212100CHI,CHI,Q2,Coby White,https://www.basketball-reference.com/boxscores/202212100CHI.html,4.97,0,1,.000,0,1,.000,0,0,0,0,0,2,1,0,0,2,0,0.9,+3,
+2022-12-10,202212100CHI,CHI,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212100CHI.html,1.68,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+8,
+2022-12-10,202212100CHI,CHI,Q2,Andre Drummond,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.13,3,3,1.000,0,0,,1,3,1,3,4,0,0,0,1,0,7,5.9,+15,.333
+2022-12-10,202212100CHI,CHI,Q2,Goran Dragić,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.13,2,3,.667,1,1,1.000,1,1,0,0,0,1,0,0,0,0,6,5.4,+15,1.000
+2022-12-10,202212100CHI,CHI,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.95,4,5,.800,1,1,1.000,0,0,0,0,0,0,0,0,0,0,9,7.1,-2,
+2022-12-10,202212100CHI,CHI,Q3,Patrick Williams,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.55,1,2,.500,0,0,,0,0,0,2,2,1,0,0,0,0,2,2.3,-4,
+2022-12-10,202212100CHI,CHI,Q3,Zach LaVine,https://www.basketball-reference.com/boxscores/202212100CHI.html,9.83,1,3,.333,1,2,.500,0,0,0,1,1,0,0,0,1,0,3,0.6,-1,
+2022-12-10,202212100CHI,CHI,Q3,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212100CHI.html,9.83,2,3,.667,0,0,,0,0,2,1,3,2,1,1,0,2,4,6.7,-1,
+2022-12-10,202212100CHI,CHI,Q3,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212100CHI.html,9.83,3,5,.600,3,5,.600,0,0,0,0,0,0,0,0,0,0,9,6.7,-1,
+2022-12-10,202212100CHI,CHI,Q3,Coby White,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.22,0,0,,0,0,,0,0,0,1,1,1,0,0,1,0,0,0.0,+1,
+2022-12-10,202212100CHI,CHI,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.45,2,3,.667,0,0,,0,0,1,1,2,1,0,0,0,0,4,4.4,+3,
+2022-12-10,202212100CHI,CHI,Q3,Andre Drummond,https://www.basketball-reference.com/boxscores/202212100CHI.html,2.17,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2022-12-10,202212100CHI,CHI,Q3,Goran Dragić,https://www.basketball-reference.com/boxscores/202212100CHI.html,2.17,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,0,
+2022-12-10,202212100CHI,CHI,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.13,1,3,.333,0,0,,0,0,0,2,2,0,0,0,1,0,2,-0.1,-2,
+2022-12-10,202212100CHI,CHI,Q4,Patrick Williams,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.13,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,0,0,2,2.4,-6,
+2022-12-10,202212100CHI,CHI,Q4,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212100CHI.html,6.87,1,1,1.000,0,0,,2,2,0,1,1,1,0,0,0,1,4,4.3,+3,1.000
+2022-12-10,202212100CHI,CHI,Q4,Coby White,https://www.basketball-reference.com/boxscores/202212100CHI.html,12.0,1,4,.250,0,3,.000,0,0,0,2,2,2,0,2,0,2,2,2.2,+1,
+2022-12-10,202212100CHI,CHI,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.38,2,3,.667,2,3,.667,0,0,0,3,3,0,1,0,0,2,6,5.8,+1,
+2022-12-10,202212100CHI,CHI,Q4,Andre Drummond,https://www.basketball-reference.com/boxscores/202212100CHI.html,8.48,1,2,.500,0,0,,0,2,0,3,3,1,0,0,0,0,2,1.8,-6,.000
+2022-12-10,202212100CHI,CHI,Q4,Goran Dragić,https://www.basketball-reference.com/boxscores/202212100CHI.html,5.97,3,4,.750,1,2,.500,1,2,0,0,0,0,1,0,0,1,8,6.6,0,.500
+2022-12-10,202212100CHI,CHI,Q4,Tony Bradley,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.52,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,1,1,3,2.0,+7,
+2022-12-10,202212100CHI,CHI,Q4,Dalen Terry,https://www.basketball-reference.com/boxscores/202212100CHI.html,3.52,1,1,1.000,0,0,,0,0,0,0,0,2,0,0,0,1,2,2.7,+7,

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-02-07,202402070PHI,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202402070PHI.html,29:11,.541,.500,.214,.429,4.0,16.1,10.7,23.2,1.6,0.0,5.7,25.1,123,103,1.6
+2024-02-07,202402070PHI,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202402070PHI.html,28:16,.699,.667,.417,.167,4.1,6.7,5.5,4.6,0.0,2.6,0.0,18.9,149,107,4.3
+2024-02-07,202402070PHI,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202402070PHI.html,24:36,.514,.357,.571,.571,0.0,11.5,6.4,4.5,0.0,3.0,31.3,21.5,78,106,-13.6
+2024-02-07,202402070PHI,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202402070PHI.html,23:13,.706,.714,.214,.143,20.2,24.3,22.5,7.3,2.0,3.1,0.0,26.6,151,97,12.9
+2024-02-07,202402070PHI,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202402070PHI.html,18:08,.450,.500,.250,.250,6.5,26.0,17.3,19.0,2.6,4.0,31.1,14.7,90,95,-3.3
+2024-02-07,202402070PHI,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202402070PHI.html,25:21,.375,.375,.250,.000,4.6,14.9,10.3,22.9,3.7,0.0,0.0,13.1,118,99,0.2
+2024-02-07,202402070PHI,GSW,Lester Quiñones,https://www.basketball-reference.com/boxscores/202402070PHI.html,24:09,.825,.857,1.000,.286,0.0,7.8,4.3,20.4,0.0,0.0,20.2,17.0,134,109,3.3
+2024-02-07,202402070PHI,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202402070PHI.html,19:18,.500,.500,.875,.000,6.1,4.9,5.4,18.9,0.0,7.5,11.1,19.3,113,104,2.9
+2024-02-07,202402070PHI,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202402070PHI.html,17:08,.533,.500,.000,.125,20.5,33.0,27.4,15.7,0.0,8.5,0.0,20.4,138,95,3.4
+2024-02-07,202402070PHI,GSW,Dario Šarić,https://www.basketball-reference.com/boxscores/202402070PHI.html,13:44,.765,.700,.400,.400,0.0,20.6,11.4,19.1,3.4,0.0,25.4,23.8,120,98,3.7
+2024-02-07,202402070PHI,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202402070PHI.html,8:02,.347,.000,.500,1.000,0.0,11.7,6.5,12.7,5.8,0.0,0.0,14.9,105,95,-4.8
+2024-02-07,202402070PHI,GSW,Cory Joseph,https://www.basketball-reference.com/boxscores/202402070PHI.html,5:13,1.000,1.000,.750,.000,0.0,18.0,10.0,47.4,0.0,0.0,0.0,31.8,186,106,35.2
+2024-02-07,202402070PHI,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202402070PHI.html,3:41,1.000,1.000,.000,.000,0.0,25.6,14.2,38.4,0.0,0.0,0.0,11.3,210,104,12.6
+2024-02-07,202402070PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202402070PHI.html,31:07,.500,.500,.167,.000,12.1,15.0,13.4,17.0,3.0,5.5,0.0,7.8,138,119,2.3
+2024-02-07,202402070PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202402070PHI.html,29:49,.429,.429,.500,.000,0.0,7.9,3.5,14.7,1.6,2.9,17.6,23.2,77,126,-8.3
+2024-02-07,202402070PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202402070PHI.html,29:24,.450,.429,.071,.071,0.0,27.9,12.4,15.7,0.0,2.9,6.5,21.3,94,125,-4.5
+2024-02-07,202402070PHI,PHI,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402070PHI.html,24:30,.367,.367,.267,.000,3.8,9.6,6.4,0.0,0.0,3.5,6.3,26.5,74,129,-12.6
+2024-02-07,202402070PHI,PHI,Jaden Springer,https://www.basketball-reference.com/boxscores/202402070PHI.html,23:24,.405,.333,.333,.222,8.0,10.0,8.9,5.9,4.0,3.7,9.2,18.9,90,120,-3.7
+2024-02-07,202402070PHI,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202402070PHI.html,28:32,.718,.700,.300,.100,3.3,16.4,9.1,10.9,1.6,0.0,8.7,16.3,135,126,3.5
+2024-02-07,202402070PHI,PHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202402070PHI.html,22:56,.732,.688,.250,.250,0.0,15.3,6.8,34.3,0.0,0.0,25.3,21.0,117,130,1.1
+2024-02-07,202402070PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202402070PHI.html,16:17,.000,.000,.667,.000,17.3,7.2,12.8,0.0,0.0,10.5,25.0,10.0,45,126,-8.5
+2024-02-07,202402070PHI,PHI,Ricky Council IV,https://www.basketball-reference.com/boxscores/202402070PHI.html,10:02,.808,.643,.429,1.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.6,169,134,23.6
+2024-02-07,202402070PHI,PHI,Terquavion Smith,https://www.basketball-reference.com/boxscores/202402070PHI.html,10:02,.438,.438,.500,.000,0.0,11.7,5.2,35.9,4.7,0.0,11.1,36.4,88,120,0.1
+2024-02-07,202402070PHI,PHI,Mo Bamba,https://www.basketball-reference.com/boxscores/202402070PHI.html,8:44,,,,,0.0,26.8,11.9,13.4,0.0,0.0,100.0,9.3,21,126,-19.5
+2024-02-07,202402070PHI,PHI,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202402070PHI.html,5:13,.250,.250,.500,.000,0.0,22.4,10.0,0.0,0.0,0.0,0.0,31.1,54,128,-20.2

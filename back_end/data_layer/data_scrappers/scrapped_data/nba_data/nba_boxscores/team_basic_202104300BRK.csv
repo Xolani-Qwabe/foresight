@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-04-30,202104300BRK,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202104300BRK.html,35.95,12,22,.545,8,13,.615,0,0,1,6,7,9,1,0,1,1,32,29.8,+17,
+2021-04-30,202104300BRK,POR,Norman Powell,https://www.basketball-reference.com/boxscores/202104300BRK.html,33.93,6,13,.462,1,7,.143,6,6,1,1,2,1,1,0,0,0,19,15.0,+12,1.000
+2021-04-30,202104300BRK,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202104300BRK.html,32.93,4,12,.333,1,3,.333,1,1,0,4,4,1,0,0,2,3,10,1.9,+7,1.000
+2021-04-30,202104300BRK,POR,Robert Covington,https://www.basketball-reference.com/boxscores/202104300BRK.html,31.22,2,3,.667,1,2,.500,2,2,1,8,9,2,0,0,0,4,7,8.6,+9,1.000
+2021-04-30,202104300BRK,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202104300BRK.html,25.7,9,12,.750,0,0,,5,7,2,9,11,1,0,0,3,3,23,18.0,-1,.714
+2021-04-30,202104300BRK,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202104300BRK.html,20.38,5,11,.455,1,3,.333,4,4,1,1,2,3,1,0,0,1,15,13.0,+22,1.000
+2021-04-30,202104300BRK,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202104300BRK.html,20.15,4,8,.500,2,5,.400,0,0,0,1,1,4,0,0,2,0,10,7.1,+12,
+2021-04-30,202104300BRK,POR,Enes Freedom,https://www.basketball-reference.com/boxscores/202104300BRK.html,19.1,2,3,.667,0,0,,0,0,1,8,9,1,0,1,2,2,4,4.4,+20,
+2021-04-30,202104300BRK,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202104300BRK.html,8.23,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,0.3,-3,
+2021-04-30,202104300BRK,POR,Keljin Blevins,https://www.basketball-reference.com/boxscores/202104300BRK.html,3.12,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,1,3,2.6,0,
+2021-04-30,202104300BRK,POR,CJ Elleby,https://www.basketball-reference.com/boxscores/202104300BRK.html,3.12,1,3,.333,1,2,.500,0,0,0,1,1,0,0,0,0,2,3,0.8,0,
+2021-04-30,202104300BRK,POR,T.J. Leaf,https://www.basketball-reference.com/boxscores/202104300BRK.html,3.12,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.0,0,
+2021-04-30,202104300BRK,POR,Harry Giles,https://www.basketball-reference.com/boxscores/202104300BRK.html,3.05,1,1,1.000,0,0,,0,0,1,1,2,1,0,0,0,0,2,3.4,0,
+2021-04-30,202104300BRK,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202104300BRK.html,33.12,12,26,.462,2,8,.250,2,2,0,2,2,3,1,0,1,1,28,16.9,-11,1.000
+2021-04-30,202104300BRK,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202104300BRK.html,31.62,5,8,.625,2,3,.667,0,0,0,1,1,3,2,0,2,2,12,10.0,-13,
+2021-04-30,202104300BRK,BRK,Jeff Green,https://www.basketball-reference.com/boxscores/202104300BRK.html,30.42,5,9,.556,3,5,.600,3,4,0,6,6,1,1,0,1,1,16,13.4,-8,.750
+2021-04-30,202104300BRK,BRK,Landry Shamet,https://www.basketball-reference.com/boxscores/202104300BRK.html,27.42,2,7,.286,2,6,.333,2,3,0,3,3,1,1,2,1,3,8,5.3,-6,.667
+2021-04-30,202104300BRK,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202104300BRK.html,23.9,4,12,.333,2,7,.286,1,1,1,7,8,4,0,1,0,3,11,9.3,+4,1.000
+2021-04-30,202104300BRK,BRK,Tyler Johnson,https://www.basketball-reference.com/boxscores/202104300BRK.html,23.9,0,4,.000,0,4,.000,0,0,0,1,1,1,1,0,0,1,0,-1.2,-17,
+2021-04-30,202104300BRK,BRK,Mike James,https://www.basketball-reference.com/boxscores/202104300BRK.html,23.88,6,15,.400,1,4,.250,2,2,1,0,1,3,0,0,2,1,15,7.3,-14,1.000
+2021-04-30,202104300BRK,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202104300BRK.html,19.67,3,6,.500,0,0,,1,2,4,2,6,2,0,0,0,2,7,7.6,-17,.500
+2021-04-30,202104300BRK,BRK,Alize Johnson,https://www.basketball-reference.com/boxscores/202104300BRK.html,19.22,2,4,.500,0,0,,2,2,4,8,12,2,0,0,1,4,6,8.0,-11,1.000
+2021-04-30,202104300BRK,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202104300BRK.html,3.43,1,3,.333,1,3,.333,3,3,0,0,0,0,0,0,0,0,6,4.3,-1,1.000
+2021-04-30,202104300BRK,BRK,Reggie Perry,https://www.basketball-reference.com/boxscores/202104300BRK.html,3.43,0,1,.000,0,1,.000,0,0,1,1,2,0,0,0,0,0,0,0.3,-1,

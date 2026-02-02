@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-06,202401060HOU,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202401060HOU.html,38:56,.701,.660,.080,.840,8.6,39.2,24.1,16.1,0.0,2.5,5.5,42.4,135,112,15.9
+2024-01-06,202401060HOU,MIL,Damian Lillard,https://www.basketball-reference.com/boxscores/202401060HOU.html,38:29,.441,.344,.500,.625,0.0,5.7,2.9,34.7,2.5,0.0,4.7,25.3,101,115,0.3
+2024-01-06,202401060HOU,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202401060HOU.html,32:55,.430,.333,.556,.667,0.0,9.9,5.0,23.8,1.5,0.0,20.5,20.2,83,116,-8.4
+2024-01-06,202401060HOU,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202401060HOU.html,31:18,.389,.389,.667,.000,0.0,17.4,8.8,0.0,1.6,3.1,0.0,13.1,74,112,-4.8
+2024-01-06,202401060HOU,MIL,Malik Beasley,https://www.basketball-reference.com/boxscores/202401060HOU.html,16:03,1.500,1.500,1.000,.000,0.0,6.8,3.4,0.0,0.0,0.0,66.7,8.5,61,120,-7.2
+2024-01-06,202401060HOU,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202401060HOU.html,23:00,.625,.625,.750,.000,4.9,14.2,9.6,20.3,0.0,4.3,20.0,9.9,119,116,3.3
+2024-01-06,202401060HOU,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202401060HOU.html,18:59,.900,.900,1.000,.000,0.0,5.7,2.9,9.2,0.0,0.0,0.0,12.0,164,121,8.2
+2024-01-06,202401060HOU,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202401060HOU.html,16:52,.510,.500,.400,.400,0.0,38.8,19.6,0.0,2.9,5.8,25.4,21.3,70,102,-7.0
+2024-01-06,202401060HOU,MIL,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202401060HOU.html,12:02,.347,.000,1.000,1.000,0.0,18.1,9.2,0.0,8.1,0.0,0.0,5.4,75,99,-1.0
+2024-01-06,202401060HOU,MIL,Cameron Payne,https://www.basketball-reference.com/boxscores/202401060HOU.html,8:26,.266,.000,1.000,2.000,0.0,0.0,0.0,16.3,0.0,0.0,0.0,10.1,80,122,-8.1
+2024-01-06,202401060HOU,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202401060HOU.html,3:00,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-12.2
+2024-01-06,202401060HOU,HOU,Jabari Smith Jr.,https://www.basketball-reference.com/boxscores/202401060HOU.html,40:10,.726,.643,.714,.857,2.7,30.6,16.5,7.4,2.4,2.8,9.4,11.9,139,104,5.5
+2024-01-06,202401060HOU,HOU,Fred VanVleet,https://www.basketball-reference.com/boxscores/202401060HOU.html,37:18,.489,.423,.769,.231,2.9,3.0,3.0,29.2,2.6,0.0,6.5,18.4,113,109,1.2
+2024-01-06,202401060HOU,HOU,Alperen Şengün,https://www.basketball-reference.com/boxscores/202401060HOU.html,31:11,.413,.333,.048,.476,3.5,35.8,19.5,24.4,0.0,0.0,10.6,40.8,85,111,-8.5
+2024-01-06,202401060HOU,HOU,Jalen Green,https://www.basketball-reference.com/boxscores/202401060HOU.html,28:16,.563,.458,.500,.417,0.0,15.8,7.8,12.3,1.7,0.0,6.6,24.1,112,110,0.8
+2024-01-06,202401060HOU,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202401060HOU.html,19:29,.667,.667,.000,.000,16.8,28.6,22.7,0.0,2.5,0.0,0.0,6.9,161,106,0.7
+2024-01-06,202401060HOU,HOU,Jeff Green,https://www.basketball-reference.com/boxscores/202401060HOU.html,34:19,.606,.545,.455,.455,0.0,6.5,3.2,9.6,0.0,3.3,7.0,18.5,116,111,-0.6
+2024-01-06,202401060HOU,HOU,Aaron Holiday,https://www.basketball-reference.com/boxscores/202401060HOU.html,20:51,.786,.786,.714,.000,0.0,5.4,2.6,0.0,0.0,0.0,22.2,19.3,102,114,-1.0
+2024-01-06,202401060HOU,HOU,Amen Thompson,https://www.basketball-reference.com/boxscores/202401060HOU.html,15:39,.667,.667,.333,.000,7.0,14.3,10.6,51.3,0.0,0.0,25.0,11.5,139,113,6.4
+2024-01-06,202401060HOU,HOU,Cam Whitmore,https://www.basketball-reference.com/boxscores/202401060HOU.html,12:47,.820,.750,.167,.500,0.0,26.2,12.9,0.0,3.8,0.0,0.0,25.7,160,105,17.3

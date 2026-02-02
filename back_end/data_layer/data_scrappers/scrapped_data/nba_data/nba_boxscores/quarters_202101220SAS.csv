@@ -1,0 +1,70 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-01-22,202101220SAS,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.95,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,+3,
+2021-01-22,202101220SAS,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202101220SAS.html,12.0,7,11,.636,3,6,.500,2,2,0,5,5,6,0,0,0,1,19,19.4,+3,1.000
+2021-01-22,202101220SAS,DAL,Q1,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.78,2,3,.667,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.0,+8,
+2021-01-22,202101220SAS,DAL,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.13,2,3,.667,1,1,1.000,0,0,0,0,0,0,0,0,0,0,5,3.7,+6,
+2021-01-22,202101220SAS,DAL,Q1,Josh Green,https://www.basketball-reference.com/boxscores/202101220SAS.html,2.32,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,
+2021-01-22,202101220SAS,DAL,Q1,James Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.87,0,2,.000,0,1,.000,0,0,1,0,1,0,0,0,0,0,0,-0.7,-3,
+2021-01-22,202101220SAS,DAL,Q1,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.87,0,1,.000,0,0,,0,0,1,2,3,0,0,0,0,1,0,0.2,+1,
+2021-01-22,202101220SAS,DAL,Q1,Trey Burke,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.87,1,3,.333,0,0,,0,0,0,0,0,0,0,0,0,1,2,-0.1,-3,
+2021-01-22,202101220SAS,DAL,Q1,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.22,3,3,1.000,0,0,,0,0,1,2,3,0,0,0,0,1,6,6.0,-5,
+2021-01-22,202101220SAS,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101220SAS.html,9.83,3,4,.750,2,3,.667,2,2,0,1,1,0,0,0,0,0,10,8.7,+8,1.000
+2021-01-22,202101220SAS,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.17,1,4,.250,0,1,.000,0,0,0,1,1,1,0,0,1,1,2,-0.8,-4,
+2021-01-22,202101220SAS,DAL,Q2,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202101220SAS.html,8.32,2,5,.400,2,3,.667,0,0,1,2,3,0,1,1,0,1,6,5.9,+13,
+2021-01-22,202101220SAS,DAL,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/202101220SAS.html,9.83,2,4,.500,1,3,.333,1,1,0,2,2,4,0,0,1,0,6,6.4,+8,1.000
+2021-01-22,202101220SAS,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202101220SAS.html,9.0,1,2,.500,0,0,,0,0,0,3,3,0,1,0,0,0,2,2.9,+10,
+2021-01-22,202101220SAS,DAL,Q2,James Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.78,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,2,2.0,-6,
+2021-01-22,202101220SAS,DAL,Q2,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.22,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,+13,
+2021-01-22,202101220SAS,DAL,Q2,Trey Burke,https://www.basketball-reference.com/boxscores/202101220SAS.html,2.17,1,2,.500,0,1,.000,0,0,0,0,0,0,1,0,0,1,2,1.6,-1,
+2021-01-22,202101220SAS,DAL,Q2,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101220SAS.html,3.68,0,1,.000,0,0,,1,2,0,0,0,0,0,0,0,0,1,-0.1,-6,.500
+2021-01-22,202101220SAS,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.18,3,5,.600,0,2,.000,0,0,0,0,0,0,0,0,0,0,6,3.7,-1,
+2021-01-22,202101220SAS,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202101220SAS.html,12.0,2,6,.333,1,3,.333,4,4,0,3,3,3,0,0,1,1,9,7.2,0,1.000
+2021-01-22,202101220SAS,DAL,Q3,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202101220SAS.html,9.47,2,2,1.000,0,0,,2,2,0,1,1,1,0,1,0,0,6,7.1,+4,1.000
+2021-01-22,202101220SAS,DAL,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.4,0,1,.000,0,0,,0,0,0,2,2,0,0,0,0,1,0,-0.5,-1,
+2021-01-22,202101220SAS,DAL,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.43,0,2,.000,0,2,.000,0,0,1,2,3,1,0,0,0,0,0,0.6,-1,
+2021-01-22,202101220SAS,DAL,Q3,James Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,3.7,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,1,0,0,-1.0,-1,
+2021-01-22,202101220SAS,DAL,Q3,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.02,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,+3,
+2021-01-22,202101220SAS,DAL,Q3,Trey Burke,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.27,2,3,.667,2,3,.667,0,0,0,1,1,0,0,0,0,0,6,5.0,+1,
+2021-01-22,202101220SAS,DAL,Q3,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101220SAS.html,2.53,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-4,
+2021-01-22,202101220SAS,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.25,2,2,1.000,0,0,,1,2,0,1,1,0,0,0,1,1,5,2.9,-4,.500
+2021-01-22,202101220SAS,DAL,Q4,Luka Dončić,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.3,3,7,.429,0,2,.000,0,0,0,0,0,1,0,0,0,2,6,2.2,-5,
+2021-01-22,202101220SAS,DAL,Q4,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202101220SAS.html,8.85,1,4,.250,0,1,.000,2,2,0,3,3,0,0,0,0,3,4,1.3,-1,1.000
+2021-01-22,202101220SAS,DAL,Q4,Jalen Brunson,https://www.basketball-reference.com/boxscores/202101220SAS.html,9.22,2,3,.667,1,1,1.000,0,0,0,0,0,2,0,0,0,0,5,5.1,-1,
+2021-01-22,202101220SAS,DAL,Q4,James Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.82,1,3,.333,0,1,.000,0,0,1,1,2,1,0,0,0,0,2,2.0,-5,
+2021-01-22,202101220SAS,DAL,Q4,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.27,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,0,2,2,0.8,-14,1.000
+2021-01-22,202101220SAS,DAL,Q4,Trey Burke,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.2,1,2,.500,0,1,.000,1,1,0,0,0,0,0,0,0,0,3,2.0,+6,1.000
+2021-01-22,202101220SAS,DAL,Q4,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101220SAS.html,3.1,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,-1,
+2021-01-22,202101220SAS,SAS,Q1,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202101220SAS.html,8.78,1,2,.500,0,0,,3,4,0,0,0,2,0,0,0,1,5,4.6,-4,.750
+2021-01-22,202101220SAS,SAS,Q1,Keldon Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.13,1,2,.500,0,1,.000,0,0,0,3,3,1,0,0,0,1,2,2.2,-2,
+2021-01-22,202101220SAS,SAS,Q1,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.35,5,8,.625,4,5,.800,0,0,0,3,3,1,0,0,0,0,14,12.0,-1,
+2021-01-22,202101220SAS,SAS,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.35,1,3,.333,1,2,.500,0,0,0,1,1,2,0,0,0,0,3,3.0,-1,
+2021-01-22,202101220SAS,SAS,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202101220SAS.html,1.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2021-01-22,202101220SAS,SAS,Q1,Patty Mills,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.97,1,3,.333,1,1,1.000,0,0,0,0,0,2,0,0,1,1,3,1.3,+2,
+2021-01-22,202101220SAS,SAS,Q1,Rudy Gay,https://www.basketball-reference.com/boxscores/202101220SAS.html,4.87,2,2,1.000,1,1,1.000,2,2,0,1,1,0,0,1,1,0,7,6.4,-1,1.000
+2021-01-22,202101220SAS,SAS,Q1,Devin Vassell,https://www.basketball-reference.com/boxscores/202101220SAS.html,4.87,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-1,
+2021-01-22,202101220SAS,SAS,Q1,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202101220SAS.html,1.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-01-22,202101220SAS,SAS,Q2,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202101220SAS.html,12.0,4,8,.500,0,0,,2,2,0,2,2,0,1,0,1,1,10,6.2,-7,1.000
+2021-01-22,202101220SAS,SAS,Q2,Keldon Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,9.58,4,6,.667,0,1,.000,1,2,1,4,5,1,0,0,1,0,9,7.6,+1,.500
+2021-01-22,202101220SAS,SAS,Q2,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.17,0,2,.000,0,2,.000,0,0,0,2,2,0,0,0,1,0,0,-1.8,+4,
+2021-01-22,202101220SAS,SAS,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.17,1,2,.500,1,2,.500,0,0,0,1,1,1,0,0,0,0,3,3.0,+4,
+2021-01-22,202101220SAS,SAS,Q2,Patty Mills,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.17,0,1,.000,0,1,.000,2,2,0,0,0,0,0,0,0,0,2,1.3,+4,1.000
+2021-01-22,202101220SAS,SAS,Q2,Rudy Gay,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.83,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.0,-11,
+2021-01-22,202101220SAS,SAS,Q2,Devin Vassell,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.83,0,0,,0,0,,0,0,0,0,0,1,1,0,0,1,0,1.3,-11,
+2021-01-22,202101220SAS,SAS,Q2,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202101220SAS.html,6.83,0,2,.000,0,0,,0,2,2,3,5,0,0,1,1,1,0,-0.6,-11,.000
+2021-01-22,202101220SAS,SAS,Q2,Tre Jones,https://www.basketball-reference.com/boxscores/202101220SAS.html,2.42,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-8,
+2021-01-22,202101220SAS,SAS,Q3,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.12,1,3,.333,0,0,,0,0,0,1,1,2,0,0,0,1,2,1.6,-2,
+2021-01-22,202101220SAS,SAS,Q3,Keldon Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,9.47,1,5,.200,0,1,.000,0,0,1,1,2,1,0,0,0,2,2,-0.2,-4,
+2021-01-22,202101220SAS,SAS,Q3,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.58,3,5,.600,0,0,,0,0,1,1,2,1,0,0,0,0,6,5.4,-6,
+2021-01-22,202101220SAS,SAS,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202101220SAS.html,8.3,1,3,.333,1,2,.500,0,0,0,3,3,0,0,0,0,2,3,1.4,-1,
+2021-01-22,202101220SAS,SAS,Q3,Patty Mills,https://www.basketball-reference.com/boxscores/202101220SAS.html,8.52,2,5,.400,0,1,.000,0,0,0,1,1,0,1,0,0,0,4,2.6,+3,
+2021-01-22,202101220SAS,SAS,Q3,Rudy Gay,https://www.basketball-reference.com/boxscores/202101220SAS.html,4.42,1,2,.500,0,1,.000,1,2,0,1,1,2,0,0,0,0,3,3.3,+6,.500
+2021-01-22,202101220SAS,SAS,Q3,Devin Vassell,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.18,1,2,.500,1,1,1.000,2,2,0,3,3,0,0,0,0,0,5,4.9,-2,1.000
+2021-01-22,202101220SAS,SAS,Q3,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202101220SAS.html,4.42,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,0,2,2.4,+6,
+2021-01-22,202101220SAS,SAS,Q4,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.08,2,7,.286,0,1,.000,8,10,0,3,3,2,0,0,0,1,12,9.0,+8,.800
+2021-01-22,202101220SAS,SAS,Q4,Keldon Johnson,https://www.basketball-reference.com/boxscores/202101220SAS.html,8.38,1,1,1.000,0,0,,2,2,1,3,4,0,0,0,1,3,4,3.1,+4,1.000
+2021-01-22,202101220SAS,SAS,Q4,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202101220SAS.html,7.25,3,3,1.000,0,0,,0,0,1,1,2,0,0,1,0,1,6,6.4,+7,
+2021-01-22,202101220SAS,SAS,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202101220SAS.html,5.33,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,+2,
+2021-01-22,202101220SAS,SAS,Q4,Patty Mills,https://www.basketball-reference.com/boxscores/202101220SAS.html,12.0,2,3,.667,0,1,.000,0,0,0,1,1,0,0,0,0,0,4,3.0,+5,
+2021-01-22,202101220SAS,SAS,Q4,Rudy Gay,https://www.basketball-reference.com/boxscores/202101220SAS.html,10.25,2,6,.333,2,3,.667,0,0,2,0,2,0,0,0,0,1,6,3.6,+4,
+2021-01-22,202101220SAS,SAS,Q4,Devin Vassell,https://www.basketball-reference.com/boxscores/202101220SAS.html,2.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2021-01-22,202101220SAS,SAS,Q4,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202101220SAS.html,4.7,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,0,

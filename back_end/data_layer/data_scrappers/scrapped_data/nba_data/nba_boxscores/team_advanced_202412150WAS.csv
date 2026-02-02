@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-15,202412150WAS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202412150WAS.html,35:27,.638,.650,.700,.400,0.0,11.9,6.3,20.4,2.7,4.6,7.8,14.2,135,96,7.1
+2024-12-15,202412150WAS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202412150WAS.html,34:53,.521,.500,.346,.077,2.8,26.6,15.4,11.7,0.0,0.0,13.0,35.0,98,97,-3.7
+2024-12-15,202412150WAS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202412150WAS.html,25:43,.349,.357,.357,.286,0.0,9.8,5.2,22.9,5.5,3.2,16.0,28.8,76,91,-2.6
+2024-12-15,202412150WAS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202412150WAS.html,23:46,.685,.643,.429,.571,0.0,3.5,1.9,6.3,2.0,0.0,18.6,17.9,114,104,-0.4
+2024-12-15,202412150WAS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202412150WAS.html,11:20,.917,.917,.333,.000,8.5,7.4,7.9,45.0,0.0,0.0,14.3,24.4,152,107,17.9
+2024-12-15,202412150WAS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202412150WAS.html,36:50,.625,.625,.833,.000,10.4,16.0,13.4,23.4,0.0,0.0,20.0,16.1,123,102,2.1
+2024-12-15,202412150WAS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202412150WAS.html,28:15,.600,.600,.900,.000,6.8,14.9,11.1,5.1,3.4,0.0,0.0,14.0,137,95,6.9
+2024-12-15,202412150WAS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202412150WAS.html,26:50,.537,.333,.000,2.667,17.9,18.8,18.4,18.7,0.0,3.0,13.3,11.1,138,100,3.9
+2024-12-15,202412150WAS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202412150WAS.html,9:50,.000,.000,.000,.000,9.8,8.6,9.1,12.2,9.7,8.3,50.0,16.1,30,79,-8.3
+2024-12-15,202412150WAS,BOS,Jaden Springer,https://www.basketball-reference.com/boxscores/202412150WAS.html,2:22,.266,.000,.000,2.000,40.6,0.0,19.0,0.0,0.0,0.0,0.0,31.4,89,111,-11.0
+2024-12-15,202412150WAS,BOS,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202412150WAS.html,2:22,.000,.000,.000,.000,0.0,0.0,0.0,0.0,20.1,0.0,50.0,33.4,0,63,-27.2
+2024-12-15,202412150WAS,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202412150WAS.html,2:22,.000,.000,1.000,.000,40.6,0.0,19.0,0.0,0.0,0.0,0.0,16.7,61,111,-16.3
+2024-12-15,202412150WAS,WAS,Bub Carrington,https://www.basketball-reference.com/boxscores/202412150WAS.html,40:22,.611,.611,.556,.000,4.2,19.0,11.1,6.7,1.2,0.0,25.0,12.0,100,112,-3.5
+2024-12-15,202412150WAS,WAS,Justin Champagnie,https://www.basketball-reference.com/boxscores/202412150WAS.html,39:03,.547,.500,.455,.182,10.8,22.1,16.1,10.9,3.7,5.2,0.0,12.3,138,103,7.0
+2024-12-15,202412150WAS,WAS,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202412150WAS.html,36:56,.475,.475,.400,.000,2.3,10.4,6.1,26.3,1.3,0.0,16.7,26.3,94,115,-2.4
+2024-12-15,202412150WAS,WAS,Jordan Poole,https://www.basketball-reference.com/boxscores/202412150WAS.html,36:10,.528,.500,.579,.105,0.0,8.0,3.7,31.6,2.6,0.0,13.1,25.6,108,113,1.7
+2024-12-15,202412150WAS,WAS,Alex Sarr,https://www.basketball-reference.com/boxscores/202412150WAS.html,27:46,.389,.389,.333,.000,6.1,13.8,9.7,5.8,0.0,7.4,14.3,30.6,77,113,-10.4
+2024-12-15,202412150WAS,WAS,Jared Butler,https://www.basketball-reference.com/boxscores/202412150WAS.html,14:24,.875,.875,.250,.000,5.8,13.3,9.3,0.0,3.3,0.0,33.3,16.9,103,109,-1.2
+2024-12-15,202412150WAS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202412150WAS.html,13:28,.425,.400,.200,.400,6.3,0.0,3.3,10.8,3.5,15.2,0.0,17.7,106,108,6.7
+2024-12-15,202412150WAS,WAS,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202412150WAS.html,11:21,.170,.200,.000,.400,37.1,8.5,23.7,0.0,4.2,0.0,0.0,21.0,76,109,-11.3
+2024-12-15,202412150WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202412150WAS.html,11:04,.500,.500,.250,.000,0.0,17.3,8.1,0.0,0.0,0.0,0.0,14.6,106,115,-6.3
+2024-12-15,202412150WAS,WAS,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202412150WAS.html,8:53,.250,.250,.500,.000,0.0,10.8,5.0,31.2,0.0,11.5,20.0,22.8,64,113,-6.2
+2024-12-15,202412150WAS,WAS,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202412150WAS.html,0:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,123,-9.8

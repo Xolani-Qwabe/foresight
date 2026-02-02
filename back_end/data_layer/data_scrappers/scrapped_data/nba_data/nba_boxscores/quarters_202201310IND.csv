@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-01-31,202201310IND,LAC,Q1,Amir Coffey,https://www.basketball-reference.com/boxscores/202201310IND.html,12.0,2,3,.667,1,2,.500,3,3,1.000,0,2,2,2,0,0,0,0,8,8.7,-3
+2022-01-31,202201310IND,LAC,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,9.67,2,5,.400,0,1,.000,0,0,,0,0,0,2,0,0,0,0,4,2.7,0
+2022-01-31,202201310IND,LAC,Q1,Marcus Morris,https://www.basketball-reference.com/boxscores/202201310IND.html,9.67,2,6,.333,0,1,.000,0,0,,1,3,4,0,0,0,0,0,4,2.2,0
+2022-01-31,202201310IND,LAC,Q1,Terance Mann,https://www.basketball-reference.com/boxscores/202201310IND.html,7.48,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-5
+2022-01-31,202201310IND,LAC,Q1,Serge Ibaka,https://www.basketball-reference.com/boxscores/202201310IND.html,7.48,4,4,1.000,0,0,,0,0,,2,2,4,0,0,1,1,1,8,8.1,-5
+2022-01-31,202201310IND,LAC,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202201310IND.html,4.52,1,1,1.000,1,1,1.000,0,0,,1,0,1,0,0,0,0,0,3,3.4,+2
+2022-01-31,202201310IND,LAC,Q1,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202201310IND.html,2.33,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.8,-3
+2022-01-31,202201310IND,LAC,Q1,Luke Kennard,https://www.basketball-reference.com/boxscores/202201310IND.html,2.33,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+2022-01-31,202201310IND,LAC,Q1,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202201310IND.html,4.52,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+2
+2022-01-31,202201310IND,LAC,Q2,Amir Coffey,https://www.basketball-reference.com/boxscores/202201310IND.html,2.27,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,0
+2022-01-31,202201310IND,LAC,Q2,Reggie Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,7.18,1,3,.333,1,3,.333,1,1,1.000,0,0,0,2,0,0,0,0,4,3.7,-5
+2022-01-31,202201310IND,LAC,Q2,Marcus Morris,https://www.basketball-reference.com/boxscores/202201310IND.html,5.72,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,1,0,-3.5,-2
+2022-01-31,202201310IND,LAC,Q2,Terance Mann,https://www.basketball-reference.com/boxscores/202201310IND.html,6.15,1,2,.500,0,0,,0,0,,0,2,2,1,0,0,0,1,2,1.9,-2
+2022-01-31,202201310IND,LAC,Q2,Serge Ibaka,https://www.basketball-reference.com/boxscores/202201310IND.html,5.72,1,2,.500,0,1,.000,0,0,,0,4,4,0,0,1,0,1,2,2.5,-2
+2022-01-31,202201310IND,LAC,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202201310IND.html,5.85,1,1,1.000,1,1,1.000,1,2,.500,0,0,0,0,1,0,0,0,4,4.3,0
+2022-01-31,202201310IND,LAC,Q2,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202201310IND.html,6.28,1,2,.500,0,1,.000,0,0,,0,1,1,2,0,0,1,0,2,1.7,0
+2022-01-31,202201310IND,LAC,Q2,Justise Winslow,https://www.basketball-reference.com/boxscores/202201310IND.html,6.28,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,0,2,0.7,0
+2022-01-31,202201310IND,LAC,Q2,Luke Kennard,https://www.basketball-reference.com/boxscores/202201310IND.html,3.58,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,0
+2022-01-31,202201310IND,LAC,Q2,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202201310IND.html,4.82,3,3,1.000,0,0,,0,0,,0,2,2,0,1,0,0,0,6,6.7,+3
+2022-01-31,202201310IND,LAC,Q2,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202201310IND.html,6.15,1,2,.500,1,1,1.000,0,0,,0,0,0,1,1,0,0,2,3,2.9,-2
+2022-01-31,202201310IND,LAC,Q3,Amir Coffey,https://www.basketball-reference.com/boxscores/202201310IND.html,9.22,3,5,.600,3,5,.600,0,0,,0,0,0,0,1,0,0,0,9,7.7,+8
+2022-01-31,202201310IND,LAC,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,9.22,2,5,.400,1,4,.250,0,0,,0,1,1,1,0,0,1,0,5,2.3,+8
+2022-01-31,202201310IND,LAC,Q3,Marcus Morris,https://www.basketball-reference.com/boxscores/202201310IND.html,12.0,2,5,.400,0,0,,1,1,1.000,0,1,1,4,0,0,0,1,5,5.0,+6
+2022-01-31,202201310IND,LAC,Q3,Terance Mann,https://www.basketball-reference.com/boxscores/202201310IND.html,9.22,2,3,.667,0,0,,0,0,,2,0,2,1,1,0,0,1,4,5.4,+8
+2022-01-31,202201310IND,LAC,Q3,Serge Ibaka,https://www.basketball-reference.com/boxscores/202201310IND.html,9.22,1,1,1.000,0,0,,2,2,1.000,0,3,3,0,1,0,0,0,4,5.6,+8
+2022-01-31,202201310IND,LAC,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202201310IND.html,2.78,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,-2
+2022-01-31,202201310IND,LAC,Q3,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202201310IND.html,2.78,0,2,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,-0.7,-2
+2022-01-31,202201310IND,LAC,Q3,Luke Kennard,https://www.basketball-reference.com/boxscores/202201310IND.html,2.78,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-2
+2022-01-31,202201310IND,LAC,Q3,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202201310IND.html,2.78,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,2,2,0,-3.5,-2
+2022-01-31,202201310IND,LAC,Q4,Amir Coffey,https://www.basketball-reference.com/boxscores/202201310IND.html,12.0,3,5,.600,0,1,.000,1,1,1.000,2,1,3,2,0,1,1,1,7,7.1,-7
+2022-01-31,202201310IND,LAC,Q4,Reggie Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,5.03,3,5,.600,2,3,.667,0,0,,1,1,2,0,0,0,1,0,8,5.7,+1
+2022-01-31,202201310IND,LAC,Q4,Nicolas Batum,https://www.basketball-reference.com/boxscores/202201310IND.html,12.0,1,4,.250,1,4,.250,0,0,,0,0,0,1,0,1,0,0,3,2.0,-7
+2022-01-31,202201310IND,LAC,Q4,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202201310IND.html,12.0,4,7,.571,1,3,.333,2,3,.667,0,2,2,1,1,0,0,1,11,9.2,-7
+2022-01-31,202201310IND,LAC,Q4,Justise Winslow,https://www.basketball-reference.com/boxscores/202201310IND.html,9.83,0,0,,0,0,,0,0,,0,0,0,1,0,1,0,2,0,0.6,-1
+2022-01-31,202201310IND,LAC,Q4,Luke Kennard,https://www.basketball-reference.com/boxscores/202201310IND.html,6.97,1,4,.250,0,3,.000,0,0,,0,0,0,0,0,0,0,0,2,-0.4,-8
+2022-01-31,202201310IND,LAC,Q4,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202201310IND.html,2.17,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-6
+2022-01-31,202201310IND,IND,Q1,Caris LeVert,https://www.basketball-reference.com/boxscores/202201310IND.html,10.82,3,6,.500,0,1,.000,0,0,,0,0,0,2,0,0,0,1,6,4.0,0
+2022-01-31,202201310IND,IND,Q1,Justin Holiday,https://www.basketball-reference.com/boxscores/202201310IND.html,7.0,1,2,.500,1,2,.500,0,0,,0,1,1,2,0,1,0,1,3,4.0,+3
+2022-01-31,202201310IND,IND,Q1,Chris Duarte,https://www.basketball-reference.com/boxscores/202201310IND.html,9.67,1,3,.333,0,0,,0,0,,1,0,1,2,0,0,1,0,2,1.4,0
+2022-01-31,202201310IND,IND,Q1,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,7.48,4,6,.667,1,1,1.000,0,1,.000,2,2,4,0,0,0,0,0,9,8.0,+5
+2022-01-31,202201310IND,IND,Q1,Torrey Craig,https://www.basketball-reference.com/boxscores/202201310IND.html,12.0,2,4,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,1,5,3.6,+3
+2022-01-31,202201310IND,IND,Q1,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201310IND.html,5.0,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,0,1,3,2.2,0
+2022-01-31,202201310IND,IND,Q1,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201310IND.html,2.33,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4,+3
+2022-01-31,202201310IND,IND,Q1,Terry Taylor,https://www.basketball-reference.com/boxscores/202201310IND.html,4.52,1,1,1.000,0,0,,0,0,,1,1,2,1,0,0,0,0,2,3.4,-2
+2022-01-31,202201310IND,IND,Q1,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201310IND.html,1.18,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3
+2022-01-31,202201310IND,IND,Q2,Caris LeVert,https://www.basketball-reference.com/boxscores/202201310IND.html,7.18,2,3,.667,1,1,1.000,3,4,.750,0,4,4,1,0,0,1,0,8,7.2,+5
+2022-01-31,202201310IND,IND,Q2,Justin Holiday,https://www.basketball-reference.com/boxscores/202201310IND.html,8.17,3,4,.750,1,2,.500,0,0,,1,1,2,1,0,0,0,0,7,7.1,+3
+2022-01-31,202201310IND,IND,Q2,Chris Duarte,https://www.basketball-reference.com/boxscores/202201310IND.html,7.18,0,2,.000,0,0,,0,0,,0,1,1,0,1,0,0,0,0,-0.1,+5
+2022-01-31,202201310IND,IND,Q2,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,4.92,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+5
+2022-01-31,202201310IND,IND,Q2,Torrey Craig,https://www.basketball-reference.com/boxscores/202201310IND.html,5.53,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.8,+6
+2022-01-31,202201310IND,IND,Q2,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201310IND.html,8.65,1,2,.500,0,1,.000,1,2,.500,0,3,3,1,0,0,0,0,3,3.2,-4
+2022-01-31,202201310IND,IND,Q2,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201310IND.html,6.47,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,0,1,0,-0.1,-4
+2022-01-31,202201310IND,IND,Q2,Terry Taylor,https://www.basketball-reference.com/boxscores/202201310IND.html,6.88,2,5,.400,0,0,,0,0,,2,0,2,0,0,0,0,0,4,2.7,-3
+2022-01-31,202201310IND,IND,Q2,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201310IND.html,4.82,3,3,1.000,0,0,,0,0,,0,1,1,0,0,0,2,1,6,3.0,-3
+2022-01-31,202201310IND,IND,Q2,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201310IND.html,0.2,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0
+2022-01-31,202201310IND,IND,Q3,Caris LeVert,https://www.basketball-reference.com/boxscores/202201310IND.html,12.0,0,1,.000,0,0,,0,0,,0,2,2,3,0,0,4,1,0,-2.4,-6
+2022-01-31,202201310IND,IND,Q3,Justin Holiday,https://www.basketball-reference.com/boxscores/202201310IND.html,7.0,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-11
+2022-01-31,202201310IND,IND,Q3,Chris Duarte,https://www.basketball-reference.com/boxscores/202201310IND.html,7.0,1,4,.250,0,1,.000,2,2,1.000,0,1,1,0,1,0,0,0,4,2.9,-11
+2022-01-31,202201310IND,IND,Q3,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,9.78,3,7,.429,0,1,.000,1,1,1.000,2,2,4,0,0,2,0,0,7,6.7,-9
+2022-01-31,202201310IND,IND,Q3,Torrey Craig,https://www.basketball-reference.com/boxscores/202201310IND.html,9.22,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,1,1,3,1.3,-8
+2022-01-31,202201310IND,IND,Q3,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201310IND.html,5.0,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.7,+5
+2022-01-31,202201310IND,IND,Q3,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201310IND.html,5.0,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,2.0,+5
+2022-01-31,202201310IND,IND,Q3,Terry Taylor,https://www.basketball-reference.com/boxscores/202201310IND.html,5.0,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,5,4.4,+5
+2022-01-31,202201310IND,IND,Q4,Caris LeVert,https://www.basketball-reference.com/boxscores/202201310IND.html,5.82,1,2,.500,0,0,,1,2,.500,0,1,1,3,0,0,0,0,3,4.0,-1
+2022-01-31,202201310IND,IND,Q4,Justin Holiday,https://www.basketball-reference.com/boxscores/202201310IND.html,11.77,1,3,.333,1,1,1.000,0,0,,0,1,1,3,0,1,0,1,3,4.0,+10
+2022-01-31,202201310IND,IND,Q4,Chris Duarte,https://www.basketball-reference.com/boxscores/202201310IND.html,5.82,1,2,.500,0,0,,0,0,,0,2,2,0,0,1,0,0,2,2.3,-1
+2022-01-31,202201310IND,IND,Q4,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202201310IND.html,7.23,4,5,.800,0,1,.000,0,0,,0,2,2,0,1,0,0,0,8,7.7,+8
+2022-01-31,202201310IND,IND,Q4,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201310IND.html,8.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+7
+2022-01-31,202201310IND,IND,Q4,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201310IND.html,10.05,5,7,.714,4,5,.800,0,0,,0,1,1,0,0,0,1,1,14,10.0,+8
+2022-01-31,202201310IND,IND,Q4,Terry Taylor,https://www.basketball-reference.com/boxscores/202201310IND.html,4.77,2,3,.667,0,0,,0,0,,2,2,4,1,0,0,0,1,4,5.0,-1
+2022-01-31,202201310IND,IND,Q4,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201310IND.html,6.42,2,2,1.000,0,0,,0,0,,0,2,2,4,0,0,0,0,4,6.8,+5

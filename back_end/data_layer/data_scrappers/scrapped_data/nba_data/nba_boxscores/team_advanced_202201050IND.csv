@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-05,202201050IND,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202201050IND.html,41:21,.720,.667,.250,.292,3.3,22.6,13.1,25.7,1.2,0.0,10.0,31.8,139,126,6.7
+2022-01-05,202201050IND,BRK,James Harden,https://www.basketball-reference.com/boxscores/202201050IND.html,40:09,.549,.417,.333,.833,0.0,16.6,8.4,16.7,1.2,0.0,5.7,19.0,124,127,-5.4
+2022-01-05,202201050IND,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202201050IND.html,31:59,.586,.529,.118,.235,0.0,12.5,6.3,16.9,4.5,3.5,9.6,28.4,116,117,0.3
+2022-01-05,202201050IND,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202201050IND.html,23:15,.644,.625,.000,.375,11.8,17.2,14.5,16.0,4.2,4.8,9.7,19.4,134,117,2.2
+2022-01-05,202201050IND,BRK,David Duke Jr.,https://www.basketball-reference.com/boxscores/202201050IND.html,17:40,.347,.000,1.000,1.000,7.8,15.1,11.5,5.5,2.7,0.0,41.0,12.1,69,123,-11.3
+2022-01-05,202201050IND,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202201050IND.html,35:09,.500,.500,1.000,.000,0.0,7.6,3.8,14.8,2.8,0.0,0.0,7.5,131,125,-0.8
+2022-01-05,202201050IND,BRK,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202201050IND.html,20:01,1.020,1.000,.000,.400,6.9,26.6,16.9,6.5,4.8,11.2,0.0,12.8,210,110,16.9
+2022-01-05,202201050IND,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202201050IND.html,16:06,.874,.857,.000,.143,8.5,16.6,12.6,0.0,0.0,0.0,21.2,25.6,128,130,-0.8
+2022-01-05,202201050IND,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202201050IND.html,9:10,.833,.833,.333,.000,29.9,14.5,22.1,0.0,0.0,0.0,0.0,14.3,177,130,5.6
+2022-01-05,202201050IND,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202201050IND.html,5:10,.000,.000,.000,.000,26.5,0.0,13.1,19.0,9.4,0.0,0.0,16.9,71,111,-8.2
+2022-01-05,202201050IND,IND,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201050IND.html,39:45,.765,.700,.400,.400,0.0,10.4,5.1,17.9,0.0,0.0,7.8,14.1,151,134,0.3
+2022-01-05,202201050IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202201050IND.html,37:55,.855,.808,.077,1.000,7.0,36.2,21.4,44.7,0.0,0.0,24.3,28.6,142,130,11.1
+2022-01-05,202201050IND,IND,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201050IND.html,37:09,.360,.308,.538,.154,0.0,11.1,5.5,10.4,0.0,0.0,17.8,20.0,71,134,-14.4
+2022-01-05,202201050IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202201050IND.html,31:01,.618,.550,.400,.300,0.0,17.7,8.7,4.7,1.6,11.9,0.0,16.0,129,120,4.4
+2022-01-05,202201050IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202201050IND.html,26:06,.322,.250,.900,.200,0.0,5.3,2.6,0.0,0.0,0.0,8.4,20.0,63,135,-16.4
+2022-01-05,202201050IND,IND,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201050IND.html,32:23,.755,.737,.421,.105,4.1,4.2,4.2,31.9,1.5,0.0,13.1,31.0,132,131,7.2
+2022-01-05,202201050IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201050IND.html,26:14,.820,.750,1.000,.500,20.3,20.9,20.6,0.0,1.8,0.0,17.0,9.8,154,128,1.0
+2022-01-05,202201050IND,IND,Justin Anderson,https://www.basketball-reference.com/boxscores/202201050IND.html,6:57,.000,.000,1.000,.000,0.0,0.0,0.0,16.8,0.0,0.0,0.0,12.6,35,135,-22.7
+2022-01-05,202201050IND,IND,Ahmad Caver,https://www.basketball-reference.com/boxscores/202201050IND.html,0:50,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,52.7,200,135,36.9
+2022-01-05,202201050IND,IND,Nate Hinton,https://www.basketball-reference.com/boxscores/202201050IND.html,0:50,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,135,-7.0
+2022-01-05,202201050IND,IND,Terry Taylor,https://www.basketball-reference.com/boxscores/202201050IND.html,0:50,,,,,0.0,0.0,0.0,100.0,0.0,0.0,,0.0,232,135,45.0

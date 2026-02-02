@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202112110WAS.html
+Scraped: 2025-12-14 23:36:06
+
+line_scores: 2 rows (nba_boxscores/line_scores_202112110WAS.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202112110WAS.csv)
+team_basic: 27 rows (nba_boxscores/team_basic_202112110WAS.csv)
+team_advanced: 27 rows (nba_boxscores/team_advanced_202112110WAS.csv)
+quarters: 83 rows (nba_boxscores/quarters_202112110WAS.csv)

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-10-27,202310270DAL,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202310270DAL.html,39:43,.643,.647,.706,.118,0.0,8.1,4.2,27.4,0.0,0.0,10.1,21.6,130,129,0.5
+2023-10-27,202310270DAL,BRK,Mikal Bridges,https://www.basketball-reference.com/boxscores/202310270DAL.html,35:28,.491,.441,.412,.176,3.2,9.0,6.2,11.0,0.0,0.0,5.2,23.5,109,129,-6.7
+2023-10-27,202310270DAL,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202310270DAL.html,33:10,.708,.658,.211,.263,0.0,22.5,11.6,10.5,1.4,2.6,0.0,27.5,147,121,7.6
+2023-10-27,202310270DAL,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202310270DAL.html,32:28,.625,.625,.000,.000,14.1,19.7,17.0,31.4,2.9,5.4,20.0,13.3,142,116,8.0
+2023-10-27,202310270DAL,BRK,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202310270DAL.html,32:05,.750,.750,.875,.000,3.6,19.9,12.0,11.5,0.0,0.0,20.0,13.4,125,127,-0.8
+2023-10-27,202310270DAL,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202310270DAL.html,34:07,.611,.611,.778,.000,6.7,25.0,16.2,10.7,1.4,0.0,25.0,15.2,105,123,-3.0
+2023-10-27,202310270DAL,BRK,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202310270DAL.html,21:11,.778,.778,.667,.000,0.0,5.0,2.6,13.5,0.0,4.1,18.2,22.4,120,126,3.1
+2023-10-27,202310270DAL,BRK,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202310270DAL.html,8:23,.000,.000,.000,.000,0.0,12.7,6.6,12.7,0.0,0.0,25.0,20.6,20,127,-34.2
+2023-10-27,202310270DAL,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202310270DAL.html,3:25,.500,.500,.000,.000,66.9,62.4,64.6,0.0,14.0,0.0,50.0,50.4,73,87,-17.4
+2023-10-27,202310270DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202310270DAL.html,36:02,.833,.820,.560,.400,3.0,28.5,15.3,41.1,0.0,0.0,0.0,34.9,173,120,29.1
+2023-10-27,202310270DAL,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202310270DAL.html,33:57,.453,.382,.235,.235,3.1,20.2,11.4,23.9,0.0,0.0,0.0,23.6,113,122,-2.8
+2023-10-27,202310270DAL,DAL,Grant Williams,https://www.basketball-reference.com/boxscores/202310270DAL.html,29:09,.417,.417,.667,.000,0.0,23.5,11.4,0.0,0.0,0.0,25.0,11.7,61,121,-12.5
+2023-10-27,202310270DAL,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202310270DAL.html,16:50,.922,1.000,.000,.500,6.3,6.8,6.6,0.0,0.0,5.8,17.0,14.9,149,121,2.6
+2023-10-27,202310270DAL,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202310270DAL.html,14:18,.400,.400,.400,.000,0.0,8.0,3.9,9.0,0.0,0.0,16.7,17.9,75,125,-11.5
+2023-10-27,202310270DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202310270DAL.html,30:14,.506,.441,.412,.235,3.5,11.3,7.3,4.6,0.0,0.0,5.1,27.9,104,124,-6.0
+2023-10-27,202310270DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202310270DAL.html,27:50,.363,.286,.429,.857,3.8,8.2,5.9,8.5,5.1,0.0,23.7,19.4,71,112,-7.7
+2023-10-27,202310270DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202310270DAL.html,25:55,.000,.000,.000,.000,4.1,17.6,10.6,8.4,0.0,0.0,0.0,4.9,65,122,-7.2
+2023-10-27,202310270DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202310270DAL.html,12:51,1.127,1.125,.250,.500,16.6,0.0,8.6,0.0,3.7,0.0,0.0,16.2,230,118,19.4
+2023-10-27,202310270DAL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202310270DAL.html,8:52,1.000,1.000,.000,.000,0.0,0.0,0.0,14.0,0.0,0.0,50.0,9.6,105,127,-5.5
+2023-10-27,202310270DAL,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202310270DAL.html,4:02,.500,.500,.500,.000,0.0,0.0,0.0,0.0,11.8,24.3,0.0,21.2,99,81,20.1

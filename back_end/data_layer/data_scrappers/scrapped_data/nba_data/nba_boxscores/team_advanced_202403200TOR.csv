@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-20,202403200TOR,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202403200TOR.html,30:42,.417,.417,.417,.000,12.3,17.0,14.9,3.9,1.7,6.4,14.3,18.9,97,94,-9.3
+2024-03-20,202403200TOR,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202403200TOR.html,28:26,.630,.633,.467,.133,0.0,14.7,8.0,24.5,3.6,0.0,15.9,27.5,123,95,3.2
+2024-03-20,202403200TOR,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202403200TOR.html,27:34,.674,.571,.000,.857,27.5,41.6,35.2,42.4,0.0,3.6,9.4,16.0,169,91,15.6
+2024-03-20,202403200TOR,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202403200TOR.html,25:19,.500,.500,.833,.000,0.0,4.1,2.3,8.6,8.0,3.9,0.0,9.8,143,86,5.2
+2024-03-20,202403200TOR,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202403200TOR.html,19:02,.810,.833,.556,.222,0.0,11.0,6.0,7.7,0.0,0.0,0.0,21.5,172,103,7.5
+2024-03-20,202403200TOR,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202403200TOR.html,21:22,.571,.571,.143,.000,11.8,0.0,5.3,17.3,4.8,0.0,30.0,19.4,101,97,-2.8
+2024-03-20,202403200TOR,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202403200TOR.html,19:42,.618,.542,.583,.333,0.0,10.6,5.8,14.6,2.6,0.0,17.9,35.2,116,98,-5.5
+2024-03-20,202403200TOR,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202403200TOR.html,19:12,1.017,1.000,.333,.333,13.2,16.3,14.9,14.1,0.0,0.0,12.7,17.0,180,102,12.6
+2024-03-20,202403200TOR,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202403200TOR.html,16:02,1.042,1.000,.000,1.000,0.0,19.5,10.7,28.5,0.0,6.1,0.0,7.4,221,97,13.7
+2024-03-20,202403200TOR,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202403200TOR.html,12:00,.563,.563,.625,.000,10.5,17.4,14.3,12.5,4.2,0.0,11.1,31.1,119,92,-0.9
+2024-03-20,202403200TOR,SAC,Jalen Slawson,https://www.basketball-reference.com/boxscores/202403200TOR.html,8:23,.500,.500,.500,.000,15.1,12.4,13.6,0.0,6.1,0.0,0.0,9.9,137,89,-4.9
+2024-03-20,202403200TOR,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202403200TOR.html,7:52,.000,.000,1.000,.000,16.1,0.0,7.3,12.7,0.0,0.0,33.3,15.8,46,106,-24.5
+2024-03-20,202403200TOR,SAC,JaVale McGee,https://www.basketball-reference.com/boxscores/202403200TOR.html,4:24,.200,.200,.000,.000,57.4,23.7,39.0,0.0,23.1,22.3,0.0,47.1,84,35,-4.0
+2024-03-20,202403200TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202403200TOR.html,32:21,.503,.471,.529,.118,9.7,11.7,10.6,12.3,1.6,0.0,0.0,24.4,115,133,-0.3
+2024-03-20,202403200TOR,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202403200TOR.html,32:10,.282,.188,.750,.250,0.0,3.9,1.8,14.2,1.6,0.0,18.4,14.9,64,136,-13.1
+2024-03-20,202403200TOR,TOR,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202403200TOR.html,29:58,.597,.600,.400,.200,7.0,4.2,5.7,6.4,5.1,0.0,15.5,18.9,104,128,-0.6
+2024-03-20,202403200TOR,TOR,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202403200TOR.html,29:36,.643,.643,.429,.000,0.0,12.8,5.8,24.5,0.0,6.1,30.0,14.9,97,134,-6.1
+2024-03-20,202403200TOR,TOR,Bruce Brown,https://www.basketball-reference.com/boxscores/202403200TOR.html,25:46,.483,.375,.125,.375,8.1,14.7,11.1,40.8,2.0,0.0,30.0,22.8,92,131,-4.9
+2024-03-20,202403200TOR,TOR,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202403200TOR.html,22:11,.688,.688,.375,.000,0.0,17.1,7.7,9.8,2.3,0.0,20.0,19.9,102,129,-2.1
+2024-03-20,202403200TOR,TOR,Javon Freeman-Liberty,https://www.basketball-reference.com/boxscores/202403200TOR.html,20:59,.410,.250,.250,.500,5.0,18.1,10.9,7.4,2.4,0.0,0.0,10.2,108,128,-8.6
+2024-03-20,202403200TOR,TOR,Jordan Nwora,https://www.basketball-reference.com/boxscores/202403200TOR.html,17:25,.781,.786,.286,.429,0.0,14.5,6.6,0.0,2.9,0.0,37.5,33.7,80,129,-7.1
+2024-03-20,202403200TOR,TOR,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202403200TOR.html,13:28,.500,.500,.500,.000,0.0,0.0,0.0,41.3,3.8,0.0,0.0,13.1,127,133,3.9
+2024-03-20,202403200TOR,TOR,Mouhamadou Gueye,https://www.basketball-reference.com/boxscores/202403200TOR.html,13:23,.193,.167,.000,.667,7.8,9.4,8.5,0.0,3.8,6.8,27.9,35.4,34,127,-28.4
+2024-03-20,202403200TOR,TOR,Jontay Porter,https://www.basketball-reference.com/boxscores/202403200TOR.html,2:43,.000,.000,.000,.000,76.8,0.0,42.1,0.0,0.0,0.0,0.0,16.2,87,142,-13.8

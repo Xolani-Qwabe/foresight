@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-31,201912310HOU,DEN,Will Barton,https://www.basketball-reference.com/boxscores/201912310HOU.html,37:09,.304,.313,.188,.063,5.9,23.8,14.2,23.5,1.3,4.9,5.7,19.3,89,127,-3.5
+2019-12-31,201912310HOU,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/201912310HOU.html,31:59,.602,.588,.059,.059,6.8,23.7,14.6,20.0,0.0,0.0,25.6,30.1,97,133,-3.7
+2019-12-31,201912310HOU,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/201912310HOU.html,30:17,.429,.429,.286,.000,0.0,0.0,0.0,25.7,1.6,0.0,12.5,21.7,97,135,-5.2
+2019-12-31,201912310HOU,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/201912310HOU.html,26:38,.500,.500,.231,.000,28.7,9.5,19.8,15.8,1.8,6.8,7.1,21.6,122,129,4.7
+2019-12-31,201912310HOU,DEN,Torrey Craig,https://www.basketball-reference.com/boxscores/201912310HOU.html,21:05,.375,.375,1.000,.000,0.0,18.0,8.3,0.0,0.0,0.0,20.0,9.7,65,133,-15.1
+2019-12-31,201912310HOU,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/201912310HOU.html,23:12,.723,.708,.250,.083,4.7,10.9,7.6,29.1,6.3,0.0,0.0,22.0,159,122,19.1
+2019-12-31,201912310HOU,DEN,Malik Beasley,https://www.basketball-reference.com/boxscores/201912310HOU.html,19:36,.850,.800,.800,.400,0.0,12.9,6.0,0.0,2.5,0.0,14.5,14.4,143,130,3.2
+2019-12-31,201912310HOU,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/201912310HOU.html,17:37,.500,.500,.000,.000,6.2,7.2,6.6,0.0,0.0,5.1,20.0,11.6,89,135,-6.9
+2019-12-31,201912310HOU,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/201912310HOU.html,12:16,.296,.200,.000,.800,0.0,0.0,0.0,9.5,0.0,0.0,22.8,29.3,57,139,-20.8
+2019-12-31,201912310HOU,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/201912310HOU.html,10:53,.583,.583,.500,.000,10.0,23.2,16.1,0.0,0.0,0.0,0.0,22.6,127,133,0.3
+2019-12-31,201912310HOU,DEN,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/201912310HOU.html,3:45,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,139,-7.9
+2019-12-31,201912310HOU,DEN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/201912310HOU.html,3:45,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,21.9,73,138,-13.9
+2019-12-31,201912310HOU,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/201912310HOU.html,1:48,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,139,-9.1
+2019-12-31,201912310HOU,HOU,James Harden,https://www.basketball-reference.com/boxscores/201912310HOU.html,33:56,.770,.765,.529,.765,0.0,9.6,5.2,26.6,1.4,3.9,15.0,32.7,143,105,16.9
+2019-12-31,201912310HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/201912310HOU.html,33:53,.000,.000,1.000,.000,11.2,16.1,13.8,6.2,0.0,2.0,0.0,1.2,164,107,1.2
+2019-12-31,201912310HOU,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/201912310HOU.html,33:49,.568,.500,.091,.273,3.7,6.5,5.2,32.7,1.4,2.0,10.9,33.9,126,107,3.2
+2019-12-31,201912310HOU,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/201912310HOU.html,30:48,.400,.400,.700,.000,0.0,7.1,3.8,7.5,0.0,2.2,9.1,14.8,95,110,-5.2
+2019-12-31,201912310HOU,HOU,Clint Capela,https://www.basketball-reference.com/boxscores/201912310HOU.html,29:56,.581,.583,.000,.333,12.7,25.5,19.6,0.0,4.9,0.0,0.0,19.1,135,95,4.0
+2019-12-31,201912310HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/201912310HOU.html,26:00,.761,.786,.714,.286,0.0,4.2,2.3,4.8,0.0,2.6,20.2,15.8,124,111,2.4
+2019-12-31,201912310HOU,HOU,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201912310HOU.html,18:04,.752,.750,.000,.750,35.0,42.3,38.9,0.0,2.7,3.7,15.8,29.0,140,91,6.9
+2019-12-31,201912310HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/201912310HOU.html,17:36,.643,.643,1.000,.000,7.2,12.4,10.0,0.0,0.0,0.0,12.5,18.9,124,110,0.0
+2019-12-31,201912310HOU,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/201912310HOU.html,9:38,,,,,0.0,0.0,0.0,10.8,0.0,0.0,,0.0,235,114,-0.9
+2019-12-31,201912310HOU,HOU,Gary Clark,https://www.basketball-reference.com/boxscores/201912310HOU.html,3:10,1.500,1.500,1.000,.000,0.0,34.4,18.5,0.0,0.0,0.0,0.0,13.1,300,103,29.2
+2019-12-31,201912310HOU,HOU,Chris Clemons,https://www.basketball-reference.com/boxscores/201912310HOU.html,3:10,.750,.750,1.000,.000,0.0,0.0,0.0,49.1,0.0,0.0,50.0,52.4,86,114,-12.0

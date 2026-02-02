@@ -1,0 +1,80 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-01-28,202001280CLE,NOP,Q1,Jrue Holiday,https://www.basketball-reference.com/boxscores/202001280CLE.html,12.0,4,6,.667,2,4,.500,1,1,1.000,0,2,2,4,1,2,0,0,11,14.2,+6
+2020-01-28,202001280CLE,NOP,Q1,Lonzo Ball,https://www.basketball-reference.com/boxscores/202001280CLE.html,9.43,2,6,.333,1,4,.250,0,0,,0,1,1,1,0,0,0,0,5,2.6,+5
+2020-01-28,202001280CLE,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202001280CLE.html,12.0,5,7,.714,4,4,1.000,1,1,1.000,0,0,0,2,1,0,1,0,15,13.5,+6
+2020-01-28,202001280CLE,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.62,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-1
+2020-01-28,202001280CLE,NOP,Q1,Derrick Favors,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.78,1,2,.500,0,0,,0,0,,1,0,1,1,0,0,0,1,2,2.0,+6
+2020-01-28,202001280CLE,NOP,Q1,JJ Redick,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.38,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.0,+7
+2020-01-28,202001280CLE,NOP,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202001280CLE.html,2.57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+1
+2020-01-28,202001280CLE,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.22,2,2,1.000,0,0,,1,1,1.000,0,0,0,0,0,0,0,0,5,4.4,0
+2020-01-28,202001280CLE,NOP,Q2,Jrue Holiday,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.48,2,3,.667,0,1,.000,2,3,.667,0,0,0,1,1,0,0,0,6,6.0,+2
+2020-01-28,202001280CLE,NOP,Q2,Lonzo Ball,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.52,0,1,.000,0,1,.000,0,0,,1,1,2,3,0,0,3,0,0,-0.6,+1
+2020-01-28,202001280CLE,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.88,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,4,4.1,+2
+2020-01-28,202001280CLE,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202001280CLE.html,10.38,3,6,.500,0,0,,0,1,.000,0,4,4,1,0,0,0,0,6,4.5,+3
+2020-01-28,202001280CLE,NOP,Q2,Derrick Favors,https://www.basketball-reference.com/boxscores/202001280CLE.html,2.28,0,0,,0,0,,0,0,,1,1,2,0,0,0,1,2,0,-0.8,+1
+2020-01-28,202001280CLE,NOP,Q2,JJ Redick,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.12,1,2,.500,1,2,.500,3,3,1.000,0,2,2,0,0,0,2,0,6,3.6,+1
+2020-01-28,202001280CLE,NOP,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.03,0,1,.000,0,1,.000,0,0,,0,0,0,1,1,2,0,1,0,2.0,-1
+2020-01-28,202001280CLE,NOP,Q2,Nicolò Melli,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.9,1,1,1.000,1,1,1.000,0,0,,1,0,1,1,0,0,0,2,3,3.3,+6
+2020-01-28,202001280CLE,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.43,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,2,1.2,-4
+2020-01-28,202001280CLE,NOP,Q2,Frank Jackson,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.97,2,4,.500,0,1,.000,3,4,.750,0,2,2,0,0,1,1,1,7,4.5,+4
+2020-01-28,202001280CLE,NOP,Q3,Jrue Holiday,https://www.basketball-reference.com/boxscores/202001280CLE.html,8.47,3,4,.750,1,1,1.000,2,2,1.000,0,0,0,2,1,2,0,1,9,10.8,+15
+2020-01-28,202001280CLE,NOP,Q3,Lonzo Ball,https://www.basketball-reference.com/boxscores/202001280CLE.html,10.62,0,2,.000,0,2,.000,0,0,,0,3,3,2,1,2,1,0,0,2.3,+3
+2020-01-28,202001280CLE,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202001280CLE.html,12.0,2,2,1.000,0,0,,1,1,1.000,0,1,1,3,1,0,2,1,5,5.4,+5
+2020-01-28,202001280CLE,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.5,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,0,0,4,2.7,+7
+2020-01-28,202001280CLE,NOP,Q3,Derrick Favors,https://www.basketball-reference.com/boxscores/202001280CLE.html,8.17,3,3,1.000,0,0,,1,3,.333,0,4,4,0,0,1,0,0,7,7.2,+12
+2020-01-28,202001280CLE,NOP,Q3,JJ Redick,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.5,1,3,.333,1,3,.333,2,2,1.000,0,0,0,1,0,0,1,2,5,2.2,-2
+2020-01-28,202001280CLE,NOP,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.92,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-8
+2020-01-28,202001280CLE,NOP,Q3,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202001280CLE.html,3.83,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-7
+2020-01-28,202001280CLE,NOP,Q4,Jrue Holiday,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.25,1,3,.333,0,1,.000,0,0,,0,0,0,1,0,0,1,0,2,0.0,-4
+2020-01-28,202001280CLE,NOP,Q4,Lonzo Ball,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.8,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,0,0,0,0.6,+4
+2020-01-28,202001280CLE,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202001280CLE.html,2.68,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-1
+2020-01-28,202001280CLE,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.25,2,3,.667,0,0,,0,0,,2,1,3,0,0,0,0,1,4,4.0,-4
+2020-01-28,202001280CLE,NOP,Q4,Derrick Favors,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.8,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,0,0,1.3,+5
+2020-01-28,202001280CLE,NOP,Q4,JJ Redick,https://www.basketball-reference.com/boxscores/202001280CLE.html,8.68,1,3,.333,0,1,.000,0,0,,0,1,1,2,1,0,0,0,2,3.0,+1
+2020-01-28,202001280CLE,NOP,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202001280CLE.html,9.32,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,+1
+2020-01-28,202001280CLE,NOP,Q4,Nicolò Melli,https://www.basketball-reference.com/boxscores/202001280CLE.html,10.32,3,5,.600,2,4,.500,0,0,,1,2,3,0,0,0,2,0,8,5.0,0
+2020-01-28,202001280CLE,NOP,Q4,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202001280CLE.html,1.63,0,1,.000,0,0,,1,2,.500,0,1,1,1,0,1,0,0,1,1.6,-1
+2020-01-28,202001280CLE,NOP,Q4,Frank Jackson,https://www.basketball-reference.com/boxscores/202001280CLE.html,1.63,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-1
+2020-01-28,202001280CLE,NOP,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202001280CLE.html,0.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2020-01-28,202001280CLE,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/202001280CLE.html,9.43,2,7,.286,0,2,.000,2,2,1.000,1,0,1,0,0,0,0,0,6,2.6,-5
+2020-01-28,202001280CLE,CLE,Q1,Kevin Love,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.78,3,6,.500,1,3,.333,0,0,,0,0,0,0,0,0,0,0,7,4.0,-6
+2020-01-28,202001280CLE,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.78,2,3,.667,1,2,.500,0,0,,1,2,3,3,0,0,1,1,5,5.7,-6
+2020-01-28,202001280CLE,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/202001280CLE.html,10.05,1,2,.500,0,0,,0,0,,3,2,5,0,0,0,0,0,2,3.7,-10
+2020-01-28,202001280CLE,CLE,Q1,Dante Exum,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.1,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1
+2020-01-28,202001280CLE,CLE,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.9,3,4,.750,2,2,1.000,0,0,,0,0,0,1,0,0,0,2,8,6.3,-5
+2020-01-28,202001280CLE,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.22,1,1,1.000,0,0,,2,2,1.000,1,1,2,1,0,0,1,0,4,4.4,0
+2020-01-28,202001280CLE,CLE,Q1,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.22,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1.7,0
+2020-01-28,202001280CLE,CLE,Q1,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202001280CLE.html,2.57,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,-1
+2020-01-28,202001280CLE,CLE,Q1,John Henson,https://www.basketball-reference.com/boxscores/202001280CLE.html,1.95,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+4
+2020-01-28,202001280CLE,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/202001280CLE.html,10.37,4,7,.571,1,2,.500,2,2,1.000,0,1,1,1,1,1,0,1,11,10.0,-4
+2020-01-28,202001280CLE,CLE,Q2,Kevin Love,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.87,0,3,.000,0,3,.000,2,2,1.000,0,3,3,2,0,0,1,0,2,1.2,-5
+2020-01-28,202001280CLE,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.85,1,4,.250,0,0,,0,0,,1,0,1,0,0,0,0,1,2,-0.1,-2
+2020-01-28,202001280CLE,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.85,1,1,1.000,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,2.6,-2
+2020-01-28,202001280CLE,CLE,Q2,Dante Exum,https://www.basketball-reference.com/boxscores/202001280CLE.html,3.63,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,1,1,2,0.6,-3
+2020-01-28,202001280CLE,CLE,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.87,1,3,.333,1,1,1.000,0,0,,1,0,1,0,0,0,0,0,3,2.0,-1
+2020-01-28,202001280CLE,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.15,0,1,.000,0,1,.000,2,2,1.000,1,2,3,1,1,0,0,0,2,4.3,-1
+2020-01-28,202001280CLE,CLE,Q2,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.15,0,2,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,1,2,0.2,-1
+2020-01-28,202001280CLE,CLE,Q2,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.13,0,1,.000,0,1,.000,0,0,,0,0,0,3,0,0,0,2,0,0.6,+2
+2020-01-28,202001280CLE,CLE,Q2,John Henson,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.13,2,3,.667,0,0,,0,0,,1,0,1,0,1,0,0,1,4,4.0,+2
+2020-01-28,202001280CLE,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.08,1,4,.250,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,1.3,-13
+2020-01-28,202001280CLE,CLE,Q3,Kevin Love,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.08,1,4,.250,1,2,.500,0,0,,0,2,2,1,0,0,1,2,3,0.1,-13
+2020-01-28,202001280CLE,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.8,1,3,.333,0,1,.000,0,0,,0,0,0,1,0,0,0,2,2,0.2,-10
+2020-01-28,202001280CLE,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.08,0,3,.000,0,0,,0,0,,2,1,3,0,0,0,1,0,0,-1.4,-13
+2020-01-28,202001280CLE,CLE,Q3,Dante Exum,https://www.basketball-reference.com/boxscores/202001280CLE.html,5.15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-7
+2020-01-28,202001280CLE,CLE,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.85,3,5,.600,2,3,.667,0,0,,0,1,1,0,1,0,2,1,8,4.6,+2
+2020-01-28,202001280CLE,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.92,0,0,,0,0,,0,0,,0,3,3,5,1,0,0,0,0,5.4,+8
+2020-01-28,202001280CLE,CLE,Q3,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202001280CLE.html,6.2,2,3,.667,0,1,.000,1,2,.500,0,1,1,0,0,0,1,0,5,2.6,+5
+2020-01-28,202001280CLE,CLE,Q3,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.92,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+8
+2020-01-28,202001280CLE,CLE,Q3,John Henson,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.92,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,0.6,+8
+2020-01-28,202001280CLE,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.9,2,2,1.000,0,0,,0,0,,0,1,1,2,1,0,0,0,4,6.1,+4
+2020-01-28,202001280CLE,CLE,Q4,Kevin Love,https://www.basketball-reference.com/boxscores/202001280CLE.html,3.27,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+3
+2020-01-28,202001280CLE,CLE,Q4,Cedi Osman,https://www.basketball-reference.com/boxscores/202001280CLE.html,4.9,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.0,+4
+2020-01-28,202001280CLE,CLE,Q4,Dante Exum,https://www.basketball-reference.com/boxscores/202001280CLE.html,3.27,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+3
+2020-01-28,202001280CLE,CLE,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.1,1,4,.250,0,2,.000,0,0,,0,0,0,1,0,0,1,0,2,-0.7,-4
+2020-01-28,202001280CLE,CLE,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202001280CLE.html,10.37,5,8,.625,1,2,.500,0,0,,0,3,3,0,0,0,0,1,11,7.9,-1
+2020-01-28,202001280CLE,CLE,Q4,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.1,0,0,,0,0,,0,0,,1,3,4,0,0,0,0,1,0,1.2,-4
+2020-01-28,202001280CLE,CLE,Q4,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.1,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-4
+2020-01-28,202001280CLE,CLE,Q4,John Henson,https://www.basketball-reference.com/boxscores/202001280CLE.html,7.1,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,-4
+2020-01-28,202001280CLE,CLE,Q4,Tyler Cook,https://www.basketball-reference.com/boxscores/202001280CLE.html,1.63,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3,+1
+2020-01-28,202001280CLE,CLE,Q4,Matt Mooney,https://www.basketball-reference.com/boxscores/202001280CLE.html,1.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+1
+2020-01-28,202001280CLE,CLE,Q4,Dean Wade,https://www.basketball-reference.com/boxscores/202001280CLE.html,1.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1

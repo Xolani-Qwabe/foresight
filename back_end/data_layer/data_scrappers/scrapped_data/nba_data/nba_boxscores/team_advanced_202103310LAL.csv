@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-31,202103310LAL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202103310LAL.html,35:55,.472,.472,.167,.000,3.7,14.5,9.8,34.1,1.3,0.0,10.0,24.8,109,100,-2.8
+2021-03-31,202103310LAL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202103310LAL.html,35:30,.718,.654,.077,.769,7.5,23.5,16.5,17.3,0.0,8.0,34.1,33.1,102,95,-0.7
+2021-03-31,202103310LAL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202103310LAL.html,34:12,.788,.781,.313,.250,0.0,24.4,13.7,31.7,5.5,2.8,18.4,28.3,132,86,14.9
+2021-03-31,202103310LAL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202103310LAL.html,31:14,.732,.688,.750,.250,8.5,10.0,9.4,8.6,4.5,0.0,18.4,15.5,129,94,5.1
+2021-03-31,202103310LAL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202103310LAL.html,31:00,.667,.667,.333,.000,4.3,13.5,9.4,11.9,0.0,12.1,0.0,4.3,167,96,5.1
+2021-03-31,202103310LAL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202103310LAL.html,27:20,.500,.500,.600,.000,0.0,19.1,10.7,0.0,0.0,0.0,16.7,9.8,81,101,-6.2
+2021-03-31,202103310LAL,MIL,Bryn Forbes,https://www.basketball-reference.com/boxscores/202103310LAL.html,20:28,.643,.643,.714,.000,0.0,5.1,2.9,0.0,4.6,0.0,0.0,15.2,125,96,5.1
+2021-03-31,202103310LAL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202103310LAL.html,12:28,.581,.583,.167,.333,0.0,8.4,4.7,0.0,7.5,0.0,22.5,31.7,84,88,-3.9
+2021-03-31,202103310LAL,MIL,Mamadi Diakite,https://www.basketball-reference.com/boxscores/202103310LAL.html,6:43,.750,.750,.500,.000,19.9,0.0,8.7,0.0,0.0,0.0,33.3,19.9,103,107,-7.6
+2021-03-31,202103310LAL,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202103310LAL.html,2:18,.000,.000,.000,.000,0.0,0.0,0.0,0.0,20.5,0.0,0.0,19.3,0,63,-1.7
+2021-03-31,202103310LAL,MIL,Sam Merrill,https://www.basketball-reference.com/boxscores/202103310LAL.html,1:26,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,107,-6.2
+2021-03-31,202103310LAL,MIL,Axel Toupane,https://www.basketball-reference.com/boxscores/202103310LAL.html,1:26,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,107,-4.7
+2021-03-31,202103310LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202103310LAL.html,34:18,.459,.441,.529,.059,3.0,23.3,11.9,16.7,1.4,0.0,10.3,22.9,92,112,-0.9
+2021-03-31,202103310LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202103310LAL.html,31:49,.450,.417,.444,.111,3.3,8.4,5.5,46.5,1.5,2.8,13.7,27.8,97,111,2.7
+2021-03-31,202103310LAL,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202103310LAL.html,28:48,.845,.813,.625,.250,7.2,18.5,12.2,12.5,0.0,0.0,18.4,15.3,137,116,5.9
+2021-03-31,202103310LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202103310LAL.html,22:10,.188,.000,.250,.750,4.7,12.0,7.9,6.2,0.0,0.0,27.3,13.4,45,117,-14.3
+2021-03-31,202103310LAL,LAL,Andre Drummond,https://www.basketball-reference.com/boxscores/202103310LAL.html,14:19,.291,.333,.000,.333,0.0,9.3,4.1,23.7,0.0,6.3,30.4,27.9,49,112,-16.5
+2021-03-31,202103310LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202103310LAL.html,28:14,.429,.429,.286,.000,0.0,18.9,8.3,11.4,3.3,3.2,0.0,10.0,100,105,0.6
+2021-03-31,202103310LAL,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202103310LAL.html,25:45,.675,.545,.091,.636,12.2,10.4,11.4,7.8,1.8,0.0,17.6,26.8,119,113,2.9
+2021-03-31,202103310LAL,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202103310LAL.html,25:12,.643,.643,1.000,.000,8.3,10.6,9.3,6.5,5.6,0.0,0.0,11.2,139,104,10.5
+2021-03-31,202103310LAL,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202103310LAL.html,16:53,.307,.250,.250,.500,0.0,7.9,3.5,8.8,0.0,0.0,55.1,26.1,32,117,-27.5
+2021-03-31,202103310LAL,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202103310LAL.html,5:37,.333,.333,.667,.000,0.0,71.2,31.3,32.3,8.4,32.2,0.0,21.6,86,63,24.7
+2021-03-31,202103310LAL,LAL,Kostas Antetokounmpo,https://www.basketball-reference.com/boxscores/202103310LAL.html,2:18,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.6,0,119,-21.3
+2021-03-31,202103310LAL,LAL,Devontae Cacok,https://www.basketball-reference.com/boxscores/202103310LAL.html,2:18,,,,,45.4,58.0,50.9,0.0,0.0,0.0,100.0,17.6,43,110,-18.2
+2021-03-31,202103310LAL,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202103310LAL.html,2:18,.862,1.000,.000,3.000,0.0,58.0,25.5,0.0,0.0,0.0,0.0,40.8,176,110,32.9

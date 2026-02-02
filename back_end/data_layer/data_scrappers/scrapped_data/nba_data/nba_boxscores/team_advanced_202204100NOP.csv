@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-10,202204100NOP,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202204100NOP.html,30:55,.676,.672,.483,.103,0.0,9.0,5.6,12.9,0.0,0.0,9.0,49.9,118,119,-1.2
+2022-04-10,202204100NOP,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202204100NOP.html,28:16,.619,.563,.563,.250,5.5,9.8,8.2,22.9,0.0,5.8,22.0,37.3,109,115,-2.2
+2022-04-10,202204100NOP,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202204100NOP.html,24:54,1.215,1.250,.500,1.000,0.0,11.1,7.0,25.6,2.0,0.0,41.0,9.1,163,113,7.2
+2022-04-10,202204100NOP,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202204100NOP.html,19:18,.833,.833,.333,.000,0.0,4.8,3.0,11.3,0.0,0.0,0.0,7.2,179,121,0.4
+2022-04-10,202204100NOP,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202204100NOP.html,14:59,.667,.667,.000,.000,0.0,37.0,23.2,22.6,0.0,0.0,0.0,9.3,167,104,5.6
+2022-04-10,202204100NOP,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202204100NOP.html,28:55,.827,.850,.400,.200,0.0,16.0,10.0,8.9,1.8,0.0,8.4,19.0,146,111,4.9
+2022-04-10,202204100NOP,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202204100NOP.html,24:19,1.000,1.000,.500,.000,0.0,15.2,9.5,18.3,0.0,0.0,42.9,13.3,119,115,0.1
+2022-04-10,202204100NOP,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202204100NOP.html,23:38,.698,.643,.143,.286,6.6,15.6,12.2,5.0,2.1,0.0,0.0,15.4,153,110,2.5
+2022-04-10,202204100NOP,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202204100NOP.html,22:52,.667,.667,.333,.000,20.3,16.1,17.7,32.8,4.4,0.0,50.0,12.1,132,104,6.6
+2022-04-10,202204100NOP,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202204100NOP.html,17:45,1.000,1.000,.000,.000,17.4,5.2,9.8,0.0,0.0,0.0,0.0,10.4,210,121,3.0
+2022-04-10,202204100NOP,GSW,Quinndary Weatherspoon,https://www.basketball-reference.com/boxscores/202204100NOP.html,4:09,,,,,0.0,0.0,0.0,23.6,0.0,0.0,,0.0,239,124,3.5
+2022-04-10,202204100NOP,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202204100NOP.html,32:19,.582,.533,.267,.200,8.6,9.6,8.9,29.6,0.0,0.0,15.5,24.9,120,141,-0.7
+2022-04-10,202204100NOP,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202204100NOP.html,26:45,.558,.538,.462,.077,3.5,28.9,13.0,5.7,3.8,0.0,6.9,22.5,116,130,1.8
+2022-04-10,202204100NOP,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202204100NOP.html,19:36,.337,.273,.000,.182,14.1,47.4,26.6,14.1,2.6,0.0,7.8,27.4,92,130,-9.4
+2022-04-10,202204100NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202204100NOP.html,16:29,.363,.250,.333,.333,11.2,0.0,7.0,0.0,3.1,0.0,12.7,19.9,87,135,-11.4
+2022-04-10,202204100NOP,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202204100NOP.html,5:33,.000,.000,1.000,.000,0.0,27.9,10.4,20.6,0.0,0.0,0.0,15.0,36,139,-19.7
+2022-04-10,202204100NOP,NOP,Gary Clark,https://www.basketball-reference.com/boxscores/202204100NOP.html,27:39,.860,.889,.556,.222,16.7,5.6,12.5,16.5,1.8,0.0,9.2,16.4,167,137,12.5
+2022-04-10,202204100NOP,NOP,Tony Snell,https://www.basketball-reference.com/boxscores/202204100NOP.html,25:11,.571,.571,.857,.000,0.0,6.1,2.3,10.5,4.0,0.0,0.0,11.6,136,132,-0.5
+2022-04-10,202204100NOP,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202204100NOP.html,23:56,.375,.375,.625,.000,0.0,12.9,4.8,0.0,0.0,0.0,20.0,17.4,65,140,-15.7
+2022-04-10,202204100NOP,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202204100NOP.html,22:08,.466,.500,.167,.167,8.3,28.0,15.7,0.0,2.3,0.0,7.2,26.1,95,133,-6.4
+2022-04-10,202204100NOP,NOP,Jared Harper,https://www.basketball-reference.com/boxscores/202204100NOP.html,20:19,.556,.556,.667,.000,4.5,0.0,2.8,65.3,2.5,0.0,0.0,18.4,156,136,9.1
+2022-04-10,202204100NOP,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202204100NOP.html,20:05,.500,.500,.286,.000,4.6,15.4,8.6,0.0,2.5,0.0,12.5,16.6,97,134,-9.6

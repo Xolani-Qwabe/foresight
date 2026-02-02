@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-12,202202120POR,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202202120POR.html,40:32,.544,.400,.200,.650,7.0,37.5,20.6,33.0,0.0,0.0,16.3,33.7,106,115,-0.3
+2022-02-12,202202120POR,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202202120POR.html,36:48,.791,.850,.800,.600,7.7,3.2,5.7,16.9,2.7,0.0,7.3,16.5,148,117,8.1
+2022-02-12,202202120POR,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202202120POR.html,36:00,.144,.115,.769,.154,0.0,9.8,4.3,13.5,2.8,3.0,17.8,20.8,36,114,-14.9
+2022-02-12,202202120POR,NYK,Kemba Walker,https://www.basketball-reference.com/boxscores/202202120POR.html,25:53,.810,.750,.667,.417,0.0,4.5,2.0,20.6,0.0,0.0,0.0,24.4,161,123,13.3
+2022-02-12,202202120POR,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202202120POR.html,14:25,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,22.7,0.0,3.1,200,110,-2.2
+2022-02-12,202202120POR,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202202120POR.html,26:49,.667,.667,.167,.000,7.0,21.8,13.6,7.5,0.0,4.1,14.3,11.6,122,116,-4.4
+2022-02-12,202202120POR,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202202120POR.html,20:43,.450,.375,.375,.250,4.5,28.3,15.1,35.2,2.4,0.0,0.0,19.1,115,112,2.9
+2022-02-12,202202120POR,NYK,Cam Reddish,https://www.basketball-reference.com/boxscores/202202120POR.html,14:26,.630,.333,.333,1.333,0.0,8.1,3.6,0.0,3.4,7.6,17.4,17.7,109,110,1.2
+2022-02-12,202202120POR,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202202120POR.html,10:50,.291,.167,.500,.333,0.0,21.6,9.6,0.0,0.0,0.0,0.0,28.2,64,119,-17.9
+2022-02-12,202202120POR,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202202120POR.html,8:00,.000,.000,.500,.000,0.0,14.6,6.5,0.0,0.0,0.0,33.3,16.7,0,121,-24.2
+2022-02-12,202202120POR,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202202120POR.html,5:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,124,-14.3
+2022-02-12,202202120POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202202120POR.html,37:04,.617,.609,.522,.130,6.3,7.6,7.0,40.2,0.0,0.0,7.6,31.6,126,111,8.5
+2022-02-12,202202120POR,POR,Justise Winslow,https://www.basketball-reference.com/boxscores/202202120POR.html,37:04,.618,.550,.200,.300,6.3,7.6,7.0,23.2,1.3,3.1,8.1,14.8,138,106,5.0
+2022-02-12,202202120POR,POR,Josh Hart,https://www.basketball-reference.com/boxscores/202202120POR.html,36:32,.741,.708,.500,.667,0.0,2.6,1.4,8.5,0.0,0.0,20.5,23.8,114,112,-2.8
+2022-02-12,202202120POR,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202202120POR.html,33:17,.551,.500,.000,.200,14.1,45.2,31.4,26.4,0.0,0.0,31.5,21.2,102,99,-1.6
+2022-02-12,202202120POR,POR,CJ Elleby,https://www.basketball-reference.com/boxscores/202202120POR.html,23:21,.417,.417,.667,.000,0.0,20.2,11.2,5.7,0.0,4.9,14.3,13.3,77,104,-7.4
+2022-02-12,202202120POR,POR,Ben McLemore,https://www.basketball-reference.com/boxscores/202202120POR.html,30:34,.660,.625,.750,.167,0.0,15.4,8.5,10.3,1.6,0.0,0.0,18.8,135,105,4.3
+2022-02-12,202202120POR,POR,Greg Brown III,https://www.basketball-reference.com/boxscores/202202120POR.html,16:29,.250,.250,.500,.000,7.1,17.1,12.7,7.9,3.0,0.0,0.0,10.8,83,101,-5.7
+2022-02-12,202202120POR,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202202120POR.html,14:43,1.064,1.000,.000,2.000,0.0,32.0,17.7,26.6,0.0,0.0,51.5,11.7,121,103,0.2
+2022-02-12,202202120POR,POR,Elijah Hughes,https://www.basketball-reference.com/boxscores/202202120POR.html,10:56,.417,.417,.833,.000,0.0,8.6,4.8,0.0,0.0,0.0,0.0,24.4,83,110,-12.4

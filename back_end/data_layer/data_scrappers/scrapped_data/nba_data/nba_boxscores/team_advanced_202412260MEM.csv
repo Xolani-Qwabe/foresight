@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-26,202412260MEM,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202412260MEM.html,35:42,.597,.550,.250,.200,2.6,13.2,7.8,30.3,1.2,0.0,12.1,25.4,117,136,0.8
+2024-12-26,202412260MEM,TOR,RJ Barrett,https://www.basketball-reference.com/boxscores/202412260MEM.html,33:50,.640,.611,.278,.389,8.2,16.7,12.4,40.8,0.0,0.0,8.7,25.0,134,137,6.6
+2024-12-26,202412260MEM,TOR,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202412260MEM.html,25:16,.421,.409,.545,.182,0.0,0.0,0.0,9.2,0.0,0.0,0.0,17.2,95,145,-10.9
+2024-12-26,202412260MEM,TOR,Gradey Dick,https://www.basketball-reference.com/boxscores/202412260MEM.html,24:41,.563,.542,.333,.083,3.7,7.6,5.7,15.6,3.4,0.0,19.4,22.9,96,133,-4.9
+2024-12-26,202412260MEM,TOR,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202412260MEM.html,23:06,.778,.778,.444,.000,0.0,20.4,10.1,28.4,0.0,0.0,18.2,17.5,126,135,2.7
+2024-12-26,202412260MEM,TOR,Davion Mitchell,https://www.basketball-reference.com/boxscores/202412260MEM.html,26:44,.500,.500,.833,.000,0.0,0.0,0.0,19.8,3.2,0.0,0.0,8.2,129,138,-2.4
+2024-12-26,202412260MEM,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202412260MEM.html,21:25,.603,.583,.417,.083,12.9,8.8,10.9,0.0,0.0,0.0,7.4,23.0,115,140,-6.0
+2024-12-26,202412260MEM,TOR,Jonathan Mogbo,https://www.basketball-reference.com/boxscores/202412260MEM.html,17:03,.143,.143,.143,.000,16.2,16.6,16.4,6.1,5.0,13.2,12.5,17.2,59,121,-7.9
+2024-12-26,202412260MEM,TOR,Jamison Battle,https://www.basketball-reference.com/boxscores/202412260MEM.html,16:27,.466,.417,.833,.167,0.0,0.0,0.0,20.3,2.6,0.0,13.4,16.6,99,139,-5.4
+2024-12-26,202412260MEM,TOR,A.J. Lawson,https://www.basketball-reference.com/boxscores/202412260MEM.html,5:27,.773,.833,.333,.667,0.0,34.5,17.1,0.0,0.0,0.0,0.0,26.1,142,129,10.0
+2024-12-26,202412260MEM,TOR,Garrett Temple,https://www.basketball-reference.com/boxscores/202412260MEM.html,5:27,.000,.000,.667,.000,0.0,34.5,17.1,18.0,0.0,0.0,25.0,26.9,16,129,-30.9
+2024-12-26,202412260MEM,TOR,Ulrich Chomche,https://www.basketball-reference.com/boxscores/202412260MEM.html,4:52,.000,.000,.000,.000,37.9,0.0,19.2,20.1,0.0,0.0,50.0,15.1,74,144,-16.7
+2024-12-26,202412260MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202412260MEM.html,31:58,.587,.559,.176,.118,11.8,20.2,16.0,20.3,0.0,6.9,14.4,22.4,131,110,4.0
+2024-12-26,202412260MEM,MEM,Zach Edey,https://www.basketball-reference.com/boxscores/202412260MEM.html,27:17,.610,.633,.333,.333,31.0,23.7,27.3,8.3,0.0,5.4,0.0,21.7,155,110,6.3
+2024-12-26,202412260MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202412260MEM.html,24:07,.638,.550,.300,.400,0.0,7.7,3.9,37.3,0.0,0.0,20.3,21.0,136,118,1.0
+2024-12-26,202412260MEM,MEM,Jaylen Wells,https://www.basketball-reference.com/boxscores/202412260MEM.html,23:46,.708,.708,.833,.000,0.0,3.9,2.0,4.4,1.8,0.0,0.0,17.3,166,115,5.4
+2024-12-26,202412260MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202412260MEM.html,23:21,.731,.731,.462,.000,0.0,19.8,10.0,9.9,0.0,3.2,13.3,22.1,135,112,2.6
+2024-12-26,202412260MEM,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202412260MEM.html,24:39,.697,.611,.889,.444,0.0,0.0,0.0,31.0,1.7,0.0,21.8,19.2,141,117,5.0
+2024-12-26,202412260MEM,MEM,Jake LaRavia,https://www.basketball-reference.com/boxscores/202412260MEM.html,21:23,.372,.333,.222,.444,17.6,21.6,19.6,13.1,2.0,0.0,21.8,22.1,94,109,-11.1
+2024-12-26,202412260MEM,MEM,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202412260MEM.html,20:57,.528,.458,.417,.417,4.5,4.4,4.4,14.8,8.1,0.0,12.3,26.6,120,101,3.1
+2024-12-26,202412260MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202412260MEM.html,20:10,.671,.667,.000,.833,14.0,27.5,20.8,0.0,0.0,3.7,0.0,14.0,157,110,-0.2
+2024-12-26,202412260MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202412260MEM.html,16:08,1.500,1.500,1.000,.000,5.8,22.9,14.4,12.1,2.6,4.6,0.0,6.4,274,105,21.2
+2024-12-26,202412260MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202412260MEM.html,3:18,.667,.667,.000,.000,57.0,28.0,42.4,0.0,0.0,0.0,25.0,41.6,112,112,-0.3
+2024-12-26,202412260MEM,MEM,Cam Spencer,https://www.basketball-reference.com/boxscores/202412260MEM.html,2:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-8.0

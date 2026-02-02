@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-10-31,202310310LAC,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202310310LAC.html,32:21,.538,.538,.538,.000,3.5,24.7,14.1,15.3,0.0,2.6,18.8,21.3,92,115,-3.6
+2023-10-31,202310310LAC,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202310310LAC.html,32:12,.524,.545,.000,.091,3.5,14.2,8.9,5.1,1.4,0.0,14.9,18.0,90,116,-5.9
+2023-10-31,202310310LAC,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202310310LAC.html,32:03,.454,.423,.231,.615,0.0,14.3,7.1,19.6,5.8,0.0,15.4,26.2,85,106,-0.3
+2023-10-31,202310310LAC,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202310310LAC.html,31:36,.550,.550,.500,.000,7.2,14.5,10.8,15.0,1.5,2.6,23.1,17.7,94,114,-3.3
+2023-10-31,202310310LAC,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202310310LAC.html,29:42,.329,.250,.250,.750,3.8,26.9,15.4,13.9,1.6,0.0,15.8,18.3,73,113,-7.0
+2023-10-31,202310310LAC,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202310310LAC.html,17:45,.712,.800,.800,.600,0.0,12.9,6.4,18.1,2.6,0.0,0.0,15.3,142,114,8.4
+2023-10-31,202310310LAC,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202310310LAC.html,17:31,.579,.500,.333,1.000,0.0,13.0,6.5,9.2,0.0,0.0,10.4,23.7,108,119,-5.3
+2023-10-31,202310310LAC,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202310310LAC.html,14:22,.674,.571,.286,.857,0.0,8.0,4.0,13.6,3.2,5.8,9.4,31.9,125,109,9.4
+2023-10-31,202310310LAC,ORL,Joe Ingles,https://www.basketball-reference.com/boxscores/202310310LAC.html,12:48,.000,.000,1.000,.000,0.0,8.9,4.5,9.9,0.0,0.0,0.0,3.4,50,121,-9.3
+2023-10-31,202310310LAC,ORL,Goga Bitadze,https://www.basketball-reference.com/boxscores/202310310LAC.html,3:56,.568,,,,29.1,0.0,14.5,96.3,0.0,0.0,0.0,9.6,177,123,33.2
+2023-10-31,202310310LAC,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202310310LAC.html,3:56,,,,,0.0,0.0,0.0,32.1,0.0,0.0,,0.0,218,122,-2.7
+2023-10-31,202310310LAC,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202310310LAC.html,3:56,.551,.500,.800,.200,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.5,106,123,7.1
+2023-10-31,202310310LAC,ORL,Jett Howard,https://www.basketball-reference.com/boxscores/202310310LAC.html,3:56,1.000,1.000,.000,.000,0.0,29.1,14.5,0.0,0.0,0.0,0.0,10.9,200,117,5.5
+2023-10-31,202310310LAC,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202310310LAC.html,3:56,1.000,1.000,.000,.000,29.1,0.0,14.5,0.0,0.0,0.0,50.0,21.9,96,123,-2.8
+2023-10-31,202310310LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202310310LAC.html,32:59,.337,.273,.273,.182,6.9,20.8,13.9,11.0,2.8,0.0,7.8,16.3,88,98,-4.5
+2023-10-31,202310310LAC,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202310310LAC.html,32:53,.533,.500,.250,.125,0.0,20.9,10.4,31.6,7.1,2.9,15.1,25.2,106,87,7.5
+2023-10-31,202310310LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202310310LAC.html,32:45,.687,.647,.529,.353,3.5,20.9,12.2,31.8,2.8,0.0,13.3,28.8,129,98,13.7
+2023-10-31,202310310LAC,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202310310LAC.html,32:18,.571,.571,.500,.143,0.0,0.0,0.0,12.7,1.4,0.0,6.3,20.5,112,104,-1.0
+2023-10-31,202310310LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202310310LAC.html,22:41,.507,.500,.000,.250,10.1,35.3,22.7,6.0,0.0,4.1,10.1,18.2,104,99,-2.0
+2023-10-31,202310310LAC,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202310310LAC.html,28:56,.767,.750,.625,.875,0.0,11.8,5.9,13.9,0.0,0.0,21.3,20.3,122,105,0.4
+2023-10-31,202310310LAC,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202310310LAC.html,22:20,.635,.714,.000,.286,10.2,25.6,17.9,12.9,0.0,4.2,20.2,18.4,108,99,-1.1
+2023-10-31,202310310LAC,LAC,Kobe Brown,https://www.basketball-reference.com/boxscores/202310310LAC.html,19:02,.875,.875,.500,.000,6.0,12.0,9.0,6.9,0.0,4.9,0.0,8.8,178,101,4.5
+2023-10-31,202310310LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202310310LAC.html,10:16,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,8.1,0,107,-15.6
+2023-10-31,202310310LAC,LAC,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202310310LAC.html,2:55,.500,.500,.000,.000,39.2,0.0,19.6,100.0,0.0,0.0,33.3,42.9,109,108,13.4
+2023-10-31,202310310LAC,LAC,Jordan Miller,https://www.basketball-reference.com/boxscores/202310310LAC.html,2:55,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.3,300,105,21.7

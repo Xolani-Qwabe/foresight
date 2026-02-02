@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-11-14,202311140GSW,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202311140GSW.html,41.68,12,26,.462,5,12,.417,4,4,1.000,1,10,11,2,2,0,5,1,33,21.3,+8
+2023-11-14,202311140GSW,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202311140GSW.html,36.3,7,16,.438,3,6,.500,3,5,.600,0,4,4,4,3,0,5,1,20,12.4,-9
+2023-11-14,202311140GSW,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202311140GSW.html,35.22,2,8,.250,0,0,,5,6,.833,6,7,13,2,0,3,2,4,9,10.0,+8
+2023-11-14,202311140GSW,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202311140GSW.html,30.83,4,6,.667,3,4,.750,2,2,1.000,0,2,2,8,2,0,1,1,13,17.2,+12
+2023-11-14,202311140GSW,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202311140GSW.html,1.72,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2
+2023-11-14,202311140GSW,MIN,Kyle Anderson,https://www.basketball-reference.com/boxscores/202311140GSW.html,27.38,3,9,.333,0,2,.000,2,2,1.000,1,3,4,3,0,1,2,4,8,3.7,+11
+2023-11-14,202311140GSW,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202311140GSW.html,25.32,2,5,.400,1,4,.250,0,0,,0,0,0,1,1,1,2,1,5,2.3,-16
+2023-11-14,202311140GSW,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202311140GSW.html,16.4,4,5,.800,2,3,.667,0,0,,0,2,2,0,0,0,1,4,10,6.1,-8
+2023-11-14,202311140GSW,MIN,Shake Milton,https://www.basketball-reference.com/boxscores/202311140GSW.html,15.42,2,4,.500,0,1,.000,2,2,1.000,0,4,4,3,0,0,1,3,6,5.1,+8
+2023-11-14,202311140GSW,MIN,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202311140GSW.html,9.72,0,1,.000,0,1,.000,0,0,,1,1,2,1,1,0,0,0,0,2.0,-1
+2023-11-14,202311140GSW,GSW,Chris Paul,https://www.basketball-reference.com/boxscores/202311140GSW.html,36.0,6,14,.429,2,3,.667,1,1,1.000,0,5,5,4,3,1,4,0,15,11.6,-9
+2023-11-14,202311140GSW,GSW,Dario Šarić,https://www.basketball-reference.com/boxscores/202311140GSW.html,32.2,6,15,.400,3,11,.273,6,6,1.000,1,3,4,4,2,0,2,4,21,15.7,-5
+2023-11-14,202311140GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202311140GSW.html,27.62,4,15,.267,1,7,.143,0,0,,2,5,7,0,3,1,4,5,9,0.7,+2
+2023-11-14,202311140GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202311140GSW.html,1.72,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,1,0,-0.8,-2
+2023-11-14,202311140GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202311140GSW.html,1.72,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2023-11-14,202311140GSW,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202311140GSW.html,38.95,9,18,.500,3,8,.375,2,2,1.000,1,6,7,5,1,0,3,4,23,16.4,+11
+2023-11-14,202311140GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202311140GSW.html,31.57,1,4,.250,0,0,,0,0,,6,6,12,3,1,0,0,2,2,7.9,+2
+2023-11-14,202311140GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202311140GSW.html,15.97,2,3,.667,0,1,.000,1,2,.500,1,1,2,1,0,0,1,2,5,3.2,-1
+2023-11-14,202311140GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202311140GSW.html,15.65,3,5,.600,1,3,.333,0,0,,1,2,3,2,0,0,0,1,7,7.0,-3
+2023-11-14,202311140GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202311140GSW.html,13.68,4,6,.667,1,2,.500,2,2,1.000,1,1,2,2,1,0,0,0,11,11.8,-12
+2023-11-14,202311140GSW,GSW,Cory Joseph,https://www.basketball-reference.com/boxscores/202311140GSW.html,13.23,2,6,.333,2,3,.667,0,1,.000,0,0,0,4,0,0,2,1,6,2.6,+6
+2023-11-14,202311140GSW,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202311140GSW.html,11.67,0,1,.000,0,0,,2,2,1.000,0,2,2,3,0,0,2,2,2,1.2,-2

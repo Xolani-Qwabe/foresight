@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2024-12-03,202412030OKC,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202412030OKC.html,35.75,6,7,.857,0,0,5,8,.625,5,6,11,0,0,2,1,2,17,18.2,-22,
+2024-12-03,202412030OKC,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202412030OKC.html,31.28,4,11,.364,1,6,4,4,1.000,1,5,6,2,0,0,0,1,13,10.1,-21,.167
+2024-12-03,202412030OKC,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202412030OKC.html,31.27,7,14,.500,2,9,0,0,,1,3,4,5,0,0,4,1,16,9.7,-2,.222
+2024-12-03,202412030OKC,UTA,John Collins,https://www.basketball-reference.com/boxscores/202412030OKC.html,31.0,5,9,.556,3,4,2,2,1.000,0,5,5,2,0,1,5,2,15,8.5,-12,.750
+2024-12-03,202412030OKC,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202412030OKC.html,28.27,7,11,.636,2,3,1,1,1.000,3,0,3,4,1,0,5,0,17,13.0,-8,.667
+2024-12-03,202412030OKC,UTA,Johnny Juzang,https://www.basketball-reference.com/boxscores/202412030OKC.html,24.02,5,9,.556,3,7,0,0,,0,0,0,1,0,0,2,2,13,6.6,-30,.429
+2024-12-03,202412030OKC,UTA,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202412030OKC.html,19.65,2,5,.400,1,3,1,1,1.000,0,2,2,1,0,0,5,2,6,-1.2,-13,.333
+2024-12-03,202412030OKC,UTA,Isaiah Collier,https://www.basketball-reference.com/boxscores/202412030OKC.html,14.27,1,2,.500,0,1,1,2,.500,0,1,1,2,0,0,4,1,3,-1.1,-17,.000
+2024-12-03,202412030OKC,UTA,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202412030OKC.html,12.25,1,2,.500,1,2,1,2,.500,0,0,0,1,2,1,3,3,4,1.8,-5,.500
+2024-12-03,202412030OKC,UTA,Drew Eubanks,https://www.basketball-reference.com/boxscores/202412030OKC.html,12.25,0,0,,0,0,2,2,1.000,1,3,4,3,0,2,0,0,2,7.1,-5,
+2024-12-03,202412030OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202412030OKC.html,30.12,11,19,.579,2,6,2,2,1.000,1,5,6,7,3,0,0,4,26,25.6,+20,.333
+2024-12-03,202412030OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202412030OKC.html,30.12,2,6,.333,1,5,0,0,,1,1,2,1,0,0,1,0,5,2.3,+20,.200
+2024-12-03,202412030OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202412030OKC.html,28.52,5,9,.556,1,2,1,1,1.000,0,0,0,4,3,0,0,4,12,11.9,+9,.500
+2024-12-03,202412030OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202412030OKC.html,27.62,12,18,.667,1,4,3,4,.750,1,1,2,5,3,0,0,1,28,26.9,+15,.250
+2024-12-03,202412030OKC,OKC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202412030OKC.html,22.22,2,7,.286,0,1,0,0,,2,3,5,6,2,1,2,3,4,5.9,+14,.000
+2024-12-03,202412030OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202412030OKC.html,22.07,6,11,.545,2,5,2,2,1.000,2,2,4,1,3,1,3,2,16,13.3,+15,.400
+2024-12-03,202412030OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202412030OKC.html,21.78,7,11,.636,5,9,0,0,,0,2,2,4,1,0,0,1,19,18.1,+22,.556
+2024-12-03,202412030OKC,OKC,Ajay Mitchell,https://www.basketball-reference.com/boxscores/202412030OKC.html,16.97,2,3,.667,1,2,0,0,,1,1,2,1,1,0,1,4,5,3.8,+1,.500
+2024-12-03,202412030OKC,OKC,Dillon Jones,https://www.basketball-reference.com/boxscores/202412030OKC.html,15.68,3,5,.600,2,3,0,0,,3,1,4,2,1,0,1,2,8,8.7,+5,.667
+2024-12-03,202412030OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202412030OKC.html,12.95,2,4,.500,1,2,0,0,,4,1,5,1,0,0,0,1,5,6.4,+11,.500
+2024-12-03,202412030OKC,OKC,Branden Carlson,https://www.basketball-reference.com/boxscores/202412030OKC.html,7.5,0,5,.000,0,4,2,2,1.000,0,2,2,0,1,1,0,1,2,0.4,+2,.000
+2024-12-03,202412030OKC,OKC,Adam Flagler,https://www.basketball-reference.com/boxscores/202412030OKC.html,4.47,1,4,.250,1,4,0,0,,0,0,0,0,0,0,0,0,3,0.6,+1,.250

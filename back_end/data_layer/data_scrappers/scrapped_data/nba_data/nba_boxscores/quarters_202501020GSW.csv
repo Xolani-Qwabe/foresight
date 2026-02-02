@@ -1,0 +1,70 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-01-02,202501020GSW,PHI,Q1,Paul George,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.12,1,3,.333,0,1,.000,0,0,0,1,1,0,0,0,2,2,2,-2.2,-12,
+2025-01-02,202501020GSW,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.87,1,4,.250,0,1,.000,0,0,0,0,0,2,2,0,1,0,2,2.0,-15,
+2025-01-02,202501020GSW,PHI,Q1,Joel Embiid,https://www.basketball-reference.com/boxscores/202501020GSW.html,12.0,2,6,.333,0,1,.000,0,0,1,3,4,2,1,1,2,1,4,2.9,-16,
+2025-01-02,202501020GSW,PHI,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.12,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,-12,
+2025-01-02,202501020GSW,PHI,Q1,Kyle Lowry,https://www.basketball-reference.com/boxscores/202501020GSW.html,5.98,0,2,.000,0,1,.000,2,2,0,0,0,0,1,0,0,0,2,1.6,-11,1.000
+2025-01-02,202501020GSW,PHI,Q1,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202501020GSW.html,6.02,3,3,1.000,0,0,,2,2,0,2,2,0,0,0,0,0,8,7.7,-5,1.000
+2025-01-02,202501020GSW,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501020GSW.html,2.88,0,1,.000,0,1,.000,1,2,0,1,1,0,0,0,0,0,1,0.2,-4,.500
+2025-01-02,202501020GSW,PHI,Q1,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501020GSW.html,2.15,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2025-01-02,202501020GSW,PHI,Q1,Reggie Jackson,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.87,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,0,
+2025-01-02,202501020GSW,PHI,Q2,Paul George,https://www.basketball-reference.com/boxscores/202501020GSW.html,12.0,4,6,.667,1,2,.500,0,0,0,1,1,0,0,0,0,0,9,6.7,0,
+2025-01-02,202501020GSW,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501020GSW.html,12.0,2,6,.333,1,3,.333,2,2,0,2,2,2,0,1,1,0,7,5.3,0,1.000
+2025-01-02,202501020GSW,PHI,Q2,Joel Embiid,https://www.basketball-reference.com/boxscores/202501020GSW.html,6.97,2,3,.667,0,0,,5,5,1,3,4,0,0,1,0,1,9,9.6,0,1.000
+2025-01-02,202501020GSW,PHI,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202501020GSW.html,5.1,0,1,.000,0,1,.000,0,0,0,0,0,1,2,0,1,0,0,1.0,-3,
+2025-01-02,202501020GSW,PHI,Q2,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202501020GSW.html,5.03,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,3,3.4,0,
+2025-01-02,202501020GSW,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.15,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,+3,1.000
+2025-01-02,202501020GSW,PHI,Q2,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.78,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,0,
+2025-01-02,202501020GSW,PHI,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202501020GSW.html,6.97,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,0,
+2025-01-02,202501020GSW,PHI,Q3,Paul George,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.23,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-9,
+2025-01-02,202501020GSW,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.37,0,1,.000,0,0,,2,2,0,1,1,2,2,1,1,2,2,3.9,-4,1.000
+2025-01-02,202501020GSW,PHI,Q3,Joel Embiid,https://www.basketball-reference.com/boxscores/202501020GSW.html,12.0,4,10,.400,1,2,.500,6,9,1,5,6,0,0,0,0,0,15,10.6,-9,.667
+2025-01-02,202501020GSW,PHI,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.48,1,3,.333,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.0,-4,
+2025-01-02,202501020GSW,PHI,Q3,Kyle Lowry,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.62,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2,0,-0.8,-3,
+2025-01-02,202501020GSW,PHI,Q3,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.38,0,1,.000,0,0,,2,2,2,0,2,0,0,0,0,2,2,1.9,-6,1.000
+2025-01-02,202501020GSW,PHI,Q3,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.77,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,0,
+2025-01-02,202501020GSW,PHI,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202501020GSW.html,4.52,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,-5,
+2025-01-02,202501020GSW,PHI,Q3,Reggie Jackson,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.63,1,2,.500,0,1,.000,0,0,0,0,0,0,1,0,1,0,2,1.0,-5,
+2025-01-02,202501020GSW,PHI,Q4,Paul George,https://www.basketball-reference.com/boxscores/202501020GSW.html,2.82,1,2,.500,1,2,.500,2,2,0,0,0,0,0,0,0,0,5,4.0,-5,1.000
+2025-01-02,202501020GSW,PHI,Q4,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202501020GSW.html,2.82,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,-5,
+2025-01-02,202501020GSW,PHI,Q4,Guerschon Yabusele,https://www.basketball-reference.com/boxscores/202501020GSW.html,12.0,0,1,.000,0,1,.000,0,0,0,2,2,1,0,0,0,0,0,0.6,-9,
+2025-01-02,202501020GSW,PHI,Q4,Ricky Council IV,https://www.basketball-reference.com/boxscores/202501020GSW.html,12.0,4,7,.571,1,3,.333,0,0,1,0,1,0,0,0,0,0,9,6.4,-9,
+2025-01-02,202501020GSW,PHI,Q4,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.18,2,4,.500,0,0,,2,4,0,1,1,1,0,0,0,1,6,3.8,-4,.500
+2025-01-02,202501020GSW,PHI,Q4,Eric Gordon,https://www.basketball-reference.com/boxscores/202501020GSW.html,2.82,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-5,
+2025-01-02,202501020GSW,PHI,Q4,Justin Edwards,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.18,2,5,.400,0,3,.000,0,0,0,0,0,1,1,0,1,0,4,2.0,-4,
+2025-01-02,202501020GSW,PHI,Q4,Adem Bona,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.18,0,1,.000,0,0,,0,0,0,3,3,0,1,2,1,2,0,0.8,-4,
+2025-01-02,202501020GSW,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.12,2,2,1.000,0,0,,0,0,0,3,3,1,0,2,2,0,4,4.4,+12,
+2025-01-02,202501020GSW,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.12,1,3,.333,1,1,1.000,0,0,1,1,2,3,1,0,1,0,3,4.4,+12,
+2025-01-02,202501020GSW,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202501020GSW.html,9.85,1,3,.333,0,2,.000,2,2,0,2,2,3,0,0,0,1,4,4.6,+11,1.000
+2025-01-02,202501020GSW,GSW,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.87,3,3,1.000,3,3,1.000,0,0,0,1,1,1,1,0,0,1,9,9.7,+15,
+2025-01-02,202501020GSW,GSW,Q1,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.87,1,4,.250,0,0,,0,0,0,3,3,2,0,0,1,0,2,0.9,+15,
+2025-01-02,202501020GSW,GSW,Q1,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202501020GSW.html,6.02,3,3,1.000,1,1,1.000,0,0,0,1,1,2,0,0,0,0,7,7.8,+5,
+2025-01-02,202501020GSW,GSW,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202501020GSW.html,6.02,1,3,.333,1,3,.333,0,0,0,1,1,0,0,0,0,2,3,0.8,+5,
+2025-01-02,202501020GSW,GSW,Q1,Moses Moody,https://www.basketball-reference.com/boxscores/202501020GSW.html,2.15,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+5,
+2025-01-02,202501020GSW,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.88,2,5,.400,1,4,.250,0,0,0,2,2,3,0,0,0,2,5,4.2,+3,
+2025-01-02,202501020GSW,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.98,3,3,1.000,2,2,1.000,0,0,0,1,1,2,0,0,1,0,8,7.8,+3,
+2025-01-02,202501020GSW,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.87,3,6,.500,0,1,.000,0,0,1,1,2,1,0,1,0,0,6,5.4,0,
+2025-01-02,202501020GSW,GSW,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.87,0,3,.000,0,1,.000,0,0,1,1,2,2,1,0,0,0,0,1.3,0,
+2025-01-02,202501020GSW,GSW,Q2,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.4,0,1,.000,0,0,,1,2,1,0,1,0,0,0,0,1,1,0.2,-5,.500
+2025-01-02,202501020GSW,GSW,Q2,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.7,1,2,.500,0,1,.000,0,0,0,0,0,2,1,0,1,0,2,2.4,+5,
+2025-01-02,202501020GSW,GSW,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.12,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2025-01-02,202501020GSW,GSW,Q2,Lindy Waters III,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.15,3,3,1.000,2,2,1.000,0,0,0,1,1,0,0,1,0,0,8,8.1,-3,
+2025-01-02,202501020GSW,GSW,Q2,Moses Moody,https://www.basketball-reference.com/boxscores/202501020GSW.html,5.03,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,2,3,1.9,0,
+2025-01-02,202501020GSW,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.1,1,2,.500,0,1,.000,2,2,0,0,0,1,0,1,1,0,4,3.4,+7,1.000
+2025-01-02,202501020GSW,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.23,5,7,.714,3,3,1.000,0,0,0,2,2,3,0,0,0,1,13,12.4,+9,
+2025-01-02,202501020GSW,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.35,2,2,1.000,1,1,1.000,0,0,0,3,3,0,0,0,1,1,5,3.9,+9,
+2025-01-02,202501020GSW,GSW,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.58,2,3,.667,0,0,,2,2,1,0,1,3,0,0,0,3,6,6.3,+2,1.000
+2025-01-02,202501020GSW,GSW,Q3,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202501020GSW.html,8.72,0,0,,0,0,,0,0,0,1,1,1,0,1,0,2,0,0.9,+4,
+2025-01-02,202501020GSW,GSW,Q3,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.18,1,3,.333,0,0,,2,3,0,2,2,0,0,0,0,1,4,2.1,+7,.667
+2025-01-02,202501020GSW,GSW,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.07,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,+7,
+2025-01-02,202501020GSW,GSW,Q3,Moses Moody,https://www.basketball-reference.com/boxscores/202501020GSW.html,3.77,1,1,1.000,1,1,1.000,0,0,0,2,2,0,0,0,1,0,3,2.3,0,
+2025-01-02,202501020GSW,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/202501020GSW.html,4.48,1,1,1.000,0,0,,0,0,0,1,1,2,0,0,0,1,2,3.0,+8,
+2025-01-02,202501020GSW,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202501020GSW.html,4.48,2,2,1.000,2,2,1.000,0,0,0,1,1,2,0,0,0,0,6,7.1,+8,
+2025-01-02,202501020GSW,GSW,Q4,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202501020GSW.html,4.48,3,3,1.000,1,1,1.000,0,0,0,2,2,1,0,0,0,1,7,7.0,+8,
+2025-01-02,202501020GSW,GSW,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202501020GSW.html,4.48,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+8,
+2025-01-02,202501020GSW,GSW,Q4,Lindy Waters III,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.52,1,4,.250,0,2,.000,0,0,0,1,1,1,0,0,0,2,2,-0.2,+1,
+2025-01-02,202501020GSW,GSW,Q4,Moses Moody,https://www.basketball-reference.com/boxscores/202501020GSW.html,4.48,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+8,
+2025-01-02,202501020GSW,GSW,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.52,3,3,1.000,0,0,,2,3,0,1,1,0,0,0,1,0,8,6.0,+1,.667
+2025-01-02,202501020GSW,GSW,Q4,Kevon Looney,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.52,3,3,1.000,0,0,,0,1,0,2,2,1,1,1,1,0,6,6.7,+1,.000
+2025-01-02,202501020GSW,GSW,Q4,Gui Santos,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.52,1,2,.500,0,1,.000,0,0,0,0,0,1,0,1,0,0,2,2.4,+1,
+2025-01-02,202501020GSW,GSW,Q4,Pat Spencer,https://www.basketball-reference.com/boxscores/202501020GSW.html,7.52,0,1,.000,0,0,,0,0,0,2,2,2,0,0,0,0,0,1.3,+1,

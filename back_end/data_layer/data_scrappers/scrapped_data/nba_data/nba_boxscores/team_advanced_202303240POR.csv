@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-24,202303240POR,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202303240POR.html,30:23,.829,.808,.077,.154,9.3,46.7,30.4,19.6,1.7,0.0,26.5,28.1,124,96,4.6
+2023-03-24,202303240POR,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202303240POR.html,30:17,.758,.750,.450,.200,9.3,7.2,8.1,43.8,0.0,2.9,12.1,37.0,146,107,14.2
+2023-03-24,202303240POR,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202303240POR.html,26:56,.388,.333,.333,.167,5.2,8.1,6.9,0.0,1.9,9.7,13.4,25.0,80,97,-11.1
+2023-03-24,202303240POR,CHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202303240POR.html,23:44,.340,.200,.400,.400,0.0,27.6,15.6,17.6,2.1,3.7,0.0,11.2,121,97,-1.8
+2023-03-24,202303240POR,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202303240POR.html,16:24,1.042,1.250,.500,1.000,0.0,0.0,0.0,6.9,0.0,0.0,0.0,7.9,201,111,1.5
+2023-03-24,202303240POR,CHI,Coby White,https://www.basketball-reference.com/boxscores/202303240POR.html,31:44,1.006,1.000,.556,.111,4.4,10.3,7.8,36.4,3.2,0.0,17.5,16.3,175,101,15.1
+2023-03-24,202303240POR,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202303240POR.html,26:03,.571,.571,.143,.000,10.8,0.0,4.7,9.1,0.0,6.7,0.0,12.1,144,105,-2.0
+2023-03-24,202303240POR,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202303240POR.html,24:16,1.083,1.083,.667,.000,0.0,4.5,2.5,10.4,0.0,0.0,25.0,14.9,142,109,2.9
+2023-03-24,202303240POR,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202303240POR.html,17:35,.676,.750,.000,.250,8.0,18.6,14.0,20.6,0.0,0.0,0.0,11.4,163,106,-0.6
+2023-03-24,202303240POR,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202303240POR.html,12:38,.167,.167,.167,.000,22.3,51.8,39.0,0.0,4.0,6.9,25.0,28.6,49,85,-24.2
+2023-03-24,202303240POR,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303240POR.html,38:15,.575,.550,.550,.100,5.7,7.4,6.4,9.8,0.0,2.2,12.6,28.3,102,138,-3.6
+2023-03-24,202303240POR,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202303240POR.html,27:51,.615,.500,.200,.500,0.0,30.4,13.3,18.2,0.0,3.1,14.1,23.1,112,132,-3.2
+2023-03-24,202303240POR,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202303240POR.html,24:49,.761,.714,.000,.286,4.4,34.1,17.4,7.1,4.1,3.5,11.3,16.2,136,121,3.3
+2023-03-24,202303240POR,POR,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202303240POR.html,21:39,.000,.000,.400,.000,0.0,0.0,0.0,36.0,4.7,0.0,16.7,12.6,47,130,-9.6
+2023-03-24,202303240POR,POR,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303240POR.html,14:05,.644,.833,.667,.667,0.0,0.0,0.0,11.3,3.6,0.0,34.0,18.9,75,133,-6.5
+2023-03-24,202303240POR,POR,Keon Johnson,https://www.basketball-reference.com/boxscores/202303240POR.html,26:21,.581,.500,.444,.333,4.1,5.4,4.7,36.8,7.7,0.0,16.2,21.2,114,121,4.5
+2023-03-24,202303240POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202303240POR.html,23:11,.504,.462,.077,.154,4.7,12.2,8.0,8.4,2.2,0.0,6.7,29.1,98,133,-9.1
+2023-03-24,202303240POR,POR,Cam Reddish,https://www.basketball-reference.com/boxscores/202303240POR.html,22:08,.291,.167,.500,.333,9.9,12.8,11.1,12.5,0.0,0.0,0.0,14.1,90,138,-13.0
+2023-03-24,202303240POR,POR,Kevin Knox,https://www.basketball-reference.com/boxscores/202303240POR.html,17:21,.375,.375,.375,.000,0.0,16.3,7.1,9.6,0.0,0.0,0.0,20.9,81,137,-12.1
+2023-03-24,202303240POR,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202303240POR.html,16:44,.400,.400,.600,.000,6.5,8.4,7.4,0.0,0.0,5.1,0.0,13.5,90,136,-9.4
+2023-03-24,202303240POR,POR,John Butler,https://www.basketball-reference.com/boxscores/202303240POR.html,7:36,,,,,0.0,18.6,8.1,0.0,0.0,11.3,,0.0,0,129,-4.1

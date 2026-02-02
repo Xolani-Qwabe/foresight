@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-06,202104060MIA,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202104060MIA.html,30:52,.769,.781,.563,.313,0.0,3.9,2.0,10.2,3.3,0.0,0.0,26.8,153,118,9.5
+2021-04-06,202104060MIA,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202104060MIA.html,30:07,.771,.773,.545,.273,8.6,23.9,16.6,27.4,1.7,0.0,14.0,21.6,147,120,9.6
+2021-04-06,202104060MIA,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202104060MIA.html,29:15,.470,.375,.500,.750,0.0,16.4,8.5,16.0,1.7,0.0,39.7,27.4,70,121,-17.8
+2021-04-06,202104060MIA,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202104060MIA.html,27:18,.893,.833,.111,.556,9.5,35.2,22.8,0.0,1.9,0.0,15.2,21.9,151,117,3.7
+2021-04-06,202104060MIA,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202104060MIA.html,25:23,.424,.389,.556,.111,0.0,4.7,2.5,14.1,0.0,0.0,0.0,16.9,109,126,-9.6
+2021-04-06,202104060MIA,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202104060MIA.html,22:09,.625,.625,.500,.000,0.0,16.3,8.4,19.7,4.6,4.4,7.7,26.6,122,111,7.8
+2021-04-06,202104060MIA,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202104060MIA.html,20:45,.625,.625,.750,.000,0.0,11.6,6.0,33.5,4.9,0.0,20.0,10.9,141,114,8.0
+2021-04-06,202104060MIA,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202104060MIA.html,20:42,.786,.786,.143,.000,12.5,23.2,18.1,0.0,2.5,0.0,0.0,15.3,162,118,3.7
+2021-04-06,202104060MIA,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202104060MIA.html,18:45,.750,.750,1.000,.000,13.8,19.2,16.6,29.5,2.7,0.0,0.0,4.8,202,118,8.4
+2021-04-06,202104060MIA,MEM,Killian Tillie,https://www.basketball-reference.com/boxscores/202104060MIA.html,13:07,.417,.417,.667,.000,9.9,9.1,9.5,9.5,0.0,7.5,0.0,20.8,107,120,-4.4
+2021-04-06,202104060MIA,MEM,Sean McDermott,https://www.basketball-reference.com/boxscores/202104060MIA.html,1:37,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-6.8
+2021-04-06,202104060MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202104060MIA.html,34:39,.751,.719,.125,.375,3.5,7.5,5.4,24.1,2.9,0.0,5.1,26.7,147,131,7.0
+2021-04-06,202104060MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202104060MIA.html,33:20,.587,.643,.000,.214,7.2,31.1,18.7,46.4,4.6,0.0,0.0,21.6,141,123,10.9
+2021-04-06,202104060MIA,MIA,Victor Oladipo,https://www.basketball-reference.com/boxscores/202104060MIA.html,33:11,.494,.464,.286,.357,3.6,19.5,11.3,8.2,0.0,0.0,15.6,27.2,88,136,-14.8
+2021-04-06,202104060MIA,MIA,Trevor Ariza,https://www.basketball-reference.com/boxscores/202104060MIA.html,26:18,.170,.000,.400,.400,4.6,9.9,7.1,16.6,1.9,0.0,14.5,12.3,76,133,-13.1
+2021-04-06,202104060MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202104060MIA.html,25:55,.875,.875,.875,.000,0.0,20.0,9.6,0.0,0.0,4.3,11.1,16.4,126,133,0.2
+2021-04-06,202104060MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202104060MIA.html,27:16,.873,.900,.700,.200,0.0,9.5,4.6,22.2,0.0,4.1,26.9,25.7,114,135,3.3
+2021-04-06,202104060MIA,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202104060MIA.html,22:05,.563,.563,.875,.000,5.4,11.7,8.5,17.4,2.3,0.0,20.0,21.3,100,132,-3.9
+2021-04-06,202104060MIA,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202104060MIA.html,18:55,.000,.000,1.000,.000,0.0,6.9,3.3,17.3,2.7,11.8,0.0,2.5,119,125,1.9
+2021-04-06,202104060MIA,MIA,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202104060MIA.html,13:30,.400,.400,.600,.000,8.9,9.6,9.2,9.6,3.8,0.0,0.0,17.4,101,128,-10.7
+2021-04-06,202104060MIA,MIA,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202104060MIA.html,1:37,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.1,200,140,13.3
+2021-04-06,202104060MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202104060MIA.html,1:37,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,140,-12.1
+2021-04-06,202104060MIA,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202104060MIA.html,1:37,,,,,0.0,80.2,38.6,100.0,0.0,0.0,,0.0,230,122,24.2

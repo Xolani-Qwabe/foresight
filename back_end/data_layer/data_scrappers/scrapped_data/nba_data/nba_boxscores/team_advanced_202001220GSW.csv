@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-22,202001220GSW,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202001220GSW.html,30:16,.684,.769,.000,.538,23.2,27.4,25.6,9.3,1.7,7.3,5.9,24.2,142,92,10.7
+2020-01-22,202001220GSW,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202001220GSW.html,28:54,.587,.571,.571,.214,0.0,12.8,7.1,12.4,1.8,0.0,0.0,22.7,139,103,5.7
+2020-01-22,202001220GSW,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202001220GSW.html,26:22,.667,.667,.333,.000,4.4,28.0,17.6,23.6,0.0,0.0,0.0,4.9,187,101,6.3
+2020-01-22,202001220GSW,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202001220GSW.html,25:04,.698,.714,.429,.286,0.0,7.4,4.1,36.2,0.0,0.0,20.2,16.9,140,108,4.9
+2020-01-22,202001220GSW,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202001220GSW.html,22:22,.779,.769,.615,.308,0.0,16.5,9.2,19.6,2.3,0.0,6.3,30.2,154,100,17.3
+2020-01-22,202001220GSW,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202001220GSW.html,26:14,.392,.318,.545,.364,8.9,10.6,9.8,12.3,0.0,0.0,0.0,20.8,117,107,-5.4
+2020-01-22,202001220GSW,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202001220GSW.html,21:32,.786,.786,.714,.000,0.0,8.6,4.8,16.3,2.4,0.0,12.5,15.9,149,103,8.5
+2020-01-22,202001220GSW,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202001220GSW.html,18:30,.400,.400,.400,.000,0.0,5.0,2.8,6.5,2.8,0.0,0.0,23.1,99,103,-9.8
+2020-01-22,202001220GSW,UTA,Tony Bradley,https://www.basketball-reference.com/boxscores/202001220GSW.html,10:27,.347,.333,.000,1.000,33.6,35.3,34.6,0.0,0.0,0.0,0.0,17.7,115,98,-12.9
+2020-01-22,202001220GSW,UTA,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/202001220GSW.html,9:29,1.000,1.000,.750,.000,0.0,0.0,0.0,29.1,0.0,0.0,33.3,27.1,126,111,9.7
+2020-01-22,202001220GSW,UTA,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202001220GSW.html,7:34,.600,.600,.200,.000,15.5,0.0,6.8,0.0,0.0,0.0,28.6,39.6,85,110,-18.6
+2020-01-22,202001220GSW,UTA,Ed Davis,https://www.basketball-reference.com/boxscores/202001220GSW.html,7:17,.500,.500,.000,.000,32.1,25.3,28.3,0.0,0.0,0.0,0.0,11.8,148,102,-6.9
+2020-01-22,202001220GSW,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/202001220GSW.html,5:59,1.500,1.500,1.000,.000,0.0,30.9,17.3,0.0,0.0,0.0,0.0,7.2,300,100,10.9
+2020-01-22,202001220GSW,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202001220GSW.html,27:44,.571,.524,.333,.190,3.3,8.4,5.6,29.3,0.0,0.0,4.2,38.6,115,143,6.9
+2020-01-22,202001220GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202001220GSW.html,25:11,.833,.833,.667,.000,0.0,18.6,8.2,12.2,2.0,0.0,0.0,5.4,170,134,-3.0
+2020-01-22,202001220GSW,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202001220GSW.html,24:49,.625,.625,.500,.000,7.4,4.7,6.2,7.1,0.0,3.6,0.0,14.5,133,141,0.0
+2020-01-22,202001220GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202001220GSW.html,24:40,.403,.429,.143,.143,0.0,9.5,4.2,26.7,2.1,3.7,40.2,22.7,57,134,-13.8
+2020-01-22,202001220GSW,GSW,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202001220GSW.html,13:50,.170,.000,.000,.400,0.0,33.9,14.9,19.8,0.0,6.5,0.0,19.1,55,128,-13.3
+2020-01-22,202001220GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202001220GSW.html,25:55,.451,.400,.100,.500,7.1,9.0,8.0,20.1,0.0,0.0,0.0,21.2,109,142,-5.2
+2020-01-22,202001220GSW,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/202001220GSW.html,24:23,.444,.357,.286,.286,3.8,24.0,12.7,6.3,2.1,0.0,0.0,14.6,105,132,-5.7
+2020-01-22,202001220GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202001220GSW.html,21:34,.145,.000,.167,.333,0.0,5.4,2.4,12.7,0.0,4.2,0.0,14.4,48,141,-14.0
+2020-01-22,202001220GSW,GSW,Jacob Evans,https://www.basketball-reference.com/boxscores/202001220GSW.html,18:52,.400,.400,.400,.000,0.0,0.0,0.0,8.5,2.7,4.8,28.6,16.7,60,136,-10.7
+2020-01-22,202001220GSW,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202001220GSW.html,17:37,.557,.556,.111,.222,21.0,26.6,23.4,12.7,0.0,0.0,0.0,25.3,127,136,2.1
+2020-01-22,202001220GSW,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/202001220GSW.html,15:25,.622,.429,.286,.857,6.0,7.6,6.7,0.0,3.3,0.0,0.0,28.2,137,134,2.8

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-17,202102170WAS,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202102170WAS.html,39:38,.643,.620,.400,.200,7.9,17.7,12.5,22.5,1.2,2.3,3.5,30.8,139,128,8.1
+2021-02-17,202102170WAS,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202102170WAS.html,36:53,.698,.643,.238,.286,2.8,19.0,10.5,36.2,2.6,0.0,11.3,31.3,140,126,10.7
+2021-02-17,202102170WAS,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202102170WAS.html,30:33,.589,.545,.636,.182,0.0,26.8,12.6,3.9,1.6,3.0,14.4,19.7,104,125,-5.7
+2021-02-17,202102170WAS,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202102170WAS.html,29:46,1.014,1.000,.750,.250,7.0,31.5,18.5,7.5,0.0,12.2,18.4,7.9,173,121,5.5
+2021-02-17,202102170WAS,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/202102170WAS.html,28:20,.200,.200,.600,.000,3.7,4.1,3.9,3.7,0.0,0.0,28.6,10.7,51,135,-15.2
+2021-02-17,202102170WAS,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202102170WAS.html,25:13,.841,.857,.571,.429,0.0,4.6,2.2,4.9,3.8,0.0,10.7,16.0,148,127,4.1
+2021-02-17,202102170WAS,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202102170WAS.html,19:10,.438,.438,.250,.000,5.4,12.2,8.6,12.4,2.5,0.0,11.1,20.3,98,128,-7.5
+2021-02-17,202102170WAS,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202102170WAS.html,13:29,.375,.375,.750,.000,7.7,8.7,8.2,0.0,0.0,0.0,0.0,12.8,97,134,-10.3
+2021-02-17,202102170WAS,DEN,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202102170WAS.html,9:40,.735,.800,.000,.200,10.8,0.0,5.7,17.6,0.0,9.4,0.0,24.4,155,129,4.3
+2021-02-17,202102170WAS,DEN,R.J. Hampton,https://www.basketball-reference.com/boxscores/202102170WAS.html,7:18,.750,.750,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.9,147,136,-3.0
+2021-02-17,202102170WAS,WAS,Russell Westbrook,https://www.basketball-reference.com/boxscores/202102170WAS.html,39:16,.340,.333,.133,.400,11.9,23.9,18.3,38.7,2.4,2.3,31.2,27.5,83,121,-9.1
+2021-02-17,202102170WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202102170WAS.html,36:30,.531,.425,.250,.400,3.2,8.6,6.0,39.3,0.0,0.0,11.3,30.6,118,132,-1.9
+2021-02-17,202102170WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202102170WAS.html,29:27,.568,.500,.364,.273,0.0,14.2,7.5,13.6,1.6,0.0,0.0,17.6,128,127,0.2
+2021-02-17,202102170WAS,WAS,Garrison Mathews,https://www.basketball-reference.com/boxscores/202102170WAS.html,16:49,.546,.500,1.000,.500,0.0,6.2,3.3,7.5,0.0,0.0,0.0,18.3,118,132,-6.6
+2021-02-17,202102170WAS,WAS,Moritz Wagner,https://www.basketball-reference.com/boxscores/202102170WAS.html,3:03,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.8,0,134,-28.7
+2021-02-17,202102170WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202102170WAS.html,29:34,1.205,1.227,1.000,.727,0.0,10.6,5.6,5.5,1.6,3.0,0.0,20.7,228,126,27.5
+2021-02-17,202102170WAS,WAS,Robin Lopez,https://www.basketball-reference.com/boxscores/202102170WAS.html,26:47,.699,.667,.000,.167,13.1,3.9,8.2,0.0,1.8,0.0,13.4,11.7,133,129,-4.8
+2021-02-17,202102170WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202102170WAS.html,20:40,.500,.500,1.000,.000,0.0,35.3,18.7,11.1,2.3,0.0,25.0,8.2,94,121,-1.4
+2021-02-17,202102170WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202102170WAS.html,20:17,1.108,1.100,.200,.600,0.0,10.3,5.4,7.4,2.3,0.0,0.0,13.1,230,126,11.5
+2021-02-17,202102170WAS,WAS,Alex Len,https://www.basketball-reference.com/boxscores/202102170WAS.html,17:37,.563,.625,.000,.250,6.6,35.5,21.9,9.0,0.0,5.0,0.0,21.2,117,122,-2.4

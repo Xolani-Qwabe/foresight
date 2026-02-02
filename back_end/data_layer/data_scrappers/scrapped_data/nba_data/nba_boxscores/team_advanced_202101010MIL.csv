@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-01,202101010MIL,CHI,Coby White,https://www.basketball-reference.com/boxscores/202101010MIL.html,28:51,.407,.346,.385,.308,0.0,16.2,7.7,15.9,0.0,0.0,21.3,27.0,71,123,-11.4
+2021-01-01,202101010MIL,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202101010MIL.html,27:11,.487,.469,.250,.063,0.0,25.8,12.3,13.8,1.6,4.4,23.3,32.7,75,116,-4.6
+2021-01-01,202101010MIL,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202101010MIL.html,25:26,.350,.364,.182,.091,0.0,27.6,13.2,0.0,0.0,4.7,20.8,23.5,54,118,-14.7
+2021-01-01,202101010MIL,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202101010MIL.html,25:08,.761,.786,.286,.286,4.2,18.6,11.1,20.1,0.0,4.8,11.3,14.6,139,119,4.3
+2021-01-01,202101010MIL,CHI,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202101010MIL.html,22:07,.379,.318,.273,.182,4.8,15.9,10.1,13.8,2.0,0.0,0.0,22.3,89,118,-3.1
+2021-01-01,202101010MIL,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202101010MIL.html,22:34,.510,.400,.400,.400,0.0,5.2,2.5,12.6,2.0,10.6,40.5,18.1,67,112,-7.0
+2021-01-01,202101010MIL,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202101010MIL.html,20:32,.788,.750,.375,.250,5.2,22.8,13.6,0.0,4.3,0.0,10.1,19.9,137,113,11.0
+2021-01-01,202101010MIL,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202101010MIL.html,19:32,.667,.667,.333,.000,0.0,12.0,5.7,14.9,2.3,0.0,25.0,8.5,108,118,-3.0
+2021-01-01,202101010MIL,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202101010MIL.html,15:37,.868,1.000,.000,1.000,6.8,15.0,10.7,9.6,5.7,7.7,0.0,7.6,181,105,8.9
+2021-01-01,202101010MIL,CHI,Adam Mokoka,https://www.basketball-reference.com/boxscores/202101010MIL.html,9:57,.500,.500,.500,.000,0.0,11.8,5.6,17.0,4.5,0.0,0.0,16.7,107,112,0.4
+2021-01-01,202101010MIL,CHI,Devon Dotson,https://www.basketball-reference.com/boxscores/202101010MIL.html,9:32,.500,.500,.000,.000,0.0,12.3,5.9,0.0,0.0,0.0,0.0,17.4,97,123,-7.7
+2021-01-01,202101010MIL,CHI,Luke Kornet,https://www.basketball-reference.com/boxscores/202101010MIL.html,7:15,.347,.000,1.000,1.000,0.0,16.1,7.7,0.0,6.1,0.0,25.8,22.2,55,109,-8.4
+2021-01-01,202101010MIL,CHI,Cristiano Felício,https://www.basketball-reference.com/boxscores/202101010MIL.html,6:18,.000,.000,.000,2.000,33.9,18.6,26.6,40.1,0.0,0.0,0.0,12.4,85,123,0.5
+2021-01-01,202101010MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202101010MIL.html,27:46,.539,.500,.263,.947,4.2,42.3,24.1,52.3,3.2,5.7,6.9,43.4,118,81,11.6
+2021-01-01,202101010MIL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202101010MIL.html,25:56,.611,.611,.667,.000,0.0,4.1,2.2,21.4,5.1,0.0,0.0,14.5,134,88,5.5
+2021-01-01,202101010MIL,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202101010MIL.html,25:20,.700,.700,.200,.000,0.0,8.4,4.4,37.1,5.3,3.1,16.7,19.7,129,84,10.1
+2021-01-01,202101010MIL,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202101010MIL.html,19:21,1.100,1.100,.800,.000,0.0,5.5,2.9,7.7,2.3,0.0,16.7,12.9,157,94,9.4
+2021-01-01,202101010MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202101010MIL.html,15:56,.643,.643,.857,.000,0.0,20.1,10.5,9.1,0.0,4.9,0.0,18.3,123,92,3.1
+2021-01-01,202101010MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202101010MIL.html,25:12,.838,.833,.333,.667,9.3,42.3,26.6,5.5,0.0,6.2,20.5,16.1,135,88,4.9
+2021-01-01,202101010MIL,MIL,Bryn Forbes,https://www.basketball-reference.com/boxscores/202101010MIL.html,22:04,.911,.889,.667,.222,0.0,0.0,0.0,0.0,2.0,0.0,16.8,22.4,129,95,6.4
+2021-01-01,202101010MIL,MIL,D.J. Augustin,https://www.basketball-reference.com/boxscores/202101010MIL.html,18:49,.000,.000,1.000,.000,0.0,5.7,3.0,12.1,2.4,0.0,33.3,13.3,26,94,-14.9
+2021-01-01,202101010MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202101010MIL.html,15:33,.935,.900,.600,.400,7.5,27.4,17.9,9.4,2.9,0.0,0.0,15.8,184,89,15.6
+2021-01-01,202101010MIL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202101010MIL.html,15:07,.000,.000,1.000,.000,7.7,0.0,3.7,15.1,2.9,0.0,50.0,11.0,53,93,-10.0
+2021-01-01,202101010MIL,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202101010MIL.html,9:57,.608,.500,.250,1.000,0.0,32.2,16.8,0.0,8.9,0.0,14.8,28.3,102,76,2.3
+2021-01-01,202101010MIL,MIL,Sam Merrill,https://www.basketball-reference.com/boxscores/202101010MIL.html,9:32,.000,.000,1.000,.000,0.0,11.2,5.9,0.0,0.0,0.0,66.7,13.1,0,98,-21.5
+2021-01-01,202101010MIL,MIL,D.J. Wilson,https://www.basketball-reference.com/boxscores/202101010MIL.html,9:27,.375,.375,.750,.000,0.0,22.6,11.8,13.8,4.7,0.0,20.0,22.0,70,86,-3.5

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-06-05,202506050OKC,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202506050OKC.html,38.92,6,13,.462,2,7,.286,0,0,0,10,10,6,0,1,3,2,14,11.4,+12,
+2025-06-05,202506050OKC,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202506050OKC.html,34.98,7,15,.467,1,2,.500,4,6,4,6,10,3,0,1,1,1,19,16.5,-10,.667
+2025-06-05,202506050OKC,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202506050OKC.html,32.4,4,11,.364,2,6,.333,4,5,1,3,4,6,0,0,2,3,14,10.1,+11,.800
+2025-06-05,202506050OKC,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202506050OKC.html,31.17,3,9,.333,3,7,.429,1,2,0,12,12,1,0,1,5,2,10,3.7,+13,.500
+2025-06-05,202506050OKC,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202506050OKC.html,27.6,5,10,.500,2,5,.400,3,4,5,4,9,0,0,3,6,3,15,9.2,+8,.750
+2025-06-05,202506050OKC,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202506050OKC.html,25.3,6,9,.667,5,8,.625,0,0,0,5,5,2,0,0,3,2,17,12.2,+13,
+2025-06-05,202506050OKC,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202506050OKC.html,16.55,4,6,.667,1,1,1.000,0,0,0,1,1,4,1,0,3,1,9,7.1,-13,
+2025-06-05,202506050OKC,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202506050OKC.html,15.88,1,5,.200,0,0,,3,4,3,0,3,2,0,1,1,2,5,3.9,-8,.750
+2025-06-05,202506050OKC,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202506050OKC.html,9.08,1,2,.500,1,2,.500,0,0,0,2,2,0,0,0,0,3,3,1.4,-12,
+2025-06-05,202506050OKC,IND,Thomas Bryant,https://www.basketball-reference.com/boxscores/202506050OKC.html,8.12,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,3,5,3.2,-9,
+2025-06-05,202506050OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202506050OKC.html,39.57,14,30,.467,3,6,.500,7,8,0,5,5,3,3,0,2,2,38,26.0,+3,.875
+2025-06-05,202506050OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202506050OKC.html,36.45,6,19,.316,1,4,.250,4,4,1,3,4,6,1,0,0,4,17,11.3,-4,1.000
+2025-06-05,202506050OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202506050OKC.html,36.35,5,10,.500,5,9,.556,0,0,2,2,4,1,4,2,0,3,15,16.9,-3,
+2025-06-05,202506050OKC,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202506050OKC.html,33.27,3,9,.333,0,3,.000,0,0,0,2,2,1,1,1,0,2,6,3.1,-13,
+2025-06-05,202506050OKC,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202506050OKC.html,23.52,2,9,.222,0,1,.000,2,2,0,6,6,0,0,1,1,1,6,1.6,+4,1.000
+2025-06-05,202506050OKC,OKC,Alex Caruso,https://www.basketball-reference.com/boxscores/202506050OKC.html,28.47,3,8,.375,1,4,.250,4,5,2,4,6,2,3,2,1,5,11,11.6,+2,.800
+2025-06-05,202506050OKC,OKC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202506050OKC.html,17.02,3,5,.600,0,0,,3,3,2,7,9,0,1,0,0,2,9,10.4,+2,1.000
+2025-06-05,202506050OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202506050OKC.html,11.13,2,3,.667,1,1,1.000,0,0,0,0,0,0,0,0,0,0,5,3.7,+3,
+2025-06-05,202506050OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202506050OKC.html,9.42,1,2,.500,0,1,.000,1,2,0,0,0,0,1,0,2,0,3,0.6,+6,.500
+2025-06-05,202506050OKC,OKC,Ajay Mitchell,https://www.basketball-reference.com/boxscores/202506050OKC.html,4.17,0,3,.000,0,1,.000,0,0,3,0,3,0,0,0,0,0,0,0.0,-3,
+2025-06-05,202506050OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202506050OKC.html,0.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,

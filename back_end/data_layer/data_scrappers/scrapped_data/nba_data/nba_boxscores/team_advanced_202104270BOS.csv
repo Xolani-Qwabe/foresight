@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-27,202104270BOS,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202104270BOS.html,37:43,.595,.600,.200,.400,6.2,20.8,14.1,17.7,0.0,2.7,25.4,24.3,96,104,-2.9
+2021-04-27,202104270BOS,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202104270BOS.html,34:52,.609,.464,.571,.929,3.4,8.4,6.1,8.6,0.0,2.9,13.2,25.3,117,106,-2.0
+2021-04-27,202104270BOS,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202104270BOS.html,27:03,.500,.500,.333,.000,4.3,18.1,11.8,23.6,0.0,0.0,14.3,20.1,102,106,-2.1
+2021-04-27,202104270BOS,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202104270BOS.html,22:53,.521,.250,.500,1.000,0.0,12.8,7.0,28.4,1.9,0.0,46.5,18.2,80,103,-5.9
+2021-04-27,202104270BOS,OKC,Moses Brown,https://www.basketball-reference.com/boxscores/202104270BOS.html,12:04,.820,.750,.000,.500,29.1,32.5,30.9,0.0,0.0,0.0,17.0,18.9,146,103,3.5
+2021-04-27,202104270BOS,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202104270BOS.html,26:57,.856,.786,.143,.571,0.0,25.4,13.9,5.9,0.0,0.0,25.5,16.9,122,105,0.6
+2021-04-27,202104270BOS,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202104270BOS.html,23:47,.718,.750,.500,.100,0.0,16.5,9.0,22.5,1.8,0.0,27.7,23.5,100,103,-0.7
+2021-04-27,202104270BOS,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202104270BOS.html,23:35,.680,.600,.400,.400,9.9,8.3,9.0,6.2,1.8,4.2,25.4,13.0,114,102,-1.2
+2021-04-27,202104270BOS,OKC,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202104270BOS.html,18:25,.375,.375,.625,.000,0.0,21.3,11.6,30.9,4.7,0.0,0.0,16.8,106,95,4.4
+2021-04-27,202104270BOS,OKC,Tony Bradley,https://www.basketball-reference.com/boxscores/202104270BOS.html,12:41,.532,.500,.000,2.000,9.2,7.7,8.4,10.7,0.0,0.0,21.0,14.5,103,108,-5.6
+2021-04-27,202104270BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202104270BOS.html,38:03,.651,.577,.423,.346,2.6,30.8,15.4,15.4,4.5,0.0,9.1,34.1,122,101,9.4
+2021-04-27,202104270BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202104270BOS.html,37:52,.356,.265,.588,.353,0.0,0.0,0.0,21.2,5.7,0.0,13.3,23.5,77,105,-8.6
+2021-04-27,202104270BOS,BOS,Evan Fournier,https://www.basketball-reference.com/boxscores/202104270BOS.html,35:00,.370,.357,.643,.143,0.0,23.4,10.7,3.9,6.2,2.7,16.8,20.1,64,98,-6.6
+2021-04-27,202104270BOS,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202104270BOS.html,18:04,.333,.333,.000,.000,16.3,6.5,11.8,13.9,2.4,0.0,0.0,6.5,127,111,-6.9
+2021-04-27,202104270BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202104270BOS.html,8:14,.250,.250,.500,.000,11.9,14.2,13.0,0.0,0.0,0.0,0.0,19.1,68,115,-14.9
+2021-04-27,202104270BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202104270BOS.html,32:58,.734,.688,.625,.438,0.0,10.7,4.9,20.9,1.3,0.0,9.5,25.2,135,113,4.9
+2021-04-27,202104270BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202104270BOS.html,21:35,.460,.400,.600,.200,4.5,16.3,9.9,0.0,0.0,4.4,15.5,11.7,86,112,-7.8
+2021-04-27,202104270BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202104270BOS.html,19:58,.714,.714,.143,.000,9.8,29.3,18.7,33.2,0.0,14.1,12.5,15.8,141,104,10.5
+2021-04-27,202104270BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202104270BOS.html,12:27,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.3,99,118,-12.1
+2021-04-27,202104270BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202104270BOS.html,11:07,.333,.333,.667,.000,0.0,0.0,0.0,11.8,0.0,16.9,25.0,14.2,60,108,-8.4
+2021-04-27,202104270BOS,BOS,Jabari Parker,https://www.basketball-reference.com/boxscores/202104270BOS.html,4:42,,,,,0.0,24.9,11.3,0.0,0.0,0.0,,0.0,0,113,-13.1

@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-05-13,202105130MEM,SAC,Q1,Delon Wright,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,5,8,.625,1,2,.500,0,0,2,0,2,2,1,0,1,0,11,10.2,-4,
+2021-05-13,202105130MEM,SAC,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202105130MEM.html,9.33,3,5,.600,3,3,1.000,0,0,0,0,0,3,1,0,0,2,9,9.0,-3,
+2021-05-13,202105130MEM,SAC,Q1,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105130MEM.html,10.25,1,5,.200,1,2,.500,0,0,0,2,2,1,1,0,1,0,3,1.2,-3,
+2021-05-13,202105130MEM,SAC,Q1,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.45,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,1,1,0,-1.1,-1,
+2021-05-13,202105130MEM,SAC,Q1,Richaun Holmes,https://www.basketball-reference.com/boxscores/202105130MEM.html,7.63,1,4,.250,0,0,,1,1,1,1,2,1,0,2,0,0,3,3.7,-1,1.000
+2021-05-13,202105130MEM,SAC,Q1,Justin James,https://www.basketball-reference.com/boxscores/202105130MEM.html,2.95,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,1,3,3.0,-1,
+2021-05-13,202105130MEM,SAC,Q1,Terence Davis,https://www.basketball-reference.com/boxscores/202105130MEM.html,5.3,1,3,.333,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,1.3,-4,
+2021-05-13,202105130MEM,SAC,Q1,Damian Jones,https://www.basketball-reference.com/boxscores/202105130MEM.html,4.08,0,0,,0,0,,0,0,2,0,2,1,0,1,0,1,0,2.4,-3,
+2021-05-13,202105130MEM,SAC,Q2,Delon Wright,https://www.basketball-reference.com/boxscores/202105130MEM.html,7.35,0,1,.000,0,1,.000,0,0,0,1,1,3,0,0,0,0,0,1.7,-1,
+2021-05-13,202105130MEM,SAC,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202105130MEM.html,4.65,1,4,.250,1,2,.500,0,0,0,1,1,1,0,0,1,0,3,0.6,+6,
+2021-05-13,202105130MEM,SAC,Q2,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.1,2,5,.400,1,3,.333,1,2,0,0,0,0,0,0,1,2,6,1.1,-3,.500
+2021-05-13,202105130MEM,SAC,Q2,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105130MEM.html,10.35,1,2,.500,0,1,.000,0,0,0,2,2,0,1,1,0,0,2,3.3,+7,
+2021-05-13,202105130MEM,SAC,Q2,Richaun Holmes,https://www.basketball-reference.com/boxscores/202105130MEM.html,3.05,0,1,.000,0,0,,0,0,0,0,0,1,0,1,0,0,0,0.7,-3,
+2021-05-13,202105130MEM,SAC,Q2,Justin James,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,5,8,.625,1,1,1.000,2,2,0,1,1,0,1,0,0,0,13,10.7,+5,1.000
+2021-05-13,202105130MEM,SAC,Q2,Terence Davis,https://www.basketball-reference.com/boxscores/202105130MEM.html,5.55,1,2,.500,0,0,,0,0,1,0,1,2,1,0,0,0,2,4.1,+6,
+2021-05-13,202105130MEM,SAC,Q2,Damian Jones,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.95,1,2,.500,0,0,,0,0,2,0,2,2,0,2,1,0,2,4.2,+8,
+2021-05-13,202105130MEM,SAC,Q3,Delon Wright,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,2,4,.500,0,1,.000,0,0,1,0,1,3,0,0,0,1,4,4.4,-7,
+2021-05-13,202105130MEM,SAC,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.67,1,4,.250,0,2,.000,0,0,0,0,0,0,0,0,0,0,2,-0.4,-7,
+2021-05-13,202105130MEM,SAC,Q3,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105130MEM.html,3.95,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,0,0,-1.4,-1,
+2021-05-13,202105130MEM,SAC,Q3,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.5,0,3,.000,0,1,.000,1,2,0,0,0,0,1,0,0,0,1,-0.5,-9,.500
+2021-05-13,202105130MEM,SAC,Q3,Justin James,https://www.basketball-reference.com/boxscores/202105130MEM.html,5.5,4,4,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,9,8.1,+2,
+2021-05-13,202105130MEM,SAC,Q3,Terence Davis,https://www.basketball-reference.com/boxscores/202105130MEM.html,9.1,1,4,.250,1,3,.333,0,0,0,3,3,1,1,0,1,3,3,1.0,-5,
+2021-05-13,202105130MEM,SAC,Q3,Damian Jones,https://www.basketball-reference.com/boxscores/202105130MEM.html,10.95,1,3,.333,0,0,,2,4,1,0,1,2,0,1,0,1,4,3.9,-8,.500
+2021-05-13,202105130MEM,SAC,Q3,Louis King,https://www.basketball-reference.com/boxscores/202105130MEM.html,3.33,0,1,.000,0,0,,0,0,1,0,1,1,0,0,0,0,0,0.7,0,
+2021-05-13,202105130MEM,SAC,Q4,Delon Wright,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.0,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-10,
+2021-05-13,202105130MEM,SAC,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,1,4,.250,0,3,.000,0,0,1,2,3,2,0,0,1,0,2,1.3,0,
+2021-05-13,202105130MEM,SAC,Q4,Chimezie Metu,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,3,5,.600,2,4,.500,0,0,0,2,2,1,0,0,0,1,8,6.6,0,
+2021-05-13,202105130MEM,SAC,Q4,Maurice Harkless,https://www.basketball-reference.com/boxscores/202105130MEM.html,3.72,0,0,,0,0,,0,0,0,0,0,1,0,0,0,2,0,-0.1,-5,
+2021-05-13,202105130MEM,SAC,Q4,Justin James,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,2,4,.500,1,2,.500,1,2,1,1,2,1,0,0,1,0,6,4.3,0,.500
+2021-05-13,202105130MEM,SAC,Q4,Terence Davis,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.28,3,4,.750,2,3,.667,0,0,0,1,1,1,1,1,0,0,8,9.1,+5,
+2021-05-13,202105130MEM,SAC,Q4,Louis King,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.0,1,1,1.000,0,0,,1,1,0,2,2,1,0,0,0,0,3,4.0,+10,1.000
+2021-05-13,202105130MEM,MEM,Q1,Ja Morant,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,3,7,.429,1,3,.333,1,2,1,2,3,4,0,0,1,1,8,6.6,+4,.500
+2021-05-13,202105130MEM,MEM,Q1,Dillon Brooks,https://www.basketball-reference.com/boxscores/202105130MEM.html,7.15,2,3,.667,1,1,1.000,1,2,0,0,0,0,0,0,0,0,6,4.3,+1,.500
+2021-05-13,202105130MEM,MEM,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202105130MEM.html,9.05,4,5,.800,0,0,,0,0,0,5,5,0,0,1,2,1,8,5.9,+3,
+2021-05-13,202105130MEM,MEM,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.42,1,1,1.000,1,1,1.000,0,0,0,0,0,4,0,1,0,0,3,6.2,+1,
+2021-05-13,202105130MEM,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202105130MEM.html,7.83,3,4,.750,1,1,1.000,0,1,0,0,0,1,0,1,0,2,7,5.6,+5,.000
+2021-05-13,202105130MEM,MEM,Q1,Desmond Bane,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.83,0,2,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-2.4,0,
+2021-05-13,202105130MEM,MEM,Q1,Brandon Clarke,https://www.basketball-reference.com/boxscores/202105130MEM.html,3.58,2,2,1.000,0,0,,0,0,1,1,2,1,0,0,0,0,4,5.1,+3,
+2021-05-13,202105130MEM,MEM,Q1,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202105130MEM.html,4.85,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+3,
+2021-05-13,202105130MEM,MEM,Q1,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202105130MEM.html,0.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2021-05-13,202105130MEM,MEM,Q2,Ja Morant,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.68,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.0,+1,
+2021-05-13,202105130MEM,MEM,Q2,Dillon Brooks,https://www.basketball-reference.com/boxscores/202105130MEM.html,9.57,5,11,.455,1,2,.500,0,0,1,1,2,1,1,2,0,0,11,9.4,-1,
+2021-05-13,202105130MEM,MEM,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.68,0,1,.000,0,0,,4,4,1,3,4,1,0,0,0,0,4,5.6,+1,1.000
+2021-05-13,202105130MEM,MEM,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202105130MEM.html,5.05,0,0,,0,0,,0,0,0,2,2,2,0,0,2,1,0,-0.4,0,
+2021-05-13,202105130MEM,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202105130MEM.html,0.35,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,
+2021-05-13,202105130MEM,MEM,Q2,Desmond Bane,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.68,1,4,.250,1,4,.250,0,0,0,0,0,0,1,0,0,0,3,1.6,+1,
+2021-05-13,202105130MEM,MEM,Q2,Brandon Clarke,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.95,0,1,.000,0,1,.000,0,0,1,1,2,0,0,0,0,0,0,0.3,-5,
+2021-05-13,202105130MEM,MEM,Q2,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202105130MEM.html,2.43,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-4,
+2021-05-13,202105130MEM,MEM,Q2,Tyus Jones,https://www.basketball-reference.com/boxscores/202105130MEM.html,5.32,1,2,.500,1,2,.500,0,0,0,2,2,0,0,0,1,0,3,1.6,-6,
+2021-05-13,202105130MEM,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202105130MEM.html,5.32,0,2,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,0.3,-6,
+2021-05-13,202105130MEM,MEM,Q2,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202105130MEM.html,4.97,0,0,,0,0,,0,0,0,0,0,0,0,0,3,0,0,-3.0,-4,
+2021-05-13,202105130MEM,MEM,Q3,Ja Morant,https://www.basketball-reference.com/boxscores/202105130MEM.html,12.0,1,3,.333,0,2,.000,0,0,1,1,2,2,0,0,4,1,2,-1.7,+7,
+2021-05-13,202105130MEM,MEM,Q3,Dillon Brooks,https://www.basketball-reference.com/boxscores/202105130MEM.html,9.03,3,8,.375,0,3,.000,0,0,2,1,3,0,0,0,0,1,6,2.9,+7,
+2021-05-13,202105130MEM,MEM,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202105130MEM.html,9.03,2,2,1.000,0,0,,1,1,0,2,2,1,0,0,0,0,5,5.7,+7,1.000
+2021-05-13,202105130MEM,MEM,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.67,2,2,1.000,1,1,1.000,1,1,0,1,1,1,0,0,1,0,6,5.4,+7,1.000
+2021-05-13,202105130MEM,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.22,2,6,.333,1,3,.333,0,0,2,3,5,1,0,1,1,0,5,4.3,+6,
+2021-05-13,202105130MEM,MEM,Q3,Desmond Bane,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.75,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,1,2,1.9,+1,
+2021-05-13,202105130MEM,MEM,Q3,Brandon Clarke,https://www.basketball-reference.com/boxscores/202105130MEM.html,3.33,1,1,1.000,0,0,,2,2,1,0,1,0,0,1,0,1,4,4.7,0,1.000
+2021-05-13,202105130MEM,MEM,Q3,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202105130MEM.html,2.97,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,0,
+2021-05-13,202105130MEM,MEM,Q4,Ja Morant,https://www.basketball-reference.com/boxscores/202105130MEM.html,7.35,1,1,1.000,0,0,,0,0,0,1,1,2,0,0,1,0,2,2.4,+13,
+2021-05-13,202105130MEM,MEM,Q4,Dillon Brooks,https://www.basketball-reference.com/boxscores/202105130MEM.html,11.55,3,6,.500,1,1,1.000,0,0,0,1,1,2,0,0,1,0,7,4.7,+3,
+2021-05-13,202105130MEM,MEM,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.42,2,2,1.000,0,0,,3,3,0,2,2,1,0,0,0,0,7,7.7,+11,1.000
+2021-05-13,202105130MEM,MEM,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202105130MEM.html,8.42,2,3,.667,1,2,.500,0,0,0,2,2,2,0,1,0,1,5,6.0,+11,
+2021-05-13,202105130MEM,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202105130MEM.html,3.58,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,2,0,-1.2,-11,
+2021-05-13,202105130MEM,MEM,Q4,Desmond Bane,https://www.basketball-reference.com/boxscores/202105130MEM.html,2.88,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,0,0,2,1.6,+7,1.000
+2021-05-13,202105130MEM,MEM,Q4,Brandon Clarke,https://www.basketball-reference.com/boxscores/202105130MEM.html,7.15,2,3,.667,0,1,.000,0,0,0,0,0,0,0,0,0,0,4,2.7,-11,
+2021-05-13,202105130MEM,MEM,Q4,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202105130MEM.html,6.0,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-10,
+2021-05-13,202105130MEM,MEM,Q4,Tyus Jones,https://www.basketball-reference.com/boxscores/202105130MEM.html,4.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-13,

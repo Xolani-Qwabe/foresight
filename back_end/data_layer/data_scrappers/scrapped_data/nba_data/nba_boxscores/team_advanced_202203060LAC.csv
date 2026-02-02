@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-06,202203060LAC,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202203060LAC.html,32:51,.569,.472,.111,.389,0.0,25.8,13.2,19.3,0.0,0.0,8.7,30.1,120,97,2.7
+2022-03-06,202203060LAC,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202203060LAC.html,29:22,.438,.438,.625,.000,0.0,3.2,1.6,4.4,0.0,3.0,0.0,11.7,104,102,-3.6
+2022-03-06,202203060LAC,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202203060LAC.html,29:05,.289,.250,.063,.188,0.0,25.9,13.2,18.6,0.0,0.0,14.8,29.9,68,98,-12.1
+2022-03-06,202203060LAC,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202203060LAC.html,26:18,.689,.700,.800,.200,3.7,10.7,7.3,22.2,1.9,6.8,0.0,17.7,159,93,17.3
+2022-03-06,202203060LAC,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202203060LAC.html,25:51,.564,.750,.000,.750,30.3,10.9,20.4,0.0,1.9,6.9,8.6,19.3,123,93,4.4
+2022-03-06,202203060LAC,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202203060LAC.html,28:05,.661,.633,.333,.133,0.0,33.5,17.1,36.2,1.8,0.0,5.9,25.7,143,91,14.9
+2022-03-06,202203060LAC,NYK,Cam Reddish,https://www.basketball-reference.com/boxscores/202203060LAC.html,25:00,.808,.714,.571,1.143,3.9,3.8,3.8,0.0,2.0,0.0,16.0,21.4,142,100,6.3
+2022-03-06,202203060LAC,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202203060LAC.html,19:33,.515,.667,.000,.667,25.1,28.9,27.0,0.0,0.0,0.0,20.5,10.7,117,96,-5.0
+2022-03-06,202203060LAC,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202203060LAC.html,17:52,.500,.500,1.000,.000,0.0,5.3,2.7,0.0,0.0,0.0,0.0,7.2,112,103,-7.5
+2022-03-06,202203060LAC,NYK,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202203060LAC.html,6:03,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.1,300,106,12.4
+2022-03-06,202203060LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202203060LAC.html,31:51,.557,.500,.222,.222,5.9,18.5,12.1,22.4,0.0,0.0,0.0,13.8,132,121,2.5
+2022-03-06,202203060LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202203060LAC.html,27:20,.265,.222,.444,.111,3.4,21.5,12.3,27.0,0.0,0.0,5.0,32.4,66,120,-12.0
+2022-03-06,202203060LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202203060LAC.html,22:37,.222,.222,.222,.000,0.0,13.0,6.4,0.0,0.0,0.0,18.2,21.7,37,123,-20.6
+2022-03-06,202203060LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202203060LAC.html,19:22,.309,.250,.500,.300,14.6,10.1,12.4,8.8,0.0,4.1,0.0,26.1,83,121,-6.4
+2022-03-06,202203060LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202203060LAC.html,18:42,.400,.400,.000,.000,10.1,36.7,23.1,0.0,0.0,0.0,37.5,19.1,60,113,-16.5
+2022-03-06,202203060LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202203060LAC.html,30:42,.494,.429,.429,.357,0.0,3.2,1.6,18.6,0.0,0.0,0.0,23.5,109,127,0.2
+2022-03-06,202203060LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202203060LAC.html,23:44,.672,.643,.714,.143,4.0,12.4,8.1,0.0,0.0,0.0,21.2,17.7,102,123,-3.3
+2022-03-06,202203060LAC,LAC,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202203060LAC.html,20:34,.854,.917,.167,.833,0.0,9.5,4.7,43.8,0.0,3.9,10.9,19.9,157,121,13.6
+2022-03-06,202203060LAC,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202203060LAC.html,18:29,.600,.600,.800,.000,0.0,21.2,10.4,0.0,5.4,8.7,0.0,12.1,116,102,7.8
+2022-03-06,202203060LAC,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202203060LAC.html,8:53,.532,.500,.000,2.000,0.0,0.0,0.0,19.6,0.0,0.0,21.0,23.9,92,128,-4.9
+2022-03-06,202203060LAC,LAC,Rodney Hood,https://www.basketball-reference.com/boxscores/202203060LAC.html,8:53,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,9.0,0.0,5.0,300,123,10.2
+2022-03-06,202203060LAC,LAC,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202203060LAC.html,8:53,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,200,128,3.0

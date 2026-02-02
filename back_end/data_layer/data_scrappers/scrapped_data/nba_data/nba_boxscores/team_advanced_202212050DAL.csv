@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-05,202212050DAL,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202212050DAL.html,33:36,.394,.313,.563,.250,3.2,18.8,10.5,41.7,0.0,0.0,5.3,23.6,111,139,-4.0
+2022-12-05,202212050DAL,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202212050DAL.html,30:20,.396,.346,.154,.154,0.0,8.3,3.9,23.5,0.0,0.0,6.7,20.8,98,141,-11.1
+2022-12-05,202212050DAL,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202212050DAL.html,29:35,.528,.455,.545,.273,0.0,8.5,4.0,9.7,0.0,0.0,7.5,19.1,111,141,-6.7
+2022-12-05,202212050DAL,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202212050DAL.html,26:48,.784,.818,.000,.364,4.1,33.0,17.5,7.5,0.0,12.5,7.3,21.7,141,128,7.9
+2022-12-05,202212050DAL,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202212050DAL.html,13:30,.600,.600,1.000,.000,8.1,18.7,13.0,10.8,3.7,0.0,16.7,18.8,109,130,1.9
+2022-12-05,202212050DAL,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202212050DAL.html,27:30,.615,.625,.625,.500,0.0,9.2,4.3,15.9,3.6,4.1,0.0,15.0,136,130,5.9
+2022-12-05,202212050DAL,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202212050DAL.html,22:55,.658,.611,.333,.222,19.0,5.5,12.8,21.3,4.4,0.0,28.8,25.6,108,132,1.7
+2022-12-05,202212050DAL,PHO,Landry Shamet,https://www.basketball-reference.com/boxscores/202212050DAL.html,18:54,.658,.611,.667,.222,0.0,6.7,3.1,17.0,0.0,0.0,16.8,26.6,113,142,-0.4
+2022-12-05,202212050DAL,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202212050DAL.html,15:40,.255,.200,.200,.400,13.9,32.3,22.4,8.3,0.0,0.0,0.0,15.9,87,136,-14.1
+2022-12-05,202212050DAL,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202212050DAL.html,15:00,.694,1.000,.000,1.000,7.3,8.4,7.8,0.0,0.0,7.4,0.0,12.2,123,137,-2.4
+2022-12-05,202212050DAL,PHO,Jock Landale,https://www.basketball-reference.com/boxscores/202212050DAL.html,6:12,.000,.000,.000,.000,52.8,20.4,37.8,0.0,0.0,0.0,0.0,6.8,125,139,-11.2
+2022-12-05,202212050DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202212050DAL.html,29:25,.715,.700,.450,.350,4.3,18.5,11.9,53.5,1.7,6.0,11.5,39.6,143,112,17.1
+2022-12-05,202212050DAL,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202212050DAL.html,28:05,.595,.500,.533,.400,4.5,11.7,8.3,9.6,1.8,3.2,5.4,29.7,130,116,1.4
+2022-12-05,202212050DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202212050DAL.html,23:26,.500,.500,1.000,.000,0.0,9.3,5.0,0.0,0.0,0.0,0.0,5.7,107,123,-6.8
+2022-12-05,202212050DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202212050DAL.html,22:31,.708,.708,.750,.000,0.0,14.5,7.8,13.7,2.2,0.0,7.7,25.8,135,116,6.5
+2022-12-05,202212050DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202212050DAL.html,16:50,.532,.000,.000,2.000,22.5,19.4,20.9,0.0,0.0,0.0,0.0,5.0,177,118,-8.6
+2022-12-05,202212050DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202212050DAL.html,31:08,.962,.929,.286,.429,4.1,10.5,7.5,22.2,3.2,0.0,0.0,11.9,209,116,13.0
+2022-12-05,202212050DAL,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202212050DAL.html,27:01,.634,.583,.333,.417,14.0,24.2,19.5,26.6,0.0,3.3,29.7,33.4,109,115,-3.3
+2022-12-05,202212050DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202212050DAL.html,24:51,.667,.667,.667,.000,5.1,8.8,7.1,0.0,0.0,7.2,14.3,12.6,119,119,-3.0
+2022-12-05,202212050DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202212050DAL.html,24:41,.000,.000,1.000,.500,0.0,17.7,9.5,0.0,2.0,0.0,0.0,4.4,0,115,-9.4
+2022-12-05,202212050DAL,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202212050DAL.html,4:47,1.000,1.000,.000,.000,0.0,0.0,0.0,29.5,10.5,0.0,0.0,9.3,213,103,21.2
+2022-12-05,202212050DAL,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202212050DAL.html,2:25,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-7.3
+2022-12-05,202212050DAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202212050DAL.html,2:25,.850,.800,.000,.400,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,179,123,36.8
+2022-12-05,202212050DAL,DAL,Theo Pinson,https://www.basketball-reference.com/boxscores/202212050DAL.html,2:25,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-7.7

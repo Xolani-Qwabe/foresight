@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-31,201912310CHO,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/201912310CHO.html,36:15,.667,.667,.389,.000,5.5,14.1,9.8,4.3,4.1,2.5,14.3,25.0,116,93,7.2
+2019-12-31,201912310CHO,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/201912310CHO.html,34:56,.750,.750,.429,.000,14.3,14.6,14.5,26.1,0.0,0.0,12.5,19.7,148,104,9.9
+2019-12-31,201912310CHO,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/201912310CHO.html,30:40,.566,.553,.368,.053,6.5,6.7,6.6,36.6,4.9,3.0,4.9,28.7,131,93,15.4
+2019-12-31,201912310CHO,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/201912310CHO.html,30:29,.281,.292,.583,.083,3.3,13.4,8.3,28.1,1.6,0.0,7.4,19.0,90,100,-8.3
+2019-12-31,201912310CHO,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/201912310CHO.html,22:31,.253,.222,.222,.222,8.9,18.1,13.5,0.0,4.4,4.1,0.0,18.9,73,90,-9.9
+2019-12-31,201912310CHO,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/201912310CHO.html,22:35,.825,.857,.000,.286,8.9,54.3,31.3,13.6,0.0,24.5,0.0,15.0,175,75,16.8
+2019-12-31,201912310CHO,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/201912310CHO.html,21:09,.444,.357,.429,.286,0.0,9.7,4.8,5.8,2.3,0.0,20.2,20.1,82,100,-10.7
+2019-12-31,201912310CHO,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/201912310CHO.html,20:40,.600,.600,.600,.000,0.0,4.9,2.4,5.9,2.4,0.0,0.0,10.4,135,101,0.4
+2019-12-31,201912310CHO,BOS,Javonte Green,https://www.basketball-reference.com/boxscores/201912310CHO.html,9:15,.333,.333,.333,.000,0.0,33.1,16.4,0.0,5.4,0.0,25.0,18.6,52,87,-9.1
+2019-12-31,201912310CHO,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/201912310CHO.html,9:10,.000,.000,.667,.000,10.9,11.1,11.0,0.0,0.0,0.0,0.0,14.1,27,104,-23.0
+2019-12-31,201912310CHO,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/201912310CHO.html,2:20,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.3,250,108,13.0
+2019-12-31,201912310CHO,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/201912310CHO.html,37:45,.427,.375,.750,.167,0.0,10.6,5.4,29.5,1.3,2.2,18.9,18.3,86,115,-4.4
+2019-12-31,201912310CHO,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/201912310CHO.html,35:51,.588,.591,.455,.364,2.8,11.2,7.0,14.7,4.2,2.3,28.2,21.6,85,108,0.4
+2019-12-31,201912310CHO,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/201912310CHO.html,34:17,.385,.385,.385,.000,0.0,5.8,2.9,24.6,0.0,0.0,13.3,19.1,79,122,-7.8
+2019-12-31,201912310CHO,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/201912310CHO.html,32:14,.678,.611,.111,.333,0.0,31.0,15.7,22.4,1.5,2.5,16.2,16.7,119,106,6.6
+2019-12-31,201912310CHO,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/201912310CHO.html,16:03,.800,.800,.000,.000,6.4,12.5,9.4,13.6,3.1,0.0,16.7,16.3,126,112,5.4
+2019-12-31,201912310CHO,CHO,Dwayne Bacon,https://www.basketball-reference.com/boxscores/201912310CHO.html,18:28,.619,.625,.500,.250,0.0,16.2,8.2,11.0,2.7,0.0,18.4,25.7,92,111,1.0
+2019-12-31,201912310CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/201912310CHO.html,17:58,.500,.500,.571,.000,17.1,0.0,8.4,10.3,0.0,0.0,22.2,21.9,89,124,-4.5
+2019-12-31,201912310CHO,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/201912310CHO.html,17:44,.563,.500,.000,.250,11.5,11.3,11.4,11.7,0.0,0.0,0.0,21.8,123,119,1.7
+2019-12-31,201912310CHO,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/201912310CHO.html,15:02,.254,.143,.571,.286,0.0,13.3,6.7,10.4,0.0,5.4,0.0,22.9,62,115,-10.1
+2019-12-31,201912310CHO,CHO,Marvin Williams,https://www.basketball-reference.com/boxscores/201912310CHO.html,12:33,.000,.000,.500,.000,0.0,23.9,12.1,0.0,0.0,0.0,0.0,7.0,0,114,-14.1
+2019-12-31,201912310CHO,CHO,Willy Hernangómez,https://www.basketball-reference.com/boxscores/201912310CHO.html,2:05,.225,.250,.250,.250,49.0,48.0,48.5,100.0,0.0,0.0,0.0,93.0,70,104,-4.6

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-12-07,202112070LAL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202112070LAL.html,33.97,13,22,.591,5,7,.714,3,5,.600,2,6,8,3,1,1,5,2,34,24.2,-8
+2021-12-07,202112070LAL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202112070LAL.html,33.47,2,7,.286,0,2,.000,2,3,.667,1,3,4,6,3,0,3,3,6,6.1,-6
+2021-12-07,202112070LAL,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202112070LAL.html,31.92,1,6,.167,0,3,.000,8,10,.800,0,1,1,5,1,0,1,2,10,8.4,-8
+2021-12-07,202112070LAL,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202112070LAL.html,30.32,3,9,.333,1,5,.200,0,0,,1,7,8,2,2,0,0,0,7,8.1,+4
+2021-12-07,202112070LAL,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202112070LAL.html,24.6,5,7,.714,0,0,,3,4,.750,3,1,4,1,1,1,1,1,13,13.1,-20
+2021-12-07,202112070LAL,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202112070LAL.html,16.52,2,3,.667,0,0,,1,1,1.000,0,1,1,1,0,0,0,1,5,4.3,-7
+2021-12-07,202112070LAL,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202112070LAL.html,15.85,4,9,.444,1,4,.250,2,4,.500,0,0,0,2,0,0,0,2,11,6.1,-13
+2021-12-07,202112070LAL,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202112070LAL.html,14.07,4,8,.500,1,3,.333,0,0,,0,0,0,0,0,0,0,3,9,3.8,+4
+2021-12-07,202112070LAL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202112070LAL.html,13.57,0,2,.000,0,1,.000,1,2,.500,0,1,1,0,0,1,2,2,1,-2.6,-21
+2021-12-07,202112070LAL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202112070LAL.html,12.0,2,6,.333,2,5,.400,0,0,,0,1,1,5,0,0,1,0,6,5.4,+1
+2021-12-07,202112070LAL,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202112070LAL.html,8.68,0,0,,0,0,,0,0,,0,3,3,1,0,1,0,0,0,2.3,-5
+2021-12-07,202112070LAL,BOS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202112070LAL.html,5.05,0,3,.000,0,3,.000,0,0,,0,3,3,1,0,0,0,0,0,-0.5,+4
+2021-12-07,202112070LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202112070LAL.html,36.27,13,19,.684,2,5,.400,2,2,1.000,2,2,4,5,0,0,3,2,30,23.6,+18
+2021-12-07,202112070LAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202112070LAL.html,35.7,9,16,.563,1,4,.250,5,6,.833,1,2,3,11,1,0,4,2,24,21.2,+11
+2021-12-07,202112070LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202112070LAL.html,35.48,7,13,.538,0,0,,3,4,.750,4,12,16,3,2,2,3,3,17,18.0,+17
+2021-12-07,202112070LAL,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202112070LAL.html,34.72,5,14,.357,0,5,.000,2,3,.667,0,6,6,4,2,1,3,3,12,6.9,+16
+2021-12-07,202112070LAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202112070LAL.html,24.45,2,6,.333,1,2,.500,0,0,,1,2,3,0,0,0,1,1,5,1.5,+4
+2021-12-07,202112070LAL,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202112070LAL.html,21.15,4,11,.364,0,4,.000,1,2,.500,3,5,8,0,1,0,0,3,9,5.9,+2
+2021-12-07,202112070LAL,LAL,Malik Monk,https://www.basketball-reference.com/boxscores/202112070LAL.html,19.67,4,6,.667,2,3,.667,0,0,,0,2,2,2,1,0,0,3,10,9.2,+12
+2021-12-07,202112070LAL,LAL,Wayne Ellington,https://www.basketball-reference.com/boxscores/202112070LAL.html,13.72,2,4,.500,2,4,.500,0,0,,0,1,1,0,0,0,0,3,6,3.1,+3
+2021-12-07,202112070LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202112070LAL.html,12.52,2,4,.500,0,0,,0,0,,2,6,8,0,0,1,0,1,4,5.5,-2
+2021-12-07,202112070LAL,LAL,Kent Bazemore,https://www.basketball-reference.com/boxscores/202112070LAL.html,3.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3
+2021-12-07,202112070LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202112070LAL.html,3.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3

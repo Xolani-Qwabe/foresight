@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-04,201912040UTA,LAL,LeBron James,https://www.basketball-reference.com/boxscores/201912040UTA.html,29:28,.466,.452,.286,.048,0.0,14.2,7.6,62.4,1.7,0.0,4.5,33.8,116,104,3.9
+2019-12-04,201912040UTA,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/201912040UTA.html,26:02,.869,.818,.000,.818,4.6,20.0,12.9,6.3,1.9,10.6,0.0,25.5,181,94,18.1
+2019-12-04,201912040UTA,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/201912040UTA.html,24:32,.788,.750,.500,.250,4.9,0.0,2.3,0.0,0.0,3.8,0.0,16.1,159,108,2.9
+2019-12-04,201912040UTA,LAL,Danny Green,https://www.basketball-reference.com/boxscores/201912040UTA.html,20:47,.750,.750,1.000,.000,5.8,20.1,13.4,0.0,0.0,4.4,20.0,10.7,117,103,-1.7
+2019-12-04,201912040UTA,LAL,JaVale McGee,https://www.basketball-reference.com/boxscores/201912040UTA.html,13:45,.500,.500,.000,.000,26.2,15.2,20.3,0.0,7.1,6.7,0.0,25.9,119,85,0.0
+2019-12-04,201912040UTA,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/201912040UTA.html,32:00,.543,.500,.250,.167,0.0,29.3,15.7,46.8,3.0,0.0,13.4,20.7,125,97,5.7
+2019-12-04,201912040UTA,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/201912040UTA.html,30:59,.462,.500,.455,.636,0.0,3.4,1.8,0.0,6.3,8.9,12.4,23.1,79,89,0.3
+2019-12-04,201912040UTA,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/201912040UTA.html,21:04,.625,.625,.500,.000,0.0,14.9,7.9,5.5,2.3,0.0,20.0,10.5,101,102,-3.9
+2019-12-04,201912040UTA,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/201912040UTA.html,19:16,.735,1.167,.333,1.333,12.5,37.9,26.1,6.5,0.0,14.4,0.0,11.0,147,91,9.0
+2019-12-04,201912040UTA,LAL,Troy Daniels,https://www.basketball-reference.com/boxscores/201912040UTA.html,12:37,.375,.375,.750,.000,0.0,16.5,8.8,0.0,3.9,0.0,0.0,14.1,78,98,-6.0
+2019-12-04,201912040UTA,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/201912040UTA.html,4:44,.333,.333,.000,.000,0.0,22.0,11.8,0.0,0.0,0.0,0.0,28.2,69,105,-20.6
+2019-12-04,201912040UTA,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/201912040UTA.html,4:44,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,10.3,0.0,0.0,9.4,300,88,25.7
+2019-12-04,201912040UTA,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/201912040UTA.html,35:17,.669,.600,.667,.333,3.0,6.8,4.7,15.8,1.4,0.0,10.4,23.9,124,124,8.0
+2019-12-04,201912040UTA,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/201912040UTA.html,33:04,.553,.521,.292,.208,0.0,14.5,6.8,40.3,0.0,0.0,7.1,37.4,109,126,6.3
+2019-12-04,201912040UTA,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/201912040UTA.html,27:38,.340,.300,.600,.400,0.0,8.7,4.0,26.9,0.0,0.0,46.0,17.3,58,126,-14.1
+2019-12-04,201912040UTA,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/201912040UTA.html,27:01,.697,.750,.000,.375,15.4,26.7,20.7,15.2,1.8,0.0,17.7,18.4,125,119,3.9
+2019-12-04,201912040UTA,UTA,Jeff Green,https://www.basketball-reference.com/boxscores/201912040UTA.html,23:04,.571,.571,.571,.000,4.5,15.6,9.7,15.0,0.0,0.0,12.5,15.2,109,125,-1.0
+2019-12-04,201912040UTA,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/201912040UTA.html,22:54,.205,.000,.750,.500,0.0,26.2,12.2,6.2,2.1,0.0,29.1,13.2,40,119,-11.2
+2019-12-04,201912040UTA,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/201912040UTA.html,19:50,.500,.500,.667,.000,0.0,12.1,5.6,0.0,0.0,0.0,0.0,13.3,98,127,-3.3
+2019-12-04,201912040UTA,UTA,Ed Davis,https://www.basketball-reference.com/boxscores/201912040UTA.html,13:15,.595,.600,.000,.400,7.9,27.2,16.8,0.0,0.0,0.0,0.0,19.5,122,122,-3.3
+2019-12-04,201912040UTA,UTA,Dante Exum,https://www.basketball-reference.com/boxscores/201912040UTA.html,12:49,.333,.333,.000,.000,0.0,9.4,4.4,0.0,0.0,0.0,40.0,17.1,38,127,-16.6
+2019-12-04,201912040UTA,UTA,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/201912040UTA.html,10:10,.333,.333,.000,.000,0.0,11.8,5.5,16.1,0.0,0.0,0.0,13.0,84,127,-5.9
+2019-12-04,201912040UTA,UTA,Tony Bradley,https://www.basketball-reference.com/boxscores/201912040UTA.html,7:15,.000,.000,.000,.000,14.4,33.1,23.1,0.0,0.0,10.9,33.3,18.2,23,114,-15.1
+2019-12-04,201912040UTA,UTA,Jarrell Brantley,https://www.basketball-reference.com/boxscores/201912040UTA.html,3:51,,,,,0.0,31.2,14.5,0.0,0.0,20.4,100.0,11.4,0,104,-9.6
+2019-12-04,201912040UTA,UTA,Nigel Williams-Goss,https://www.basketball-reference.com/boxscores/201912040UTA.html,3:51,.000,.000,.000,.000,0.0,0.0,0.0,36.7,0.0,20.4,0.0,11.4,54,111,7.4

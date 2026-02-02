@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-03-06,202303060CLE,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202303060CLE.html,45.1,12,26,.462,1,7,.143,7,10,.700,2,11,13,9,0,1,4,5,32,23.1,-1
+2023-03-06,202303060CLE,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202303060CLE.html,37.25,4,17,.235,3,11,.273,0,0,,1,2,3,5,2,1,3,1,11,4.8,-8
+2023-03-06,202303060CLE,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202303060CLE.html,35.88,5,14,.357,2,5,.400,0,0,,2,1,3,2,0,0,1,4,12,4.7,-9
+2023-03-06,202303060CLE,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202303060CLE.html,34.95,2,6,.333,1,5,.200,0,0,,1,5,6,0,2,1,0,2,5,5.7,+9
+2023-03-06,202303060CLE,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202303060CLE.html,18.02,2,4,.500,0,2,.000,0,0,,0,4,4,2,0,0,1,2,4,2.8,+7
+2023-03-06,202303060CLE,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202303060CLE.html,36.47,8,14,.571,3,6,.500,5,5,1.000,0,4,4,5,0,0,1,4,24,19.5,-7
+2023-03-06,202303060CLE,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202303060CLE.html,18.53,2,5,.400,0,0,,0,2,.000,6,2,8,0,0,1,0,1,4,5.6,-17
+2023-03-06,202303060CLE,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202303060CLE.html,16.13,2,8,.250,1,6,.167,2,2,1.000,0,4,4,1,0,0,1,0,7,3.1,+2
+2023-03-06,202303060CLE,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202303060CLE.html,16.1,4,6,.667,4,5,.800,0,2,.000,2,2,4,0,0,0,0,2,12,9.8,-4
+2023-03-06,202303060CLE,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202303060CLE.html,6.57,1,1,1.000,1,1,1.000,0,0,,1,2,3,1,1,1,1,0,3,5.4,+8
+2023-03-06,202303060CLE,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202303060CLE.html,47.18,14,34,.412,4,11,.364,8,8,1.000,4,7,11,4,0,1,3,2,40,26.4,+3
+2023-03-06,202303060CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202303060CLE.html,42.4,6,18,.333,2,7,.286,3,4,.750,0,5,5,12,1,0,3,2,17,13.5,+17
+2023-03-06,202303060CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202303060CLE.html,41.32,10,14,.714,1,4,.250,4,7,.571,5,12,17,1,0,3,3,5,25,22.9,+9
+2023-03-06,202303060CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202303060CLE.html,25.63,2,5,.400,0,0,,0,0,,0,6,6,3,0,0,0,3,4,4.0,-8
+2023-03-06,202303060CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202303060CLE.html,22.93,3,7,.429,1,4,.250,2,2,1.000,0,2,2,2,1,0,0,1,9,7.9,-5
+2023-03-06,202303060CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202303060CLE.html,32.68,2,7,.286,1,3,.333,2,2,1.000,1,5,6,4,2,3,1,4,7,9.4,+9
+2023-03-06,202303060CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202303060CLE.html,17.78,2,4,.500,2,2,1.000,0,0,,0,1,1,0,0,0,0,2,6,3.5,-7
+2023-03-06,202303060CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202303060CLE.html,17.15,3,5,.600,1,2,.500,1,2,.500,6,2,8,1,0,0,2,1,8,8.4,+18
+2023-03-06,202303060CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202303060CLE.html,10.93,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-10
+2023-03-06,202303060CLE,CLE,Ricky Rubio,https://www.basketball-reference.com/boxscores/202303060CLE.html,6.98,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,3,0,2,-1.3,-6

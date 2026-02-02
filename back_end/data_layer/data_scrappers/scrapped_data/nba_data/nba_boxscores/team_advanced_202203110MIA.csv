@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-11,202203110MIA,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202203110MIA.html,36:29,.499,.265,.353,.941,3.2,3.2,3.2,44.2,1.3,0.0,22.6,37.5,96,123,-4.3
+2022-03-11,202203110MIA,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202203110MIA.html,34:09,.649,.583,.000,.500,3.4,37.7,20.6,22.3,1.4,2.8,6.4,20.2,131,113,8.7
+2022-03-11,202203110MIA,CLE,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202203110MIA.html,31:49,.603,.583,.500,.083,0.0,14.7,7.4,5.8,1.5,3.0,7.4,18.6,107,118,2.4
+2022-03-11,202203110MIA,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202203110MIA.html,29:51,.500,.500,.222,.000,7.8,0.0,3.9,5.6,0.0,0.0,10.0,14.8,98,126,-4.6
+2022-03-11,202203110MIA,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202203110MIA.html,19:31,.563,.500,.250,.250,0.0,6.0,3.0,0.0,2.5,0.0,0.0,10.0,113,119,-3.0
+2022-03-11,202203110MIA,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202203110MIA.html,21:32,.935,.900,.400,.400,5.4,38.1,21.7,17.1,2.3,0.0,33.8,18.2,118,113,6.7
+2022-03-11,202203110MIA,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202203110MIA.html,18:22,.296,.250,.250,.125,0.0,12.7,6.4,0.0,0.0,0.0,26.2,27.5,44,124,-22.5
+2022-03-11,202203110MIA,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202203110MIA.html,16:22,.500,.500,.625,.000,0.0,21.5,10.7,22.4,0.0,0.0,0.0,21.6,105,122,0.3
+2022-03-11,202203110MIA,CLE,Rajon Rondo,https://www.basketball-reference.com/boxscores/202203110MIA.html,14:08,.750,.750,.500,.000,0.0,8.3,4.1,43.0,0.0,0.0,33.3,9.4,125,125,1.7
+2022-03-11,202203110MIA,CLE,Ed Davis,https://www.basketball-reference.com/boxscores/202203110MIA.html,10:17,,,,,11.4,34.2,22.8,0.0,0.0,0.0,,0.0,226,119,-2.4
+2022-03-11,202203110MIA,CLE,Moses Brown,https://www.basketball-reference.com/boxscores/202203110MIA.html,2:29,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.8,200,126,4.7
+2022-03-11,202203110MIA,CLE,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202203110MIA.html,2:29,1.000,1.000,.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,17.8,205,126,23.4
+2022-03-11,202203110MIA,CLE,RJ Nembhard Jr.,https://www.basketball-reference.com/boxscores/202203110MIA.html,2:29,1.136,,,,47.1,0.0,23.6,0.0,0.0,0.0,0.0,15.6,242,126,24.0
+2022-03-11,202203110MIA,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202203110MIA.html,33:51,.622,.500,.071,.857,6.9,6.9,6.9,22.8,4.3,2.6,4.9,26.9,135,103,11.0
+2022-03-11,202203110MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202203110MIA.html,32:42,.768,.688,.000,.500,7.2,53.7,30.4,5.9,4.5,2.7,13.3,30.9,134,94,12.1
+2022-03-11,202203110MIA,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202203110MIA.html,32:22,.375,.375,1.000,.000,0.0,14.5,7.2,37.5,0.0,2.7,42.9,9.7,95,111,-4.1
+2022-03-11,202203110MIA,MIA,P.J. Tucker,https://www.basketball-reference.com/boxscores/202203110MIA.html,28:56,.167,.167,.667,.000,8.1,8.1,8.1,16.9,1.7,0.0,0.0,9.3,89,111,-4.2
+2022-03-11,202203110MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202203110MIA.html,23:58,.750,.750,1.000,.000,0.0,4.9,2.4,5.7,0.0,0.0,0.0,11.2,143,115,0.3
+2022-03-11,202203110MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202203110MIA.html,33:34,.640,.600,.267,.333,0.0,3.5,1.7,9.7,1.5,0.0,5.5,24.4,122,112,2.7
+2022-03-11,202203110MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202203110MIA.html,18:55,.654,.654,.846,.000,0.0,12.4,6.2,29.5,2.6,4.7,7.1,33.2,118,104,15.3
+2022-03-11,202203110MIA,MIA,Victor Oladipo,https://www.basketball-reference.com/boxscores/202203110MIA.html,17:35,.388,.333,.500,.167,0.0,13.3,6.7,15.4,0.0,5.1,0.0,16.4,95,109,-6.6
+2022-03-11,202203110MIA,MIA,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202203110MIA.html,13:57,.338,.250,.250,.250,0.0,33.6,16.8,0.0,0.0,6.4,0.0,14.3,73,104,-14.0
+2022-03-11,202203110MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202203110MIA.html,1:24,.000,.000,1.000,.000,83.6,0.0,41.8,0.0,0.0,0.0,0.0,32.1,75,116,-39.3
+2022-03-11,202203110MIA,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202203110MIA.html,1:24,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-7.9
+2022-03-11,202203110MIA,MIA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202203110MIA.html,1:20,1.000,1.000,.000,.000,87.8,87.8,87.8,0.0,0.0,0.0,0.0,33.7,212,99,37.6

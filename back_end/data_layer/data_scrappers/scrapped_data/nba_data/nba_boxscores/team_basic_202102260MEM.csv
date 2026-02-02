@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-02-26,202102260MEM,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202102260MEM.html,34.68,8,13,.615,3,5,.600,11,11,1.000,0,9,9,7,0,1,4,2,30,27.6,+10
+2021-02-26,202102260MEM,LAC,Paul George,https://www.basketball-reference.com/boxscores/202102260MEM.html,31.8,6,11,.545,1,5,.200,0,0,,1,3,4,8,1,1,3,3,13,12.4,+17
+2021-02-26,202102260MEM,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202102260MEM.html,27.23,6,9,.667,0,3,.000,0,0,,0,4,4,3,1,2,0,2,12,13.0,+14
+2021-02-26,202102260MEM,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202102260MEM.html,25.02,5,8,.625,3,5,.600,0,0,,1,5,6,3,1,0,2,3,13,11.5,+21
+2021-02-26,202102260MEM,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/202102260MEM.html,21.0,4,8,.500,3,7,.429,0,0,,0,2,2,3,1,2,1,2,11,10.3,+7
+2021-02-26,202102260MEM,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202102260MEM.html,26.72,6,12,.500,2,4,.500,3,3,1.000,1,1,2,4,1,0,2,0,17,13.8,+13
+2021-02-26,202102260MEM,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202102260MEM.html,23.13,1,6,.167,0,3,.000,2,2,1.000,0,3,3,0,1,0,3,1,4,-1.3,+1
+2021-02-26,202102260MEM,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202102260MEM.html,18.97,1,2,.500,0,0,,1,2,.500,1,7,8,2,0,2,1,4,3,4.6,-1
+2021-02-26,202102260MEM,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202102260MEM.html,17.52,6,8,.750,1,1,1.000,0,0,,0,6,6,2,0,0,1,1,13,11.6,-1
+2021-02-26,202102260MEM,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202102260MEM.html,10.63,1,3,.333,1,2,.500,0,0,,0,2,2,1,0,0,0,1,3,2.2,+9
+2021-02-26,202102260MEM,LAC,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202102260MEM.html,1.65,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+5
+2021-02-26,202102260MEM,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202102260MEM.html,1.65,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+5
+2021-02-26,202102260MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202102260MEM.html,33.18,7,20,.350,2,6,.333,4,5,.800,0,4,4,5,2,0,2,0,20,13.1,-11
+2021-02-26,202102260MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202102260MEM.html,32.85,9,17,.529,0,1,.000,4,5,.800,3,8,11,3,1,0,0,0,22,20.9,-8
+2021-02-26,202102260MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202102260MEM.html,31.95,5,8,.625,2,3,.667,0,1,.000,3,6,9,4,5,1,4,0,12,16.4,-1
+2021-02-26,202102260MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202102260MEM.html,30.4,5,14,.357,1,4,.250,0,0,,0,2,2,2,2,1,0,3,11,6.7,-11
+2021-02-26,202102260MEM,MEM,Grayson Allen,https://www.basketball-reference.com/boxscores/202102260MEM.html,19.35,0,4,.000,0,3,.000,0,0,,1,2,3,3,0,0,0,0,0,0.6,-3
+2021-02-26,202102260MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202102260MEM.html,24.05,6,12,.500,2,6,.333,2,2,1.000,0,3,3,2,0,1,1,3,16,10.8,-8
+2021-02-26,202102260MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202102260MEM.html,22.2,2,5,.400,0,1,.000,0,0,,0,1,1,2,0,0,0,4,4,1.4,-18
+2021-02-26,202102260MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202102260MEM.html,16.05,1,5,.200,1,2,.500,0,0,,0,0,0,0,0,1,0,1,3,0.2,-19
+2021-02-26,202102260MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202102260MEM.html,15.15,2,6,.333,0,0,,1,2,.500,1,3,4,0,0,0,1,3,5,0.6,-12
+2021-02-26,202102260MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202102260MEM.html,14.82,2,6,.333,1,2,.500,1,1,1.000,0,0,0,3,0,0,1,0,6,3.7,-9

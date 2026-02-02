@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-13,202302130GSW,WAS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202302130GSW.html,35:50,.871,.813,.188,.500,4.2,23.0,14.0,8.4,1.4,0.0,17.0,29.7,146,140,4.5
+2023-02-13,202302130GSW,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202302130GSW.html,34:36,.655,.630,.348,.217,4.3,7.9,6.2,18.5,1.4,0.0,13.7,38.1,122,143,-3.4
+2023-02-13,202302130GSW,WAS,Monte Morris,https://www.basketball-reference.com/boxscores/202302130GSW.html,28:34,.667,.667,.500,.000,0.0,9.6,5.0,19.6,1.7,0.0,14.3,11.1,140,142,-2.0
+2023-02-13,202302130GSW,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202302130GSW.html,28:15,.781,.750,.000,1.000,10.6,29.1,20.3,19.8,0.0,0.0,14.8,10.8,162,142,2.2
+2023-02-13,202302130GSW,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202302130GSW.html,21:43,.500,.500,.500,.000,0.0,6.3,3.3,0.0,4.6,4.5,20.0,10.4,80,133,-6.1
+2023-02-13,202302130GSW,WAS,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202302130GSW.html,29:00,.825,.857,.429,.286,0.0,9.5,4.9,25.0,1.7,0.0,11.3,13.8,161,142,3.9
+2023-02-13,202302130GSW,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202302130GSW.html,27:13,.350,.350,.500,.000,11.0,15.1,13.2,12.4,3.6,0.0,9.1,18.3,98,136,-9.1
+2023-02-13,202302130GSW,WAS,Delon Wright,https://www.basketball-reference.com/boxscores/202302130GSW.html,19:26,.833,.833,.667,.000,15.4,14.1,14.7,6.5,5.1,0.0,33.3,20.9,114,133,0.7
+2023-02-13,202302130GSW,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202302130GSW.html,12:25,.773,.667,.000,.667,12.1,0.0,5.8,0.0,0.0,15.8,20.5,17.8,132,139,0.7
+2023-02-13,202302130GSW,WAS,Quenton Jackson,https://www.basketball-reference.com/boxscores/202302130GSW.html,2:55,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.5,200,147,-4.4
+2023-02-13,202302130GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202302130GSW.html,38:53,.634,.614,.273,.091,7.1,19.3,12.9,13.3,0.0,0.0,0.0,25.5,144,134,-1.7
+2023-02-13,202302130GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202302130GSW.html,35:56,.593,.571,.619,.190,7.6,8.3,8.0,17.3,1.4,0.0,8.1,29.9,127,133,-3.3
+2023-02-13,202302130GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202302130GSW.html,30:38,.874,.857,.000,.143,22.4,39.2,30.4,14.7,0.0,0.0,0.0,10.5,201,131,5.4
+2023-02-13,202302130GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202302130GSW.html,29:37,.530,.500,.545,.455,4.6,15.2,9.7,14.2,0.0,0.0,23.3,25.2,99,135,-14.1
+2023-02-13,202302130GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202302130GSW.html,23:59,.667,.667,.000,.000,0.0,0.0,0.0,25.0,4.1,0.0,40.0,9.0,125,128,-1.6
+2023-02-13,202302130GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202302130GSW.html,25:20,.944,.944,.889,.000,0.0,5.9,2.8,14.0,3.9,0.0,25.0,20.6,127,128,7.1
+2023-02-13,202302130GSW,GSW,Ty Jerome,https://www.basketball-reference.com/boxscores/202302130GSW.html,18:23,.827,.800,.000,.200,7.5,8.2,7.8,44.0,0.0,0.0,15.5,15.2,172,136,7.0
+2023-02-13,202302130GSW,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202302130GSW.html,15:54,1.400,1.400,.800,.000,0.0,9.4,4.5,40.9,6.2,0.0,16.7,16.4,208,122,32.3
+2023-02-13,202302130GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202302130GSW.html,13:03,.700,.700,.400,.000,0.0,0.0,0.0,18.0,7.6,0.0,28.6,23.3,104,120,1.4
+2023-02-13,202302130GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202302130GSW.html,8:15,.266,.000,1.000,2.000,0.0,36.4,17.4,0.0,6.0,0.0,0.0,9.9,65,118,-6.9

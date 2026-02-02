@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-03,202105030ATL,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202105030ATL.html,33:35,.762,.737,.579,.316,0.0,7.9,3.2,41.9,2.9,0.0,12.2,32.3,138,125,16.9
+2021-05-03,202105030ATL,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202105030ATL.html,32:24,.530,.500,.389,.111,5.7,12.3,8.4,33.3,0.0,3.4,5.0,27.0,119,129,2.4
+2021-05-03,202105030ATL,POR,Norman Powell,https://www.basketball-reference.com/boxscores/202105030ATL.html,32:22,.536,.536,.357,.000,8.6,4.1,6.7,8.7,1.5,0.0,0.0,19.0,120,129,-0.6
+2021-05-03,202105030ATL,POR,Robert Covington,https://www.basketball-reference.com/boxscores/202105030ATL.html,31:35,.643,.643,.714,.000,0.0,21.1,8.6,15.8,4.6,3.5,12.5,11.1,122,116,6.5
+2021-05-03,202105030ATL,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202105030ATL.html,23:24,.311,.333,.167,.167,3.9,45.6,21.0,10.5,0.0,4.8,23.7,15.9,66,124,-9.1
+2021-05-03,202105030ATL,POR,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202105030ATL.html,22:06,.612,.591,.545,.091,0.0,0.0,0.0,0.0,0.0,0.0,8.0,24.8,105,133,-3.9
+2021-05-03,202105030ATL,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202105030ATL.html,19:43,.143,.143,.714,.000,0.0,13.5,5.5,0.0,0.0,0.0,0.0,15.6,30,131,-21.0
+2021-05-03,202105030ATL,POR,Enes Freedom,https://www.basketball-reference.com/boxscores/202105030ATL.html,13:13,.500,.500,.000,.000,7.0,40.4,20.6,0.0,0.0,0.0,0.0,13.3,111,128,-8.6
+2021-05-03,202105030ATL,POR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202105030ATL.html,5:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-16.4
+2021-05-03,202105030ATL,POR,CJ Elleby,https://www.basketball-reference.com/boxscores/202105030ATL.html,5:13,.000,.000,.000,.000,0.0,25.6,10.5,42.8,0.0,0.0,0.0,8.4,91,130,0.4
+2021-05-03,202105030ATL,POR,Harry Giles,https://www.basketball-reference.com/boxscores/202105030ATL.html,5:13,.717,.750,.250,.500,17.7,51.1,31.4,0.0,9.4,0.0,0.0,41.1,143,104,23.9
+2021-05-03,202105030ATL,POR,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202105030ATL.html,5:13,,,,,0.0,0.0,0.0,0.0,0.0,21.4,,0.0,0,116,-3.7
+2021-05-03,202105030ATL,POR,T.J. Leaf,https://www.basketball-reference.com/boxscores/202105030ATL.html,5:13,1.064,1.000,.000,2.000,0.0,25.6,10.5,0.0,0.0,0.0,0.0,15.8,228,130,9.9
+2021-05-03,202105030ATL,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202105030ATL.html,5:13,.333,.333,.000,.000,0.0,51.1,20.9,0.0,0.0,0.0,0.0,25.3,66,127,-13.3
+2021-05-03,202105030ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202105030ATL.html,35:16,.814,.800,.000,.800,0.0,26.2,15.5,7.1,1.4,5.0,12.9,10.3,146,110,1.9
+2021-05-03,202105030ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202105030ATL.html,35:06,.538,.406,.375,.500,7.6,10.5,9.3,42.0,0.0,0.0,23.5,33.9,110,121,-5.7
+2021-05-03,202105030ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202105030ATL.html,32:07,.735,.735,.824,.000,0.0,8.6,5.1,14.7,3.0,0.0,0.0,24.7,138,114,10.3
+2021-05-03,202105030ATL,ATL,Tony Snell,https://www.basketball-reference.com/boxscores/202105030ATL.html,25:14,1.000,1.000,.667,.000,0.0,11.0,6.5,0.0,0.0,0.0,0.0,5.5,172,121,-3.4
+2021-05-03,202105030ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202105030ATL.html,18:41,.845,.875,.500,.250,14.3,29.6,23.4,9.0,0.0,0.0,18.4,27.2,130,116,3.0
+2021-05-03,202105030ATL,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202105030ATL.html,31:43,.835,.833,.667,.267,0.0,23.3,13.8,10.0,3.1,2.8,0.0,24.6,155,108,16.9
+2021-05-03,202105030ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202105030ATL.html,20:13,.250,.250,.375,.000,0.0,18.3,10.8,30.2,2.4,0.0,0.0,18.5,89,114,-7.5
+2021-05-03,202105030ATL,ATL,Solomon Hill,https://www.basketball-reference.com/boxscores/202105030ATL.html,18:02,1.167,1.167,.333,.000,0.0,15.4,9.1,14.8,0.0,0.0,0.0,7.8,237,120,8.6
+2021-05-03,202105030ATL,ATL,Lou Williams,https://www.basketball-reference.com/boxscores/202105030ATL.html,14:58,.250,.250,.125,.000,8.9,6.2,7.3,42.7,0.0,0.0,20.0,31.2,79,122,-15.6
+2021-05-03,202105030ATL,ATL,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202105030ATL.html,8:40,1.000,1.000,.000,.000,0.0,21.3,12.6,14.4,0.0,0.0,0.0,5.4,215,119,4.8

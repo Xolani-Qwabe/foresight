@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-03,202411030DAL,ORL,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202411030DAL.html,31:07,.444,.357,.571,.286,2.9,14.7,8.0,11.1,0.0,2.9,0.0,10.4,109,111,-0.6
+2024-11-03,202411030DAL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202411030DAL.html,28:39,.360,.346,.385,.154,3.1,12.0,7.0,13.8,1.7,6.3,0.0,20.0,85,106,0.6
+2024-11-03,202411030DAL,ORL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202411030DAL.html,26:00,.543,.500,1.000,.167,3.4,8.8,5.8,6.8,0.0,0.0,0.0,10.2,122,114,-3.1
+2024-11-03,202411030DAL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202411030DAL.html,25:11,.433,.433,.133,.000,3.5,22.7,11.9,58.5,3.8,0.0,11.8,27.8,92,102,6.3
+2024-11-03,202411030DAL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202411030DAL.html,8:52,.510,.400,.400,.400,10.0,0.0,5.6,53.7,10.8,0.0,0.0,27.4,125,93,21.9
+2024-11-03,202411030DAL,ORL,Jett Howard,https://www.basketball-reference.com/boxscores/202411030DAL.html,22:08,.466,.417,.667,.167,0.0,5.2,2.3,0.0,2.2,0.0,13.4,27.7,82,110,-3.4
+2024-11-03,202411030DAL,ORL,Anthony Black,https://www.basketball-reference.com/boxscores/202411030DAL.html,20:43,.500,.500,.000,.000,8.6,11.0,9.7,16.2,0.0,0.0,75.0,15.9,40,113,-18.1
+2024-11-03,202411030DAL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202411030DAL.html,20:30,.425,.300,.400,.400,0.0,33.4,14.6,0.0,0.0,0.0,7.8,25.7,85,107,-8.0
+2024-11-03,202411030DAL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202411030DAL.html,15:56,.218,.167,.667,.333,11.2,21.5,15.7,10.8,3.0,5.7,0.0,17.8,67,100,-5.5
+2024-11-03,202411030DAL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202411030DAL.html,14:22,.580,.583,.333,.667,0.0,23.9,10.4,47.8,3.3,0.0,11.4,25.2,113,102,10.4
+2024-11-03,202411030DAL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202411030DAL.html,14:19,.333,.333,.500,.000,6.2,0.0,3.5,0.0,0.0,0.0,14.3,20.2,64,117,-10.9
+2024-11-03,202411030DAL,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202411030DAL.html,6:59,.333,.333,.000,.000,12.7,16.4,14.3,0.0,0.0,0.0,0.0,17.7,83,112,-7.9
+2024-11-03,202411030DAL,ORL,Cory Joseph,https://www.basketball-reference.com/boxscores/202411030DAL.html,5:14,.000,.000,.500,.000,34.0,0.0,19.1,0.0,0.0,0.0,33.3,23.6,31,117,-19.8
+2024-11-03,202411030DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202411030DAL.html,31:43,.638,.614,.591,.318,3.6,22.4,14.2,41.8,0.0,0.0,13.8,38.6,121,87,13.2
+2024-11-03,202411030DAL,DAL,Klay Thompson,https://www.basketball-reference.com/boxscores/202411030DAL.html,28:36,.450,.450,.500,.000,4.0,12.4,8.7,19.0,0.0,6.5,9.1,16.2,106,89,4.2
+2024-11-03,202411030DAL,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202411030DAL.html,28:26,.604,.500,.182,.636,0.0,6.3,3.5,15.1,3.4,0.0,6.6,22.3,128,87,6.6
+2024-11-03,202411030DAL,DAL,P.J. Washington,https://www.basketball-reference.com/boxscores/202411030DAL.html,28:26,.875,.875,.500,.000,4.0,9.4,7.0,9.1,1.7,0.0,20.0,7.4,144,90,5.1
+2024-11-03,202411030DAL,DAL,Daniel Gafford,https://www.basketball-reference.com/boxscores/202411030DAL.html,20:07,.670,.692,.000,.077,17.0,22.1,19.9,0.0,2.4,0.0,18.2,34.4,105,82,3.2
+2024-11-03,202411030DAL,DAL,Naji Marshall,https://www.basketball-reference.com/boxscores/202411030DAL.html,21:16,.400,.400,.400,.000,0.0,20.9,11.8,30.1,4.5,0.0,16.7,11.9,104,78,6.3
+2024-11-03,202411030DAL,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202411030DAL.html,20:05,.661,.714,.000,.429,22.8,31.0,27.4,8.0,0.0,0.0,19.4,21.6,116,83,1.8
+2024-11-03,202411030DAL,DAL,Quentin Grimes,https://www.basketball-reference.com/boxscores/202411030DAL.html,17:27,.625,.625,.500,.000,0.0,15.3,8.6,0.0,5.5,0.0,20.0,12.1,95,78,2.3
+2024-11-03,202411030DAL,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202411030DAL.html,15:49,.000,.000,1.000,.000,0.0,0.0,0.0,14.5,0.0,5.8,0.0,2.7,96,95,-1.9
+2024-11-03,202411030DAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202411030DAL.html,8:34,.500,.500,.667,.000,0.0,10.4,5.8,0.0,0.0,0.0,50.0,29.5,45,93,-19.5
+2024-11-03,202411030DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202411030DAL.html,7:48,.000,,,,0.0,22.8,12.8,0.0,0.0,23.7,53.2,10.1,0,74,-8.8
+2024-11-03,202411030DAL,DAL,Olivier-Maxence Prosper,https://www.basketball-reference.com/boxscores/202411030DAL.html,5:57,.000,.000,.500,.000,38.4,0.0,16.8,0.0,0.0,0.0,0.0,14.1,64,98,-14.2
+2024-11-03,202411030DAL,DAL,Brandon Williams,https://www.basketball-reference.com/boxscores/202411030DAL.html,5:46,.231,.000,.667,1.000,0.0,15.4,8.7,19.8,0.0,0.0,0.0,31.5,71,90,-15.5

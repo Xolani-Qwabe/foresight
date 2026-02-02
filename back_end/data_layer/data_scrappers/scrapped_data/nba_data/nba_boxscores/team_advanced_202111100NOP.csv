@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-10,202111100NOP,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202111100NOP.html,36:23,.503,.421,.368,.579,0.0,14.9,8.7,23.8,1.3,4.3,17.3,32.2,96,98,0.8
+2021-11-10,202111100NOP,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202111100NOP.html,33:58,.776,.692,.538,.769,0.0,11.4,6.7,11.0,0.0,0.0,5.4,22.0,155,105,8.2
+2021-11-10,202111100NOP,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202111100NOP.html,33:38,.651,.611,.333,.444,6.5,11.5,9.4,4.8,0.0,0.0,15.7,15.4,118,105,-2.5
+2021-11-10,202111100NOP,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202111100NOP.html,30:42,.350,.350,.300,.000,17.8,17.7,17.7,43.6,1.6,0.0,33.3,19.8,87,98,-1.8
+2021-11-10,202111100NOP,OKC,Derrick Favors,https://www.basketball-reference.com/boxscores/202111100NOP.html,20:35,.571,.571,.143,.286,10.6,15.0,13.2,16.9,2.3,0.0,11.3,17.5,117,98,2.9
+2021-11-10,202111100NOP,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202111100NOP.html,20:47,.500,.500,.250,.000,0.0,11.2,6.5,0.0,0.0,0.0,33.3,11.7,62,106,-10.9
+2021-11-10,202111100NOP,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202111100NOP.html,20:01,.188,.188,.625,.000,0.0,15.5,9.0,20.8,2.4,0.0,0.0,16.2,67,98,-5.0
+2021-11-10,202111100NOP,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202111100NOP.html,14:02,.429,.429,.143,.000,7.8,16.6,12.9,0.0,0.0,5.5,12.5,23.2,82,99,-8.3
+2021-11-10,202111100NOP,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202111100NOP.html,13:13,1.128,1.125,.750,.750,0.0,5.9,3.4,13.9,3.6,5.9,15.8,19.4,176,98,25.7
+2021-11-10,202111100NOP,OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202111100NOP.html,11:18,.250,.250,.500,.000,29.0,13.7,20.0,0.0,4.3,0.0,0.0,14.4,93,94,-7.5
+2021-11-10,202111100NOP,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202111100NOP.html,2:54,.000,.000,.500,.000,0.0,26.7,15.6,0.0,0.0,0.0,0.0,28.0,0,96,-30.7
+2021-11-10,202111100NOP,OKC,Gabriel Deck,https://www.basketball-reference.com/boxscores/202111100NOP.html,2:29,,,,,0.0,31.2,18.2,0.0,0.0,0.0,,0.0,0,94,-4.4
+2021-11-10,202111100NOP,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111100NOP.html,39:03,.542,.475,.150,.350,5.9,33.5,17.4,10.7,1.2,2.3,0.0,23.6,124,105,3.6
+2021-11-10,202111100NOP,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111100NOP.html,34:28,.615,.545,.455,.500,6.7,22.2,13.1,27.8,2.8,2.6,0.0,31.1,138,105,16.7
+2021-11-10,202111100NOP,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111100NOP.html,33:46,.466,.472,.500,.167,4.6,0.0,2.7,23.6,1.4,0.0,0.0,22.9,109,117,-0.4
+2021-11-10,202111100NOP,NOP,Garrett Temple,https://www.basketball-reference.com/boxscores/202111100NOP.html,29:24,.222,.000,.200,.800,2.6,7.4,4.6,24.0,3.3,0.0,12.9,10.6,77,110,-7.1
+2021-11-10,202111100NOP,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202111100NOP.html,14:55,.400,.400,.200,.000,0.0,21.9,9.1,11.7,3.2,0.0,16.7,16.1,74,105,-11.2
+2021-11-10,202111100NOP,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202111100NOP.html,31:32,.240,.143,.143,.429,9.8,6.9,8.6,18.7,3.1,2.9,26.5,14.3,68,109,-9.3
+2021-11-10,202111100NOP,NOP,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111100NOP.html,18:59,.129,.000,1.000,.667,0.0,17.2,7.2,14.9,2.5,0.0,20.5,10.3,42,109,-13.6
+2021-11-10,202111100NOP,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202111100NOP.html,16:06,.313,.313,.500,.000,19.2,0.0,11.3,0.0,3.0,0.0,0.0,19.9,91,114,-7.1
+2021-11-10,202111100NOP,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111100NOP.html,12:50,.143,.143,.429,.000,0.0,8.5,3.5,24.7,7.5,0.0,12.5,24.9,41,101,-13.2
+2021-11-10,202111100NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202111100NOP.html,8:57,.868,1.000,.000,1.000,17.3,12.2,15.2,0.0,0.0,20.2,41.0,21.8,91,106,-0.7

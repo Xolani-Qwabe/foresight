@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-04-20,202304200GSW,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202304200GSW.html,37.7,9,22,.409,3,9,.333,5,8,.625,3,6,9,9,2,0,4,3,26,20.0,-17
+2023-04-20,202304200GSW,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202304200GSW.html,34.72,7,14,.500,0,1,.000,1,2,.500,3,13,16,4,2,0,6,1,15,12.0,-20
+2023-04-20,202304200GSW,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202304200GSW.html,34.35,6,10,.600,3,7,.429,2,4,.500,1,0,1,0,0,0,0,1,17,11.9,-22
+2023-04-20,202304200GSW,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202304200GSW.html,28.68,6,12,.500,1,6,.167,0,0,,0,4,4,2,1,1,1,5,13,8.3,-12
+2023-04-20,202304200GSW,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202304200GSW.html,21.82,2,7,.286,1,5,.200,1,2,.500,2,3,5,0,1,1,1,5,6,2.5,0
+2023-04-20,202304200GSW,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202304200GSW.html,24.6,1,9,.111,0,4,.000,2,2,1.000,1,2,3,4,0,0,0,0,4,2.2,-13
+2023-04-20,202304200GSW,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202304200GSW.html,17.55,2,6,.333,1,5,.200,0,0,,0,1,1,1,0,0,1,0,5,1.6,-10
+2023-04-20,202304200GSW,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202304200GSW.html,12.75,0,6,.000,0,4,.000,2,2,1.000,1,4,5,0,0,0,0,1,2,-0.7,0
+2023-04-20,202304200GSW,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202304200GSW.html,10.82,1,4,.250,1,4,.250,0,0,,0,4,4,1,0,0,0,2,3,1.7,-1
+2023-04-20,202304200GSW,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202304200GSW.html,7.85,0,0,,0,0,,2,2,1.000,1,2,3,0,0,1,1,4,2,1.4,-2
+2023-04-20,202304200GSW,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202304200GSW.html,3.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4
+2023-04-20,202304200GSW,SAC,PJ Dozier,https://www.basketball-reference.com/boxscores/202304200GSW.html,3.02,1,2,.500,1,2,.500,0,0,,1,1,2,0,0,0,0,0,3,3.0,+4
+2023-04-20,202304200GSW,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202304200GSW.html,3.02,0,0,,0,0,,1,1,1.000,0,0,0,0,0,0,1,0,1,0.0,+4
+2023-04-20,202304200GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202304200GSW.html,36.95,12,25,.480,6,12,.500,6,6,1.000,1,5,6,3,2,1,1,4,36,27.7,+24
+2023-04-20,202304200GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202304200GSW.html,34.53,5,15,.333,3,10,.300,0,0,,0,5,5,2,1,1,2,0,13,7.1,+16
+2023-04-20,202304200GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202304200GSW.html,34.17,8,16,.500,3,6,.500,1,2,.500,1,6,7,3,0,1,2,3,20,13.7,+17
+2023-04-20,202304200GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202304200GSW.html,30.93,2,6,.333,0,0,,0,0,,9,11,20,9,1,0,2,1,4,15.1,+21
+2023-04-20,202304200GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202304200GSW.html,27.85,4,13,.308,1,7,.143,7,8,.875,2,3,5,4,3,0,1,2,16,14.4,+13
+2023-04-20,202304200GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202304200GSW.html,26.78,2,8,.250,1,5,.200,1,2,.500,3,4,7,8,4,0,2,1,6,11.3,+5
+2023-04-20,202304200GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202304200GSW.html,15.78,4,7,.571,2,5,.400,3,3,1.000,0,3,3,0,0,0,0,3,13,9.4,-5
+2023-04-20,202304200GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202304200GSW.html,13.22,3,7,.429,0,2,.000,0,2,.000,2,0,2,1,1,0,0,2,6,3.8,+6
+2023-04-20,202304200GSW,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202304200GSW.html,10.17,0,2,.000,0,2,.000,0,0,,0,3,3,1,0,1,0,3,0,-0.3,-4
+2023-04-20,202304200GSW,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202304200GSW.html,7.1,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,1,1,0,0,-1.0,-3
+2023-04-20,202304200GSW,GSW,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202304200GSW.html,2.52,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-5

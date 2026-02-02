@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-15,202112150DAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202112150DAL.html,42:58,.591,.579,.474,.158,0.0,7.4,3.8,22.1,1.2,0.0,9.0,24.6,109,102,4.2
+2021-12-15,202112150DAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202112150DAL.html,42:05,.534,.472,.222,.444,2.7,22.7,13.0,39.2,0.0,0.0,15.7,28.7,105,101,1.5
+2021-12-15,202112150DAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202112150DAL.html,39:23,.495,.444,.167,.278,0.0,32.3,16.6,9.5,0.0,0.0,22.9,31.5,76,99,-9.0
+2021-12-15,202112150DAL,LAL,Wayne Ellington,https://www.basketball-reference.com/boxscores/202112150DAL.html,37:52,.500,.500,1.000,.000,3.0,5.6,4.3,12.1,4.0,0.0,10.0,12.5,100,96,2.2
+2021-12-15,202112150DAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202112150DAL.html,23:30,.417,.417,.833,.000,0.0,13.5,7.0,13.1,4.3,0.0,0.0,12.1,93,94,-0.3
+2021-12-15,202112150DAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202112150DAL.html,32:13,1.250,1.250,1.000,.000,0.0,23.0,11.9,10.7,1.6,0.0,14.3,10.3,184,98,10.9
+2021-12-15,202112150DAL,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202112150DAL.html,23:45,.507,.438,.250,.250,0.0,17.9,9.2,0.0,0.0,4.1,0.0,17.7,98,99,-1.1
+2021-12-15,202112150DAL,LAL,Kent Bazemore,https://www.basketball-reference.com/boxscores/202112150DAL.html,15:13,.000,.000,.333,.000,0.0,0.0,0.0,8.9,3.3,0.0,0.0,9.3,21,99,-9.6
+2021-12-15,202112150DAL,LAL,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202112150DAL.html,8:01,.333,.333,.000,.000,28.1,26.4,27.3,0.0,0.0,12.2,0.0,17.7,100,91,-4.0
+2021-12-15,202112150DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202112150DAL.html,42:38,.421,.409,.545,.182,5.0,18.5,11.5,7.3,0.0,0.0,7.8,13.7,91,104,-4.0
+2021-12-15,202112150DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202112150DAL.html,38:49,.449,.370,.304,.261,8.2,26.1,16.9,14.6,0.0,5.4,16.3,35.9,85,98,-2.3
+2021-12-15,202112150DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202112150DAL.html,38:13,.647,.667,.222,.167,0.0,8.9,4.3,52.6,0.0,0.0,9.4,25.4,126,105,8.7
+2021-12-15,202112150DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202112150DAL.html,20:20,.000,.000,1.000,.000,0.0,11.1,5.4,13.4,0.0,0.0,20.0,11.2,22,104,-12.9
+2021-12-15,202112150DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202112150DAL.html,13:48,.500,.500,.000,.000,7.7,16.3,11.9,0.0,0.0,0.0,0.0,6.6,119,104,-8.3
+2021-12-15,202112150DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202112150DAL.html,40:05,.503,.474,.579,.105,0.0,25.3,12.3,13.3,1.2,0.0,9.1,24.8,95,100,1.6
+2021-12-15,202112150DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202112150DAL.html,32:54,.750,.750,.833,.000,3.2,20.6,11.6,0.0,0.0,3.2,0.0,8.3,145,101,3.4
+2021-12-15,202112150DAL,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202112150DAL.html,22:18,.436,.333,.417,.333,4.8,15.2,9.8,16.1,2.2,0.0,0.0,28.1,100,99,1.5
+2021-12-15,202112150DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202112150DAL.html,10:27,1.500,1.500,1.000,.000,0.0,21.6,10.5,0.0,9.6,0.0,0.0,4.4,300,81,15.1
+2021-12-15,202112150DAL,DAL,Moses Brown,https://www.basketball-reference.com/boxscores/202112150DAL.html,3:31,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,105,-17.0
+2021-12-15,202112150DAL,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202112150DAL.html,1:57,.000,.000,.500,.000,0.0,0.0,0.0,69.7,0.0,0.0,0.0,46.7,27,105,-34.0

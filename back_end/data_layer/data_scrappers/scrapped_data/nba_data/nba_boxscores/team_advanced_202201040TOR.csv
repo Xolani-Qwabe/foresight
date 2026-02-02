@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-04,202201040TOR,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202201040TOR.html,29:08,.231,.231,.385,.000,3.1,10.1,6.5,18.3,1.6,0.0,18.8,21.4,58,126,-14.7
+2022-01-04,202201040TOR,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202201040TOR.html,28:23,.577,.577,.538,.000,3.2,3.5,3.3,16.4,0.0,0.0,13.3,20.6,109,133,-2.4
+2022-01-04,202201040TOR,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202201040TOR.html,22:47,.265,.222,.111,.111,0.0,4.3,2.1,22.9,2.0,0.0,17.5,19.5,67,128,-11.8
+2022-01-04,202201040TOR,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201040TOR.html,22:38,.625,.692,.000,.385,16.0,34.6,25.0,38.7,0.0,0.0,11.6,29.6,118,121,11.1
+2022-01-04,202201040TOR,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202201040TOR.html,22:00,.652,.500,.571,.714,0.0,17.8,8.6,19.0,4.2,4.2,17.9,19.8,122,115,4.7
+2022-01-04,202201040TOR,SAS,Joshua Primo,https://www.basketball-reference.com/boxscores/202201040TOR.html,27:45,.593,.500,.600,.600,6.5,10.6,8.5,20.3,0.0,6.7,13.7,20.5,121,127,5.4
+2022-01-04,202201040TOR,SAS,Jock Landale,https://www.basketball-reference.com/boxscores/202201040TOR.html,21:30,.167,.167,.333,.000,12.6,4.6,8.8,5.8,0.0,0.0,25.0,14.5,53,132,-18.5
+2022-01-04,202201040TOR,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202201040TOR.html,20:44,.400,.400,.600,.000,0.0,14.2,6.8,6.4,0.0,0.0,28.6,13.1,63,129,-13.9
+2022-01-04,202201040TOR,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202201040TOR.html,16:02,.444,.429,.143,.286,22.6,18.3,20.5,9.4,0.0,0.0,20.2,24.0,91,127,-7.4
+2022-01-04,202201040TOR,SAS,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202201040TOR.html,12:00,.813,.813,.625,.000,7.5,0.0,3.9,19.0,3.9,0.0,0.0,25.9,159,126,25.2
+2022-01-04,202201040TOR,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201040TOR.html,11:30,1.000,1.000,.000,.000,7.9,34.1,20.5,0.0,4.1,0.0,25.0,13.5,128,111,4.9
+2022-01-04,202201040TOR,SAS,Jaylen Morris,https://www.basketball-reference.com/boxscores/202201040TOR.html,5:33,.000,.000,1.000,.000,0.0,35.3,17.0,21.1,0.0,0.0,0.0,7.0,56,120,-9.6
+2022-01-04,202201040TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202201040TOR.html,32:49,.628,.571,.286,.571,6.0,19.3,12.9,29.9,1.4,2.4,10.2,11.8,151,101,4.7
+2022-01-04,202201040TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202201040TOR.html,32:05,.691,.674,.609,.087,3.1,2.8,2.9,38.7,2.9,0.0,0.0,29.6,155,106,17.3
+2022-01-04,202201040TOR,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202201040TOR.html,31:46,.622,.594,.563,.125,0.0,0.0,0.0,13.8,2.9,0.0,5.6,22.4,129,107,2.0
+2022-01-04,202201040TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202201040TOR.html,30:43,.470,.429,.571,.143,3.2,17.7,10.7,12.6,3.0,0.0,6.3,20.5,110,99,-2.3
+2022-01-04,202201040TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202201040TOR.html,27:33,.610,.615,.154,.308,7.1,32.9,20.5,26.6,0.0,0.0,16.9,25.6,117,99,0.1
+2022-01-04,202201040TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202201040TOR.html,19:21,.347,.250,.500,1.000,10.1,23.4,17.0,0.0,4.8,8.3,0.0,11.8,100,89,-3.1
+2022-01-04,202201040TOR,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202201040TOR.html,18:44,.628,.500,.250,2.250,10.5,9.7,10.0,6.4,2.5,4.3,20.1,21.1,117,102,-1.4
+2022-01-04,202201040TOR,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202201040TOR.html,18:42,.205,.000,.000,.500,21.0,14.5,17.6,5.7,2.5,12.8,38.1,16.7,67,95,-9.6
+2022-01-04,202201040TOR,TOR,Justin Champagnie,https://www.basketball-reference.com/boxscores/202201040TOR.html,13:00,1.167,1.167,.833,.000,15.1,7.0,10.9,0.0,0.0,6.2,0.0,18.3,217,107,25.5
+2022-01-04,202201040TOR,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202201040TOR.html,5:33,.333,.333,.000,.000,0.0,0.0,0.0,23.8,8.4,0.0,25.0,28.6,67,95,-11.3
+2022-01-04,202201040TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202201040TOR.html,5:33,.000,.000,.000,.000,0.0,0.0,0.0,19.2,0.0,0.0,0.0,7.2,68,113,-14.8
+2022-01-04,202201040TOR,TOR,Isaac Bonga,https://www.basketball-reference.com/boxscores/202201040TOR.html,4:11,.000,.000,1.000,.000,0.0,21.6,11.2,0.0,11.1,0.0,0.0,9.5,0,80,-2.8

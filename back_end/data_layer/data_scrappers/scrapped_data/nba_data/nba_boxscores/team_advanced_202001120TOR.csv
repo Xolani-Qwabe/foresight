@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-12,202001120TOR,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202001120TOR.html,34:36,.688,.583,.000,1.167,3.0,19.4,11.6,19.6,2.8,0.0,9.9,25.2,133,101,8.0
+2020-01-12,202001120TOR,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202001120TOR.html,33:46,.486,.500,.600,.300,0.0,11.4,5.9,17.6,1.4,0.0,8.1,15.7,99,106,0.8
+2020-01-12,202001120TOR,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202001120TOR.html,21:22,.556,.556,.111,.000,9.8,22.5,16.4,33.6,0.0,0.0,10.0,20.2,117,107,3.8
+2020-01-12,202001120TOR,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202001120TOR.html,20:19,.350,.350,.600,.000,5.1,0.0,2.5,7.6,0.0,0.0,9.1,23.4,73,112,-11.0
+2020-01-12,202001120TOR,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202001120TOR.html,13:48,.400,.400,.000,.000,15.1,20.9,18.1,0.0,0.0,0.0,0.0,15.6,100,107,-6.4
+2020-01-12,202001120TOR,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202001120TOR.html,27:41,.338,.292,.583,.250,3.8,10.4,7.2,0.0,1.7,0.0,7.0,22.3,70,105,-11.3
+2020-01-12,202001120TOR,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202001120TOR.html,26:38,.604,.556,.333,.444,0.0,14.4,7.5,24.9,0.0,11.3,8.5,19.1,120,100,7.1
+2020-01-12,202001120TOR,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202001120TOR.html,20:10,.644,.556,.556,.667,5.2,4.8,5.0,25.1,0.0,0.0,7.9,27.1,129,111,8.4
+2020-01-12,202001120TOR,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202001120TOR.html,19:35,.667,.667,.000,.000,5.3,44.1,25.5,7.4,0.0,10.2,40.0,11.0,86,93,-0.4
+2020-01-12,202001120TOR,SAS,Marco Belinelli,https://www.basketball-reference.com/boxscores/202001120TOR.html,11:32,.625,.625,.750,.000,0.0,33.3,17.3,42.1,4.1,0.0,0.0,15.0,142,94,15.6
+2020-01-12,202001120TOR,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202001120TOR.html,10:33,.250,.250,.250,.000,0.0,18.2,9.5,0.0,4.5,0.0,20.0,20.5,40,97,-11.0
+2020-01-12,202001120TOR,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202001120TOR.html,38:52,.504,.467,.800,.133,0.0,8.1,3.9,56.4,2.5,0.0,11.2,19.7,118,105,7.3
+2020-01-12,202001120TOR,TOR,Serge Ibaka,https://www.basketball-reference.com/boxscores/202001120TOR.html,32:21,.656,.656,.375,.000,5.9,38.7,21.6,5.8,0.0,2.7,5.9,22.6,117,101,5.6
+2020-01-12,202001120TOR,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202001120TOR.html,31:17,.714,.714,.500,.000,0.0,10.0,4.8,23.0,1.5,0.0,6.7,20.6,127,107,9.0
+2020-01-12,202001120TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202001120TOR.html,29:49,.419,.412,.353,.118,0.0,17.5,8.4,21.9,0.0,0.0,5.3,27.2,87,108,-4.2
+2020-01-12,202001120TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202001120TOR.html,29:25,.735,.700,.200,.200,3.3,7.1,5.1,9.6,1.6,0.0,0.0,7.9,156,107,1.9
+2020-01-12,202001120TOR,TOR,Patrick McCaw,https://www.basketball-reference.com/boxscores/202001120TOR.html,19:34,.333,.333,.667,.000,0.0,10.7,5.1,13.4,0.0,0.0,25.0,8.8,71,110,-7.3
+2020-01-12,202001120TOR,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202001120TOR.html,18:11,.418,.333,.111,.444,21.1,11.5,16.5,0.0,2.6,4.8,15.7,30.1,87,100,-5.9
+2020-01-12,202001120TOR,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202001120TOR.html,15:47,.500,.500,.833,.000,0.0,6.6,3.2,0.0,0.0,0.0,0.0,16.3,92,111,-4.4
+2020-01-12,202001120TOR,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/202001120TOR.html,12:24,.000,.000,.833,.000,7.7,33.7,20.2,9.9,0.0,0.0,14.3,24.2,20,105,-21.8
+2020-01-12,202001120TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202001120TOR.html,9:18,.595,.500,.600,.400,0.0,33.7,16.1,18.0,10.3,9.4,14.5,31.8,103,74,12.2
+2020-01-12,202001120TOR,TOR,Oshae Brissett,https://www.basketball-reference.com/boxscores/202001120TOR.html,3:02,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,14.1,0,111,-27.6

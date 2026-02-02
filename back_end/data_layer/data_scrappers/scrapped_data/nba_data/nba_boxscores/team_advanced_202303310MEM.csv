@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-31,202303310MEM,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202303310MEM.html,25:48,.250,.250,.375,.000,0.0,14.9,7.4,67.6,1.8,3.0,38.5,21.0,67,104,-3.6
+2023-03-31,202303310MEM,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202303310MEM.html,25:38,.615,.600,.000,.500,18.4,37.5,27.8,0.0,3.7,3.0,14.1,23.1,112,93,5.9
+2023-03-31,202303310MEM,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202303310MEM.html,22:56,.000,.000,.750,.000,0.0,12.6,6.2,6.2,2.1,0.0,0.0,7.3,16,106,-9.6
+2023-03-31,202303310MEM,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202303310MEM.html,17:55,.607,.556,.444,.222,0.0,16.1,8.0,0.0,2.6,8.5,16.8,27.7,94,98,7.6
+2023-03-31,202303310MEM,LAC,Eric Gordon,https://www.basketball-reference.com/boxscores/202303310MEM.html,16:14,.623,.600,.500,.100,0.0,5.9,2.9,30.8,0.0,4.7,8.7,29.4,112,110,11.3
+2023-03-31,202303310MEM,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202303310MEM.html,25:08,.673,.636,.182,.182,3.7,0.0,1.9,16.9,0.0,0.0,0.0,19.7,139,114,6.3
+2023-03-31,202303310MEM,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202303310MEM.html,23:32,.357,.357,.500,.000,4.0,12.2,8.1,7.9,0.0,0.0,0.0,24.8,80,111,-6.4
+2023-03-31,202303310MEM,LAC,Robert Covington,https://www.basketball-reference.com/boxscores/202303310MEM.html,20:24,.333,.333,.333,.000,0.0,28.2,14.0,7.4,0.0,3.7,40.0,10.2,47,103,-8.3
+2023-03-31,202303310MEM,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202303310MEM.html,18:43,.317,.214,.714,.286,0.0,15.4,7.6,16.3,0.0,0.0,11.3,19.8,72,110,-7.9
+2023-03-31,202303310MEM,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202303310MEM.html,13:02,.515,.333,.000,.667,21.7,7.4,14.6,24.3,0.0,5.8,34.0,18.8,98,108,-2.4
+2023-03-31,202303310MEM,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202303310MEM.html,12:00,.840,.833,.667,1.333,0.0,8.0,4.0,15.4,0.0,0.0,17.4,20.0,135,112,7.8
+2023-03-31,202303310MEM,LAC,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202303310MEM.html,9:20,.000,.000,.000,.000,20.2,20.6,20.4,0.0,0.0,8.2,0.0,9.0,54,103,-6.4
+2023-03-31,202303310MEM,LAC,Xavier Moon,https://www.basketball-reference.com/boxscores/202303310MEM.html,9:20,.417,.417,.500,.000,0.0,10.3,5.1,65.1,0.0,0.0,14.3,31.3,89,112,1.3
+2023-03-31,202303310MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202303310MEM.html,38:24,.583,.556,.278,.111,0.0,7.4,3.7,35.4,3.7,0.0,5.0,21.2,127,94,11.5
+2023-03-31,202303310MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202303310MEM.html,32:13,.612,.636,.000,.091,11.9,11.7,11.8,9.1,2.9,5.4,8.0,15.8,125,91,8.9
+2023-03-31,202303310MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202303310MEM.html,25:49,.414,.400,.200,.200,7.4,21.9,14.7,0.0,3.7,10.1,15.5,20.4,78,82,-3.0
+2023-03-31,202303310MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202303310MEM.html,25:38,.487,.409,.545,.273,0.0,14.7,7.4,5.3,3.7,0.0,7.5,21.2,98,91,0.3
+2023-03-31,202303310MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202303310MEM.html,25:38,.392,.364,.273,.364,0.0,18.4,9.3,21.1,0.0,0.0,19.0,25.1,76,99,-8.5
+2023-03-31,202303310MEM,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202303310MEM.html,33:28,.773,.773,.909,.000,0.0,16.9,8.5,4.2,0.0,0.0,21.4,17.1,110,99,1.3
+2023-03-31,202303310MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202303310MEM.html,22:22,.350,.350,.500,.000,4.3,4.2,4.2,35.2,4.2,3.9,0.0,18.3,103,92,8.0
+2023-03-31,202303310MEM,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202303310MEM.html,20:08,.400,.400,.200,.000,14.3,18.7,16.5,12.5,0.0,0.0,16.7,12.2,101,98,-2.3
+2023-03-31,202303310MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202303310MEM.html,16:20,.580,.444,.111,.556,11.8,34.6,23.3,0.0,0.0,5.3,15.2,33.0,108,89,1.6

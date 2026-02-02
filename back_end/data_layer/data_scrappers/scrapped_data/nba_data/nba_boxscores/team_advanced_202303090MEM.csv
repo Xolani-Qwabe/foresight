@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-09,202303090MEM,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202303090MEM.html,34:24,.670,.632,.421,.316,10.2,16.9,13.2,25.3,1.4,0.0,15.6,32.7,119,134,4.1
+2023-03-09,202303090MEM,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202303090MEM.html,34:10,.764,.600,.500,1.000,3.4,8.5,5.7,19.4,1.4,0.0,21.7,23.6,129,135,1.2
+2023-03-09,202303090MEM,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202303090MEM.html,30:13,.687,.556,.111,.667,3.9,19.3,10.7,39.6,4.8,0.0,30.0,24.1,114,126,4.7
+2023-03-09,202303090MEM,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202303090MEM.html,27:46,.500,.500,.500,.000,4.2,15.7,9.3,6.7,1.7,0.0,6.7,23.7,96,133,-6.6
+2023-03-09,202303090MEM,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202303090MEM.html,21:24,.200,.200,.800,.000,5.5,6.8,6.1,6.6,0.0,0.0,16.7,12.3,56,139,-15.4
+2023-03-09,202303090MEM,GSW,Ty Jerome,https://www.basketball-reference.com/boxscores/202303090MEM.html,23:14,1.127,1.125,1.000,.500,0.0,12.5,5.6,20.8,2.1,0.0,17.0,11.1,177,133,7.9
+2023-03-09,202303090MEM,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202303090MEM.html,18:59,.500,.500,.000,.000,6.2,46.0,23.9,7.6,0.0,4.8,0.0,4.6,137,128,-3.3
+2023-03-09,202303090MEM,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202303090MEM.html,17:52,.563,.563,.875,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.6,106,140,-4.7
+2023-03-09,202303090MEM,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202303090MEM.html,17:39,.000,.000,1.000,.000,0.0,8.2,3.7,30.2,5.5,0.0,0.0,7.4,74,126,-1.1
+2023-03-09,202303090MEM,GSW,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202303090MEM.html,14:19,.313,.313,.750,.000,0.0,10.2,4.5,0.0,0.0,12.7,11.1,27.5,56,129,-16.6
+2023-03-09,202303090MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202303090MEM.html,34:30,.453,.433,.467,.067,4.2,10.2,7.5,20.0,1.4,3.8,0.0,19.0,121,111,-0.9
+2023-03-09,202303090MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202303090MEM.html,33:12,.586,.559,.529,.235,0.0,14.1,7.8,41.4,4.4,0.0,13.8,27.9,126,105,7.1
+2023-03-09,202303090MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202303090MEM.html,32:16,.653,.577,.308,.538,9.0,25.4,18.1,10.9,1.5,4.0,11.1,23.8,131,107,3.7
+2023-03-09,202303090MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202303090MEM.html,31:50,.622,.625,.313,.125,0.0,7.4,4.1,24.8,0.0,0.0,0.0,22.5,141,117,3.3
+2023-03-09,202303090MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202303090MEM.html,22:15,.714,.714,.000,.000,6.5,36.8,23.3,11.0,2.2,0.0,22.2,17.2,116,105,-0.5
+2023-03-09,202303090MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202303090MEM.html,29:33,.759,.722,.556,.222,9.8,19.8,15.4,3.9,0.0,0.0,9.2,15.7,145,114,3.2
+2023-03-09,202303090MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202303090MEM.html,22:12,.800,.800,.600,.000,6.6,5.3,5.8,14.9,0.0,0.0,16.7,11.5,146,118,2.3
+2023-03-09,202303090MEM,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202303090MEM.html,17:21,1.000,1.000,1.000,.000,0.0,6.7,3.7,12.4,0.0,0.0,0.0,7.4,199,117,5.0
+2023-03-09,202303090MEM,MEM,David Roddy,https://www.basketball-reference.com/boxscores/202303090MEM.html,6:43,.510,.600,.400,.400,0.0,52.3,29.0,25.0,0.0,19.3,0.0,37.2,104,96,5.6
+2023-03-09,202303090MEM,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202303090MEM.html,6:42,1.250,1.250,.500,.000,43.4,0.0,19.4,0.0,0.0,0.0,60.0,31.7,79,119,-1.2
+2023-03-09,202303090MEM,MEM,Kennedy Chandler,https://www.basketball-reference.com/boxscores/202303090MEM.html,1:43,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-7.6
+2023-03-09,202303090MEM,MEM,Kenneth Lofton Jr.,https://www.basketball-reference.com/boxscores/202303090MEM.html,1:43,1.500,1.500,1.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,24.8,280,119,65.7

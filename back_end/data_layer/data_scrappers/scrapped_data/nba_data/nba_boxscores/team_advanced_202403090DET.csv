@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-09,202403090DET,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202403090DET.html,36:38,.687,.625,.542,.417,0.0,25.2,14.2,38.6,3.6,4.2,17.4,37.5,121,104,11.4
+2024-03-09,202403090DET,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202403090DET.html,29:44,.583,.583,.333,.000,4.0,6.2,5.3,22.1,1.5,0.0,18.2,29.6,101,120,-4.1
+2024-03-09,202403090DET,DAL,P.J. Washington,https://www.basketball-reference.com/boxscores/202403090DET.html,28:58,.717,.625,.750,.500,0.0,6.4,3.6,3.5,3.0,0.0,0.0,6.7,148,116,0.4
+2024-03-09,202403090DET,DAL,Daniel Gafford,https://www.basketball-reference.com/boxscores/202403090DET.html,24:03,.970,1.000,.000,.571,0.0,26.9,15.2,5.4,0.0,12.9,10.2,16.2,171,107,7.6
+2024-03-09,202403090DET,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202403090DET.html,18:12,.761,.714,.286,.286,0.0,5.1,2.9,7.0,9.6,4.3,0.0,17.3,153,99,12.4
+2024-03-09,202403090DET,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202403090DET.html,27:00,.556,.400,.200,1.000,0.0,3.4,1.9,7.5,3.2,0.0,0.0,10.7,126,117,-3.7
+2024-03-09,202403090DET,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202403090DET.html,18:07,.333,.333,.333,.000,6.6,5.1,5.8,27.4,0.0,0.0,0.0,6.6,136,124,-4.0
+2024-03-09,202403090DET,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202403090DET.html,17:35,.576,.615,.615,.308,0.0,5.2,3.0,15.8,0.0,0.0,0.0,33.6,113,124,-0.2
+2024-03-09,202403090DET,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202403090DET.html,17:04,.000,.000,1.000,.000,7.0,27.0,18.3,0.0,2.6,4.5,0.0,4.7,48,105,-6.2
+2024-03-09,202403090DET,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202403090DET.html,12:01,.615,.500,.000,.500,10.0,7.7,8.7,8.5,0.0,0.0,29.1,11.4,113,122,-11.4
+2024-03-09,202403090DET,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202403090DET.html,4:10,.694,.500,.000,1.000,0.0,22.2,12.5,41.2,0.0,0.0,14.8,64.9,125,116,3.8
+2024-03-09,202403090DET,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202403090DET.html,3:14,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.4,200,126,2.1
+2024-03-09,202403090DET,DAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202403090DET.html,3:14,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,37.1,103,126,32.3
+2024-03-09,202403090DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202403090DET.html,36:25,.388,.381,.429,.095,10.1,6.6,8.6,14.7,2.4,2.4,21.5,28.5,81,126,-10.4
+2024-03-09,202403090DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202403090DET.html,34:20,.417,.417,.667,.000,0.0,14.0,6.1,0.0,3.8,0.0,14.3,7.6,80,125,-5.8
+2024-03-09,202403090DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202403090DET.html,32:26,.673,.595,.333,.381,8.5,22.2,14.5,51.5,0.0,0.0,16.9,33.9,133,132,8.5
+2024-03-09,202403090DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202403090DET.html,15:46,.521,.250,.000,1.000,11.7,45.7,26.5,21.8,0.0,0.0,25.8,18.3,111,130,-5.5
+2024-03-09,202403090DET,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202403090DET.html,11:16,.228,.143,.286,.571,32.8,10.7,23.2,0.0,3.9,0.0,0.0,28.9,83,125,-16.1
+2024-03-09,202403090DET,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202403090DET.html,32:12,.888,.846,.385,.385,2.9,11.2,6.5,9.4,1.4,2.8,0.0,17.6,191,128,11.4
+2024-03-09,202403090DET,DET,James Wiseman,https://www.basketball-reference.com/boxscores/202403090DET.html,30:08,.781,.800,.000,.200,12.3,31.9,20.8,19.8,0.0,2.9,8.4,14.7,158,129,4.9
+2024-03-09,202403090DET,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202403090DET.html,18:30,.625,.625,.625,.000,0.0,25.9,11.3,7.5,2.4,0.0,27.3,22.1,91,127,-7.4
+2024-03-09,202403090DET,DET,Stanley Umude,https://www.basketball-reference.com/boxscores/202403090DET.html,13:36,.300,.300,.600,.000,13.6,0.0,7.7,0.0,0.0,6.5,0.0,13.7,97,128,-11.2
+2024-03-09,202403090DET,DET,Evan Fournier,https://www.basketball-reference.com/boxscores/202403090DET.html,10:45,.000,.000,.667,.000,0.0,22.3,9.7,9.9,0.0,0.0,0.0,10.4,28,132,-15.6
+2024-03-09,202403090DET,DET,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202403090DET.html,2:18,,,,,0.0,0.0,0.0,46.4,0.0,0.0,,0.0,229,134,7.1
+2024-03-09,202403090DET,DET,Malachi Flynn,https://www.basketball-reference.com/boxscores/202403090DET.html,2:18,1.000,1.000,.000,.000,0.0,0.0,0.0,86.5,0.0,0.0,50.0,32.4,105,133,-6.7

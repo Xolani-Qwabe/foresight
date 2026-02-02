@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202201090POR.html
+Scraped: 2025-12-15 00:13:20
+
+line_scores: 2 rows (nba_boxscores/line_scores_202201090POR.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202201090POR.csv)
+team_basic: 23 rows (nba_boxscores/team_basic_202201090POR.csv)
+team_advanced: 23 rows (nba_boxscores/team_advanced_202201090POR.csv)
+quarters: 79 rows (nba_boxscores/quarters_202201090POR.csv)

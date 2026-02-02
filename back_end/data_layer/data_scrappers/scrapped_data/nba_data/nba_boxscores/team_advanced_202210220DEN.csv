@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-10-22,202210220DEN,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202210220DEN.html,33:56,.534,.479,.208,.208,0.0,9.2,4.6,37.4,1.3,0.0,16.0,38.0,100,120,-3.3
+2022-10-22,202210220DEN,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202210220DEN.html,32:44,.531,.529,.235,.118,12.5,25.5,18.9,29.1,1.4,3.1,5.3,23.8,121,115,5.8
+2022-10-22,202210220DEN,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202210220DEN.html,30:01,.393,.269,.538,.615,10.2,13.9,12.0,17.2,4.6,0.0,10.8,25.5,94,111,-4.7
+2022-10-22,202210220DEN,OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202210220DEN.html,18:21,.833,.833,.667,.000,0.0,11.4,5.6,0.0,2.5,0.0,25.0,18.0,101,118,1.0
+2022-10-22,202210220DEN,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202210220DEN.html,12:06,.000,.000,.000,.000,0.0,8.6,4.3,0.0,7.6,8.4,0.0,3.4,0,100,-2.0
+2022-10-22,202210220DEN,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202210220DEN.html,28:26,.528,.545,.455,.273,3.6,11.0,7.3,20.1,0.0,0.0,7.5,19.4,110,122,-4.2
+2022-10-22,202210220DEN,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202210220DEN.html,21:02,.750,.750,1.000,.000,0.0,9.9,4.9,18.3,4.4,14.6,20.0,9.8,127,103,10.3
+2022-10-22,202210220DEN,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202210220DEN.html,18:48,.827,.800,.700,.200,0.0,33.3,16.5,9.6,0.0,0.0,0.0,23.9,156,118,12.9
+2022-10-22,202210220DEN,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202210220DEN.html,16:04,.615,.500,.000,.500,12.7,6.5,9.6,23.0,0.0,0.0,0.0,6.3,173,123,-1.1
+2022-10-22,202210220DEN,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202210220DEN.html,15:46,.644,.500,.667,.667,0.0,39.7,19.6,7.8,0.0,0.0,0.0,10.2,144,117,-0.9
+2022-10-22,202210220DEN,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202210220DEN.html,7:03,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.7,0,126,-19.5
+2022-10-22,202210220DEN,OKC,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202210220DEN.html,3:24,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.2,200,121,-6.6
+2022-10-22,202210220DEN,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202210220DEN.html,2:19,,,,,0.0,45.0,22.3,0.0,0.0,0.0,,0.0,0,117,-6.1
+2022-10-22,202210220DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202210220DEN.html,38:41,.681,.650,.100,.900,2.7,39.6,21.3,46.7,1.2,2.2,17.7,18.0,142,105,11.7
+2022-10-22,202210220DEN,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202210220DEN.html,31:55,.781,.769,.769,.077,0.0,16.0,8.1,9.6,0.0,0.0,13.0,19.9,122,116,2.2
+2022-10-22,202210220DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202210220DEN.html,28:22,.439,.389,.333,.889,18.4,18.0,18.2,9.2,0.0,6.0,13.8,21.1,102,111,-2.9
+2022-10-22,202210220DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202210220DEN.html,27:39,.712,.700,.667,.067,7.5,14.8,11.2,6.2,1.7,3.1,16.3,27.4,111,110,4.3
+2022-10-22,202210220DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202210220DEN.html,27:30,.581,.542,.333,.333,0.0,14.9,7.5,27.7,3.3,0.0,26.7,28.1,94,109,-2.0
+2022-10-22,202210220DEN,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202210220DEN.html,26:15,.282,.313,.375,.250,4.0,3.9,3.9,14.3,0.0,3.3,0.0,13.9,85,117,-6.7
+2022-10-22,202210220DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202210220DEN.html,19:38,1.036,1.200,.400,.800,0.0,5.2,2.6,16.4,0.0,0.0,0.0,14.2,199,119,11.4
+2022-10-22,202210220DEN,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202210220DEN.html,16:29,.900,.900,.800,.000,0.0,6.2,3.1,17.5,2.8,5.2,16.7,15.0,136,108,13.1
+2022-10-22,202210220DEN,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202210220DEN.html,14:17,.085,.000,.200,.400,0.0,7.2,3.6,24.0,0.0,0.0,14.5,19.8,48,118,-20.3
+2022-10-22,202210220DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202210220DEN.html,9:14,.667,.667,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,17.8,83,119,-15.1

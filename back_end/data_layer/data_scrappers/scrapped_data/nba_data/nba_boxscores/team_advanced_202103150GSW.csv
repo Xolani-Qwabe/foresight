@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-15,202103150GSW,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202103150GSW.html,30:29,.703,.692,.308,.462,5.6,29.5,20.7,47.6,0.0,0.0,27.7,31.6,120,98,4.8
+2021-03-15,202103150GSW,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202103150GSW.html,27:53,.510,.400,.400,.400,0.0,7.2,4.5,26.5,1.7,0.0,40.5,15.7,96,100,-5.3
+2021-03-15,202103150GSW,LAL,Damian Jones,https://www.basketball-reference.com/boxscores/202103150GSW.html,21:12,1.031,1.000,.000,.667,8.1,14.2,11.9,5.4,0.0,5.4,34.0,12.3,134,98,-0.2
+2021-03-15,202103150GSW,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202103150GSW.html,20:54,.829,.813,.500,.125,0.0,19.1,12.1,6.1,2.3,5.5,0.0,17.9,162,92,13.6
+2021-03-15,202103150GSW,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202103150GSW.html,15:48,.595,.600,.800,.400,21.7,19.0,20.0,0.0,3.0,0.0,14.5,19.4,113,93,-1.8
+2021-03-15,202103150GSW,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202103150GSW.html,28:10,.743,.773,.455,.091,6.1,14.2,11.2,18.4,3.4,0.0,8.0,19.6,141,94,10.6
+2021-03-15,202103150GSW,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202103150GSW.html,27:59,.738,.700,.100,.500,0.0,14.3,9.0,46.4,1.7,0.0,14.1,22.6,149,98,9.9
+2021-03-15,202103150GSW,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202103150GSW.html,25:04,.811,.786,.071,.429,0.0,19.9,12.6,6.9,5.7,0.0,10.7,33.0,140,87,9.7
+2021-03-15,202103150GSW,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202103150GSW.html,23:47,.300,.300,1.000,.000,0.0,0.0,0.0,0.0,0.0,4.8,0.0,9.3,67,102,-7.4
+2021-03-15,202103150GSW,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202103150GSW.html,12:57,.500,.500,.500,.000,13.2,23.2,19.5,0.0,0.0,0.0,33.3,10.3,84,99,-10.1
+2021-03-15,202103150GSW,LAL,Devontae Cacok,https://www.basketball-reference.com/boxscores/202103150GSW.html,5:46,1.000,1.000,.000,.000,29.7,34.7,32.9,25.7,0.0,0.0,0.0,15.4,209,97,20.0
+2021-03-15,202103150GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202103150GSW.html,29:13,.703,.647,.412,.294,0.0,17.6,6.5,17.1,4.9,0.0,9.4,31.2,123,121,13.5
+2021-03-15,202103150GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202103150GSW.html,29:13,.258,.000,.667,.667,0.0,35.2,13.0,29.0,1.6,3.2,50.8,11.6,63,125,-7.2
+2021-03-15,202103150GSW,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202103150GSW.html,28:22,.581,.611,.444,.333,3.5,6.0,4.5,6.6,3.4,0.0,32.6,23.2,74,126,-7.8
+2021-03-15,202103150GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202103150GSW.html,27:10,.697,.722,.444,.444,7.4,6.3,7.0,7.0,1.8,3.5,15.7,20.2,114,127,4.7
+2021-03-15,202103150GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202103150GSW.html,11:30,.000,.000,.000,.000,0.0,14.9,5.5,36.8,4.2,0.0,33.3,11.2,53,122,-7.8
+2021-03-15,202103150GSW,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202103150GSW.html,27:58,.444,.429,.143,.286,17.9,18.4,18.1,5.9,0.0,0.0,27.6,16.7,86,132,-13.2
+2021-03-15,202103150GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202103150GSW.html,20:38,.595,.550,.500,.400,0.0,16.6,6.1,10.4,0.0,0.0,14.5,28.7,99,132,-4.3
+2021-03-15,202103150GSW,GSW,Nico Mannion,https://www.basketball-reference.com/boxscores/202103150GSW.html,18:47,.635,.571,.857,.286,5.3,0.0,3.4,38.8,0.0,0.0,0.0,18.1,147,134,4.0
+2021-03-15,202103150GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202103150GSW.html,18:36,.500,.500,.400,.000,0.0,9.2,3.4,26.8,2.6,0.0,16.7,13.9,100,127,-2.2
+2021-03-15,202103150GSW,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202103150GSW.html,14:14,.000,.000,.600,.000,0.0,24.1,8.9,0.0,0.0,0.0,28.6,21.2,0,131,-28.4
+2021-03-15,202103150GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202103150GSW.html,7:19,.500,.500,.667,.000,0.0,23.4,8.6,47.8,0.0,0.0,0.0,17.6,125,132,6.8
+2021-03-15,202103150GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202103150GSW.html,3:40,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.7,0,134,-19.2
+2021-03-15,202103150GSW,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202103150GSW.html,3:19,.532,1.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.4,75,134,-5.0

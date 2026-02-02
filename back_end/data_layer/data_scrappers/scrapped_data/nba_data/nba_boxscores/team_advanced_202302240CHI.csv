@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-24,202302240CHI,BRK,Mikal Bridges,https://www.basketball-reference.com/boxscores/202302240CHI.html,26:42,.574,.500,.500,.300,0.0,28.4,12.3,15.8,0.0,0.0,15.0,23.4,97,137,-4.9
+2023-02-24,202302240CHI,BRK,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202302240CHI.html,25:05,.167,.167,.833,.000,3.8,25.2,13.0,6.8,0.0,0.0,25.0,15.0,39,137,-17.9
+2023-02-24,202302240CHI,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202302240CHI.html,24:26,.137,.000,.500,.500,0.0,5.2,2.2,32.7,0.0,0.0,12.0,16.0,54,142,-16.0
+2023-02-24,202302240CHI,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202302240CHI.html,22:01,.444,.429,.000,.286,0.0,34.4,14.9,27.9,4.6,3.5,0.0,16.8,100,124,5.7
+2023-02-24,202302240CHI,BRK,Cameron Johnson,https://www.basketball-reference.com/boxscores/202302240CHI.html,19:40,.385,.385,.615,.000,0.0,6.4,2.8,0.0,2.5,0.0,0.0,31.0,71,137,-7.3
+2023-02-24,202302240CHI,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202302240CHI.html,29:53,.580,.500,.400,.600,0.0,4.2,1.8,15.8,0.0,0.0,0.0,29.8,117,143,3.4
+2023-02-24,202302240CHI,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202302240CHI.html,23:48,.205,.000,1.000,.500,0.0,26.5,11.5,20.2,2.1,0.0,29.1,13.6,50,132,-13.4
+2023-02-24,202302240CHI,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202302240CHI.html,22:19,.417,.417,.833,.000,0.0,0.0,0.0,0.0,2.2,0.0,25.0,16.8,56,138,-14.1
+2023-02-24,202302240CHI,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202302240CHI.html,21:18,.864,.864,.545,.000,9.0,0.0,5.1,56.5,0.0,0.0,15.4,28.6,133,143,12.9
+2023-02-24,202302240CHI,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202302240CHI.html,16:07,1.000,1.000,.000,.000,11.9,7.8,10.2,22.0,3.1,9.6,66.7,8.7,102,128,-1.7
+2023-02-24,202302240CHI,BRK,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202302240CHI.html,8:41,.750,.750,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.8,127,142,-8.2
+2023-02-24,202302240CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202302240CHI.html,28:30,.853,.824,.353,.235,4.4,16.8,11.5,11.3,0.0,0.0,5.1,30.4,167,96,18.1
+2023-02-24,202302240CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202302240CHI.html,28:30,.604,.556,.000,.444,4.4,30.3,19.1,8.1,0.0,9.1,0.0,16.6,142,87,5.2
+2023-02-24,202302240CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202302240CHI.html,27:39,.487,.471,.176,.059,0.0,13.9,7.9,19.2,1.8,4.7,5.4,29.3,111,89,-0.7
+2023-02-24,202302240CHI,CHI,Patrick Beverley,https://www.basketball-reference.com/boxscores/202302240CHI.html,22:10,.645,.625,.750,1.250,0.0,21.7,12.3,19.0,0.0,0.0,13.9,14.3,135,95,4.4
+2023-02-24,202302240CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202302240CHI.html,19:27,.667,.667,.333,.000,0.0,9.9,5.6,5.5,0.0,6.7,0.0,6.8,149,92,-0.9
+2023-02-24,202302240CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202302240CHI.html,27:45,.738,.750,.250,1.000,13.7,10.4,11.8,12.5,3.6,0.0,14.8,21.4,142,88,10.7
+2023-02-24,202302240CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202302240CHI.html,25:50,.438,.438,.250,.000,0.0,33.4,19.0,12.5,1.9,0.0,20.0,17.0,90,88,-2.7
+2023-02-24,202302240CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202302240CHI.html,25:14,.417,.417,.833,.000,0.0,15.2,8.6,16.5,0.0,0.0,0.0,10.4,124,96,-1.4
+2023-02-24,202302240CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202302240CHI.html,14:26,.597,.600,.000,.200,61.3,20.0,37.8,11.1,6.9,0.0,15.5,39.2,128,78,4.1
+2023-02-24,202302240CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202302240CHI.html,10:25,1.155,1.500,1.000,1.333,0.0,9.2,5.2,0.0,0.0,0.0,0.0,20.1,207,97,23.3
+2023-02-24,202302240CHI,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202302240CHI.html,5:52,.000,.000,1.000,.000,0.0,0.0,0.0,16.4,0.0,0.0,0.0,7.5,69,99,-4.5
+2023-02-24,202302240CHI,CHI,Terry Taylor,https://www.basketball-reference.com/boxscores/202302240CHI.html,4:12,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.9,200,98,9.1

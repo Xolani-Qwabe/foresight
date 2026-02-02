@@ -1,0 +1,79 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2019-12-14,201912140DAL,MIA,Q1,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.2,2,2,1.000,1,1,1.000,2,2,1.000,0,0,0,4,1,0,1,0,7,9.2,+18
+2019-12-14,201912140DAL,MIA,Q1,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912140DAL.html,8.68,2,3,.667,1,1,1.000,0,0,,0,1,1,2,0,0,0,0,5,5.4,+13
+2019-12-14,201912140DAL,MIA,Q1,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.92,1,2,.500,0,0,,0,0,,0,3,3,3,1,0,0,0,2,5.0,+14
+2019-12-14,201912140DAL,MIA,Q1,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912140DAL.html,11.95,2,3,.667,2,3,.667,0,0,,0,3,3,1,0,0,0,0,6,6.3,+17
+2019-12-14,201912140DAL,MIA,Q1,Meyers Leonard,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.2,4,6,.667,2,4,.500,0,0,,0,2,2,0,0,0,0,2,10,7.2,+18
+2019-12-14,201912140DAL,MIA,Q1,Tyler Herro,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.12,2,3,.667,1,1,1.000,2,2,1.000,0,1,1,0,0,0,0,0,7,6.0,-3
+2019-12-14,201912140DAL,MIA,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.12,0,2,.000,0,1,.000,0,0,,0,1,1,0,2,0,1,1,0,-0.5,-3
+2019-12-14,201912140DAL,MIA,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201912140DAL.html,1.8,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-4
+2019-12-14,201912140DAL,MIA,Q2,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.92,0,3,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,-0.7,+3
+2019-12-14,201912140DAL,MIA,Q2,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.72,1,3,.333,1,2,.500,0,0,,0,3,3,2,1,0,1,1,3,3.2,+11
+2019-12-14,201912140DAL,MIA,Q2,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.45,2,3,.667,0,0,,2,2,1.000,0,4,4,4,0,1,1,2,6,7.6,+11
+2019-12-14,201912140DAL,MIA,Q2,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.25,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2019-12-14,201912140DAL,MIA,Q2,Tyler Herro,https://www.basketball-reference.com/boxscores/201912140DAL.html,12.0,1,5,.200,1,2,.500,4,4,1.000,0,3,3,1,0,0,0,0,7,5.5,+9
+2019-12-14,201912140DAL,MIA,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.9,2,2,1.000,0,0,,1,1,1.000,0,0,0,0,1,1,1,0,5,5.1,+4
+2019-12-14,201912140DAL,MIA,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201912140DAL.html,11.73,4,4,1.000,3,3,1.000,4,4,1.000,0,5,5,0,0,0,0,1,15,14.9,+9
+2019-12-14,201912140DAL,MIA,Q3,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912140DAL.html,12.0,3,9,.333,0,3,.000,2,2,1.000,1,1,2,1,0,0,0,0,8,4.6,-13
+2019-12-14,201912140DAL,MIA,Q3,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.02,2,4,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,5,3.0,-13
+2019-12-14,201912140DAL,MIA,Q3,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.85,0,1,.000,0,0,,2,2,1.000,1,1,2,1,0,0,0,1,2,2.6,-10
+2019-12-14,201912140DAL,MIA,Q3,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.53,1,6,.167,1,6,.167,0,0,,0,1,1,0,0,0,0,1,3,-0.9,-14
+2019-12-14,201912140DAL,MIA,Q3,Meyers Leonard,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.55,0,1,.000,0,1,.000,0,0,,0,2,2,1,0,0,0,0,0,0.6,-14
+2019-12-14,201912140DAL,MIA,Q3,Tyler Herro,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.45,0,2,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,-0.7,+1
+2019-12-14,201912140DAL,MIA,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,4.98,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,0
+2019-12-14,201912140DAL,MIA,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.62,0,1,.000,0,1,.000,0,0,,1,1,2,0,0,0,0,0,0,0.3,-2
+2019-12-14,201912140DAL,MIA,Q4,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912140DAL.html,8.9,2,6,.333,0,1,.000,4,4,1.000,0,0,0,0,0,0,0,1,8,4.2,-5
+2019-12-14,201912140DAL,MIA,Q4,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912140DAL.html,9.25,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,2,3,0,-4.3,-6
+2019-12-14,201912140DAL,MIA,Q4,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.27,3,4,.750,0,0,,0,3,.000,0,0,0,1,0,0,0,0,6,3.9,-4
+2019-12-14,201912140DAL,MIA,Q4,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.58,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,-9
+2019-12-14,201912140DAL,MIA,Q4,Tyler Herro,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.4,0,2,.000,0,0,,2,2,1.000,0,0,0,1,0,0,0,0,2,1.3,-10
+2019-12-14,201912140DAL,MIA,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.77,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,0,3,2.3,-9
+2019-12-14,201912140DAL,MIA,Q4,Kelly Olynyk,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.82,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.7,-7
+2019-12-14,201912140DAL,MIA,OT1,Jimmy Butler,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,1,2,.500,0,1,.000,2,4,.500,0,2,2,0,0,0,1,1,4,1.4,+4
+2019-12-14,201912140DAL,MIA,OT1,Kendrick Nunn,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+4
+2019-12-14,201912140DAL,MIA,OT1,Bam Adebayo,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,1,2,.500,0,0,,0,0,,1,1,2,1,1,1,0,1,2,4.0,+4
+2019-12-14,201912140DAL,MIA,OT1,Duncan Robinson,https://www.basketball-reference.com/boxscores/201912140DAL.html,0.02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2019-12-14,201912140DAL,MIA,OT1,Tyler Herro,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,0,3,2.3,+4
+2019-12-14,201912140DAL,MIA,OT1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,4.97,0,0,,0,0,,1,2,.500,0,1,1,1,0,0,0,1,1,1.2,+2
+2019-12-14,201912140DAL,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,8.63,2,5,.400,1,4,.250,0,0,,0,1,1,0,0,0,1,0,5,1.6,-19
+2019-12-14,201912140DAL,DAL,Q1,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.85,3,7,.429,1,3,.333,1,1,1.000,3,2,5,1,0,0,1,0,8,6.7,-12
+2019-12-14,201912140DAL,DAL,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.05,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-14
+2019-12-14,201912140DAL,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/201912140DAL.html,8.03,1,1,1.000,0,0,,0,1,.000,0,0,0,0,0,0,0,0,2,1.3,-19
+2019-12-14,201912140DAL,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/201912140DAL.html,1.67,0,1,.000,0,1,.000,2,2,1.000,0,1,1,0,0,0,1,0,2,0.6,-4
+2019-12-14,201912140DAL,DAL,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/201912140DAL.html,1.8,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+4
+2019-12-14,201912140DAL,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.12,2,3,.667,0,1,.000,0,0,,0,0,0,1,0,1,0,0,4,4.1,+3
+2019-12-14,201912140DAL,DAL,Q1,Seth Curry,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.95,1,3,.333,0,1,.000,0,0,,0,0,0,1,0,0,1,1,2,-0.4,0
+2019-12-14,201912140DAL,DAL,Q1,Justin Jackson,https://www.basketball-reference.com/boxscores/201912140DAL.html,3.37,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+5
+2019-12-14,201912140DAL,DAL,Q1,Delon Wright,https://www.basketball-reference.com/boxscores/201912140DAL.html,8.53,0,1,.000,0,0,,0,0,,1,1,2,2,1,0,1,1,0,1.3,-14
+2019-12-14,201912140DAL,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,9.88,2,3,.667,1,2,.500,0,0,,0,1,1,2,0,0,1,0,5,4.4,-4
+2019-12-14,201912140DAL,DAL,Q2,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.28,2,3,.667,0,0,,1,2,.500,0,3,3,0,0,0,0,2,5,3.4,-5
+2019-12-14,201912140DAL,DAL,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201912140DAL.html,8.77,0,1,.000,0,1,.000,1,2,.500,0,1,1,2,1,0,0,1,1,2.2,-3
+2019-12-14,201912140DAL,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/201912140DAL.html,4.72,0,3,.000,0,1,.000,1,2,.500,0,0,0,0,1,0,0,0,1,-0.5,-4
+2019-12-14,201912140DAL,DAL,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/201912140DAL.html,9.25,2,4,.500,2,3,.667,1,2,.500,0,0,0,0,0,0,2,2,7,1.8,-6
+2019-12-14,201912140DAL,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/201912140DAL.html,2.97,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,-6
+2019-12-14,201912140DAL,DAL,Q2,Seth Curry,https://www.basketball-reference.com/boxscores/201912140DAL.html,2.37,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5
+2019-12-14,201912140DAL,DAL,Q2,J.J. Barea,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.28,2,6,.333,2,3,.667,0,0,,0,2,2,2,0,0,0,1,6,4.2,-5
+2019-12-14,201912140DAL,DAL,Q2,Justin Jackson,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.47,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,2,2,0.5,-7
+2019-12-14,201912140DAL,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,12.0,4,8,.500,2,4,.500,0,0,,0,2,2,1,0,0,1,0,10,6.3,+13
+2019-12-14,201912140DAL,DAL,Q3,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.53,1,7,.143,1,5,.200,2,2,1.000,0,3,3,0,0,1,0,1,5,1.7,+14
+2019-12-14,201912140DAL,DAL,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201912140DAL.html,7.93,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,1,2,2.3,+9
+2019-12-14,201912140DAL,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/201912140DAL.html,8.68,1,1,1.000,1,1,1.000,0,0,,2,1,3,2,0,0,0,0,3,5.8,+10
+2019-12-14,201912140DAL,DAL,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/201912140DAL.html,12.0,3,5,.600,0,1,.000,0,0,,0,2,2,5,0,0,0,1,6,7.4,+13
+2019-12-14,201912140DAL,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/201912140DAL.html,4.78,1,1,1.000,0,0,,1,1,1.000,0,1,1,0,0,0,0,1,3,2.6,+2
+2019-12-14,201912140DAL,DAL,Q3,Seth Curry,https://www.basketball-reference.com/boxscores/201912140DAL.html,4.07,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,+4
+2019-12-14,201912140DAL,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.28,3,5,.600,2,3,.667,0,0,,0,1,1,0,0,0,0,0,8,6.0,+7
+2019-12-14,201912140DAL,DAL,Q4,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.28,1,2,.500,1,1,1.000,0,0,,0,2,2,1,0,1,0,0,3,4.0,+7
+2019-12-14,201912140DAL,DAL,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201912140DAL.html,10.35,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,+3
+2019-12-14,201912140DAL,DAL,Q4,Dwight Powell,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.72,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,+3
+2019-12-14,201912140DAL,DAL,Q4,Jalen Brunson,https://www.basketball-reference.com/boxscores/201912140DAL.html,6.28,1,2,.500,0,0,,0,0,,0,2,2,2,0,0,1,1,2,1.6,+7
+2019-12-14,201912140DAL,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/201912140DAL.html,12.0,3,4,.750,2,2,1.000,0,0,,1,0,1,1,0,0,0,0,8,7.8,+10
+2019-12-14,201912140DAL,DAL,Q4,Seth Curry,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.72,1,3,.333,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,0.6,+3
+2019-12-14,201912140DAL,DAL,Q4,J.J. Barea,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.72,3,5,.600,0,2,.000,0,0,,0,0,0,3,0,0,0,2,6,5.0,+3
+2019-12-14,201912140DAL,DAL,Q4,Justin Jackson,https://www.basketball-reference.com/boxscores/201912140DAL.html,1.65,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+7
+2019-12-14,201912140DAL,DAL,OT1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4
+2019-12-14,201912140DAL,DAL,OT1,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,0,2,.000,0,0,,1,2,.500,0,1,1,0,1,0,0,1,1,0.1,-4
+2019-12-14,201912140DAL,DAL,OT1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201912140DAL.html,4.83,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-0.9,-1
+2019-12-14,201912140DAL,DAL,OT1,Dwight Powell,https://www.basketball-reference.com/boxscores/201912140DAL.html,0.05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2019-12-14,201912140DAL,DAL,OT1,Jalen Brunson,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,1,4,.250,1,2,.500,0,0,,0,2,2,1,0,0,1,1,3,0.5,-4
+2019-12-14,201912140DAL,DAL,OT1,Maxi Kleber,https://www.basketball-reference.com/boxscores/201912140DAL.html,5.0,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-4
+2019-12-14,201912140DAL,DAL,OT1,Seth Curry,https://www.basketball-reference.com/boxscores/201912140DAL.html,0.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3

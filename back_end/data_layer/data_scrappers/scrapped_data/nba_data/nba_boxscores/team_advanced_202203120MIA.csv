@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-12,202203120MIA,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202203120MIA.html,36:22,.638,.550,.800,.400,0.0,20.7,10.7,22.2,3.8,3.1,7.8,15.2,129,95,8.8
+2022-03-12,202203120MIA,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202203120MIA.html,33:45,.435,.269,.462,.538,0.0,16.7,8.6,41.6,1.4,0.0,23.7,27.0,88,104,-4.9
+2022-03-12,202203120MIA,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202203120MIA.html,30:52,.667,.667,1.000,.000,0.0,9.1,4.7,5.4,1.5,0.0,10.0,14.0,111,106,0.2
+2022-03-12,202203120MIA,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202203120MIA.html,25:17,.599,.500,.333,.889,4.0,33.5,19.2,0.0,0.0,0.0,19.3,26.5,98,101,-6.2
+2022-03-12,202203120MIA,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202203120MIA.html,23:54,.829,.813,.375,.125,8.4,15.8,12.2,0.0,0.0,9.3,19.2,18.9,127,102,2.6
+2022-03-12,202203120MIA,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202203120MIA.html,23:56,.564,.438,.250,.500,12.5,27.5,20.3,6.9,5.8,9.3,9.3,19.4,120,85,8.9
+2022-03-12,202203120MIA,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202203120MIA.html,22:53,.539,.500,.625,.625,0.0,8.2,4.2,7.3,2.0,0.0,8.9,21.1,99,105,-1.6
+2022-03-12,202203120MIA,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202203120MIA.html,21:35,.576,.538,.385,.154,0.0,0.0,0.0,10.3,0.0,0.0,0.0,27.8,113,113,1.4
+2022-03-12,202203120MIA,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202203120MIA.html,21:00,.460,.400,.200,.200,0.0,4.5,2.3,22.5,6.6,0.0,0.0,11.2,114,96,4.2
+2022-03-12,202203120MIA,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202203120MIA.html,0:25,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,-4.8
+2022-03-12,202203120MIA,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202203120MIA.html,37:24,.478,.417,.667,.500,5.0,13.4,9.1,30.1,0.0,0.0,17.0,19.4,102,113,-2.0
+2022-03-12,202203120MIA,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202203120MIA.html,33:28,.595,.583,.000,.750,5.6,29.9,17.4,23.0,4.2,0.0,20.0,24.5,104,101,5.9
+2022-03-12,202203120MIA,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202203120MIA.html,25:22,.125,.125,.625,.000,0.0,3.9,1.9,17.1,3.7,0.0,11.1,14.6,45,106,-9.5
+2022-03-12,202203120MIA,MIA,P.J. Tucker,https://www.basketball-reference.com/boxscores/202203120MIA.html,23:17,.429,.429,.143,.000,16.2,12.9,14.6,0.0,0.0,0.0,30.0,17.6,76,113,-11.2
+2022-03-12,202203120MIA,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202203120MIA.html,16:30,.250,.250,1.000,.000,0.0,0.0,0.0,36.3,0.0,0.0,0.0,14.9,87,116,-5.3
+2022-03-12,202203120MIA,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202203120MIA.html,36:30,.666,.579,.526,.421,0.0,19.2,9.3,10.7,2.5,0.0,4.3,26.4,132,106,12.6
+2022-03-12,202203120MIA,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202203120MIA.html,31:17,.738,.708,.917,.167,3.0,19.2,10.8,11.9,0.0,0.0,7.2,18.2,136,112,6.5
+2022-03-12,202203120MIA,MIA,Markieff Morris,https://www.basketball-reference.com/boxscores/202203120MIA.html,17:01,.429,.429,.286,.000,0.0,23.5,11.4,10.6,0.0,0.0,36.4,26.5,55,112,-15.2
+2022-03-12,202203120MIA,MIA,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202203120MIA.html,14:32,.250,.250,.250,.000,13.0,41.3,26.7,0.0,0.0,8.1,20.0,14.1,63,103,-10.2
+2022-03-12,202203120MIA,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202203120MIA.html,4:35,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,300,116,17.2

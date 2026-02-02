@@ -1,0 +1,79 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-04-09,202104090ORL,IND,Q1,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202104090ORL.html,10.4,1,5,.200,1,2,.500,3,4,.750,0,5,5,2,0,0,0,1,6,5.0,+4
+2021-04-09,202104090ORL,IND,Q1,Caris LeVert,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.8,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-2.5,+2
+2021-04-09,202104090ORL,IND,Q1,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202104090ORL.html,9.67,2,4,.500,0,2,.000,0,0,,0,1,1,2,0,0,0,0,4,3.7,+3
+2021-04-09,202104090ORL,IND,Q1,Justin Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,10.37,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,0,0,0.0,+1
+2021-04-09,202104090ORL,IND,Q1,Edmond Sumner,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.8,2,2,1.000,1,1,1.000,3,3,1.000,0,0,0,1,0,1,0,0,8,8.8,+2
+2021-04-09,202104090ORL,IND,Q1,T.J. McConnell,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.2,0,0,,0,0,,0,0,,0,0,0,4,0,1,1,0,0,2.5,+1
+2021-04-09,202104090ORL,IND,Q1,Aaron Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,2.33,2,2,1.000,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,6,5.4,0
+2021-04-09,202104090ORL,IND,Q1,Doug McDermott,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.2,4,4,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,9,7.7,+1
+2021-04-09,202104090ORL,IND,Q1,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202104090ORL.html,1.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2021-04-09,202104090ORL,IND,Q1,Goga Bitadze,https://www.basketball-reference.com/boxscores/202104090ORL.html,1.6,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,2,0,-0.9,-1
+2021-04-09,202104090ORL,IND,Q2,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.22,1,4,.250,0,0,,3,5,.600,2,5,7,3,0,2,0,0,5,8.2,+14
+2021-04-09,202104090ORL,IND,Q2,Caris LeVert,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.87,2,3,.667,0,0,,1,1,1.000,0,2,2,0,0,1,0,2,5,4.2,+16
+2021-04-09,202104090ORL,IND,Q2,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.12,0,1,.000,0,1,.000,0,0,,0,0,0,2,1,0,0,2,0,0.9,+6
+2021-04-09,202104090ORL,IND,Q2,Justin Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,2.22,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+3
+2021-04-09,202104090ORL,IND,Q2,Edmond Sumner,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.75,2,3,.667,0,0,,0,0,,0,0,0,0,1,0,0,1,4,3.3,+11
+2021-04-09,202104090ORL,IND,Q2,T.J. McConnell,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.12,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-6
+2021-04-09,202104090ORL,IND,Q2,Aaron Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,9.78,3,5,.600,2,3,.667,0,0,,0,1,1,2,1,1,2,0,8,7.1,+7
+2021-04-09,202104090ORL,IND,Q2,Doug McDermott,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.25,2,5,.400,0,0,,0,0,,3,0,3,0,1,0,0,0,4,4.4,-1
+2021-04-09,202104090ORL,IND,Q2,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.88,1,3,.333,0,0,,0,0,,0,2,2,0,0,1,1,1,2,0.2,+4
+2021-04-09,202104090ORL,IND,Q2,Goga Bitadze,https://www.basketball-reference.com/boxscores/202104090ORL.html,3.8,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-4
+2021-04-09,202104090ORL,IND,Q3,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.37,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,3,2,0,-3.2,-8
+2021-04-09,202104090ORL,IND,Q3,Caris LeVert,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.37,1,3,.333,0,1,.000,0,0,,0,3,3,1,1,0,1,1,2,1.5,-8
+2021-04-09,202104090ORL,IND,Q3,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202104090ORL.html,10.22,2,7,.286,0,1,.000,2,2,1.000,1,1,2,0,0,0,1,1,6,1.5,-9
+2021-04-09,202104090ORL,IND,Q3,Justin Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.38,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,1,0,1,0,-1.1,-5
+2021-04-09,202104090ORL,IND,Q3,Edmond Sumner,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-5
+2021-04-09,202104090ORL,IND,Q3,T.J. McConnell,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.62,2,3,.667,0,0,,0,0,,0,1,1,1,2,0,0,1,4,5.3,-3
+2021-04-09,202104090ORL,IND,Q3,Aaron Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,3.63,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,0
+2021-04-09,202104090ORL,IND,Q3,Doug McDermott,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.62,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-3
+2021-04-09,202104090ORL,IND,Q3,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202104090ORL.html,1.78,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2021-04-09,202104090ORL,IND,Q3,Goga Bitadze,https://www.basketball-reference.com/boxscores/202104090ORL.html,3.63,2,4,.500,1,1,1.000,0,0,,2,1,3,0,0,1,0,1,5,5.0,0
+2021-04-09,202104090ORL,IND,Q4,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.72,1,2,.500,0,0,,3,3,1.000,1,0,1,0,0,0,1,1,5,3.3,-4
+2021-04-09,202104090ORL,IND,Q4,Caris LeVert,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.72,1,3,.333,0,0,,2,2,1.000,1,1,2,1,0,0,0,1,4,3.6,-4
+2021-04-09,202104090ORL,IND,Q4,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202104090ORL.html,3.08,0,2,.000,0,1,.000,1,2,.500,0,1,1,0,0,0,0,0,1,-0.5,-5
+2021-04-09,202104090ORL,IND,Q4,Justin Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.45,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-5
+2021-04-09,202104090ORL,IND,Q4,T.J. McConnell,https://www.basketball-reference.com/boxscores/202104090ORL.html,12.0,1,3,.333,0,2,.000,2,2,1.000,0,1,1,4,0,0,0,0,4,5.4,0
+2021-04-09,202104090ORL,IND,Q4,Aaron Holiday,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.55,2,6,.333,2,5,.400,0,0,,0,1,1,0,0,0,2,1,6,0.5,+5
+2021-04-09,202104090ORL,IND,Q4,Doug McDermott,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.28,1,1,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,0,4,4.3,+4
+2021-04-09,202104090ORL,IND,Q4,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.92,1,2,.500,0,1,.000,2,2,1.000,0,1,1,0,1,0,0,1,4,3.9,+5
+2021-04-09,202104090ORL,IND,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.28,0,2,.000,0,1,.000,0,0,,1,0,1,0,0,1,0,0,0,0.0,+4
+2021-04-09,202104090ORL,ORL,Q1,James Ennis III,https://www.basketball-reference.com/boxscores/202104090ORL.html,9.67,2,4,.500,0,1,.000,0,0,,1,2,3,0,0,0,0,2,4,2.5,-3
+2021-04-09,202104090ORL,ORL,Q1,Chuma Okeke,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.87,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.7,+2
+2021-04-09,202104090ORL,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.97,2,4,.500,0,0,,0,0,,1,3,4,0,0,0,1,1,4,2.2,-1
+2021-04-09,202104090ORL,ORL,Q1,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.8,1,3,.333,1,1,1.000,2,2,1.000,0,1,1,1,0,0,0,1,5,3.9,-2
+2021-04-09,202104090ORL,ORL,Q1,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.8,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,-2
+2021-04-09,202104090ORL,ORL,Q1,Terrence Ross,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.2,2,3,.667,0,1,.000,0,0,,0,1,1,1,0,0,0,0,4,3.7,-1
+2021-04-09,202104090ORL,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.2,2,4,.500,0,1,.000,0,0,,2,1,3,1,0,0,1,1,4,3.0,-1
+2021-04-09,202104090ORL,ORL,Q1,Mo Bamba,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.03,2,3,.667,1,1,1.000,2,4,.500,1,1,2,1,0,0,0,0,7,6.6,-2
+2021-04-09,202104090ORL,ORL,Q1,R.J. Hampton,https://www.basketball-reference.com/boxscores/202104090ORL.html,1.57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2021-04-09,202104090ORL,ORL,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.9,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.7,-3
+2021-04-09,202104090ORL,ORL,Q2,James Ennis III,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.78,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,3,4.4,-6
+2021-04-09,202104090ORL,ORL,Q2,Chuma Okeke,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.22,0,1,.000,0,1,.000,2,2,1.000,0,3,3,2,0,0,1,0,2,2.6,-4
+2021-04-09,202104090ORL,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.72,0,4,.000,0,1,.000,0,0,,1,2,3,0,1,1,1,1,0,-1.2,-10
+2021-04-09,202104090ORL,ORL,Q2,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.33,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,2,0,0,-3.4,-3
+2021-04-09,202104090ORL,ORL,Q2,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202104090ORL.html,1.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2021-04-09,202104090ORL,ORL,Q2,Terrence Ross,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.78,4,5,.800,2,3,.667,0,0,,0,2,2,0,0,0,1,2,10,6.9,-8
+2021-04-09,202104090ORL,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.67,0,2,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.0,-7
+2021-04-09,202104090ORL,ORL,Q2,Mo Bamba,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.28,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,0,3,0,0,2,3.4,0
+2021-04-09,202104090ORL,ORL,Q2,R.J. Hampton,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.7,2,2,1.000,0,0,,0,2,.000,0,1,1,0,0,1,0,0,4,3.6,-7
+2021-04-09,202104090ORL,ORL,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.12,0,4,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-3.2,-6
+2021-04-09,202104090ORL,ORL,Q3,James Ennis III,https://www.basketball-reference.com/boxscores/202104090ORL.html,9.73,0,1,.000,0,0,,2,3,.667,0,1,1,0,0,0,0,0,2,1.2,+5
+2021-04-09,202104090ORL,ORL,Q3,Chuma Okeke,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.23,3,3,1.000,0,0,,0,0,,1,1,2,1,0,1,0,0,6,7.5,-1
+2021-04-09,202104090ORL,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.05,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+6
+2021-04-09,202104090ORL,ORL,Q3,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.32,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.9,+8
+2021-04-09,202104090ORL,ORL,Q3,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.02,2,7,.286,0,2,.000,1,2,.500,2,1,3,0,0,0,0,0,5,2.2,+6
+2021-04-09,202104090ORL,ORL,Q3,Terrence Ross,https://www.basketball-reference.com/boxscores/202104090ORL.html,3.82,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4
+2021-04-09,202104090ORL,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.68,1,4,.250,0,0,,2,2,1.000,1,1,2,1,0,1,0,1,4,3.6,0
+2021-04-09,202104090ORL,ORL,Q3,Mo Bamba,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.95,0,1,.000,0,0,,0,0,,0,3,3,1,0,0,2,1,0,-1.5,+2
+2021-04-09,202104090ORL,ORL,Q3,R.J. Hampton,https://www.basketball-reference.com/boxscores/202104090ORL.html,1.4,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-1
+2021-04-09,202104090ORL,ORL,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.8,2,4,.500,0,0,,4,4,1.000,1,2,3,0,0,0,1,0,8,6.3,+11
+2021-04-09,202104090ORL,ORL,Q4,James Ennis III,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.85,0,0,,0,0,,5,5,1.000,0,1,1,3,0,0,0,1,5,7.0,+5
+2021-04-09,202104090ORL,ORL,Q4,Chuma Okeke,https://www.basketball-reference.com/boxscores/202104090ORL.html,8.22,0,0,,0,0,,0,0,,0,1,1,2,0,0,0,1,0,1.3,-1
+2021-04-09,202104090ORL,ORL,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202104090ORL.html,5.07,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,4,3.3,+4
+2021-04-09,202104090ORL,ORL,Q4,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/202104090ORL.html,4.02,1,1,1.000,0,0,,0,0,,0,0,0,2,0,0,0,1,2,2.7,+7
+2021-04-09,202104090ORL,ORL,Q4,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202104090ORL.html,1.98,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+6
+2021-04-09,202104090ORL,ORL,Q4,Terrence Ross,https://www.basketball-reference.com/boxscores/202104090ORL.html,10.02,4,7,.571,0,1,.000,2,3,.667,0,1,1,0,0,1,1,1,10,5.9,-6
+2021-04-09,202104090ORL,ORL,Q4,Cole Anthony,https://www.basketball-reference.com/boxscores/202104090ORL.html,7.98,0,2,.000,0,0,,0,0,,1,3,4,1,0,0,0,2,0,0.1,-7
+2021-04-09,202104090ORL,ORL,Q4,Mo Bamba,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.93,2,5,.400,1,3,.333,0,0,,0,1,1,0,0,0,0,1,5,2.2,-4
+2021-04-09,202104090ORL,ORL,Q4,R.J. Hampton,https://www.basketball-reference.com/boxscores/202104090ORL.html,6.93,1,2,.500,0,1,.000,0,0,,0,1,1,0,1,0,2,1,2,-0.1,-4

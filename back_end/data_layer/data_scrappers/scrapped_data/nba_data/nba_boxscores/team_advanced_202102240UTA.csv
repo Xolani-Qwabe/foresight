@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-24,202102240UTA,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202102240UTA.html,30:15,.333,.333,.417,.000,0.0,16.9,8.1,27.1,0.0,0.0,20.0,22.1,69,126,-8.8
+2021-02-24,202102240UTA,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202102240UTA.html,27:49,.625,.577,.385,.385,0.0,14.7,7.0,31.5,1.9,0.0,20.8,30.7,105,123,5.8
+2021-02-24,202102240UTA,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202102240UTA.html,27:32,.510,.500,.100,.400,17.1,14.8,16.0,6.9,0.0,0.0,7.8,20.6,111,127,-1.0
+2021-02-24,202102240UTA,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202102240UTA.html,24:26,.370,.200,.800,.800,3.9,8.4,6.0,6.1,0.0,0.0,12.9,14.1,82,130,-9.7
+2021-02-24,202102240UTA,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202102240UTA.html,18:37,.571,.571,.714,.000,0.0,11.0,5.3,19.6,2.8,6.6,12.5,19.1,107,119,7.6
+2021-02-24,202102240UTA,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202102240UTA.html,25:05,.357,.357,.429,.000,3.8,24.4,13.7,6.3,4.1,4.9,22.2,16.0,66,111,-2.2
+2021-02-24,202102240UTA,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202102240UTA.html,22:24,.601,.583,.000,.250,8.4,18.2,13.1,0.0,0.0,5.5,0.0,26.5,125,123,7.9
+2021-02-24,202102240UTA,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202102240UTA.html,16:37,.375,.375,1.000,.000,0.0,0.0,0.0,18.6,3.1,0.0,0.0,10.7,99,125,-1.0
+2021-02-24,202102240UTA,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202102240UTA.html,16:21,.169,.125,.375,.250,5.8,0.0,3.0,0.0,0.0,7.5,0.0,24.2,46,129,-16.3
+2021-02-24,202102240UTA,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202102240UTA.html,13:41,.750,.750,1.000,.000,13.8,14.9,14.3,11.5,0.0,0.0,33.3,9.8,119,127,-0.7
+2021-02-24,202102240UTA,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202102240UTA.html,6:59,.333,.333,.333,.000,0.0,29.2,14.0,0.0,0.0,0.0,0.0,19.1,71,121,-10.9
+2021-02-24,202102240UTA,LAL,Kostas Antetokounmpo,https://www.basketball-reference.com/boxscores/202102240UTA.html,5:07,.568,,,,0.0,20.0,9.6,0.0,0.0,0.0,53.2,16.4,53,125,-12.6
+2021-02-24,202102240UTA,LAL,Devontae Cacok,https://www.basketball-reference.com/boxscores/202102240UTA.html,5:07,1.000,1.000,.000,.000,0.0,20.0,9.6,0.0,0.0,0.0,0.0,17.4,200,125,14.9
+2021-02-24,202102240UTA,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202102240UTA.html,30:50,.750,.750,1.000,.000,6.6,6.1,6.4,12.3,1.7,0.0,0.0,5.9,184,99,5.9
+2021-02-24,202102240UTA,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202102240UTA.html,30:38,.366,.313,.438,.250,6.7,24.6,16.0,36.1,3.4,0.0,5.3,27.8,110,89,3.3
+2021-02-24,202102240UTA,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202102240UTA.html,26:54,.700,.700,.600,.000,11.4,17.5,14.6,44.5,3.9,0.0,23.1,22.0,137,90,13.7
+2021-02-24,202102240UTA,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202102240UTA.html,26:54,.676,.667,.000,.250,3.8,28.0,16.4,0.0,0.0,3.4,18.4,27.6,105,93,-0.1
+2021-02-24,202102240UTA,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202102240UTA.html,26:25,.750,.750,.800,.000,0.0,7.1,3.7,11.4,3.9,0.0,0.0,17.2,155,95,14.5
+2021-02-24,202102240UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202102240UTA.html,23:30,.648,.615,.769,.154,0.0,16.0,8.3,14.2,0.0,0.0,0.0,26.8,140,98,6.3
+2021-02-24,202102240UTA,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202102240UTA.html,22:27,.500,.500,1.000,.000,4.5,8.4,6.5,11.0,0.0,0.0,50.0,12.1,73,102,-10.3
+2021-02-24,202102240UTA,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202102240UTA.html,17:22,.375,.375,.750,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.9,83,106,-8.9
+2021-02-24,202102240UTA,UTA,Derrick Favors,https://www.basketball-reference.com/boxscores/202102240UTA.html,16:54,.888,1.000,.000,.800,18.1,22.3,20.3,0.0,0.0,0.0,12.9,20.9,152,96,6.6
+2021-02-24,202102240UTA,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202102240UTA.html,5:07,1.000,1.000,1.000,.000,0.0,36.8,19.1,0.0,0.0,0.0,0.0,26.7,174,91,26.9
+2021-02-24,202102240UTA,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202102240UTA.html,4:35,.000,.000,.000,.000,0.0,0.0,0.0,76.6,0.0,0.0,50.0,19.8,84,106,-3.0
+2021-02-24,202102240UTA,UTA,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202102240UTA.html,4:12,.500,.500,.500,.000,24.3,44.8,35.0,0.0,0.0,0.0,0.0,21.6,126,89,2.4
+2021-02-24,202102240UTA,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/202102240UTA.html,4:12,.568,,,,24.3,0.0,11.7,0.0,0.0,0.0,0.0,9.5,156,106,0.4

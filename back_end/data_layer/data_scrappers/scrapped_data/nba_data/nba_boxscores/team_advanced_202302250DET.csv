@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-25,202302250DET,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202302250DET.html,38:31,.381,.286,.286,.286,2.3,4.7,3.5,8.2,1.3,1.8,11.3,10.0,83,101,-6.8
+2023-02-25,202302250DET,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202302250DET.html,37:28,.336,.324,.294,.118,4.7,12.1,8.3,19.3,0.0,0.0,10.1,23.0,73,101,-9.1
+2023-02-25,202302250DET,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202302250DET.html,36:18,.465,.450,.600,.050,0.0,2.5,1.2,22.3,2.8,0.0,8.9,26.7,88,100,1.3
+2023-02-25,202302250DET,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202302250DET.html,35:14,.587,.500,.105,.684,0.0,20.6,10.1,32.8,4.3,3.9,0.0,30.4,126,85,19.7
+2023-02-25,202302250DET,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202302250DET.html,26:54,.423,.375,.000,.750,19.5,26.9,23.1,25.8,3.7,2.5,0.0,17.1,118,84,8.4
+2023-02-25,202302250DET,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202302250DET.html,21:33,.451,.375,.000,.875,4.0,21.0,12.4,25.4,0.0,0.0,8.3,24.2,96,96,-1.6
+2023-02-25,202302250DET,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202302250DET.html,20:22,.615,.625,.750,.500,0.0,26.7,13.1,0.0,0.0,3.4,17.0,12.5,93,91,-5.3
+2023-02-25,202302250DET,TOR,Jeff Dowtin Jr.,https://www.basketball-reference.com/boxscores/202302250DET.html,19:55,.368,.400,.400,.200,0.0,4.5,2.2,0.0,2.5,0.0,0.0,11.8,72,99,-7.7
+2023-02-25,202302250DET,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202302250DET.html,3:45,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,11.5,0,106,-27.7
+2023-02-25,202302250DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202302250DET.html,32:02,.250,.250,.667,.000,0.0,2.7,1.4,24.6,1.6,2.4,33.3,11.9,62,101,-7.4
+2023-02-25,202302250DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202302250DET.html,31:59,.282,.188,.313,.250,2.8,2.7,2.8,44.8,0.0,2.4,14.5,27.5,79,103,-5.9
+2023-02-25,202302250DET,DET,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202302250DET.html,28:40,.442,.417,.250,.083,3.2,24.4,14.0,5.7,0.0,0.0,24.3,24.3,72,99,-10.2
+2023-02-25,202302250DET,DET,James Wiseman,https://www.basketball-reference.com/boxscores/202302250DET.html,20:25,.556,.556,.111,.000,0.0,42.7,21.8,0.0,0.0,0.0,18.2,22.9,85,92,-6.4
+2023-02-25,202302250DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202302250DET.html,18:59,.500,.500,.400,.000,9.5,32.2,21.1,7.7,0.0,4.1,0.0,11.2,124,93,3.2
+2023-02-25,202302250DET,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202302250DET.html,29:01,.917,.917,.667,.000,0.0,6.0,3.1,5.3,0.0,2.7,0.0,8.8,179,103,7.5
+2023-02-25,202302250DET,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202302250DET.html,27:35,.466,.474,.105,.421,36.1,22.1,29.0,0.0,0.0,2.8,4.3,36.2,107,98,4.2
+2023-02-25,202302250DET,DET,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202302250DET.html,19:20,.409,.385,.000,.077,9.4,13.5,11.5,0.0,2.6,0.0,0.0,29.5,95,97,-0.8
+2023-02-25,202302250DET,DET,Alec Burks,https://www.basketball-reference.com/boxscores/202302250DET.html,17:17,.200,.200,.400,.000,0.0,20.2,10.3,31.5,0.0,0.0,0.0,12.3,81,100,-5.1
+2023-02-25,202302250DET,DET,Cory Joseph,https://www.basketball-reference.com/boxscores/202302250DET.html,10:01,1.167,1.167,.333,.000,0.0,17.4,8.9,60.9,5.0,0.0,0.0,12.7,229,90,26.7
+2023-02-25,202302250DET,DET,R.J. Hampton,https://www.basketball-reference.com/boxscores/202302250DET.html,4:41,,,,,0.0,0.0,0.0,0.0,10.7,0.0,,0.0,0,85,5.2

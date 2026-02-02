@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-21,202403210DAL,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202403210DAL.html,35:47,.446,.325,.450,.400,0.0,9.1,5.0,9.0,2.7,0.0,0.0,28.8,95,112,-0.2
+2024-03-21,202403210DAL,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202403210DAL.html,33:04,.495,.406,.375,.313,0.0,6.6,3.6,24.8,1.4,0.0,24.8,32.1,80,116,-5.7
+2024-03-21,202403210DAL,UTA,Taylor Hendricks,https://www.basketball-reference.com/boxscores/202403210DAL.html,28:24,.625,.625,.750,.000,0.0,7.7,4.2,0.0,1.7,0.0,20.0,7.7,86,114,-5.8
+2024-03-21,202403210DAL,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202403210DAL.html,27:29,1.000,1.000,.000,.000,4.7,31.8,19.4,13.6,0.0,0.0,22.2,14.4,140,112,6.1
+2024-03-21,202403210DAL,UTA,Kris Dunn,https://www.basketball-reference.com/boxscores/202403210DAL.html,19:37,.667,.667,.333,.000,0.0,22.2,12.1,37.0,2.4,4.5,57.1,15.7,73,105,-3.9
+2024-03-21,202403210DAL,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202403210DAL.html,33:48,.672,.643,.214,.143,3.8,9.7,7.0,28.2,0.0,0.0,16.8,23.2,113,118,1.0
+2024-03-21,202403210DAL,UTA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202403210DAL.html,20:31,.635,.643,.286,.286,12.6,16.0,14.4,16.3,0.0,0.0,0.0,16.9,133,116,5.4
+2024-03-21,202403210DAL,UTA,Brice Sensabaugh,https://www.basketball-reference.com/boxscores/202403210DAL.html,19:31,.190,.143,.571,.286,6.6,39.1,24.3,34.6,2.4,9.1,20.2,22.2,59,99,0.5
+2024-03-21,202403210DAL,UTA,Johnny Juzang,https://www.basketball-reference.com/boxscores/202403210DAL.html,7:31,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.8,0,117,-18.9
+2024-03-21,202403210DAL,UTA,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202403210DAL.html,7:25,.000,.000,.000,.000,0.0,0.0,0.0,51.1,0.0,0.0,0.0,11.8,62,119,-7.8
+2024-03-21,202403210DAL,UTA,Micah Potter,https://www.basketball-reference.com/boxscores/202403210DAL.html,6:53,.500,.500,.500,.000,0.0,15.8,8.6,0.0,0.0,0.0,0.0,12.8,93,117,-3.9
+2024-03-21,202403210DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202403210DAL.html,34:40,.601,.565,.435,.522,3.1,29.9,15.4,39.9,5.5,0.0,12.4,40.2,115,90,14.6
+2024-03-21,202403210DAL,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202403210DAL.html,34:37,.421,.421,.421,.000,3.2,15.0,8.6,29.2,2.8,0.0,5.0,24.9,101,97,0.0
+2024-03-21,202403210DAL,DAL,P.J. Washington,https://www.basketball-reference.com/boxscores/202403210DAL.html,33:20,.333,.333,.444,.000,3.3,15.6,8.9,3.7,2.9,5.4,10.0,12.9,73,92,-6.3
+2024-03-21,202403210DAL,DAL,Daniel Gafford,https://www.basketball-reference.com/boxscores/202403210DAL.html,27:16,.880,.909,.000,.545,12.0,19.0,15.2,34.7,1.8,0.0,6.8,23.2,169,99,18.3
+2024-03-21,202403210DAL,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202403210DAL.html,24:27,.904,1.000,.000,1.500,0.0,21.2,9.7,11.2,0.0,3.7,0.0,11.7,187,99,7.3
+2024-03-21,202403210DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202403210DAL.html,17:47,.902,1.000,1.000,.667,6.1,7.3,6.7,14.4,8.1,0.0,20.5,11.8,139,87,11.6
+2024-03-21,202403210DAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202403210DAL.html,17:10,.600,.600,.800,.000,6.4,7.6,6.9,37.4,0.0,0.0,16.7,15.1,128,104,1.7
+2024-03-21,202403210DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202403210DAL.html,16:53,.000,.000,.750,.000,0.0,7.7,3.5,0.0,0.0,0.0,20.0,12.8,0,104,-20.0
+2024-03-21,202403210DAL,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202403210DAL.html,15:29,.510,.600,.000,.400,21.1,16.8,19.1,9.2,0.0,0.0,14.5,19.2,105,103,-4.3
+2024-03-21,202403210DAL,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202403210DAL.html,15:09,.000,.000,.000,.000,0.0,17.1,7.8,14.7,0.0,0.0,66.7,8.5,36,103,-15.4
+2024-03-21,202403210DAL,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202403210DAL.html,1:04,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.8,111,105,-6.8
+2024-03-21,202403210DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202403210DAL.html,1:04,,,,,0.0,100.0,55.6,0.0,0.0,0.0,,0.0,0,90,-1.0
+2024-03-21,202403210DAL,DAL,Olivier-Maxence Prosper,https://www.basketball-reference.com/boxscores/202403210DAL.html,1:04,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,105,-7.1

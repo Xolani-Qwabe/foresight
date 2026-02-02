@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-12,202111120SAS,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202111120SAS.html,36:26,.603,.609,.565,.348,0.0,38.6,17.8,62.7,2.6,0.0,7.0,33.1,131,107,18.6
+2021-11-12,202111120SAS,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202111120SAS.html,34:22,.649,.614,.409,.273,5.8,17.0,11.0,0.0,0.0,7.8,3.9,31.6,125,107,4.8
+2021-11-12,202111120SAS,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202111120SAS.html,34:20,.750,.750,.500,.000,5.8,17.0,11.0,11.2,4.1,0.0,0.0,12.3,159,105,8.2
+2021-11-12,202111120SAS,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202111120SAS.html,31:05,.210,.182,.455,.182,0.0,22.6,10.4,7.2,0.0,0.0,0.0,16.2,57,114,-15.5
+2021-11-12,202111120SAS,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202111120SAS.html,15:33,1.000,1.000,.000,.000,19.3,7.5,13.9,16.8,0.0,11.4,0.0,8.2,216,103,8.2
+2021-11-12,202111120SAS,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202111120SAS.html,27:22,.594,.538,.385,.231,0.0,0.0,0.0,14.8,0.0,0.0,0.0,22.2,129,116,-1.8
+2021-11-12,202111120SAS,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202111120SAS.html,20:56,.389,.389,.444,.000,4.8,16.8,10.3,0.0,4.5,0.0,0.0,18.2,86,104,-6.2
+2021-11-12,202111120SAS,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202111120SAS.html,16:36,.600,.600,.400,.000,0.0,7.1,3.2,21.6,0.0,0.0,28.6,17.9,97,115,-7.2
+2021-11-12,202111120SAS,DAL,Sterling Brown,https://www.basketball-reference.com/boxscores/202111120SAS.html,13:40,.375,.375,.500,.000,14.6,25.7,19.7,8.3,6.9,6.5,0.0,12.4,115,92,6.2
+2021-11-12,202111120SAS,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202111120SAS.html,9:40,,,,,0.0,24.2,11.2,10.8,0.0,9.2,,0.0,239,104,0.1
+2021-11-12,202111120SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202111120SAS.html,31:16,.504,.500,.143,.143,0.0,16.0,8.6,20.3,0.0,0.0,16.8,25.9,87,125,-8.1
+2021-11-12,202111120SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202111120SAS.html,29:20,.504,.464,.429,.143,0.0,30.7,16.5,10.0,0.0,0.0,6.3,24.6,93,121,-2.3
+2021-11-12,202111120SAS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202111120SAS.html,24:11,1.000,1.000,.714,.000,0.0,8.3,4.5,19.2,0.0,0.0,12.5,15.0,153,127,9.4
+2021-11-12,202111120SAS,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202111120SAS.html,23:55,.721,.714,.000,.429,9.8,25.1,18.0,19.4,0.0,0.0,0.0,15.8,156,121,3.2
+2021-11-12,202111120SAS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202111120SAS.html,22:08,.500,.500,.400,.000,0.0,0.0,0.0,29.6,0.0,3.9,28.6,14.3,94,125,-4.9
+2021-11-12,202111120SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202111120SAS.html,29:45,.733,.682,.545,.545,0.0,6.7,3.6,5.2,0.0,5.9,6.8,22.3,128,122,5.2
+2021-11-12,202111120SAS,SAS,Thaddeus Young,https://www.basketball-reference.com/boxscores/202111120SAS.html,24:05,.541,.571,.000,.429,4.9,4.2,4.5,30.2,2.0,0.0,10.7,17.6,116,123,0.3
+2021-11-12,202111120SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202111120SAS.html,23:59,.392,.318,.545,.364,0.0,29.2,15.7,11.4,2.0,0.0,0.0,24.1,85,117,-4.6
+2021-11-12,202111120SAS,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202111120SAS.html,17:02,.625,.625,.500,.000,0.0,23.5,12.7,15.9,2.8,0.0,50.0,21.3,64,116,-6.5
+2021-11-12,202111120SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202111120SAS.html,14:19,.500,.500,.250,.000,0.0,14.0,7.5,29.3,0.0,0.0,0.0,12.7,121,125,-2.9

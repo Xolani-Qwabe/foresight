@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-22,202501220MEM,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202501220MEM.html,34:13,.486,.400,.300,.300,11.1,20.0,15.4,27.0,0.0,0.0,8.1,29.8,114,136,-5.1
+2025-01-22,202501220MEM,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202501220MEM.html,34:02,.511,.429,.571,.429,0.0,20.1,9.7,24.9,1.4,0.0,19.4,25.1,100,132,-4.7
+2025-01-22,202501220MEM,CHO,Mark Williams,https://www.basketball-reference.com/boxscores/202501220MEM.html,32:39,.801,.778,.000,.722,15.5,21.0,18.1,36.0,1.5,0.0,4.0,31.3,165,132,17.6
+2025-01-22,202501220MEM,CHO,Nick Smith Jr.,https://www.basketball-reference.com/boxscores/202501220MEM.html,30:56,.450,.450,.500,.000,4.1,0.0,2.1,22.3,1.5,0.0,16.7,16.0,100,138,-5.6
+2025-01-22,202501220MEM,CHO,Josh Green,https://www.basketball-reference.com/boxscores/202501220MEM.html,24:18,.800,.800,.600,.000,0.0,0.0,0.0,5.6,3.9,0.0,16.7,10.2,127,132,-0.5
+2025-01-22,202501220MEM,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202501220MEM.html,23:24,.370,.200,.200,.800,5.4,17.6,11.2,5.3,0.0,4.0,22.8,15.5,76,134,-12.6
+2025-01-22,202501220MEM,CHO,Vasilije Micić,https://www.basketball-reference.com/boxscores/202501220MEM.html,18:05,.000,.000,.667,.000,0.0,15.2,7.3,12.9,2.6,0.0,0.0,6.9,46,131,-10.7
+2025-01-22,202501220MEM,CHO,Moussa Diabaté,https://www.basketball-reference.com/boxscores/202501220MEM.html,15:21,.615,.500,.000,.500,16.5,0.0,8.6,0.0,0.0,12.3,29.1,9.3,112,136,-7.5
+2025-01-22,202501220MEM,CHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202501220MEM.html,13:18,1.000,1.000,.667,.000,0.0,0.0,0.0,0.0,10.8,7.1,0.0,9.3,187,112,18.5
+2025-01-22,202501220MEM,CHO,Isaiah Wong,https://www.basketball-reference.com/boxscores/202501220MEM.html,6:27,.615,.500,.500,.500,0.0,21.3,10.2,28.5,0.0,0.0,17.0,37.7,112,135,-3.9
+2025-01-22,202501220MEM,CHO,Seth Curry,https://www.basketball-reference.com/boxscores/202501220MEM.html,6:19,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,26.2,61,142,4.6
+2025-01-22,202501220MEM,CHO,DaQuan Jeffries,https://www.basketball-reference.com/boxscores/202501220MEM.html,0:58,,,,,0.0,100.0,68.0,0.0,0.0,0.0,,0.0,0,97,-1.1
+2025-01-22,202501220MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202501220MEM.html,33:44,.800,.800,.467,.000,0.0,7.5,3.9,32.7,0.0,2.6,0.0,17.8,180,125,11.9
+2025-01-22,202501220MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202501220MEM.html,31:56,.743,.667,.556,.444,0.0,15.8,8.2,47.1,4.5,2.7,31.7,19.7,134,113,9.4
+2025-01-22,202501220MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202501220MEM.html,30:10,.569,.528,.278,.167,9.1,16.7,13.1,4.6,0.0,2.9,0.0,25.6,134,123,-3.3
+2025-01-22,202501220MEM,MEM,Jaylen Wells,https://www.basketball-reference.com/boxscores/202501220MEM.html,26:04,.597,.550,.700,.200,15.8,0.0,7.6,8.8,0.0,0.0,8.4,18.2,137,129,-4.0
+2025-01-22,202501220MEM,MEM,Zach Edey,https://www.basketball-reference.com/boxscores/202501220MEM.html,18:56,.444,.429,.143,.286,14.5,26.7,20.8,6.1,0.0,4.6,20.2,20.8,91,119,-12.8
+2025-01-22,202501220MEM,MEM,Luke Kennard,https://www.basketball-reference.com/boxscores/202501220MEM.html,26:17,.958,.958,.917,.000,15.7,4.8,10.0,15.9,3.6,0.0,7.7,19.8,176,120,20.9
+2025-01-22,202501220MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202501220MEM.html,21:31,.712,.600,.000,.600,6.4,11.7,9.2,15.8,2.2,4.1,13.7,13.6,150,118,1.6
+2025-01-22,202501220MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202501220MEM.html,18:35,.143,.143,.429,.000,7.4,27.2,17.7,5.6,2.6,4.7,22.2,19.3,45,113,-16.5
+2025-01-22,202501220MEM,MEM,Scotty Pippen Jr.,https://www.basketball-reference.com/boxscores/202501220MEM.html,15:44,.000,.000,.200,.000,8.7,16.1,12.5,24.9,6.1,0.0,16.7,15.2,65,111,-12.5
+2025-01-22,202501220MEM,MEM,GG Jackson II,https://www.basketball-reference.com/boxscores/202501220MEM.html,10:15,.750,.750,.500,.000,0.0,24.6,12.8,0.0,0.0,0.0,60.0,19.5,46,123,-14.1
+2025-01-22,202501220MEM,MEM,Jay Huff,https://www.basketball-reference.com/boxscores/202501220MEM.html,6:48,.813,.813,.750,.000,0.0,37.2,19.3,0.0,0.0,0.0,0.0,47.0,159,119,27.2

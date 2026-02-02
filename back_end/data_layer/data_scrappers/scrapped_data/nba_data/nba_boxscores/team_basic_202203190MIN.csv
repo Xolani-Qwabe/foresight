@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-03-19,202203190MIN,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202203190MIN.html,25.83,6,13,.462,3,7,.429,0,0,1,6,7,5,1,0,3,2,15,11.5,-9,
+2022-03-19,202203190MIN,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202203190MIN.html,25.57,2,10,.200,0,4,.000,0,0,3,7,10,0,0,1,1,1,4,1.3,-7,
+2022-03-19,202203190MIN,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202203190MIN.html,23.58,5,13,.385,1,4,.250,3,4,0,2,2,7,2,0,4,1,14,9.6,-18,.750
+2022-03-19,202203190MIN,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202203190MIN.html,21.48,4,7,.571,3,6,.500,2,2,0,5,5,2,0,0,3,1,13,9.2,-9,1.000
+2022-03-19,202203190MIN,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202203190MIN.html,20.45,6,10,.600,0,2,.000,3,3,3,1,4,1,0,2,0,3,15,13.7,-18,1.000
+2022-03-19,202203190MIN,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202203190MIN.html,27.73,4,6,.667,1,3,.333,2,2,0,5,5,7,0,0,2,1,11,12.4,-2,1.000
+2022-03-19,202203190MIN,MIL,Serge Ibaka,https://www.basketball-reference.com/boxscores/202203190MIN.html,21.03,1,11,.091,1,6,.167,2,2,2,3,5,0,0,0,0,3,5,-1.2,-10,1.000
+2022-03-19,202203190MIN,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202203190MIN.html,20.88,3,7,.429,2,4,.500,0,0,1,3,4,2,0,1,1,2,8,6.2,0,
+2022-03-19,202203190MIN,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202203190MIN.html,20.32,5,11,.455,5,11,.455,0,0,1,2,3,2,1,0,0,2,15,12.2,-6,
+2022-03-19,202203190MIN,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202203190MIN.html,16.68,3,5,.600,3,5,.600,0,0,1,1,2,1,1,0,0,1,9,9.0,-14,
+2022-03-19,202203190MIN,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202203190MIN.html,12.0,4,4,1.000,0,0,,2,4,2,2,4,0,0,0,0,0,10,10.0,+5,.500
+2022-03-19,202203190MIN,MIL,George Hill,https://www.basketball-reference.com/boxscores/202203190MIN.html,4.43,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,-7,
+2022-03-19,202203190MIN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202203190MIN.html,33.05,9,16,.563,5,10,.500,2,2,0,5,5,4,3,0,1,1,25,23.3,+17,1.000
+2022-03-19,202203190MIN,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202203190MIN.html,32.13,3,4,.750,0,1,.000,3,4,0,8,8,1,1,0,0,4,9,9.5,+15,.750
+2022-03-19,202203190MIN,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202203190MIN.html,31.72,6,12,.500,4,6,.667,9,11,2,9,11,5,2,0,3,3,25,23.6,+26,.818
+2022-03-19,202203190MIN,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202203190MIN.html,30.22,6,12,.500,4,8,.500,0,0,1,2,3,9,0,0,5,1,16,12.2,+15,
+2022-03-19,202203190MIN,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202203190MIN.html,9.82,1,3,.333,1,2,.500,0,0,0,1,1,0,1,1,1,0,3,2.3,+5,
+2022-03-19,202203190MIN,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202203190MIN.html,21.82,3,9,.333,2,5,.400,1,1,1,3,4,2,0,0,0,0,9,6.9,+24,1.000
+2022-03-19,202203190MIN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202203190MIN.html,20.8,4,11,.364,2,4,.500,0,0,1,2,3,2,0,0,0,2,10,5.8,+5,
+2022-03-19,202203190MIN,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202203190MIN.html,17.67,3,5,.600,1,2,.500,0,0,1,1,2,3,1,0,0,1,7,8.4,-4,
+2022-03-19,202203190MIN,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202203190MIN.html,16.82,4,6,.667,2,4,.500,4,5,0,4,4,2,3,1,0,3,14,16.1,+5,.800
+2022-03-19,202203190MIN,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202203190MIN.html,12.68,6,9,.667,1,4,.250,1,1,2,1,3,1,1,0,1,2,14,11.7,-5,1.000
+2022-03-19,202203190MIN,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202203190MIN.html,3.6,2,3,.667,0,1,.000,2,2,0,0,0,0,0,0,0,1,6,4.3,-2,1.000
+2022-03-19,202203190MIN,MIN,Jake Layman,https://www.basketball-reference.com/boxscores/202203190MIN.html,3.6,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2022-03-19,202203190MIN,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202203190MIN.html,3.6,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,-2,
+2022-03-19,202203190MIN,MIN,Leandro Bolmaro,https://www.basketball-reference.com/boxscores/202203190MIN.html,2.48,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-2,

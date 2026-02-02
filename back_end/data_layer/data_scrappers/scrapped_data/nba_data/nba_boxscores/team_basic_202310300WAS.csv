@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-10-30,202310300WAS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202310300WAS.html,31.53,13,24,.542,8,13,.615,2,4,.500,0,6,6,2,3,1,0,3,36,29.3,+32
+2023-10-30,202310300WAS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202310300WAS.html,27.6,14,21,.667,4,9,.444,1,1,1.000,0,6,6,3,0,0,2,2,33,25.0,+27
+2023-10-30,202310300WAS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202310300WAS.html,26.7,4,7,.571,1,3,.333,2,2,1.000,1,4,5,3,1,2,1,1,11,12.7,+28
+2023-10-30,202310300WAS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202310300WAS.html,23.87,7,9,.778,1,2,.500,0,0,,0,6,6,3,0,1,2,2,15,13.3,+30
+2023-10-30,202310300WAS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202310300WAS.html,23.6,2,3,.667,1,2,.500,0,0,,1,0,1,8,2,1,2,1,5,10.3,+27
+2023-10-30,202310300WAS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202310300WAS.html,25.13,3,10,.300,2,9,.222,0,0,,3,5,8,1,0,1,1,3,8,5.0,-10
+2023-10-30,202310300WAS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202310300WAS.html,25.05,0,8,.000,0,6,.000,0,0,,1,6,7,6,1,0,4,3,0,-3.1,-2
+2023-10-30,202310300WAS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202310300WAS.html,15.52,4,9,.444,0,3,.000,0,0,,4,1,5,1,2,0,0,1,8,8.7,+4
+2023-10-30,202310300WAS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202310300WAS.html,10.7,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,-11
+2023-10-30,202310300WAS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202310300WAS.html,10.27,0,4,.000,0,2,.000,0,0,,1,1,2,1,1,0,0,2,0,-0.9,-10
+2023-10-30,202310300WAS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202310300WAS.html,9.68,1,3,.333,0,1,.000,0,0,,2,0,2,1,0,0,1,1,2,1.0,-17
+2023-10-30,202310300WAS,BOS,Lamar Stevens,https://www.basketball-reference.com/boxscores/202310300WAS.html,5.52,2,2,1.000,1,1,1.000,0,0,,2,0,2,0,0,0,3,1,5,2.4,-4
+2023-10-30,202310300WAS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202310300WAS.html,4.83,1,2,.500,1,2,.500,0,0,,0,0,0,1,1,0,0,0,3,3.7,+1
+2023-10-30,202310300WAS,WAS,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202310300WAS.html,27.85,4,12,.333,1,6,.167,0,0,,2,3,5,1,1,2,1,0,9,6.6,-5
+2023-10-30,202310300WAS,WAS,Tyus Jones,https://www.basketball-reference.com/boxscores/202310300WAS.html,26.53,5,9,.556,1,4,.250,0,0,,0,3,3,7,1,0,2,0,11,11.5,-31
+2023-10-30,202310300WAS,WAS,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202310300WAS.html,26.33,9,15,.600,3,6,.500,0,0,,0,5,5,4,0,0,2,0,21,16.4,-24
+2023-10-30,202310300WAS,WAS,Jordan Poole,https://www.basketball-reference.com/boxscores/202310300WAS.html,25.27,5,11,.455,1,5,.200,0,0,,2,1,3,2,3,1,3,3,11,7.9,-29
+2023-10-30,202310300WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202310300WAS.html,22.22,4,10,.400,1,3,.333,2,2,1.000,2,5,7,1,1,0,0,4,11,8.6,-26
+2023-10-30,202310300WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202310300WAS.html,23.58,3,6,.500,3,6,.500,0,2,.000,0,2,2,0,0,0,2,1,9,3.4,-13
+2023-10-30,202310300WAS,WAS,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202310300WAS.html,16.18,1,5,.200,0,2,.000,1,2,.500,0,2,2,2,1,0,1,0,3,1.5,-14
+2023-10-30,202310300WAS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202310300WAS.html,15.77,2,4,.500,0,0,,1,2,.500,1,1,2,0,0,0,2,2,5,0.8,+8
+2023-10-30,202310300WAS,WAS,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202310300WAS.html,12.0,5,5,1.000,1,1,1.000,3,4,.750,3,3,6,1,1,1,0,0,14,17.5,+14
+2023-10-30,202310300WAS,WAS,Ryan Rollins,https://www.basketball-reference.com/boxscores/202310300WAS.html,12.0,0,2,.000,0,0,,7,8,.875,1,0,1,3,4,0,1,1,7,10.6,+14
+2023-10-30,202310300WAS,WAS,Delon Wright,https://www.basketball-reference.com/boxscores/202310300WAS.html,11.5,0,2,.000,0,0,,1,2,.500,0,2,2,2,0,0,0,0,1,1.2,-6
+2023-10-30,202310300WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202310300WAS.html,9.73,1,3,.333,0,0,,3,4,.750,0,2,2,1,0,0,0,2,5,3.4,+9
+2023-10-30,202310300WAS,WAS,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202310300WAS.html,5.52,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,+4
+2023-10-30,202310300WAS,WAS,Jared Butler,https://www.basketball-reference.com/boxscores/202310300WAS.html,5.52,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.7,+4

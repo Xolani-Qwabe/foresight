@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-01-08,202201080IND,UTA,Q1,Royce O'Neale,https://www.basketball-reference.com/boxscores/202201080IND.html,8.97,2,2,1.000,2,2,1.000,0,0,1,2,3,1,0,0,0,1,6,7.0,-1,
+2022-01-08,202201080IND,UTA,Q1,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202201080IND.html,8.97,2,4,.500,0,1,.000,0,0,0,0,0,1,0,0,1,1,4,1.3,-1,
+2022-01-08,202201080IND,UTA,Q1,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202201080IND.html,9.63,4,8,.500,3,4,.750,0,0,1,1,2,4,1,0,1,1,11,10.4,-1,
+2022-01-08,202201080IND,UTA,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202201080IND.html,8.08,0,2,.000,0,2,.000,0,0,0,0,0,2,0,0,0,0,0,0.0,0,
+2022-01-08,202201080IND,UTA,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202201080IND.html,4.48,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,2,0,-0.8,+4,
+2022-01-08,202201080IND,UTA,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202201080IND.html,6.28,0,2,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,-0.4,-11,
+2022-01-08,202201080IND,UTA,Q1,Rudy Gay,https://www.basketball-reference.com/boxscores/202201080IND.html,4.82,1,4,.250,0,1,.000,0,0,0,2,2,0,0,0,0,0,2,0.2,-7,
+2022-01-08,202201080IND,UTA,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,3.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-5,
+2022-01-08,202201080IND,UTA,Q1,Norvel Pelle,https://www.basketball-reference.com/boxscores/202201080IND.html,5.73,2,3,.667,0,0,,0,0,2,0,2,0,0,0,0,0,4,4.1,-8,
+2022-01-08,202201080IND,UTA,Q2,Royce O'Neale,https://www.basketball-reference.com/boxscores/202201080IND.html,7.47,1,1,1.000,0,0,,0,0,0,1,1,0,1,0,0,0,2,3.0,-3,
+2022-01-08,202201080IND,UTA,Q2,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202201080IND.html,7.47,0,1,.000,0,0,,4,4,0,3,3,0,0,0,1,0,4,3.2,-3,1.000
+2022-01-08,202201080IND,UTA,Q2,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202201080IND.html,9.15,1,7,.143,1,3,.333,2,2,0,0,0,2,0,0,0,1,5,1.5,-1,1.000
+2022-01-08,202201080IND,UTA,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202201080IND.html,7.05,0,1,.000,0,1,.000,0,0,1,0,1,0,1,0,0,0,0,1.0,+5,
+2022-01-08,202201080IND,UTA,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202201080IND.html,7.47,1,2,.500,0,0,,0,0,1,1,2,0,0,0,0,0,2,2.0,-3,
+2022-01-08,202201080IND,UTA,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202201080IND.html,7.8,3,5,.600,1,2,.500,0,0,0,0,0,0,1,0,2,1,7,3.3,-10,
+2022-01-08,202201080IND,UTA,Q2,Rudy Gay,https://www.basketball-reference.com/boxscores/202201080IND.html,4.53,1,1,1.000,1,1,1.000,0,0,0,2,2,0,1,1,0,1,3,4.6,0,
+2022-01-08,202201080IND,UTA,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,4.53,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,0,
+2022-01-08,202201080IND,UTA,Q2,Norvel Pelle,https://www.basketball-reference.com/boxscores/202201080IND.html,0.42,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2022-01-08,202201080IND,UTA,Q2,Eric Paschall,https://www.basketball-reference.com/boxscores/202201080IND.html,4.12,0,0,,0,0,,2,2,0,0,0,0,0,0,1,0,2,1.0,+2,1.000
+2022-01-08,202201080IND,UTA,Q3,Royce O'Neale,https://www.basketball-reference.com/boxscores/202201080IND.html,9.77,0,0,,0,0,,0,0,0,2,2,1,0,1,0,0,0,2.0,+8,
+2022-01-08,202201080IND,UTA,Q3,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202201080IND.html,12.0,4,6,.667,2,3,.667,0,0,0,3,3,0,0,0,1,0,10,7.3,+5,
+2022-01-08,202201080IND,UTA,Q3,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202201080IND.html,9.88,3,4,.750,1,2,.500,2,2,0,0,0,2,0,0,0,1,9,8.4,+7,1.000
+2022-01-08,202201080IND,UTA,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202201080IND.html,7.9,2,2,1.000,1,1,1.000,2,2,0,2,2,1,0,0,2,0,7,5.7,+6,1.000
+2022-01-08,202201080IND,UTA,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202201080IND.html,6.52,1,1,1.000,0,0,,2,2,0,3,3,0,0,0,1,2,4,2.8,+6,1.000
+2022-01-08,202201080IND,UTA,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202201080IND.html,6.22,1,4,.250,0,1,.000,0,0,1,0,1,0,0,0,0,1,2,-0.1,-3,
+2022-01-08,202201080IND,UTA,Q3,Rudy Gay,https://www.basketball-reference.com/boxscores/202201080IND.html,3.37,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,+1,1.000
+2022-01-08,202201080IND,UTA,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,2.23,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2022-01-08,202201080IND,UTA,Q3,Norvel Pelle,https://www.basketball-reference.com/boxscores/202201080IND.html,2.12,0,0,,0,0,,0,0,0,1,1,0,0,1,1,0,0,0.0,-2,
+2022-01-08,202201080IND,UTA,Q4,Royce O'Neale,https://www.basketball-reference.com/boxscores/202201080IND.html,12.0,0,0,,0,0,,0,0,0,0,0,0,0,0,1,3,0,-2.2,-8,
+2022-01-08,202201080IND,UTA,Q4,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202201080IND.html,9.05,1,5,.200,1,5,.200,0,0,0,0,0,0,0,0,0,1,3,-0.5,-10,
+2022-01-08,202201080IND,UTA,Q4,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202201080IND.html,8.45,5,8,.625,1,3,.333,0,0,0,0,0,1,0,0,1,2,11,6.3,-8,
+2022-01-08,202201080IND,UTA,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202201080IND.html,7.95,1,1,1.000,0,0,,0,0,0,2,2,4,1,0,0,1,2,5.7,-2,
+2022-01-08,202201080IND,UTA,Q4,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202201080IND.html,7.0,1,2,.500,0,0,,0,1,1,1,2,0,0,0,0,1,2,1.2,-5,.000
+2022-01-08,202201080IND,UTA,Q4,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202201080IND.html,7.6,3,4,.750,1,1,1.000,2,2,0,0,0,0,0,0,0,0,9,7.4,-6,1.000
+2022-01-08,202201080IND,UTA,Q4,Rudy Gay,https://www.basketball-reference.com/boxscores/202201080IND.html,4.25,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,1,2,0,-2.9,-3,
+2022-01-08,202201080IND,UTA,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,2.95,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+2,
+2022-01-08,202201080IND,UTA,Q4,Norvel Pelle,https://www.basketball-reference.com/boxscores/202201080IND.html,0.75,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,0,
+2022-01-08,202201080IND,IND,Q1,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202201080IND.html,11.28,7,7,1.000,3,3,1.000,1,1,0,2,2,0,0,0,1,0,18,15.5,+6,1.000
+2022-01-08,202201080IND,IND,Q1,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,5.72,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,1.0,-5,
+2022-01-08,202201080IND,IND,Q1,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201080IND.html,8.97,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,1.0,+1,
+2022-01-08,202201080IND,IND,Q1,Justin Holiday,https://www.basketball-reference.com/boxscores/202201080IND.html,5.72,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-5,
+2022-01-08,202201080IND,IND,Q1,Myles Turner,https://www.basketball-reference.com/boxscores/202201080IND.html,7.18,1,3,.333,0,1,.000,2,4,1,2,3,0,0,2,0,1,4,3.8,-1,.500
+2022-01-08,202201080IND,IND,Q1,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201080IND.html,6.28,2,2,1.000,1,1,1.000,0,0,0,0,0,4,0,0,0,1,5,6.8,+11,
+2022-01-08,202201080IND,IND,Q1,Chris Duarte,https://www.basketball-reference.com/boxscores/202201080IND.html,6.28,0,3,.000,0,2,.000,2,2,0,1,1,0,0,0,0,0,2,0.2,+11,1.000
+2022-01-08,202201080IND,IND,Q1,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201080IND.html,5.53,1,1,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,0,3,3.3,+7,
+2022-01-08,202201080IND,IND,Q1,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201080IND.html,3.03,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,+5,.500
+2022-01-08,202201080IND,IND,Q2,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202201080IND.html,7.88,3,5,.600,0,1,.000,0,0,0,1,1,2,0,0,1,1,6,4.0,+5,
+2022-01-08,202201080IND,IND,Q2,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,8.78,3,6,.500,3,5,.600,0,0,0,0,0,2,0,0,0,1,9,7.0,+1,
+2022-01-08,202201080IND,IND,Q2,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201080IND.html,7.52,0,0,,0,0,,0,0,0,0,0,1,1,0,1,0,0,0.7,+3,
+2022-01-08,202201080IND,IND,Q2,Justin Holiday,https://www.basketball-reference.com/boxscores/202201080IND.html,6.23,1,1,1.000,1,1,1.000,0,0,0,2,2,1,0,0,0,0,3,4.0,+3,
+2022-01-08,202201080IND,IND,Q2,Myles Turner,https://www.basketball-reference.com/boxscores/202201080IND.html,11.58,2,5,.400,0,0,,0,0,0,3,3,1,0,1,1,0,4,2.6,+1,
+2022-01-08,202201080IND,IND,Q2,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201080IND.html,5.6,2,4,.500,0,0,,0,0,0,3,3,1,1,0,1,0,4,3.6,0,
+2022-01-08,202201080IND,IND,Q2,Chris Duarte,https://www.basketball-reference.com/boxscores/202201080IND.html,5.02,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,2,2,0.9,0,
+2022-01-08,202201080IND,IND,Q2,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201080IND.html,2.85,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,+2,
+2022-01-08,202201080IND,IND,Q2,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201080IND.html,4.53,0,0,,0,0,,0,0,0,0,0,1,1,0,0,2,0,0.9,0,
+2022-01-08,202201080IND,IND,Q3,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202201080IND.html,9.88,3,4,.750,0,0,,0,0,1,1,2,1,1,0,0,0,6,7.1,-1,
+2022-01-08,202201080IND,IND,Q3,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,5.95,0,1,.000,0,0,,1,2,0,0,0,0,0,0,0,0,1,-0.1,-5,.500
+2022-01-08,202201080IND,IND,Q3,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201080IND.html,4.4,1,3,.333,1,1,1.000,0,0,0,0,0,1,0,0,0,2,3,1.2,-2,
+2022-01-08,202201080IND,IND,Q3,Justin Holiday,https://www.basketball-reference.com/boxscores/202201080IND.html,7.58,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,-5,
+2022-01-08,202201080IND,IND,Q3,Myles Turner,https://www.basketball-reference.com/boxscores/202201080IND.html,6.52,0,0,,0,0,,0,0,0,0,0,1,0,0,1,1,0,-0.7,-6,
+2022-01-08,202201080IND,IND,Q3,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201080IND.html,7.6,3,5,.600,0,2,.000,1,2,0,1,1,2,1,0,0,0,7,7.0,-3,.500
+2022-01-08,202201080IND,IND,Q3,Chris Duarte,https://www.basketball-reference.com/boxscores/202201080IND.html,7.6,1,2,.500,1,1,1.000,2,4,0,2,2,0,1,1,0,1,5,5.1,-3,.500
+2022-01-08,202201080IND,IND,Q3,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201080IND.html,7.6,2,6,.333,0,1,.000,0,0,0,1,1,0,0,0,0,1,4,0.5,-3,
+2022-01-08,202201080IND,IND,Q3,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201080IND.html,2.87,0,0,,0,0,,0,0,0,0,0,0,0,1,0,1,0,0.3,+3,
+2022-01-08,202201080IND,IND,Q4,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202201080IND.html,8.63,5,6,.833,0,0,,2,3,0,1,1,0,0,1,1,1,12,9.0,+3,.667
+2022-01-08,202201080IND,IND,Q4,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201080IND.html,12.0,1,3,.333,0,1,.000,4,4,0,2,2,1,1,0,1,1,6,5.2,+8,1.000
+2022-01-08,202201080IND,IND,Q4,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201080IND.html,10.37,1,1,1.000,0,0,,2,2,1,3,4,0,0,0,1,1,4,3.9,+10,1.000
+2022-01-08,202201080IND,IND,Q4,Justin Holiday,https://www.basketball-reference.com/boxscores/202201080IND.html,9.05,2,3,.667,2,3,.667,3,4,0,2,2,0,0,0,0,1,9,7.5,+10,.750
+2022-01-08,202201080IND,IND,Q4,Myles Turner,https://www.basketball-reference.com/boxscores/202201080IND.html,2.75,0,0,,0,0,,0,0,0,0,0,0,0,1,1,1,0,-0.7,+2,
+2022-01-08,202201080IND,IND,Q4,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201080IND.html,9.25,0,1,.000,0,0,,0,0,0,2,2,7,2,0,0,0,0,6.8,+6,
+2022-01-08,202201080IND,IND,Q4,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201080IND.html,2.25,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,+1,
+2022-01-08,202201080IND,IND,Q4,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201080IND.html,5.7,1,2,.500,0,1,.000,2,2,0,0,0,0,0,0,0,0,4,3.0,0,1.000

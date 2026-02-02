@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-09,202101090DAL,ORL,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202101090DAL.html,9.12,2,6,.333,0,2,.000,1,2,.500,0,2,2,1,0,1,0,1,5,2.8,-6
+2021-01-09,202101090DAL,ORL,Q1,Nikola Vučević,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.22,4,8,.500,0,2,.000,0,0,,1,2,3,1,0,0,0,1,8,5.6,-7
+2021-01-09,202101090DAL,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.22,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,-7
+2021-01-09,202101090DAL,ORL,Q1,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.8,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+2021-01-09,202101090DAL,ORL,Q1,James Ennis III,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.68,1,1,1.000,0,0,,0,0,,0,1,1,1,1,0,1,0,2,2.7,-6
+2021-01-09,202101090DAL,ORL,Q1,Terrence Ross,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.2,1,3,.333,0,0,,3,3,1.000,0,0,0,1,0,0,0,0,5,4.0,-6
+2021-01-09,202101090DAL,ORL,Q1,Khem Birch,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.78,1,1,1.000,0,0,,3,4,.750,1,0,1,0,0,0,0,0,5,5.0,-2
+2021-01-09,202101090DAL,ORL,Q1,Gary Clark,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.2,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-6
+2021-01-09,202101090DAL,ORL,Q1,Jordan Bone,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.78,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2
+2021-01-09,202101090DAL,ORL,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202101090DAL.html,7.08,0,2,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.0,+5
+2021-01-09,202101090DAL,ORL,Q2,Nikola Vučević,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.07,3,5,.600,0,1,.000,0,0,,2,2,4,0,0,0,0,0,6,5.7,-1
+2021-01-09,202101090DAL,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202101090DAL.html,4.92,0,2,.000,0,1,.000,1,2,.500,0,0,0,2,0,0,1,1,1,-0.8,-2
+2021-01-09,202101090DAL,ORL,Q2,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.07,2,3,.667,0,1,.000,0,0,,0,0,0,1,0,0,0,0,4,3.4,-1
+2021-01-09,202101090DAL,ORL,Q2,James Ennis III,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.25,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1
+2021-01-09,202101090DAL,ORL,Q2,Terrence Ross,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.75,1,3,.333,0,1,.000,0,0,,0,1,1,0,0,1,0,0,2,1.3,+4
+2021-01-09,202101090DAL,ORL,Q2,Khem Birch,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.85,1,1,1.000,0,0,,0,0,,0,4,4,0,1,0,0,0,2,3.9,+2
+2021-01-09,202101090DAL,ORL,Q2,Gary Clark,https://www.basketball-reference.com/boxscores/202101090DAL.html,7.08,2,5,.400,2,4,.500,0,0,,1,2,3,0,1,0,1,0,6,4.6,+5
+2021-01-09,202101090DAL,ORL,Q2,Jordan Bone,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.93,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.7,+4
+2021-01-09,202101090DAL,ORL,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202101090DAL.html,9.7,3,4,.750,1,2,.500,1,2,.500,0,2,2,2,0,0,0,1,8,7.6,+5
+2021-01-09,202101090DAL,ORL,Q3,Nikola Vučević,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.07,2,6,.333,0,2,.000,0,0,,0,5,5,1,2,0,0,0,4,4.8,+4
+2021-01-09,202101090DAL,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.07,1,3,.333,1,2,.500,0,0,,0,0,0,0,0,0,1,0,3,0.3,+4
+2021-01-09,202101090DAL,ORL,Q3,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.42,1,5,.200,0,0,,1,2,.500,2,0,2,0,0,0,0,2,3,0.1,+10
+2021-01-09,202101090DAL,ORL,Q3,James Ennis III,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.72,1,3,.333,0,1,.000,0,0,,0,0,0,0,2,0,0,0,2,2.3,+1
+2021-01-09,202101090DAL,ORL,Q3,Terrence Ross,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.58,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,2,0,2,-1.4,-14
+2021-01-09,202101090DAL,ORL,Q3,Khem Birch,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.93,1,1,1.000,0,0,,1,1,1.000,0,1,1,0,0,0,0,0,3,3.0,-8
+2021-01-09,202101090DAL,ORL,Q3,Gary Clark,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.58,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-14
+2021-01-09,202101090DAL,ORL,Q3,Jordan Bone,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.93,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-8
+2021-01-09,202101090DAL,ORL,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202101090DAL.html,9.63,1,4,.250,0,2,.000,1,2,.500,0,0,0,0,1,0,2,1,3,-1.2,-7
+2021-01-09,202101090DAL,ORL,Q4,Nikola Vučević,https://www.basketball-reference.com/boxscores/202101090DAL.html,9.1,5,5,1.000,2,2,1.000,0,0,,0,3,3,0,0,0,0,2,12,10.6,-3
+2021-01-09,202101090DAL,ORL,Q4,Cole Anthony,https://www.basketball-reference.com/boxscores/202101090DAL.html,10.9,0,2,.000,0,2,.000,2,2,1.000,0,1,1,1,0,0,0,0,2,1.6,-4
+2021-01-09,202101090DAL,ORL,Q4,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202101090DAL.html,7.08,1,4,.250,0,0,,0,0,,0,1,1,0,1,0,0,2,2,0.1,0
+2021-01-09,202101090DAL,ORL,Q4,Terrence Ross,https://www.basketball-reference.com/boxscores/202101090DAL.html,12.0,0,3,.000,0,1,.000,2,2,1.000,0,2,2,2,0,0,1,2,2,0.1,-4
+2021-01-09,202101090DAL,ORL,Q4,Khem Birch,https://www.basketball-reference.com/boxscores/202101090DAL.html,7.28,1,1,1.000,0,0,,0,0,,2,0,2,0,2,0,0,1,2,4.7,-1
+2021-01-09,202101090DAL,ORL,Q4,Gary Clark,https://www.basketball-reference.com/boxscores/202101090DAL.html,2.9,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2021-01-09,202101090DAL,ORL,Q4,Jordan Bone,https://www.basketball-reference.com/boxscores/202101090DAL.html,1.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-01-09,202101090DAL,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101090DAL.html,9.35,3,5,.600,2,4,.500,0,0,,0,3,3,1,0,0,1,1,8,5.9,+5
+2021-01-09,202101090DAL,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202101090DAL.html,9.12,3,6,.500,1,1,1.000,1,1,1.000,1,1,2,6,0,0,0,0,8,10.2,+6
+2021-01-09,202101090DAL,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.8,0,0,,0,0,,0,0,,0,0,0,1,0,1,0,0,0,1.4,+3
+2021-01-09,202101090DAL,DAL,Q1,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.8,2,2,1.000,0,0,,0,0,,1,1,2,2,0,0,0,0,4,5.8,+3
+2021-01-09,202101090DAL,DAL,Q1,Josh Green,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.8,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3
+2021-01-09,202101090DAL,DAL,Q1,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.2,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,1,0,0.5,+6
+2021-01-09,202101090DAL,DAL,Q1,James Johnson,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.2,1,1,1.000,0,0,,1,3,.333,0,1,1,0,0,1,1,1,3,1.5,+6
+2021-01-09,202101090DAL,DAL,Q1,Trey Burke,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.53,3,4,.750,3,3,1.000,0,0,,0,0,0,0,0,0,1,2,9,5.6,+7
+2021-01-09,202101090DAL,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.2,2,3,.667,0,0,,0,0,,0,1,1,1,0,1,1,1,4,3.0,+6
+2021-01-09,202101090DAL,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101090DAL.html,12.0,2,5,.400,2,3,.667,0,0,,0,0,0,1,0,0,1,1,6,2.6,-3
+2021-01-09,202101090DAL,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.07,1,4,.250,0,2,.000,0,0,,0,4,4,2,0,1,3,0,2,-0.1,-3
+2021-01-09,202101090DAL,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.85,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,0,0,3,2.6,-2
+2021-01-09,202101090DAL,DAL,Q2,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.28,0,2,.000,0,0,,0,0,,0,3,3,0,0,0,0,0,0,-0.5,+2
+2021-01-09,202101090DAL,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2021-01-09,202101090DAL,DAL,Q2,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.75,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-4
+2021-01-09,202101090DAL,DAL,Q2,James Johnson,https://www.basketball-reference.com/boxscores/202101090DAL.html,4.93,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,-2
+2021-01-09,202101090DAL,DAL,Q2,Trey Burke,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.93,3,3,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,7,6.8,0
+2021-01-09,202101090DAL,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/202101090DAL.html,2.05,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-2
+2021-01-09,202101090DAL,DAL,Q2,Boban Marjanović,https://www.basketball-reference.com/boxscores/202101090DAL.html,1.88,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,-2
+2021-01-09,202101090DAL,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101090DAL.html,12.0,6,8,.750,3,4,.750,1,2,.500,0,1,1,0,0,0,1,0,16,11.7,+4
+2021-01-09,202101090DAL,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.5,1,4,.250,1,2,.500,0,0,,0,2,2,0,0,1,3,0,3,-1.1,-7
+2021-01-09,202101090DAL,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.5,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,1,2,1.2,-7
+2021-01-09,202101090DAL,DAL,Q3,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.2,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-4
+2021-01-09,202101090DAL,DAL,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202101090DAL.html,6.42,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-10
+2021-01-09,202101090DAL,DAL,Q3,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.5,0,0,,0,0,,0,0,,0,0,0,1,2,0,1,0,0,1.7,+11
+2021-01-09,202101090DAL,DAL,Q3,James Johnson,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.58,1,2,.500,1,2,.500,0,0,,0,1,1,2,0,0,0,1,3,3.3,+14
+2021-01-09,202101090DAL,DAL,Q3,Trey Burke,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.58,2,3,.667,1,2,.500,0,0,,0,0,0,2,0,1,0,1,5,5.4,+14
+2021-01-09,202101090DAL,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.72,0,1,.000,0,0,,0,0,,2,2,4,0,0,0,0,1,0,0.9,+5
+2021-01-09,202101090DAL,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202101090DAL.html,7.08,1,2,.500,1,2,.500,3,4,.750,0,1,1,0,0,0,1,0,6,3.9,0
+2021-01-09,202101090DAL,DAL,Q4,Luka Dončić,https://www.basketball-reference.com/boxscores/202101090DAL.html,10.93,2,6,.333,1,4,.250,2,2,1.000,0,3,3,2,1,0,0,1,7,6.5,+4
+2021-01-09,202101090DAL,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/202101090DAL.html,2.48,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,-0.7,+3
+2021-01-09,202101090DAL,DAL,Q4,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202101090DAL.html,8.03,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,1,1,2,0.9,+3
+2021-01-09,202101090DAL,DAL,Q4,Wes Iwundu,https://www.basketball-reference.com/boxscores/202101090DAL.html,12.0,0,0,,0,0,,0,0,,1,2,3,0,0,0,1,1,0,-0.1,+4
+2021-01-09,202101090DAL,DAL,Q4,James Johnson,https://www.basketball-reference.com/boxscores/202101090DAL.html,9.52,1,1,1.000,0,0,,2,2,1.000,0,2,2,1,2,0,1,1,4,5.6,+1
+2021-01-09,202101090DAL,DAL,Q4,Trey Burke,https://www.basketball-reference.com/boxscores/202101090DAL.html,5.98,3,3,1.000,2,2,1.000,0,0,,0,0,0,1,0,0,0,0,8,7.8,+4
+2021-01-09,202101090DAL,DAL,Q4,Dwight Powell,https://www.basketball-reference.com/boxscores/202101090DAL.html,3.97,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0.0,+1

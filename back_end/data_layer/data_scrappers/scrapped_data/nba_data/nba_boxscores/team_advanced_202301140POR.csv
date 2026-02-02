@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-14,202301140POR,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202301140POR.html,35:33,.347,.368,.263,.316,0.0,24.5,11.3,40.2,1.4,2.9,4.4,30.5,94,139,-8.9
+2023-01-14,202301140POR,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202301140POR.html,33:09,.880,.833,.500,.417,0.0,4.4,2.0,23.0,0.0,0.0,17.4,24.8,145,149,2.1
+2023-01-14,202301140POR,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202301140POR.html,32:27,.500,.500,.700,.000,0.0,9.0,4.1,0.0,0.0,0.0,9.1,16.2,81,148,-13.1
+2023-01-14,202301140POR,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202301140POR.html,28:46,1.200,1.200,1.000,.000,0.0,10.1,4.6,5.6,1.8,0.0,0.0,16.6,208,143,16.0
+2023-01-14,202301140POR,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202301140POR.html,24:07,.694,.750,.000,1.000,0.0,12.1,5.5,0.0,0.0,0.0,0.0,11.4,134,147,-11.5
+2023-01-14,202301140POR,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202301140POR.html,22:47,.700,.700,.600,.000,0.0,6.4,2.9,0.0,2.2,0.0,28.6,14.7,83,143,-9.2
+2023-01-14,202301140POR,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202301140POR.html,17:47,1.000,1.000,1.000,.000,0.0,8.2,3.7,14.4,0.0,0.0,0.0,8.1,192,148,1.8
+2023-01-14,202301140POR,DAL,Theo Pinson,https://www.basketball-reference.com/boxscores/202301140POR.html,12:52,.786,.786,.857,.000,0.0,11.3,5.2,39.9,0.0,0.0,0.0,26.0,156,147,14.0
+2023-01-14,202301140POR,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202301140POR.html,10:19,.595,.500,.600,.400,0.0,28.2,12.9,13.8,0.0,0.0,14.5,31.9,104,144,-8.9
+2023-01-14,202301140POR,DAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202301140POR.html,8:13,.500,.500,.000,.000,30.0,53.1,40.6,15.7,6.1,12.4,50.0,23.3,94,116,-6.5
+2023-01-14,202301140POR,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202301140POR.html,7:00,.375,.375,.500,.000,0.0,20.8,9.5,19.0,0.0,0.0,0.0,27.3,85,145,-10.5
+2023-01-14,202301140POR,DAL,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202301140POR.html,7:00,.266,.000,1.000,2.000,0.0,20.8,9.5,63.8,0.0,14.6,0.0,12.8,140,136,10.8
+2023-01-14,202301140POR,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202301140POR.html,34:26,.810,.778,.444,.222,4.2,14.3,9.7,13.7,2.9,3.9,16.8,15.5,145,120,3.1
+2023-01-14,202301140POR,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202301140POR.html,29:21,.717,.625,.667,.500,0.0,16.8,9.1,20.9,0.0,9.1,0.0,22.4,165,122,6.0
+2023-01-14,202301140POR,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202301140POR.html,29:17,.738,.650,.550,.500,0.0,21.0,11.4,52.9,0.0,0.0,3.9,39.0,163,130,13.8
+2023-01-14,202301140POR,POR,Josh Hart,https://www.basketball-reference.com/boxscores/202301140POR.html,27:12,.652,.688,.375,.125,0.0,18.1,9.8,26.4,0.0,0.0,10.6,15.6,139,130,0.7
+2023-01-14,202301140POR,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202301140POR.html,22:43,.712,.700,.333,.067,12.8,48.8,32.3,21.1,2.2,0.0,16.3,36.5,125,123,4.2
+2023-01-14,202301140POR,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202301140POR.html,31:25,.500,.500,.667,.000,9.3,7.8,8.5,3.7,0.0,0.0,0.0,17.2,121,130,-10.2
+2023-01-14,202301140POR,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202301140POR.html,19:52,1.000,1.000,.000,.000,14.6,12.4,13.4,10.4,0.0,6.7,0.0,2.3,225,124,-2.3
+2023-01-14,202301140POR,POR,Gary Payton II,https://www.basketball-reference.com/boxscores/202301140POR.html,15:23,1.000,1.000,.400,.000,0.0,16.0,8.7,17.1,13.1,0.0,0.0,14.6,200,97,19.5
+2023-01-14,202301140POR,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202301140POR.html,13:34,.000,.000,.000,.000,10.7,9.1,9.8,7.2,0.0,0.0,0.0,3.3,120,130,-9.0
+2023-01-14,202301140POR,POR,Keon Johnson,https://www.basketball-reference.com/boxscores/202301140POR.html,5:56,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.6,0,131,-19.5
+2023-01-14,202301140POR,POR,Greg Brown III,https://www.basketball-reference.com/boxscores/202301140POR.html,5:25,.500,.500,.000,.000,0.0,90.9,49.2,0.0,0.0,0.0,33.3,24.9,61,127,-15.5
+2023-01-14,202301140POR,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202301140POR.html,5:25,.694,.500,.000,1.000,53.7,0.0,24.6,0.0,0.0,0.0,25.8,32.2,132,131,-7.7

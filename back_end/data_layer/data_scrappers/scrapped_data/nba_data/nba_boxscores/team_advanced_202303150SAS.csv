@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-15,202303150SAS,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202303150SAS.html,45:57,.842,.818,.909,.182,0.0,25.9,15.1,6.2,2.1,0.0,0.0,11.4,173,111,6.9
+2023-03-15,202303150SAS,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202303150SAS.html,45:16,.556,.556,.278,.111,2.9,4.0,3.5,24.5,1.1,0.0,9.6,20.3,121,121,-4.0
+2023-03-15,202303150SAS,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202303150SAS.html,38:01,.514,.382,.294,.588,6.8,9.6,8.4,15.1,0.0,0.0,8.5,27.1,116,121,-6.8
+2023-03-15,202303150SAS,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202303150SAS.html,29:16,.993,1.000,.000,.875,17.7,12.5,14.6,12.3,0.0,0.0,8.3,18.2,192,120,8.1
+2023-03-15,202303150SAS,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202303150SAS.html,27:31,.375,.375,.750,.000,0.0,6.6,3.9,9.2,0.0,0.0,42.9,11.2,59,122,-11.4
+2023-03-15,202303150SAS,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202303150SAS.html,28:20,.641,.529,.235,.647,13.7,32.3,24.6,19.3,0.0,2.6,15.5,40.2,123,110,-0.5
+2023-03-15,202303150SAS,DAL,McKinley Wright IV,https://www.basketball-reference.com/boxscores/202303150SAS.html,22:58,.870,.900,.200,.600,0.0,15.9,9.3,13.3,0.0,3.2,38.8,19.8,104,117,-4.1
+2023-03-15,202303150SAS,DAL,Justin Holiday,https://www.basketball-reference.com/boxscores/202303150SAS.html,12:25,.000,.000,1.000,.000,0.0,7.4,4.3,0.0,0.0,0.0,50.0,7.1,0,123,-13.6
+2023-03-15,202303150SAS,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202303150SAS.html,11:45,.750,.750,1.000,.000,0.0,7.8,4.6,12.9,4.1,12.4,0.0,15.0,158,103,14.6
+2023-03-15,202303150SAS,DAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202303150SAS.html,3:31,1.064,1.000,.000,2.000,0.0,26.0,15.2,0.0,0.0,0.0,34.7,36.1,130,109,-11.9
+2023-03-15,202303150SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202303150SAS.html,36:03,.488,.500,.320,.240,5.1,21.5,11.9,9.0,0.0,0.0,6.7,33.9,100,129,-7.8
+2023-03-15,202303150SAS,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202303150SAS.html,33:15,.385,.385,.538,.000,8.2,15.6,11.3,7.5,0.0,0.0,0.0,16.1,103,130,-9.2
+2023-03-15,202303150SAS,SAS,Devonte' Graham,https://www.basketball-reference.com/boxscores/202303150SAS.html,32:55,.697,.750,.875,.375,0.0,11.8,4.9,18.9,1.5,0.0,0.0,11.7,155,127,1.4
+2023-03-15,202303150SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202303150SAS.html,32:02,.547,.545,.091,.182,0.0,4.0,1.7,21.2,1.5,0.0,0.0,15.3,130,129,-3.5
+2023-03-15,202303150SAS,SAS,Romeo Langford,https://www.basketball-reference.com/boxscores/202303150SAS.html,20:46,.672,.550,.100,.600,17.6,0.0,10.3,0.0,0.0,4.8,0.0,25.1,154,130,4.4
+2023-03-15,202303150SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202303150SAS.html,29:29,.776,.750,.250,.167,0.0,21.9,9.1,10.4,0.0,0.0,13.4,20.8,134,128,-0.3
+2023-03-15,202303150SAS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202303150SAS.html,23:08,.451,.400,.000,.500,15.8,11.2,13.9,23.0,6.3,0.0,14.1,25.3,106,116,2.2
+2023-03-15,202303150SAS,SAS,Dominick Barlow,https://www.basketball-reference.com/boxscores/202303150SAS.html,21:33,.600,.600,.000,.000,0.0,24.0,9.9,5.9,4.5,4.6,28.6,13.4,86,114,-4.6
+2023-03-15,202303150SAS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202303150SAS.html,20:10,.507,.563,.625,.250,0.0,25.6,10.6,12.8,0.0,0.0,18.4,22.3,89,128,-7.9
+2023-03-15,202303150SAS,SAS,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202303150SAS.html,15:39,.200,.200,.400,.000,17.5,16.5,17.1,22.3,0.0,12.8,0.0,13.2,103,121,-5.8

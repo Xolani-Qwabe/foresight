@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2021-06-03,202106030POR,DEN,Q1,Austin Rivers,https://www.basketball-reference.com/boxscores/202106030POR.html,10.67,1,1,1.000,0,0,0,0,0,1,1,0,0,0,2,0,2,0.0,-3,,
+2021-06-03,202106030POR,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202106030POR.html,6.63,0,0,,0,0,0,0,0,2,2,3,0,0,1,2,0,0.9,0,,
+2021-06-03,202106030POR,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202106030POR.html,11.83,8,10,.800,6,7,0,0,0,1,1,1,0,0,1,1,22,17.8,-4,.857,
+2021-06-03,202106030POR,DEN,Q1,Aaron Gordon,https://www.basketball-reference.com/boxscores/202106030POR.html,9.28,1,1,1.000,0,0,1,2,1,0,1,2,0,1,0,0,3,5.1,-1,,.500
+2021-06-03,202106030POR,DEN,Q1,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202106030POR.html,8.13,0,2,.000,0,2,0,0,0,0,0,2,1,0,1,1,0,-0.4,-1,.000,
+2021-06-03,202106030POR,DEN,Q1,Monte Morris,https://www.basketball-reference.com/boxscores/202106030POR.html,5.37,0,2,.000,0,0,0,0,1,0,1,2,3,0,1,0,0,2.7,-4,,
+2021-06-03,202106030POR,DEN,Q1,JaMychal Green,https://www.basketball-reference.com/boxscores/202106030POR.html,2.72,1,2,.500,0,1,0,1,0,2,2,0,0,0,0,0,2,1.2,-3,.000,.000
+2021-06-03,202106030POR,DEN,Q1,Paul Millsap,https://www.basketball-reference.com/boxscores/202106030POR.html,5.2,0,2,.000,0,2,0,0,0,1,1,0,0,1,1,1,0,-1.8,-4,.000,
+2021-06-03,202106030POR,DEN,Q1,Shaquille Harrison,https://www.basketball-reference.com/boxscores/202106030POR.html,0.17,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2021-06-03,202106030POR,DEN,Q2,Austin Rivers,https://www.basketball-reference.com/boxscores/202106030POR.html,7.42,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,-3,.000,
+2021-06-03,202106030POR,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202106030POR.html,10.5,4,7,.571,1,3,0,0,0,2,2,0,0,0,1,0,9,5.3,-1,.333,
+2021-06-03,202106030POR,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202106030POR.html,6.72,2,4,.500,0,2,0,0,0,1,1,1,1,0,0,1,4,3.6,-5,.000,
+2021-06-03,202106030POR,DEN,Q2,Aaron Gordon,https://www.basketball-reference.com/boxscores/202106030POR.html,7.9,0,1,.000,0,0,2,2,0,1,1,2,0,0,1,1,2,1.6,-3,,1.000
+2021-06-03,202106030POR,DEN,Q2,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202106030POR.html,8.38,2,3,.667,1,2,2,2,1,1,2,1,0,1,0,0,7,8.1,-2,.500,1.000
+2021-06-03,202106030POR,DEN,Q2,Monte Morris,https://www.basketball-reference.com/boxscores/202106030POR.html,8.2,2,6,.333,1,3,1,3,1,0,1,3,0,0,0,1,6,4.2,-1,.333,.333
+2021-06-03,202106030POR,DEN,Q2,JaMychal Green,https://www.basketball-reference.com/boxscores/202106030POR.html,4.1,2,2,1.000,0,0,0,0,0,1,1,0,0,0,0,0,4,3.7,0,,
+2021-06-03,202106030POR,DEN,Q2,Paul Millsap,https://www.basketball-reference.com/boxscores/202106030POR.html,1.5,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,-2,,
+2021-06-03,202106030POR,DEN,Q2,Markus Howard,https://www.basketball-reference.com/boxscores/202106030POR.html,5.28,0,0,,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7,+2,,
+2021-06-03,202106030POR,DEN,Q3,Austin Rivers,https://www.basketball-reference.com/boxscores/202106030POR.html,9.97,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,,
+2021-06-03,202106030POR,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202106030POR.html,12.0,6,10,.600,0,0,8,8,1,0,1,1,1,0,1,0,20,16.8,+4,,1.000
+2021-06-03,202106030POR,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202106030POR.html,9.37,0,3,.000,0,1,0,0,0,2,2,1,0,0,0,0,0,-0.8,-2,.000,
+2021-06-03,202106030POR,DEN,Q3,Aaron Gordon,https://www.basketball-reference.com/boxscores/202106030POR.html,9.98,2,5,.400,1,1,0,0,2,2,4,0,0,0,0,1,5,3.9,-1,1.000,
+2021-06-03,202106030POR,DEN,Q3,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202106030POR.html,6.63,0,0,,0,0,3,3,0,0,0,0,0,0,0,4,3,1.4,+1,,1.000
+2021-06-03,202106030POR,DEN,Q3,Monte Morris,https://www.basketball-reference.com/boxscores/202106030POR.html,7.4,3,4,.750,1,1,0,0,0,1,1,1,0,0,0,1,7,6.0,+10,1.000,
+2021-06-03,202106030POR,DEN,Q3,JaMychal Green,https://www.basketball-reference.com/boxscores/202106030POR.html,4.65,0,0,,0,0,2,2,0,1,1,0,1,0,0,0,2,3.3,+11,,1.000
+2021-06-03,202106030POR,DEN,Q4,Austin Rivers,https://www.basketball-reference.com/boxscores/202106030POR.html,12.0,2,4,.500,1,1,0,0,0,0,0,0,0,0,0,1,5,2.6,+14,1.000,
+2021-06-03,202106030POR,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202106030POR.html,7.1,3,5,.600,1,1,0,0,0,3,3,2,0,0,2,1,7,4.6,+12,1.000,
+2021-06-03,202106030POR,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202106030POR.html,6.02,0,2,.000,0,2,0,0,0,1,1,1,0,0,0,1,0,-0.8,+3,.000,
+2021-06-03,202106030POR,DEN,Q4,Aaron Gordon,https://www.basketball-reference.com/boxscores/202106030POR.html,5.98,1,1,1.000,1,1,0,0,0,1,1,0,1,0,0,0,3,4.0,+11,1.000,
+2021-06-03,202106030POR,DEN,Q4,Monte Morris,https://www.basketball-reference.com/boxscores/202106030POR.html,12.0,3,4,.750,1,2,2,2,0,1,1,3,0,0,0,0,9,9.8,+14,.500,1.000
+2021-06-03,202106030POR,DEN,Q4,JaMychal Green,https://www.basketball-reference.com/boxscores/202106030POR.html,12.0,0,1,.000,0,0,2,2,2,3,5,0,0,0,0,0,2,3.6,+14,,1.000
+2021-06-03,202106030POR,DEN,Q4,Paul Millsap,https://www.basketball-reference.com/boxscores/202106030POR.html,4.9,1,3,.333,0,1,0,0,1,0,1,1,0,0,0,0,2,1.7,+2,.000,
+2021-06-03,202106030POR,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202106030POR.html,12.0,4,7,.571,2,3,2,2,0,1,1,3,1,0,2,0,12,10.1,+4,.667,1.000
+2021-06-03,202106030POR,POR,Q1,Robert Covington,https://www.basketball-reference.com/boxscores/202106030POR.html,11.3,0,0,,0,0,0,0,1,3,4,0,2,0,2,1,0,1.2,+6,,
+2021-06-03,202106030POR,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202106030POR.html,9.45,2,5,.400,0,1,0,0,1,1,2,2,0,0,0,0,4,3.7,+1,.000,
+2021-06-03,202106030POR,POR,Q1,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202106030POR.html,7.17,0,0,,0,0,1,2,0,1,1,1,0,0,0,0,1,1.6,-2,,.500
+2021-06-03,202106030POR,POR,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202106030POR.html,9.45,2,4,.500,2,3,2,2,0,1,1,0,1,0,1,0,8,6.3,+1,.667,1.000
+2021-06-03,202106030POR,POR,Q1,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202106030POR.html,5.37,1,2,.500,1,1,0,0,0,2,2,0,0,1,1,1,3,1.9,+4,1.000,
+2021-06-03,202106030POR,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/202106030POR.html,2.72,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,+3,1.000,
+2021-06-03,202106030POR,POR,Q1,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202106030POR.html,2.55,1,1,1.000,0,0,0,0,0,0,0,0,1,0,0,1,2,2.3,+3,,
+2021-06-03,202106030POR,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202106030POR.html,7.9,3,4,.750,1,2,0,0,0,1,1,4,1,0,1,1,7,8.1,+3,.500,
+2021-06-03,202106030POR,POR,Q2,Robert Covington,https://www.basketball-reference.com/boxscores/202106030POR.html,6.72,0,0,,0,0,2,2,0,3,3,0,0,0,0,0,2,2.9,+5,,1.000
+2021-06-03,202106030POR,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202106030POR.html,8.38,3,7,.429,1,5,0,0,0,0,0,0,0,0,0,2,7,2.5,+2,.200,
+2021-06-03,202106030POR,POR,Q2,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202106030POR.html,10.5,2,2,1.000,0,0,0,0,0,3,3,1,0,1,3,0,4,2.7,+1,,
+2021-06-03,202106030POR,POR,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202106030POR.html,9.53,2,4,.500,1,1,0,0,0,1,1,1,0,0,0,2,5,3.2,+5,1.000,
+2021-06-03,202106030POR,POR,Q2,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202106030POR.html,5.28,2,3,.667,0,0,0,0,0,1,1,3,0,0,0,0,4,5.1,-2,,
+2021-06-03,202106030POR,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/202106030POR.html,10.18,2,2,1.000,2,2,0,0,0,0,0,0,0,0,0,0,6,5.4,-1,1.000,
+2021-06-03,202106030POR,POR,Q2,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202106030POR.html,1.5,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,+2,,
+2021-06-03,202106030POR,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202106030POR.html,12.0,0,3,.000,0,3,4,4,0,2,2,4,0,0,1,0,4,4.3,-4,.000,1.000
+2021-06-03,202106030POR,POR,Q3,Robert Covington,https://www.basketball-reference.com/boxscores/202106030POR.html,10.53,3,3,1.000,3,3,0,0,1,1,2,0,0,1,0,2,9,9.0,-3,1.000,
+2021-06-03,202106030POR,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202106030POR.html,8.88,3,5,.600,1,2,1,2,0,1,1,1,0,0,0,1,8,5.9,+3,.500,.500
+2021-06-03,202106030POR,POR,Q3,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202106030POR.html,9.98,2,3,.667,0,1,2,2,1,1,2,0,0,1,1,4,6,3.8,+1,.000,1.000
+2021-06-03,202106030POR,POR,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202106030POR.html,6.7,2,3,.667,0,1,0,0,1,1,2,1,0,0,0,2,4,3.6,+4,.000,
+2021-06-03,202106030POR,POR,Q3,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202106030POR.html,4.65,0,2,.000,0,2,2,2,0,1,1,0,0,0,1,0,2,-0.1,-11,.000,1.000
+2021-06-03,202106030POR,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/202106030POR.html,7.25,0,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0.7,-10,,
+2021-06-03,202106030POR,POR,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202106030POR.html,11.48,1,6,.167,0,3,3,3,0,0,0,2,0,0,1,0,5,1.6,-14,.000,1.000
+2021-06-03,202106030POR,POR,Q4,Robert Covington,https://www.basketball-reference.com/boxscores/202106030POR.html,9.87,0,0,,0,0,0,0,0,1,1,0,1,0,0,0,0,1.3,-11,,
+2021-06-03,202106030POR,POR,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202106030POR.html,11.48,1,4,.250,0,0,0,0,0,1,1,0,0,1,1,2,2,-1.2,-14,,
+2021-06-03,202106030POR,POR,Q4,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202106030POR.html,5.72,1,2,.500,0,0,0,0,1,0,1,0,0,0,1,1,2,0.3,-9,,
+2021-06-03,202106030POR,POR,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202106030POR.html,6.58,0,2,.000,0,1,0,0,0,0,0,0,0,0,0,1,0,-1.8,-12,.000,
+2021-06-03,202106030POR,POR,Q4,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202106030POR.html,7.38,2,2,1.000,0,0,1,1,0,1,1,1,0,0,0,1,5,5.0,-8,,1.000
+2021-06-03,202106030POR,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/202106030POR.html,0.52,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2021-06-03,202106030POR,POR,Q4,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/202106030POR.html,5.42,0,1,.000,0,0,0,0,2,0,2,0,0,1,0,0,0,1.4,-2,,
+2021-06-03,202106030POR,POR,Q4,Keljin Blevins,https://www.basketball-reference.com/boxscores/202106030POR.html,0.52,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,.000,
+2021-06-03,202106030POR,POR,Q4,T.J. Leaf,https://www.basketball-reference.com/boxscores/202106030POR.html,0.52,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,
+2021-06-03,202106030POR,POR,Q4,Nassir Little,https://www.basketball-reference.com/boxscores/202106030POR.html,0.52,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-17,202401170LAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202401170LAL.html,36:12,.590,.542,.375,.375,0.0,42.0,19.6,50.8,2.6,4.2,12.5,37.2,117,115,13.9
+2024-01-17,202401170LAL,DAL,Kyrie Irving,https://www.basketball-reference.com/boxscores/202401170LAL.html,32:14,.346,.281,.313,.188,0.0,18.2,8.5,24.8,0.0,0.0,10.4,25.3,83,129,-10.2
+2024-01-17,202401170LAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202401170LAL.html,28:17,.336,.294,.412,.118,7.2,8.3,7.7,5.1,1.7,0.0,18.3,32.6,65,127,-17.9
+2024-01-17,202401170LAL,DAL,Dereck Lively II,https://www.basketball-reference.com/boxscores/202401170LAL.html,28:01,.889,.889,.000,.000,18.2,25.1,21.4,12.1,1.7,0.0,18.2,16.5,149,124,6.4
+2024-01-17,202401170LAL,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202401170LAL.html,26:38,1.333,1.333,.667,.000,3.8,0.0,2.0,0.0,0.0,2.9,0.0,4.7,259,129,2.3
+2024-01-17,202401170LAL,DAL,Grant Williams,https://www.basketball-reference.com/boxscores/202401170LAL.html,25:42,.581,.500,1.000,.333,0.0,13.7,6.4,9.8,0.0,0.0,0.0,11.3,132,129,-2.5
+2024-01-17,202401170LAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202401170LAL.html,21:11,1.000,1.000,1.000,.000,4.8,0.0,2.6,18.1,0.0,7.2,25.0,8.0,153,125,4.3
+2024-01-17,202401170LAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202401170LAL.html,20:09,.500,.500,.714,.000,0.0,0.0,0.0,0.0,0.0,0.0,12.5,16.7,85,132,-9.4
+2024-01-17,202401170LAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202401170LAL.html,6:54,.568,,,,29.6,33.9,31.6,0.0,0.0,0.0,53.2,11.5,98,126,-10.9
+2024-01-17,202401170LAL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202401170LAL.html,5:14,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.1,0,132,-23.2
+2024-01-17,202401170LAL,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202401170LAL.html,4:44,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.9,200,132,0.8
+2024-01-17,202401170LAL,DAL,Brandon Williams,https://www.basketball-reference.com/boxscores/202401170LAL.html,4:44,.833,.833,.667,.000,0.0,24.7,11.5,93.4,0.0,0.0,0.0,26.7,180,128,28.7
+2024-01-17,202401170LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202401170LAL.html,35:58,.694,.675,.350,.100,3.3,8.5,6.1,11.7,0.0,0.0,4.6,26.2,134,115,5.1
+2024-01-17,202401170LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202401170LAL.html,33:03,.729,.706,.000,.294,17.7,21.6,19.8,41.4,1.4,2.8,5.0,26.3,158,106,18.6
+2024-01-17,202401170LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202401170LAL.html,33:02,.629,.605,.368,.105,3.5,21.6,13.2,33.7,1.4,0.0,13.1,29.8,121,108,6.9
+2024-01-17,202401170LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202401170LAL.html,29:30,.875,.875,.250,.000,0.0,10.4,5.5,29.0,1.6,0.0,27.3,16.0,132,111,5.1
+2024-01-17,202401170LAL,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202401170LAL.html,20:30,.441,.375,.375,.625,0.0,5.0,2.7,5.6,0.0,0.0,0.0,21.4,99,116,-12.5
+2024-01-17,202401170LAL,LAL,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202401170LAL.html,25:51,.537,.333,.333,2.667,4.5,31.6,19.0,3.9,1.8,0.0,13.3,12.5,111,104,-3.9
+2024-01-17,202401170LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202401170LAL.html,22:05,.436,.417,.667,.333,5.3,13.9,9.9,4.9,4.3,0.0,0.0,13.4,106,104,-1.3
+2024-01-17,202401170LAL,LAL,Christian Wood,https://www.basketball-reference.com/boxscores/202401170LAL.html,16:34,.200,.200,.600,.000,0.0,12.3,6.6,6.3,2.9,0.0,16.7,15.6,46,107,-11.2
+2024-01-17,202401170LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202401170LAL.html,13:58,1.250,1.250,.500,.000,0.0,14.6,7.8,0.0,0.0,0.0,0.0,6.2,250,113,4.3
+2024-01-17,202401170LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202401170LAL.html,4:44,.000,.000,.000,.000,0.0,0.0,0.0,20.7,10.1,0.0,0.0,9.1,61,94,0.3
+2024-01-17,202401170LAL,LAL,Skylar Mays,https://www.basketball-reference.com/boxscores/202401170LAL.html,4:44,.500,.500,.000,.000,0.0,0.0,0.0,26.1,0.0,0.0,0.0,18.2,121,117,-6.5

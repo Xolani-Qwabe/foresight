@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-11-16,202111160BRK,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202111160BRK.html,29.25,12,19,.632,9,14,.643,4,4,1.000,0,7,7,5,2,1,2,4,37,33.2,+16
+2021-11-16,202111160BRK,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202111160BRK.html,28.72,5,6,.833,1,2,.500,0,0,,0,6,6,8,1,0,3,3,11,13.0,+17
+2021-11-16,202111160BRK,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202111160BRK.html,28.17,6,13,.462,0,7,.000,5,6,.833,0,4,4,4,0,1,5,5,17,7.6,+4
+2021-11-16,202111160BRK,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202111160BRK.html,22.13,7,11,.636,2,3,.667,3,3,1.000,0,2,2,1,0,1,3,4,19,11.5,+10
+2021-11-16,202111160BRK,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202111160BRK.html,14.63,1,2,.500,0,0,,2,2,1.000,1,3,4,0,0,2,0,3,4,4.8,+11
+2021-11-16,202111160BRK,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202111160BRK.html,21.68,1,4,.250,0,2,.000,3,5,.600,0,6,6,1,0,0,1,1,5,2.9,+21
+2021-11-16,202111160BRK,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202111160BRK.html,19.05,2,4,.500,1,2,.500,0,0,,2,2,4,2,0,1,1,0,5,6.1,+10
+2021-11-16,202111160BRK,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202111160BRK.html,18.78,3,6,.500,0,2,.000,1,2,.500,2,4,6,1,0,1,3,4,7,3.0,+5
+2021-11-16,202111160BRK,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202111160BRK.html,17.02,2,6,.333,0,3,.000,2,2,1.000,3,3,6,0,0,0,1,0,6,4.6,+14
+2021-11-16,202111160BRK,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202111160BRK.html,15.97,2,2,1.000,0,0,,2,4,.500,1,4,5,2,1,0,0,2,6,8.1,+14
+2021-11-16,202111160BRK,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202111160BRK.html,11.53,0,3,.000,0,2,.000,0,0,,0,2,2,1,0,0,0,1,0,-1.2,-12
+2021-11-16,202111160BRK,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202111160BRK.html,7.65,0,3,.000,0,3,.000,0,0,,0,0,0,0,0,1,0,0,0,-1.4,-12
+2021-11-16,202111160BRK,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202111160BRK.html,5.42,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,-8
+2021-11-16,202111160BRK,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202111160BRK.html,32.23,6,19,.316,2,6,.333,5,6,.833,1,4,5,3,0,0,2,1,19,9.3,-24
+2021-11-16,202111160BRK,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202111160BRK.html,31.87,3,8,.375,2,5,.400,0,0,,0,2,2,4,1,0,0,2,8,7.2,-14
+2021-11-16,202111160BRK,BRK,James Harden,https://www.basketball-reference.com/boxscores/202111160BRK.html,31.85,6,13,.462,2,6,.333,10,11,.909,0,4,4,4,0,0,5,3,24,14.7,-22
+2021-11-16,202111160BRK,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202111160BRK.html,26.82,6,8,.750,1,1,1.000,1,2,.500,2,3,5,3,3,0,0,4,14,16.2,-16
+2021-11-16,202111160BRK,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202111160BRK.html,22.58,0,4,.000,0,2,.000,4,4,1.000,0,2,2,1,1,0,0,3,4,2.3,-8
+2021-11-16,202111160BRK,BRK,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202111160BRK.html,30.83,4,8,.500,0,1,.000,1,4,.250,2,3,5,1,2,1,0,4,9,7.9,-16
+2021-11-16,202111160BRK,BRK,Jevon Carter,https://www.basketball-reference.com/boxscores/202111160BRK.html,15.95,1,4,.250,1,4,.250,0,0,,0,1,1,1,2,0,0,3,3,2.4,+4
+2021-11-16,202111160BRK,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202111160BRK.html,15.05,2,9,.222,0,5,.000,0,0,,1,1,2,3,2,0,0,1,4,3.2,+1
+2021-11-16,202111160BRK,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202111160BRK.html,9.47,1,3,.333,0,1,.000,0,0,,0,1,1,1,1,0,0,0,2,2.3,-14
+2021-11-16,202111160BRK,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202111160BRK.html,9.07,3,6,.500,2,4,.500,0,0,,1,2,3,0,0,0,1,0,8,5.3,+9
+2021-11-16,202111160BRK,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202111160BRK.html,9.07,2,5,.400,0,1,.000,0,0,,2,5,7,0,0,1,3,1,4,1.5,+9
+2021-11-16,202111160BRK,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202111160BRK.html,5.22,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+1

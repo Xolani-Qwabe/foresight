@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-30,202211300LAL,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202211300LAL.html,38:50,.481,.455,.318,.091,2.6,8.1,5.3,32.0,1.3,0.0,0.0,25.9,118,133,0.5
+2022-11-30,202211300LAL,POR,Justise Winslow,https://www.basketball-reference.com/boxscores/202211300LAL.html,36:18,.955,.955,.273,.000,2.8,11.5,7.1,17.6,0.0,0.0,21.4,16.9,145,135,3.6
+2022-11-30,202211300LAL,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202211300LAL.html,35:10,.527,.478,.217,.261,2.9,8.9,5.9,24.1,2.8,2.3,0.0,32.0,122,128,6.3
+2022-11-30,202211300LAL,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202211300LAL.html,31:39,.376,.250,.125,.750,3.2,29.7,16.3,3.9,1.6,2.5,15.8,17.5,77,124,-10.5
+2022-11-30,202211300LAL,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202211300LAL.html,30:57,.727,.667,.167,.333,9.9,23.6,16.7,4.3,0.0,0.0,22.5,12.6,125,131,-6.3
+2022-11-30,202211300LAL,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202211300LAL.html,27:55,.643,.625,.333,.083,7.3,3.7,5.5,0.0,0.0,0.0,7.4,21.2,124,137,-3.7
+2022-11-30,202211300LAL,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202211300LAL.html,14:29,.250,.250,.250,.000,7.1,28.8,17.8,0.0,0.0,0.0,20.0,15.2,56,129,-19.5
+2022-11-30,202211300LAL,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202211300LAL.html,13:59,.852,,,,7.3,14.9,11.1,16.3,0.0,5.7,0.0,5.5,198,129,1.8
+2022-11-30,202211300LAL,POR,Greg Brown III,https://www.basketball-reference.com/boxscores/202211300LAL.html,8:21,.000,.000,.500,.000,12.2,0.0,6.2,0.0,0.0,19.2,20.0,26.3,17,126,-22.9
+2022-11-30,202211300LAL,POR,John Butler,https://www.basketball-reference.com/boxscores/202211300LAL.html,2:22,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,139,-8.2
+2022-11-30,202211300LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202211300LAL.html,34:55,.814,.800,.500,.800,6.0,8.8,7.4,10.7,1.4,2.1,0.0,16.1,175,113,9.5
+2022-11-30,202211300LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202211300LAL.html,32:30,.802,.833,.444,.167,6.4,15.7,11.1,39.0,0.0,2.2,9.4,27.3,153,114,20.3
+2022-11-30,202211300LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202211300LAL.html,29:08,.644,.559,.118,.529,17.9,24.5,21.3,5.0,1.7,7.5,8.7,32.8,133,103,7.0
+2022-11-30,202211300LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202211300LAL.html,29:05,.403,.429,.000,.143,0.0,3.5,1.8,19.2,0.0,0.0,21.2,13.5,89,120,-11.0
+2022-11-30,202211300LAL,LAL,Patrick Beverley,https://www.basketball-reference.com/boxscores/202211300LAL.html,22:26,.357,.357,.714,.000,0.0,18.2,9.2,0.0,2.2,3.2,0.0,13.0,79,108,-8.0
+2022-11-30,202211300LAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202211300LAL.html,22:54,.336,.357,.429,.143,4.6,17.8,11.3,21.2,2.2,0.0,0.0,27.0,93,110,-5.8
+2022-11-30,202211300LAL,LAL,Thomas Bryant,https://www.basketball-reference.com/boxscores/202211300LAL.html,19:30,.742,.722,.333,.111,5.4,26.2,15.9,22.2,0.0,0.0,0.0,20.1,162,112,8.7
+2022-11-30,202211300LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202211300LAL.html,18:40,.250,.250,.833,.000,0.0,5.5,2.8,5.7,0.0,0.0,0.0,13.4,69,119,-12.7
+2022-11-30,202211300LAL,LAL,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202211300LAL.html,14:12,.333,.333,.333,.000,0.0,7.2,3.6,16.4,0.0,0.0,14.3,20.5,76,118,-15.4
+2022-11-30,202211300LAL,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202211300LAL.html,10:55,1.042,1.000,.000,1.000,19.1,18.7,18.9,0.0,4.5,0.0,0.0,11.0,220,105,11.4
+2022-11-30,202211300LAL,LAL,Damian Jones,https://www.basketball-reference.com/boxscores/202211300LAL.html,1:55,,,,,0.0,53.3,26.9,0.0,0.0,0.0,,0.0,0,105,-3.3
+2022-11-30,202211300LAL,LAL,Matt Ryan,https://www.basketball-reference.com/boxscores/202211300LAL.html,1:55,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.7,0,121,-31.2
+2022-11-30,202211300LAL,LAL,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202211300LAL.html,1:55,,,,,0.0,53.3,26.9,52.2,0.0,0.0,,0.0,229,105,17.3

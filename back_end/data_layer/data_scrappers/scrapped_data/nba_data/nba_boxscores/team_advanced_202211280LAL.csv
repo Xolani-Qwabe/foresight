@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-28,202211280LAL,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202211280LAL.html,35:22,.515,.523,.318,.136,5.3,12.3,9.0,64.6,1.3,2.2,0.0,26.1,131,113,12.4
+2022-11-28,202211280LAL,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202211280LAL.html,34:56,.441,.441,.412,.000,8.1,25.0,16.9,16.5,0.0,6.6,0.0,19.3,109,107,1.5
+2022-11-28,202211280LAL,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202211280LAL.html,31:52,.493,.423,.462,.385,5.9,5.5,5.7,4.2,0.0,0.0,6.2,20.2,105,120,-7.8
+2022-11-28,202211280LAL,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202211280LAL.html,23:47,.678,.375,.750,1.500,0.0,11.0,5.7,9.8,2.0,3.3,23.1,14.4,118,111,-1.0
+2022-11-28,202211280LAL,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202211280LAL.html,23:06,.735,.700,.700,.200,4.1,11.3,7.8,0.0,2.0,3.4,0.0,18.7,146,111,8.0
+2022-11-28,202211280LAL,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202211280LAL.html,31:42,.523,.523,.364,.000,5.9,16.5,11.4,5.4,1.5,0.0,8.3,30.0,98,112,-0.2
+2022-11-28,202211280LAL,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202211280LAL.html,28:46,.750,.750,.875,.000,3.3,9.1,6.3,4.6,1.6,5.4,20.0,13.8,113,112,2.0
+2022-11-28,202211280LAL,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202211280LAL.html,13:04,.167,.167,.333,.000,0.0,20.0,10.4,37.4,3.6,5.9,0.0,18.2,73,102,-2.6
+2022-11-28,202211280LAL,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202211280LAL.html,8:18,.000,.000,.500,.000,11.3,10.5,10.9,13.4,0.0,0.0,0.0,9.6,61,118,-11.9
+2022-11-28,202211280LAL,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202211280LAL.html,3:37,,,,,0.0,24.1,12.5,0.0,0.0,21.4,100.0,11.0,0,98,-20.3
+2022-11-28,202211280LAL,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202211280LAL.html,3:29,,,,,0.0,0.0,0.0,32.0,0.0,0.0,100.0,11.4,45,122,-14.6
+2022-11-28,202211280LAL,IND,James Johnson,https://www.basketball-reference.com/boxscores/202211280LAL.html,2:01,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.7,0,122,-35.4
+2022-11-28,202211280LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202211280LAL.html,36:30,.644,.600,.000,.667,7.2,25.8,16.1,28.0,0.0,9.4,9.3,23.3,135,107,11.1
+2022-11-28,202211280LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202211280LAL.html,36:10,.450,.432,.455,.136,2.4,15.6,8.8,13.6,1.3,0.0,4.1,26.8,103,113,-0.6
+2022-11-28,202211280LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202211280LAL.html,30:29,.515,.417,.667,.667,0.0,9.3,4.5,17.1,1.5,0.0,11.4,11.4,116,115,-3.8
+2022-11-28,202211280LAL,LAL,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202211280LAL.html,28:45,.300,.300,.400,.000,12.1,19.6,15.8,4.4,0.0,3.0,16.7,8.3,94,113,-3.3
+2022-11-28,202211280LAL,LAL,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202211280LAL.html,21:57,.500,.500,.556,.000,8.0,8.6,8.3,14.0,0.0,0.0,10.0,18.1,110,119,-3.8
+2022-11-28,202211280LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202211280LAL.html,31:17,.918,.750,.750,1.750,0.0,6.0,2.9,4.2,0.0,0.0,12.4,10.3,171,120,0.4
+2022-11-28,202211280LAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202211280LAL.html,27:19,.621,.611,.222,.167,0.0,13.8,6.6,47.0,1.7,3.1,23.7,36.9,102,111,5.9
+2022-11-28,202211280LAL,LAL,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202211280LAL.html,13:00,.317,.286,.143,.286,33.6,29.0,31.3,0.0,0.0,6.6,11.3,27.2,90,107,-10.0
+2022-11-28,202211280LAL,LAL,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202211280LAL.html,11:24,.425,.300,.400,.400,0.0,16.5,7.9,0.0,0.0,0.0,0.0,20.5,103,116,-5.9
+2022-11-28,202211280LAL,LAL,Thomas Bryant,https://www.basketball-reference.com/boxscores/202211280LAL.html,3:09,.500,.500,.000,.000,83.1,0.0,43.1,0.0,0.0,0.0,0.0,25.3,148,122,3.5

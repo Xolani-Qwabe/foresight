@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2020-01-28,202001280MEM,DEN,Q1,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.63,2,6,.333,2,3,.667,0,0,1,4,5,1,0,1,3,0,6,2.9,-11,
+2020-01-28,202001280MEM,DEN,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/202001280MEM.html,10.17,0,3,.000,0,0,,0,0,0,2,2,0,1,0,0,1,0,-0.9,-5,
+2020-01-28,202001280MEM,DEN,Q1,Will Barton,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.8,0,2,.000,0,2,.000,2,2,0,0,0,0,0,0,0,0,2,0.6,-3,1.000
+2020-01-28,202001280MEM,DEN,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.8,0,2,.000,0,1,.000,2,2,0,1,1,1,0,0,0,1,2,1.2,-3,1.000
+2020-01-28,202001280MEM,DEN,Q1,Torrey Craig,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.52,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,1,3,1.6,-7,
+2020-01-28,202001280MEM,DEN,Q1,Monte Morris,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.2,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,1,0,3,2.4,-10,
+2020-01-28,202001280MEM,DEN,Q1,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.48,0,2,.000,0,1,.000,0,0,0,1,1,0,2,0,0,0,0,0.9,-6,
+2020-01-28,202001280MEM,DEN,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.2,1,2,.500,0,1,.000,0,0,0,0,0,0,1,0,1,0,2,1.0,-10,
+2020-01-28,202001280MEM,DEN,Q1,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-10,
+2020-01-28,202001280MEM,DEN,Q2,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.23,2,3,.667,0,1,.000,2,2,1,0,1,1,0,0,3,0,6,3.1,-5,1.000
+2020-01-28,202001280MEM,DEN,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.93,2,3,.667,1,2,.500,0,0,0,0,0,1,0,0,0,2,5,3.6,+5,
+2020-01-28,202001280MEM,DEN,Q2,Will Barton,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.23,2,4,.500,1,2,.500,0,0,1,2,3,3,1,0,0,0,5,7.4,-5,
+2020-01-28,202001280MEM,DEN,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.15,2,4,.500,1,2,.500,0,0,0,0,0,0,0,0,0,1,5,2.6,-2,
+2020-01-28,202001280MEM,DEN,Q2,Torrey Craig,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.4,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-4,
+2020-01-28,202001280MEM,DEN,Q2,Monte Morris,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.93,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,1,0,3,2.7,0,
+2020-01-28,202001280MEM,DEN,Q2,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.85,2,4,.500,1,2,.500,0,0,0,1,1,1,0,0,0,0,5,4.0,+2,
+2020-01-28,202001280MEM,DEN,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202001280MEM.html,2.77,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,1,1,0,-1.8,+5,
+2020-01-28,202001280MEM,DEN,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.5,1,5,.200,0,2,.000,1,1,3,0,3,0,0,0,0,1,3,1.6,+4,1.000
+2020-01-28,202001280MEM,DEN,Q3,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001280MEM.html,12.0,2,5,.400,0,1,.000,2,2,0,2,2,2,0,0,2,1,6,2.9,-3,1.000
+2020-01-28,202001280MEM,DEN,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.0,1,2,.500,1,1,1.000,0,0,0,0,0,1,1,0,0,0,3,3.7,-1,
+2020-01-28,202001280MEM,DEN,Q3,Will Barton,https://www.basketball-reference.com/boxscores/202001280MEM.html,8.3,1,3,.333,0,1,.000,0,1,0,2,2,1,0,0,1,0,2,0.2,-3,.000
+2020-01-28,202001280MEM,DEN,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.33,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,2,0,0,-1.7,-3,
+2020-01-28,202001280MEM,DEN,Q3,Torrey Craig,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.92,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-6,
+2020-01-28,202001280MEM,DEN,Q3,Monte Morris,https://www.basketball-reference.com/boxscores/202001280MEM.html,8.08,0,2,.000,0,1,.000,0,0,0,1,1,1,0,0,0,1,0,-0.8,+3,
+2020-01-28,202001280MEM,DEN,Q3,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.67,1,3,.333,1,1,1.000,0,0,2,0,2,0,1,0,0,0,3,3.7,0,
+2020-01-28,202001280MEM,DEN,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.7,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,0,
+2020-01-28,202001280MEM,DEN,Q3,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.0,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-2,
+2020-01-28,202001280MEM,DEN,Q4,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.85,2,2,1.000,1,1,1.000,2,2,1,4,5,1,0,0,0,2,7,8.2,+10,1.000
+2020-01-28,202001280MEM,DEN,Q4,Jerami Grant,https://www.basketball-reference.com/boxscores/202001280MEM.html,12.0,4,9,.444,4,6,.667,1,2,2,0,2,2,0,1,0,1,13,11.0,+8,.500
+2020-01-28,202001280MEM,DEN,Q4,Will Barton,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.58,0,1,.000,0,1,.000,0,0,1,1,2,1,0,1,2,1,0,-0.7,+8,
+2020-01-28,202001280MEM,DEN,Q4,Gary Harris,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.58,1,2,.500,1,1,1.000,0,0,0,2,2,0,0,0,0,0,3,2.6,+8,
+2020-01-28,202001280MEM,DEN,Q4,Torrey Craig,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.68,1,2,.500,0,1,.000,0,0,0,1,1,0,0,1,0,1,2,1.6,+2,
+2020-01-28,202001280MEM,DEN,Q4,Monte Morris,https://www.basketball-reference.com/boxscores/202001280MEM.html,11.63,1,4,.250,0,2,.000,1,2,1,2,3,3,1,0,1,0,3,3.6,+8,.500
+2020-01-28,202001280MEM,DEN,Q4,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.1,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2020-01-28,202001280MEM,DEN,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.6,0,2,.000,0,1,.000,2,2,0,1,1,0,0,0,1,0,2,-0.1,0,1.000
+2020-01-28,202001280MEM,DEN,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.97,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2020-01-28,202001280MEM,MEM,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.63,5,6,.833,0,0,,0,0,1,3,4,0,0,1,0,1,10,9.7,+11,
+2020-01-28,202001280MEM,MEM,Q1,Dillon Brooks,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.8,2,3,.667,0,1,.000,0,0,0,0,0,1,1,1,1,0,4,4.1,+3,
+2020-01-28,202001280MEM,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.88,2,4,.500,1,3,.333,0,0,0,1,1,0,0,2,1,1,5,3.3,+9,
+2020-01-28,202001280MEM,MEM,Q1,Ja Morant,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.52,0,2,.000,0,0,,0,0,0,2,2,2,1,0,0,0,0,1.6,+7,
+2020-01-28,202001280MEM,MEM,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.8,0,2,.000,0,0,,0,0,0,1,1,1,1,1,0,1,0,0.9,+3,
+2020-01-28,202001280MEM,MEM,Q1,Brandon Clarke,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.48,3,4,.750,0,0,,0,0,0,1,1,1,0,0,0,1,6,5.0,+6,
+2020-01-28,202001280MEM,MEM,Q1,Tyus Jones,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.48,0,0,,0,0,,0,0,0,1,1,4,0,0,0,0,0,3.1,+6,
+2020-01-28,202001280MEM,MEM,Q1,Solomon Hill,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.2,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,1,0,3,2.7,+10,
+2020-01-28,202001280MEM,MEM,Q1,Marko Gudurić,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.2,1,1,1.000,1,1,1.000,0,0,0,2,2,1,1,0,1,0,3,4.0,+10,
+2020-01-28,202001280MEM,MEM,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.48,1,2,.500,0,0,,0,0,1,0,1,2,1,0,0,0,2,4.1,+6,
+2020-01-28,202001280MEM,MEM,Q2,Dillon Brooks,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.32,6,9,.667,1,1,1.000,1,1,0,1,1,1,0,0,0,0,14,11.1,+3,1.000
+2020-01-28,202001280MEM,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.82,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0,0,-1.3,-6,
+2020-01-28,202001280MEM,MEM,Q2,Ja Morant,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.75,1,2,.500,0,0,,0,2,0,1,1,3,2,0,0,1,2,4.2,-4,.000
+2020-01-28,202001280MEM,MEM,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.97,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,2,2,1.2,0,
+2020-01-28,202001280MEM,MEM,Q2,Brandon Clarke,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.55,2,3,.667,0,0,,0,0,2,2,4,1,0,0,0,0,4,5.4,+8,
+2020-01-28,202001280MEM,MEM,Q2,Tyus Jones,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.55,0,1,.000,0,0,,0,0,0,1,1,2,1,0,2,0,0,0.0,+4,
+2020-01-28,202001280MEM,MEM,Q2,Solomon Hill,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.33,1,1,1.000,0,0,,2,3,0,2,2,0,0,0,0,0,4,3.9,-6,.667
+2020-01-28,202001280MEM,MEM,Q2,Marko Gudurić,https://www.basketball-reference.com/boxscores/202001280MEM.html,1.38,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-3,
+2020-01-28,202001280MEM,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.85,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,1,2,0.6,-2,
+2020-01-28,202001280MEM,MEM,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202001280MEM.html,8.45,2,4,.500,0,0,,0,0,0,3,3,0,0,0,0,2,4,2.1,+1,
+2020-01-28,202001280MEM,MEM,Q3,Dillon Brooks,https://www.basketball-reference.com/boxscores/202001280MEM.html,8.3,3,6,.500,0,2,.000,0,0,0,0,0,0,0,0,0,1,6,2.6,+3,
+2020-01-28,202001280MEM,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,9.1,1,4,.250,0,3,.000,0,0,0,1,1,1,0,1,0,0,2,1.3,+5,
+2020-01-28,202001280MEM,MEM,Q3,Ja Morant,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.55,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,1,0,2,1.0,+3,
+2020-01-28,202001280MEM,MEM,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202001280MEM.html,8.3,0,0,,0,0,,0,0,0,2,2,2,2,0,2,0,0,2.0,+3,
+2020-01-28,202001280MEM,MEM,Q3,Brandon Clarke,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.8,1,1,1.000,0,0,,0,0,0,1,1,0,0,1,0,0,2,2.7,-3,
+2020-01-28,202001280MEM,MEM,Q3,Tyus Jones,https://www.basketball-reference.com/boxscores/202001280MEM.html,6.45,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.7,0,
+2020-01-28,202001280MEM,MEM,Q3,Solomon Hill,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.7,0,0,,0,0,,0,0,0,0,0,1,0,0,1,0,0,-0.3,0,
+2020-01-28,202001280MEM,MEM,Q3,Marko Gudurić,https://www.basketball-reference.com/boxscores/202001280MEM.html,3.7,0,1,.000,0,1,.000,0,0,0,2,2,0,1,0,1,0,0,-0.1,0,
+2020-01-28,202001280MEM,MEM,Q3,John Konchar,https://www.basketball-reference.com/boxscores/202001280MEM.html,0.65,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,
+2020-01-28,202001280MEM,MEM,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202001280MEM.html,8.02,3,7,.429,0,0,,1,3,2,2,4,1,0,0,0,2,7,4.4,-12,.333
+2020-01-28,202001280MEM,MEM,Q4,Dillon Brooks,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.25,0,1,.000,0,0,,0,3,0,0,0,1,0,0,1,1,0,-2.6,-5,.000
+2020-01-28,202001280MEM,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.9,1,2,.500,1,2,.500,0,0,0,0,0,0,0,3,0,0,3,4.1,-3,
+2020-01-28,202001280MEM,MEM,Q4,Ja Morant,https://www.basketball-reference.com/boxscores/202001280MEM.html,12.0,4,6,.667,0,0,,2,2,0,2,2,2,1,0,2,1,10,8.0,-8,1.000
+2020-01-28,202001280MEM,MEM,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202001280MEM.html,7.25,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-5,
+2020-01-28,202001280MEM,MEM,Q4,Brandon Clarke,https://www.basketball-reference.com/boxscores/202001280MEM.html,2.18,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2020-01-28,202001280MEM,MEM,Q4,Tyus Jones,https://www.basketball-reference.com/boxscores/202001280MEM.html,0.02,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2020-01-28,202001280MEM,MEM,Q4,Solomon Hill,https://www.basketball-reference.com/boxscores/202001280MEM.html,5.88,0,0,,0,0,,0,0,0,0,0,2,0,0,0,1,0,1.0,-2,
+2020-01-28,202001280MEM,MEM,Q4,Marko Gudurić,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.75,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,2,0,-0.8,-3,
+2020-01-28,202001280MEM,MEM,Q4,John Konchar,https://www.basketball-reference.com/boxscores/202001280MEM.html,4.75,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,

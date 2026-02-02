@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-25,202104250WAS,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202104250WAS.html,39:41,.618,.550,.400,.300,0.0,13.1,6.6,37.4,1.3,0.0,20.9,32.1,111,126,0.1
+2021-04-25,202104250WAS,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202104250WAS.html,37:13,.738,.708,.500,.167,0.0,7.0,3.5,20.8,1.3,0.0,13.4,17.8,134,127,2.5
+2021-04-25,202104250WAS,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202104250WAS.html,34:20,.846,.833,.000,.750,27.2,18.9,23.0,10.7,2.9,7.2,15.8,24.5,150,116,13.3
+2021-04-25,202104250WAS,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202104250WAS.html,27:31,.667,.667,.333,.000,0.0,23.6,11.9,5.6,1.8,0.0,18.2,17.8,104,122,-0.3
+2021-04-25,202104250WAS,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202104250WAS.html,27:28,.519,.429,.286,.857,4.9,4.7,4.8,10.1,0.0,0.0,9.4,17.2,112,130,-8.3
+2021-04-25,202104250WAS,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202104250WAS.html,22:31,.317,.286,.429,.286,5.9,34.6,20.4,29.8,0.0,0.0,20.2,19.5,85,123,-8.8
+2021-04-25,202104250WAS,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202104250WAS.html,17:43,.500,.500,.600,.000,0.0,7.3,3.7,7.8,0.0,4.7,0.0,12.5,113,126,-5.9
+2021-04-25,202104250WAS,CLE,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202104250WAS.html,13:40,.500,.500,.000,.000,0.0,9.5,4.8,10.7,0.0,0.0,33.3,19.5,70,129,-15.1
+2021-04-25,202104250WAS,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202104250WAS.html,8:36,,,,,0.0,0.0,0.0,14.0,0.0,0.0,100.0,5.2,48,132,-8.6
+2021-04-25,202104250WAS,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202104250WAS.html,6:09,.000,.000,1.000,.000,21.7,21.1,21.4,19.5,0.0,0.0,0.0,7.2,102,127,-3.0
+2021-04-25,202104250WAS,CLE,Brodric Thomas,https://www.basketball-reference.com/boxscores/202104250WAS.html,5:08,.000,.000,1.000,.000,0.0,25.3,12.8,0.0,0.0,0.0,0.0,8.7,0,126,-13.9
+2021-04-25,202104250WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202104250WAS.html,38:35,.619,.583,.167,.250,10.1,10.4,10.2,13.9,1.3,0.0,7.0,32.3,127,119,2.1
+2021-04-25,202104250WAS,WAS,Russell Westbrook,https://www.basketball-reference.com/boxscores/202104250WAS.html,35:43,.435,.385,.154,.538,0.0,18.7,9.2,40.7,2.8,0.0,19.9,24.4,98,114,-3.0
+2021-04-25,202104250WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202104250WAS.html,28:18,.595,.500,.300,.400,0.0,4.7,2.3,4.7,1.8,0.0,0.0,18.1,133,120,-1.6
+2021-04-25,202104250WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202104250WAS.html,13:59,.625,.625,.750,.000,0.0,9.5,4.7,9.5,0.0,0.0,20.0,15.5,104,122,-8.4
+2021-04-25,202104250WAS,WAS,Alex Len,https://www.basketball-reference.com/boxscores/202104250WAS.html,10:20,1.000,1.000,.000,.000,0.0,25.8,12.7,12.1,0.0,0.0,50.0,8.4,100,119,-7.0
+2021-04-25,202104250WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202104250WAS.html,34:12,.375,.375,.833,.000,0.0,15.6,7.7,3.6,0.0,0.0,0.0,15.3,88,121,-9.5
+2021-04-25,202104250WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202104250WAS.html,26:45,.721,.714,.000,.429,4.8,24.9,14.7,10.5,7.5,14.1,0.0,13.5,158,94,13.4
+2021-04-25,202104250WAS,WAS,Garrison Mathews,https://www.basketball-reference.com/boxscores/202104250WAS.html,22:46,.680,.600,1.000,.400,11.4,5.9,8.7,0.0,4.4,0.0,0.0,11.2,156,113,0.1
+2021-04-25,202104250WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/202104250WAS.html,18:27,.500,.500,.500,.000,14.1,7.2,10.7,29.6,2.7,10.2,11.1,21.2,120,111,7.0
+2021-04-25,202104250WAS,WAS,Robin Lopez,https://www.basketball-reference.com/boxscores/202104250WAS.html,10:55,1.036,1.000,.000,.800,23.8,36.6,30.1,20.9,0.0,0.0,12.9,30.9,183,117,23.9

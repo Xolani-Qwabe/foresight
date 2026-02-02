@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-26,202104260SAC,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202104260SAC.html,37:54,.530,.500,.600,.300,0.0,27.4,11.8,30.8,0.0,0.0,15.0,31.2,106,124,-0.4
+2021-04-26,202104260SAC,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202104260SAC.html,33:00,.556,.556,.778,.000,11.9,11.8,11.8,15.6,3.2,2.8,10.0,13.4,130,119,3.8
+2021-04-26,202104260SAC,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202104260SAC.html,28:53,.475,.475,.600,.000,0.0,4.5,1.9,11.2,0.0,0.0,0.0,30.7,106,130,-5.5
+2021-04-26,202104260SAC,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202104260SAC.html,12:41,.512,.500,.000,.500,7.7,30.7,17.6,0.0,0.0,0.0,17.0,20.6,93,123,-12.2
+2021-04-26,202104260SAC,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202104260SAC.html,9:42,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,9.2,77,131,-10.1
+2021-04-26,202104260SAC,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202104260SAC.html,28:13,.679,.679,.500,.000,3.5,4.6,4.0,28.9,3.7,0.0,0.0,22.0,151,122,12.5
+2021-04-26,202104260SAC,DAL,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202104260SAC.html,26:47,.546,.667,.000,.500,11.0,19.4,14.6,0.0,5.8,3.4,12.0,13.8,105,111,-0.8
+2021-04-26,202104260SAC,DAL,Nicolò Melli,https://www.basketball-reference.com/boxscores/202104260SAC.html,20:26,.000,.000,.667,.000,9.6,25.4,16.4,5.5,2.5,0.0,25.0,8.7,48,119,-10.7
+2021-04-26,202104260SAC,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202104260SAC.html,17:43,.371,.333,.222,.111,5.5,0.0,3.2,23.3,0.0,0.0,0.0,23.6,103,131,-6.8
+2021-04-26,202104260SAC,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202104260SAC.html,16:09,.500,.500,.000,.000,6.1,16.1,10.4,7.4,3.2,0.0,0.0,5.5,138,120,-1.7
+2021-04-26,202104260SAC,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202104260SAC.html,8:32,1.025,1.000,.000,.500,11.5,0.0,6.5,0.0,0.0,0.0,17.0,30.6,161,131,12.0
+2021-04-26,202104260SAC,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202104260SAC.html,36:13,.438,.438,.563,.000,0.0,13.5,7.7,38.9,4.3,0.0,20.0,25.3,100,110,-0.2
+2021-04-26,202104260SAC,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202104260SAC.html,35:04,.798,.500,.500,2.000,0.0,11.2,6.4,3.4,3.0,0.0,21.0,6.2,140,113,-0.7
+2021-04-26,202104260SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202104260SAC.html,30:37,.621,.583,.583,.167,0.0,16.0,9.1,22.9,1.7,0.0,13.4,22.2,125,114,4.1
+2021-04-26,202104260SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202104260SAC.html,25:28,.820,.750,.000,.500,10.2,15.4,13.1,0.0,0.0,11.3,12.0,29.9,147,111,8.1
+2021-04-26,202104260SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202104260SAC.html,23:44,.873,.850,.400,.200,5.5,20.6,14.1,14.5,0.0,0.0,8.4,22.9,164,117,13.4
+2021-04-26,202104260SAC,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202104260SAC.html,22:32,.633,.600,.000,.600,23.0,13.0,17.3,6.0,0.0,0.0,24.0,16.9,120,119,-5.0
+2021-04-26,202104260SAC,SAC,Delon Wright,https://www.basketball-reference.com/boxscores/202104260SAC.html,21:50,.371,.389,.111,.111,17.8,13.5,15.3,6.2,0.0,0.0,17.5,24.0,85,119,-11.2
+2021-04-26,202104260SAC,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202104260SAC.html,19:12,1.000,1.000,.500,.000,0.0,10.2,5.8,7.2,0.0,5.0,20.0,11.9,149,117,5.8
+2021-04-26,202104260SAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202104260SAC.html,14:16,.750,.750,.500,.000,0.0,20.6,11.7,0.0,0.0,0.0,0.0,19.2,149,115,0.5
+2021-04-26,202104260SAC,SAC,Kyle Guy,https://www.basketball-reference.com/boxscores/202104260SAC.html,11:04,.200,.200,.400,.000,11.7,8.9,10.1,23.0,0.0,0.0,16.7,24.8,70,120,-17.4

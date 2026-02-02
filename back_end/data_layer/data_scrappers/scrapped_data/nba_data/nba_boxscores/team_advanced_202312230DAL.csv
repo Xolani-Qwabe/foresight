@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-12-23,202312230DAL,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202312230DAL.html,30:21,.314,.231,.462,.231,0.0,0.0,0.0,20.1,0.0,0.0,0.0,19.1,84,142,-14.9
+2023-12-23,202312230DAL,SAS,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202312230DAL.html,29:53,.681,.688,.375,.125,6.6,25.0,15.4,21.7,0.0,0.0,15.1,26.9,114,136,0.6
+2023-12-23,202312230DAL,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202312230DAL.html,28:03,.700,.700,.400,.000,3.5,15.2,9.1,20.3,3.2,6.2,16.7,17.3,119,126,2.5
+2023-12-23,202312230DAL,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202312230DAL.html,24:20,.524,.500,.364,.091,0.0,13.2,6.3,23.1,0.0,0.0,8.0,20.7,105,139,-8.0
+2023-12-23,202312230DAL,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202312230DAL.html,21:28,.872,.833,.667,.333,0.0,24.8,11.9,6.4,2.1,0.0,0.0,13.0,168,131,3.9
+2023-12-23,202312230DAL,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202312230DAL.html,23:02,.450,.438,.500,.250,8.5,13.9,11.1,13.2,0.0,0.0,10.1,34.7,88,139,-11.9
+2023-12-23,202312230DAL,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202312230DAL.html,17:51,.563,.563,.500,.000,0.0,6.0,2.9,32.4,0.0,0.0,11.1,20.4,110,140,-6.7
+2023-12-23,202312230DAL,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202312230DAL.html,14:33,.810,.750,.500,1.000,20.2,14.7,17.5,32.1,0.0,6.0,10.4,26.8,159,134,13.9
+2023-12-23,202312230DAL,SAS,Sidy Cissoko,https://www.basketball-reference.com/boxscores/202312230DAL.html,14:23,.258,.000,.667,.667,0.0,22.2,10.7,0.0,6.2,0.0,0.0,10.9,58,122,-11.1
+2023-12-23,202312230DAL,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202312230DAL.html,11:59,.644,.667,.000,.667,0.0,8.9,4.3,33.4,11.1,0.0,0.0,13.1,148,113,11.1
+2023-12-23,202312230DAL,SAS,Cedi Osman,https://www.basketball-reference.com/boxscores/202312230DAL.html,9:48,.500,.500,.667,.000,0.0,0.0,0.0,25.1,4.5,0.0,0.0,12.4,120,131,-0.3
+2023-12-23,202312230DAL,SAS,Devonte' Graham,https://www.basketball-reference.com/boxscores/202312230DAL.html,8:19,.000,.000,.667,.000,0.0,64.1,30.7,0.0,0.0,0.0,0.0,14.6,0,127,-23.4
+2023-12-23,202312230DAL,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202312230DAL.html,6:00,.000,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.9,0,142,-19.4
+2023-12-23,202312230DAL,DAL,Dante Exum,https://www.basketball-reference.com/boxscores/202312230DAL.html,31:57,.919,.900,.200,.200,6.7,15.3,11.2,15.0,0.0,2.8,21.6,17.2,151,113,3.9
+2023-12-23,202312230DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202312230DAL.html,31:37,.612,.574,.370,.407,6.7,31.0,19.4,47.1,1.4,2.9,5.9,42.4,137,107,13.7
+2023-12-23,202312230DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202312230DAL.html,30:21,.575,.575,.550,.000,0.0,19.4,10.1,12.6,0.0,0.0,0.0,26.1,126,115,-1.5
+2023-12-23,202312230DAL,DAL,Grant Williams,https://www.basketball-reference.com/boxscores/202312230DAL.html,24:57,.875,.875,.750,.000,0.0,7.9,4.1,13.6,0.0,3.6,11.1,14.3,159,114,5.0
+2023-12-23,202312230DAL,DAL,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202312230DAL.html,24:20,.786,.786,.714,.000,8.8,8.1,8.4,4.5,0.0,0.0,0.0,11.4,171,117,0.6
+2023-12-23,202312230DAL,DAL,A.J. Lawson,https://www.basketball-reference.com/boxscores/202312230DAL.html,30:35,.850,.850,.400,.000,10.5,12.8,11.7,11.5,2.9,0.0,9.1,14.2,167,109,7.4
+2023-12-23,202312230DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202312230DAL.html,22:10,1.036,1.000,.000,.800,9.6,8.8,9.2,5.3,2.0,4.1,0.0,12.1,220,109,6.7
+2023-12-23,202312230DAL,DAL,Jaden Hardy,https://www.basketball-reference.com/boxscores/202312230DAL.html,21:55,.342,.214,.571,.571,0.0,26.8,14.0,4.4,6.1,0.0,0.0,15.8,87,99,-5.1
+2023-12-23,202312230DAL,DAL,Olivier-Maxence Prosper,https://www.basketball-reference.com/boxscores/202312230DAL.html,12:00,.000,.000,.333,.000,0.0,16.3,8.5,0.0,0.0,0.0,0.0,9.9,0,115,-19.1
+2023-12-23,202312230DAL,DAL,Dexter Dennis,https://www.basketball-reference.com/boxscores/202312230DAL.html,5:32,.000,.000,1.000,.000,0.0,35.4,18.5,0.0,0.0,16.4,60.0,35.8,0,99,-40.2
+2023-12-23,202312230DAL,DAL,Greg Brown III,https://www.basketball-reference.com/boxscores/202312230DAL.html,4:36,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,19.7,66.7,25.8,0,103,-32.4

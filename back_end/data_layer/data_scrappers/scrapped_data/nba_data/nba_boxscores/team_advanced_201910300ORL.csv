@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-10-30,201910300ORL,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/201910300ORL.html,36:40,.559,.538,.154,.231,8.2,19.1,13.6,42.0,0.0,2.3,17.3,22.3,109,109,4.9
+2019-10-30,201910300ORL,NYK,Marcus Morris,https://www.basketball-reference.com/boxscores/201910300ORL.html,31:19,.341,.227,.455,.455,3.2,12.8,8.0,0.0,1.8,10.9,18.5,24.4,62,103,-6.1
+2019-10-30,201910300ORL,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/201910300ORL.html,30:45,.379,.409,.364,.182,0.0,6.5,3.3,12.6,0.0,0.0,14.4,21.3,69,117,-10.5
+2019-10-30,201910300ORL,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/201910300ORL.html,19:28,.773,.667,.000,.667,10.3,15.4,12.8,23.3,0.0,13.2,0.0,18.8,168,104,18.8
+2019-10-30,201910300ORL,NYK,Wayne Ellington,https://www.basketball-reference.com/boxscores/201910300ORL.html,19:10,.118,.125,.625,.125,0.0,10.4,5.2,0.0,0.0,0.0,0.0,20.8,26,115,-20.9
+2019-10-30,201910300ORL,NYK,Frank Ntilikina,https://www.basketball-reference.com/boxscores/201910300ORL.html,29:17,.438,.438,.375,.000,3.4,10.2,6.8,25.1,0.0,0.0,0.0,12.9,109,115,-3.1
+2019-10-30,201910300ORL,NYK,Bobby Portis,https://www.basketball-reference.com/boxscores/201910300ORL.html,29:03,.545,.545,.636,.000,6.9,27.5,17.2,0.0,0.0,0.0,0.0,17.9,113,107,0.8
+2019-10-30,201910300ORL,NYK,Kevin Knox,https://www.basketball-reference.com/boxscores/201910300ORL.html,22:30,.460,.400,.500,.200,4.4,8.9,6.7,17.3,0.0,3.8,8.4,24.9,95,113,1.1
+2019-10-30,201910300ORL,NYK,Damyean Dotson,https://www.basketball-reference.com/boxscores/201910300ORL.html,13:04,.758,,,,0.0,15.3,7.7,23.7,0.0,0.0,43.1,8.4,109,113,-5.0
+2019-10-30,201910300ORL,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/201910300ORL.html,8:44,.500,.500,.000,.000,0.0,11.5,5.7,0.0,0.0,9.8,20.0,27.0,72,108,-6.4
+2019-10-30,201910300ORL,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/201910300ORL.html,33:51,.560,.529,.235,.235,11.8,26.6,19.2,22.1,1.6,2.8,5.1,27.9,125,90,10.4
+2019-10-30,201910300ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/201910300ORL.html,31:40,.727,.667,.167,.333,3.2,18.9,11.1,19.6,0.0,8.9,22.5,13.4,126,93,6.8
+2019-10-30,201910300ORL,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/201910300ORL.html,28:10,.577,.577,.462,.000,10.7,28.4,19.5,6.4,2.0,3.3,0.0,22.1,129,88,7.9
+2019-10-30,201910300ORL,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/201910300ORL.html,28:09,.543,.500,.333,.167,0.0,10.7,5.3,18.0,2.0,0.0,7.2,23.6,113,97,2.5
+2019-10-30,201910300ORL,ORL,D.J. Augustin,https://www.basketball-reference.com/boxscores/201910300ORL.html,27:52,.417,.417,.667,.000,0.0,3.6,1.8,35.9,0.0,0.0,0.0,10.3,130,104,-2.6
+2019-10-30,201910300ORL,ORL,Al-Farouq Aminu,https://www.basketball-reference.com/boxscores/201910300ORL.html,25:47,.455,.444,.333,.222,7.8,23.3,15.5,5.9,0.0,3.7,9.2,20.2,98,94,-2.5
+2019-10-30,201910300ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/201910300ORL.html,22:19,.100,.100,.600,.000,4.5,0.0,2.2,12.3,0.0,0.0,0.0,21.4,45,104,-22.0
+2019-10-30,201910300ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/201910300ORL.html,20:08,.509,.500,.167,.333,0.0,5.0,2.5,8.0,2.7,0.0,22.5,21.1,81,97,-10.3
+2019-10-30,201910300ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/201910300ORL.html,14:09,.643,.643,.286,.000,7.1,14.1,10.6,0.0,0.0,0.0,0.0,23.7,130,100,3.3
+2019-10-30,201910300ORL,ORL,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/201910300ORL.html,7:55,.750,.750,.500,.000,25.3,25.3,25.3,19.6,7.0,0.0,0.0,12.1,179,81,20.1

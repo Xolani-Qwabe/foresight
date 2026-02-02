@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-11-08,202311080CHI,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202311080CHI.html,42:20,.626,.500,.313,.563,2.9,15.0,9.4,38.5,2.4,2.0,23.1,26.6,116,107,3.4
+2023-11-08,202311080CHI,PHO,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202311080CHI.html,38:03,.536,.500,.125,.375,25.9,25.1,25.5,41.5,2.6,0.0,24.4,28.1,109,105,0.7
+2023-11-08,202311080CHI,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202311080CHI.html,36:57,.813,.813,.813,.000,0.0,22.9,12.3,22.9,1.3,4.6,5.9,20.0,147,105,14.0
+2023-11-08,202311080CHI,PHO,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202311080CHI.html,31:16,.717,.750,1.000,.500,3.9,13.6,9.1,14.7,1.6,8.1,0.0,6.8,164,104,6.2
+2023-11-08,202311080CHI,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202311080CHI.html,23:33,.472,.375,.500,.333,0.0,18.0,9.7,28.8,0.0,3.6,12.7,29.1,103,110,-2.1
+2023-11-08,202311080CHI,PHO,Eric Gordon,https://www.basketball-reference.com/boxscores/202311080CHI.html,25:15,.111,.111,.889,.000,0.0,4.2,2.3,11.7,0.0,0.0,25.0,20.6,32,116,-24.7
+2023-11-08,202311080CHI,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202311080CHI.html,18:23,.509,.500,.333,.333,13.4,0.0,6.2,0.0,2.7,0.0,0.0,16.3,117,111,-4.9
+2023-11-08,202311080CHI,PHO,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202311080CHI.html,17:53,.600,.600,1.000,.000,0.0,29.6,15.9,0.0,0.0,4.7,37.5,19.4,62,106,-8.9
+2023-11-08,202311080CHI,PHO,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202311080CHI.html,16:56,.600,.600,.600,.000,7.3,6.3,6.7,0.0,0.0,0.0,0.0,12.8,126,116,-3.6
+2023-11-08,202311080CHI,PHO,Drew Eubanks,https://www.basketball-reference.com/boxscores/202311080CHI.html,14:20,1.064,1.000,.000,2.000,0.0,22.2,11.9,21.6,0.0,11.7,0.0,5.7,234,102,8.9
+2023-11-08,202311080CHI,PHO,Bol Bol,https://www.basketball-reference.com/boxscores/202311080CHI.html,0:00,,,,,,,,,,,,,,,-9.8
+2023-11-08,202311080CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202311080CHI.html,41:21,.640,.632,.263,.158,5.1,11.9,8.3,13.8,1.2,3.1,9.0,23.8,118,114,1.5
+2023-11-08,202311080CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202311080CHI.html,40:43,.684,.654,.462,.538,2.6,21.2,11.2,31.7,1.2,0.0,15.7,20.7,126,112,5.2
+2023-11-08,202311080CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202311080CHI.html,39:54,.443,.325,.200,.550,0.0,6.2,2.9,27.3,1.2,6.3,7.5,29.7,98,115,-2.0
+2023-11-08,202311080CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202311080CHI.html,37:12,.393,.393,.357,.000,2.8,19.9,10.7,24.5,4.0,3.4,12.5,19.0,88,104,-2.1
+2023-11-08,202311080CHI,CHI,Torrey Craig,https://www.basketball-reference.com/boxscores/202311080CHI.html,19:34,.000,.000,.667,.000,0.0,12.6,5.8,6.4,2.5,0.0,0.0,6.8,22,111,-12.2
+2023-11-08,202311080CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202311080CHI.html,30:53,.962,1.000,.556,.222,3.4,12.0,7.4,11.4,4.8,8.2,9.2,15.5,158,103,16.0
+2023-11-08,202311080CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202311080CHI.html,20:51,.214,.214,.286,.000,5.1,17.7,10.9,6.4,2.4,0.0,12.5,16.9,54,110,-11.2
+2023-11-08,202311080CHI,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202311080CHI.html,13:01,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,9.7,0.0,27.1,93,118,-3.3
+2023-11-08,202311080CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202311080CHI.html,11:39,1.000,1.000,.000,.000,9.1,21.2,14.7,12.1,4.3,0.0,66.7,11.4,79,104,-6.1
+2023-11-08,202311080CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202311080CHI.html,9:52,.500,.500,.000,.000,21.5,12.5,17.3,14.7,0.0,0.0,33.3,13.4,104,118,-5.8

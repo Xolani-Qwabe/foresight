@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-21,202002210UTA,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202002210UTA.html,35:31,.503,.471,.000,.118,0.0,14.4,7.1,32.4,0.0,2.8,14.4,26.0,98,108,-2.8
+2020-02-21,202002210UTA,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202002210UTA.html,34:42,.409,.382,.176,.176,8.6,14.7,11.6,17.5,1.4,2.8,0.0,23.4,101,105,-2.5
+2020-02-21,202002210UTA,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202002210UTA.html,34:26,.681,.656,.063,.125,2.9,17.8,10.3,21.4,5.5,0.0,5.6,23.0,133,98,11.0
+2020-02-21,202002210UTA,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202002210UTA.html,29:09,.583,.583,.333,.000,0.0,21.0,10.4,4.7,1.6,0.0,14.3,10.6,98,106,-4.0
+2020-02-21,202002210UTA,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202002210UTA.html,25:26,.825,.857,.857,.286,0.0,20.1,9.9,5.8,3.7,0.0,0.0,13.7,155,101,8.8
+2020-02-21,202002210UTA,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202002210UTA.html,20:18,.533,.364,.545,.636,0.0,5.0,2.5,0.0,0.0,0.0,6.6,32.9,103,112,-9.4
+2020-02-21,202002210UTA,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202002210UTA.html,19:35,.735,.583,.333,1.333,5.1,10.4,7.7,15.0,4.8,5.0,0.0,21.5,160,96,14.9
+2020-02-21,202002210UTA,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202002210UTA.html,15:06,.333,.333,.000,.000,6.6,20.3,13.4,9.4,0.0,0.0,0.0,17.6,85,110,-8.8
+2020-02-21,202002210UTA,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202002210UTA.html,13:17,.000,.000,.000,.000,7.5,46.1,26.6,18.1,7.1,29.5,0.0,6.7,76,66,14.5
+2020-02-21,202002210UTA,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202002210UTA.html,12:29,.515,.333,.000,.667,0.0,16.4,8.1,0.0,0.0,0.0,0.0,13.8,109,110,-7.6
+2020-02-21,202002210UTA,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202002210UTA.html,37:59,.812,.875,.000,.875,2.7,34.2,18.6,9.7,0.0,1.8,31.1,18.4,105,111,-0.3
+2020-02-21,202002210UTA,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202002210UTA.html,32:33,.466,.308,.308,.538,6.3,12.3,9.3,4.8,1.5,0.0,15.7,25.5,88,114,-5.2
+2020-02-21,202002210UTA,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202002210UTA.html,32:04,.429,.429,.429,.000,0.0,3.1,1.6,21.8,0.0,0.0,6.7,20.3,87,119,-6.0
+2020-02-21,202002210UTA,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202002210UTA.html,30:00,.368,.350,.400,.200,0.0,10.0,5.1,37.1,0.0,0.0,15.5,18.7,84,117,-7.6
+2020-02-21,202002210UTA,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202002210UTA.html,25:03,.507,.438,.625,.250,4.1,27.9,16.1,19.7,1.9,5.4,0.0,15.4,117,103,7.8
+2020-02-21,202002210UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202002210UTA.html,34:33,.563,.500,.583,.250,0.0,5.8,2.9,14.9,1.4,2.0,18.4,20.5,94,113,-1.6
+2020-02-21,202002210UTA,UTA,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/202002210UTA.html,17:44,.738,.650,.300,.500,5.8,22.6,14.2,43.3,2.7,3.8,7.6,32.4,140,104,19.8
+2020-02-21,202002210UTA,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202002210UTA.html,15:27,.900,.900,.800,.000,0.0,32.4,16.4,24.2,0.0,0.0,16.7,16.9,133,113,11.4
+2020-02-21,202002210UTA,UTA,Tony Bradley,https://www.basketball-reference.com/boxscores/202002210UTA.html,10:01,.000,.000,.000,.000,10.2,10.0,10.1,0.0,0.0,6.7,33.3,13.0,26,110,-17.7
+2020-02-21,202002210UTA,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/202002210UTA.html,1:32,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-6.3
+2020-02-21,202002210UTA,UTA,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202002210UTA.html,1:32,,,,,0.0,65.2,33.0,0.0,0.0,0.0,,0.0,0,107,-1.7
+2020-02-21,202002210UTA,UTA,Justin Wright-Foreman,https://www.basketball-reference.com/boxscores/202002210UTA.html,1:32,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-7.4

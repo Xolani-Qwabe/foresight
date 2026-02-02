@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-02,202212020GSW,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202212020GSW.html,35:50,.543,.528,.389,.167,2.7,17.9,10.0,12.4,2.5,0.0,13.4,25.9,95,108,0.1
+2022-12-02,202212020GSW,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212020GSW.html,35:45,.422,.267,.000,.600,2.7,14.9,8.6,25.0,0.0,0.0,5.0,23.2,100,114,-3.2
+2022-12-02,202212020GSW,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212020GSW.html,32:11,.613,.588,.412,.235,0.0,36.5,17.5,5.0,4.1,0.0,5.1,25.5,111,101,8.6
+2022-12-02,202212020GSW,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202212020GSW.html,27:51,.250,.250,.750,.000,0.0,0.0,0.0,25.1,1.6,0.0,20.0,7.5,85,113,-3.5
+2022-12-02,202212020GSW,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202212020GSW.html,22:44,.674,.714,.143,.857,0.0,18.8,9.0,6.5,2.0,5.7,9.4,19.4,118,106,4.6
+2022-12-02,202212020GSW,CHI,Goran Dragić,https://www.basketball-reference.com/boxscores/202212020GSW.html,23:18,.636,.636,.182,.000,4.2,13.7,8.8,33.6,0.0,0.0,0.0,19.6,135,114,6.4
+2022-12-02,202212020GSW,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212020GSW.html,20:55,1.125,1.125,.250,.000,0.0,25.5,12.2,20.4,0.0,0.0,20.0,9.9,170,112,6.6
+2022-12-02,202212020GSW,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202212020GSW.html,18:54,.389,.389,.444,.000,5.2,5.6,5.4,0.0,0.0,0.0,18.2,24.2,65,115,-14.3
+2022-12-02,202212020GSW,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212020GSW.html,10:21,.600,.600,.200,.000,9.5,0.0,4.9,0.0,0.0,0.0,28.6,28.1,80,117,-9.3
+2022-12-02,202212020GSW,CHI,Coby White,https://www.basketball-reference.com/boxscores/202212020GSW.html,6:43,.000,.000,1.000,.000,0.0,31.8,15.2,16.6,0.0,0.0,0.0,6.2,49,111,-10.8
+2022-12-02,202212020GSW,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202212020GSW.html,5:28,.000,.000,.000,1.000,17.9,19.5,18.7,20.4,0.0,0.0,0.0,21.9,43,114,-13.1
+2022-12-02,202212020GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202212020GSW.html,36:50,.560,.500,.619,.238,2.9,10.6,6.9,25.8,0.0,0.0,4.1,27.2,120,106,2.6
+2022-12-02,202212020GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202212020GSW.html,35:53,.888,.833,.500,.500,0.0,24.6,12.8,36.5,0.0,4.1,35.3,13.0,136,100,9.0
+2022-12-02,202212020GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202212020GSW.html,33:23,.548,.500,.500,.188,0.0,32.3,16.8,25.9,0.0,2.2,25.7,28.9,90,101,-3.6
+2022-12-02,202212020GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202212020GSW.html,30:04,.551,.600,.600,.200,3.5,3.3,3.4,4.7,0.0,2.4,15.5,17.7,90,105,-4.0
+2022-12-02,202212020GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202212020GSW.html,27:17,.518,.600,.000,.800,15.6,28.7,22.5,14.4,1.6,2.7,0.0,10.2,141,98,5.2
+2022-12-02,202212020GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202212020GSW.html,23:24,.794,.806,.722,.111,0.0,4.2,2.2,10.6,1.9,0.0,13.7,38.7,115,103,14.6
+2022-12-02,202212020GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202212020GSW.html,16:32,.625,.625,.750,.000,0.0,11.8,6.2,16.0,0.0,0.0,33.3,15.0,89,105,-6.6
+2022-12-02,202212020GSW,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202212020GSW.html,15:30,.694,.750,.500,1.000,0.0,25.3,13.2,15.9,0.0,0.0,0.0,7.7,155,104,3.9
+2022-12-02,202212020GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202212020GSW.html,10:42,.174,.000,.500,1.000,0.0,27.5,14.3,10.7,0.0,0.0,25.8,15.0,45,104,-11.5
+2022-12-02,202212020GSW,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202212020GSW.html,10:25,.333,.333,.667,.000,10.2,0.0,4.9,0.0,0.0,0.0,0.0,11.9,87,107,-11.9

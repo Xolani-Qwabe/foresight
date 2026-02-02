@@ -1,0 +1,75 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2025-01-28,202501280POR,MIL,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202501280POR.html,9.6,2,5,.400,2,4,.500,0,0,0,1,1,2,0,0,0,0,6,5.0,+4,
+2025-01-28,202501280POR,MIL,Q1,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501280POR.html,12.0,8,8,1.000,0,0,,0,1,2,2,4,2,0,0,1,0,16,15.6,+5,.000
+2025-01-28,202501280POR,MIL,Q1,Brook Lopez,https://www.basketball-reference.com/boxscores/202501280POR.html,6.38,1,2,.500,0,1,.000,0,0,0,0,0,1,0,0,0,1,2,1.3,+5,
+2025-01-28,202501280POR,MIL,Q1,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,8.07,1,1,1.000,1,1,1.000,2,2,1,2,3,2,1,0,1,0,5,7.4,+2,1.000
+2025-01-28,202501280POR,MIL,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202501280POR.html,4.33,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,2,2,0.5,+2,
+2025-01-28,202501280POR,MIL,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,5.62,0,0,,0,0,,0,0,0,1,1,1,1,0,0,0,0,2.0,0,
+2025-01-28,202501280POR,MIL,Q1,Khris Middleton,https://www.basketball-reference.com/boxscores/202501280POR.html,7.28,0,1,.000,0,0,,0,0,0,0,0,1,0,0,1,3,0,-2.2,+1,
+2025-01-28,202501280POR,MIL,Q1,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501280POR.html,3.93,2,3,.667,1,2,.500,0,0,1,0,1,0,0,0,0,0,5,4.4,+3,
+2025-01-28,202501280POR,MIL,Q1,Pat Connaughton,https://www.basketball-reference.com/boxscores/202501280POR.html,2.78,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+3,
+2025-01-28,202501280POR,MIL,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202501280POR.html,9.4,3,5,.600,0,0,,2,2,0,0,0,1,0,0,0,0,8,6.4,-3,1.000
+2025-01-28,202501280POR,MIL,Q2,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501280POR.html,6.12,2,4,.500,0,0,,1,4,1,2,3,1,0,0,1,1,5,2.4,-12,.250
+2025-01-28,202501280POR,MIL,Q2,Brook Lopez,https://www.basketball-reference.com/boxscores/202501280POR.html,8.93,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-2,
+2025-01-28,202501280POR,MIL,Q2,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,6.63,0,0,,0,0,,0,0,1,0,1,1,0,0,0,0,0,1.4,-10,
+2025-01-28,202501280POR,MIL,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202501280POR.html,5.37,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-0.8,+2,
+2025-01-28,202501280POR,MIL,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,8.48,2,4,.500,2,4,.500,0,0,0,1,1,1,1,0,0,0,6,6.0,-1,
+2025-01-28,202501280POR,MIL,Q2,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501280POR.html,6.63,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,2,2,0.9,-10,
+2025-01-28,202501280POR,MIL,Q2,Pat Connaughton,https://www.basketball-reference.com/boxscores/202501280POR.html,5.37,2,3,.667,0,1,.000,0,0,0,0,0,0,0,1,0,0,4,3.4,+2,
+2025-01-28,202501280POR,MIL,Q2,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202501280POR.html,3.07,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,-6,
+2025-01-28,202501280POR,MIL,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202501280POR.html,10.8,1,4,.250,0,1,.000,0,0,0,1,1,1,0,0,0,1,2,0.2,-3,
+2025-01-28,202501280POR,MIL,Q3,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501280POR.html,12.0,5,10,.500,0,0,,4,5,0,3,3,1,0,0,2,2,14,7.4,-5,.800
+2025-01-28,202501280POR,MIL,Q3,Brook Lopez,https://www.basketball-reference.com/boxscores/202501280POR.html,10.8,1,2,.500,1,1,1.000,0,0,0,2,2,2,1,0,0,0,3,5.0,-3,
+2025-01-28,202501280POR,MIL,Q3,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,7.28,2,2,1.000,0,0,,0,0,0,1,1,1,0,0,1,1,4,3.0,-6,
+2025-01-28,202501280POR,MIL,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202501280POR.html,7.08,1,2,.500,0,0,,0,0,0,0,0,0,1,0,0,1,2,1.6,-4,
+2025-01-28,202501280POR,MIL,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,4.72,1,2,.500,1,2,.500,0,0,1,0,1,1,0,0,0,0,3,3.4,+1,
+2025-01-28,202501280POR,MIL,Q3,Khris Middleton,https://www.basketball-reference.com/boxscores/202501280POR.html,6.12,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-3,
+2025-01-28,202501280POR,MIL,Q3,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501280POR.html,1.2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2025-01-28,202501280POR,MIL,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202501280POR.html,8.62,1,3,.333,0,1,.000,2,2,0,1,1,2,1,0,0,0,4,5.0,-7,1.000
+2025-01-28,202501280POR,MIL,Q4,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202501280POR.html,5.8,2,2,1.000,0,0,,0,0,1,1,2,1,0,0,0,1,4,4.7,+1,
+2025-01-28,202501280POR,MIL,Q4,Brook Lopez,https://www.basketball-reference.com/boxscores/202501280POR.html,8.62,2,6,.333,2,5,.400,0,0,0,1,1,0,0,1,1,1,6,2.2,-7,
+2025-01-28,202501280POR,MIL,Q4,Andre Jackson Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,4.13,0,0,,0,0,,0,0,0,2,2,1,0,0,1,1,0,-0.1,-2,
+2025-01-28,202501280POR,MIL,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202501280POR.html,3.2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2025-01-28,202501280POR,MIL,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202501280POR.html,8.62,1,5,.200,0,4,.000,0,0,0,1,1,0,1,0,0,1,2,-0.2,-7,
+2025-01-28,202501280POR,MIL,Q4,Khris Middleton,https://www.basketball-reference.com/boxscores/202501280POR.html,2.07,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2025-01-28,202501280POR,MIL,Q4,Ryan Rollins,https://www.basketball-reference.com/boxscores/202501280POR.html,3.38,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,+2,
+2025-01-28,202501280POR,MIL,Q4,Pat Connaughton,https://www.basketball-reference.com/boxscores/202501280POR.html,5.42,0,1,.000,0,0,,0,0,1,1,2,1,0,0,1,1,0,-0.4,-3,
+2025-01-28,202501280POR,MIL,Q4,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202501280POR.html,3.38,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,3.0,+2,
+2025-01-28,202501280POR,MIL,Q4,Stanley Umude,https://www.basketball-reference.com/boxscores/202501280POR.html,3.38,0,2,.000,0,2,.000,2,2,0,0,0,0,1,0,1,0,2,0.6,+2,1.000
+2025-01-28,202501280POR,MIL,Q4,Chris Livingston,https://www.basketball-reference.com/boxscores/202501280POR.html,3.38,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2025-01-28,202501280POR,POR,Q1,Toumani Camara,https://www.basketball-reference.com/boxscores/202501280POR.html,12.0,1,2,.500,0,0,,2,2,1,2,3,0,0,0,0,0,4,4.3,-5,1.000
+2025-01-28,202501280POR,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/202501280POR.html,7.63,0,3,.000,0,2,.000,2,2,0,0,0,3,0,0,0,0,2,2.0,-5,1.000
+2025-01-28,202501280POR,POR,Q1,Deni Avdija,https://www.basketball-reference.com/boxscores/202501280POR.html,5.97,1,2,.500,1,1,1.000,2,2,0,2,2,0,1,0,0,0,5,5.6,-5,1.000
+2025-01-28,202501280POR,POR,Q1,Deandre Ayton,https://www.basketball-reference.com/boxscores/202501280POR.html,8.7,3,5,.600,0,1,.000,0,0,1,0,1,0,0,0,2,0,6,2.4,-2,
+2025-01-28,202501280POR,POR,Q1,Jerami Grant,https://www.basketball-reference.com/boxscores/202501280POR.html,8.7,1,2,.500,0,0,,1,2,0,0,0,1,0,0,0,2,3,1.5,-2,.500
+2025-01-28,202501280POR,POR,Q1,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202501280POR.html,6.42,4,6,.667,1,3,.333,0,0,0,0,0,0,1,0,0,1,9,7.0,-2,
+2025-01-28,202501280POR,POR,Q1,Scoot Henderson,https://www.basketball-reference.com/boxscores/202501280POR.html,7.67,1,1,1.000,0,0,,0,0,0,0,0,3,0,0,0,0,2,3.8,-3,
+2025-01-28,202501280POR,POR,Q1,Donovan Clingan,https://www.basketball-reference.com/boxscores/202501280POR.html,2.92,0,0,,0,0,,0,0,2,1,3,0,0,0,1,0,0,0.7,-1,
+2025-01-28,202501280POR,POR,Q2,Toumani Camara,https://www.basketball-reference.com/boxscores/202501280POR.html,7.67,0,1,.000,0,1,.000,0,0,0,3,3,2,0,0,0,0,0,1.6,+10,
+2025-01-28,202501280POR,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/202501280POR.html,12.0,5,7,.714,1,2,.500,1,1,0,0,0,2,0,0,1,0,12,9.5,+8,1.000
+2025-01-28,202501280POR,POR,Q2,Deni Avdija,https://www.basketball-reference.com/boxscores/202501280POR.html,11.2,1,1,1.000,0,0,,2,2,1,2,3,0,0,0,2,2,4,2.2,+6,1.000
+2025-01-28,202501280POR,POR,Q2,Deandre Ayton,https://www.basketball-reference.com/boxscores/202501280POR.html,10.32,4,9,.444,0,0,,2,2,4,3,7,0,0,0,0,1,10,8.6,+12,1.000
+2025-01-28,202501280POR,POR,Q2,Jerami Grant,https://www.basketball-reference.com/boxscores/202501280POR.html,5.0,1,2,.500,1,1,1.000,2,2,0,0,0,0,0,0,0,0,5,4.0,+2,1.000
+2025-01-28,202501280POR,POR,Q2,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202501280POR.html,6.98,0,0,,0,0,,0,0,0,0,0,1,0,0,0,2,0,-0.1,+4,
+2025-01-28,202501280POR,POR,Q2,Scoot Henderson,https://www.basketball-reference.com/boxscores/202501280POR.html,5.15,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,+2,
+2025-01-28,202501280POR,POR,Q2,Donovan Clingan,https://www.basketball-reference.com/boxscores/202501280POR.html,1.68,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2025-01-28,202501280POR,POR,Q3,Toumani Camara,https://www.basketball-reference.com/boxscores/202501280POR.html,12.0,1,2,.500,0,1,.000,0,0,2,1,3,1,0,0,0,1,2,3.0,+5,
+2025-01-28,202501280POR,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/202501280POR.html,7.9,1,3,.333,1,2,.500,0,0,0,0,0,1,0,0,0,0,3,2.0,+5,
+2025-01-28,202501280POR,POR,Q3,Deni Avdija,https://www.basketball-reference.com/boxscores/202501280POR.html,12.0,6,9,.667,2,3,.667,0,1,0,2,2,2,0,0,2,2,14,8.9,+5,.000
+2025-01-28,202501280POR,POR,Q3,Deandre Ayton,https://www.basketball-reference.com/boxscores/202501280POR.html,10.8,1,3,.333,0,0,,0,0,0,5,5,2,1,1,0,0,2,4.9,+3,
+2025-01-28,202501280POR,POR,Q3,Jerami Grant,https://www.basketball-reference.com/boxscores/202501280POR.html,1.93,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2025-01-28,202501280POR,POR,Q3,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202501280POR.html,6.63,2,4,.500,2,2,1.000,0,0,0,1,1,1,0,0,1,0,6,4.0,+3,
+2025-01-28,202501280POR,POR,Q3,Scoot Henderson,https://www.basketball-reference.com/boxscores/202501280POR.html,7.53,2,3,.667,1,1,1.000,1,2,0,2,2,2,0,0,0,3,6,5.1,0,.500
+2025-01-28,202501280POR,POR,Q3,Donovan Clingan,https://www.basketball-reference.com/boxscores/202501280POR.html,1.2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+2,
+2025-01-28,202501280POR,POR,Q4,Toumani Camara,https://www.basketball-reference.com/boxscores/202501280POR.html,8.07,1,1,1.000,0,0,,0,0,1,1,2,1,0,0,2,0,2,1.4,+5,
+2025-01-28,202501280POR,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/202501280POR.html,10.82,3,4,.750,2,2,1.000,0,0,0,3,3,1,0,0,0,0,8,8.0,+5,
+2025-01-28,202501280POR,POR,Q4,Deni Avdija,https://www.basketball-reference.com/boxscores/202501280POR.html,8.75,2,6,.333,0,3,.000,3,4,2,0,2,0,1,0,1,0,7,4.6,+1,.750
+2025-01-28,202501280POR,POR,Q4,Deandre Ayton,https://www.basketball-reference.com/boxscores/202501280POR.html,4.45,1,2,.500,0,0,,1,2,0,1,1,0,0,0,0,1,3,1.5,+2,.500
+2025-01-28,202501280POR,POR,Q4,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202501280POR.html,10.82,0,4,.000,0,2,.000,2,2,1,3,4,1,1,0,0,0,2,2.5,+5,1.000
+2025-01-28,202501280POR,POR,Q4,Scoot Henderson,https://www.basketball-reference.com/boxscores/202501280POR.html,6.37,0,2,.000,0,1,.000,0,0,0,1,1,0,1,0,1,0,0,-1.1,+3,
+2025-01-28,202501280POR,POR,Q4,Donovan Clingan,https://www.basketball-reference.com/boxscores/202501280POR.html,4.82,2,2,1.000,0,0,,0,0,2,1,3,1,0,1,0,2,4,5.7,+4,
+2025-01-28,202501280POR,POR,Q4,Bryce McGowens,https://www.basketball-reference.com/boxscores/202501280POR.html,1.18,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,0,1.000
+2025-01-28,202501280POR,POR,Q4,Kris Murray,https://www.basketball-reference.com/boxscores/202501280POR.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2025-01-28,202501280POR,POR,Q4,Duop Reath,https://www.basketball-reference.com/boxscores/202501280POR.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2025-01-28,202501280POR,POR,Q4,Rayan Rupert,https://www.basketball-reference.com/boxscores/202501280POR.html,1.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2025-01-28,202501280POR,POR,Q4,Jabari Walker,https://www.basketball-reference.com/boxscores/202501280POR.html,1.18,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,

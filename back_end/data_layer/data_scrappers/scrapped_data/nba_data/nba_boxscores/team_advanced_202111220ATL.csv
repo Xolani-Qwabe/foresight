@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-22,202111220ATL,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202111220ATL.html,32:31,.182,.182,.364,.000,0.0,14.1,6.3,12.3,0.0,2.8,8.3,15.9,53,126,-15.0
+2021-11-22,202111220ATL,OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202111220ATL.html,31:42,.604,.556,.556,.444,5.8,28.8,16.1,4.6,1.7,2.9,0.0,14.7,138,119,1.9
+2021-11-22,202111220ATL,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202111220ATL.html,31:07,.524,.462,.385,.231,5.9,18.4,11.5,41.5,1.7,5.8,17.3,24.0,110,119,5.5
+2021-11-22,202111220ATL,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202111220ATL.html,30:27,.444,.406,.500,.125,3.0,15.0,8.4,5.1,0.0,0.0,10.6,26.8,90,128,-10.4
+2021-11-22,202111220ATL,OKC,Derrick Favors,https://www.basketball-reference.com/boxscores/202111220ATL.html,17:04,.556,.556,.111,.000,5.4,20.1,12.0,0.0,0.0,5.3,0.0,22.8,117,123,-0.4
+2021-11-22,202111220ATL,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202111220ATL.html,21:58,.346,.346,.385,.000,12.6,31.2,20.9,14.4,0.0,0.0,0.0,25.6,95,125,-6.4
+2021-11-22,202111220ATL,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202111220ATL.html,17:38,1.500,1.500,1.000,.000,0.0,0.0,0.0,7.5,0.0,0.0,50.0,4.9,114,132,-8.5
+2021-11-22,202111220ATL,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202111220ATL.html,16:18,.409,.409,.455,.000,11.3,7.0,9.4,10.8,0.0,0.0,0.0,29.1,101,130,-7.1
+2021-11-22,202111220ATL,OKC,Ty Jerome,https://www.basketball-reference.com/boxscores/202111220ATL.html,15:38,.815,.714,.571,.714,5.9,0.0,3.3,46.0,10.1,0.0,0.0,25.4,183,108,34.5
+2021-11-22,202111220ATL,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202111220ATL.html,13:50,.667,.667,.000,.000,20.0,8.3,14.8,32.5,0.0,0.0,0.0,9.4,172,130,5.1
+2021-11-22,202111220ATL,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202111220ATL.html,10:20,.500,.500,.000,.000,8.9,22.1,14.8,0.0,0.0,0.0,20.0,20.9,86,127,-11.0
+2021-11-22,202111220ATL,OKC,Gabriel Deck,https://www.basketball-reference.com/boxscores/202111220ATL.html,1:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-12.9
+2021-11-22,202111220ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202111220ATL.html,34:54,.619,.563,.375,.250,3.3,13.2,8.8,18.8,1.5,11.7,10.1,13.4,133,105,7.3
+2021-11-22,202111220ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202111220ATL.html,31:55,.650,.575,.450,.350,3.6,8.7,6.4,31.7,1.6,0.0,8.0,37.3,130,114,9.4
+2021-11-22,202111220ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202111220ATL.html,29:36,.650,.650,.300,.000,3.9,12.5,8.6,25.1,1.8,0.0,0.0,16.0,147,112,4.9
+2021-11-22,202111220ATL,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202111220ATL.html,29:35,.556,.556,.000,.000,15.5,31.2,24.2,0.0,0.0,0.0,10.0,16.1,117,106,-7.7
+2021-11-22,202111220ATL,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202111220ATL.html,27:10,.500,.500,.615,.000,0.0,17.0,9.4,0.0,1.9,0.0,0.0,22.7,98,109,-4.5
+2021-11-22,202111220ATL,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202111220ATL.html,25:01,.935,.900,.400,.400,0.0,22.1,12.2,16.8,2.1,3.3,14.5,13.1,163,104,8.7
+2021-11-22,202111220ATL,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202111220ATL.html,22:59,.409,.409,.364,.000,5.0,8.0,6.7,6.2,2.3,0.0,0.0,22.7,93,113,-7.4
+2021-11-22,202111220ATL,ATL,Lou Williams,https://www.basketball-reference.com/boxscores/202111220ATL.html,16:57,.581,.583,.333,.333,0.0,0.0,0.0,25.4,0.0,0.0,22.5,24.9,100,122,-6.7
+2021-11-22,202111220ATL,ATL,Delon Wright,https://www.basketball-reference.com/boxscores/202111220ATL.html,14:38,.926,.833,.667,1.000,0.0,6.3,3.5,18.5,0.0,0.0,0.0,14.0,196,119,6.8
+2021-11-22,202111220ATL,ATL,Sharife Cooper,https://www.basketball-reference.com/boxscores/202111220ATL.html,1:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-8.4
+2021-11-22,202111220ATL,ATL,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202111220ATL.html,1:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-10.1
+2021-11-22,202111220ATL,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202111220ATL.html,1:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-8.9
+2021-11-22,202111220ATL,ATL,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202111220ATL.html,1:27,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.5,0,122,-73.5
+2021-11-22,202111220ATL,ATL,Skylar Mays,https://www.basketball-reference.com/boxscores/202111220ATL.html,1:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,-9.7

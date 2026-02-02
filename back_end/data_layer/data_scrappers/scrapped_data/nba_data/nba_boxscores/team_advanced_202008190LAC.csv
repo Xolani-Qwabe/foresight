@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-19,202008190LAC,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202008190LAC.html,37:15,.543,.500,.538,.462,0.0,5.2,2.7,10.3,1.2,0.0,0.0,17.8,118,112,1.0
+2020-08-19,202008190LAC,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202008190LAC.html,36:11,.696,.654,.308,.615,2.9,15.9,9.7,0.0,0.0,2.7,10.8,21.7,123,110,1.4
+2020-08-19,202008190LAC,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202008190LAC.html,32:47,.400,.400,.400,.000,9.5,20.5,15.3,10.7,0.0,2.9,0.0,6.5,130,109,0.6
+2020-08-19,202008190LAC,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202008190LAC.html,30:13,.444,.444,.444,.000,6.9,6.4,6.6,12.1,0.0,3.2,10.0,14.0,103,112,-1.7
+2020-08-19,202008190LAC,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202008190LAC.html,28:05,.628,.588,.412,.706,0.0,27.3,14.2,39.5,0.0,0.0,4.3,35.1,132,109,11.9
+2020-08-19,202008190LAC,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202008190LAC.html,26:04,.759,.722,.333,.222,0.0,11.0,5.8,16.8,0.0,0.0,9.2,17.7,142,113,2.7
+2020-08-19,202008190LAC,DAL,Trey Burke,https://www.basketball-reference.com/boxscores/202008190LAC.html,17:44,.627,.636,.091,.364,0.0,16.2,8.5,21.6,5.2,5.4,7.3,32.9,117,96,8.5
+2020-08-19,202008190LAC,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/202008190LAC.html,16:46,.399,.000,.500,2.000,6.2,5.7,6.0,19.5,5.5,0.0,44.4,17.1,77,102,-2.3
+2020-08-19,202008190LAC,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202008190LAC.html,9:43,.770,.750,.000,.125,10.7,79.0,46.3,34.4,0.0,0.0,0.0,36.8,155,97,24.4
+2020-08-19,202008190LAC,DAL,Michael Kidd-Gilchrist,https://www.basketball-reference.com/boxscores/202008190LAC.html,5:12,.000,.000,.000,.000,0.0,18.5,9.6,0.0,0.0,0.0,0.0,8.1,0,112,-9.7
+2020-08-19,202008190LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202008190LAC.html,40:48,.644,.524,.286,.667,4.7,20.5,12.3,9.3,1.1,0.0,9.9,30.5,124,121,7.8
+2020-08-19,202008190LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202008190LAC.html,35:10,.568,.500,.364,.273,2.7,20.8,11.4,9.0,2.6,0.0,7.5,15.7,116,117,3.6
+2020-08-19,202008190LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202008190LAC.html,31:35,.373,.294,.588,.235,6.1,26.4,15.8,9.8,0.0,2.6,9.6,27.2,81,120,-5.6
+2020-08-19,202008190LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202008190LAC.html,26:17,.611,.611,.556,.000,7.3,7.9,7.6,6.2,0.0,0.0,10.0,15.7,119,125,0.2
+2020-08-19,202008190LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202008190LAC.html,18:11,.521,.500,.000,1.000,0.0,23.0,11.0,0.0,0.0,0.0,0.0,6.5,108,123,-2.8
+2020-08-19,202008190LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202008190LAC.html,31:53,.735,.692,.385,.462,3.0,9.8,6.3,42.2,1.4,0.0,24.2,26.8,122,122,6.9
+2020-08-19,202008190LAC,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202008190LAC.html,21:45,.595,.750,.000,2.500,0.0,9.6,4.6,0.0,0.0,0.0,19.2,19.8,93,125,-6.2
+2020-08-19,202008190LAC,LAC,Landry Shamet,https://www.basketball-reference.com/boxscores/202008190LAC.html,17:57,.500,.500,.500,.000,0.0,5.8,2.8,15.6,0.0,0.0,0.0,4.6,130,125,-2.5
+2020-08-19,202008190LAC,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/202008190LAC.html,12:48,.200,.200,.600,.000,7.5,16.3,11.7,0.0,0.0,6.4,16.7,19.4,47,118,-14.6
+2020-08-19,202008190LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202008190LAC.html,1:28,,,,,0.0,71.1,34.1,0.0,0.0,0.0,,0.0,0,112,-11.7
+2020-08-19,202008190LAC,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/202008190LAC.html,1:04,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-1.9
+2020-08-19,202008190LAC,LAC,Joakim Noah,https://www.basketball-reference.com/boxscores/202008190LAC.html,1:04,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-4.0

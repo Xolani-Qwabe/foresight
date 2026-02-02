@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-21,202201210SAS,BRK,James Harden,https://www.basketball-reference.com/boxscores/202201210SAS.html,37:08,.683,.625,.333,.292,2.9,20.4,12.7,45.6,0.0,2.0,10.0,34.6,139,106,18.8
+2022-01-21,202201210SAS,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202201210SAS.html,35:28,.560,.548,.286,.048,3.0,4.7,4.0,15.7,0.0,0.0,0.0,25.8,126,115,2.9
+2022-01-21,202201210SAS,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202201210SAS.html,32:18,.357,.357,.429,.000,6.6,7.8,7.3,0.0,4.7,2.3,22.2,11.9,71,101,-2.8
+2022-01-21,202201210SAS,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202201210SAS.html,32:04,.409,.409,.455,.000,0.0,10.5,5.9,10.7,0.0,0.0,0.0,14.7,100,112,-4.7
+2022-01-21,202201210SAS,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202201210SAS.html,14:14,.500,.500,.000,.000,15.0,47.3,33.1,0.0,0.0,0.0,0.0,18.0,120,93,-0.9
+2022-01-21,202201210SAS,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202201210SAS.html,22:18,.571,.571,.000,.000,9.6,18.9,14.8,14.0,0.0,3.3,0.0,26.8,128,106,6.3
+2022-01-21,202201210SAS,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202201210SAS.html,20:24,1.042,1.000,.000,1.000,5.2,16.5,11.5,5.4,0.0,7.1,0.0,6.0,218,104,8.1
+2022-01-21,202201210SAS,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202201210SAS.html,14:35,.000,.000,.500,.000,0.0,5.8,3.2,0.0,0.0,0.0,0.0,5.9,0,114,-15.9
+2022-01-21,202201210SAS,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202201210SAS.html,11:25,.563,.500,.250,.250,18.7,22.1,20.6,27.0,0.0,0.0,10.1,37.0,121,106,3.1
+2022-01-21,202201210SAS,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202201210SAS.html,9:31,.333,.333,.000,.000,0.0,8.8,4.9,0.0,0.0,0.0,25.0,18.0,51,113,-15.3
+2022-01-21,202201210SAS,BRK,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202201210SAS.html,9:24,.500,.500,.000,.000,0.0,9.0,5.0,11.9,0.0,0.0,0.0,9.1,122,113,-1.4
+2022-01-21,202201210SAS,BRK,David Duke Jr.,https://www.basketball-reference.com/boxscores/202201210SAS.html,1:09,,,,,92.8,0.0,40.9,0.0,0.0,0.0,,0.0,222,118,11.5
+2022-01-21,202201210SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201210SAS.html,37:10,.531,.425,.150,.400,9.1,23.0,15.2,48.4,1.4,0.0,4.1,28.4,128,121,9.7
+2022-01-21,202201210SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201210SAS.html,35:44,.528,.500,.000,.417,11.8,17.9,14.5,4.6,0.0,5.4,0.0,17.1,125,120,-0.8
+2022-01-21,202201210SAS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202201210SAS.html,33:45,.435,.344,.438,.500,5.0,12.6,8.4,31.8,0.0,0.0,13.3,28.7,96,127,-4.0
+2022-01-21,202201210SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202201210SAS.html,31:31,.543,.500,.583,.167,0.0,23.7,10.5,10.4,0.0,0.0,7.2,18.9,108,124,-3.3
+2022-01-21,202201210SAS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202201210SAS.html,25:24,.389,.389,.444,.000,6.6,4.2,5.6,6.0,0.0,2.5,0.0,15.2,98,127,-6.1
+2022-01-21,202201210SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202201210SAS.html,23:43,.393,.364,.455,.091,0.0,13.5,6.0,7.0,2.1,0.0,0.0,20.8,89,122,-7.0
+2022-01-21,202201210SAS,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202201210SAS.html,18:40,.333,.333,.167,.000,9.0,17.1,12.6,0.0,0.0,3.4,0.0,13.8,89,122,-7.5
+2022-01-21,202201210SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201210SAS.html,18:20,.417,.417,.333,.000,0.0,5.8,2.6,16.5,2.8,7.0,0.0,14.1,101,117,2.9
+2022-01-21,202201210SAS,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201210SAS.html,7:04,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.1,200,130,-4.1
+2022-01-21,202201210SAS,SAS,Jock Landale,https://www.basketball-reference.com/boxscores/202201210SAS.html,5:11,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.6,200,130,8.8
+2022-01-21,202201210SAS,SAS,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202201210SAS.html,1:43,,,,,49.1,0.0,27.4,0.0,0.0,0.0,100.0,25.1,47,130,-30.6
+2022-01-21,202201210SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202201210SAS.html,1:43,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,130,-13.6

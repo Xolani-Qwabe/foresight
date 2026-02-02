@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-02-11,202502110CHI,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202502110CHI.html,27:20,.693,.679,.143,.071,0.0,17.3,10.6,34.9,0.0,3.3,0.0,21.7,155,90,10.9
+2025-02-11,202502110CHI,DET,Tobias Harris,https://www.basketball-reference.com/boxscores/202502110CHI.html,25:04,.692,.692,.462,.000,0.0,9.4,5.8,0.0,5.4,3.6,7.1,23.0,120,81,7.9
+2025-02-11,202502110CHI,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202502110CHI.html,22:54,.400,.400,.000,.000,16.5,27.5,23.3,22.4,0.0,4.0,0.0,9.0,145,85,5.9
+2025-02-11,202502110CHI,DET,Ausar Thompson,https://www.basketball-reference.com/boxscores/202502110CHI.html,22:16,.901,.875,.000,.250,0.0,10.6,6.5,24.0,8.1,8.1,18.4,20.1,151,71,18.0
+2025-02-11,202502110CHI,DET,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202502110CHI.html,18:03,.250,.250,1.000,.000,0.0,13.1,8.1,16.5,0.0,0.0,25.0,18.2,63,93,-11.2
+2025-02-11,202502110CHI,DET,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202502110CHI.html,25:44,.429,.313,.375,.375,4.9,27.5,18.8,3.9,1.7,3.5,17.7,18.1,86,81,-4.9
+2025-02-11,202502110CHI,DET,Ron Holland,https://www.basketball-reference.com/boxscores/202502110CHI.html,22:36,.205,.000,.500,.500,0.0,10.4,6.4,4.2,2.0,0.0,17.0,10.7,51,90,-10.1
+2025-02-11,202502110CHI,DET,Malik Beasley,https://www.basketball-reference.com/boxscores/202502110CHI.html,15:32,.965,.958,.833,.083,0.0,10.1,6.2,0.0,2.9,0.0,0.0,32.9,172,87,28.4
+2025-02-11,202502110CHI,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202502110CHI.html,15:21,.875,.875,.250,.000,24.7,15.4,19.0,29.1,0.0,0.0,27.3,29.5,134,92,10.8
+2025-02-11,202502110CHI,DET,Dennis Schröder,https://www.basketball-reference.com/boxscores/202502110CHI.html,14:54,.291,.167,.167,.333,0.0,10.6,6.5,27.0,0.0,0.0,12.7,21.7,85,94,-11.7
+2025-02-11,202502110CHI,DET,Marcus Sasser,https://www.basketball-reference.com/boxscores/202502110CHI.html,11:26,1.400,1.400,.800,.000,0.0,0.0,0.0,0.0,0.0,0.0,16.7,21.6,176,98,21.0
+2025-02-11,202502110CHI,DET,Paul Reed,https://www.basketball-reference.com/boxscores/202502110CHI.html,9:45,.512,.500,.500,.500,13.0,40.4,29.8,12.0,0.0,18.6,17.0,24.8,103,71,3.4
+2025-02-11,202502110CHI,DET,Lindy Waters III,https://www.basketball-reference.com/boxscores/202502110CHI.html,9:05,.000,.000,1.000,.000,0.0,0.0,0.0,10.4,0.0,0.0,0.0,13.6,27,99,-18.6
+2025-02-11,202502110CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202502110CHI.html,27:57,.180,.154,.615,.154,2.8,9.0,5.2,10.9,1.6,0.0,12.6,21.9,44,126,-17.3
+2025-02-11,202502110CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202502110CHI.html,25:15,.259,.267,.333,.067,9.3,20.0,13.4,6.9,0.0,3.5,11.5,26.7,58,125,-13.8
+2025-02-11,202502110CHI,CHI,Josh Giddey,https://www.basketball-reference.com/boxscores/202502110CHI.html,22:41,.550,.550,.400,.000,6.9,22.3,12.8,34.7,2.0,3.8,16.7,20.4,103,120,3.9
+2025-02-11,202502110CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202502110CHI.html,20:11,.581,.583,.500,.333,0.0,6.3,2.4,17.1,6.7,0.0,30.4,18.9,82,114,-0.4
+2025-02-11,202502110CHI,CHI,Matas Buzelis,https://www.basketball-reference.com/boxscores/202502110CHI.html,19:04,.857,.857,.286,.000,0.0,6.6,2.5,11.2,0.0,0.0,12.5,16.2,135,130,2.8
+2025-02-11,202502110CHI,CHI,Kevin Huerter,https://www.basketball-reference.com/boxscores/202502110CHI.html,21:17,.317,.286,.429,.286,7.4,17.8,11.4,29.6,2.1,0.0,27.6,19.7,68,123,-8.8
+2025-02-11,202502110CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202502110CHI.html,19:40,.313,.313,.375,.000,8.0,6.4,7.4,0.0,0.0,0.0,0.0,15.7,77,130,-11.6
+2025-02-11,202502110CHI,CHI,Tre Jones,https://www.basketball-reference.com/boxscores/202502110CHI.html,15:32,.581,.500,.167,.333,5.1,8.1,6.2,12.0,5.8,0.0,0.0,17.1,129,116,5.2
+2025-02-11,202502110CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202502110CHI.html,13:48,.436,.417,.500,.333,5.7,18.3,10.5,0.0,3.3,0.0,0.0,19.2,96,121,-2.3
+2025-02-11,202502110CHI,CHI,Julian Phillips,https://www.basketball-reference.com/boxscores/202502110CHI.html,12:45,.658,.625,.750,.750,0.0,9.9,3.8,0.0,0.0,0.0,0.0,16.1,133,130,0.1
+2025-02-11,202502110CHI,CHI,Zach Collins,https://www.basketball-reference.com/boxscores/202502110CHI.html,12:13,.868,.750,1.000,1.000,6.4,41.4,19.8,0.0,0.0,0.0,0.0,9.1,183,125,0.2
+2025-02-11,202502110CHI,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202502110CHI.html,11:16,.300,.300,.600,.000,0.0,22.4,8.6,55.4,0.0,0.0,16.7,20.6,77,128,-4.6
+2025-02-11,202502110CHI,CHI,Jalen Smith,https://www.basketball-reference.com/boxscores/202502110CHI.html,10:32,.417,.417,.833,.000,7.5,24.0,13.8,52.8,0.0,0.0,0.0,22.0,109,127,8.3
+2025-02-11,202502110CHI,CHI,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202502110CHI.html,7:49,.316,.200,.400,.600,0.0,32.3,12.4,0.0,0.0,0.0,0.0,31.2,71,126,-11.9

@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-05-09,202505090IND,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202505090IND.html,37.28,14,29,.483,5,13,.385,10,14,.714,5,4,9,5,1,0,2,4,43,32.3,+35
+2025-05-09,202505090IND,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202505090IND.html,35.13,6,13,.462,1,3,.333,5,6,.833,5,8,13,4,3,3,0,2,18,23.9,+26
+2025-05-09,202505090IND,CLE,Max Strus,https://www.basketball-reference.com/boxscores/202505090IND.html,33.27,8,12,.667,4,8,.500,0,0,,2,5,7,7,0,1,0,5,20,21.3,+32
+2025-05-09,202505090IND,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202505090IND.html,30.98,6,11,.545,0,0,,7,8,.875,4,8,12,2,0,2,3,2,19,17.5,+38
+2025-05-09,202505090IND,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202505090IND.html,24.88,3,11,.273,2,7,.286,2,2,1.000,0,1,1,3,0,0,4,4,10,0.3,+10
+2025-05-09,202505090IND,CLE,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202505090IND.html,20.55,2,6,.333,1,5,.200,3,4,.750,1,4,5,0,0,0,0,2,8,5.3,-14
+2025-05-09,202505090IND,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202505090IND.html,20.12,1,5,.200,1,5,.200,0,1,.000,0,1,1,2,0,0,0,3,3,0.0,+18
+2025-05-09,202505090IND,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202505090IND.html,14.27,0,2,.000,0,2,.000,0,0,,1,3,4,1,0,1,1,1,0,0.2,-15
+2025-05-09,202505090IND,CLE,Ty Jerome,https://www.basketball-reference.com/boxscores/202505090IND.html,13.48,1,8,.125,0,4,.000,0,0,,0,1,1,0,0,0,3,2,2,-6.7,-15
+2025-05-09,202505090IND,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202505090IND.html,3.73,0,1,.000,0,0,,1,2,.500,0,0,0,0,1,0,0,1,1,0.5,-3
+2025-05-09,202505090IND,CLE,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202505090IND.html,3.15,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-1
+2025-05-09,202505090IND,CLE,Javonte Green,https://www.basketball-reference.com/boxscores/202505090IND.html,3.15,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,1,0,0,-1.1,-1
+2025-05-09,202505090IND,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202505090IND.html,30.0,2,8,.250,0,1,.000,0,0,,0,0,0,5,1,0,3,2,4,-0.1,-20
+2025-05-09,202505090IND,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202505090IND.html,27.6,8,14,.571,1,4,.250,1,3,.333,2,2,4,3,0,0,1,2,18,12.9,-14
+2025-05-09,202505090IND,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202505090IND.html,27.48,3,7,.429,1,4,.250,0,0,,1,6,7,1,0,2,0,4,7,6.3,-29
+2025-05-09,202505090IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202505090IND.html,25.55,4,7,.571,1,2,.500,6,8,.750,0,3,3,0,1,3,1,5,15,11.9,-26
+2025-05-09,202505090IND,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202505090IND.html,25.5,4,9,.444,2,4,.500,0,0,,0,4,4,4,1,1,3,4,10,6.4,-32
+2025-05-09,202505090IND,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202505090IND.html,26.88,6,11,.545,3,8,.375,8,9,.889,0,1,1,0,1,0,2,4,23,15.0,-7
+2025-05-09,202505090IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202505090IND.html,21.15,4,9,.444,0,0,,4,4,1.000,1,5,6,7,0,0,1,0,12,13.4,+8
+2025-05-09,202505090IND,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202505090IND.html,19.33,1,7,.143,0,4,.000,3,4,.750,0,2,2,5,0,0,0,3,5,3.0,-3
+2025-05-09,202505090IND,IND,Thomas Bryant,https://www.basketball-reference.com/boxscores/202505090IND.html,14.53,1,2,.500,0,0,,0,0,,0,3,3,0,1,1,0,2,2,2.8,+1
+2025-05-09,202505090IND,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202505090IND.html,5.88,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,1,1,3,1.9,+2
+2025-05-09,202505090IND,IND,James Johnson,https://www.basketball-reference.com/boxscores/202505090IND.html,5.05,1,1,1.000,0,0,,1,2,.500,0,1,1,0,1,0,1,1,3,2.2,+2
+2025-05-09,202505090IND,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202505090IND.html,4.43,0,2,.000,0,1,.000,2,4,.500,0,1,1,1,0,0,0,0,2,0.8,+3
+2025-05-09,202505090IND,IND,Johnny Furphy,https://www.basketball-reference.com/boxscores/202505090IND.html,3.73,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,1,0,1,0,0.2,+3
+2025-05-09,202505090IND,IND,Tony Bradley,https://www.basketball-reference.com/boxscores/202505090IND.html,2.87,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+2

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-24,202202240BRK,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202202240BRK.html,34:49,.650,.600,.450,.350,3.6,17.2,11.2,17.1,1.3,0.0,14.8,34.0,118,105,3.2
+2022-02-24,202202240BRK,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202202240BRK.html,31:46,.550,.550,.600,.000,8.0,34.6,22.8,7.9,2.9,4.6,23.1,17.9,98,94,1.4
+2022-02-24,202202240BRK,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202202240BRK.html,29:47,1.250,1.250,1.000,.000,4.2,6.7,5.6,25.5,3.1,0.0,33.3,13.2,158,103,12.9
+2022-02-24,202202240BRK,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202202240BRK.html,29:44,.580,.542,.417,.667,0.0,3.4,1.9,26.7,1.6,2.5,6.1,24.3,128,105,2.9
+2022-02-24,202202240BRK,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202202240BRK.html,24:30,.888,.800,.000,.800,15.5,32.7,25.1,10.3,0.0,0.0,0.0,12.1,197,104,6.0
+2022-02-24,202202240BRK,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202202240BRK.html,29:38,.592,.563,.375,.125,0.0,10.1,5.7,0.0,1.6,0.0,0.0,12.4,119,106,-3.5
+2022-02-24,202202240BRK,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202202240BRK.html,20:23,.580,.500,.333,.556,6.2,19.6,13.7,19.3,0.0,0.0,0.0,24.0,137,107,0.2
+2022-02-24,202202240BRK,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202202240BRK.html,13:39,.500,.500,1.000,.000,0.0,7.3,4.1,18.0,3.4,0.0,0.0,19.2,118,103,3.4
+2022-02-24,202202240BRK,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202202240BRK.html,5:32,.000,.000,1.000,.000,0.0,18.1,10.1,0.0,0.0,0.0,50.0,15.8,0,108,-20.9
+2022-02-24,202202240BRK,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202202240BRK.html,5:32,1.000,1.000,.667,.000,0.0,0.0,0.0,60.6,0.0,0.0,25.0,31.6,152,111,21.9
+2022-02-24,202202240BRK,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202202240BRK.html,5:32,.667,.667,.333,.000,0.0,36.1,20.2,0.0,0.0,0.0,0.0,23.7,125,103,-1.8
+2022-02-24,202202240BRK,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202202240BRK.html,4:34,,,,,0.0,21.9,12.2,0.0,10.2,0.0,,0.0,0,85,3.6
+2022-02-24,202202240BRK,BOS,Brodric Thomas,https://www.basketball-reference.com/boxscores/202202240BRK.html,4:34,.694,1.000,.000,1.000,0.0,0.0,0.0,42.1,0.0,0.0,0.0,27.5,136,111,3.9
+2022-02-24,202202240BRK,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202202240BRK.html,34:33,.512,.458,.250,.500,5.8,18.3,11.3,21.7,4.1,0.0,6.4,18.7,111,121,2.9
+2022-02-24,202202240BRK,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202202240BRK.html,31:15,.579,.579,.368,.000,0.0,28.3,12.5,6.5,1.5,0.0,0.0,25.1,110,126,1.8
+2022-02-24,202202240BRK,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202202240BRK.html,28:40,.272,.208,.417,.167,0.0,13.2,5.8,28.2,0.0,3.9,7.2,20.0,71,129,-9.0
+2022-02-24,202202240BRK,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202202240BRK.html,27:33,.048,.000,.556,.333,0.0,4.6,2.0,13.4,0.0,0.0,8.8,17.0,24,133,-19.9
+2022-02-24,202202240BRK,BRK,Andre Drummond,https://www.basketball-reference.com/boxscores/202202240BRK.html,19:37,.709,.667,.167,.667,10.2,25.8,17.1,8.4,2.4,5.7,20.5,20.5,117,121,3.1
+2022-02-24,202202240BRK,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202202240BRK.html,30:55,.360,.308,.154,.154,3.2,0.0,1.8,14.2,1.5,0.0,6.7,19.9,80,130,-9.2
+2022-02-24,202202240BRK,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202202240BRK.html,18:43,1.332,1.375,.750,.500,10.7,20.2,14.9,17.8,0.0,0.0,17.0,13.0,200,130,15.3
+2022-02-24,202202240BRK,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202202240BRK.html,17:18,.541,.429,.000,.429,0.0,29.2,12.9,18.1,0.0,12.9,19.4,24.6,93,121,0.5
+2022-02-24,202202240BRK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202202240BRK.html,11:05,.800,.800,.000,.000,0.0,11.4,5.0,0.0,4.2,0.0,0.0,18.6,148,122,8.5
+2022-02-24,202202240BRK,BRK,David Duke Jr.,https://www.basketball-reference.com/boxscores/202202240BRK.html,8:15,.521,.500,.000,1.000,0.0,15.3,6.8,17.5,5.7,0.0,25.8,19.4,84,118,-2.3
+2022-02-24,202202240BRK,BRK,Blake Griffin,https://www.basketball-reference.com/boxscores/202202240BRK.html,6:34,.000,.000,1.000,.000,0.0,19.2,8.5,0.0,0.0,0.0,0.0,12.6,0,130,-22.3
+2022-02-24,202202240BRK,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202202240BRK.html,5:32,.735,.667,.333,1.333,18.1,0.0,10.1,40.1,0.0,0.0,0.0,35.5,159,134,22.4

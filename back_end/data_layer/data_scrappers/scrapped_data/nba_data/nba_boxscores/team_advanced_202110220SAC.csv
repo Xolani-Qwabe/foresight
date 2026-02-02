@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-22,202110220SAC,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202110220SAC.html,37:16,.504,.480,.560,.160,2.6,9.5,6.3,20.3,2.5,0.0,15.7,34.9,97,102,0.7
+2021-10-22,202110220SAC,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202110220SAC.html,33:39,.547,.545,.455,.182,0.0,13.2,6.9,4.8,1.4,0.0,20.2,18.1,91,103,-3.9
+2021-10-22,202110220SAC,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202110220SAC.html,32:21,.571,.571,.429,.000,6.1,5.5,5.8,4.6,5.8,2.4,12.5,10.1,117,95,5.1
+2021-10-22,202110220SAC,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202110220SAC.html,32:13,.746,.571,.000,1.429,18.2,38.6,28.9,9.6,2.9,0.0,26.0,19.6,130,88,4.8
+2021-10-22,202110220SAC,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202110220SAC.html,31:26,.618,.542,.500,.333,0.0,5.7,3.0,15.6,4.5,0.0,17.9,21.9,113,100,3.5
+2021-10-22,202110220SAC,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202110220SAC.html,23:31,.386,.368,.579,.053,4.2,15.1,9.9,16.5,4.0,0.0,4.9,35.6,89,96,-3.1
+2021-10-22,202110220SAC,UTA,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202110220SAC.html,15:47,.820,.750,.000,.500,18.6,33.8,26.6,10.9,0.0,4.8,0.0,12.7,186,94,10.3
+2021-10-22,202110220SAC,UTA,Eric Paschall,https://www.basketball-reference.com/boxscores/202110220SAC.html,14:43,.500,.500,.667,.000,0.0,6.0,3.2,0.0,0.0,5.2,0.0,8.4,109,106,-1.1
+2021-10-22,202110220SAC,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202110220SAC.html,7:21,1.000,1.000,.000,.000,0.0,0.0,0.0,42.9,0.0,0.0,0.0,5.6,215,112,7.6
+2021-10-22,202110220SAC,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202110220SAC.html,5:44,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.1,0,111,-16.7
+2021-10-22,202110220SAC,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202110220SAC.html,3:48,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-5.3
+2021-10-22,202110220SAC,UTA,Jared Butler,https://www.basketball-reference.com/boxscores/202110220SAC.html,2:11,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,-8.1
+2021-10-22,202110220SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202110220SAC.html,37:33,.552,.500,.300,.300,11.8,26.1,18.6,9.3,1.2,0.0,11.7,26.6,111,109,4.6
+2021-10-22,202110220SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202110220SAC.html,35:10,.289,.263,.263,.211,5.1,2.8,4.0,21.2,6.7,0.0,12.6,26.3,70,105,-3.8
+2021-10-22,202110220SAC,SAC,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202110220SAC.html,35:01,.603,.583,.167,.083,0.0,8.4,4.0,28.0,4.0,2.9,13.9,16.1,118,108,5.4
+2021-10-22,202110220SAC,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202110220SAC.html,19:31,.375,.375,.500,.000,4.6,10.0,7.2,0.0,2.4,0.0,11.1,18.0,76,112,-11.7
+2021-10-22,202110220SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202110220SAC.html,17:50,.600,.600,.000,.000,15.0,38.5,26.1,17.4,2.6,16.8,16.7,13.1,122,91,5.5
+2021-10-22,202110220SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202110220SAC.html,31:34,.169,.125,.500,.250,0.0,3.1,1.5,16.2,5.9,0.0,0.0,11.0,63,107,-4.2
+2021-10-22,202110220SAC,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202110220SAC.html,26:03,.571,.571,.714,.000,6.8,18.8,12.5,8.2,0.0,0.0,16.0,37.4,98,115,3.6
+2021-10-22,202110220SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202110220SAC.html,22:35,.725,.500,.000,4.000,3.9,13.0,8.3,0.0,0.0,4.4,0.0,9.5,163,115,-2.5
+2021-10-22,202110220SAC,SAC,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202110220SAC.html,10:27,.500,.500,.000,.000,0.0,37.5,17.8,0.0,0.0,0.0,33.3,11.2,64,107,-9.5
+2021-10-22,202110220SAC,SAC,Tristan Thompson,https://www.basketball-reference.com/boxscores/202110220SAC.html,4:16,.000,.000,.000,.000,41.7,0.0,21.8,0.0,0.0,0.0,0.0,18.3,54,122,-19.2

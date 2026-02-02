@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-04,201912040DAL,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/201912040DAL.html,37:14,.626,.605,.263,.211,11.0,15.3,13.0,37.4,1.4,2.3,8.8,26.1,137,128,10.1
+2019-12-04,201912040DAL,MIN,Andrew Wiggins,https://www.basketball-reference.com/boxscores/201912040DAL.html,31:38,.451,.354,.333,.458,9.7,7.2,8.5,5.8,0.0,8.3,9.4,43.0,98,130,-6.5
+2019-12-04,201912040DAL,MIN,Jarrett Culver,https://www.basketball-reference.com/boxscores/201912040DAL.html,28:15,.506,.450,.400,.200,10.8,20.2,15.3,33.8,1.8,6.2,8.4,18.0,131,124,8.6
+2019-12-04,201912040DAL,MIN,Robert Covington,https://www.basketball-reference.com/boxscores/201912040DAL.html,27:57,.846,.846,.769,.000,3.7,20.4,11.6,7.4,1.8,0.0,0.0,19.9,169,127,12.3
+2019-12-04,201912040DAL,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/201912040DAL.html,27:27,.595,.500,.400,.400,11.2,16.7,13.8,0.0,1.9,0.0,33.8,13.8,94,128,-8.9
+2019-12-04,201912040DAL,MIN,Jeff Teague,https://www.basketball-reference.com/boxscores/201912040DAL.html,27:44,.237,.000,.400,.600,0.0,4.1,1.9,28.1,0.0,0.0,13.7,11.3,93,136,-13.1
+2019-12-04,201912040DAL,MIN,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/201912040DAL.html,21:15,1.333,1.333,.667,.000,0.0,10.8,5.1,0.0,0.0,0.0,0.0,6.0,267,134,4.1
+2019-12-04,201912040DAL,MIN,Treveon Graham,https://www.basketball-reference.com/boxscores/201912040DAL.html,11:36,.700,.700,.600,.000,0.0,9.9,4.6,16.8,4.4,0.0,0.0,18.4,148,125,10.3
+2019-12-04,201912040DAL,MIN,Gorgui Dieng,https://www.basketball-reference.com/boxscores/201912040DAL.html,10:43,.000,.000,.000,.000,0.0,21.3,10.1,0.0,0.0,0.0,50.0,8.0,0,131,-20.2
+2019-12-04,201912040DAL,MIN,Shabazz Napier,https://www.basketball-reference.com/boxscores/201912040DAL.html,10:40,.258,.000,.667,.667,0.0,21.4,10.1,12.2,0.0,0.0,0.0,15.5,82,131,-13.9
+2019-12-04,201912040DAL,MIN,Jordan Bell,https://www.basketball-reference.com/boxscores/201912040DAL.html,5:31,.532,.000,.000,2.000,18.5,0.0,9.8,0.0,0.0,15.8,34.7,22.3,93,128,-11.9
+2019-12-04,201912040DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/201912040DAL.html,31:39,.431,.386,.364,.364,0.0,22.6,11.9,26.9,0.0,0.0,16.4,42.0,88,121,-10.7
+2019-12-04,201912040DAL,DAL,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201912040DAL.html,29:16,.567,.533,.400,.267,11.7,10.5,11.1,0.0,0.0,3.2,0.0,25.0,131,125,-2.1
+2019-12-04,201912040DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201912040DAL.html,25:46,.394,.313,.625,.250,4.4,7.9,6.3,0.0,0.0,0.0,0.0,15.0,100,128,-9.5
+2019-12-04,201912040DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/201912040DAL.html,25:15,1.071,1.111,.222,.556,9.1,12.1,10.7,26.3,2.0,7.5,0.0,19.3,218,117,28.3
+2019-12-04,201912040DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201912040DAL.html,23:48,.400,.400,.400,.000,14.4,0.0,6.8,9.6,2.2,7.9,0.0,9.2,130,123,1.2
+2019-12-04,201912040DAL,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/201912040DAL.html,28:21,.450,.375,.500,.250,0.0,14.4,7.6,12.4,3.6,0.0,10.1,15.2,103,117,-4.0
+2019-12-04,201912040DAL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/201912040DAL.html,26:26,.872,.833,.667,.333,8.6,11.6,10.2,9.4,1.9,0.0,22.5,14.6,143,122,5.4
+2019-12-04,201912040DAL,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/201912040DAL.html,17:34,1.000,1.000,.375,.000,6.5,17.4,12.3,30.5,0.0,0.0,0.0,19.9,203,124,22.0
+2019-12-04,201912040DAL,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/201912040DAL.html,16:52,.500,.500,.000,.000,0.0,18.2,9.6,28.2,0.0,0.0,0.0,10.3,140,123,-0.9
+2019-12-04,201912040DAL,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/201912040DAL.html,15:03,.357,.357,.429,.000,7.6,27.1,17.9,0.0,0.0,0.0,0.0,20.3,91,119,-10.4

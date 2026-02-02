@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-04-15,202104150LAL,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202104150LAL.html,32.1,17,20,.850,3,5,.600,3,3,1.000,0,9,9,3,1,0,6,2,40,31.8,+36
+2021-04-15,202104150LAL,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202104150LAL.html,31.92,5,8,.625,3,6,.500,2,2,1.000,0,6,6,4,1,0,3,3,15,12.8,+15
+2021-04-15,202104150LAL,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202104150LAL.html,27.78,6,14,.429,2,5,.400,0,0,,0,5,5,5,0,0,0,0,14,11.6,+14
+2021-04-15,202104150LAL,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202104150LAL.html,24.87,6,8,.750,0,0,,2,4,.500,2,4,6,5,0,1,2,2,14,14.0,+11
+2021-04-15,202104150LAL,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202104150LAL.html,24.58,4,7,.571,2,3,.667,2,2,1.000,0,2,2,7,0,0,2,2,12,11.4,+16
+2021-04-15,202104150LAL,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202104150LAL.html,19.92,2,4,.500,0,1,.000,0,0,,0,5,5,0,1,0,2,3,4,1.3,+12
+2021-04-15,202104150LAL,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202104150LAL.html,19.82,5,11,.455,3,6,.500,2,2,1.000,3,4,7,3,0,0,1,1,15,13.3,+8
+2021-04-15,202104150LAL,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202104150LAL.html,17.95,1,4,.250,1,4,.250,0,0,,0,3,3,3,0,4,0,1,3,6.0,+17
+2021-04-15,202104150LAL,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202104150LAL.html,16.63,1,3,.333,0,0,,0,0,,1,2,3,2,0,0,0,1,2,2.6,0
+2021-04-15,202104150LAL,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202104150LAL.html,7.38,1,2,.500,0,1,.000,0,0,,1,0,1,0,0,0,1,1,2,0.3,-18
+2021-04-15,202104150LAL,BOS,Moritz Wagner,https://www.basketball-reference.com/boxscores/202104150LAL.html,5.18,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,3,2,0,-3.5,-20
+2021-04-15,202104150LAL,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202104150LAL.html,4.43,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-17
+2021-04-15,202104150LAL,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202104150LAL.html,3.72,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-17
+2021-04-15,202104150LAL,BOS,Tremont Waters,https://www.basketball-reference.com/boxscores/202104150LAL.html,3.72,0,2,.000,0,0,,0,0,,0,0,0,1,1,0,1,1,0,-1.1,-17
+2021-04-15,202104150LAL,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202104150LAL.html,29.07,5,14,.357,2,6,.333,1,2,.500,1,1,2,1,1,0,0,2,13,6.7,-20
+2021-04-15,202104150LAL,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202104150LAL.html,28.1,3,8,.375,1,2,.500,1,2,.500,0,1,1,8,0,0,0,1,8,8.7,-19
+2021-04-15,202104150LAL,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202104150LAL.html,23.38,1,7,.143,0,3,.000,0,1,.000,0,3,3,2,3,0,0,3,2,1.2,-3
+2021-04-15,202104150LAL,LAL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202104150LAL.html,22.97,1,7,.143,1,6,.167,0,0,,0,1,1,0,2,0,0,2,3,0.0,-17
+2021-04-15,202104150LAL,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202104150LAL.html,20.9,7,10,.700,4,6,.667,0,0,,2,2,4,3,0,0,1,1,18,16.5,-13
+2021-04-15,202104150LAL,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202104150LAL.html,27.1,7,15,.467,0,3,.000,5,5,1.000,1,5,6,7,3,0,2,0,19,19.4,-4
+2021-04-15,202104150LAL,LAL,Ben McLemore,https://www.basketball-reference.com/boxscores/202104150LAL.html,23.02,7,12,.583,2,6,.333,1,1,1.000,1,2,3,2,0,0,1,2,17,12.3,+11
+2021-04-15,202104150LAL,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202104150LAL.html,20.08,5,11,.455,0,0,,2,2,1.000,3,5,8,3,1,1,0,0,12,13.7,-14
+2021-04-15,202104150LAL,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202104150LAL.html,15.7,4,6,.667,2,3,.667,0,0,,1,1,2,0,1,0,0,1,10,9.0,+11
+2021-04-15,202104150LAL,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202104150LAL.html,15.65,3,6,.500,0,2,.000,0,0,,1,1,2,2,1,0,2,2,6,3.6,-10
+2021-04-15,202104150LAL,LAL,Devontae Cacok,https://www.basketball-reference.com/boxscores/202104150LAL.html,7.02,1,1,1.000,0,0,,1,2,.500,0,0,0,0,0,0,1,1,3,0.9,+19
+2021-04-15,202104150LAL,LAL,Kostas Antetokounmpo,https://www.basketball-reference.com/boxscores/202104150LAL.html,7.02,0,1,.000,0,0,,2,4,.500,1,3,4,0,0,1,1,1,2,1.4,+19

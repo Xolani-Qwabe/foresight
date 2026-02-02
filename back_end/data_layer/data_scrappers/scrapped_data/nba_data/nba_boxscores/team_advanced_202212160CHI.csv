@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-16,202212160CHI,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202212160CHI.html,37:53,.543,.525,.250,.550,0.0,13.7,5.7,9.9,0.0,0.0,7.5,29.3,109,100,-0.1
+2022-12-16,202212160CHI,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202212160CHI.html,36:02,.498,.438,.500,.438,5.1,36.0,18.0,18.4,4.1,2.8,9.5,24.2,110,87,7.2
+2022-12-16,202212160CHI,NYK,Jalen Brunson,https://www.basketball-reference.com/boxscores/202212160CHI.html,31:24,.739,.714,.643,.143,0.0,8.3,3.4,34.9,4.7,0.0,16.8,23.5,134,90,15.0
+2022-12-16,202212160CHI,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202212160CHI.html,28:53,.870,.850,.900,.600,0.0,9.0,3.7,12.3,1.7,0.0,0.0,18.1,182,97,15.7
+2022-12-16,202212160CHI,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202212160CHI.html,27:49,.773,.667,.000,.667,13.3,23.3,17.4,10.3,3.5,3.7,20.5,7.3,156,88,6.0
+2022-12-16,202212160CHI,NYK,Immanuel Quickley,https://www.basketball-reference.com/boxscores/202212160CHI.html,26:12,.121,.083,.583,.083,0.0,5.0,2.1,10.4,1.9,0.0,0.0,19.6,42,97,-16.5
+2022-12-16,202212160CHI,NYK,Jericho Sims,https://www.basketball-reference.com/boxscores/202212160CHI.html,15:32,1.000,1.000,.000,.000,11.9,8.4,10.4,0.0,0.0,0.0,0.0,5.3,210,101,0.4
+2022-12-16,202212160CHI,NYK,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202212160CHI.html,13:39,.190,.143,.143,.286,40.6,38.0,39.5,0.0,0.0,0.0,11.3,26.9,77,99,-19.0
+2022-12-16,202212160CHI,NYK,Miles McBride,https://www.basketball-reference.com/boxscores/202212160CHI.html,13:38,.727,.667,.333,.333,6.8,28.5,15.8,11.8,7.2,0.0,0.0,10.4,167,83,14.1
+2022-12-16,202212160CHI,NYK,Derrick Rose,https://www.basketball-reference.com/boxscores/202212160CHI.html,3:31,.500,.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,47.0,71,101,-16.5
+2022-12-16,202212160CHI,NYK,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202212160CHI.html,2:58,.000,.000,1.000,.000,0.0,43.7,18.2,0.0,16.5,0.0,0.0,13.9,0,60,2.5
+2022-12-16,202212160CHI,NYK,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202212160CHI.html,2:29,.000,.000,.000,.000,0.0,100.0,43.4,0.0,0.0,0.0,0.0,16.7,0,96,-17.7
+2022-12-16,202212160CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202212160CHI.html,30:46,.470,.429,.071,.143,0.0,12.0,7.0,23.4,1.6,0.0,21.2,29.3,79,116,-7.4
+2022-12-16,202212160CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202212160CHI.html,30:26,.708,.708,.417,.000,0.0,9.1,5.3,19.0,0.0,0.0,29.4,26.7,90,121,-3.5
+2022-12-16,202212160CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202212160CHI.html,29:45,.556,.556,.444,.000,0.0,3.1,1.8,16.4,0.0,0.0,10.0,16.1,100,124,-0.4
+2022-12-16,202212160CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202212160CHI.html,29:19,.563,.563,.375,.000,4.4,22.0,14.7,22.2,0.0,0.0,20.0,16.3,101,115,0.5
+2022-12-16,202212160CHI,CHI,Alex Caruso,https://www.basketball-reference.com/boxscores/202212160CHI.html,25:08,.571,.571,.714,.286,0.0,11.0,6.4,25.2,2.0,4.0,20.2,18.8,98,113,2.5
+2022-12-16,202212160CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202212160CHI.html,22:12,.500,.500,.571,.000,0.0,20.8,12.1,7.3,0.0,0.0,22.2,19.4,73,115,-9.1
+2022-12-16,202212160CHI,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202212160CHI.html,18:15,.717,.625,.250,.500,7.1,10.1,8.9,8.6,0.0,0.0,0.0,12.8,149,121,3.4
+2022-12-16,202212160CHI,CHI,Goran Dragić,https://www.basketball-reference.com/boxscores/202212160CHI.html,16:19,.654,.583,.500,.333,0.0,11.3,6.6,21.7,0.0,0.0,12.7,23.1,115,120,0.1
+2022-12-16,202212160CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202212160CHI.html,14:41,.417,.417,.500,.000,0.0,0.0,0.0,33.3,0.0,0.0,14.3,22.8,85,125,-4.4
+2022-12-16,202212160CHI,CHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202212160CHI.html,9:38,,,,,0.0,47.9,28.0,13.8,0.0,0.0,100.0,5.0,49,101,-8.8
+2022-12-16,202212160CHI,CHI,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202212160CHI.html,9:03,.333,.333,.333,.000,0.0,20.4,11.9,0.0,5.4,11.0,25.0,21.1,45,98,-4.9
+2022-12-16,202212160CHI,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202212160CHI.html,4:28,1.000,1.000,.000,.000,0.0,62.0,36.2,0.0,0.0,0.0,0.0,10.7,200,97,9.4

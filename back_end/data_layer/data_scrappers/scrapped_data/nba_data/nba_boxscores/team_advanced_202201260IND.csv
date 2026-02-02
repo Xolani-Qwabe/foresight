@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-26,202201260IND,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202201260IND.html,38:01,.797,.781,.250,.313,3.9,25.3,16.4,40.9,1.2,2.2,18.0,23.3,152,114,8.5
+2022-01-26,202201260IND,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202201260IND.html,28:00,.972,.950,.500,.300,0.0,15.2,8.9,4.3,0.0,0.0,8.1,17.5,171,122,2.5
+2022-01-26,202201260IND,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202201260IND.html,27:49,.727,.667,.667,.333,0.0,7.7,4.5,11.9,3.2,0.0,12.7,22.6,134,118,2.3
+2022-01-26,202201260IND,CHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202201260IND.html,27:10,.608,.750,.000,1.000,5.5,11.8,9.2,21.8,1.7,3.0,14.8,9.9,143,118,1.6
+2022-01-26,202201260IND,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202201260IND.html,26:01,.619,.625,.625,.250,5.8,8.2,7.2,11.9,1.7,6.4,10.1,15.1,130,118,0.4
+2022-01-26,202201260IND,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202201260IND.html,35:12,.945,.944,.833,.333,12.8,6.1,8.9,10.9,2.5,0.0,4.6,24.5,178,119,15.8
+2022-01-26,202201260IND,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202201260IND.html,22:20,.412,.321,.286,.286,6.7,9.6,8.4,4.7,0.0,0.0,11.3,31.7,88,124,-23.6
+2022-01-26,202201260IND,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202201260IND.html,17:45,.712,.600,.400,.600,0.0,6.0,3.5,23.6,5.1,0.0,13.7,16.4,149,114,2.1
+2022-01-26,202201260IND,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202201260IND.html,4:52,.868,1.000,.000,1.000,0.0,43.8,25.6,0.0,0.0,0.0,0.0,23.6,166,111,5.9
+2022-01-26,202201260IND,CHO,Ish Smith,https://www.basketball-reference.com/boxscores/202201260IND.html,4:52,.000,.000,.000,.000,0.0,0.0,0.0,36.5,0.0,17.0,0.0,8.2,118,120,5.0
+2022-01-26,202201260IND,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202201260IND.html,4:52,.000,.000,.500,.000,0.0,21.9,12.8,0.0,0.0,0.0,0.0,16.4,0,119,-26.3
+2022-01-26,202201260IND,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202201260IND.html,3:05,1.500,1.500,1.000,.000,48.6,0.0,20.2,40.5,0.0,0.0,0.0,12.9,265,127,26.5
+2022-01-26,202201260IND,IND,Torrey Craig,https://www.basketball-reference.com/boxscores/202201260IND.html,26:33,.643,.650,.200,.200,4.0,11.3,7.0,10.9,0.0,0.0,15.5,18.5,114,153,-7.8
+2022-01-26,202201260IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202201260IND.html,23:19,.672,.643,1.000,.143,0.0,0.0,0.0,16.3,1.9,0.0,11.8,13.8,134,150,-2.5
+2022-01-26,202201260IND,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202201260IND.html,22:19,.564,.438,.375,.500,4.8,20.2,11.2,0.0,2.0,0.0,9.3,18.4,119,147,-6.5
+2022-01-26,202201260IND,IND,Caris LeVert,https://www.basketball-reference.com/boxscores/202201260IND.html,19:40,.519,.429,.286,.857,10.8,15.3,12.7,33.3,0.0,0.0,0.0,18.7,142,152,-4.6
+2022-01-26,202201260IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202201260IND.html,18:40,.660,.667,.167,.167,34.3,0.0,20.0,22.0,0.0,0.0,18.9,32.4,118,154,-4.3
+2022-01-26,202201260IND,IND,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201260IND.html,28:20,.554,.500,.200,.600,0.0,31.8,13.2,47.7,0.0,0.0,13.7,19.7,126,150,-2.5
+2022-01-26,202201260IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202201260IND.html,24:24,.730,.611,.111,.667,13.1,6.1,10.2,11.5,1.8,4.1,25.6,24.4,120,147,-4.5
+2022-01-26,202201260IND,IND,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201260IND.html,23:46,.393,.393,.500,.000,0.0,18.9,7.9,17.9,1.9,0.0,22.2,28.9,73,147,-19.0
+2022-01-26,202201260IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201260IND.html,16:45,.579,.333,.333,1.000,12.7,35.8,22.3,7.0,5.4,0.0,0.0,9.8,157,137,0.3
+2022-01-26,202201260IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201260IND.html,14:40,.500,.500,.667,.000,0.0,0.0,0.0,8.7,6.1,6.8,0.0,15.6,121,136,2.7
+2022-01-26,202201260IND,IND,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201260IND.html,11:50,.595,.500,.600,.400,0.0,0.0,0.0,22.6,3.8,8.5,25.4,25.4,103,140,-2.3
+2022-01-26,202201260IND,IND,Terry Taylor,https://www.basketball-reference.com/boxscores/202201260IND.html,9:42,1.064,1.000,.000,2.000,22.0,46.4,32.1,25.3,0.0,0.0,0.0,7.4,225,148,8.2

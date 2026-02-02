@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2025-01-29,202501290BOS,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202501290BOS.html,31:31,.462,.462,.385,.000,3.1,10.6,6.6,20.7,1.5,0.0,7.1,19.0,99,124,-2.7
+2025-01-29,202501290BOS,CHI,Coby White,https://www.basketball-reference.com/boxscores/202501290BOS.html,30:35,.504,.467,.467,.133,0.0,7.3,3.4,17.1,0.0,0.0,20.1,27.8,83,128,-8.3
+2025-01-29,202501290BOS,CHI,Josh Giddey,https://www.basketball-reference.com/boxscores/202501290BOS.html,25:32,.563,.563,.500,.250,3.8,13.1,8.2,38.3,1.9,0.0,10.1,16.5,123,122,3.9
+2025-01-29,202501290BOS,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202501290BOS.html,24:52,.333,.333,.333,.000,7.9,40.4,23.1,12.4,0.0,9.0,18.2,18.9,72,116,-8.0
+2025-01-29,202501290BOS,CHI,Lonzo Ball,https://www.basketball-reference.com/boxscores/202501290BOS.html,23:11,.483,.375,.750,.375,8.5,4.8,6.8,25.2,2.1,0.0,24.4,22.7,94,123,-2.4
+2025-01-29,202501290BOS,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202501290BOS.html,30:09,.699,.682,.636,.091,3.2,22.2,12.1,23.2,0.0,3.7,14.9,19.1,121,123,6.3
+2025-01-29,202501290BOS,CHI,Jalen Smith,https://www.basketball-reference.com/boxscores/202501290BOS.html,23:08,.414,.350,.500,.200,12.7,38.6,24.8,6.7,0.0,14.5,8.4,22.0,93,112,-0.6
+2025-01-29,202501290BOS,CHI,Matas Buzelis,https://www.basketball-reference.com/boxscores/202501290BOS.html,21:34,.872,.833,.667,.333,0.0,20.7,9.7,0.0,0.0,5.2,0.0,13.6,165,121,3.4
+2025-01-29,202501290BOS,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202501290BOS.html,12:59,.250,.250,.250,.000,0.0,8.6,4.0,33.3,0.0,0.0,0.0,13.2,87,127,-9.4
+2025-01-29,202501290BOS,CHI,Julian Phillips,https://www.basketball-reference.com/boxscores/202501290BOS.html,10:54,.500,.500,.800,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.6,94,129,-6.5
+2025-01-29,202501290BOS,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202501290BOS.html,3:45,.500,.500,1.000,.000,0.0,0.0,0.0,52.9,0.0,0.0,0.0,34.2,113,129,8.6
+2025-01-29,202501290BOS,CHI,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202501290BOS.html,1:50,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-10.5
+2025-01-29,202501290BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202501290BOS.html,39:49,.698,.643,.714,.286,0.0,2.5,1.3,18.5,0.0,2.8,0.0,17.6,144,109,4.6
+2025-01-29,202501290BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202501290BOS.html,35:37,.613,.583,.278,.611,0.0,16.5,8.8,29.4,1.3,0.0,0.0,28.5,132,102,4.8
+2025-01-29,202501290BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202501290BOS.html,33:05,.824,.778,.778,.333,3.4,29.6,17.3,16.4,4.4,0.0,4.6,29.1,149,91,21.6
+2025-01-29,202501290BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202501290BOS.html,31:44,.477,.400,.400,.267,0.0,24.7,13.2,22.6,0.0,0.0,15.2,27.7,92,103,-5.7
+2025-01-29,202501290BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202501290BOS.html,22:31,.333,.333,.444,.000,19.8,13.1,16.2,18.5,2.1,0.0,18.2,21.7,91,102,-7.2
+2025-01-29,202501290BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202501290BOS.html,34:13,.833,.833,.500,.000,0.0,5.7,3.0,27.7,2.8,3.3,14.3,9.1,156,100,7.0
+2025-01-29,202501290BOS,BOS,Jaden Springer,https://www.basketball-reference.com/boxscores/202501290BOS.html,19:58,.515,.500,.667,.667,0.0,24.5,13.1,12.5,4.8,5.6,20.5,10.9,96,88,3.9
+2025-01-29,202501290BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202501290BOS.html,14:36,.333,.333,.000,.000,7.6,6.7,7.1,0.0,0.0,0.0,0.0,9.1,89,109,-12.3
+2025-01-29,202501290BOS,BOS,Drew Peterson,https://www.basketball-reference.com/boxscores/202501290BOS.html,5:01,.000,.000,.000,.000,0.0,39.1,20.8,0.0,0.0,0.0,0.0,8.9,0,98,-16.5
+2025-01-29,202501290BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202501290BOS.html,1:43,,,,,0.0,0.0,0.0,68.2,0.0,0.0,,0.0,244,111,20.9
+2025-01-29,202501290BOS,BOS,Jordan Walsh,https://www.basketball-reference.com/boxscores/202501290BOS.html,1:43,,,,,0.0,57.1,30.4,0.0,0.0,0.0,,0.0,0,92,-1.5

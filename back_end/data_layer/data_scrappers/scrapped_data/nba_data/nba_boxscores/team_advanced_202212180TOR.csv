@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-18,202212180TOR,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202212180TOR.html,36:34,.567,.567,.400,.000,10.6,16.8,14.1,19.4,0.0,0.0,11.8,20.4,125,119,-1.4
+2022-12-18,202212180TOR,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202212180TOR.html,34:35,.772,.717,.478,.478,0.0,3.0,1.7,35.3,1.5,0.0,12.6,40.4,142,122,10.4
+2022-12-18,202212180TOR,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202212180TOR.html,34:32,.571,.536,.643,.143,0.0,20.7,11.6,16.0,1.5,0.0,6.3,20.2,126,113,-0.1
+2022-12-18,202212180TOR,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202212180TOR.html,32:34,.500,.500,.600,.000,0.0,3.1,1.8,22.1,3.1,0.0,37.5,10.8,99,119,-3.4
+2022-12-18,202212180TOR,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202212180TOR.html,28:10,.661,.571,.000,.429,27.6,18.1,22.3,9.4,0.0,2.7,0.0,13.0,172,117,2.2
+2022-12-18,202212180TOR,GSW,Ty Jerome,https://www.basketball-reference.com/boxscores/202212180TOR.html,17:56,.945,1.000,1.000,1.333,0.0,17.1,9.6,28.4,0.0,0.0,29.6,16.5,143,119,5.4
+2022-12-18,202212180TOR,GSW,JaMychal Green,https://www.basketball-reference.com/boxscores/202212180TOR.html,17:22,.856,.857,.429,.571,14.9,29.4,23.0,9.5,0.0,4.5,18.6,27.2,138,110,10.2
+2022-12-18,202212180TOR,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202212180TOR.html,14:57,1.500,1.500,1.000,.000,0.0,0.0,0.0,8.8,0.0,0.0,33.3,8.8,147,128,6.9
+2022-12-18,202212180TOR,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202212180TOR.html,10:51,,,,,0.0,0.0,0.0,0.0,4.7,0.0,100.0,4.0,0,116,-8.1
+2022-12-18,202212180TOR,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202212180TOR.html,5:23,.250,.250,.250,.000,0.0,0.0,0.0,26.2,9.5,0.0,0.0,32.6,78,106,-12.8
+2022-12-18,202212180TOR,GSW,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202212180TOR.html,2:21,.266,.000,1.000,2.000,0.0,43.5,24.3,47.5,0.0,0.0,34.7,53.8,61,105,-28.6
+2022-12-18,202212180TOR,GSW,Ryan Rollins,https://www.basketball-reference.com/boxscores/202212180TOR.html,2:21,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-5.8
+2022-12-18,202212180TOR,GSW,James Wiseman,https://www.basketball-reference.com/boxscores/202212180TOR.html,2:21,,,,,55.2,0.0,24.3,0.0,0.0,0.0,,0.0,237,128,-2.9
+2022-12-18,202212180TOR,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202212180TOR.html,36:58,.585,.525,.250,.350,5.5,10.5,7.7,22.9,0.0,0.0,4.2,26.8,138,138,5.4
+2022-12-18,202212180TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202212180TOR.html,34:40,.557,.500,.556,.222,0.0,15.0,6.6,36.5,1.5,0.0,9.2,25.8,129,133,3.1
+2022-12-18,202212180TOR,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202212180TOR.html,31:35,.504,.469,.188,.125,6.5,12.3,9.0,20.7,1.6,0.0,15.1,25.9,107,133,-2.4
+2022-12-18,202212180TOR,TOR,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202212180TOR.html,23:13,.375,.375,.750,.000,8.8,11.2,9.8,0.0,0.0,4.9,20.0,8.9,86,135,-9.4
+2022-12-18,202212180TOR,TOR,Christian Koloko,https://www.basketball-reference.com/boxscores/202212180TOR.html,20:05,.798,1.000,.000,2.000,5.1,12.9,8.5,0.0,0.0,5.7,51.5,7.9,75,134,-11.3
+2022-12-18,202212180TOR,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202212180TOR.html,37:10,.500,.500,.500,.000,11.0,7.0,9.2,8.0,1.4,0.0,0.0,17.7,131,136,0.4
+2022-12-18,202212180TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202212180TOR.html,24:43,.468,.400,.200,.400,28.9,36.7,32.4,0.0,0.0,0.0,7.8,21.2,118,130,-8.5
+2022-12-18,202212180TOR,TOR,Thaddeus Young,https://www.basketball-reference.com/boxscores/202212180TOR.html,17:20,.717,.750,.250,.500,0.0,15.0,6.6,0.0,8.8,0.0,29.1,16.3,94,116,0.4
+2022-12-18,202212180TOR,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202212180TOR.html,12:47,.311,.333,.167,.167,0.0,0.0,0.0,23.1,0.0,0.0,0.0,20.7,91,141,-11.0
+2022-12-18,202212180TOR,TOR,Khem Birch,https://www.basketball-reference.com/boxscores/202212180TOR.html,1:29,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,141,-9.4

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-12-29,202012290WAS,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202012290WAS.html,38:17,.607,.500,.467,.600,5.7,9.4,7.5,24.7,4.7,0.0,13.7,23.9,117,96,8.3
+2020-12-29,202012290WAS,CHI,Coby White,https://www.basketball-reference.com/boxscores/202012290WAS.html,36:57,.571,.500,.357,.286,0.0,16.2,7.7,25.8,0.0,0.0,11.3,20.0,112,106,1.4
+2020-12-29,202012290WAS,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202012290WAS.html,34:11,.563,.625,.125,.250,0.0,42.1,20.1,13.6,0.0,0.0,18.4,13.3,94,100,-2.4
+2020-12-29,202012290WAS,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202012290WAS.html,20:21,.600,.600,.300,.000,5.4,0.0,2.8,18.0,0.0,0.0,9.1,22.5,110,109,0.6
+2020-12-29,202012290WAS,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202012290WAS.html,19:15,.483,.438,.250,.375,5.7,18.7,11.9,0.0,0.0,0.0,9.7,22.4,89,105,-6.9
+2020-12-29,202012290WAS,CHI,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202012290WAS.html,29:21,.633,.550,.700,.600,3.7,8.2,5.8,5.2,0.0,0.0,13.7,20.8,110,107,-1.8
+2020-12-29,202012290WAS,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202012290WAS.html,28:36,.510,.500,.600,.400,0.0,4.2,2.0,10.7,1.6,0.0,0.0,17.2,105,104,-0.8
+2020-12-29,202012290WAS,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202012290WAS.html,20:06,.714,.714,.571,.000,0.0,11.9,5.7,50.4,4.5,0.0,22.2,18.7,123,96,11.8
+2020-12-29,202012290WAS,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202012290WAS.html,6:31,.543,.000,.000,4.000,0.0,18.4,8.8,0.0,0.0,15.7,0.0,17.7,119,95,-5.2
+2020-12-29,202012290WAS,CHI,Chandler Hutchison,https://www.basketball-reference.com/boxscores/202012290WAS.html,6:25,.250,.250,.250,.000,0.0,56.1,26.7,0.0,0.0,0.0,20.0,32.5,38,97,-23.2
+2020-12-29,202012290WAS,WAS,Russell Westbrook,https://www.basketball-reference.com/boxscores/202012290WAS.html,37:44,.587,.559,.235,.118,0.0,43.4,22.7,54.8,1.2,0.0,25.1,26.5,102,107,2.5
+2020-12-29,202012290WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202012290WAS.html,36:32,.594,.475,.250,.500,6.6,6.0,6.3,15.7,2.5,2.6,17.0,33.8,106,107,1.1
+2020-12-29,202012290WAS,WAS,Thomas Bryant,https://www.basketball-reference.com/boxscores/202012290WAS.html,33:32,.580,.611,.222,.556,10.7,9.8,10.2,9.6,0.0,5.6,26.3,19.0,93,110,-5.5
+2020-12-29,202012290WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202012290WAS.html,26:19,.750,.750,.833,.000,0.0,16.6,8.7,23.1,3.5,3.6,14.3,11.2,133,102,8.4
+2020-12-29,202012290WAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/202012290WAS.html,15:49,.000,.000,1.000,.000,7.6,20.7,14.5,0.0,0.0,0.0,33.3,8.0,24,113,-12.0
+2020-12-29,202012290WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202012290WAS.html,26:17,.716,.550,.900,.900,4.6,12.5,8.7,12.3,1.7,0.0,0.0,22.3,156,110,8.8
+2020-12-29,202012290WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/202012290WAS.html,21:15,.286,.286,.286,.000,0.0,10.3,5.4,7.0,0.0,8.9,0.0,13.8,67,107,-5.6
+2020-12-29,202012290WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202012290WAS.html,14:44,.143,.143,.857,.000,0.0,7.4,3.9,0.0,0.0,0.0,0.0,19.9,32,115,-20.7
+2020-12-29,202012290WAS,WAS,Robin Lopez,https://www.basketball-reference.com/boxscores/202012290WAS.html,13:33,.750,.750,.000,.000,8.9,40.3,25.3,0.0,0.0,0.0,20.0,15.5,112,110,-5.5
+2020-12-29,202012290WAS,WAS,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202012290WAS.html,10:25,.000,.000,1.000,.000,0.0,10.5,5.5,24.9,0.0,0.0,50.0,8.1,48,114,-7.1
+2020-12-29,202012290WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202012290WAS.html,3:25,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.3,300,116,21.7
+2020-12-29,202012290WAS,WAS,Garrison Mathews,https://www.basketball-reference.com/boxscores/202012290WAS.html,0:25,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,-6.8

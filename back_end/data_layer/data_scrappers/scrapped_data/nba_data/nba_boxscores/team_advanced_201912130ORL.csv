@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-13,201912130ORL,HOU,James Harden,https://www.basketball-reference.com/boxscores/201912130ORL.html,36:14,.803,.774,.484,.194,8.5,8.3,8.4,40.6,2.9,7.4,8.2,48.2,158,114,28.8
+2019-12-13,201912130ORL,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/201912130ORL.html,34:33,.872,.917,.833,.333,0.0,31.8,19.3,3.3,3.1,0.0,22.5,12.2,130,110,2.9
+2019-12-13,201912130ORL,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/201912130ORL.html,34:32,.582,.528,.167,.222,4.5,17.4,12.3,23.5,0.0,0.0,9.2,30.0,128,123,-4.3
+2019-12-13,201912130ORL,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/201912130ORL.html,34:00,.500,.500,.500,.000,4.6,5.9,5.4,3.0,0.0,2.6,0.0,2.8,150,126,-4.0
+2019-12-13,201912130ORL,HOU,Clint Capela,https://www.basketball-reference.com/boxscores/201912130ORL.html,29:39,.556,.556,.000,.000,15.7,27.0,22.5,0.0,0.0,6.0,0.0,14.5,134,115,-4.7
+2019-12-13,201912130ORL,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/201912130ORL.html,26:59,1.286,1.286,1.000,.000,0.0,3.7,2.3,9.5,0.0,0.0,12.5,14.1,211,129,13.9
+2019-12-13,201912130ORL,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/201912130ORL.html,15:54,.000,.000,.333,.000,0.0,0.0,0.0,12.6,0.0,0.0,0.0,9.0,56,130,-15.6
+2019-12-13,201912130ORL,HOU,Gary Clark,https://www.basketball-reference.com/boxscores/201912130ORL.html,14:01,.699,.667,.833,.167,0.0,21.4,13.0,9.1,0.0,6.3,0.0,21.9,151,117,8.1
+2019-12-13,201912130ORL,HOU,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201912130ORL.html,6:38,.000,.000,.000,.000,0.0,0.0,0.0,15.1,8.1,0.0,0.0,7.2,74,111,-2.7
+2019-12-13,201912130ORL,HOU,Thabo Sefolosha,https://www.basketball-reference.com/boxscores/201912130ORL.html,4:29,,,,,0.0,22.3,13.6,0.0,0.0,0.0,100.0,10.6,0,121,-15.6
+2019-12-13,201912130ORL,HOU,Chris Clemons,https://www.basketball-reference.com/boxscores/201912130ORL.html,3:01,.333,.333,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.4,71,130,-32.0
+2019-12-13,201912130ORL,ORL,Aaron Gordon,https://www.basketball-reference.com/boxscores/201912130ORL.html,32:50,.680,.667,.333,.067,9.1,14.1,11.1,21.8,0.0,0.0,6.1,23.1,141,149,5.0
+2019-12-13,201912130ORL,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/201912130ORL.html,31:53,.333,.333,.000,.000,6.3,14.6,9.5,4.1,0.0,6.4,0.0,8.7,99,144,-8.6
+2019-12-13,201912130ORL,ORL,Jonathan Isaac,https://www.basketball-reference.com/boxscores/201912130ORL.html,26:55,.635,.571,.143,.286,0.0,17.3,6.8,5.4,0.0,3.8,11.3,15.2,118,145,-7.2
+2019-12-13,201912130ORL,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/201912130ORL.html,24:35,.715,.722,.611,.111,0.0,12.6,4.9,19.1,4.3,0.0,5.0,37.3,131,138,16.5
+2019-12-13,201912130ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/201912130ORL.html,20:58,.313,.313,.250,.000,0.0,22.2,8.7,32.3,0.0,0.0,0.0,17.6,100,147,-9.6
+2019-12-13,201912130ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/201912130ORL.html,27:29,.574,.500,.700,.300,0.0,5.6,2.2,10.6,1.9,7.4,0.0,19.0,130,140,2.4
+2019-12-13,201912130ORL,ORL,D.J. Augustin,https://www.basketball-reference.com/boxscores/201912130ORL.html,26:10,.300,.300,.800,.000,3.8,17.8,9.3,24.0,0.0,0.0,16.7,10.6,99,148,-11.0
+2019-12-13,201912130ORL,ORL,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/201912130ORL.html,21:22,.465,.389,.333,.444,14.0,14.5,14.2,13.5,0.0,4.8,15.7,27.6,101,145,-6.4
+2019-12-13,201912130ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/201912130ORL.html,15:00,.654,.583,.167,.333,20.0,31.0,24.3,10.5,0.0,0.0,0.0,21.2,155,146,3.5
+2019-12-13,201912130ORL,ORL,Melvin Frazier,https://www.basketball-reference.com/boxscores/201912130ORL.html,4:16,.500,.500,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.4,102,151,-14.8
+2019-12-13,201912130ORL,ORL,Wes Iwundu,https://www.basketball-reference.com/boxscores/201912130ORL.html,4:16,.333,.333,.333,.000,0.0,36.3,14.2,39.1,0.0,0.0,0.0,32.4,90,145,-8.9
+2019-12-13,201912130ORL,ORL,Amile Jefferson,https://www.basketball-reference.com/boxscores/201912130ORL.html,4:16,.000,.000,.000,2.000,23.4,0.0,14.2,0.0,0.0,0.0,0.0,20.3,39,151,-32.6

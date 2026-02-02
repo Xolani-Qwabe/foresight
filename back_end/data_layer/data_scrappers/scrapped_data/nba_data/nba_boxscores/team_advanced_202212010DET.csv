@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-01,202212010DET,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202212010DET.html,41:02,.633,.660,.560,.240,0.0,16.6,7.9,44.2,3.7,0.0,9.8,35.4,123,123,10.4
+2022-12-01,202212010DET,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202212010DET.html,40:14,.597,.600,.700,.200,6.1,10.1,8.0,7.7,2.5,2.2,0.0,25.6,122,125,2.1
+2022-12-01,202212010DET,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202212010DET.html,31:46,.600,.600,.800,.000,0.0,8.6,4.1,7.8,1.6,0.0,16.7,9.0,107,130,-4.5
+2022-12-01,202212010DET,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202212010DET.html,27:50,.266,.000,.500,2.000,0.0,0.0,0.0,24.8,0.0,3.2,21.0,8.1,104,134,-7.3
+2022-12-01,202212010DET,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202212010DET.html,17:32,.735,1.000,.000,1.333,0.0,7.8,3.7,0.0,0.0,5.1,45.7,23.7,65,129,-17.7
+2022-12-01,202212010DET,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202212010DET.html,34:35,.799,.808,.154,.462,3.6,27.5,15.0,15.0,0.0,0.0,11.3,24.2,144,128,3.4
+2022-12-01,202212010DET,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202212010DET.html,32:09,.625,.625,.625,.000,0.0,12.7,6.0,4.2,0.0,11.2,11.1,13.3,107,125,-1.5
+2022-12-01,202212010DET,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202212010DET.html,22:14,.615,.625,.750,.500,0.0,24.4,11.6,0.0,2.3,0.0,0.0,10.4,118,124,-3.4
+2022-12-01,202212010DET,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202212010DET.html,15:08,.600,.600,.400,.000,8.1,9.0,8.5,9.9,3.4,0.0,16.7,18.8,110,124,-7.7
+2022-12-01,202212010DET,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202212010DET.html,2:30,.431,.000,1.000,3.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,94,136,-18.5
+2022-12-01,202212010DET,DET,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202212010DET.html,41:11,.901,.893,.429,.429,0.0,12.0,6.3,13.5,2.5,0.0,10.7,20.4,164,119,11.0
+2022-12-01,202212010DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202212010DET.html,36:34,.375,.375,.333,.000,11.1,30.3,21.2,9.6,0.0,0.0,7.7,16.0,104,123,-6.5
+2022-12-01,202212010DET,DET,Marvin Bagley III,https://www.basketball-reference.com/boxscores/202212010DET.html,34:14,.752,.750,.200,.600,15.9,32.4,24.5,7.7,1.5,0.0,7.3,18.0,155,119,5.0
+2022-12-01,202212010DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202212010DET.html,32:59,.846,.846,.308,.000,0.0,14.9,7.8,36.8,0.0,0.0,13.3,20.5,158,123,5.5
+2022-12-01,202212010DET,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202212010DET.html,6:52,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,19.7,128,124,13.5
+2022-12-01,202212010DET,DET,Jaden Ivey,https://www.basketball-reference.com/boxscores/202212010DET.html,35:06,.477,.467,.467,.267,3.9,7.0,5.5,21.6,1.5,0.0,19.3,26.7,99,122,-7.0
+2022-12-01,202212010DET,DET,Alec Burks,https://www.basketball-reference.com/boxscores/202212010DET.html,19:48,.421,.409,.545,.182,0.0,37.4,19.6,6.6,5.2,0.0,0.0,27.1,101,110,-3.8
+2022-12-01,202212010DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202212010DET.html,18:33,.381,.357,.429,.286,14.7,19.9,17.4,6.3,0.0,0.0,0.0,19.2,110,123,-8.7
+2022-12-01,202212010DET,DET,Jalen Duren,https://www.basketball-reference.com/boxscores/202212010DET.html,18:24,.628,.714,.000,.571,7.4,6.7,7.0,0.0,5.5,0.0,10.2,23.9,112,112,-1.8
+2022-12-01,202212010DET,DET,Kevin Knox,https://www.basketball-reference.com/boxscores/202212010DET.html,11:49,1.000,1.000,.000,.000,11.5,10.4,10.9,9.6,4.3,0.0,0.0,3.8,212,112,2.2
+2022-12-01,202212010DET,DET,Cory Joseph,https://www.basketball-reference.com/boxscores/202212010DET.html,9:30,.000,.000,.500,.000,14.3,0.0,6.8,32.8,0.0,0.0,33.3,14.2,79,125,-13.1

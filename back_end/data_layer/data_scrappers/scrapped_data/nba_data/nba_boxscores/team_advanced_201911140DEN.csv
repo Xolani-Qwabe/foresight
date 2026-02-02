@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-11-14,201911140DEN,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/201911140DEN.html,34:43,.425,.425,.250,.000,2.5,11.9,7.3,49.9,1.4,0.0,0.0,25.4,101,102,5.7
+2019-11-14,201911140DEN,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/201911140DEN.html,31:23,.409,.409,.364,.000,2.8,5.3,4.1,0.0,1.5,0.0,15.4,18.2,70,105,-7.0
+2019-11-14,201911140DEN,BRK,Jarrett Allen,https://www.basketball-reference.com/boxscores/201911140DEN.html,29:51,.697,.700,.100,.500,2.9,25.0,14.2,0.0,0.0,2.4,0.0,18.0,138,99,7.9
+2019-11-14,201911140DEN,BRK,Taurean Prince,https://www.basketball-reference.com/boxscores/201911140DEN.html,27:05,.400,.400,.733,.000,0.0,24.4,12.5,13.1,0.0,0.0,6.3,26.0,77,101,-2.2
+2019-11-14,201911140DEN,BRK,Garrett Temple,https://www.basketball-reference.com/boxscores/201911140DEN.html,25:06,.295,.227,.455,.182,7.0,6.6,6.8,0.0,0.0,0.0,7.8,22.6,65,108,-9.9
+2019-11-14,201911140DEN,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/201911140DEN.html,34:41,.421,.361,.389,.278,0.0,2.4,1.2,20.0,1.4,0.0,0.0,25.6,92,106,-1.2
+2019-11-14,201911140DEN,BRK,Džanan Musa,https://www.basketball-reference.com/boxscores/201911140DEN.html,18:49,.740,.600,.600,.800,0.0,8.8,4.5,8.3,0.0,0.0,30.7,22.8,101,107,1.1
+2019-11-14,201911140DEN,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/201911140DEN.html,17:27,.000,.000,.000,.000,5.0,47.4,26.8,22.9,0.0,4.0,0.0,2.5,114,89,6.1
+2019-11-14,201911140DEN,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/201911140DEN.html,16:34,.333,.333,.667,.000,0.0,15.0,7.7,0.0,0.0,0.0,0.0,8.0,66,105,-6.4
+2019-11-14,201911140DEN,BRK,David Nwaba,https://www.basketball-reference.com/boxscores/201911140DEN.html,4:21,1.000,1.000,.000,.000,20.1,38.0,29.3,0.0,0.0,0.0,0.0,10.1,207,96,12.3
+2019-11-14,201911140DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/201911140DEN.html,37:58,.475,.471,.294,.118,0.0,13.8,6.7,15.4,0.0,0.0,0.0,20.1,106,98,-0.5
+2019-11-14,201911140DEN,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/201911140DEN.html,35:22,.714,.714,.429,.000,0.0,17.3,8.4,7.2,2.8,2.4,12.5,9.7,124,89,4.9
+2019-11-14,201911140DEN,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/201911140DEN.html,28:40,.175,.136,.364,.091,5.8,9.1,7.4,16.2,1.7,0.0,14.9,20.0,57,95,-9.6
+2019-11-14,201911140DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/201911140DEN.html,28:02,.643,.643,.357,.000,5.9,24.9,15.2,17.5,0.0,0.0,0.0,21.3,137,95,9.0
+2019-11-14,201911140DEN,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/201911140DEN.html,27:13,.556,.571,.286,.357,12.2,16.0,14.0,11.5,0.0,0.0,15.6,30.1,101,97,0.7
+2019-11-14,201911140DEN,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/201911140DEN.html,21:12,.545,.545,.545,.000,0.0,24.7,12.0,0.0,0.0,7.9,0.0,22.2,108,88,7.0
+2019-11-14,201911140DEN,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/201911140DEN.html,19:33,.500,.500,.100,.000,8.5,22.3,15.2,16.0,0.0,0.0,9.1,24.0,103,96,-0.4
+2019-11-14,201911140DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/201911140DEN.html,19:20,.421,.409,.182,.182,4.3,9.0,6.6,52.6,2.5,0.0,0.0,26.2,113,93,10.7
+2019-11-14,201911140DEN,DEN,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/201911140DEN.html,19:00,.250,.250,.500,.000,8.7,27.6,17.9,12.5,0.0,0.0,0.0,9.0,96,95,-0.8
+2019-11-14,201911140DEN,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/201911140DEN.html,3:40,.000,.000,.500,.000,22.6,0.0,11.6,0.0,0.0,0.0,0.0,23.3,35,101,-22.8

@@ -1,0 +1,79 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-02-23,202502230ORL,WAS,Q1,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202502230ORL.html,12.0,1,5,.200,0,2,.000,3,3,1.000,0,2,2,3,0,0,0,1,5,4.2,+2
+2025-02-23,202502230ORL,WAS,Q1,Justin Champagnie,https://www.basketball-reference.com/boxscores/202502230ORL.html,9.35,0,2,.000,0,0,,3,3,1.000,2,1,3,0,0,0,0,2,3,2.5,+4
+2025-02-23,202502230ORL,WAS,Q1,Richaun Holmes,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.02,2,3,.667,0,0,,1,2,.500,0,3,3,0,0,1,0,1,5,4.5,-2
+2025-02-23,202502230ORL,WAS,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.02,2,3,.667,0,1,.000,0,0,,0,1,1,1,1,0,1,1,4,3.3,-2
+2025-02-23,202502230ORL,WAS,Q1,Kyshawn George,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.17,2,4,.500,2,4,.500,0,2,.000,0,0,0,0,0,0,0,3,6,2.0,+2
+2025-02-23,202502230ORL,WAS,Q1,Bub Carrington,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.23,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,+1
+2025-02-23,202502230ORL,WAS,Q1,Corey Kispert,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.13,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,+1
+2025-02-23,202502230ORL,WAS,Q1,Tristan Vukcevic,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.88,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+4
+2025-02-23,202502230ORL,WAS,Q1,Anthony Gill,https://www.basketball-reference.com/boxscores/202502230ORL.html,0.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2025-02-23,202502230ORL,WAS,Q1,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202502230ORL.html,0.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2025-02-23,202502230ORL,WAS,Q2,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.3,1,3,.333,0,0,,0,0,,0,0,0,1,1,0,2,0,2,0.0,+3
+2025-02-23,202502230ORL,WAS,Q2,Justin Champagnie,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.77,1,1,1.000,1,1,1.000,0,0,,1,0,1,0,0,1,0,1,3,3.7,-3
+2025-02-23,202502230ORL,WAS,Q2,Richaun Holmes,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.55,0,0,,0,0,,0,0,,0,4,4,0,0,0,0,1,0,0.8,+3
+2025-02-23,202502230ORL,WAS,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.1,1,4,.250,1,2,.500,1,2,.500,0,1,1,1,1,0,0,2,4,2.4,+2
+2025-02-23,202502230ORL,WAS,Q2,Kyshawn George,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.5,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,0
+2025-02-23,202502230ORL,WAS,Q2,Bub Carrington,https://www.basketball-reference.com/boxscores/202502230ORL.html,9.15,1,3,.333,0,2,.000,1,1,1.000,0,1,1,2,0,0,1,1,3,1.6,-8
+2025-02-23,202502230ORL,WAS,Q2,Corey Kispert,https://www.basketball-reference.com/boxscores/202502230ORL.html,11.68,1,4,.250,0,3,.000,2,3,.667,0,0,0,0,0,0,2,0,4,-0.8,-6
+2025-02-23,202502230ORL,WAS,Q2,Tristan Vukcevic,https://www.basketball-reference.com/boxscores/202502230ORL.html,4.45,1,3,.333,0,2,.000,0,0,,0,1,1,1,0,0,2,0,2,-0.7,-7
+2025-02-23,202502230ORL,WAS,Q2,Anthony Gill,https://www.basketball-reference.com/boxscores/202502230ORL.html,2.77,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3
+2025-02-23,202502230ORL,WAS,Q2,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202502230ORL.html,1.73,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-1
+2025-02-23,202502230ORL,WAS,Q3,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202502230ORL.html,12.0,2,3,.667,0,1,.000,0,0,,0,0,0,0,0,0,2,2,4,-0.1,-15
+2025-02-23,202502230ORL,WAS,Q3,Justin Champagnie,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.98,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-12
+2025-02-23,202502230ORL,WAS,Q3,Richaun Holmes,https://www.basketball-reference.com/boxscores/202502230ORL.html,9.48,2,2,1.000,0,0,,0,0,,1,2,3,1,0,1,3,1,4,2.7,-14
+2025-02-23,202502230ORL,WAS,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.68,0,3,.000,0,1,.000,0,0,,0,1,1,2,0,0,1,1,0,-1.8,-17
+2025-02-23,202502230ORL,WAS,Q3,Kyshawn George,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.88,0,2,.000,0,1,.000,0,0,,0,2,2,3,0,0,1,1,0,-0.1,-6
+2025-02-23,202502230ORL,WAS,Q3,Bub Carrington,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.83,1,1,1.000,0,0,,1,1,1.000,0,1,1,0,0,0,0,0,3,3.0,+1
+2025-02-23,202502230ORL,WAS,Q3,Corey Kispert,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.62,1,6,.167,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,-1.8,-11
+2025-02-23,202502230ORL,WAS,Q3,Tristan Vukcevic,https://www.basketball-reference.com/boxscores/202502230ORL.html,2.52,2,2,1.000,0,0,,0,0,,0,1,1,0,1,0,0,1,4,4.3,-1
+2025-02-23,202502230ORL,WAS,Q4,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.28,0,0,,0,0,,0,0,,0,0,0,2,0,0,1,0,0,0.4,-1
+2025-02-23,202502230ORL,WAS,Q4,Justin Champagnie,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.72,0,3,.000,0,3,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-2
+2025-02-23,202502230ORL,WAS,Q4,Richaun Holmes,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.68,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,1,2,0.3,-1
+2025-02-23,202502230ORL,WAS,Q4,Jordan Poole,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.65,3,6,.500,2,5,.400,0,0,,0,0,0,0,0,0,0,1,8,4.6,-5
+2025-02-23,202502230ORL,WAS,Q4,Kyshawn George,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.65,1,4,.250,1,2,.500,0,0,,0,0,0,0,0,1,0,0,3,1.3,-5
+2025-02-23,202502230ORL,WAS,Q4,Bub Carrington,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.63,3,4,.750,0,1,.000,1,1,1.000,0,3,3,1,0,0,1,0,7,6.0,+1
+2025-02-23,202502230ORL,WAS,Q4,Corey Kispert,https://www.basketball-reference.com/boxscores/202502230ORL.html,4.37,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-4
+2025-02-23,202502230ORL,WAS,Q4,Tristan Vukcevic,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.32,0,0,,0,0,,3,4,.750,0,3,3,1,0,0,1,1,3,2.8,-2
+2025-02-23,202502230ORL,WAS,Q4,Anthony Gill,https://www.basketball-reference.com/boxscores/202502230ORL.html,4.35,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+2
+2025-02-23,202502230ORL,WAS,Q4,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202502230ORL.html,4.35,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2
+2025-02-23,202502230ORL,ORL,Q1,Franz Wagner,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.2,3,4,.750,0,0,,0,0,,1,0,1,1,0,0,1,2,6,4.0,-3
+2025-02-23,202502230ORL,ORL,Q1,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.12,0,1,.000,0,0,,7,8,.875,0,2,2,1,0,1,0,1,7,7.5,+2
+2025-02-23,202502230ORL,ORL,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502230ORL.html,9.42,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,1,0,0,2,1.0,+1
+2025-02-23,202502230ORL,ORL,Q1,Cole Anthony,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.12,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-1.1,+2
+2025-02-23,202502230ORL,ORL,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.77,1,2,.500,0,0,,0,0,,0,3,3,1,0,1,1,0,2,2.3,-1
+2025-02-23,202502230ORL,ORL,Q1,Anthony Black,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.88,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-4
+2025-02-23,202502230ORL,ORL,Q1,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.23,1,1,1.000,0,0,,3,4,.750,1,2,3,0,0,0,0,1,5,5.2,-1
+2025-02-23,202502230ORL,ORL,Q1,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.88,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-4
+2025-02-23,202502230ORL,ORL,Q1,Gary Harris,https://www.basketball-reference.com/boxscores/202502230ORL.html,4.8,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1
+2025-02-23,202502230ORL,ORL,Q1,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202502230ORL.html,2.58,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.9,-3
+2025-02-23,202502230ORL,ORL,Q2,Franz Wagner,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.9,4,7,.571,0,2,.000,0,0,,1,2,3,3,0,0,2,0,8,6.1,+8
+2025-02-23,202502230ORL,ORL,Q2,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502230ORL.html,8.52,2,6,.333,0,1,.000,0,0,,2,0,2,2,0,0,2,0,4,1.4,+1
+2025-02-23,202502230ORL,ORL,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.18,1,2,.500,0,0,,1,1,1.000,1,0,1,0,0,0,0,0,3,2.7,-3
+2025-02-23,202502230ORL,ORL,Q2,Cole Anthony,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.52,0,4,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-2.9,-7
+2025-02-23,202502230ORL,ORL,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.18,1,1,1.000,0,0,,0,0,,0,4,4,0,1,0,0,0,2,3.9,-3
+2025-02-23,202502230ORL,ORL,Q2,Anthony Black,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.48,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,2.3,+11
+2025-02-23,202502230ORL,ORL,Q2,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.82,1,2,.500,0,0,,0,0,,2,1,3,1,1,0,0,0,2,4.4,+7
+2025-02-23,202502230ORL,ORL,Q2,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.48,0,2,.000,0,1,.000,0,0,,0,0,0,0,2,0,0,1,0,0.2,+3
+2025-02-23,202502230ORL,ORL,Q2,Gary Harris,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.1,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4
+2025-02-23,202502230ORL,ORL,Q2,Caleb Houstan,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.8,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+9
+2025-02-23,202502230ORL,ORL,Q2,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202502230ORL.html,2.02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2025-02-23,202502230ORL,ORL,Q3,Franz Wagner,https://www.basketball-reference.com/boxscores/202502230ORL.html,9.83,4,6,.667,1,3,.333,0,0,,0,3,3,1,2,0,0,0,9,10.0,+22
+2025-02-23,202502230ORL,ORL,Q3,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502230ORL.html,9.48,2,4,.500,1,1,1.000,0,0,,0,1,1,2,0,0,0,0,5,4.7,+14
+2025-02-23,202502230ORL,ORL,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.33,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-0.4,+9
+2025-02-23,202502230ORL,ORL,Q3,Cole Anthony,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.2,1,3,.333,1,1,1.000,2,2,1.000,0,0,0,0,0,0,0,0,5,3.3,+13
+2025-02-23,202502230ORL,ORL,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202502230ORL.html,7.33,3,4,.750,1,1,1.000,0,1,.000,1,1,2,1,0,0,2,3,7,3.5,+9
+2025-02-23,202502230ORL,ORL,Q3,Anthony Black,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.8,2,3,.667,1,1,1.000,1,1,1.000,0,3,3,1,0,0,0,0,6,6.3,+2
+2025-02-23,202502230ORL,ORL,Q3,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502230ORL.html,4.67,0,0,,0,0,,0,0,,0,0,0,2,0,0,1,0,0,0.4,+6
+2025-02-23,202502230ORL,ORL,Q3,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502230ORL.html,2.52,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,+1
+2025-02-23,202502230ORL,ORL,Q3,Gary Harris,https://www.basketball-reference.com/boxscores/202502230ORL.html,5.05,0,2,.000,0,2,.000,0,0,,1,0,1,1,0,0,0,0,0,0.0,-2
+2025-02-23,202502230ORL,ORL,Q3,Tristan Da Silva,https://www.basketball-reference.com/boxscores/202502230ORL.html,1.78,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+1
+2025-02-23,202502230ORL,ORL,Q4,Franz Wagner,https://www.basketball-reference.com/boxscores/202502230ORL.html,4.67,0,5,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-3.9,+4
+2025-02-23,202502230ORL,ORL,Q4,Paolo Banchero,https://www.basketball-reference.com/boxscores/202502230ORL.html,3.47,1,1,1.000,0,0,,1,1,1.000,0,0,0,0,0,0,1,0,3,1.7,+1
+2025-02-23,202502230ORL,ORL,Q4,Anthony Black,https://www.basketball-reference.com/boxscores/202502230ORL.html,12.0,3,4,.750,2,2,1.000,4,4,1.000,0,3,3,2,1,1,2,4,12,10.8,+3
+2025-02-23,202502230ORL,ORL,Q4,Goga Bitadze,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.0,2,2,1.000,0,0,,0,0,,2,1,3,0,1,0,0,0,4,6.1,+5
+2025-02-23,202502230ORL,ORL,Q4,Jonathan Isaac,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.0,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,0,0,0.9,+5
+2025-02-23,202502230ORL,ORL,Q4,Jett Howard,https://www.basketball-reference.com/boxscores/202502230ORL.html,9.87,2,5,.400,1,4,.250,0,0,,0,1,1,3,0,0,1,1,5,3.3,+3
+2025-02-23,202502230ORL,ORL,Q4,Caleb Houstan,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.0,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,-2
+2025-02-23,202502230ORL,ORL,Q4,Trevelin Queen,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.0,1,3,.333,0,2,.000,0,0,,0,0,0,0,1,1,0,0,2,2.0,-2
+2025-02-23,202502230ORL,ORL,Q4,Cory Joseph,https://www.basketball-reference.com/boxscores/202502230ORL.html,6.0,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2

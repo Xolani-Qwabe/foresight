@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-11,202302110WAS,IND,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202302110WAS.html,35:04,.656,.656,.500,.000,8.4,17.1,11.3,29.9,3.0,0.0,11.1,22.5,137,139,8.6
+2023-02-11,202302110WAS,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202302110WAS.html,30:26,.615,.615,.769,.000,9.7,6.6,8.6,14.1,3.5,0.0,7.1,20.2,134,139,4.1
+2023-02-11,202302110WAS,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202302110WAS.html,26:09,.740,.700,.200,.800,7.5,7.6,7.5,12.2,2.0,0.0,0.0,22.7,164,142,6.2
+2023-02-11,202302110WAS,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202302110WAS.html,25:39,.193,.000,.333,.667,3.8,7.8,5.1,13.1,0.0,3.8,0.0,13.3,82,145,-12.8
+2023-02-11,202302110WAS,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202302110WAS.html,19:40,.500,.500,.429,.000,0.0,20.3,6.7,13.7,2.7,0.0,12.5,17.8,103,139,-7.5
+2023-02-11,202302110WAS,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202302110WAS.html,30:59,.434,.417,.389,.056,6.3,6.5,6.4,19.3,1.7,0.0,0.0,26.1,114,143,-6.3
+2023-02-11,202302110WAS,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202302110WAS.html,20:57,.500,.500,.222,.000,4.7,9.5,6.3,20.3,0.0,0.0,10.0,20.9,112,147,-8.6
+2023-02-11,202302110WAS,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202302110WAS.html,18:15,.654,.583,.500,.333,10.7,0.0,7.2,7.5,0.0,0.0,22.5,21.3,115,148,-5.3
+2023-02-11,202302110WAS,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202302110WAS.html,18:03,.750,.750,.000,.000,10.9,22.2,14.6,15.2,3.0,10.9,0.0,9.7,175,132,5.8
+2023-02-11,202302110WAS,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202302110WAS.html,8:13,.255,.200,.400,.400,11.9,24.3,16.0,0.0,0.0,0.0,0.0,31.4,74,145,-23.5
+2023-02-11,202302110WAS,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202302110WAS.html,6:35,1.500,1.500,1.000,.000,0.0,91.1,30.0,0.0,0.0,0.0,0.0,6.7,300,136,10.0
+2023-02-11,202302110WAS,WAS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202302110WAS.html,32:16,.738,.563,.375,1.000,24.8,18.2,20.4,17.7,0.0,2.7,0.0,17.0,183,126,7.4
+2023-02-11,202302110WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202302110WAS.html,31:00,.847,.833,.278,.111,6.5,9.5,8.5,33.3,1.7,2.8,20.9,36.7,136,126,9.1
+2023-02-11,202302110WAS,WAS,Corey Kispert,https://www.basketball-reference.com/boxscores/202302110WAS.html,29:41,.722,.722,.778,.000,0.0,9.9,6.6,4.1,0.0,0.0,0.0,14.5,153,132,-0.8
+2023-02-11,202302110WAS,WAS,Daniel Gafford,https://www.basketball-reference.com/boxscores/202302110WAS.html,29:31,.888,1.000,.000,.500,6.8,13.3,11.1,8.5,0.0,11.8,21.5,15.1,135,123,3.1
+2023-02-11,202302110WAS,WAS,Monte Morris,https://www.basketball-reference.com/boxscores/202302110WAS.html,27:19,.751,.700,.200,.300,7.3,17.9,14.4,19.7,2.0,0.0,8.1,21.5,156,123,4.1
+2023-02-11,202302110WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202302110WAS.html,29:52,.901,.938,.250,.250,0.0,19.7,13.2,13.1,0.0,2.9,18.4,17.4,143,125,3.9
+2023-02-11,202302110WAS,WAS,Delon Wright,https://www.basketball-reference.com/boxscores/202302110WAS.html,22:58,.781,.625,.250,1.000,0.0,0.0,0.0,23.8,2.3,0.0,25.8,16.1,142,131,0.9
+2023-02-11,202302110WAS,WAS,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202302110WAS.html,22:13,.625,.625,.500,.000,0.0,13.2,8.9,32.9,2.4,0.0,11.1,19.3,142,124,4.1
+2023-02-11,202302110WAS,WAS,Anthony Gill,https://www.basketball-reference.com/boxscores/202302110WAS.html,3:26,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,13.9,0,137,-21.0
+2023-02-11,202302110WAS,WAS,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202302110WAS.html,3:02,.000,.000,1.000,.000,0.0,32.3,21.7,0.0,0.0,0.0,50.0,31.4,0,120,-48.1
+2023-02-11,202302110WAS,WAS,Vernon Carey Jr.,https://www.basketball-reference.com/boxscores/202302110WAS.html,2:54,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.4,0,136,-34.0
+2023-02-11,202302110WAS,WAS,Johnny Davis,https://www.basketball-reference.com/boxscores/202302110WAS.html,2:54,.000,.000,.000,.000,0.0,33.8,22.7,0.0,18.4,0.0,50.0,32.9,0,77,-27.0
+2023-02-11,202302110WAS,WAS,Quenton Jackson,https://www.basketball-reference.com/boxscores/202302110WAS.html,2:54,.000,.000,1.000,.000,69.0,0.0,22.7,0.0,0.0,0.0,0.0,16.4,87,137,-17.7

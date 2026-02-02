@@ -1,0 +1,80 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-12-06,201912060CHI,GSW,Q1,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.95,2,4,.500,0,1,.000,0,0,0,1,1,0,0,0,1,0,4,1.3,-4,
+2019-12-06,201912060CHI,GSW,Q1,Eric Paschall,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.95,0,1,.000,0,1,.000,1,2,0,1,1,0,1,0,1,2,1,-0.6,-4,.500
+2019-12-06,201912060CHI,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.72,0,0,,0,0,,2,2,0,0,0,0,1,0,1,0,2,2.0,-3,1.000
+2019-12-06,201912060CHI,GSW,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.72,2,3,.667,2,3,.667,0,0,0,3,3,1,0,0,1,0,6,5.3,-3,
+2019-12-06,201912060CHI,GSW,Q1,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.72,0,1,.000,0,0,,0,2,1,0,1,1,0,1,1,1,0,-0.8,-3,.000
+2019-12-06,201912060CHI,GSW,Q1,Alec Burks,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.28,2,3,.667,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.0,-2,
+2019-12-06,201912060CHI,GSW,Q1,Ky Bowman,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.28,0,0,,0,0,,0,0,0,0,0,3,0,0,0,1,0,1.7,-2,
+2019-12-06,201912060CHI,GSW,Q1,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.28,1,1,1.000,0,0,,0,0,0,0,0,1,0,1,0,0,2,3.1,-2,
+2019-12-06,201912060CHI,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.05,1,1,1.000,0,0,,1,1,0,1,1,0,0,0,0,0,3,3.0,-1,1.000
+2019-12-06,201912060CHI,GSW,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.05,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-1,
+2019-12-06,201912060CHI,GSW,Q2,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.23,3,4,.750,1,1,1.000,0,0,0,2,2,0,1,0,0,0,7,7.0,-7,
+2019-12-06,201912060CHI,GSW,Q2,Eric Paschall,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.22,1,3,.333,0,1,.000,1,1,0,1,1,1,1,1,0,0,3,4.0,+10,1.000
+2019-12-06,201912060CHI,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.23,1,2,.500,0,0,,0,0,0,1,1,1,1,0,1,1,2,1.6,-7,
+2019-12-06,201912060CHI,GSW,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.22,0,1,.000,0,1,.000,0,0,1,0,1,3,0,0,2,2,0,-0.7,-7,
+2019-12-06,201912060CHI,GSW,Q2,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.98,0,0,,0,0,,0,0,0,2,2,0,0,0,0,0,0,0.6,+5,
+2019-12-06,201912060CHI,GSW,Q2,Alec Burks,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.8,2,3,.667,0,1,.000,0,0,0,0,0,0,0,0,0,1,4,2.3,+10,
+2019-12-06,201912060CHI,GSW,Q2,Ky Bowman,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.98,3,3,1.000,2,2,1.000,0,0,0,0,0,1,0,0,0,1,8,7.4,+5,
+2019-12-06,201912060CHI,GSW,Q2,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912060CHI.html,1.78,0,2,.000,0,0,,0,0,1,2,3,0,0,0,0,0,0,-0.1,+6,
+2019-12-06,201912060CHI,GSW,Q2,Omari Spellman,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.8,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,0,3,2.0,+10,
+2019-12-06,201912060CHI,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/201912060CHI.html,4.75,0,0,,0,0,,0,0,0,0,0,0,0,0,2,0,0,-2.0,-5,
+2019-12-06,201912060CHI,GSW,Q3,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.25,2,2,1.000,1,1,1.000,2,2,0,1,1,0,1,0,0,0,7,7.7,+1,1.000
+2019-12-06,201912060CHI,GSW,Q3,Eric Paschall,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.18,4,5,.800,0,0,,1,1,0,0,0,0,0,0,0,0,9,7.1,0,1.000
+2019-12-06,201912060CHI,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.88,0,3,.000,0,1,.000,0,0,0,0,0,2,1,0,1,1,0,-1.1,-1,
+2019-12-06,201912060CHI,GSW,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.82,0,0,,0,0,,0,0,0,1,1,0,0,0,1,0,0,-0.7,-2,
+2019-12-06,201912060CHI,GSW,Q3,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.32,3,5,.600,0,0,,0,0,2,1,3,1,0,0,0,0,6,6.1,0,
+2019-12-06,201912060CHI,GSW,Q3,Alec Burks,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.18,1,2,.500,0,1,.000,0,0,0,2,2,1,1,0,0,0,2,3.3,-3,
+2019-12-06,201912060CHI,GSW,Q3,Ky Bowman,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.12,0,0,,0,0,,0,0,0,0,0,1,0,0,0,2,0,-0.1,-4,
+2019-12-06,201912060CHI,GSW,Q3,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912060CHI.html,4.68,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,1,2,0.3,-5,
+2019-12-06,201912060CHI,GSW,Q3,Omari Spellman,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.82,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.7,-5,
+2019-12-06,201912060CHI,GSW,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.75,0,1,.000,0,0,,1,1,0,0,0,0,0,0,0,0,1,0.3,-6,1.000
+2019-12-06,201912060CHI,GSW,Q4,Glenn Robinson III,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.53,1,2,.500,0,1,.000,0,0,1,2,3,0,0,0,1,3,2,0.1,+6,
+2019-12-06,201912060CHI,GSW,Q4,Eric Paschall,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.02,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,0.3,+8,
+2019-12-06,201912060CHI,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.47,1,1,1.000,0,0,,3,6,0,3,3,2,1,1,1,0,5,6.5,+6,.500
+2019-12-06,201912060CHI,GSW,Q4,D'Angelo Russell,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.83,0,4,.000,0,4,.000,1,2,0,2,2,1,0,0,0,0,1,-0.9,+5,.500
+2019-12-06,201912060CHI,GSW,Q4,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.23,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,0,2,4,2.9,+4,
+2019-12-06,201912060CHI,GSW,Q4,Alec Burks,https://www.basketball-reference.com/boxscores/201912060CHI.html,10.45,1,2,.500,0,0,,1,1,0,1,1,2,0,0,1,0,3,2.7,+5,1.000
+2019-12-06,201912060CHI,GSW,Q4,Ky Bowman,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.53,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,1,1,0,-1.4,+2,
+2019-12-06,201912060CHI,GSW,Q4,Marquese Chriss,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.47,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,5,4.4,+2,
+2019-12-06,201912060CHI,GSW,Q4,Omari Spellman,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.47,1,1,1.000,0,0,,1,1,0,2,2,0,0,0,0,0,3,3.3,+2,1.000
+2019-12-06,201912060CHI,CHI,Q1,Lauri Markkanen,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.23,4,7,.571,1,3,.333,0,0,0,2,2,0,1,0,0,1,9,6.9,+1,
+2019-12-06,201912060CHI,CHI,Q1,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.33,0,0,,0,0,,0,0,0,3,3,1,1,0,0,1,0,2.2,+4,
+2019-12-06,201912060CHI,CHI,Q1,Zach LaVine,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.23,0,3,.000,0,1,.000,0,0,0,2,2,4,0,0,1,0,0,0.3,+1,
+2019-12-06,201912060CHI,CHI,Q1,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.23,2,4,.500,0,1,.000,0,0,0,0,0,1,0,0,1,1,4,1.3,+1,
+2019-12-06,201912060CHI,CHI,Q1,Kris Dunn,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.5,2,3,.667,1,1,1.000,0,0,1,0,1,0,1,0,0,1,5,5.0,+3,
+2019-12-06,201912060CHI,CHI,Q1,Coby White,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.5,3,4,.750,2,2,1.000,0,0,0,1,1,0,0,0,0,0,8,6.7,+2,
+2019-12-06,201912060CHI,CHI,Q1,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.77,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+4,
+2019-12-06,201912060CHI,CHI,Q1,Denzel Valentine,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.77,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+4,
+2019-12-06,201912060CHI,CHI,Q1,Daniel Gafford,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.67,1,1,1.000,0,0,,0,0,1,0,1,0,0,0,0,1,2,2.0,+1,
+2019-12-06,201912060CHI,CHI,Q1,Luke Kornet,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.77,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+4,
+2019-12-06,201912060CHI,CHI,Q2,Lauri Markkanen,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.17,3,4,.750,2,3,.667,0,0,0,0,0,1,1,0,1,0,8,7.1,+5,
+2019-12-06,201912060CHI,CHI,Q2,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.58,2,5,.400,0,0,,0,0,3,0,3,0,0,0,0,1,4,3.0,-4,
+2019-12-06,201912060CHI,CHI,Q2,Zach LaVine,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.23,2,3,.667,1,2,.500,1,1,0,1,1,1,0,0,2,1,6,3.3,+7,1.000
+2019-12-06,201912060CHI,CHI,Q2,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.23,0,1,.000,0,0,,0,0,0,1,1,3,0,0,2,1,0,-0.7,+7,
+2019-12-06,201912060CHI,CHI,Q2,Kris Dunn,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.23,0,2,.000,0,2,.000,0,0,0,0,0,0,2,0,0,0,0,0.6,+7,
+2019-12-06,201912060CHI,CHI,Q2,Coby White,https://www.basketball-reference.com/boxscores/201912060CHI.html,4.77,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-1.1,-11,
+2019-12-06,201912060CHI,CHI,Q2,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/201912060CHI.html,4.77,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,-11,
+2019-12-06,201912060CHI,CHI,Q2,Denzel Valentine,https://www.basketball-reference.com/boxscores/201912060CHI.html,4.77,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.0,-11,
+2019-12-06,201912060CHI,CHI,Q2,Daniel Gafford,https://www.basketball-reference.com/boxscores/201912060CHI.html,4.42,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,0,0,2,2.3,0,
+2019-12-06,201912060CHI,CHI,Q2,Luke Kornet,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.83,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-9,
+2019-12-06,201912060CHI,CHI,Q3,Lauri Markkanen,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.18,0,3,.000,0,3,.000,0,0,0,1,1,0,1,0,1,1,0,-2.2,0,
+2019-12-06,201912060CHI,CHI,Q3,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.3,0,0,,0,0,,0,0,2,2,4,1,0,0,0,0,0,2.7,+9,
+2019-12-06,201912060CHI,CHI,Q3,Zach LaVine,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.18,6,9,.667,3,5,.600,0,0,0,1,1,1,0,0,1,0,15,11.1,0,
+2019-12-06,201912060CHI,CHI,Q3,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/201912060CHI.html,7.32,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,0,
+2019-12-06,201912060CHI,CHI,Q3,Kris Dunn,https://www.basketball-reference.com/boxscores/201912060CHI.html,6.48,2,4,.500,0,1,.000,0,0,1,0,1,1,0,1,0,1,4,3.7,+4,
+2019-12-06,201912060CHI,CHI,Q3,Coby White,https://www.basketball-reference.com/boxscores/201912060CHI.html,5.52,2,3,.667,2,3,.667,0,0,0,1,1,1,0,0,0,0,6,5.7,+1,
+2019-12-06,201912060CHI,CHI,Q3,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/201912060CHI.html,4.68,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,1,1,3,0.6,+5,
+2019-12-06,201912060CHI,CHI,Q3,Denzel Valentine,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.82,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,2,2.7,+5,
+2019-12-06,201912060CHI,CHI,Q3,Daniel Gafford,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.7,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-4,
+2019-12-06,201912060CHI,CHI,Q3,Shaquille Harrison,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.82,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+5,
+2019-12-06,201912060CHI,CHI,Q4,Lauri Markkanen,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.53,1,3,.333,1,2,.500,0,0,0,0,0,0,0,0,1,1,3,-0.1,-6,
+2019-12-06,201912060CHI,CHI,Q4,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/201912060CHI.html,9.75,0,0,,0,0,,0,0,0,2,2,0,1,0,0,1,0,1.2,-4,
+2019-12-06,201912060CHI,CHI,Q4,Zach LaVine,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.53,0,5,.000,0,2,.000,1,2,0,2,2,0,0,0,1,2,1,-4.1,-6,.500
+2019-12-06,201912060CHI,CHI,Q4,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.53,1,2,.500,0,0,,0,0,0,1,1,1,1,0,0,0,2,3.0,-6,
+2019-12-06,201912060CHI,CHI,Q4,Kris Dunn,https://www.basketball-reference.com/boxscores/201912060CHI.html,8.32,0,2,.000,0,0,,0,0,0,2,2,0,0,0,1,1,0,-2.2,-6,
+2019-12-06,201912060CHI,CHI,Q4,Coby White,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.68,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,-2,
+2019-12-06,201912060CHI,CHI,Q4,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.47,0,1,.000,0,1,.000,0,0,1,0,1,1,0,0,0,1,0,0.3,-2,
+2019-12-06,201912060CHI,CHI,Q4,Denzel Valentine,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.47,2,4,.500,2,3,.667,0,0,0,1,1,0,1,0,0,0,6,5.3,-2,
+2019-12-06,201912060CHI,CHI,Q4,Daniel Gafford,https://www.basketball-reference.com/boxscores/201912060CHI.html,2.25,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,-4,
+2019-12-06,201912060CHI,CHI,Q4,Shaquille Harrison,https://www.basketball-reference.com/boxscores/201912060CHI.html,3.47,1,1,1.000,0,0,,1,2,0,0,0,1,0,0,0,0,3,3.0,-2,.500

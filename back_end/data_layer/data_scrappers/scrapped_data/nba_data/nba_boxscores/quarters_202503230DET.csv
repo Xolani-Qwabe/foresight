@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2025-03-23,202503230DET,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202503230DET.html,10.77,2,7,.286,1,2,.500,0,1,.000,0,2,2,1,0,0,1,0,5,0.8,-7
+2025-03-23,202503230DET,NOP,Q1,Bruce Brown,https://www.basketball-reference.com/boxscores/202503230DET.html,6.4,1,2,.500,1,2,.500,0,0,,0,1,1,2,0,0,0,0,3,3.7,-5
+2025-03-23,202503230DET,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202503230DET.html,6.87,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,2,0,3,1.7,-5
+2025-03-23,202503230DET,NOP,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202503230DET.html,7.9,0,1,.000,0,0,,1,2,.500,0,1,1,2,0,1,0,1,1,1.9,-4
+2025-03-23,202503230DET,NOP,Q1,Karlo Matković,https://www.basketball-reference.com/boxscores/202503230DET.html,3.17,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,1,2,0,-1.5,-1
+2025-03-23,202503230DET,NOP,Q1,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202503230DET.html,8.83,2,4,.500,1,3,.333,0,0,,0,1,1,1,0,0,0,0,5,4.0,-8
+2025-03-23,202503230DET,NOP,Q1,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202503230DET.html,5.13,2,2,1.000,2,2,1.000,0,0,,0,1,1,0,0,0,1,1,6,4.3,-4
+2025-03-23,202503230DET,NOP,Q1,Keion Brooks Jr.,https://www.basketball-reference.com/boxscores/202503230DET.html,4.1,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-5
+2025-03-23,202503230DET,NOP,Q1,Jamal Cain,https://www.basketball-reference.com/boxscores/202503230DET.html,6.83,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,1,0,0,4,4.4,-6
+2025-03-23,202503230DET,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202503230DET.html,6.95,3,5,.600,1,3,.333,0,0,,0,2,2,2,0,0,0,0,7,6.7,+2
+2025-03-23,202503230DET,NOP,Q2,Bruce Brown,https://www.basketball-reference.com/boxscores/202503230DET.html,9.5,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,1,1,-0.5,0
+2025-03-23,202503230DET,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202503230DET.html,6.95,1,4,.250,0,0,,0,0,,1,1,2,4,0,0,0,1,2,3.0,-2
+2025-03-23,202503230DET,NOP,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202503230DET.html,3.95,1,1,1.000,0,0,,0,0,,0,0,0,3,0,1,1,2,2,2.7,+3
+2025-03-23,202503230DET,NOP,Q2,Karlo Matković,https://www.basketball-reference.com/boxscores/202503230DET.html,5.6,2,4,.500,0,0,,0,0,,4,2,6,0,0,0,0,1,4,5.0,0
+2025-03-23,202503230DET,NOP,Q2,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202503230DET.html,6.4,1,1,1.000,1,1,1.000,0,0,,1,2,3,2,0,0,1,0,3,4.4,0
+2025-03-23,202503230DET,NOP,Q2,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202503230DET.html,9.25,3,6,.500,2,5,.400,0,0,,0,2,2,1,0,0,1,0,8,5.3,+3
+2025-03-23,202503230DET,NOP,Q2,Keion Brooks Jr.,https://www.basketball-reference.com/boxscores/202503230DET.html,8.03,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,2,0,1,2,2.0,-3
+2025-03-23,202503230DET,NOP,Q2,Antonio Reeves,https://www.basketball-reference.com/boxscores/202503230DET.html,3.37,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,-3
+2025-03-23,202503230DET,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202503230DET.html,10.95,6,9,.667,2,4,.500,0,0,,0,0,0,4,1,0,1,1,14,12.5,+11
+2025-03-23,202503230DET,NOP,Q3,Bruce Brown,https://www.basketball-reference.com/boxscores/202503230DET.html,10.9,3,4,.750,0,0,,0,0,,0,0,0,0,0,0,0,1,6,4.0,+11
+2025-03-23,202503230DET,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202503230DET.html,6.7,1,1,1.000,0,0,,0,0,,0,1,1,1,1,0,0,0,2,3.7,+6
+2025-03-23,202503230DET,NOP,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202503230DET.html,3.35,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,2,0.6,+2
+2025-03-23,202503230DET,NOP,Q3,Karlo Matković,https://www.basketball-reference.com/boxscores/202503230DET.html,5.6,1,1,1.000,0,0,,0,0,,0,3,3,0,0,0,2,2,2,-0.2,+10
+2025-03-23,202503230DET,NOP,Q3,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202503230DET.html,8.65,0,0,,0,0,,0,0,,0,2,2,3,0,0,0,2,0,1.9,+5
+2025-03-23,202503230DET,NOP,Q3,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202503230DET.html,6.4,2,3,.667,2,3,.667,0,0,,0,0,0,0,0,0,1,0,6,3.7,-3
+2025-03-23,202503230DET,NOP,Q3,Keion Brooks Jr.,https://www.basketball-reference.com/boxscores/202503230DET.html,1.05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2025-03-23,202503230DET,NOP,Q3,Jamal Cain,https://www.basketball-reference.com/boxscores/202503230DET.html,6.4,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-3
+2025-03-23,202503230DET,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202503230DET.html,8.0,5,7,.714,1,3,.333,3,4,.750,1,0,1,0,0,0,0,1,14,11.0,-3
+2025-03-23,202503230DET,NOP,Q4,Bruce Brown,https://www.basketball-reference.com/boxscores/202503230DET.html,8.52,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,-6
+2025-03-23,202503230DET,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202503230DET.html,7.08,1,2,.500,1,2,.500,0,0,,0,1,1,3,0,0,0,3,3,3.2,+3
+2025-03-23,202503230DET,NOP,Q4,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202503230DET.html,9.42,2,4,.500,1,3,.333,0,0,,2,1,3,3,0,0,3,2,5,3.0,-9
+2025-03-23,202503230DET,NOP,Q4,Karlo Matković,https://www.basketball-reference.com/boxscores/202503230DET.html,1.65,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,+2
+2025-03-23,202503230DET,NOP,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202503230DET.html,7.83,1,1,1.000,1,1,1.000,2,2,1.000,0,0,0,2,0,0,1,0,5,5.1,-1
+2025-03-23,202503230DET,NOP,Q4,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202503230DET.html,9.92,1,2,.500,0,1,.000,3,3,1.000,0,0,0,1,0,0,0,3,5,3.5,-3
+2025-03-23,202503230DET,NOP,Q4,Keion Brooks Jr.,https://www.basketball-reference.com/boxscores/202503230DET.html,7.58,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-3
+2025-03-23,202503230DET,DET,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202503230DET.html,9.22,1,2,.500,0,1,.000,0,0,,1,0,1,1,0,0,1,1,2,1.0,0
+2025-03-23,202503230DET,DET,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202503230DET.html,9.22,3,7,.429,0,3,.000,0,0,,0,0,0,2,1,0,0,1,6,4.3,0
+2025-03-23,202503230DET,DET,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202503230DET.html,9.08,2,3,.667,2,2,1.000,1,1,1.000,0,1,1,1,1,0,0,0,7,7.7,+13
+2025-03-23,202503230DET,DET,Q1,Jalen Duren,https://www.basketball-reference.com/boxscores/202503230DET.html,7.9,3,5,.600,0,0,,2,2,1.000,1,3,4,2,0,0,0,0,8,8.7,+4
+2025-03-23,202503230DET,DET,Q1,Ausar Thompson,https://www.basketball-reference.com/boxscores/202503230DET.html,4.18,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,0,3,2,1.1,0
+2025-03-23,202503230DET,DET,Q1,Ron Holland,https://www.basketball-reference.com/boxscores/202503230DET.html,5.7,1,1,1.000,0,0,,1,2,.500,0,0,0,3,0,0,0,0,3,4.4,+5
+2025-03-23,202503230DET,DET,Q1,Marcus Sasser,https://www.basketball-reference.com/boxscores/202503230DET.html,2.78,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+9
+2025-03-23,202503230DET,DET,Q1,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202503230DET.html,4.1,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,1,2,1.2,+5
+2025-03-23,202503230DET,DET,Q1,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202503230DET.html,7.82,2,5,.400,2,3,.667,0,0,,0,2,2,0,0,0,0,0,6,3.9,+9
+2025-03-23,202503230DET,DET,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202503230DET.html,7.8,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,+1
+2025-03-23,202503230DET,DET,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202503230DET.html,6.95,3,4,.750,0,1,.000,0,0,,0,1,1,0,0,0,0,0,6,4.7,-2
+2025-03-23,202503230DET,DET,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202503230DET.html,7.9,1,5,.200,1,3,.333,0,0,,1,1,2,1,0,0,0,0,3,1.6,-3
+2025-03-23,202503230DET,DET,Q2,Jalen Duren,https://www.basketball-reference.com/boxscores/202503230DET.html,6.95,3,4,.750,0,0,,3,3,1.000,2,1,3,0,0,0,0,0,9,9.1,-2
+2025-03-23,202503230DET,DET,Q2,Ausar Thompson,https://www.basketball-reference.com/boxscores/202503230DET.html,3.25,0,0,,0,0,,3,4,.750,0,0,0,1,0,0,0,0,3,3.3,0
+2025-03-23,202503230DET,DET,Q2,Ron Holland,https://www.basketball-reference.com/boxscores/202503230DET.html,7.83,1,4,.250,0,1,.000,1,2,.500,0,2,2,2,0,0,0,1,3,1.8,0
+2025-03-23,202503230DET,DET,Q2,Marcus Sasser,https://www.basketball-reference.com/boxscores/202503230DET.html,5.05,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.7,+2
+2025-03-23,202503230DET,DET,Q2,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202503230DET.html,5.05,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,3,3.4,+2
+2025-03-23,202503230DET,DET,Q2,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202503230DET.html,2.63,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2025-03-23,202503230DET,DET,Q2,Lindy Waters III,https://www.basketball-reference.com/boxscores/202503230DET.html,6.58,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,2.7,+6
+2025-03-23,202503230DET,DET,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202503230DET.html,9.1,2,6,.333,0,2,.000,0,0,,0,0,0,0,1,0,0,0,4,1.6,-8
+2025-03-23,202503230DET,DET,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202503230DET.html,8.5,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,0,1,2,1.3,-9
+2025-03-23,202503230DET,DET,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202503230DET.html,8.5,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-9
+2025-03-23,202503230DET,DET,Q3,Jalen Duren,https://www.basketball-reference.com/boxscores/202503230DET.html,5.6,0,0,,0,0,,0,2,.000,0,1,1,0,0,0,1,0,0,-1.5,-10
+2025-03-23,202503230DET,DET,Q3,Ausar Thompson,https://www.basketball-reference.com/boxscores/202503230DET.html,1.77,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-2
+2025-03-23,202503230DET,DET,Q3,Ron Holland,https://www.basketball-reference.com/boxscores/202503230DET.html,10.23,3,4,.750,0,1,.000,0,2,.000,1,1,2,0,0,0,0,2,6,3.8,-5
+2025-03-23,202503230DET,DET,Q3,Marcus Sasser,https://www.basketball-reference.com/boxscores/202503230DET.html,6.4,2,2,1.000,1,1,1.000,3,3,1.000,0,0,0,0,0,0,0,0,8,7.4,+3
+2025-03-23,202503230DET,DET,Q3,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202503230DET.html,6.4,1,2,.500,0,0,,0,0,,0,1,1,1,0,1,1,0,2,1.7,+3
+2025-03-23,202503230DET,DET,Q3,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202503230DET.html,3.5,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2025-03-23,202503230DET,DET,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202503230DET.html,8.45,1,3,.333,1,2,.500,7,8,.875,0,0,0,3,1,0,0,1,10,10.6,+4
+2025-03-23,202503230DET,DET,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202503230DET.html,7.4,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3,+5
+2025-03-23,202503230DET,DET,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/202503230DET.html,3.58,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-1.1,+2
+2025-03-23,202503230DET,DET,Q4,Jalen Duren,https://www.basketball-reference.com/boxscores/202503230DET.html,8.58,2,2,1.000,0,0,,1,2,.500,3,1,4,0,0,0,2,4,5,2.8,+4
+2025-03-23,202503230DET,DET,Q4,Ron Holland,https://www.basketball-reference.com/boxscores/202503230DET.html,11.97,5,5,1.000,1,1,1.000,3,5,.600,0,1,1,1,1,0,0,1,14,13.3,+2
+2025-03-23,202503230DET,DET,Q4,Marcus Sasser,https://www.basketball-reference.com/boxscores/202503230DET.html,12.0,3,5,.600,2,3,.667,2,2,1.000,0,1,1,0,1,0,0,1,10,8.6,+4
+2025-03-23,202503230DET,DET,Q4,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202503230DET.html,3.42,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,1,2,2.0,0
+2025-03-23,202503230DET,DET,Q4,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202503230DET.html,4.6,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,-1

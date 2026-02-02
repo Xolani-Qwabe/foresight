@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-11-10,202111100SAS,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202111100SAS.html,34:46,.672,.625,.208,.333,0.0,6.1,3.2,29.9,1.4,6.9,12.7,38.5,127,133,9.7
+2021-11-10,202111100SAS,SAC,Buddy Hield,https://www.basketball-reference.com/boxscores/202111100SAS.html,34:29,.429,.429,.643,.000,0.0,3.1,1.6,7.0,1.4,0.0,6.7,18.5,93,139,-10.1
+2021-11-10,202111100SAS,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202111100SAS.html,31:24,.507,.438,.500,.250,3.6,20.4,12.3,3.6,3.1,2.5,10.1,13.4,107,129,-3.7
+2021-11-10,202111100SAS,SAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202111100SAS.html,23:11,.600,.600,.200,.000,0.0,4.6,2.4,5.1,0.0,0.0,0.0,9.2,132,142,-6.0
+2021-11-10,202111100SAS,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202111100SAS.html,18:39,.750,.750,.000,.000,18.4,51.5,35.5,0.0,0.0,0.0,33.3,13.7,113,130,-6.4
+2021-11-10,202111100SAS,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202111100SAS.html,25:46,.433,.433,.533,.000,0.0,12.4,6.4,31.2,0.0,0.0,16.7,29.7,92,139,-11.8
+2021-11-10,202111100SAS,SAC,Jahmi'us Ramsey,https://www.basketball-reference.com/boxscores/202111100SAS.html,21:46,.595,.700,.400,.400,0.0,0.0,0.0,0.0,0.0,3.7,0.0,11.5,118,140,-4.3
+2021-11-10,202111100SAS,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202111100SAS.html,20:38,.722,.722,.778,.000,0.0,31.0,16.0,6.6,0.0,0.0,10.0,20.6,132,135,2.1
+2021-11-10,202111100SAS,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202111100SAS.html,14:35,.820,.750,.000,.500,23.5,21.9,22.7,8.9,0.0,5.5,17.0,17.1,154,132,2.3
+2021-11-10,202111100SAS,SAC,Damian Jones,https://www.basketball-reference.com/boxscores/202111100SAS.html,8:25,1.000,1.000,.000,.000,13.6,0.0,6.6,13.8,0.0,0.0,0.0,5.0,209,142,-2.5
+2021-11-10,202111100SAS,SAC,Tristan Thompson,https://www.basketball-reference.com/boxscores/202111100SAS.html,6:21,.694,.500,.000,1.000,54.0,33.6,43.4,19.2,0.0,0.0,41.0,32.6,114,134,-4.4
+2021-11-10,202111100SAS,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202111100SAS.html,32:00,.594,.571,.238,.095,0.0,21.4,10.3,32.3,3.0,0.0,4.4,30.2,129,114,2.6
+2021-11-10,202111100SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202111100SAS.html,31:37,.457,.500,.143,.571,13.5,28.9,20.9,13.7,4.6,2.8,0.0,11.7,134,107,2.9
+2021-11-10,202111100SAS,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202111100SAS.html,29:41,.167,.167,.333,.000,3.6,11.6,7.4,20.5,3.2,2.9,14.3,10.0,91,114,-7.7
+2021-11-10,202111100SAS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202111100SAS.html,26:41,.660,.667,.500,.167,0.0,12.8,6.2,9.4,0.0,0.0,0.0,20.4,136,123,-0.9
+2021-11-10,202111100SAS,SAS,Drew Eubanks,https://www.basketball-reference.com/boxscores/202111100SAS.html,24:26,.840,.800,.000,2.600,17.5,9.4,13.5,9.6,2.0,0.0,27.2,25.4,136,120,0.3
+2021-11-10,202111100SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202111100SAS.html,24:56,1.071,1.071,1.000,.000,0.0,22.9,11.1,4.9,1.9,0.0,0.0,11.9,197,116,7.5
+2021-11-10,202111100SAS,SAS,Thaddeus Young,https://www.basketball-reference.com/boxscores/202111100SAS.html,23:34,.672,.700,.000,.600,13.6,4.8,9.4,46.9,4.1,0.0,7.3,24.4,152,116,12.7
+2021-11-10,202111100SAS,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202111100SAS.html,22:23,.588,.545,.455,.364,0.0,5.1,2.5,5.6,0.0,3.9,0.0,24.1,125,122,-4.1
+2021-11-10,202111100SAS,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202111100SAS.html,12:51,.682,.682,.455,.000,0.0,17.8,8.6,14.0,0.0,0.0,0.0,36.2,132,122,5.2
+2021-11-10,202111100SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202111100SAS.html,5:23,.000,.000,.000,.000,0.0,0.0,0.0,18.2,0.0,0.0,50.0,15.7,35,126,-26.7
+2021-11-10,202111100SAS,SAS,Joshua Primo,https://www.basketball-reference.com/boxscores/202111100SAS.html,3:14,,,,,0.0,0.0,0.0,30.3,0.0,0.0,,0.0,237,126,1.9
+2021-11-10,202111100SAS,SAS,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202111100SAS.html,3:14,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.1,300,126,19.6

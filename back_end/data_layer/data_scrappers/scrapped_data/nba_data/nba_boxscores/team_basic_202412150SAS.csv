@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2024-12-15,202412150SAS,MIN,Rudy Gobert,https://www.basketball-reference.com/boxscores/202412150SAS.html,34.75,5,11,.455,0,0,0,1,.000,4,5,9,2,1,1,2,2,10,8.5,+8,
+2024-12-15,202412150SAS,MIN,Julius Randle,https://www.basketball-reference.com/boxscores/202412150SAS.html,28.5,4,11,.364,0,1,3,4,.750,2,2,4,3,2,1,2,3,11,8.1,+8,.000
+2024-12-15,202412150SAS,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202412150SAS.html,28.47,10,21,.476,3,7,3,3,1.000,0,5,5,2,0,0,1,3,26,16.0,+9,.429
+2024-12-15,202412150SAS,MIN,Mike Conley,https://www.basketball-reference.com/boxscores/202412150SAS.html,27.92,3,9,.333,3,5,0,0,,3,2,5,8,1,1,3,2,9,10.1,+4,.600
+2024-12-15,202412150SAS,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202412150SAS.html,27.62,4,10,.400,2,2,2,2,1.000,4,7,11,1,4,0,1,1,12,14.8,+6,1.000
+2024-12-15,202412150SAS,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202412150SAS.html,26.75,1,10,.100,0,4,1,1,1.000,0,8,8,3,0,1,0,1,3,1.2,+26,.000
+2024-12-15,202412150SAS,MIN,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202412150SAS.html,24.35,6,15,.400,2,8,3,3,1.000,1,2,3,3,2,0,0,0,17,14.3,+28,.250
+2024-12-15,202412150SAS,MIN,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202412150SAS.html,20.18,3,7,.429,1,5,0,0,,0,5,5,2,0,0,1,0,7,5.2,+15,.200
+2024-12-15,202412150SAS,MIN,Rob Dillingham,https://www.basketball-reference.com/boxscores/202412150SAS.html,9.47,1,3,.333,1,3,0,0,,0,1,1,2,1,0,1,0,3,3.0,-6,.333
+2024-12-15,202412150SAS,MIN,Luka Garza,https://www.basketball-reference.com/boxscores/202412150SAS.html,3.0,1,1,1.000,0,0,2,2,1.000,0,0,0,0,0,0,1,1,4,2.3,-7,
+2024-12-15,202412150SAS,MIN,Josh Minott,https://www.basketball-reference.com/boxscores/202412150SAS.html,3.0,1,1,1.000,0,0,0,0,,0,0,0,0,0,0,0,0,2,1.7,-7,
+2024-12-15,202412150SAS,MIN,Terrence Shannon Jr.,https://www.basketball-reference.com/boxscores/202412150SAS.html,3.0,1,1,1.000,0,0,0,0,,0,0,0,0,0,0,0,0,2,1.7,-7,
+2024-12-15,202412150SAS,MIN,PJ Dozier,https://www.basketball-reference.com/boxscores/202412150SAS.html,3.0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,-7,
+2024-12-15,202412150SAS,SAS,Victor Wembanyama,https://www.basketball-reference.com/boxscores/202412150SAS.html,33.42,8,20,.400,1,7,3,3,1.000,1,11,12,5,0,7,4,4,20,16.0,-8,.143
+2024-12-15,202412150SAS,SAS,Harrison Barnes,https://www.basketball-reference.com/boxscores/202412150SAS.html,30.38,6,10,.600,4,7,1,2,.500,1,0,1,2,0,0,0,1,17,13.7,-15,.571
+2024-12-15,202412150SAS,SAS,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202412150SAS.html,30.38,7,10,.700,0,2,3,4,.750,5,10,15,4,2,1,5,3,17,18.2,-4,.000
+2024-12-15,202412150SAS,SAS,Chris Paul,https://www.basketball-reference.com/boxscores/202412150SAS.html,30.2,0,5,.000,0,3,0,0,,1,3,4,9,2,0,3,3,0,2.2,+2,.000
+2024-12-15,202412150SAS,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202412150SAS.html,29.17,4,14,.286,3,12,0,0,,2,4,6,1,2,0,0,2,11,7.3,-6,.250
+2024-12-15,202412150SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202412150SAS.html,25.02,2,11,.182,0,6,0,0,,0,0,0,0,0,0,0,0,4,-2.9,-30,.000
+2024-12-15,202412150SAS,SAS,Stephon Castle,https://www.basketball-reference.com/boxscores/202412150SAS.html,23.0,1,8,.125,0,3,0,0,,0,2,2,5,0,0,3,1,2,-2.5,-23,.000
+2024-12-15,202412150SAS,SAS,Charles Bassey,https://www.basketball-reference.com/boxscores/202412150SAS.html,14.58,4,5,.800,0,0,0,0,,2,5,7,1,0,0,2,2,8,6.9,-6,
+2024-12-15,202412150SAS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202412150SAS.html,9.47,2,3,.667,0,0,0,0,,0,2,2,5,0,0,1,1,4,5.4,+5,
+2024-12-15,202412150SAS,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202412150SAS.html,8.38,1,3,.333,1,3,0,0,,0,1,1,1,0,0,0,1,3,1.9,+3,.333
+2024-12-15,202412150SAS,SAS,Sidy Cissoko,https://www.basketball-reference.com/boxscores/202412150SAS.html,3.0,2,2,1.000,2,2,0,0,,0,0,0,0,0,0,0,0,6,5.4,+6,1.000
+2024-12-15,202412150SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202412150SAS.html,3.0,0,0,,0,0,0,0,,0,0,0,1,0,0,0,0,0,0.7,+6,

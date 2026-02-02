@@ -1,0 +1,74 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct
+2023-12-11,202312110PHI,WAS,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312110PHI.html,10.87,4,8,.500,0,0,2,4,.500,1,2,3,0,0,0,0,0,10,6.5,-16,
+2023-12-11,202312110PHI,WAS,Q1,Jordan Poole,https://www.basketball-reference.com/boxscores/202312110PHI.html,10.7,3,7,.429,1,1,2,2,1.000,0,0,0,0,0,0,3,1,9,1.9,-14,1.000
+2023-12-11,202312110PHI,WAS,Q1,Deni Avdija,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.83,1,1,1.000,0,0,0,0,,0,3,3,1,0,0,0,1,2,2.9,-13,
+2023-12-11,202312110PHI,WAS,Q1,Tyus Jones,https://www.basketball-reference.com/boxscores/202312110PHI.html,6.4,0,1,.000,0,1,0,0,,0,1,1,2,1,0,1,0,0,1.0,-11,.000
+2023-12-11,202312110PHI,WAS,Q1,Mike Muscala,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.88,0,1,.000,0,1,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-15,.000
+2023-12-11,202312110PHI,WAS,Q1,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312110PHI.html,3.47,0,0,,0,0,0,0,,1,1,2,1,0,0,0,0,0,1.7,-5,
+2023-12-11,202312110PHI,WAS,Q1,Corey Kispert,https://www.basketball-reference.com/boxscores/202312110PHI.html,5.6,1,1,1.000,0,0,2,4,.500,1,0,1,0,0,0,0,0,4,3.6,-5,
+2023-12-11,202312110PHI,WAS,Q1,Jared Butler,https://www.basketball-reference.com/boxscores/202312110PHI.html,0.65,0,1,.000,0,0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,
+2023-12-11,202312110PHI,WAS,Q1,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.12,0,0,,0,0,2,2,1.000,0,1,1,0,0,0,2,0,2,0.3,-1,
+2023-12-11,202312110PHI,WAS,Q1,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202312110PHI.html,0.47,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-12-11,202312110PHI,WAS,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.02,3,5,.600,0,1,0,0,,1,4,5,0,0,0,1,0,6,4.6,-3,.000
+2023-12-11,202312110PHI,WAS,Q2,Jordan Poole,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.92,0,1,.000,0,1,0,0,,0,0,0,1,0,0,0,0,0,0.0,-5,.000
+2023-12-11,202312110PHI,WAS,Q2,Deni Avdija,https://www.basketball-reference.com/boxscores/202312110PHI.html,6.7,1,3,.333,0,2,0,0,,1,1,2,1,0,0,2,0,2,0.0,-10,.000
+2023-12-11,202312110PHI,WAS,Q2,Tyus Jones,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.02,2,3,.667,1,2,0,0,,0,3,3,1,0,0,1,0,5,4.3,-3,.500
+2023-12-11,202312110PHI,WAS,Q2,Mike Muscala,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.02,0,1,.000,0,1,0,0,,1,0,1,0,0,0,0,0,0,0.0,-3,.000
+2023-12-11,202312110PHI,WAS,Q2,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312110PHI.html,10.28,1,5,.200,1,3,1,2,.500,1,3,4,1,0,0,2,0,4,0.8,-13,.333
+2023-12-11,202312110PHI,WAS,Q2,Corey Kispert,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.08,0,2,.000,0,1,0,0,,0,0,0,1,0,0,2,1,0,-3.1,-8,.000
+2023-12-11,202312110PHI,WAS,Q2,Jared Butler,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.98,1,1,1.000,0,0,0,0,,0,0,0,0,1,0,0,0,2,2.7,-10,
+2023-12-11,202312110PHI,WAS,Q2,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.98,0,2,.000,0,1,0,0,,0,1,1,0,0,0,0,1,0,-1.5,-10,.000
+2023-12-11,202312110PHI,WAS,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.58,2,4,.500,1,1,0,0,,0,1,1,1,0,0,1,0,5,3.0,-9,1.000
+2023-12-11,202312110PHI,WAS,Q3,Jordan Poole,https://www.basketball-reference.com/boxscores/202312110PHI.html,10.48,0,3,.000,0,1,2,2,1.000,0,0,0,2,0,0,0,0,2,1.3,-11,.000
+2023-12-11,202312110PHI,WAS,Q3,Deni Avdija,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.3,1,4,.250,1,1,2,2,1.000,1,0,1,1,1,0,1,0,5,4.0,-8,1.000
+2023-12-11,202312110PHI,WAS,Q3,Tyus Jones,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.52,2,5,.400,0,2,0,0,,0,1,1,0,0,0,0,0,4,1.6,-3,.000
+2023-12-11,202312110PHI,WAS,Q3,Mike Muscala,https://www.basketball-reference.com/boxscores/202312110PHI.html,8.37,0,2,.000,0,1,0,2,.000,2,1,3,1,0,0,0,1,0,-0.2,-7,.000
+2023-12-11,202312110PHI,WAS,Q3,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312110PHI.html,5.12,1,2,.500,1,2,0,0,,0,0,0,0,0,0,0,0,3,2.0,-15,.500
+2023-12-11,202312110PHI,WAS,Q3,Corey Kispert,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.48,1,1,1.000,0,0,0,0,,0,0,0,0,0,0,1,2,2,-0.1,-13,
+2023-12-11,202312110PHI,WAS,Q3,Jared Butler,https://www.basketball-reference.com/boxscores/202312110PHI.html,1.52,0,0,,0,0,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-5,
+2023-12-11,202312110PHI,WAS,Q3,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202312110PHI.html,3.6,0,0,,0,0,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-7,
+2023-12-11,202312110PHI,WAS,Q3,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202312110PHI.html,0.02,0,0,,0,0,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,
+2023-12-11,202312110PHI,WAS,Q4,Bilal Coulibaly,https://www.basketball-reference.com/boxscores/202312110PHI.html,12.0,2,4,.500,0,2,2,4,.500,1,1,2,2,1,1,1,0,6,6.3,0,.000
+2023-12-11,202312110PHI,WAS,Q4,Corey Kispert,https://www.basketball-reference.com/boxscores/202312110PHI.html,5.82,1,2,.500,1,2,0,0,,0,1,1,0,0,0,0,1,3,1.9,+5,.500
+2023-12-11,202312110PHI,WAS,Q4,Jared Butler,https://www.basketball-reference.com/boxscores/202312110PHI.html,12.0,4,5,.800,0,0,2,3,.667,0,0,0,4,1,0,0,1,10,11.1,0,
+2023-12-11,202312110PHI,WAS,Q4,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202312110PHI.html,12.0,3,3,1.000,2,2,2,2,1.000,0,3,3,1,0,0,0,1,10,10.3,0,1.000
+2023-12-11,202312110PHI,WAS,Q4,Anthony Gill,https://www.basketball-reference.com/boxscores/202312110PHI.html,10.43,1,2,.500,0,0,1,2,.500,1,3,4,0,0,1,2,2,3,1.1,+2,
+2023-12-11,202312110PHI,WAS,Q4,Jules Bernard,https://www.basketball-reference.com/boxscores/202312110PHI.html,6.18,1,4,.250,0,2,0,0,,1,0,1,0,0,0,1,1,2,-1.1,-5,.000
+2023-12-11,202312110PHI,WAS,Q4,Eugene Omoruyi,https://www.basketball-reference.com/boxscores/202312110PHI.html,1.57,0,1,.000,0,0,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2023-12-11,202312110PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202312110PHI.html,8.53,1,1,1.000,1,1,2,2,1.000,0,2,2,3,0,0,0,0,5,7.4,+11,1.000
+2023-12-11,202312110PHI,PHI,Q1,Joel Embiid,https://www.basketball-reference.com/boxscores/202312110PHI.html,12.0,4,7,.571,0,2,2,2,1.000,0,4,4,3,0,0,2,1,10,7.6,+16,.000
+2023-12-11,202312110PHI,PHI,Q1,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202312110PHI.html,8.53,2,6,.333,1,2,0,0,,0,0,0,1,3,0,0,2,5,4.5,+11,.500
+2023-12-11,202312110PHI,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.67,3,4,.750,3,3,2,2,1.000,0,0,0,1,0,0,1,1,11,8.7,+16,1.000
+2023-12-11,202312110PHI,PHI,Q1,Nicolas Batum,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.12,0,1,.000,0,1,0,0,,0,1,1,1,0,1,0,0,0,1.0,+10,.000
+2023-12-11,202312110PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.88,1,2,.500,1,2,0,0,,0,1,1,0,1,0,0,1,3,2.9,+6,.500
+2023-12-11,202312110PHI,PHI,Q1,Marcus Morris,https://www.basketball-reference.com/boxscores/202312110PHI.html,3.47,0,0,,0,0,0,0,,0,1,1,1,0,0,0,2,0,0.2,+5,
+2023-12-11,202312110PHI,PHI,Q1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202312110PHI.html,5.8,3,5,.600,3,4,0,0,,1,1,2,1,0,0,0,2,9,7.6,+5,.750
+2023-12-11,202312110PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.22,0,1,.000,0,0,2,2,1.000,0,1,1,2,0,0,0,0,2,3.0,+8,
+2023-12-11,202312110PHI,PHI,Q2,Joel Embiid,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.02,3,6,.500,1,2,0,0,,0,2,2,1,2,0,1,0,7,6.3,+3,.500
+2023-12-11,202312110PHI,PHI,Q2,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.02,0,3,.000,0,3,0,0,,1,1,2,1,1,0,0,0,0,0.6,+3,.000
+2023-12-11,202312110PHI,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202312110PHI.html,8.77,4,7,.571,2,5,1,1,1.000,0,0,0,4,0,0,1,0,11,9.5,+11,.400
+2023-12-11,202312110PHI,PHI,Q2,Nicolas Batum,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.02,1,2,.500,0,1,0,0,,0,0,0,0,1,0,0,0,2,2.0,+3,.000
+2023-12-11,202312110PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202312110PHI.html,2.78,0,2,.000,0,0,0,0,,0,1,1,0,0,0,0,1,0,-1.5,+5,
+2023-12-11,202312110PHI,PHI,Q2,Robert Covington,https://www.basketball-reference.com/boxscores/202312110PHI.html,8.22,1,2,.500,1,2,0,0,,1,1,2,0,0,0,0,1,3,2.6,+12,.500
+2023-12-11,202312110PHI,PHI,Q2,Paul Reed,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.98,1,1,1.000,0,0,0,0,,0,4,4,0,0,1,0,0,2,3.6,+10,
+2023-12-11,202312110PHI,PHI,Q2,Marcus Morris,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.98,2,2,1.000,1,1,0,0,,0,1,1,0,1,0,0,1,5,5.3,+10,1.000
+2023-12-11,202312110PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.1,1,2,.500,0,1,0,0,,0,1,1,1,0,0,0,1,2,1.6,+6,.000
+2023-12-11,202312110PHI,PHI,Q3,Joel Embiid,https://www.basketball-reference.com/boxscores/202312110PHI.html,10.58,7,7,1.000,1,1,2,2,1.000,0,5,5,2,0,1,4,3,17,13.3,+11,1.000
+2023-12-11,202312110PHI,PHI,Q3,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202312110PHI.html,8.37,0,0,,0,0,0,0,,0,0,0,2,1,0,0,1,0,2.0,+7,
+2023-12-11,202312110PHI,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202312110PHI.html,6.33,1,2,.500,0,1,0,0,,0,1,1,1,0,0,0,0,2,2.0,-1,.000
+2023-12-11,202312110PHI,PHI,Q3,Nicolas Batum,https://www.basketball-reference.com/boxscores/202312110PHI.html,6.33,1,2,.500,0,1,0,0,,0,1,1,0,0,1,0,0,2,2.0,-1,.000
+2023-12-11,202312110PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202312110PHI.html,5.67,1,2,.500,0,1,0,0,,1,2,3,1,0,0,0,0,2,3.0,+17,.000
+2023-12-11,202312110PHI,PHI,Q3,Robert Covington,https://www.basketball-reference.com/boxscores/202312110PHI.html,2.9,0,0,,0,0,2,2,1.000,0,0,0,0,1,0,0,0,2,3.0,+10,
+2023-12-11,202312110PHI,PHI,Q3,Paul Reed,https://www.basketball-reference.com/boxscores/202312110PHI.html,1.42,0,0,,0,0,0,0,,1,0,1,2,0,0,0,0,0,2.1,+5,
+2023-12-11,202312110PHI,PHI,Q3,Marcus Morris,https://www.basketball-reference.com/boxscores/202312110PHI.html,3.63,3,4,.750,1,2,0,0,,0,0,0,0,0,0,0,0,7,5.4,+9,.500
+2023-12-11,202312110PHI,PHI,Q3,Patrick Beverley,https://www.basketball-reference.com/boxscores/202312110PHI.html,5.67,1,1,1.000,0,0,1,1,1.000,0,0,0,1,0,0,0,0,3,3.4,+17,
+2023-12-11,202312110PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202312110PHI.html,2.77,0,1,.000,0,0,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,-4,
+2023-12-11,202312110PHI,PHI,Q4,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202312110PHI.html,2.77,0,2,.000,0,2,0,0,,0,0,0,1,0,0,2,0,0,-2.7,-4,.000
+2023-12-11,202312110PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202312110PHI.html,4.22,1,2,.500,0,1,0,0,,0,0,0,0,0,0,0,1,2,0.6,-5,.000
+2023-12-11,202312110PHI,PHI,Q4,Robert Covington,https://www.basketball-reference.com/boxscores/202312110PHI.html,2.77,1,1,1.000,1,1,0,0,,0,2,2,0,0,0,0,0,3,3.3,-4,1.000
+2023-12-11,202312110PHI,PHI,Q4,Paul Reed,https://www.basketball-reference.com/boxscores/202312110PHI.html,6.23,1,1,1.000,0,0,0,1,.000,1,0,1,1,0,0,0,3,2,1.5,-3,
+2023-12-11,202312110PHI,PHI,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.23,3,4,.750,3,4,1,2,.500,0,1,1,1,0,0,0,0,10,9.0,+4,.750
+2023-12-11,202312110PHI,PHI,Q4,Jaden Springer,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.23,2,5,.400,0,1,2,2,1.000,0,0,0,0,2,0,1,3,6,3.1,+4,.000
+2023-12-11,202312110PHI,PHI,Q4,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202312110PHI.html,9.23,0,0,,0,0,2,2,1.000,0,0,0,2,1,0,1,1,2,3.0,+4,
+2023-12-11,202312110PHI,PHI,Q4,Mo Bamba,https://www.basketball-reference.com/boxscores/202312110PHI.html,7.78,2,6,.333,0,1,2,2,1.000,3,3,6,2,0,2,0,1,6,8.0,+5,.000
+2023-12-11,202312110PHI,PHI,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202312110PHI.html,5.77,1,1,1.000,0,0,0,0,,0,1,1,1,0,0,0,1,2,2.3,+3,

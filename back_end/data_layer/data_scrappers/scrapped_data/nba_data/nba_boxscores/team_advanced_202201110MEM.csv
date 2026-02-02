@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-11,202201110MEM,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202201110MEM.html,38:41,.531,.429,.429,.476,3.0,21.5,13.2,49.5,2.4,0.0,10.6,31.8,110,108,5.9
+2022-01-11,202201110MEM,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201110MEM.html,33:33,.542,.542,.500,.000,0.0,11.0,6.1,10.3,0.0,0.0,25.0,20.7,76,117,-7.0
+2022-01-11,202201110MEM,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202201110MEM.html,19:37,.504,.462,.385,.154,0.0,14.1,7.8,32.2,0.0,3.7,17.8,37.3,85,113,-1.7
+2022-01-11,202201110MEM,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202201110MEM.html,18:23,.630,.333,.000,1.333,12.4,20.1,16.7,8.1,2.5,0.0,17.4,13.6,128,108,0.4
+2022-01-11,202201110MEM,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202201110MEM.html,7:21,,,,,0.0,25.1,13.9,0.0,0.0,0.0,100.0,17.7,0,112,-25.1
+2022-01-11,202201110MEM,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,28:23,.666,.700,.400,.800,0.0,19.5,10.8,11.3,1.6,2.6,12.9,11.8,116,108,3.4
+2022-01-11,202201110MEM,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202201110MEM.html,22:44,.813,.813,.250,.000,5.0,16.2,11.2,0.0,6.0,0.0,0.0,15.3,151,101,8.9
+2022-01-11,202201110MEM,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202201110MEM.html,22:14,.455,.318,.545,.455,0.0,4.2,2.3,15.1,0.0,6.5,7.0,27.7,91,113,-1.0
+2022-01-11,202201110MEM,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202201110MEM.html,20:56,.000,.000,.500,.000,0.0,13.2,7.3,13.1,2.2,3.5,0.0,4.1,52,108,-3.5
+2022-01-11,202201110MEM,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201110MEM.html,11:54,.902,1.000,1.000,.667,0.0,31.0,17.2,15.0,0.0,0.0,0.0,14.1,164,111,12.9
+2022-01-11,202201110MEM,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202201110MEM.html,9:03,.868,.750,.500,1.000,0.0,0.0,0.0,17.9,0.0,0.0,0.0,13.8,177,120,9.6
+2022-01-11,202201110MEM,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202201110MEM.html,7:11,.500,.500,.500,.000,0.0,12.9,7.1,23.6,0.0,0.0,0.0,12.1,113,116,0.6
+2022-01-11,202201110MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202201110MEM.html,36:56,.547,.500,.174,.348,0.0,15.5,6.9,35.0,0.0,5.7,7.0,31.2,114,107,6.6
+2022-01-11,202201110MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202201110MEM.html,32:07,.359,.321,.571,.214,2.9,7.1,4.8,15.1,0.0,0.0,16.4,23.0,75,112,-9.7
+2022-01-11,202201110MEM,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202201110MEM.html,30:25,.660,.625,.583,.167,0.0,3.8,1.7,9.1,0.0,0.0,7.2,18.4,122,112,0.3
+2022-01-11,202201110MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202201110MEM.html,24:12,.500,.500,.000,.000,11.4,4.7,8.4,11.0,5.7,4.3,20.0,16.7,98,96,3.3
+2022-01-11,202201110MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,22:23,.468,.423,.308,.154,8.2,46.0,25.1,0.0,6.1,14.0,12.6,28.6,88,82,2.7
+2022-01-11,202201110MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202201110MEM.html,25:47,.678,.667,.000,.333,10.7,26.6,17.8,5.7,1.8,8.1,0.0,16.2,146,99,7.4
+2022-01-11,202201110MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202201110MEM.html,23:21,1.063,1.063,.625,.000,4.0,24.5,13.1,51.9,3.9,0.0,11.1,15.6,187,101,26.0
+2022-01-11,202201110MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202201110MEM.html,17:02,1.500,1.500,1.000,.000,0.0,20.1,9.0,13.7,0.0,0.0,0.0,2.4,266,111,4.1
+2022-01-11,202201110MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202201110MEM.html,15:39,.167,.167,.333,.000,5.9,36.5,19.6,7.5,2.9,0.0,0.0,15.5,58,102,-8.0
+2022-01-11,202201110MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202201110MEM.html,12:08,.167,.167,.500,.000,0.0,9.4,4.2,19.8,3.8,0.0,0.0,20.0,56,103,-13.6

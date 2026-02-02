@@ -1,0 +1,73 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-11-18,201911180HOU,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.45,3,6,.500,2,5,.400,0,0,0,1,1,2,0,0,0,0,8,6.7,-3,
+2019-11-18,201911180HOU,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/201911180HOU.html,12.0,2,5,.400,0,2,.000,1,1,0,2,2,3,0,0,1,1,5,3.6,+1,1.000
+2019-11-18,201911180HOU,POR,Q1,Rodney Hood,https://www.basketball-reference.com/boxscores/201911180HOU.html,9.35,1,3,.333,1,1,1.000,0,0,0,0,0,0,1,0,0,0,3,2.3,-1,
+2019-11-18,201911180HOU,POR,Q1,Nassir Little,https://www.basketball-reference.com/boxscores/201911180HOU.html,11.48,2,4,.500,0,2,.000,3,5,1,3,4,1,0,0,0,2,7,5.7,-1,.600
+2019-11-18,201911180HOU,POR,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201911180HOU.html,9.35,1,3,.333,0,0,,1,1,0,3,3,1,1,1,3,1,3,1.2,-1,1.000
+2019-11-18,201911180HOU,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.55,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+4,
+2019-11-18,201911180HOU,POR,Q1,Kent Bazemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,2.65,0,1,.000,0,0,,0,0,0,0,0,1,1,0,0,0,0,1.0,+2,
+2019-11-18,201911180HOU,POR,Q1,Skal Labissière,https://www.basketball-reference.com/boxscores/201911180HOU.html,2.65,2,3,.667,0,0,,0,0,3,0,3,0,0,0,0,0,4,4.8,+2,
+2019-11-18,201911180HOU,POR,Q1,Mario Hezonja,https://www.basketball-reference.com/boxscores/201911180HOU.html,0.52,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2019-11-18,201911180HOU,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.05,2,4,.500,0,2,.000,0,0,0,0,0,1,0,0,0,0,4,2.7,-9,
+2019-11-18,201911180HOU,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/201911180HOU.html,6.03,0,3,.000,0,0,,0,0,0,2,2,1,0,0,0,0,0,-0.8,-10,
+2019-11-18,201911180HOU,POR,Q2,Rodney Hood,https://www.basketball-reference.com/boxscores/201911180HOU.html,7.68,0,2,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,-0.7,-11,
+2019-11-18,201911180HOU,POR,Q2,Nassir Little,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.82,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,1,2,0,-2.9,-10,
+2019-11-18,201911180HOU,POR,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201911180HOU.html,7.3,2,2,1.000,0,0,,0,0,0,1,1,1,0,0,0,0,4,4.4,-9,
+2019-11-18,201911180HOU,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/201911180HOU.html,9.13,2,4,.500,1,3,.333,2,2,0,0,0,1,0,0,0,1,7,5.3,-11,1.000
+2019-11-18,201911180HOU,POR,Q2,Kent Bazemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,5.97,1,3,.333,1,1,1.000,0,0,0,0,0,2,0,1,0,2,3,2.6,-5,
+2019-11-18,201911180HOU,POR,Q2,Skal Labissière,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.7,0,0,,0,0,,0,0,0,0,0,0,0,1,1,2,0,-1.1,-6,
+2019-11-18,201911180HOU,POR,Q2,Mario Hezonja,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.32,1,1,1.000,0,0,,0,0,0,5,5,0,0,0,1,2,2,1.4,-4,
+2019-11-18,201911180HOU,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.27,3,4,.750,3,4,.750,0,0,0,3,3,0,1,0,2,0,9,7.3,-8,
+2019-11-18,201911180HOU,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/201911180HOU.html,12.0,1,5,.200,0,2,.000,3,3,0,2,2,7,0,0,2,2,5,4.6,-9,1.000
+2019-11-18,201911180HOU,POR,Q3,Rodney Hood,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.9,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,2,0,0,-3.4,-6,
+2019-11-18,201911180HOU,POR,Q3,Nassir Little,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.42,1,3,.333,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,0.3,-6,
+2019-11-18,201911180HOU,POR,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.27,2,4,.500,0,0,,0,0,2,2,4,0,0,1,0,0,4,4.7,-8,
+2019-11-18,201911180HOU,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/201911180HOU.html,1.73,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,
+2019-11-18,201911180HOU,POR,Q3,Kent Bazemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.68,2,3,.667,0,1,.000,0,0,0,1,1,0,0,0,0,0,4,3.0,-6,
+2019-11-18,201911180HOU,POR,Q3,Skal Labissière,https://www.basketball-reference.com/boxscores/201911180HOU.html,1.73,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,0,2,2.4,-1,
+2019-11-18,201911180HOU,POR,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.18,2,5,.400,0,1,.000,0,0,0,1,1,0,1,0,0,0,4,2.6,+2,
+2019-11-18,201911180HOU,POR,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.48,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,1,1,3,0.6,-1,
+2019-11-18,201911180HOU,POR,Q4,Rodney Hood,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.48,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,-1,
+2019-11-18,201911180HOU,POR,Q4,Nassir Little,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.48,1,1,1.000,0,0,,0,1,1,1,2,1,1,0,1,2,2,2.2,0,.000
+2019-11-18,201911180HOU,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/201911180HOU.html,7.52,1,5,.200,0,1,.000,1,2,0,1,1,1,0,0,0,2,3,-0.3,0,.500
+2019-11-18,201911180HOU,POR,Q4,Kent Bazemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.18,1,7,.143,1,3,.333,1,2,1,2,3,2,0,0,0,0,4,1.8,+2,.500
+2019-11-18,201911180HOU,POR,Q4,Skal Labissière,https://www.basketball-reference.com/boxscores/201911180HOU.html,11.22,3,3,1.000,0,0,,3,4,3,0,3,1,0,1,1,1,9,9.8,+2,.750
+2019-11-18,201911180HOU,POR,Q4,Mario Hezonja,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.82,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2019-11-18,201911180HOU,POR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.82,1,3,.333,1,2,.500,0,0,0,1,1,0,0,0,0,0,3,1.6,-3,
+2019-11-18,201911180HOU,POR,Q4,Anthony Tolliver,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.82,0,0,,0,0,,2,2,1,0,1,0,0,0,1,0,2,1.7,-3,1.000
+2019-11-18,201911180HOU,HOU,Q1,Clint Capela,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.45,2,4,.500,0,0,,0,0,0,4,4,0,0,0,0,0,4,3.2,+3,
+2019-11-18,201911180HOU,HOU,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.48,2,6,.333,2,3,.667,0,0,0,4,4,2,0,0,1,2,6,3.4,+4,
+2019-11-18,201911180HOU,HOU,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/201911180HOU.html,5.83,1,1,1.000,1,1,1.000,0,0,0,0,0,1,2,0,0,0,3,5.4,+6,
+2019-11-18,201911180HOU,HOU,Q1,James Harden,https://www.basketball-reference.com/boxscores/201911180HOU.html,9.35,2,5,.400,1,3,.333,3,3,0,2,2,2,0,0,1,1,8,5.9,+1,1.000
+2019-11-18,201911180HOU,HOU,Q1,P.J. Tucker,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.45,1,2,.500,1,2,.500,0,0,1,0,1,1,0,1,0,1,3,3.7,+3,
+2019-11-18,201911180HOU,HOU,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,6.17,0,2,.000,0,2,.000,0,0,1,1,2,0,0,0,0,0,0,-0.4,-7,
+2019-11-18,201911180HOU,HOU,Q1,Austin Rivers,https://www.basketball-reference.com/boxscores/201911180HOU.html,6.17,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,1,0,2,1.7,-7,
+2019-11-18,201911180HOU,HOU,Q1,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.55,1,1,1.000,0,0,,1,1,0,1,1,0,0,1,2,0,3,1.7,-4,1.000
+2019-11-18,201911180HOU,HOU,Q1,Chris Clemons,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.55,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-4,
+2019-11-18,201911180HOU,HOU,Q2,Clint Capela,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.57,2,4,.500,0,0,,0,1,1,6,7,0,0,2,1,0,4,4.5,+13,.000
+2019-11-18,201911180HOU,HOU,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/201911180HOU.html,9.85,2,7,.286,0,3,.000,3,3,1,3,4,2,1,0,0,1,7,6.5,+11,1.000
+2019-11-18,201911180HOU,HOU,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.48,1,2,.500,0,1,.000,0,0,1,0,1,1,0,0,0,1,2,2.0,+13,
+2019-11-18,201911180HOU,HOU,Q2,James Harden,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.57,4,7,.571,3,5,.600,4,5,1,1,2,0,0,1,1,0,15,12.0,+11,.800
+2019-11-18,201911180HOU,HOU,Q2,P.J. Tucker,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.78,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,+13,
+2019-11-18,201911180HOU,HOU,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.67,1,1,1.000,0,0,,0,0,1,1,2,0,0,0,0,1,2,2.3,+6,
+2019-11-18,201911180HOU,HOU,Q2,Austin Rivers,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.43,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+4,
+2019-11-18,201911180HOU,HOU,Q2,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201911180HOU.html,1.43,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,+2,1.000
+2019-11-18,201911180HOU,HOU,Q2,Chris Clemons,https://www.basketball-reference.com/boxscores/201911180HOU.html,1.22,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2019-11-18,201911180HOU,HOU,Q3,Clint Capela,https://www.basketball-reference.com/boxscores/201911180HOU.html,10.27,4,7,.571,0,0,,1,1,3,2,5,0,0,1,0,1,9,8.7,+8,1.000
+2019-11-18,201911180HOU,HOU,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.65,4,9,.444,1,3,.333,0,2,1,1,2,4,1,0,1,1,9,6.9,+5,.000
+2019-11-18,201911180HOU,HOU,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.2,1,2,.500,1,1,1.000,0,0,2,1,3,0,0,0,1,1,3,2.3,+3,
+2019-11-18,201911180HOU,HOU,Q3,James Harden,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.92,3,4,.750,0,1,.000,0,0,0,2,2,1,1,0,0,1,6,6.3,+8,
+2019-11-18,201911180HOU,HOU,Q3,P.J. Tucker,https://www.basketball-reference.com/boxscores/201911180HOU.html,8.47,3,3,1.000,2,2,1.000,0,0,0,0,0,0,0,0,0,0,8,7.1,+6,
+2019-11-18,201911180HOU,HOU,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,6.88,0,3,.000,0,1,.000,0,0,1,0,1,2,0,0,0,0,0,0.0,+7,
+2019-11-18,201911180HOU,HOU,Q3,Austin Rivers,https://www.basketball-reference.com/boxscores/201911180HOU.html,6.88,0,2,.000,0,2,.000,0,0,0,2,2,0,1,0,1,0,0,-0.8,+7,
+2019-11-18,201911180HOU,HOU,Q3,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201911180HOU.html,1.73,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2019-11-18,201911180HOU,HOU,Q4,Clint Capela,https://www.basketball-reference.com/boxscores/201911180HOU.html,5.87,2,2,1.000,0,0,,1,1,1,3,4,0,1,1,0,2,5,6.9,+6,1.000
+2019-11-18,201911180HOU,HOU,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/201911180HOU.html,7.28,1,4,.250,0,2,.000,4,4,1,2,3,2,0,1,3,0,6,4.0,-1,1.000
+2019-11-18,201911180HOU,HOU,Q4,Danuel House Jr.,https://www.basketball-reference.com/boxscores/201911180HOU.html,9.58,1,4,.250,1,3,.333,0,0,1,1,2,2,1,0,0,1,3,3.6,-1,
+2019-11-18,201911180HOU,HOU,Q4,James Harden,https://www.basketball-reference.com/boxscores/201911180HOU.html,6.27,2,3,.667,1,1,1.000,2,2,0,0,0,2,0,0,1,2,7,5.3,+7,1.000
+2019-11-18,201911180HOU,HOU,Q4,P.J. Tucker,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.72,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.7,+2,
+2019-11-18,201911180HOU,HOU,Q4,Ben McLemore,https://www.basketball-reference.com/boxscores/201911180HOU.html,9.45,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,1,0,0,-2.1,-4,
+2019-11-18,201911180HOU,HOU,Q4,Austin Rivers,https://www.basketball-reference.com/boxscores/201911180HOU.html,4.87,0,0,,0,0,,0,1,0,1,1,0,0,0,0,0,0,-0.1,-3,.000
+2019-11-18,201911180HOU,HOU,Q4,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/201911180HOU.html,6.13,2,2,1.000,0,0,,0,0,0,0,0,0,0,1,0,1,4,3.7,-5,
+2019-11-18,201911180HOU,HOU,Q4,Chris Clemons,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.42,2,3,.667,2,3,.667,0,0,0,0,0,1,0,1,0,0,6,6.1,+2,
+2019-11-18,201911180HOU,HOU,Q4,Gary Clark,https://www.basketball-reference.com/boxscores/201911180HOU.html,3.42,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,2,0,-0.5,+2,

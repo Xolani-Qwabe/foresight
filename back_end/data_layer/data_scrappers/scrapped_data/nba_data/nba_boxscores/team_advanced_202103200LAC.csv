@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-20,202103200LAC,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202103200LAC.html,30:20,.581,.542,.500,.500,0.0,36.2,15.6,27.4,0.0,0.0,21.5,27.7,98,136,-3.7
+2021-03-20,202103200LAC,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202103200LAC.html,29:04,.300,.300,.200,.000,7.2,4.7,6.1,6.3,0.0,6.4,23.1,20.2,60,138,-15.6
+2021-03-20,202103200LAC,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202103200LAC.html,26:05,.368,.300,.900,.200,8.0,5.3,6.8,33.7,0.0,0.0,15.5,22.3,93,142,-7.2
+2021-03-20,202103200LAC,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202103200LAC.html,26:01,.750,.750,.000,.000,24.1,5.3,15.9,7.2,0.0,0.0,42.9,12.1,107,142,-10.1
+2021-03-20,202103200LAC,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202103200LAC.html,21:47,.431,.375,.333,.583,0.0,31.5,13.6,19.9,7.2,0.0,6.2,33.3,92,120,-1.4
+2021-03-20,202103200LAC,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202103200LAC.html,29:42,.317,.286,.286,.286,7.0,13.9,10.0,23.3,3.5,0.0,0.0,12.0,106,132,-2.8
+2021-03-20,202103200LAC,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202103200LAC.html,27:44,.884,.864,.818,.182,3.8,9.9,6.4,36.7,0.0,3.3,7.8,21.0,160,139,14.8
+2021-03-20,202103200LAC,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/202103200LAC.html,18:21,.671,.500,.833,.833,0.0,7.5,3.2,30.5,0.0,5.0,0.0,20.2,158,138,9.1
+2021-03-20,202103200LAC,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/202103200LAC.html,15:24,.375,.375,.500,.000,0.0,8.9,3.8,11.2,0.0,0.0,0.0,11.7,94,141,-11.5
+2021-03-20,202103200LAC,CHO,Caleb Martin,https://www.basketball-reference.com/boxscores/202103200LAC.html,7:52,.174,.000,.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.5,43,143,-19.5
+2021-03-20,202103200LAC,CHO,Vernon Carey Jr.,https://www.basketball-reference.com/boxscores/202103200LAC.html,3:50,,,,,0.0,71.6,30.9,0.0,0.0,0.0,,0.0,0,128,-5.2
+2021-03-20,202103200LAC,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202103200LAC.html,3:50,1.215,1.250,.500,1.000,0.0,35.8,15.5,0.0,0.0,0.0,0.0,33.9,250,136,48.8
+2021-03-20,202103200LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202103200LAC.html,32:44,.727,.714,.571,.071,0.0,15.9,9.1,44.1,0.0,0.0,0.0,20.1,166,112,14.5
+2021-03-20,202103200LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202103200LAC.html,31:09,.559,.462,.308,.385,4.4,6.7,5.7,17.2,6.7,0.0,0.0,22.3,135,100,9.0
+2021-03-20,202103200LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202103200LAC.html,24:54,.868,.750,.000,1.000,5.5,16.8,11.9,14.7,0.0,4.9,25.8,14.2,143,109,5.2
+2021-03-20,202103200LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202103200LAC.html,21:12,.722,.722,.556,.000,0.0,19.7,11.2,6.7,0.0,0.0,0.0,19.4,146,109,2.8
+2021-03-20,202103200LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202103200LAC.html,20:30,.700,.700,.600,.000,0.0,25.5,14.5,12.3,0.0,0.0,28.6,15.6,104,107,-4.6
+2021-03-20,202103200LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202103200LAC.html,27:44,.764,.600,.400,1.000,0.0,18.8,10.7,8.7,3.8,0.0,12.2,13.5,147,102,6.0
+2021-03-20,202103200LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202103200LAC.html,22:43,.735,.700,.200,.200,6.0,13.8,10.4,0.0,0.0,0.0,8.4,23.9,136,113,-0.6
+2021-03-20,202103200LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202103200LAC.html,20:16,.550,.409,.364,.545,6.8,5.1,5.8,6.7,7.8,0.0,12.8,35.2,109,98,2.8
+2021-03-20,202103200LAC,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/202103200LAC.html,12:19,.500,.500,.000,.000,22.3,16.9,19.2,10.5,0.0,0.0,20.0,18.5,110,111,-7.5
+2021-03-20,202103200LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202103200LAC.html,6:56,.000,.000,1.000,.000,19.8,0.0,8.5,15.4,0.0,0.0,0.0,6.6,110,119,-6.1
+2021-03-20,202103200LAC,LAC,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202103200LAC.html,6:31,.500,.500,.667,.000,0.0,16.0,9.1,0.0,0.0,0.0,0.0,21.0,104,111,-6.2
+2021-03-20,202103200LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202103200LAC.html,6:31,1.000,1.000,.750,.000,21.0,16.0,18.2,32.2,0.0,0.0,0.0,28.0,196,112,36.0
+2021-03-20,202103200LAC,LAC,Daniel Oturu,https://www.basketball-reference.com/boxscores/202103200LAC.html,6:31,.000,.000,.000,.000,21.0,0.0,9.1,0.0,0.0,0.0,0.0,21.0,35,119,-30.0

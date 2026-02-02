@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-18,201912180DET,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/201912180DET.html,39:24,.487,.382,.353,.471,7.3,19.0,12.8,37.0,2.5,2.3,12.8,25.2,112,98,5.6
+2019-12-18,201912180DET,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/201912180DET.html,35:09,.565,.565,.478,.000,0.0,15.2,7.2,16.2,1.4,10.5,8.0,30.1,104,95,7.6
+2019-12-18,201912180DET,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/201912180DET.html,34:34,.713,.667,.417,.250,0.0,24.7,11.7,14.2,0.0,2.7,13.1,18.7,125,101,3.2
+2019-12-18,201912180DET,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/201912180DET.html,33:05,.514,.357,.571,.571,2.9,6.4,4.6,12.1,0.0,0.0,18.6,13.7,103,108,-5.8
+2019-12-18,201912180DET,TOR,Marc Gasol,https://www.basketball-reference.com/boxscores/201912180DET.html,7:45,.000,.000,1.000,.000,0.0,13.8,6.5,0.0,12.5,0.0,0.0,5.5,0,80,2.1
+2019-12-18,201912180DET,TOR,Serge Ibaka,https://www.basketball-reference.com/boxscores/201912180DET.html,30:51,.619,.583,.222,.278,21.8,20.7,21.3,13.3,1.6,0.0,0.0,27.7,140,100,7.2
+2019-12-18,201912180DET,TOR,Patrick McCaw,https://www.basketball-reference.com/boxscores/201912180DET.html,27:01,.333,.333,.667,.000,0.0,11.8,5.6,9.5,0.0,0.0,0.0,4.7,99,106,-5.4
+2019-12-18,201912180DET,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/201912180DET.html,13:28,.512,.500,.000,.500,7.1,15.8,11.3,11.2,10.8,0.0,17.0,18.5,98,82,3.9
+2019-12-18,201912180DET,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/201912180DET.html,12:15,.500,.500,.250,.000,0.0,0.0,0.0,37.7,0.0,0.0,33.3,20.7,84,109,-5.0
+2019-12-18,201912180DET,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/201912180DET.html,6:12,.347,.000,.500,1.000,0.0,17.2,8.1,0.0,0.0,0.0,0.0,19.6,83,105,-10.8
+2019-12-18,201912180DET,TOR,Malcolm Miller,https://www.basketball-reference.com/boxscores/201912180DET.html,0:16,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,109,-7.0
+2019-12-18,201912180DET,DET,Andre Drummond,https://www.basketball-reference.com/boxscores/201912180DET.html,37:14,.577,.563,.000,.438,17.2,30.9,24.4,0.0,2.6,4.6,17.3,26.6,104,103,1.8
+2019-12-18,201912180DET,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/201912180DET.html,32:19,.540,.500,.385,.154,0.0,5.9,3.1,19.7,0.0,5.3,17.8,22.4,98,117,0.7
+2019-12-18,201912180DET,DET,Luke Kennard,https://www.basketball-reference.com/boxscores/201912180DET.html,31:53,.595,.600,.800,.400,0.0,6.0,3.2,12.5,0.0,0.0,0.0,7.9,135,121,-1.3
+2019-12-18,201912180DET,DET,Tony Snell,https://www.basketball-reference.com/boxscores/201912180DET.html,26:20,.278,.278,.889,.000,0.0,14.6,7.7,15.5,1.8,0.0,0.0,14.7,76,114,-5.2
+2019-12-18,201912180DET,DET,Bruce Brown,https://www.basketball-reference.com/boxscores/201912180DET.html,19:42,.676,.688,.250,.250,5.4,9.7,7.7,18.2,0.0,0.0,31.1,28.1,94,119,-3.9
+2019-12-18,201912180DET,DET,Derrick Rose,https://www.basketball-reference.com/boxscores/201912180DET.html,28:22,.459,.471,.235,.059,0.0,13.5,7.1,33.2,0.0,3.0,5.4,27.9,99,116,1.0
+2019-12-18,201912180DET,DET,Langston Galloway,https://www.basketball-reference.com/boxscores/201912180DET.html,21:40,.381,.357,.857,.286,4.9,13.3,9.3,0.0,8.9,0.0,11.3,17.6,77,98,1.1
+2019-12-18,201912180DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/201912180DET.html,16:03,.680,.600,.400,.400,0.0,12.0,6.3,10.0,0.0,0.0,14.5,18.4,121,119,-4.6
+2019-12-18,201912180DET,DET,Markieff Morris,https://www.basketball-reference.com/boxscores/201912180DET.html,15:41,.200,.200,.800,.000,0.0,24.5,12.9,8.5,0.0,0.0,16.7,16.4,44,114,-14.3
+2019-12-18,201912180DET,DET,Christian Wood,https://www.basketball-reference.com/boxscores/201912180DET.html,6:17,.798,.500,.000,2.000,34.0,15.3,24.1,0.0,0.0,13.6,0.0,25.7,181,108,18.4
+2019-12-18,201912180DET,DET,Thon Maker,https://www.basketball-reference.com/boxscores/201912180DET.html,4:29,,,,,0.0,42.8,22.5,0.0,0.0,0.0,,0.0,0,108,-3.6

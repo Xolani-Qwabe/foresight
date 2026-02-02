@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-12,202002120CLE,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202002120CLE.html,37:08,.618,.529,.412,.647,0.0,8.4,4.2,60.5,2.5,0.0,15.5,29.8,122,126,3.3
+2020-02-12,202002120CLE,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202002120CLE.html,35:31,.432,.423,.615,.154,5.8,17.6,11.6,13.3,2.7,0.0,17.8,20.4,83,122,-6.3
+2020-02-12,202002120CLE,ATL,John Collins,https://www.basketball-reference.com/boxscores/202002120CLE.html,34:06,.836,.792,.167,.333,0.0,12.2,6.1,18.1,1.4,2.1,17.9,21.1,133,126,3.1
+2020-02-12,202002120CLE,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202002120CLE.html,30:19,.458,.458,.583,.000,0.0,3.4,1.7,10.7,1.6,0.0,25.0,22.6,70,130,-12.8
+2020-02-12,202002120CLE,ATL,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202002120CLE.html,17:41,.700,.700,.400,.000,5.8,17.7,11.7,9.7,8.0,12.3,16.7,14.5,117,104,8.2
+2020-02-12,202002120CLE,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202002120CLE.html,26:10,.551,.455,.364,.727,0.0,16.0,7.9,12.8,1.8,0.0,6.4,25.4,111,125,-3.7
+2020-02-12,202002120CLE,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202002120CLE.html,14:06,.000,.000,.667,.000,7.2,14.8,11.0,9.5,0.0,0.0,0.0,9.1,44,129,-15.8
+2020-02-12,202002120CLE,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202002120CLE.html,10:27,.500,.500,.000,.000,19.5,20.0,19.8,0.0,0.0,7.0,0.0,8.2,135,123,-3.0
+2020-02-12,202002120CLE,ATL,Damian Jones,https://www.basketball-reference.com/boxscores/202002120CLE.html,10:27,.667,.667,.000,.000,19.5,20.0,19.8,0.0,4.5,0.0,0.0,12.3,149,117,0.5
+2020-02-12,202002120CLE,ATL,Jeff Teague,https://www.basketball-reference.com/boxscores/202002120CLE.html,10:19,.000,.000,.000,.000,0.0,10.1,5.0,0.0,0.0,0.0,33.3,12.5,0,130,-27.1
+2020-02-12,202002120CLE,ATL,Vince Carter,https://www.basketball-reference.com/boxscores/202002120CLE.html,8:22,.500,.500,.667,.000,12.2,12.5,12.3,0.0,0.0,0.0,0.0,15.4,112,130,-6.3
+2020-02-12,202002120CLE,ATL,Treveon Graham,https://www.basketball-reference.com/boxscores/202002120CLE.html,5:24,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.9,0,134,-17.1
+2020-02-12,202002120CLE,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202002120CLE.html,34:43,.871,.818,.455,.455,15.0,20.6,17.8,7.5,4.1,5.5,18.5,18.4,151,94,13.3
+2020-02-12,202002120CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202002120CLE.html,32:27,.150,.150,.700,.000,0.0,18.9,9.5,6.4,0.0,3.0,16.7,14.5,44,106,-14.3
+2020-02-12,202002120CLE,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202002120CLE.html,32:11,.549,.441,.235,.529,0.0,6.3,3.2,23.8,1.5,0.0,16.0,30.5,112,108,-3.2
+2020-02-12,202002120CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202002120CLE.html,31:50,.466,.417,.167,.167,0.0,0.0,0.0,26.1,0.0,3.0,13.4,18.4,110,110,-5.6
+2020-02-12,202002120CLE,CLE,Andre Drummond,https://www.basketball-reference.com/boxscores/202002120CLE.html,22:08,.618,.600,.100,.300,23.6,46.1,35.0,6.2,0.0,8.7,30.6,29.0,99,95,-3.1
+2020-02-12,202002120CLE,CLE,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202002120CLE.html,32:08,.758,.727,.182,.182,3.2,9.5,6.4,11.9,1.5,0.0,0.0,14.5,170,107,5.2
+2020-02-12,202002120CLE,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/202002120CLE.html,25:52,.760,.781,.188,.250,24.2,19.7,21.9,6.7,1.8,0.0,0.0,27.0,165,103,16.6
+2020-02-12,202002120CLE,CLE,Dante Exum,https://www.basketball-reference.com/boxscores/202002120CLE.html,18:44,.625,.625,.500,.000,0.0,21.8,11.0,17.9,2.5,0.0,20.0,10.5,123,101,1.1
+2020-02-12,202002120CLE,CLE,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202002120CLE.html,9:20,.333,.333,.667,.000,0.0,10.9,5.5,0.0,5.0,0.0,0.0,12.6,81,98,-5.9
+2020-02-12,202002120CLE,CLE,J.P. Macura,https://www.basketball-reference.com/boxscores/202002120CLE.html,0:37,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,-6.4

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-08-14,202008140IND,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202008140IND.html,32:58,.388,.315,.333,.222,2.7,3.2,2.9,30.1,4.4,2.9,14.4,42.8,79,104,-2.9
+2020-08-14,202008140IND,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202008140IND.html,27:56,.487,.469,.500,.063,3.2,0.0,1.7,24.9,0.0,0.0,15.4,28.3,93,117,-3.4
+2020-08-14,202008140IND,MIA,Udonis Haslem,https://www.basketball-reference.com/boxscores/202008140IND.html,23:31,.700,.700,.200,.000,3.9,31.1,16.5,0.0,0.0,0.0,16.7,10.4,117,108,-3.1
+2020-08-14,202008140IND,MIA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202008140IND.html,20:19,.333,.333,.889,.000,0.0,30.8,14.3,0.0,0.0,4.6,0.0,18.0,76,105,-4.6
+2020-08-14,202008140IND,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202008140IND.html,13:24,.000,.000,1.000,.000,0.0,15.6,7.2,11.6,0.0,0.0,40.0,15.2,11,113,-20.9
+2020-08-14,202008140IND,MIA,Solomon Hill,https://www.basketball-reference.com/boxscores/202008140IND.html,40:34,.574,.423,.308,.923,4.5,12.9,8.4,14.2,1.2,0.0,14.1,21.4,113,111,0.5
+2020-08-14,202008140IND,MIA,Meyers Leonard,https://www.basketball-reference.com/boxscores/202008140IND.html,28:46,.571,.571,.714,.286,6.3,18.1,11.8,0.0,0.0,0.0,27.6,15.4,87,112,-5.7
+2020-08-14,202008140IND,MIA,Chris Silva,https://www.basketball-reference.com/boxscores/202008140IND.html,24:29,.434,.500,.000,1.000,14.8,29.8,21.8,7.2,0.0,11.5,14.8,11.2,98,101,-2.0
+2020-08-14,202008140IND,MIA,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202008140IND.html,16:03,.521,.500,.000,1.000,11.3,0.0,6.0,21.4,6.0,0.0,0.0,7.3,143,103,5.2
+2020-08-14,202008140IND,MIA,Kyle Alexander,https://www.basketball-reference.com/boxscores/202008140IND.html,12:00,1.000,1.000,.000,.000,7.5,8.7,8.1,0.0,0.0,0.0,50.0,6.8,97,115,-7.8
+2020-08-14,202008140IND,IND,Alize Johnson,https://www.basketball-reference.com/boxscores/202008140IND.html,38:19,.564,.500,.625,.500,19.1,23.6,21.5,12.8,0.0,2.6,23.5,14.2,119,92,0.5
+2020-08-14,202008140IND,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/202008140IND.html,30:43,.470,.429,.429,.143,0.0,5.9,3.2,24.5,0.0,0.0,21.2,13.1,103,101,-6.5
+2020-08-14,202008140IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202008140IND.html,24:31,.571,.571,.500,.000,8.5,14.8,11.9,37.6,0.0,0.0,17.6,29.5,110,97,2.2
+2020-08-14,202008140IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202008140IND.html,23:51,.935,.900,1.000,.400,0.0,26.6,14.2,0.0,2.0,0.0,25.4,14.1,119,87,2.4
+2020-08-14,202008140IND,IND,JaKarr Sampson,https://www.basketball-reference.com/boxscores/202008140IND.html,23:22,.556,.556,.000,.000,4.5,11.6,8.3,12.6,4.1,0.0,18.2,20.0,98,90,-0.2
+2020-08-14,202008140IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202008140IND.html,21:53,.664,.656,.688,.188,4.8,12.4,8.9,0.0,2.2,0.0,0.0,33.7,130,94,11.3
+2020-08-14,202008140IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202008140IND.html,21:13,.500,.500,.000,.000,0.0,12.8,6.9,53.3,2.3,0.0,20.0,20.0,113,93,-0.2
+2020-08-14,202008140IND,IND,T.J. Leaf,https://www.basketball-reference.com/boxscores/202008140IND.html,18:01,.318,.333,.222,.111,0.0,15.1,8.1,7.6,5.3,0.0,0.0,22.3,74,85,-7.4
+2020-08-14,202008140IND,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202008140IND.html,17:17,.786,.786,.429,.000,0.0,10.5,5.6,19.1,8.3,0.0,22.2,22.2,113,81,10.5
+2020-08-14,202008140IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202008140IND.html,16:18,.400,.400,.400,.000,6.4,11.1,8.9,15.9,2.9,12.0,28.6,18.3,77,87,-3.6
+2020-08-14,202008140IND,IND,Brian Bowen,https://www.basketball-reference.com/boxscores/202008140IND.html,2:16,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.8,200,103,3.5
+2020-08-14,202008140IND,IND,Naz Mitrou-Long,https://www.basketball-reference.com/boxscores/202008140IND.html,2:16,,,,,0.0,0.0,0.0,49.2,0.0,0.0,100.0,18.8,49,103,-20.5

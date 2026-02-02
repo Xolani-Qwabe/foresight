@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-22,202411220NOP,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202411220NOP.html,33:08,.663,.615,.538,.231,0.0,19.9,10.7,33.5,1.5,2.7,21.8,22.7,117,107,4.8
+2024-11-22,202411220NOP,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202411220NOP.html,29:48,.637,.750,.667,1.000,11.0,15.8,13.6,23.6,1.6,0.0,31.6,17.4,102,110,1.4
+2024-11-22,202411220NOP,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202411220NOP.html,28:20,.835,.750,.357,.643,3.9,6.6,5.3,28.5,1.7,3.2,10.0,29.0,158,110,18.0
+2024-11-22,202411220NOP,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202411220NOP.html,18:17,.455,.444,.111,.222,17.9,25.7,22.1,0.0,0.0,5.0,0.0,22.2,111,107,-3.1
+2024-11-22,202411220NOP,GSW,Lindy Waters III,https://www.basketball-reference.com/boxscores/202411220NOP.html,15:10,.000,.000,1.000,.000,0.0,0.0,0.0,16.2,0.0,0.0,25.0,10.8,33,119,-14.7
+2024-11-22,202411220NOP,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202411220NOP.html,20:52,.481,.455,.455,.091,10.5,13.5,12.1,25.1,0.0,0.0,8.0,24.5,111,115,-1.8
+2024-11-22,202411220NOP,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202411220NOP.html,20:19,.322,.300,.200,.200,0.0,18.5,9.9,14.8,0.0,4.5,8.4,24.0,75,110,-10.4
+2024-11-22,202411220NOP,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202411220NOP.html,19:35,.338,.250,.500,.250,0.0,9.6,5.2,6.7,0.0,4.6,0.0,9.3,92,113,-7.5
+2024-11-22,202411220NOP,GSW,Buddy Hield,https://www.basketball-reference.com/boxscores/202411220NOP.html,19:18,.510,.400,.700,.400,5.7,24.4,15.7,0.0,0.0,0.0,0.0,25.0,121,110,-4.3
+2024-11-22,202411220NOP,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202411220NOP.html,16:12,.500,.500,.250,.000,6.7,0.0,3.1,9.0,6.0,0.0,0.0,10.2,125,105,1.5
+2024-11-22,202411220NOP,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202411220NOP.html,14:10,1.000,1.000,.000,.000,15.4,33.2,25.0,21.0,0.0,0.0,0.0,5.8,213,107,7.2
+2024-11-22,202411220NOP,GSW,Kyle Anderson,https://www.basketball-reference.com/boxscores/202411220NOP.html,4:51,.694,1.000,.000,1.000,22.5,0.0,10.4,0.0,0.0,0.0,67.6,37.6,38,119,-28.4
+2024-11-22,202411220NOP,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202411220NOP.html,38:04,.671,.676,.529,.118,2.5,8.6,5.3,17.0,0.0,2.5,0.0,20.2,140,121,4.9
+2024-11-22,202411220NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202411220NOP.html,35:48,.507,.500,.438,.250,2.6,6.1,4.2,29.7,0.0,5.4,18.4,26.1,97,121,-3.4
+2024-11-22,202411220NOP,NOP,Elfrid Payton,https://www.basketball-reference.com/boxscores/202411220NOP.html,26:08,.333,.333,.000,.000,0.0,12.5,5.8,19.7,5.6,0.0,25.0,13.2,73,108,-9.4
+2024-11-22,202411220NOP,NOP,Javonte Green,https://www.basketball-reference.com/boxscores/202411220NOP.html,19:31,.727,.722,.333,.333,0.0,22.4,10.4,18.7,2.5,4.9,8.8,24.9,131,109,6.7
+2024-11-22,202411220NOP,NOP,Daniel Theis,https://www.basketball-reference.com/boxscores/202411220NOP.html,18:29,.300,.300,.600,.000,5.1,23.6,13.7,13.5,0.0,15.6,0.0,11.6,94,109,-3.0
+2024-11-22,202411220NOP,NOP,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202411220NOP.html,34:59,.542,.500,.462,.308,8.1,6.2,7.2,29.3,2.8,2.7,11.9,20.6,119,116,1.6
+2024-11-22,202411220NOP,NOP,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202411220NOP.html,23:04,.745,.682,.273,.364,12.2,42.6,26.3,7.9,4.2,0.0,0.0,23.8,159,100,12.4
+2024-11-22,202411220NOP,NOP,Jordan Hawkins,https://www.basketball-reference.com/boxscores/202411220NOP.html,19:47,.304,.278,.556,.222,4.8,0.0,2.6,0.0,2.5,4.9,0.0,21.5,73,118,-11.1
+2024-11-22,202411220NOP,NOP,Antonio Reeves,https://www.basketball-reference.com/boxscores/202411220NOP.html,12:40,.085,.000,.600,.400,14.9,0.0,8.0,9.2,0.0,0.0,0.0,20.0,54,125,-21.1
+2024-11-22,202411220NOP,NOP,Trey Jemison,https://www.basketball-reference.com/boxscores/202411220NOP.html,11:30,.694,1.000,.000,1.000,8.2,28.5,17.6,0.0,4.3,0.0,0.0,5.4,142,105,-3.8

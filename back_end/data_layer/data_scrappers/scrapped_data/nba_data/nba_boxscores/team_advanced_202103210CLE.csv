@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-21,202103210CLE,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202103210CLE.html,41:25,.462,.438,.625,.083,0.0,3.3,1.3,29.3,2.2,5.3,7.4,26.5,97,110,2.6
+2021-03-21,202103210CLE,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202103210CLE.html,40:08,.571,.500,.643,.286,2.1,23.9,10.5,15.4,1.1,0.0,11.3,18.1,111,112,-1.2
+2021-03-21,202103210CLE,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202103210CLE.html,32:50,.533,.500,.438,.125,0.0,8.4,3.2,0.0,0.0,0.0,10.6,23.5,93,117,-7.7
+2021-03-21,202103210CLE,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202103210CLE.html,31:16,.535,.533,.400,.133,2.7,21.9,10.1,11.7,4.3,3.5,20.1,26.0,88,103,1.0
+2021-03-21,202103210CLE,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202103210CLE.html,24:31,.375,.375,.250,.000,3.5,11.2,6.5,13.4,3.7,0.0,14.3,23.4,74,108,-6.0
+2021-03-21,202103210CLE,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202103210CLE.html,14:51,.250,.250,.750,.000,5.8,0.0,3.6,0.0,6.1,0.0,0.0,11.0,67,104,-6.6
+2021-03-21,202103210CLE,TOR,Aron Baynes,https://www.basketball-reference.com/boxscores/202103210CLE.html,14:27,.549,.000,.000,6.000,17.8,56.9,32.9,0.0,3.1,0.0,35.5,16.0,98,102,-6.4
+2021-03-21,202103210CLE,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202103210CLE.html,13:00,.250,.250,.500,.000,13.2,31.6,20.3,11.1,0.0,0.0,0.0,12.6,88,113,-8.9
+2021-03-21,202103210CLE,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202103210CLE.html,12:22,.667,.667,.000,.000,0.0,0.0,0.0,26.6,0.0,0.0,0.0,9.9,149,118,-1.0
+2021-03-21,202103210CLE,TOR,Patrick McCaw,https://www.basketball-reference.com/boxscores/202103210CLE.html,9:44,1.078,1.000,.000,3.000,0.0,28.2,10.8,0.0,9.3,0.0,0.0,9.7,232,92,12.8
+2021-03-21,202103210CLE,TOR,Paul Watson,https://www.basketball-reference.com/boxscores/202103210CLE.html,5:26,1.500,1.500,1.000,.000,0.0,0.0,0.0,31.4,0.0,0.0,0.0,7.5,285,119,16.9
+2021-03-21,202103210CLE,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202103210CLE.html,38:45,.676,.667,.375,.250,3.5,4.4,4.1,21.6,2.3,0.0,18.4,35.1,108,102,3.9
+2021-03-21,202103210CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202103210CLE.html,35:58,.573,.550,.100,.700,3.8,9.5,7.3,24.8,1.3,0.0,31.4,22.1,94,103,-6.8
+2021-03-21,202103210CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202103210CLE.html,33:42,.662,.500,.000,1.375,4.1,35.6,23.5,4.3,0.0,2.9,18.9,19.6,115,96,-2.4
+2021-03-21,202103210CLE,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202103210CLE.html,31:51,.625,.625,.625,.000,4.3,16.1,11.6,9.1,1.4,3.1,20.0,13.1,105,98,1.0
+2021-03-21,202103210CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202103210CLE.html,30:23,.667,.667,.833,.000,4.5,16.9,12.2,23.1,3.0,3.2,50.0,16.4,83,94,1.5
+2021-03-21,202103210CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202103210CLE.html,23:58,.363,.250,.667,.333,0.0,21.5,13.2,32.5,3.8,0.0,0.0,11.9,122,93,3.1
+2021-03-21,202103210CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202103210CLE.html,17:31,.901,.875,.875,.250,0.0,14.7,9.0,32.5,0.0,0.0,0.0,21.1,178,104,18.2
+2021-03-21,202103210CLE,CLE,JaVale McGee,https://www.basketball-reference.com/boxscores/202103210CLE.html,13:57,.750,.750,.000,.000,19.7,30.7,26.5,12.0,0.0,7.0,33.3,17.9,108,95,-0.3
+2021-03-21,202103210CLE,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202103210CLE.html,13:55,.500,.500,.667,.000,0.0,6.2,3.8,9.7,0.0,0.0,25.0,12.0,84,106,-8.2

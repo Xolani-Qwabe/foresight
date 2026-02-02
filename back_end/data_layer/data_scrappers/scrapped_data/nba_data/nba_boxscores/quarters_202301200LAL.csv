@@ -1,0 +1,76 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-01-20,202301200LAL,MEM,Q1,Ja Morant,https://www.basketball-reference.com/boxscores/202301200LAL.html,10.2,1,6,.167,0,1,.000,0,1,.000,0,0,0,5,0,0,1,1,2,-0.1,-4
+2023-01-20,202301200LAL,MEM,Q1,Desmond Bane,https://www.basketball-reference.com/boxscores/202301200LAL.html,7.38,1,4,.250,1,1,1.000,0,0,,0,2,2,0,0,0,0,1,3,0.8,+1
+2023-01-20,202301200LAL,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.08,0,1,.000,0,0,,0,0,,0,2,2,0,0,1,0,0,0,0.6,+2
+2023-01-20,202301200LAL,MEM,Q1,Dillon Brooks,https://www.basketball-reference.com/boxscores/202301200LAL.html,10.2,2,8,.250,1,4,.250,0,0,,0,2,2,1,0,0,0,0,5,1.5,-4
+2023-01-20,202301200LAL,MEM,Q1,Steven Adams,https://www.basketball-reference.com/boxscores/202301200LAL.html,10.2,4,5,.800,0,0,,1,3,.333,3,4,7,1,0,0,0,0,9,10.3,-4
+2023-01-20,202301200LAL,MEM,Q1,Brandon Clarke,https://www.basketball-reference.com/boxscores/202301200LAL.html,1.8,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,1,1,2,1.0,+1
+2023-01-20,202301200LAL,MEM,Q1,Tyus Jones,https://www.basketball-reference.com/boxscores/202301200LAL.html,1.8,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+1
+2023-01-20,202301200LAL,MEM,Q1,Ziaire Williams,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.42,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,0,0,2,0.6,-3
+2023-01-20,202301200LAL,MEM,Q1,Santi Aldama,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.92,0,1,.000,0,1,.000,0,0,,1,1,2,0,0,0,0,0,0,0.3,-5
+2023-01-20,202301200LAL,MEM,Q2,Ja Morant,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.88,1,4,.250,0,1,.000,2,2,1.000,0,0,0,1,0,0,2,0,4,0.3,+1
+2023-01-20,202301200LAL,MEM,Q2,Desmond Bane,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.33,2,3,.667,0,0,,0,0,,0,1,1,4,0,0,0,0,4,5.8,+7
+2023-01-20,202301200LAL,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.33,2,6,.333,0,3,.000,4,4,1.000,1,2,3,0,0,0,1,0,8,4.9,+6
+2023-01-20,202301200LAL,MEM,Q2,Dillon Brooks,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.48,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,1,1,2,-0.1,-1
+2023-01-20,202301200LAL,MEM,Q2,Steven Adams,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.48,0,0,,0,0,,0,0,,1,1,2,0,0,1,0,1,0,1.3,-1
+2023-01-20,202301200LAL,MEM,Q2,Brandon Clarke,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.52,2,2,1.000,0,0,,0,0,,0,0,0,0,1,2,0,2,4,5.0,+8
+2023-01-20,202301200LAL,MEM,Q2,Tyus Jones,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.12,2,3,.667,2,2,1.000,0,0,,0,1,1,1,0,0,0,0,6,5.7,+6
+2023-01-20,202301200LAL,MEM,Q2,Ziaire Williams,https://www.basketball-reference.com/boxscores/202301200LAL.html,3.67,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,0
+2023-01-20,202301200LAL,MEM,Q2,Santi Aldama,https://www.basketball-reference.com/boxscores/202301200LAL.html,3.67,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3,+1
+2023-01-20,202301200LAL,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.52,0,0,,0,0,,0,0,,2,2,4,1,0,0,0,2,0,1.9,+8
+2023-01-20,202301200LAL,MEM,Q3,Ja Morant,https://www.basketball-reference.com/boxscores/202301200LAL.html,10.58,6,12,.500,1,1,1.000,1,2,.500,2,0,2,1,0,0,2,2,14,6.9,+6
+2023-01-20,202301200LAL,MEM,Q3,Desmond Bane,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.98,1,3,.333,0,1,.000,0,0,,0,2,2,1,0,0,0,0,2,1.6,0
+2023-01-20,202301200LAL,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.6,0,0,,0,0,,0,0,,0,0,0,0,1,1,1,2,0,-0.1,-3
+2023-01-20,202301200LAL,MEM,Q3,Dillon Brooks,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.07,1,5,.200,0,0,,0,0,,2,0,2,2,1,0,0,1,2,2.3,-1
+2023-01-20,202301200LAL,MEM,Q3,Steven Adams,https://www.basketball-reference.com/boxscores/202301200LAL.html,7.47,2,2,1.000,0,0,,1,4,.250,4,3,7,1,0,0,1,1,5,6.2,+4
+2023-01-20,202301200LAL,MEM,Q3,Brandon Clarke,https://www.basketball-reference.com/boxscores/202301200LAL.html,4.53,2,2,1.000,0,0,,1,2,.500,1,2,3,0,0,0,0,0,5,5.3,0
+2023-01-20,202301200LAL,MEM,Q3,Tyus Jones,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.35,2,3,.667,2,3,.667,0,0,,0,0,0,0,0,0,0,0,6,4.7,+3
+2023-01-20,202301200LAL,MEM,Q3,Ziaire Williams,https://www.basketball-reference.com/boxscores/202301200LAL.html,3.02,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,3,0,0.2,+4
+2023-01-20,202301200LAL,MEM,Q3,Santi Aldama,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.4,0,2,.000,0,1,.000,2,4,.500,1,0,1,0,1,0,1,1,2,0.1,+7
+2023-01-20,202301200LAL,MEM,Q4,Ja Morant,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.87,1,7,.143,0,3,.000,0,0,,0,1,1,1,0,0,0,0,2,-1.5,-9
+2023-01-20,202301200LAL,MEM,Q4,Desmond Bane,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.58,2,5,.400,1,2,.500,2,2,1.000,1,2,3,1,1,0,2,1,7,4.9,-6
+2023-01-20,202301200LAL,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,12.0,1,1,1.000,1,1,1.000,1,2,.500,0,1,1,0,0,2,1,3,4,2.8,-9
+2023-01-20,202301200LAL,MEM,Q4,Dillon Brooks,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.87,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,4,0,-2.7,-5
+2023-01-20,202301200LAL,MEM,Q4,Steven Adams,https://www.basketball-reference.com/boxscores/202301200LAL.html,1.63,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,2,2.3,0
+2023-01-20,202301200LAL,MEM,Q4,Brandon Clarke,https://www.basketball-reference.com/boxscores/202301200LAL.html,10.28,2,2,1.000,0,0,,5,8,.625,3,3,6,0,0,0,0,1,9,9.8,-6
+2023-01-20,202301200LAL,MEM,Q4,Tyus Jones,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.68,2,3,.667,0,1,.000,4,4,1.000,0,0,0,0,0,0,0,0,8,6.7,-4
+2023-01-20,202301200LAL,MEM,Q4,Ziaire Williams,https://www.basketball-reference.com/boxscores/202301200LAL.html,4.67,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,1,0,-1.1,-3
+2023-01-20,202301200LAL,MEM,Q4,John Konchar,https://www.basketball-reference.com/boxscores/202301200LAL.html,3.42,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,-3
+2023-01-20,202301200LAL,LAL,Q1,LeBron James,https://www.basketball-reference.com/boxscores/202301200LAL.html,7.53,3,6,.500,1,3,.333,0,0,,0,3,3,0,0,1,1,1,7,4.2,+4
+2023-01-20,202301200LAL,LAL,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301200LAL.html,10.2,0,2,.000,0,0,,1,2,.500,0,3,3,3,1,1,0,0,1,3.9,+4
+2023-01-20,202301200LAL,LAL,Q1,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.1,1,5,.200,1,3,.333,0,0,,0,2,2,1,0,1,0,0,3,1.9,0
+2023-01-20,202301200LAL,LAL,Q1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.07,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,0
+2023-01-20,202301200LAL,LAL,Q1,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.03,0,0,,0,0,,0,0,,0,3,3,0,0,1,0,1,0,1.2,0
+2023-01-20,202301200LAL,LAL,Q1,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.93,3,5,.600,1,2,.500,0,0,,0,0,0,2,0,1,1,0,7,5.8,+3
+2023-01-20,202301200LAL,LAL,Q1,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.9,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+3
+2023-01-20,202301200LAL,LAL,Q1,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.97,2,4,.500,1,3,.333,0,0,,0,2,2,0,0,0,0,1,5,3.2,+3
+2023-01-20,202301200LAL,LAL,Q1,Max Christie,https://www.basketball-reference.com/boxscores/202301200LAL.html,1.8,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2023-01-20,202301200LAL,LAL,Q1,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202301200LAL.html,4.47,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-1
+2023-01-20,202301200LAL,LAL,Q2,LeBron James,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.93,2,7,.286,0,1,.000,0,0,,0,1,1,0,0,1,1,1,4,-0.5,-5
+2023-01-20,202301200LAL,LAL,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.48,2,5,.400,0,1,.000,0,0,,0,2,2,0,0,0,0,1,4,1.5,+1
+2023-01-20,202301200LAL,LAL,Q2,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.28,0,2,.000,0,2,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,0.6,-2
+2023-01-20,202301200LAL,LAL,Q2,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.47,1,2,.500,0,1,.000,2,2,1.000,0,1,1,0,1,0,0,1,4,3.9,-3
+2023-01-20,202301200LAL,LAL,Q2,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.2,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,1,0,0,1,2,1.9,+2
+2023-01-20,202301200LAL,LAL,Q2,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.78,1,2,.500,0,1,.000,1,2,.500,0,0,0,1,0,0,0,0,3,2.3,-7
+2023-01-20,202301200LAL,LAL,Q2,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.8,0,1,.000,0,0,,1,2,.500,0,1,1,0,0,0,0,1,1,-0.2,-9
+2023-01-20,202301200LAL,LAL,Q2,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202301200LAL.html,3.72,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5
+2023-01-20,202301200LAL,LAL,Q2,Max Christie,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.33,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.7,-7
+2023-01-20,202301200LAL,LAL,Q3,LeBron James,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.07,1,4,.250,0,0,,0,0,,1,0,1,2,2,0,1,1,2,2.3,+1
+2023-01-20,202301200LAL,LAL,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.18,1,2,.500,1,1,1.000,4,4,1.000,1,1,2,2,1,0,1,1,7,8.0,-2
+2023-01-20,202301200LAL,LAL,Q3,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.68,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+2
+2023-01-20,202301200LAL,LAL,Q3,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.65,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,-1
+2023-01-20,202301200LAL,LAL,Q3,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.18,2,5,.400,0,1,.000,0,0,,3,1,4,1,0,0,0,2,4,3.6,+1
+2023-01-20,202301200LAL,LAL,Q3,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.82,2,4,.500,0,0,,4,6,.667,1,1,2,1,0,0,1,1,8,5.5,-5
+2023-01-20,202301200LAL,LAL,Q3,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.4,1,3,.333,0,1,.000,0,0,,1,3,4,0,0,0,0,0,2,1.9,-7
+2023-01-20,202301200LAL,LAL,Q3,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.02,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,1,0,3,1.0,-2
+2023-01-20,202301200LAL,LAL,Q3,Max Christie,https://www.basketball-reference.com/boxscores/202301200LAL.html,3.93,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5
+2023-01-20,202301200LAL,LAL,Q3,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.07,0,1,.000,0,0,,3,4,.750,0,0,0,0,0,0,0,1,3,1.5,-2
+2023-01-20,202301200LAL,LAL,Q4,LeBron James,https://www.basketball-reference.com/boxscores/202301200LAL.html,12.0,2,4,.500,0,1,.000,6,7,.857,1,3,4,4,0,0,0,1,10,11.6,+9
+2023-01-20,202301200LAL,LAL,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202301200LAL.html,8.57,1,2,.500,0,1,.000,5,5,1.000,0,1,1,3,1,0,0,0,7,9.4,+6
+2023-01-20,202301200LAL,LAL,Q4,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202301200LAL.html,7.97,2,3,.667,2,3,.667,0,0,,0,2,2,0,0,0,0,1,6,4.9,+2
+2023-01-20,202301200LAL,LAL,Q4,Patrick Beverley,https://www.basketball-reference.com/boxscores/202301200LAL.html,5.35,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+2
+2023-01-20,202301200LAL,LAL,Q4,Thomas Bryant,https://www.basketball-reference.com/boxscores/202301200LAL.html,4.32,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,0.6,+4
+2023-01-20,202301200LAL,LAL,Q4,Russell Westbrook,https://www.basketball-reference.com/boxscores/202301200LAL.html,10.28,4,7,.571,1,1,1.000,2,3,.667,2,1,3,2,0,0,2,2,11,7.6,+12
+2023-01-20,202301200LAL,LAL,Q4,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202301200LAL.html,4.77,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9,0
+2023-01-20,202301200LAL,LAL,Q4,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202301200LAL.html,6.65,1,3,.333,1,3,.333,0,0,,0,3,3,0,0,1,0,3,3,1.7,+7
+2023-01-20,202301200LAL,LAL,Q4,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202301200LAL.html,0.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-09,202112090PHI,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202112090PHI.html,29:22,.585,.545,.000,.727,22.3,58.4,39.9,4.9,0.0,5.9,6.4,22.5,134,95,4.9
+2021-12-09,202112090PHI,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202112090PHI.html,29:21,.553,.553,.526,.105,3.7,0.0,1.9,32.8,3.5,0.0,9.1,31.8,124,103,9.8
+2021-12-09,202112090PHI,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202112090PHI.html,28:05,.700,.700,.600,.000,0.0,16.3,7.9,4.5,1.8,0.0,0.0,7.6,156,103,2.4
+2021-12-09,202112090PHI,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202112090PHI.html,27:38,.579,.444,.444,.778,0.0,0.0,0.0,0.0,0.0,0.0,7.6,20.2,121,110,-4.3
+2021-12-09,202112090PHI,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202112090PHI.html,24:58,.500,.500,.400,.000,4.4,4.6,4.5,21.8,2.0,3.5,16.7,20.5,109,102,2.1
+2021-12-09,202112090PHI,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202112090PHI.html,27:53,.442,.458,.833,.083,3.9,12.3,8.0,4.8,1.8,0.0,7.4,20.6,100,104,-3.1
+2021-12-09,202112090PHI,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202112090PHI.html,24:14,.611,.611,.778,.000,4.5,4.7,4.6,39.5,2.1,0.0,10.0,17.6,147,105,11.9
+2021-12-09,202112090PHI,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202112090PHI.html,17:52,.919,.900,.400,.200,0.0,38.4,18.7,0.0,0.0,0.0,15.5,15.4,148,103,4.9
+2021-12-09,202112090PHI,UTA,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202112090PHI.html,15:19,.686,.625,.000,.625,42.7,29.8,36.4,11.5,0.0,11.4,8.9,31.2,150,95,16.5
+2021-12-09,202112090PHI,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202112090PHI.html,6:59,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.1,0,110,-12.7
+2021-12-09,202112090PHI,UTA,Eric Paschall,https://www.basketball-reference.com/boxscores/202112090PHI.html,3:19,.000,.000,.000,.000,0.0,0.0,0.0,0.0,15.4,0.0,50.0,25.7,0,77,-21.6
+2021-12-09,202112090PHI,UTA,Jared Butler,https://www.basketball-reference.com/boxscores/202112090PHI.html,2:30,1.000,1.000,.000,.000,0.0,45.7,22.3,80.7,0.0,0.0,0.0,17.1,208,102,20.8
+2021-12-09,202112090PHI,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202112090PHI.html,2:30,,,,,0.0,45.7,22.3,0.0,0.0,0.0,,0.0,0,102,-1.8
+2021-12-09,202112090PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202112090PHI.html,34:58,.666,.591,.182,.364,3.3,18.7,11.2,4.6,0.0,2.7,0.0,16.9,139,127,2.5
+2021-12-09,202112090PHI,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202112090PHI.html,33:10,.699,.667,.500,.167,0.0,6.6,3.4,20.8,0.0,0.0,7.2,19.4,134,133,1.3
+2021-12-09,202112090PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202112090PHI.html,30:14,.503,.472,.222,.111,3.8,28.9,16.6,12.6,5.1,3.1,5.0,30.5,101,111,5.6
+2021-12-09,202112090PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202112090PHI.html,25:42,.506,.500,.000,.200,8.9,4.2,6.5,13.0,4.0,0.0,8.4,21.4,104,126,0.9
+2021-12-09,202112090PHI,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202112090PHI.html,19:34,.000,.000,.800,.000,0.0,11.2,5.7,6.5,2.6,4.8,16.7,14.2,9,124,-12.9
+2021-12-09,202112090PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202112090PHI.html,24:25,.421,.286,.286,.429,4.7,8.9,6.9,11.5,2.1,0.0,0.0,15.8,103,128,-3.0
+2021-12-09,202112090PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202112090PHI.html,18:33,.438,.438,.625,.000,6.2,0.0,3.0,8.6,2.7,0.0,20.0,25.0,77,130,-6.0
+2021-12-09,202112090PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202112090PHI.html,15:42,.291,.167,.833,.333,0.0,6.9,3.6,8.7,0.0,0.0,0.0,20.3,69,134,-12.6
+2021-12-09,202112090PHI,PHI,Georges Niang,https://www.basketball-reference.com/boxscores/202112090PHI.html,15:36,.643,.643,.571,.000,0.0,21.0,10.7,0.0,0.0,0.0,0.0,20.8,123,127,-1.2
+2021-12-09,202112090PHI,PHI,Andre Drummond,https://www.basketball-reference.com/boxscores/202112090PHI.html,10:08,.000,.000,.000,.000,0.0,32.3,16.5,12.5,0.0,0.0,66.7,13.7,16,122,-18.5
+2021-12-09,202112090PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202112090PHI.html,6:54,.000,.000,1.000,.000,0.0,0.0,0.0,36.6,0.0,0.0,0.0,6.7,75,137,-3.2
+2021-12-09,202112090PHI,PHI,Charles Bassey,https://www.basketball-reference.com/boxscores/202112090PHI.html,5:04,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,10.1,18.6,33.3,27.4,104,105,18.5

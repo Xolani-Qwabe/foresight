@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-14,202201140IND,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202201140IND.html,35:16,.614,.560,.520,.320,6.0,5.7,5.9,16.3,0.0,3.0,6.6,37.0,124,105,10.7
+2022-01-14,202201140IND,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202201140IND.html,32:56,.551,.500,.200,.200,0.0,9.1,4.7,40.1,3.0,3.2,26.9,19.3,104,96,1.7
+2022-01-14,202201140IND,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202201140IND.html,30:55,.581,.500,.333,.333,0.0,35.6,18.4,4.2,1.6,3.5,12.7,10.9,110,91,1.4
+2022-01-14,202201140IND,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202201140IND.html,30:28,.291,.167,.333,.333,0.0,13.1,6.8,8.2,0.0,0.0,12.7,11.1,71,104,-7.7
+2022-01-14,202201140IND,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202201140IND.html,29:56,.715,.694,.056,.111,17.8,23.4,20.7,7.7,3.3,3.6,13.7,31.3,127,91,10.4
+2022-01-14,202201140IND,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202201140IND.html,23:53,.786,.786,.143,.000,0.0,4.2,2.2,33.6,0.0,0.0,0.0,12.5,172,107,6.7
+2022-01-14,202201140IND,PHO,Landry Shamet,https://www.basketball-reference.com/boxscores/202201140IND.html,20:08,.546,.417,.667,.500,0.0,0.0,0.0,0.0,2.5,0.0,0.0,15.6,121,103,-0.8
+2022-01-14,202201140IND,PHO,Jalen Smith,https://www.basketball-reference.com/boxscores/202201140IND.html,17:05,.000,.000,.500,.000,18.7,52.7,36.3,0.0,2.9,6.2,33.3,15.0,36,81,-10.1
+2022-01-14,202201140IND,PHO,JaVale McGee,https://www.basketball-reference.com/boxscores/202201140IND.html,16:46,.518,.400,.000,.800,12.7,11.9,12.3,25.1,3.0,6.4,12.9,19.8,120,94,7.7
+2022-01-14,202201140IND,PHO,Elfrid Payton,https://www.basketball-reference.com/boxscores/202201140IND.html,1:18,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,108,-5.6
+2022-01-14,202201140IND,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202201140IND.html,1:18,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.9,0,108,-38.1
+2022-01-14,202201140IND,IND,Caris LeVert,https://www.basketball-reference.com/boxscores/202201140IND.html,38:54,.503,.474,.316,.105,7.7,5.5,6.6,46.0,1.3,0.0,13.1,26.2,108,121,2.2
+2022-01-14,202201140IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202201140IND.html,36:55,.781,.781,.875,.000,0.0,5.8,2.8,23.3,2.7,6.5,0.0,19.3,154,114,18.4
+2022-01-14,202201140IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202201140IND.html,36:45,.554,.450,.300,.600,0.0,40.6,19.7,27.2,1.3,0.0,13.7,17.7,112,110,2.5
+2022-01-14,202201140IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202201140IND.html,28:06,.253,.222,.333,.222,10.7,15.2,12.9,0.0,5.3,5.7,0.0,15.6,71,105,-6.0
+2022-01-14,202201140IND,IND,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201140IND.html,17:45,.333,.333,.167,.000,5.6,6.0,5.8,0.0,0.0,0.0,14.3,17.5,65,124,-15.4
+2022-01-14,202201140IND,IND,Chris Duarte,https://www.basketball-reference.com/boxscores/202201140IND.html,25:18,.301,.222,.556,.667,4.0,8.4,6.1,6.3,3.9,0.0,14.7,24.0,62,115,-11.1
+2022-01-14,202201140IND,IND,Torrey Craig,https://www.basketball-reference.com/boxscores/202201140IND.html,24:45,.800,.800,.600,.000,0.0,8.6,4.2,0.0,0.0,3.2,16.7,10.8,117,121,-3.1
+2022-01-14,202201140IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201140IND.html,15:48,.375,.375,.500,.000,6.3,13.5,9.8,0.0,0.0,0.0,20.0,28.2,63,122,-17.7
+2022-01-14,202201140IND,IND,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201140IND.html,10:25,.363,.250,.667,.333,0.0,30.7,14.9,0.0,0.0,0.0,12.7,33.6,67,116,-19.9
+2022-01-14,202201140IND,IND,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201140IND.html,2:41,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-11.0
+2022-01-14,202201140IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202201140IND.html,1:18,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,-11.1
+2022-01-14,202201140IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202201140IND.html,1:18,,,,,0.0,82.1,39.7,0.0,0.0,61.5,,0.0,0,57,23.1

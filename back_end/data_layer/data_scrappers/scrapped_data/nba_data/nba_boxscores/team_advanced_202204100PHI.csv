@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-04-10,202204100PHI,DET,Isaiah Livers,https://www.basketball-reference.com/boxscores/202204100PHI.html,23:28,1.190,1.200,.400,.400,4.4,11.1,7.3,7.4,2.1,0.0,25.4,14.0,154,122,7.5
+2022-04-10,202204100PHI,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202204100PHI.html,22:23,.506,.444,.444,.222,0.0,5.8,2.6,0.0,0.0,0.0,9.2,20.3,98,127,-11.1
+2022-04-10,202204100PHI,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202204100PHI.html,13:13,.317,.286,.143,.286,7.7,19.6,13.0,23.6,0.0,0.0,0.0,24.9,92,125,-8.6
+2022-04-10,202204100PHI,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202204100PHI.html,13:13,1.250,1.250,.500,.000,7.7,49.1,25.9,30.9,0.0,0.0,0.0,12.7,243,118,24.2
+2022-04-10,202204100PHI,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202204100PHI.html,10:19,.508,.500,.429,.286,0.0,12.6,5.5,19.4,4.8,0.0,0.0,31.9,113,115,1.6
+2022-04-10,202204100PHI,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202204100PHI.html,31:35,.593,.250,.000,3.000,6.5,0.0,3.6,33.3,1.6,0.0,43.0,21.6,94,125,-8.6
+2022-04-10,202204100PHI,DET,Luka Garza,https://www.basketball-reference.com/boxscores/202204100PHI.html,30:35,.484,.500,.389,.333,23.4,12.7,18.7,24.7,0.0,2.5,4.6,29.6,116,124,0.6
+2022-04-10,202204100PHI,DET,Carsen Edwards,https://www.basketball-reference.com/boxscores/202204100PHI.html,25:37,.278,.278,.556,.000,4.0,0.0,2.2,21.9,0.0,0.0,25.0,19.6,67,129,-14.7
+2022-04-10,202204100PHI,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202204100PHI.html,24:32,.317,.286,.429,.286,0.0,26.4,11.6,5.7,0.0,3.1,11.3,15.1,69,121,-12.9
+2022-04-10,202204100PHI,DET,Jamorko Pickett,https://www.basketball-reference.com/boxscores/202204100PHI.html,23:20,.500,.500,.833,.000,0.0,27.8,12.2,0.0,0.0,3.3,25.0,14.3,73,120,-7.3
+2022-04-10,202204100PHI,DET,Braxton Key,https://www.basketball-reference.com/boxscores/202204100PHI.html,21:45,.806,.786,.286,.143,9.4,17.9,13.1,24.6,2.3,3.5,21.2,18.2,133,117,10.1
+2022-04-10,202204100PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202204100PHI.html,35:33,.875,.875,.500,.000,0.0,8.6,4.8,3.2,1.4,5.5,0.0,5.0,177,112,-1.3
+2022-04-10,202204100PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202204100PHI.html,23:54,.300,.300,.000,.000,10.9,12.8,12.0,30.1,2.1,0.0,16.7,22.3,86,111,-9.7
+2022-04-10,202204100PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202204100PHI.html,23:22,.691,.600,.267,.467,0.0,8.7,4.9,22.4,0.0,0.0,10.0,38.2,132,118,1.5
+2022-04-10,202204100PHI,PHI,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202204100PHI.html,23:09,.581,.667,.000,.333,16.8,35.3,27.2,5.5,0.0,4.2,0.0,13.2,136,106,-2.8
+2022-04-10,202204100PHI,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202204100PHI.html,19:33,.000,.000,1.000,.000,0.0,20.9,11.7,10.7,7.6,0.0,50.0,9.1,28,97,-6.3
+2022-04-10,202204100PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202204100PHI.html,32:55,.712,.639,.167,.389,7.9,6.2,6.9,19.5,3.0,3.0,0.0,28.4,157,111,12.2
+2022-04-10,202204100PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202204100PHI.html,32:15,.383,.250,.700,.400,4.0,6.3,5.3,13.8,0.0,3.0,7.8,17.6,98,118,-8.0
+2022-04-10,202204100PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202204100PHI.html,28:27,.405,.333,.778,.222,0.0,14.4,8.0,7.9,3.5,0.0,23.3,20.1,74,108,-10.6
+2022-04-10,202204100PHI,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202204100PHI.html,20:52,.866,.857,.000,.071,12.4,19.6,16.4,25.0,9.5,4.7,0.0,30.7,176,90,25.7

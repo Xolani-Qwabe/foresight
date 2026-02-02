@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-02-11,202202110DET,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202202110DET.html,37:36,.704,.688,.313,.250,2.9,7.4,5.3,9.3,2.3,0.0,25.3,24.2,107,112,-3.4
+2022-02-11,202202110DET,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202202110DET.html,36:33,.633,.583,.500,.222,6.0,20.2,13.7,34.2,4.8,0.0,13.2,23.9,138,102,8.8
+2022-02-11,202202110DET,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202202110DET.html,32:19,.957,.964,.643,.357,10.1,5.7,7.7,45.5,5.5,0.0,11.0,21.6,183,106,27.1
+2022-02-11,202202110DET,CHO,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202202110DET.html,31:20,.384,.346,.769,.231,0.0,17.7,9.6,3.2,0.0,0.0,6.5,18.8,86,113,-15.3
+2022-02-11,202202110DET,CHO,Mason Plumlee,https://www.basketball-reference.com/boxscores/202202110DET.html,22:06,.595,.600,.000,.400,19.7,25.1,22.6,13.7,0.0,0.0,14.5,11.9,140,111,-1.1
+2022-02-11,202202110DET,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202202110DET.html,29:26,.929,.929,.714,.000,0.0,15.7,8.5,17.8,1.5,0.0,12.5,10.4,169,111,6.6
+2022-02-11,202202110DET,CHO,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202202110DET.html,22:08,.670,.778,.000,.556,14.8,12.5,13.6,5.6,2.0,3.2,21.1,24.6,107,109,-3.0
+2022-02-11,202202110DET,CHO,James Bouknight,https://www.basketball-reference.com/boxscores/202202110DET.html,19:22,.318,.318,.273,.000,11.3,9.5,10.3,0.0,0.0,3.7,0.0,21.8,88,114,-14.6
+2022-02-11,202202110DET,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202202110DET.html,3:46,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,10.2,0,119,-23.6
+2022-02-11,202202110DET,CHO,JT Thor,https://www.basketball-reference.com/boxscores/202202110DET.html,3:46,1.250,1.250,.500,.000,0.0,24.5,13.3,0.0,11.7,0.0,0.0,20.4,250,86,39.2
+2022-02-11,202202110DET,CHO,Kai Jones,https://www.basketball-reference.com/boxscores/202202110DET.html,1:38,.500,.500,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,104,120,-14.6
+2022-02-11,202202110DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202202110DET.html,35:12,.671,.594,.500,.375,7.9,3.1,5.7,11.0,2.5,2.5,13.9,23.1,127,130,3.1
+2022-02-11,202202110DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202202110DET.html,30:25,.504,.500,.000,.143,15.2,25.1,19.7,4.3,0.0,5.7,11.8,20.8,104,129,-6.7
+2022-02-11,202202110DET,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202202110DET.html,27:02,.582,.542,.333,.167,0.0,12.1,5.5,14.3,0.0,6.5,0.0,17.9,132,132,1.0
+2022-02-11,202202110DET,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202202110DET.html,21:48,.462,.462,.385,.000,4.2,20.0,11.5,11.9,4.0,4.0,31.6,32.7,68,121,-10.5
+2022-02-11,202202110DET,DET,Cory Joseph,https://www.basketball-reference.com/boxscores/202202110DET.html,20:02,.333,.333,.333,.000,9.2,16.3,12.5,26.3,0.0,0.0,25.0,7.5,114,133,-8.3
+2022-02-11,202202110DET,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202202110DET.html,27:58,.611,.611,.222,.000,3.3,7.8,5.4,52.2,1.6,0.0,10.0,13.4,147,132,4.5
+2022-02-11,202202110DET,DET,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202202110DET.html,26:46,.481,.571,.143,.429,0.0,28.5,13.1,0.0,4.9,0.0,10.7,26.1,80,119,-7.6
+2022-02-11,202202110DET,DET,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202202110DET.html,17:35,.571,.500,.286,.286,15.7,12.4,14.2,20.6,0.0,0.0,20.2,21.1,115,134,-4.7
+2022-02-11,202202110DET,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202202110DET.html,16:25,.857,.857,1.000,.000,0.0,0.0,0.0,8.1,2.7,0.0,0.0,16.0,168,133,11.0
+2022-02-11,202202110DET,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202202110DET.html,8:39,.000,.000,.800,.000,0.0,0.0,0.0,11.6,0.0,0.0,16.7,26.0,13,139,-32.8
+2022-02-11,202202110DET,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202202110DET.html,4:22,.000,.000,.000,.000,0.0,0.0,0.0,0.0,10.1,0.0,0.0,8.6,0,116,-7.6
+2022-02-11,202202110DET,DET,Luka Garza,https://www.basketball-reference.com/boxscores/202202110DET.html,3:46,1.000,1.000,.000,.000,24.5,0.0,13.3,36.1,0.0,0.0,0.0,10.0,210,139,13.6

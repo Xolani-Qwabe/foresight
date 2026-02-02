@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-03,202105030NOP,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202105030NOP.html,38:18,.626,.579,.316,.211,3.2,8.2,5.9,0.0,1.2,3.9,4.6,25.2,117,108,-0.3
+2021-05-03,202105030NOP,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202105030NOP.html,36:58,.850,.800,.000,.400,6.7,31.1,19.9,46.6,3.8,4.0,40.5,11.9,149,95,13.4
+2021-05-03,202105030NOP,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202105030NOP.html,35:17,.716,.692,.692,.231,0.0,11.8,6.4,38.9,1.3,0.0,12.3,41.1,126,109,11.6
+2021-05-03,202105030NOP,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202105030NOP.html,31:05,.450,.450,.500,.000,0.0,26.9,14.5,7.6,4.5,4.8,16.7,17.1,79,94,-1.6
+2021-05-03,202105030NOP,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202105030NOP.html,22:33,.750,.750,.000,.000,0.0,9.3,5.0,0.0,0.0,0.0,0.0,7.9,141,112,-6.5
+2021-05-03,202105030NOP,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202105030NOP.html,33:05,.875,.875,.500,.000,3.7,12.6,8.5,15.2,0.0,2.2,11.1,12.1,158,110,4.4
+2021-05-03,202105030NOP,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202105030NOP.html,21:56,.500,.500,.833,.000,0.0,0.0,0.0,0.0,0.0,3.4,25.0,16.2,67,113,-8.8
+2021-05-03,202105030NOP,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202105030NOP.html,17:24,.506,.500,.600,.200,0.0,6.0,3.2,7.7,0.0,0.0,0.0,27.7,101,113,-5.9
+2021-05-03,202105030NOP,GSW,Nico Mannion,https://www.basketball-reference.com/boxscores/202105030NOP.html,2:29,,,,,0.0,0.0,0.0,41.1,18.8,0.0,,0.0,236,76,29.3
+2021-05-03,202105030NOP,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202105030NOP.html,0:55,,,,,100.0,0.0,61.6,0.0,0.0,0.0,,0.0,234,115,8.5
+2021-05-03,202105030NOP,NOP,Lonzo Ball,https://www.basketball-reference.com/boxscores/202105030NOP.html,37:38,.194,.194,.500,.000,2.8,19.6,10.5,29.0,2.5,0.0,18.2,23.4,57,118,-11.0
+2021-05-03,202105030NOP,NOP,Zion Williamson,https://www.basketball-reference.com/boxscores/202105030NOP.html,36:52,.555,.500,.083,.458,11.3,13.4,12.3,5.6,0.0,5.9,12.2,35.6,107,120,3.3
+2021-05-03,202105030NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202105030NOP.html,35:18,.654,.500,.364,.727,0.0,7.0,3.2,16.9,0.0,0.0,12.1,18.7,129,125,0.8
+2021-05-03,202105030NOP,NOP,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202105030NOP.html,32:45,.661,.643,.286,.429,3.2,15.0,8.6,17.7,1.4,3.3,10.7,11.4,133,119,4.7
+2021-05-03,202105030NOP,NOP,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202105030NOP.html,25:07,.850,.800,.000,.400,0.0,34.3,15.7,6.1,0.0,4.3,0.0,9.4,178,119,6.0
+2021-05-03,202105030NOP,NOP,Naji Marshall,https://www.basketball-reference.com/boxscores/202105030NOP.html,27:20,.872,.833,.667,.333,0.0,27.0,12.4,5.5,1.7,0.0,12.7,11.5,152,119,6.0
+2021-05-03,202105030NOP,NOP,James Johnson,https://www.basketball-reference.com/boxscores/202105030NOP.html,16:16,.300,.300,.300,.000,12.8,22.7,17.4,0.0,0.0,0.0,9.1,27.0,69,123,-17.6
+2021-05-03,202105030NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202105030NOP.html,14:12,.922,1.000,.000,.500,14.7,17.3,15.9,0.0,3.3,0.0,38.1,22.2,102,116,1.2
+2021-05-03,202105030NOP,NOP,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202105030NOP.html,7:05,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.6,0,126,-13.0
+2021-05-03,202105030NOP,NOP,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202105030NOP.html,2:29,.174,.000,.500,1.000,42.0,0.0,22.7,0.0,18.8,0.0,0.0,46.4,63,82,-6.6
+2021-05-03,202105030NOP,NOP,Wes Iwundu,https://www.basketball-reference.com/boxscores/202105030NOP.html,2:29,.000,.000,.000,.000,42.0,0.0,22.7,49.6,0.0,0.0,0.0,32.2,56,126,-13.5
+2021-05-03,202105030NOP,NOP,James Nunnally,https://www.basketball-reference.com/boxscores/202105030NOP.html,2:29,.568,,,,42.0,0.0,22.7,0.0,0.0,0.0,0.0,14.2,147,126,3.9

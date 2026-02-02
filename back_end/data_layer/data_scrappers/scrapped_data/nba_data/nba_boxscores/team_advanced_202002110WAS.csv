@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-11,202002110WAS,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202002110WAS.html,36:59,.901,.905,.524,.190,2.9,24.1,13.3,21.2,2.4,0.0,18.0,30.5,140,116,16.5
+2020-02-11,202002110WAS,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202002110WAS.html,32:57,.417,.417,.500,.000,3.2,13.6,8.3,3.8,1.4,5.1,33.3,22.2,60,117,-13.4
+2020-02-11,202002110WAS,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202002110WAS.html,30:13,.713,.667,.333,.250,7.1,0.0,3.6,38.6,0.0,0.0,13.1,20.6,145,126,3.1
+2020-02-11,202002110WAS,CHI,Chandler Hutchison,https://www.basketball-reference.com/boxscores/202002110WAS.html,28:32,.349,.375,.250,.167,0.0,15.6,7.6,4.5,0.0,3.0,0.0,18.3,77,121,-11.3
+2020-02-11,202002110WAS,CHI,Luke Kornet,https://www.basketball-reference.com/boxscores/202002110WAS.html,24:27,.474,.500,.250,.125,4.4,27.4,15.6,0.0,0.0,0.0,0.0,14.0,101,121,-7.8
+2020-02-11,202002110WAS,CHI,Coby White,https://www.basketball-reference.com/boxscores/202002110WAS.html,34:31,.444,.357,.500,.286,3.1,12.9,7.9,25.3,5.2,0.0,6.0,19.7,112,112,1.7
+2020-02-11,202002110WAS,CHI,Cristiano Felício,https://www.basketball-reference.com/boxscores/202002110WAS.html,22:51,.333,.333,.000,.000,18.7,14.7,16.7,15.0,0.0,0.0,25.0,7.1,119,123,-6.3
+2020-02-11,202002110WAS,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202002110WAS.html,18:29,.500,.500,.800,.000,0.0,18.1,8.9,6.7,2.4,0.0,37.5,17.6,65,117,-11.4
+2020-02-11,202002110WAS,CHI,Shaquille Harrison,https://www.basketball-reference.com/boxscores/202002110WAS.html,11:01,.600,.600,.400,.000,0.0,20.3,9.9,0.0,4.1,7.6,28.6,25.8,76,108,-3.2
+2020-02-11,202002110WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202002110WAS.html,34:01,.606,.587,.391,.174,6.6,6.3,6.4,31.8,1.3,0.0,13.9,34.8,115,113,1.7
+2020-02-11,202002110WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202002110WAS.html,31:48,.683,.583,.000,.500,7.0,6.7,6.9,12.1,2.8,5.7,12.0,21.5,132,105,4.2
+2020-02-11,202002110WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/202002110WAS.html,28:12,.625,.625,.500,.000,0.0,18.9,9.7,37.2,1.6,3.2,0.0,11.7,155,107,8.4
+2020-02-11,202002110WAS,WAS,Ian Mahinmi,https://www.basketball-reference.com/boxscores/202002110WAS.html,21:26,.663,.700,.100,.300,20.8,10.0,15.3,0.0,0.0,0.0,0.0,21.7,142,115,-3.2
+2020-02-11,202002110WAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/202002110WAS.html,19:36,.820,.750,.000,.500,0.0,27.2,13.9,6.0,0.0,4.6,0.0,10.3,172,108,2.7
+2020-02-11,202002110WAS,WAS,Moritz Wagner,https://www.basketball-reference.com/boxscores/202002110WAS.html,26:34,.721,.714,.143,.429,0.0,12.0,6.2,9.3,1.7,3.4,26.5,17.5,105,108,-3.0
+2020-02-11,202002110WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202002110WAS.html,24:25,.455,.455,.818,.000,0.0,8.7,4.5,4.9,0.0,3.7,8.3,20.2,87,113,-8.5
+2020-02-11,202002110WAS,WAS,Shabazz Napier,https://www.basketball-reference.com/boxscores/202002110WAS.html,19:06,.952,.929,.571,.286,5.8,5.6,5.7,14.2,2.4,0.0,38.8,27.8,108,111,2.1
+2020-02-11,202002110WAS,WAS,Jerome Robinson,https://www.basketball-reference.com/boxscores/202002110WAS.html,17:58,.694,.750,1.000,1.000,0.0,53.4,27.3,0.0,0.0,0.0,25.8,8.9,95,105,-7.0
+2020-02-11,202002110WAS,WAS,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202002110WAS.html,16:12,.170,.000,.400,.400,0.0,26.3,13.5,18.5,13.9,0.0,14.5,17.5,59,79,1.5
+2020-02-11,202002110WAS,WAS,Gary Payton II,https://www.basketball-reference.com/boxscores/202002110WAS.html,0:42,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-7.8

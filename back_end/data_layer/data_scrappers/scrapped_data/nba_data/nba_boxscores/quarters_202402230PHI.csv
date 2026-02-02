@@ -1,0 +1,74 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-02-23,202402230PHI,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.3,1,3,.333,0,1,.000,2,2,1.000,0,1,1,1,0,0,1,0,4,2.3,-1
+2024-02-23,202402230PHI,CLE,Q1,Jarrett Allen,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.23,2,3,.667,0,0,,0,0,,0,2,2,0,0,0,0,0,4,3.3,+4
+2024-02-23,202402230PHI,CLE,Q1,Max Strus,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.3,2,2,1.000,2,2,1.000,0,0,,0,0,0,2,0,1,1,0,6,6.5,-1
+2024-02-23,202402230PHI,CLE,Q1,Isaac Okoro,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.23,2,3,.667,0,0,,0,0,,0,0,0,1,0,0,0,0,4,3.4,+4
+2024-02-23,202402230PHI,CLE,Q1,Evan Mobley,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.47,2,4,.500,0,0,,1,2,.500,1,3,4,0,0,1,1,0,5,3.9,-1
+2024-02-23,202402230PHI,CLE,Q1,Caris LeVert,https://www.basketball-reference.com/boxscores/202402230PHI.html,6.47,0,2,.000,0,0,,2,2,1.000,0,1,1,1,0,0,0,0,2,1.6,-3
+2024-02-23,202402230PHI,CLE,Q1,Georges Niang,https://www.basketball-reference.com/boxscores/202402230PHI.html,3.77,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2024-02-23,202402230PHI,CLE,Q1,Dean Wade,https://www.basketball-reference.com/boxscores/202402230PHI.html,3.53,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,+1
+2024-02-23,202402230PHI,CLE,Q1,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202402230PHI.html,2.7,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1
+2024-02-23,202402230PHI,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.23,3,4,.750,1,2,.500,1,1,1.000,0,2,2,3,1,0,1,1,8,8.7,+4
+2024-02-23,202402230PHI,CLE,Q2,Jarrett Allen,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.3,3,6,.500,0,0,,1,4,.250,0,1,1,0,0,0,0,0,7,3.1,-2
+2024-02-23,202402230PHI,CLE,Q2,Max Strus,https://www.basketball-reference.com/boxscores/202402230PHI.html,6.22,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-1
+2024-02-23,202402230PHI,CLE,Q2,Isaac Okoro,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.83,2,4,.500,1,1,1.000,0,0,,1,1,2,1,0,1,0,0,5,5.4,-2
+2024-02-23,202402230PHI,CLE,Q2,Evan Mobley,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.33,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-1.2,-3
+2024-02-23,202402230PHI,CLE,Q2,Caris LeVert,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.68,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,0
+2024-02-23,202402230PHI,CLE,Q2,Georges Niang,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.78,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,1,0,-0.5,-2
+2024-02-23,202402230PHI,CLE,Q2,Sam Merrill,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.78,1,2,.500,1,2,.500,0,0,,0,1,1,0,1,0,0,0,3,3.3,-2
+2024-02-23,202402230PHI,CLE,Q2,Dean Wade,https://www.basketball-reference.com/boxscores/202402230PHI.html,3.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2024-02-23,202402230PHI,CLE,Q2,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202402230PHI.html,2.77,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.7,-7
+2024-02-23,202402230PHI,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/202402230PHI.html,10.15,2,4,.500,1,2,.500,0,0,,0,1,1,1,0,0,1,0,5,3.0,-1
+2024-02-23,202402230PHI,CLE,Q3,Jarrett Allen,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.57,2,3,.667,0,0,,1,2,.500,0,2,2,0,0,1,0,1,5,4.2,-4
+2024-02-23,202402230PHI,CLE,Q3,Max Strus,https://www.basketball-reference.com/boxscores/202402230PHI.html,10.17,2,2,1.000,0,0,,0,1,.000,1,0,1,3,2,0,0,1,4,7.4,-2
+2024-02-23,202402230PHI,CLE,Q3,Isaac Okoro,https://www.basketball-reference.com/boxscores/202402230PHI.html,6.28,1,4,.250,0,2,.000,0,0,,0,0,0,1,0,1,0,0,2,1.0,-6
+2024-02-23,202402230PHI,CLE,Q3,Evan Mobley,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.32,1,3,.333,0,0,,0,2,.000,0,2,2,0,0,0,1,1,2,-1.3,-2
+2024-02-23,202402230PHI,CLE,Q3,Caris LeVert,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.72,0,3,.000,0,1,.000,2,2,1.000,1,2,3,0,0,2,0,1,2,2.2,+5
+2024-02-23,202402230PHI,CLE,Q3,Georges Niang,https://www.basketball-reference.com/boxscores/202402230PHI.html,2.7,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1
+2024-02-23,202402230PHI,CLE,Q3,Sam Merrill,https://www.basketball-reference.com/boxscores/202402230PHI.html,3.68,0,2,.000,0,2,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.8,+1
+2024-02-23,202402230PHI,CLE,Q3,Dean Wade,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.42,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,1,0,0,0,0.3,+5
+2024-02-23,202402230PHI,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.68,0,2,.000,0,1,.000,3,3,1.000,0,1,1,4,1,0,0,0,3,5.7,-3
+2024-02-23,202402230PHI,CLE,Q4,Jarrett Allen,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.62,3,4,.750,0,0,,2,2,1.000,0,4,4,0,0,0,1,2,8,5.8,-2
+2024-02-23,202402230PHI,CLE,Q4,Max Strus,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.55,1,4,.250,0,3,.000,2,2,1.000,0,0,0,0,0,0,0,0,4,1.6,-3
+2024-02-23,202402230PHI,CLE,Q4,Isaac Okoro,https://www.basketball-reference.com/boxscores/202402230PHI.html,6.63,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,-5
+2024-02-23,202402230PHI,CLE,Q4,Evan Mobley,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.47,0,0,,0,0,,1,2,.500,1,2,3,0,0,0,2,1,1,-0.5,-5
+2024-02-23,202402230PHI,CLE,Q4,Caris LeVert,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.27,1,5,.200,0,3,.000,0,0,,0,1,1,2,0,0,1,1,2,-0.8,+1
+2024-02-23,202402230PHI,CLE,Q4,Georges Niang,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.92,2,2,1.000,2,2,1.000,3,4,.750,0,2,2,0,0,0,0,2,9,7.8,+1
+2024-02-23,202402230PHI,CLE,Q4,Sam Merrill,https://www.basketball-reference.com/boxscores/202402230PHI.html,2.85,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2024-02-23,202402230PHI,PHI,Q1,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.82,1,4,.250,1,2,.500,0,0,,0,1,1,1,2,0,0,2,3,2.8,-5
+2024-02-23,202402230PHI,PHI,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.88,2,6,.333,0,1,.000,0,0,,1,2,3,3,0,0,0,0,4,4.0,+2
+2024-02-23,202402230PHI,PHI,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202402230PHI.html,6.9,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,1,2,2.0,-3
+2024-02-23,202402230PHI,PHI,Q1,Paul Reed,https://www.basketball-reference.com/boxscores/202402230PHI.html,6.88,2,3,.667,0,0,,0,0,,2,0,2,0,0,1,0,0,4,4.8,0
+2024-02-23,202402230PHI,PHI,Q1,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.82,2,4,.500,0,1,.000,0,0,,0,1,1,0,1,0,1,1,4,1.9,-5
+2024-02-23,202402230PHI,PHI,Q1,Cameron Payne,https://www.basketball-reference.com/boxscores/202402230PHI.html,3.18,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+5
+2024-02-23,202402230PHI,PHI,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.12,0,0,,0,0,,0,0,,0,2,2,1,0,1,0,2,0,1.2,0
+2024-02-23,202402230PHI,PHI,Q1,Mo Bamba,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.12,1,3,.333,0,1,.000,0,0,,0,1,1,2,0,1,0,1,2,2.3,0
+2024-02-23,202402230PHI,PHI,Q1,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.1,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,3,1.0,+3
+2024-02-23,202402230PHI,PHI,Q1,Ricky Council IV,https://www.basketball-reference.com/boxscores/202402230PHI.html,2.18,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+3
+2024-02-23,202402230PHI,PHI,Q2,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202402230PHI.html,9.47,1,3,.333,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,1.3,+4
+2024-02-23,202402230PHI,PHI,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202402230PHI.html,5.68,1,3,.333,0,0,,0,0,,1,1,2,0,1,0,0,1,2,1.9,0
+2024-02-23,202402230PHI,PHI,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202402230PHI.html,10.43,2,5,.400,1,3,.333,0,0,,0,3,3,0,0,0,1,1,5,1.8,+4
+2024-02-23,202402230PHI,PHI,Q2,Paul Reed,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.92,1,2,.500,0,0,,0,0,,1,3,4,1,0,0,0,2,2,2.5,+1
+2024-02-23,202402230PHI,PHI,Q2,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402230PHI.html,3.75,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+3
+2024-02-23,202402230PHI,PHI,Q2,Cameron Payne,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.25,4,6,.667,2,3,.667,0,0,,0,1,1,1,0,0,1,0,10,7.4,0
+2024-02-23,202402230PHI,PHI,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.68,2,2,1.000,0,0,,0,0,,1,2,3,0,0,0,0,0,4,4.7,+4
+2024-02-23,202402230PHI,PHI,Q2,Mo Bamba,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.08,0,0,,0,0,,0,0,,0,1,1,1,0,1,0,0,0,1.7,+2
+2024-02-23,202402230PHI,PHI,Q2,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202402230PHI.html,1.57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2024-02-23,202402230PHI,PHI,Q2,Ricky Council IV,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.17,0,2,.000,0,1,.000,3,4,.750,0,0,0,0,0,0,0,0,3,1.2,-2
+2024-02-23,202402230PHI,PHI,Q3,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.32,2,6,.333,0,1,.000,0,0,,0,1,1,1,0,0,1,0,4,0.6,+2
+2024-02-23,202402230PHI,PHI,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.57,2,3,.667,1,1,1.000,2,2,1.000,0,2,2,1,1,0,0,1,7,7.6,+4
+2024-02-23,202402230PHI,PHI,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.4,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,1,3,3.0,+2
+2024-02-23,202402230PHI,PHI,Q3,Paul Reed,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.28,0,0,,0,0,,0,0,,0,2,2,0,0,2,0,2,0,1.2,+5
+2024-02-23,202402230PHI,PHI,Q3,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402230PHI.html,8.32,2,3,.667,1,1,1.000,0,0,,1,2,3,1,0,0,2,1,5,3.3,+2
+2024-02-23,202402230PHI,PHI,Q3,Cameron Payne,https://www.basketball-reference.com/boxscores/202402230PHI.html,3.68,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1
+2024-02-23,202402230PHI,PHI,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.12,1,3,.333,0,0,,0,1,.000,0,1,1,1,0,0,0,1,2,0.5,-4
+2024-02-23,202402230PHI,PHI,Q3,Mo Bamba,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.72,0,2,.000,0,0,,0,0,,0,2,2,0,0,1,0,0,0,-0.1,-4
+2024-02-23,202402230PHI,PHI,Q3,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.6,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-1
+2024-02-23,202402230PHI,PHI,Q4,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202402230PHI.html,12.0,5,9,.556,1,1,1.000,4,4,1.000,0,4,4,2,0,0,1,1,15,11.9,+3
+2024-02-23,202402230PHI,PHI,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202402230PHI.html,12.0,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,1,1,2,0.2,+3
+2024-02-23,202402230PHI,PHI,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.23,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,2,3,1.5,+3
+2024-02-23,202402230PHI,PHI,Q4,Paul Reed,https://www.basketball-reference.com/boxscores/202402230PHI.html,11.93,1,1,1.000,0,0,,0,0,,1,3,4,0,0,0,0,1,2,2.9,+1
+2024-02-23,202402230PHI,PHI,Q4,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202402230PHI.html,7.23,0,2,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,2,1,-1.6,+3
+2024-02-23,202402230PHI,PHI,Q4,Cameron Payne,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.77,1,3,.333,1,2,.500,0,0,,0,0,0,1,1,0,0,0,3,3.0,0
+2024-02-23,202402230PHI,PHI,Q4,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202402230PHI.html,4.77,1,2,.500,0,1,.000,2,2,1.000,0,0,0,1,0,0,0,0,4,3.7,0
+2024-02-23,202402230PHI,PHI,Q4,Nicolas Batum,https://www.basketball-reference.com/boxscores/202402230PHI.html,0.05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2

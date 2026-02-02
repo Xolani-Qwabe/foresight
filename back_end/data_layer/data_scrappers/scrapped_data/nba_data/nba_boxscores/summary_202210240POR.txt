@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202210240POR.html
+Scraped: 2025-12-15 02:30:35
+
+line_scores: 2 rows (nba_boxscores/line_scores_202210240POR.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202210240POR.csv)
+team_basic: 25 rows (nba_boxscores/team_basic_202210240POR.csv)
+team_advanced: 25 rows (nba_boxscores/team_advanced_202210240POR.csv)
+quarters: 79 rows (nba_boxscores/quarters_202210240POR.csv)

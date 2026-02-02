@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-19,202110190LAL,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202110190LAL.html,36:11,.421,.286,.381,.429,2.7,26.0,14.0,38.6,3.5,0.0,13.8,31.2,94,97,1.8
+2021-10-19,202110190LAL,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202110190LAL.html,29:56,.444,.400,.000,.800,9.8,17.4,13.5,25.5,1.4,0.0,42.5,15.3,84,102,-4.8
+2021-10-19,202110190LAL,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202110190LAL.html,25:44,.600,.600,.500,.000,3.8,24.3,13.7,5.9,1.7,0.0,16.7,18.2,97,100,-1.0
+2021-10-19,202110190LAL,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202110190LAL.html,25:04,.542,.556,.611,.056,0.0,8.3,4.0,22.4,1.7,0.0,9.8,31.8,95,102,1.9
+2021-10-19,202110190LAL,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202110190LAL.html,15:28,.595,.600,.000,.400,12.7,13.5,13.1,9.8,2.8,5.9,14.5,17.3,114,96,4.3
+2021-10-19,202110190LAL,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202110190LAL.html,29:03,.593,.450,.500,.600,0.0,3.6,1.7,9.6,0.0,0.0,0.0,17.0,129,106,-0.7
+2021-10-19,202110190LAL,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202110190LAL.html,25:55,.952,.929,.143,.286,7.6,36.2,21.4,24.8,1.6,0.0,11.3,13.3,174,100,13.0
+2021-10-19,202110190LAL,GSW,Andre Iguodala,https://www.basketball-reference.com/boxscores/202110190LAL.html,22:58,.761,.714,.714,.286,0.0,4.5,2.2,12.8,0.0,3.9,0.0,13.4,154,104,6.6
+2021-10-19,202110190LAL,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202110190LAL.html,12:23,.773,.833,.667,.667,0.0,25.3,12.2,11.7,0.0,0.0,20.5,15.4,114,104,1.4
+2021-10-19,202110190LAL,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202110190LAL.html,11:35,.644,.500,.667,.667,0.0,9.0,4.4,0.0,3.7,0.0,20.5,16.4,101,97,-1.9
+2021-10-19,202110190LAL,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202110190LAL.html,5:34,.333,.333,.000,.000,0.0,37.5,18.2,0.0,0.0,0.0,0.0,21.0,66,104,-9.4
+2021-10-19,202110190LAL,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202110190LAL.html,0:07,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0,108,-302.4
+2021-10-19,202110190LAL,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202110190LAL.html,38:55,.567,.596,.192,.269,5.4,22.7,14.3,9.3,1.1,4.6,0.0,29.8,116,105,8.2
+2021-10-19,202110190LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202110190LAL.html,36:44,.663,.674,.478,.261,2.8,26.7,15.1,23.3,1.2,2.4,13.5,32.2,117,105,10.4
+2021-10-19,202110190LAL,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202110190LAL.html,35:08,.308,.308,.308,.000,3.0,11.2,7.2,13.8,0.0,0.0,23.5,19.3,63,113,-12.6
+2021-10-19,202110190LAL,LAL,Kent Bazemore,https://www.basketball-reference.com/boxscores/202110190LAL.html,30:37,.444,.444,.889,.000,0.0,6.4,3.3,0.0,0.0,2.9,10.0,13.0,77,112,-5.8
+2021-10-19,202110190LAL,LAL,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202110190LAL.html,12:55,1.000,1.000,.000,.000,0.0,15.2,7.8,9.0,3.3,0.0,0.0,3.1,209,104,2.0
+2021-10-19,202110190LAL,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202110190LAL.html,26:04,.455,.444,.444,.222,0.0,15.0,7.8,9.3,0.0,0.0,9.2,16.6,89,112,-3.5
+2021-10-19,202110190LAL,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202110190LAL.html,19:49,.375,.375,.750,.000,0.0,0.0,0.0,28.4,4.3,0.0,42.9,14.1,74,105,-2.3
+2021-10-19,202110190LAL,LAL,Malik Monk,https://www.basketball-reference.com/boxscores/202110190LAL.html,18:44,.600,.600,.800,.000,0.0,15.7,8.1,6.4,4.5,0.0,16.7,12.8,100,101,3.0
+2021-10-19,202110190LAL,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202110190LAL.html,12:49,.665,.500,.000,2.000,0.0,45.9,23.7,0.0,0.0,0.0,34.7,17.9,87,105,-6.6
+2021-10-19,202110190LAL,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202110190LAL.html,8:14,1.000,1.000,1.000,.000,12.7,0.0,6.1,17.5,0.0,0.0,25.0,19.4,147,115,10.4

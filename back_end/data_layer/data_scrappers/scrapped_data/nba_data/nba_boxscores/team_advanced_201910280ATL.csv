@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-10-28,201910280ATL,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/201910280ATL.html,38:51,.375,.344,.563,.188,0.0,13.7,6.6,20.0,1.2,0.0,5.5,18.9,89,102,-3.7
+2019-10-28,201910280ATL,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/201910280ATL.html,37:49,.547,.545,.000,.182,2.6,14.1,8.1,25.9,1.2,2.2,25.2,16.8,96,100,-3.6
+2019-10-28,201910280ATL,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/201910280ATL.html,32:43,.769,.684,.316,.526,9.0,32.6,20.3,37.8,4.1,2.6,23.0,37.2,123,90,16.3
+2019-10-28,201910280ATL,PHI,Al Horford,https://www.basketball-reference.com/boxscores/201910280ATL.html,32:01,.512,.375,.500,.500,12.2,16.7,14.4,8.4,1.4,10.5,17.0,7.3,123,93,2.5
+2019-10-28,201910280ATL,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/201910280ATL.html,30:49,.500,.500,.357,.000,3.2,13.8,8.3,16.9,0.0,8.2,17.6,22.1,91,98,-1.7
+2019-10-28,201910280ATL,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/201910280ATL.html,20:11,.410,.375,.875,.500,4.9,10.6,7.6,0.0,8.9,8.3,23.5,25.3,68,80,1.5
+2019-10-28,201910280ATL,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/201910280ATL.html,12:32,.666,.600,1.000,.800,0.0,0.0,0.0,0.0,0.0,0.0,22.8,28.0,100,106,-6.4
+2019-10-28,201910280ATL,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/201910280ATL.html,12:02,.333,.333,.667,.000,0.0,8.9,4.2,0.0,3.7,0.0,0.0,10.0,72,97,-5.8
+2019-10-28,201910280ATL,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/201910280ATL.html,9:14,.000,.000,1.000,.000,0.0,11.6,5.5,0.0,0.0,0.0,0.0,8.7,0,104,-17.0
+2019-10-28,201910280ATL,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/201910280ATL.html,8:01,.500,.500,.667,.000,12.2,26.6,19.1,19.3,0.0,0.0,0.0,15.0,127,102,5.3
+2019-10-28,201910280ATL,PHI,Kyle O'Quinn,https://www.basketball-reference.com/boxscores/201910280ATL.html,5:47,.333,.333,.333,.000,16.9,36.9,26.5,0.0,7.7,0.0,0.0,20.7,87,83,0.4
+2019-10-28,201910280ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/201910280ATL.html,34:29,.512,.400,.250,.500,3.1,8.5,5.9,47.7,0.0,0.0,22.3,36.7,94,106,-2.6
+2019-10-28,201910280ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/201910280ATL.html,30:13,.632,.625,.500,.875,0.0,29.2,15.2,5.4,1.5,0.0,26.5,20.1,89,96,-0.4
+2019-10-28,201910280ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/201910280ATL.html,28:54,.680,.650,.200,.400,7.4,20.3,14.1,6.4,1.6,3.5,14.5,19.2,118,97,1.9
+2019-10-28,201910280ATL,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/201910280ATL.html,26:44,.286,.286,.143,.000,0.0,14.7,7.6,0.0,3.4,0.0,22.2,13.6,44,97,-7.6
+2019-10-28,201910280ATL,ATL,Alex Len,https://www.basketball-reference.com/boxscores/201910280ATL.html,18:10,.317,.286,.571,.286,11.7,5.4,8.4,25.8,2.5,0.0,0.0,17.5,94,102,-1.2
+2019-10-28,201910280ATL,ATL,Jabari Parker,https://www.basketball-reference.com/boxscores/201910280ATL.html,22:03,.429,.429,.429,.000,4.8,13.3,9.3,0.0,0.0,0.0,22.2,16.5,69,105,-8.0
+2019-10-28,201910280ATL,ATL,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/201910280ATL.html,20:19,.509,.500,.000,.333,0.0,19.3,10.1,8.2,2.2,0.0,12.7,15.6,91,98,-2.1
+2019-10-28,201910280ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/201910280ATL.html,20:12,.551,.500,.600,.200,5.3,4.8,5.1,22.8,4.4,0.0,15.5,12.9,112,97,4.5
+2019-10-28,201910280ATL,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/201910280ATL.html,15:34,.698,.786,.286,.286,6.9,18.9,13.1,30.0,0.0,13.1,11.3,23.0,119,96,12.9
+2019-10-28,201910280ATL,ATL,Vince Carter,https://www.basketball-reference.com/boxscores/201910280ATL.html,10:43,.400,.400,.600,.000,0.0,27.4,14.3,16.6,4.2,0.0,0.0,18.8,88,91,3.3
+2019-10-28,201910280ATL,ATL,Evan Turner,https://www.basketball-reference.com/boxscores/201910280ATL.html,6:43,.532,.000,.000,2.000,0.0,0.0,0.0,39.7,13.3,0.0,34.7,17.3,97,79,15.9
+2019-10-28,201910280ATL,ATL,Damian Jones,https://www.basketball-reference.com/boxscores/201910280ATL.html,5:52,.798,1.000,.000,2.000,0.0,0.0,0.0,0.0,7.6,0.0,0.0,12.9,156,91,-0.3

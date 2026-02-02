@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-05,202401050PHO,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202401050PHO.html,36:07,.634,.579,.000,.368,5.8,25.3,15.1,6.9,0.0,2.6,4.3,28.5,126,120,5.3
+2024-01-05,202401050PHO,MIA,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202401050PHO.html,35:28,.714,.714,.286,.000,2.9,6.4,4.6,5.0,2.9,0.0,30.0,12.6,92,119,-4.8
+2024-01-05,202401050PHO,MIA,Tyler Herro,https://www.basketball-reference.com/boxscores/202401050PHO.html,35:09,.265,.265,.412,.000,0.0,13.0,6.2,28.7,0.0,0.0,5.6,22.8,71,125,-10.6
+2024-01-05,202401050PHO,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202401050PHO.html,24:16,.500,.500,1.000,.000,4.3,14.1,9.0,6.2,0.0,0.0,0.0,5.5,123,125,-3.9
+2024-01-05,202401050PHO,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202401050PHO.html,22:59,.429,.429,.857,.000,4.5,9.9,7.1,28.0,0.0,0.0,36.4,21.3,71,125,-9.8
+2024-01-05,202401050PHO,MIA,Josh Richardson,https://www.basketball-reference.com/boxscores/202401050PHO.html,28:59,.446,.278,.667,.556,3.6,27.6,15.1,37.8,3.5,0.0,0.0,17.2,124,113,6.6
+2024-01-05,202401050PHO,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202401050PHO.html,26:31,.254,.214,.857,.286,0.0,4.3,2.1,16.9,1.9,3.5,27.6,18.3,52,119,-12.0
+2024-01-05,202401050PHO,MIA,Kevin Love,https://www.basketball-reference.com/boxscores/202401050PHO.html,20:04,.859,.833,.667,.667,15.6,22.8,19.0,24.3,0.0,0.0,14.7,30.3,144,122,16.3
+2024-01-05,202401050PHO,MIA,Jamal Cain,https://www.basketball-reference.com/boxscores/202401050PHO.html,4:42,.595,.500,.200,.400,44.4,0.0,23.2,0.0,0.0,0.0,0.0,55.8,134,128,20.0
+2024-01-05,202401050PHO,MIA,Thomas Bryant,https://www.basketball-reference.com/boxscores/202401050PHO.html,1:55,,,,,0.0,100.0,56.9,0.0,0.0,0.0,,0.0,0,102,0.4
+2024-01-05,202401050PHO,MIA,R.J. Hampton,https://www.basketball-reference.com/boxscores/202401050PHO.html,1:55,,,,,0.0,0.0,0.0,73.7,0.0,0.0,,0.0,229,125,0.5
+2024-01-05,202401050PHO,MIA,Cole Swider,https://www.basketball-reference.com/boxscores/202401050PHO.html,1:55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,23.3,0,128,-34.2
+2024-01-05,202401050PHO,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202401050PHO.html,37:03,.816,.816,.737,.000,3.1,8.4,5.9,17.4,0.0,5.6,9.5,26.3,140,110,12.5
+2024-01-05,202401050PHO,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202401050PHO.html,36:58,.678,.667,.333,.056,3.1,19.8,11.8,39.3,0.0,0.0,9.8,25.6,136,110,5.7
+2024-01-05,202401050PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202401050PHO.html,34:41,.526,.526,.368,.000,0.0,15.0,7.9,43.9,3.0,0.0,13.6,29.4,109,105,1.7
+2024-01-05,202401050PHO,PHO,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202401050PHO.html,26:18,.500,.500,.167,.000,4.3,31.7,18.7,9.5,1.9,0.0,0.0,10.6,122,101,-2.5
+2024-01-05,202401050PHO,PHO,Chimezie Metu,https://www.basketball-reference.com/boxscores/202401050PHO.html,17:17,1.017,1.000,.000,.333,0.0,12.1,6.3,0.0,5.9,0.0,36.8,14.6,105,99,1.2
+2024-01-05,202401050PHO,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202401050PHO.html,24:25,.634,.000,.500,4.000,4.7,4.3,4.5,17.9,6.3,8.5,0.0,10.5,166,96,9.2
+2024-01-05,202401050PHO,PHO,Drew Eubanks,https://www.basketball-reference.com/boxscores/202401050PHO.html,21:42,.564,.563,.125,.500,10.5,19.2,15.1,0.0,2.4,0.0,0.0,20.9,122,105,-2.4
+2024-01-05,202401050PHO,PHO,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202401050PHO.html,18:35,.000,.000,.500,.000,6.1,16.8,11.7,0.0,8.3,0.0,0.0,15.0,17,92,-12.8
+2024-01-05,202401050PHO,PHO,Bol Bol,https://www.basketball-reference.com/boxscores/202401050PHO.html,10:17,.820,1.000,.000,.500,11.1,20.3,15.9,13.5,0.0,10.1,0.0,11.0,173,104,6.1
+2024-01-05,202401050PHO,PHO,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202401050PHO.html,8:54,.333,.333,.333,.000,12.8,0.0,6.1,0.0,0.0,0.0,0.0,15.6,91,117,-12.1
+2024-01-05,202401050PHO,PHO,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202401050PHO.html,1:55,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.2,0,117,-33.3
+2024-01-05,202401050PHO,PHO,Saben Lee,https://www.basketball-reference.com/boxscores/202401050PHO.html,1:55,.000,,,,0.0,0.0,0.0,0.0,26.8,0.0,0.0,21.3,0,56,3.4

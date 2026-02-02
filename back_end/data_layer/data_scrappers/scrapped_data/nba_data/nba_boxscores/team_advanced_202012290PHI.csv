@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-12-29,202012290PHI,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/202012290PHI.html,37:13,.633,.500,.533,.600,4.7,16.8,10.2,47.8,1.2,0.0,17.4,25.7,122,101,8.1
+2020-12-29,202012290PHI,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202012290PHI.html,36:36,.333,.333,.667,.000,2.4,14.3,7.8,28.0,1.3,4.9,20.0,17.1,75,98,-2.6
+2020-12-29,202012290PHI,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202012290PHI.html,36:07,.842,.818,.636,.182,4.8,11.6,7.9,11.7,6.4,2.5,7.8,14.9,152,89,16.2
+2020-12-29,202012290PHI,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202012290PHI.html,34:47,.435,.435,.391,.000,2.5,15.0,8.2,0.0,2.7,2.6,8.0,30.0,78,96,-2.2
+2020-12-29,202012290PHI,TOR,Aron Baynes,https://www.basketball-reference.com/boxscores/202012290PHI.html,22:16,.125,.125,.375,.000,7.8,18.7,12.8,7.2,0.0,0.0,20.0,18.7,38,103,-17.2
+2020-12-29,202012290PHI,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/202012290PHI.html,21:43,.500,.500,.429,.000,8.0,28.8,17.5,0.0,4.3,4.2,12.5,15.4,92,88,3.1
+2020-12-29,202012290PHI,TOR,Alex Len,https://www.basketball-reference.com/boxscores/202012290PHI.html,21:09,.532,1.000,.000,2.000,0.0,24.7,11.2,15.3,0.0,4.3,68.0,11.6,40,98,-8.4
+2020-12-29,202012290PHI,TOR,Norman Powell,https://www.basketball-reference.com/boxscores/202012290PHI.html,17:39,.429,.429,.571,.000,0.0,5.9,2.7,10.2,2.6,5.1,22.2,21.3,68,97,-2.5
+2020-12-29,202012290PHI,TOR,Matt Thomas,https://www.basketball-reference.com/boxscores/202012290PHI.html,7:55,.581,.500,.667,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.1,117,108,1.4
+2020-12-29,202012290PHI,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202012290PHI.html,4:35,.000,.000,.333,.000,0.0,22.8,10.4,0.0,0.0,0.0,0.0,27.3,0,101,-33.1
+2020-12-29,202012290PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202012290PHI.html,37:53,.603,.441,.353,.941,11.0,27.6,20.1,21.9,2.4,5.6,17.2,31.6,112,84,10.5
+2020-12-29,202012290PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202012290PHI.html,37:52,.623,.600,.250,.100,5.5,20.7,13.8,21.1,2.4,5.6,8.7,24.9,116,86,11.6
+2020-12-29,202012290PHI,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202012290PHI.html,36:46,.379,.273,.000,.727,0.0,30.9,16.8,32.5,1.3,2.9,17.1,19.6,81,87,-1.1
+2020-12-29,202012290PHI,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202012290PHI.html,32:38,.666,.591,.545,.364,3.2,13.4,8.7,23.9,1.4,3.3,19.0,19.9,114,93,5.2
+2020-12-29,202012290PHI,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202012290PHI.html,28:34,.500,.500,.571,.000,3.7,3.1,3.3,0.0,3.2,7.5,22.2,13.0,77,90,0.4
+2020-12-29,202012290PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202012290PHI.html,25:40,.322,.250,.600,.200,0.0,3.4,1.9,13.2,3.6,0.0,0.0,17.5,78,93,-4.3
+2020-12-29,202012290PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202012290PHI.html,12:21,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.7,0,104,-10.8
+2020-12-29,202012290PHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202012290PHI.html,10:08,.436,.333,.667,.333,10.3,8.6,9.4,0.0,0.0,10.5,0.0,14.0,105,94,-1.7
+2020-12-29,202012290PHI,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202012290PHI.html,10:07,,,,,0.0,25.9,14.1,0.0,0.0,10.5,100.0,12.2,0,87,-17.3
+2020-12-29,202012290PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202012290PHI.html,8:01,.000,.000,.667,.000,0.0,0.0,0.0,18.7,0.0,0.0,0.0,15.4,18,104,-15.4

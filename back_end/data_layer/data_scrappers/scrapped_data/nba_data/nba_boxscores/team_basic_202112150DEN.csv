@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-12-15,202112150DEN,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202112150DEN.html,35.88,12,18,.667,3,7,.429,5,5,1.000,0,4,4,4,3,1,2,4,32,28.3,+18
+2021-12-15,202112150DEN,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202112150DEN.html,33.57,14,21,.667,10,14,.714,0,0,,0,5,5,1,1,1,2,2,38,30.0,+18
+2021-12-15,202112150DEN,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202112150DEN.html,33.0,6,12,.500,3,8,.375,1,2,.500,0,8,8,7,0,0,2,0,16,14.9,+20
+2021-12-15,202112150DEN,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202112150DEN.html,32.72,3,3,1.000,0,0,,0,0,,3,5,8,2,1,0,1,4,6,8.5,+26
+2021-12-15,202112150DEN,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202112150DEN.html,29.9,4,9,.444,3,7,.429,0,2,.000,0,2,2,8,0,1,1,4,11,9.8,+24
+2021-12-15,202112150DEN,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202112150DEN.html,23.6,2,6,.333,0,1,.000,1,1,1.000,0,4,4,1,1,1,2,1,5,2.8,-1
+2021-12-15,202112150DEN,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202112150DEN.html,23.45,3,9,.333,3,6,.500,0,0,,1,5,6,1,3,0,0,4,9,8.2,-5
+2021-12-15,202112150DEN,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202112150DEN.html,12.12,1,6,.167,1,3,.333,3,4,.750,1,0,1,0,0,1,0,1,6,2.8,-1
+2021-12-15,202112150DEN,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202112150DEN.html,5.67,0,0,,0,0,,1,2,.500,1,0,1,0,1,0,0,1,1,1.9,-2
+2021-12-15,202112150DEN,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202112150DEN.html,5.57,0,4,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,2,0,-4.6,-8
+2021-12-15,202112150DEN,MIN,Leandro Bolmaro,https://www.basketball-reference.com/boxscores/202112150DEN.html,2.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2021-12-15,202112150DEN,MIN,Jake Layman,https://www.basketball-reference.com/boxscores/202112150DEN.html,2.27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2021-12-15,202112150DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202112150DEN.html,34.95,11,16,.688,2,4,.500,3,5,.600,2,8,10,11,1,0,4,4,27,26.3,-17
+2021-12-15,202112150DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202112150DEN.html,32.08,6,10,.600,3,5,.600,0,0,,0,0,0,5,1,0,4,1,15,10.5,-20
+2021-12-15,202112150DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202112150DEN.html,30.57,3,8,.375,0,1,.000,4,5,.800,1,1,2,1,0,0,3,3,10,2.7,-22
+2021-12-15,202112150DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202112150DEN.html,27.05,2,6,.333,1,3,.333,3,4,.750,2,2,4,1,0,0,2,0,8,4.9,-28
+2021-12-15,202112150DEN,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202112150DEN.html,20.1,3,8,.375,0,4,.000,2,2,1.000,1,3,4,3,0,0,1,2,8,5.5,-18
+2021-12-15,202112150DEN,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202112150DEN.html,30.22,2,8,.250,2,7,.286,0,0,,0,3,3,8,1,2,1,2,6,8.3,-4
+2021-12-15,202112150DEN,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202112150DEN.html,22.35,5,8,.625,2,4,.500,1,3,.333,3,6,9,0,0,1,0,1,13,12.8,+5
+2021-12-15,202112150DEN,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202112150DEN.html,18.73,0,3,.000,0,1,.000,2,2,1.000,0,7,7,1,0,0,0,1,2,2.3,+8
+2021-12-15,202112150DEN,DEN,Markus Howard,https://www.basketball-reference.com/boxscores/202112150DEN.html,16.58,4,13,.308,4,9,.444,2,2,1.000,0,2,2,1,2,0,2,1,14,7.4,+3
+2021-12-15,202112150DEN,DEN,Petr Cornelie,https://www.basketball-reference.com/boxscores/202112150DEN.html,3.68,2,3,.667,0,1,.000,0,0,,0,1,1,0,0,0,0,0,4,3.0,+4
+2021-12-15,202112150DEN,DEN,Bol Bol,https://www.basketball-reference.com/boxscores/202112150DEN.html,3.68,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,0.7,+4

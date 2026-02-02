@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-06,202001060NOP,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202001060NOP.html,34:34,.492,.444,.333,.167,0.0,11.3,6.1,23.0,1.4,0.0,0.0,24.7,117,127,-1.7
+2020-01-06,202001060NOP,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202001060NOP.html,34:21,.750,.750,1.000,.000,0.0,20.0,10.7,6.3,0.0,0.0,0.0,2.6,170,128,-2.3
+2020-01-06,202001060NOP,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202001060NOP.html,34:08,.414,.400,.000,.200,13.4,43.0,29.4,3.5,0.0,0.0,15.5,16.7,95,121,-8.4
+2020-01-06,202001060NOP,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202001060NOP.html,33:17,.689,.595,.429,.476,0.0,0.0,0.0,0.0,0.0,0.0,10.6,37.7,124,134,-0.6
+2020-01-06,202001060NOP,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202001060NOP.html,27:58,.854,.833,.417,.167,0.0,7.0,3.8,31.9,3.5,0.0,0.0,20.4,181,124,19.1
+2020-01-06,202001060NOP,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202001060NOP.html,24:48,.673,.727,.636,.182,4.6,0.0,2.1,5.6,0.0,3.1,7.8,23.0,125,132,2.9
+2020-01-06,202001060NOP,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202001060NOP.html,16:07,.750,.750,.750,.000,0.0,24.3,13.1,0.0,0.0,0.0,0.0,11.0,146,127,2.4
+2020-01-06,202001060NOP,UTA,Emmanuel Mudiay,https://www.basketball-reference.com/boxscores/202001060NOP.html,15:52,.500,.500,.125,.000,0.0,12.3,6.6,17.8,0.0,0.0,11.1,25.1,99,130,-8.2
+2020-01-06,202001060NOP,UTA,Tony Bradley,https://www.basketball-reference.com/boxscores/202001060NOP.html,13:52,.735,.667,.000,1.333,8.2,14.1,11.4,8.9,0.0,11.0,17.4,18.4,137,121,1.2
+2020-01-06,202001060NOP,UTA,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202001060NOP.html,5:03,1.042,1.000,.000,1.000,22.6,0.0,10.4,0.0,0.0,0.0,0.0,12.6,221,134,9.8
+2020-01-06,202001060NOP,NOP,Brandon Ingram,https://www.basketball-reference.com/boxscores/202001060NOP.html,38:54,.593,.519,.231,.308,7.6,14.7,10.8,20.4,1.2,2.2,9.2,35.4,123,128,4.8
+2020-01-06,202001060NOP,NOP,Lonzo Ball,https://www.basketball-reference.com/boxscores/202001060NOP.html,36:55,.685,.714,.429,.214,8.0,15.5,11.4,26.3,0.0,0.0,6.1,18.7,147,133,5.9
+2020-01-06,202001060NOP,NOP,JJ Redick,https://www.basketball-reference.com/boxscores/202001060NOP.html,31:21,.763,.667,.333,.583,0.0,10.9,5.0,4.5,0.0,0.0,6.2,21.7,149,134,2.2
+2020-01-06,202001060NOP,NOP,Derrick Favors,https://www.basketball-reference.com/boxscores/202001060NOP.html,29:00,.533,.500,.000,.125,16.9,23.6,20.0,8.6,0.0,8.7,0.0,12.3,143,124,1.0
+2020-01-06,202001060NOP,NOP,Josh Hart,https://www.basketball-reference.com/boxscores/202001060NOP.html,26:52,.571,.571,.857,.000,3.6,8.5,5.9,4.5,0.0,0.0,0.0,11.0,130,134,-6.3
+2020-01-06,202001060NOP,NOP,E'Twaun Moore,https://www.basketball-reference.com/boxscores/202001060NOP.html,28:07,.412,.357,.286,.286,0.0,28.5,13.1,4.7,3.5,0.0,0.0,23.8,94,123,-7.9
+2020-01-06,202001060NOP,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202001060NOP.html,19:00,.735,.667,.000,1.333,5.2,12.0,8.3,19.0,0.0,4.4,0.0,10.6,172,129,5.7
+2020-01-06,202001060NOP,NOP,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202001060NOP.html,15:19,.425,.500,.400,.400,0.0,37.3,17.2,16.2,0.0,0.0,14.5,19.0,85,129,-9.1
+2020-01-06,202001060NOP,NOP,Kenrich Williams,https://www.basketball-reference.com/boxscores/202001060NOP.html,9:06,.000,.000,1.000,.000,0.0,0.0,0.0,11.7,5.3,0.0,0.0,4.7,59,123,-3.3
+2020-01-06,202001060NOP,NOP,Frank Jackson,https://www.basketball-reference.com/boxscores/202001060NOP.html,5:26,.563,.500,.500,.250,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.7,118,135,-5.0

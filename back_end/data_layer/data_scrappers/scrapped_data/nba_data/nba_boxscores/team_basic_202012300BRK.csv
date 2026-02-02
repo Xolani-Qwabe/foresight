@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2020-12-30,202012300BRK,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202012300BRK.html,33.43,4,13,.308,3,9,.333,0,0,2,6,8,3,1,0,0,6,11,7.4,+3,
+2020-12-30,202012300BRK,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202012300BRK.html,31.97,5,11,.455,2,7,.286,8,10,1,2,3,1,0,1,1,3,20,14.0,+3,.800
+2020-12-30,202012300BRK,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202012300BRK.html,31.93,8,18,.444,0,4,.000,14,16,3,3,6,11,0,0,5,0,30,25.5,+5,.875
+2020-12-30,202012300BRK,ATL,John Collins,https://www.basketball-reference.com/boxscores/202012300BRK.html,30.57,12,20,.600,2,5,.400,4,5,4,6,10,1,1,0,1,4,30,24.1,+5,.800
+2020-12-30,202012300BRK,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202012300BRK.html,19.93,3,7,.429,0,0,,1,2,3,9,12,0,0,1,1,0,7,7.4,+1,.500
+2020-12-30,202012300BRK,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202012300BRK.html,28.72,7,14,.500,6,11,.545,2,2,0,4,4,1,1,0,0,2,22,17.1,-6,1.000
+2020-12-30,202012300BRK,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202012300BRK.html,21.08,3,6,.500,1,2,.500,0,0,1,1,2,4,1,0,0,0,7,8.8,-10,
+2020-12-30,202012300BRK,ATL,Solomon Hill,https://www.basketball-reference.com/boxscores/202012300BRK.html,16.72,3,6,.500,3,5,.600,0,0,1,1,2,0,0,0,1,3,9,4.8,-9,
+2020-12-30,202012300BRK,ATL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202012300BRK.html,16.07,0,2,.000,0,2,.000,0,0,1,1,2,6,1,0,2,1,0,2.4,-9,
+2020-12-30,202012300BRK,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202012300BRK.html,6.43,0,0,,0,0,,0,0,1,3,4,0,0,0,1,0,0,0.6,-4,
+2020-12-30,202012300BRK,ATL,Danilo Gallinari,https://www.basketball-reference.com/boxscores/202012300BRK.html,3.15,2,2,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.7,+1,
+2020-12-30,202012300BRK,BRK,Kevin Durant,https://www.basketball-reference.com/boxscores/202012300BRK.html,34.98,11,22,.500,2,6,.333,9,9,1,10,11,9,1,1,4,1,33,29.3,+1,1.000
+2020-12-30,202012300BRK,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202012300BRK.html,34.0,10,27,.370,3,11,.273,2,2,0,2,2,6,2,0,1,4,25,14.3,-6,1.000
+2020-12-30,202012300BRK,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202012300BRK.html,30.57,8,11,.727,6,8,.750,1,2,0,2,2,2,0,1,0,5,23,18.8,-7,.500
+2020-12-30,202012300BRK,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202012300BRK.html,26.42,1,5,.200,1,4,.250,0,0,0,1,1,2,0,0,0,2,3,0.8,-5,
+2020-12-30,202012300BRK,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202012300BRK.html,15.22,2,2,1.000,0,0,,1,2,0,1,1,0,1,1,0,3,5,4.8,-8,.500
+2020-12-30,202012300BRK,BRK,Jarrett Allen,https://www.basketball-reference.com/boxscores/202012300BRK.html,24.43,6,7,.857,0,0,,3,5,5,8,13,1,0,0,2,3,15,15.1,+8,.600
+2020-12-30,202012300BRK,BRK,Caris LeVert,https://www.basketball-reference.com/boxscores/202012300BRK.html,24.22,4,13,.308,2,6,.333,0,0,2,2,4,8,0,0,1,1,10,8.7,+11,
+2020-12-30,202012300BRK,BRK,Taurean Prince,https://www.basketball-reference.com/boxscores/202012300BRK.html,18.55,5,5,1.000,2,2,1.000,0,0,0,3,3,1,1,0,0,1,12,12.7,+7,
+2020-12-30,202012300BRK,BRK,Landry Shamet,https://www.basketball-reference.com/boxscores/202012300BRK.html,17.43,5,5,1.000,2,2,1.000,2,2,1,0,1,0,1,0,0,2,14,13.4,+11,1.000
+2020-12-30,202012300BRK,BRK,Jeff Green,https://www.basketball-reference.com/boxscores/202012300BRK.html,14.18,2,3,.667,1,2,.500,0,1,0,2,2,1,0,0,0,2,5,3.8,+8,.000

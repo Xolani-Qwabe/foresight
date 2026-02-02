@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-04-03,202404030BOS,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202404030BOS.html,28:41,.437,.409,.091,.091,0.0,4.5,2.2,29.6,1.7,3.2,25.9,24.3,74,140,-8.0
+2024-04-03,202404030BOS,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202404030BOS.html,28:21,.537,.300,.500,.900,4.2,18.3,11.0,0.0,0.0,3.3,6.7,23.8,108,141,-6.7
+2024-04-03,202404030BOS,OKC,Cason Wallace,https://www.basketball-reference.com/boxscores/202404030BOS.html,28:15,.558,.444,.333,.444,0.0,4.6,2.2,30.1,7.0,3.3,27.1,23.6,91,128,2.9
+2024-04-03,202404030BOS,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202404030BOS.html,28:14,.715,.682,.182,.182,8.5,18.4,13.2,14.7,0.0,0.0,14.4,22.2,123,143,1.4
+2024-04-03,202404030BOS,OKC,Chet Holmgren,https://www.basketball-reference.com/boxscores/202404030BOS.html,27:28,.370,.357,.214,.143,4.4,28.3,15.9,13.3,0.0,0.0,6.3,26.1,77,141,-10.3
+2024-04-03,202404030BOS,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202404030BOS.html,25:27,.389,.389,.333,.000,0.0,5.1,2.4,0.0,1.9,0.0,10.0,17.7,67,142,-12.0
+2024-04-03,202404030BOS,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202404030BOS.html,20:25,.962,1.000,.600,.800,0.0,19.1,9.2,0.0,2.4,4.5,0.0,14.9,184,134,12.2
+2024-04-03,202404030BOS,OKC,Gordon Hayward,https://www.basketball-reference.com/boxscores/202404030BOS.html,18:19,.000,.000,.250,.000,0.0,14.2,6.8,15.0,2.7,0.0,0.0,9.9,25,138,-10.4
+2024-04-03,202404030BOS,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202404030BOS.html,14:52,.621,.333,.667,2.000,8.1,17.5,12.6,40.6,0.0,0.0,0.0,17.1,150,143,9.4
+2024-04-03,202404030BOS,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202404030BOS.html,10:13,.667,.667,.333,.000,0.0,12.7,6.1,18.3,0.0,0.0,0.0,13.3,135,144,-2.6
+2024-04-03,202404030BOS,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202404030BOS.html,6:06,1.000,1.000,.000,.000,0.0,21.3,10.2,0.0,0.0,15.1,0.0,7.4,200,133,6.2
+2024-04-03,202404030BOS,OKC,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202404030BOS.html,3:35,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.6,200,147,3.2
+2024-04-03,202404030BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202404030BOS.html,32:49,.539,.525,.450,.150,4.0,21.9,13.3,15.9,1.5,5.1,19.0,34.9,98,100,-4.4
+2024-04-03,202404030BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202404030BOS.html,31:34,.667,.667,.667,.000,4.1,22.8,13.8,14.3,0.0,2.7,25.0,16.5,113,106,-0.2
+2024-04-03,202404030BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202404030BOS.html,31:11,.680,.600,.800,.400,0.0,3.8,2.0,19.7,1.6,2.7,0.0,8.2,173,105,3.8
+2024-04-03,202404030BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202404030BOS.html,30:53,.907,.893,.214,.143,12.6,35.0,24.2,18.9,1.6,13.6,0.0,21.0,191,90,25.0
+2024-04-03,202404030BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202404030BOS.html,28:54,.648,.533,.333,.533,13.5,16.6,15.1,13.0,1.7,0.0,0.0,27.9,154,105,7.3
+2024-04-03,202404030BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202404030BOS.html,27:47,.506,.450,.400,.200,4.7,13.0,9.0,32.1,3.5,0.0,0.0,17.0,145,102,7.4
+2024-04-03,202404030BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202404030BOS.html,24:41,.800,.800,.400,.000,10.5,9.7,10.1,10.7,0.0,3.4,16.7,21.1,136,107,5.5
+2024-04-03,202404030BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202404030BOS.html,21:31,.625,.625,.625,.000,0.0,11.2,5.8,0.0,0.0,0.0,0.0,16.2,127,110,-4.7
+2024-04-03,202404030BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202404030BOS.html,3:35,1.000,1.000,.000,.000,0.0,33.5,17.4,0.0,13.7,0.0,0.0,12.1,200,77,20.5
+2024-04-03,202404030BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202404030BOS.html,3:35,,,,,0.0,0.0,0.0,53.6,0.0,0.0,,0.0,234,111,13.9
+2024-04-03,202404030BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202404030BOS.html,3:29,1.136,,,,0.0,34.4,17.9,0.0,0.0,0.0,0.0,11.0,250,106,8.6

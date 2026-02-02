@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-10-30,202110300PHO,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202110300PHO.html,31:31,.500,.500,.455,.000,0.0,10.2,4.6,26.8,3.0,2.6,35.3,22.9,73,98,-2.8
+2021-10-30,202110300PHO,CLE,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202110300PHO.html,25:09,.870,.800,.800,.600,0.0,4.2,1.9,12.6,1.9,6.6,0.0,10.7,180,98,13.1
+2021-10-30,202110300PHO,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202110300PHO.html,22:29,.667,.667,.000,.000,4.0,33.2,17.3,0.0,2.1,0.0,0.0,5.7,140,97,0.3
+2021-10-30,202110300PHO,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202110300PHO.html,21:20,.167,.167,.167,.000,4.2,15.0,9.1,26.7,0.0,0.0,0.0,11.9,76,105,-1.8
+2021-10-30,202110300PHO,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202110300PHO.html,18:41,.601,.571,.286,.429,0.0,5.7,2.6,0.0,0.0,0.0,41.9,32.5,62,107,-15.2
+2021-10-30,202110300PHO,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202110300PHO.html,30:07,.667,.667,.800,.000,3.0,7.1,4.8,12.8,3.2,0.0,16.7,25.4,107,100,9.4
+2021-10-30,202110300PHO,CLE,Ricky Rubio,https://www.basketball-reference.com/boxscores/202110300PHO.html,25:00,.267,.267,.400,.000,0.0,17.1,7.8,19.0,1.9,0.0,11.8,28.9,58,101,-8.8
+2021-10-30,202110300PHO,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202110300PHO.html,19:33,.442,.417,.500,.083,4.5,60.0,29.8,18.8,0.0,0.0,7.4,29.2,92,96,3.5
+2021-10-30,202110300PHO,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202110300PHO.html,18:54,.500,.500,.800,.000,18.8,11.3,15.4,8.2,0.0,0.0,0.0,11.2,131,105,1.6
+2021-10-30,202110300PHO,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202110300PHO.html,15:48,.500,.500,.375,.000,11.3,13.5,12.3,12.7,3.0,0.0,0.0,21.5,112,99,6.4
+2021-10-30,202110300PHO,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202110300PHO.html,6:06,.500,.500,.000,.000,0.0,0.0,0.0,28.0,0.0,0.0,33.3,20.9,77,109,-3.9
+2021-10-30,202110300PHO,CLE,Denzel Valentine,https://www.basketball-reference.com/boxscores/202110300PHO.html,5:22,.000,.000,.500,.000,0.0,19.9,9.0,0.0,0.0,0.0,0.0,15.8,0,101,-26.5
+2021-10-30,202110300PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202110300PHO.html,36:44,.633,.700,.200,.600,0.0,4.8,2.6,41.9,5.2,0.0,13.7,17.6,121,89,9.4
+2021-10-30,202110300PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202110300PHO.html,35:19,.553,.450,.200,.500,3.0,7.6,5.5,45.7,0.0,0.0,14.1,35.5,108,101,5.4
+2021-10-30,202110300PHO,PHO,Jae Crowder,https://www.basketball-reference.com/boxscores/202110300PHO.html,33:06,.429,.429,.714,.000,3.2,16.1,10.3,8.0,2.9,3.1,12.5,10.7,87,89,2.0
+2021-10-30,202110300PHO,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202110300PHO.html,30:28,.556,.556,.222,.000,0.0,14.6,8.0,15.2,0.0,0.0,18.2,15.9,93,98,-3.8
+2021-10-30,202110300PHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202110300PHO.html,24:14,.751,.800,.100,.300,4.4,40.3,24.0,8.6,5.9,0.0,15.0,24.2,116,76,13.1
+2021-10-30,202110300PHO,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202110300PHO.html,24:35,.417,.417,.500,.000,4.3,18.1,11.8,0.0,3.9,4.2,0.0,21.5,86,85,2.1
+2021-10-30,202110300PHO,PHO,JaVale McGee,https://www.basketball-reference.com/boxscores/202110300PHO.html,18:11,1.031,1.000,.000,.667,5.9,29.3,18.7,8.5,0.0,0.0,0.0,9.4,215,93,7.4
+2021-10-30,202110300PHO,PHO,Landry Shamet,https://www.basketball-reference.com/boxscores/202110300PHO.html,17:32,.190,.143,.714,.286,6.1,0.0,2.8,7.5,0.0,0.0,0.0,19.8,56,103,-13.5
+2021-10-30,202110300PHO,PHO,Elfrid Payton,https://www.basketball-reference.com/boxscores/202110300PHO.html,11:16,.000,.000,.000,1.000,0.0,23.7,12.9,0.0,0.0,0.0,25.8,15.2,0,95,-21.3
+2021-10-30,202110300PHO,PHO,Jalen Smith,https://www.basketball-reference.com/boxscores/202110300PHO.html,8:35,.410,.250,.250,.500,24.9,31.1,28.2,0.0,5.6,11.9,17.0,30.2,88,72,1.6

@@ -1,0 +1,68 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-03-20,202403200CLE,MIA,Q1,Jimmy Butler,https://www.basketball-reference.com/boxscores/202403200CLE.html,6.32,3,4,.750,1,1,1.000,0,0,0,2,2,3,0,0,1,0,7,7.1,+6,
+2024-03-20,202403200CLE,MIA,Q1,Nikola Jović,https://www.basketball-reference.com/boxscores/202403200CLE.html,6.32,1,2,.500,1,2,.500,0,0,0,0,0,1,0,0,0,1,3,2.3,+6,
+2024-03-20,202403200CLE,MIA,Q1,Terry Rozier,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,2,8,.250,2,3,.667,0,0,0,1,1,0,0,0,1,1,6,0.1,+1,
+2024-03-20,202403200CLE,MIA,Q1,Patty Mills,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,2,4,.500,1,3,.333,0,0,1,0,1,2,1,0,0,1,5,5.7,+1,
+2024-03-20,202403200CLE,MIA,Q1,Thomas Bryant,https://www.basketball-reference.com/boxscores/202403200CLE.html,5.32,1,1,1.000,0,0,,0,0,0,3,3,0,0,0,0,2,2,1.8,+5,
+2024-03-20,202403200CLE,MIA,Q1,Caleb Martin,https://www.basketball-reference.com/boxscores/202403200CLE.html,5.83,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-5,
+2024-03-20,202403200CLE,MIA,Q1,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202403200CLE.html,5.67,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-5,
+2024-03-20,202403200CLE,MIA,Q1,Orlando Robinson,https://www.basketball-reference.com/boxscores/202403200CLE.html,6.52,2,2,1.000,1,1,1.000,1,1,1,0,1,2,0,0,0,0,6,7.5,-4,1.000
+2024-03-20,202403200CLE,MIA,Q2,Jimmy Butler,https://www.basketball-reference.com/boxscores/202403200CLE.html,10.12,4,7,.571,0,1,.000,5,5,0,0,0,0,2,0,0,0,13,11.7,0,1.000
+2024-03-20,202403200CLE,MIA,Q2,Nikola Jović,https://www.basketball-reference.com/boxscores/202403200CLE.html,10.12,1,4,.250,1,4,.250,0,0,0,2,2,0,0,0,1,0,3,0.2,0,
+2024-03-20,202403200CLE,MIA,Q2,Terry Rozier,https://www.basketball-reference.com/boxscores/202403200CLE.html,4.62,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,-4,
+2024-03-20,202403200CLE,MIA,Q2,Patty Mills,https://www.basketball-reference.com/boxscores/202403200CLE.html,4.62,1,3,.333,0,2,.000,3,3,0,0,0,0,1,0,0,0,5,4.3,-4,1.000
+2024-03-20,202403200CLE,MIA,Q2,Thomas Bryant,https://www.basketball-reference.com/boxscores/202403200CLE.html,1.88,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,
+2024-03-20,202403200CLE,MIA,Q2,Caleb Martin,https://www.basketball-reference.com/boxscores/202403200CLE.html,9.27,0,3,.000,0,2,.000,0,0,0,2,2,1,0,0,0,1,0,-1.2,+10,
+2024-03-20,202403200CLE,MIA,Q2,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202403200CLE.html,8.57,1,2,.500,0,1,.000,1,1,0,1,1,2,0,0,0,1,3,3.3,+3,1.000
+2024-03-20,202403200CLE,MIA,Q2,Delon Wright,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.38,1,2,.500,0,0,,0,0,0,1,1,1,0,0,0,1,2,1.6,+7,
+2024-03-20,202403200CLE,MIA,Q2,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202403200CLE.html,3.43,1,1,1.000,0,0,,0,0,1,1,2,0,0,0,0,0,2,2.7,0,
+2024-03-20,202403200CLE,MIA,Q3,Jimmy Butler,https://www.basketball-reference.com/boxscores/202403200CLE.html,9.82,1,4,.250,1,2,.500,1,2,1,0,1,2,1,0,0,1,4,3.9,+6,.500
+2024-03-20,202403200CLE,MIA,Q3,Nikola Jović,https://www.basketball-reference.com/boxscores/202403200CLE.html,6.98,2,4,.500,1,2,.500,0,0,0,2,2,0,0,0,0,0,5,3.6,+2,
+2024-03-20,202403200CLE,MIA,Q3,Terry Rozier,https://www.basketball-reference.com/boxscores/202403200CLE.html,9.17,2,4,.500,1,1,1.000,0,0,0,0,0,1,1,0,1,0,5,3.7,0,
+2024-03-20,202403200CLE,MIA,Q3,Patty Mills,https://www.basketball-reference.com/boxscores/202403200CLE.html,8.72,0,4,.000,0,3,.000,0,0,0,0,0,2,0,0,0,0,0,-1.4,0,
+2024-03-20,202403200CLE,MIA,Q3,Thomas Bryant,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.77,1,4,.250,0,2,.000,2,2,1,5,6,0,0,1,0,2,4,3.7,-2,1.000
+2024-03-20,202403200CLE,MIA,Q3,Caleb Martin,https://www.basketball-reference.com/boxscores/202403200CLE.html,5.02,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,+2,
+2024-03-20,202403200CLE,MIA,Q3,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202403200CLE.html,5.02,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+2,
+2024-03-20,202403200CLE,MIA,Q3,Delon Wright,https://www.basketball-reference.com/boxscores/202403200CLE.html,3.28,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+4,
+2024-03-20,202403200CLE,MIA,Q3,Orlando Robinson,https://www.basketball-reference.com/boxscores/202403200CLE.html,4.23,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+6,
+2024-03-20,202403200CLE,MIA,Q4,Jimmy Butler,https://www.basketball-reference.com/boxscores/202403200CLE.html,10.75,3,4,.750,0,0,,0,0,0,1,1,0,1,0,1,0,6,4.7,-2,
+2024-03-20,202403200CLE,MIA,Q4,Nikola Jović,https://www.basketball-reference.com/boxscores/202403200CLE.html,9.92,1,2,.500,1,2,.500,0,0,0,2,2,0,0,1,0,1,3,2.9,-5,
+2024-03-20,202403200CLE,MIA,Q4,Terry Rozier,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.33,3,3,1.000,2,2,1.000,3,3,0,1,1,1,0,0,0,1,11,10.7,-3,1.000
+2024-03-20,202403200CLE,MIA,Q4,Patty Mills,https://www.basketball-reference.com/boxscores/202403200CLE.html,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2024-03-20,202403200CLE,MIA,Q4,Caleb Martin,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,0,3,.000,0,2,.000,2,2,1,1,2,1,0,0,0,2,2,0.8,-5,1.000
+2024-03-20,202403200CLE,MIA,Q4,Jaime Jaquez Jr.,https://www.basketball-reference.com/boxscores/202403200CLE.html,11.93,1,2,.500,0,0,,0,0,0,0,0,0,0,0,1,2,2,-0.8,-7,
+2024-03-20,202403200CLE,MIA,Q4,Delon Wright,https://www.basketball-reference.com/boxscores/202403200CLE.html,4.7,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.7,-2,
+2024-03-20,202403200CLE,MIA,Q4,Orlando Robinson,https://www.basketball-reference.com/boxscores/202403200CLE.html,1.85,0,1,.000,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.0,+2,
+2024-03-20,202403200CLE,MIA,Q4,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202403200CLE.html,1.47,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2024-03-20,202403200CLE,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/202403200CLE.html,11.83,1,4,.250,1,3,.333,0,0,0,0,0,3,0,0,0,1,3,2.3,-1,
+2024-03-20,202403200CLE,CLE,Q1,Jarrett Allen,https://www.basketball-reference.com/boxscores/202403200CLE.html,8.83,3,5,.600,0,0,,0,0,2,3,5,0,0,0,0,0,6,6.0,-2,
+2024-03-20,202403200CLE,CLE,Q1,Isaac Okoro,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,3,6,.500,1,3,.333,0,0,0,0,0,1,0,0,0,0,7,4.7,-1,
+2024-03-20,202403200CLE,CLE,Q1,Caris LeVert,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.93,1,1,1.000,0,0,,3,4,0,2,2,2,1,0,1,1,5,5.9,-7,.750
+2024-03-20,202403200CLE,CLE,Q1,Georges Niang,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.78,0,1,.000,0,1,.000,0,0,0,0,0,1,1,0,1,0,0,0.0,-7,
+2024-03-20,202403200CLE,CLE,Q1,Sam Merrill,https://www.basketball-reference.com/boxscores/202403200CLE.html,4.05,2,2,1.000,2,2,1.000,0,0,0,1,1,0,0,0,0,1,6,5.3,+6,
+2024-03-20,202403200CLE,CLE,Q1,Marcus Morris,https://www.basketball-reference.com/boxscores/202403200CLE.html,4.22,1,1,1.000,1,1,1.000,0,0,1,0,1,2,0,0,1,2,3,3.0,+6,
+2024-03-20,202403200CLE,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/202403200CLE.html,3.32,0,0,,0,0,,0,0,0,1,1,1,0,1,0,0,0,1.7,+1,
+2024-03-20,202403200CLE,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.97,1,3,.333,0,1,.000,0,0,0,0,0,5,0,0,0,1,2,3.4,+4,
+2024-03-20,202403200CLE,CLE,Q2,Jarrett Allen,https://www.basketball-reference.com/boxscores/202403200CLE.html,9.28,4,4,1.000,0,0,,0,0,0,5,5,0,0,0,0,0,8,8.3,+1,
+2024-03-20,202403200CLE,CLE,Q2,Isaac Okoro,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.55,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+4,
+2024-03-20,202403200CLE,CLE,Q2,Caris LeVert,https://www.basketball-reference.com/boxscores/202403200CLE.html,9.07,2,3,.667,1,2,.500,2,2,0,1,1,2,1,0,3,1,7,5.0,-3,1.000
+2024-03-20,202403200CLE,CLE,Q2,Georges Niang,https://www.basketball-reference.com/boxscores/202403200CLE.html,8.05,2,4,.500,1,2,.500,0,0,0,2,2,0,0,0,0,1,5,3.2,+4,
+2024-03-20,202403200CLE,CLE,Q2,Sam Merrill,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.38,1,3,.333,1,3,.333,0,0,0,0,0,0,0,0,0,1,3,0.9,-7,
+2024-03-20,202403200CLE,CLE,Q2,Marcus Morris,https://www.basketball-reference.com/boxscores/202403200CLE.html,3.95,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,-7,
+2024-03-20,202403200CLE,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/202403200CLE.html,2.78,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,-4,
+2024-03-20,202403200CLE,CLE,Q2,Craig Porter Jr.,https://www.basketball-reference.com/boxscores/202403200CLE.html,3.95,0,1,.000,0,1,.000,2,2,0,0,0,0,0,0,0,1,2,0.9,-7,1.000
+2024-03-20,202403200CLE,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,3,7,.429,2,4,.500,1,1,0,0,0,0,0,0,1,0,9,4.3,-4,1.000
+2024-03-20,202403200CLE,CLE,Q3,Jarrett Allen,https://www.basketball-reference.com/boxscores/202403200CLE.html,8.72,2,2,1.000,0,0,,1,2,0,6,6,2,0,0,2,1,5,4.8,0,.500
+2024-03-20,202403200CLE,CLE,Q3,Isaac Okoro,https://www.basketball-reference.com/boxscores/202403200CLE.html,11.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2024-03-20,202403200CLE,CLE,Q3,Caris LeVert,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.93,0,2,.000,0,1,.000,0,0,1,1,2,4,0,1,0,0,0,3.1,-4,
+2024-03-20,202403200CLE,CLE,Q3,Georges Niang,https://www.basketball-reference.com/boxscores/202403200CLE.html,6.98,1,5,.200,1,5,.200,0,0,0,1,1,0,0,0,0,0,3,0.2,-2,
+2024-03-20,202403200CLE,CLE,Q3,Sam Merrill,https://www.basketball-reference.com/boxscores/202403200CLE.html,5.02,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-1.7,-2,
+2024-03-20,202403200CLE,CLE,Q3,Marcus Morris,https://www.basketball-reference.com/boxscores/202403200CLE.html,5.02,0,1,.000,0,0,,1,2,0,0,0,0,0,0,0,0,1,-0.1,-2,.500
+2024-03-20,202403200CLE,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/202403200CLE.html,3.28,0,0,,0,0,,0,0,1,1,2,0,0,0,0,2,0,0.2,-4,
+2024-03-20,202403200CLE,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/202403200CLE.html,8.93,2,4,.500,2,4,.500,0,0,1,0,1,1,0,0,0,0,6,5.4,+4,
+2024-03-20,202403200CLE,CLE,Q4,Jarrett Allen,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,1,2,.500,0,0,,4,4,0,4,4,1,0,0,0,1,6,6.5,+5,1.000
+2024-03-20,202403200CLE,CLE,Q4,Isaac Okoro,https://www.basketball-reference.com/boxscores/202403200CLE.html,7.83,0,0,,0,0,,0,0,0,1,1,0,0,0,0,2,0,-0.5,+1,
+2024-03-20,202403200CLE,CLE,Q4,Caris LeVert,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,1,3,.333,0,1,.000,2,2,0,0,0,4,0,0,1,1,4,3.7,+5,1.000
+2024-03-20,202403200CLE,CLE,Q4,Georges Niang,https://www.basketball-reference.com/boxscores/202403200CLE.html,12.0,3,5,.600,1,3,.333,3,3,0,0,0,0,0,0,0,1,10,7.3,+5,1.000
+2024-03-20,202403200CLE,CLE,Q4,Sam Merrill,https://www.basketball-reference.com/boxscores/202403200CLE.html,4.15,1,3,.333,1,3,.333,0,0,0,0,0,0,0,0,0,0,3,1.3,+4,
+2024-03-20,202403200CLE,CLE,Q4,Marcus Morris,https://www.basketball-reference.com/boxscores/202403200CLE.html,3.07,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,

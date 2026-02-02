@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-04-12,202404120GSW,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404120GSW.html,10.67,1,4,.250,0,3,.000,0,0,0,3,3,0,0,0,0,0,2,0.5,-11,
+2024-04-12,202404120GSW,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.02,0,2,.000,0,1,.000,0,0,0,1,1,1,0,0,1,2,0,-2.2,-11,
+2024-04-12,202404120GSW,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202404120GSW.html,9.7,1,6,.167,0,1,.000,0,0,0,1,1,1,0,1,2,1,2,-2.5,-10,
+2024-04-12,202404120GSW,NOP,Q1,Zion Williamson,https://www.basketball-reference.com/boxscores/202404120GSW.html,10.17,2,8,.250,0,0,,0,0,0,1,1,0,0,0,0,0,4,-0.5,-6,
+2024-04-12,202404120GSW,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404120GSW.html,6.93,2,2,1.000,0,0,,2,3,1,1,2,0,0,0,0,0,6,6.0,-11,.667
+2024-04-12,202404120GSW,NOP,Q1,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404120GSW.html,5.47,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,1,0,-0.1,0,
+2024-04-12,202404120GSW,NOP,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404120GSW.html,5.07,0,0,,0,0,,0,0,1,4,5,1,0,0,0,0,0,2.6,+2,
+2024-04-12,202404120GSW,NOP,Q1,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202404120GSW.html,3.98,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+2,
+2024-04-12,202404120GSW,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404120GSW.html,10.78,3,4,.750,3,3,1.000,0,0,0,3,3,1,1,0,0,0,9,10.0,+23,
+2024-04-12,202404120GSW,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.85,2,2,1.000,0,0,,1,2,0,0,0,2,1,0,0,0,5,6.4,+22,.500
+2024-04-12,202404120GSW,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202404120GSW.html,11.95,5,7,.714,5,7,.714,0,0,0,3,3,4,0,1,0,0,15,16.5,+25,
+2024-04-12,202404120GSW,NOP,Q2,Zion Williamson,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.68,1,3,.333,0,0,,1,1,0,1,1,2,4,0,1,1,3,5.6,+20,1.000
+2024-04-12,202404120GSW,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404120GSW.html,4.32,2,4,.500,0,1,.000,0,0,0,1,1,1,0,0,1,0,4,2.0,+3,
+2024-04-12,202404120GSW,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404120GSW.html,12.0,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,1,3,3.0,+23,
+2024-04-12,202404120GSW,NOP,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404120GSW.html,4.35,2,2,1.000,1,1,1.000,1,1,1,0,1,1,0,0,0,0,6,6.8,+1,1.000
+2024-04-12,202404120GSW,NOP,Q2,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202404120GSW.html,0.03,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2024-04-12,202404120GSW,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.78,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,3,3.4,0,
+2024-04-12,202404120GSW,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202404120GSW.html,12.0,1,3,.333,1,3,.333,0,0,0,3,3,1,0,1,0,1,3,3.2,-1,
+2024-04-12,202404120GSW,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.5,3,5,.600,2,3,.667,0,0,0,1,1,0,0,0,0,0,8,6.0,-10,
+2024-04-12,202404120GSW,NOP,Q3,Zion Williamson,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.78,5,6,.833,1,1,1.000,0,2,0,1,1,1,1,1,0,0,11,10.7,0,.000
+2024-04-12,202404120GSW,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404120GSW.html,4.33,0,3,.000,0,0,,0,0,1,0,1,0,0,0,0,1,0,-1.8,-6,
+2024-04-12,202404120GSW,NOP,Q3,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404120GSW.html,6.72,0,2,.000,0,2,.000,1,2,0,0,0,0,0,0,0,1,1,-1.2,+8,.500
+2024-04-12,202404120GSW,NOP,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.67,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,0.3,+5,
+2024-04-12,202404120GSW,NOP,Q3,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202404120GSW.html,3.22,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-1,
+2024-04-12,202404120GSW,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202404120GSW.html,12.0,3,3,1.000,2,2,1.000,2,2,0,2,2,0,0,0,1,0,10,8.7,-8,1.000
+2024-04-12,202404120GSW,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202404120GSW.html,9.5,2,3,.667,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.0,-4,
+2024-04-12,202404120GSW,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.68,1,3,.333,1,2,.500,0,0,0,0,0,0,0,0,1,2,3,-0.5,-10,
+2024-04-12,202404120GSW,NOP,Q4,Zion Williamson,https://www.basketball-reference.com/boxscores/202404120GSW.html,9.93,3,9,.333,0,1,.000,2,3,0,0,0,0,1,0,1,1,8,2.1,+1,.667
+2024-04-12,202404120GSW,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202404120GSW.html,0.78,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-3,
+2024-04-12,202404120GSW,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202404120GSW.html,11.12,0,1,.000,0,1,.000,0,0,0,2,2,0,1,0,0,0,0,0.9,-13,
+2024-04-12,202404120GSW,NOP,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.98,0,1,.000,0,0,,0,0,1,0,1,4,2,1,0,1,0,5.1,-3,
+2024-04-12,202404120GSW,GSW,Q1,Klay Thompson,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.77,1,5,.200,0,1,.000,0,0,1,2,3,0,1,0,0,0,2,1.2,+4,
+2024-04-12,202404120GSW,GSW,Q1,Draymond Green,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.27,0,0,,0,0,,0,0,0,5,5,2,0,0,0,1,0,2.5,+9,
+2024-04-12,202404120GSW,GSW,Q1,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.02,1,5,.200,0,2,.000,4,4,0,1,1,0,0,0,0,0,6,3.2,+11,1.000
+2024-04-12,202404120GSW,GSW,Q1,Stephen Curry,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.02,2,4,.500,1,2,.500,0,0,0,0,0,1,1,0,1,1,5,3.3,+11,
+2024-04-12,202404120GSW,GSW,Q1,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202404120GSW.html,6.93,3,4,.750,0,0,,0,0,0,4,4,1,0,0,0,1,6,5.9,+11,
+2024-04-12,202404120GSW,GSW,Q1,Chris Paul,https://www.basketball-reference.com/boxscores/202404120GSW.html,3.98,0,2,.000,0,1,.000,0,0,0,1,1,1,1,0,1,0,0,-0.4,-2,
+2024-04-12,202404120GSW,GSW,Q1,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.22,1,2,.500,1,2,.500,0,0,0,3,3,0,0,0,0,0,3,2.9,+3,
+2024-04-12,202404120GSW,GSW,Q1,Moses Moody,https://www.basketball-reference.com/boxscores/202404120GSW.html,5.07,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2024-04-12,202404120GSW,GSW,Q1,Kevon Looney,https://www.basketball-reference.com/boxscores/202404120GSW.html,3.73,1,1,1.000,0,0,,2,2,2,0,2,0,0,0,0,0,4,5.1,0,1.000
+2024-04-12,202404120GSW,GSW,Q2,Klay Thompson,https://www.basketball-reference.com/boxscores/202404120GSW.html,9.4,1,3,.333,1,1,1.000,0,0,0,0,0,0,0,0,1,0,3,0.3,-14,
+2024-04-12,202404120GSW,GSW,Q2,Draymond Green,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.68,0,0,,0,0,,0,0,0,1,1,3,0,0,1,1,0,1.0,-20,
+2024-04-12,202404120GSW,GSW,Q2,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.9,0,2,.000,0,1,.000,1,2,0,0,0,0,0,0,1,0,1,-1.8,-20,.500
+2024-04-12,202404120GSW,GSW,Q2,Stephen Curry,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.63,4,6,.667,2,2,1.000,0,0,0,1,1,0,0,0,4,1,10,3.3,-17,
+2024-04-12,202404120GSW,GSW,Q2,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202404120GSW.html,1.38,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-9,
+2024-04-12,202404120GSW,GSW,Q2,Chris Paul,https://www.basketball-reference.com/boxscores/202404120GSW.html,6.4,2,3,.667,0,0,,0,0,0,0,0,2,1,0,0,1,4,4.7,-10,
+2024-04-12,202404120GSW,GSW,Q2,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202404120GSW.html,9.93,1,1,1.000,0,0,,0,0,0,1,1,1,0,1,1,0,2,2.4,-19,
+2024-04-12,202404120GSW,GSW,Q2,Moses Moody,https://www.basketball-reference.com/boxscores/202404120GSW.html,4.32,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,-3,
+2024-04-12,202404120GSW,GSW,Q2,Kevon Looney,https://www.basketball-reference.com/boxscores/202404120GSW.html,4.32,1,2,.500,0,0,,0,0,0,0,0,0,0,1,0,0,2,1.7,-3,
+2024-04-12,202404120GSW,GSW,Q3,Klay Thompson,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.83,3,5,.600,1,3,.333,0,0,0,1,1,1,0,0,0,1,7,5.3,+10,
+2024-04-12,202404120GSW,GSW,Q3,Draymond Green,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.78,0,0,,0,0,,0,0,0,2,2,3,0,1,1,1,0,2.0,0,
+2024-04-12,202404120GSW,GSW,Q3,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.12,3,5,.600,0,1,.000,1,2,1,1,2,0,0,0,1,1,7,3.9,+4,.500
+2024-04-12,202404120GSW,GSW,Q3,Stephen Curry,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.78,0,5,.000,0,3,.000,2,2,0,1,1,3,0,0,0,0,2,0.9,0,1.000
+2024-04-12,202404120GSW,GSW,Q3,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202404120GSW.html,9.8,2,3,.667,0,0,,0,2,3,2,5,1,0,0,0,0,4,5.3,+2,.000
+2024-04-12,202404120GSW,GSW,Q3,Chris Paul,https://www.basketball-reference.com/boxscores/202404120GSW.html,5.42,1,2,.500,0,1,.000,0,0,0,2,2,1,0,0,0,1,2,1.9,0,
+2024-04-12,202404120GSW,GSW,Q3,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202404120GSW.html,5.85,0,1,.000,0,1,.000,0,0,0,3,3,0,0,0,0,0,0,0.2,-11,
+2024-04-12,202404120GSW,GSW,Q3,Moses Moody,https://www.basketball-reference.com/boxscores/202404120GSW.html,5.42,2,3,.667,1,2,.500,0,0,0,0,0,0,0,0,0,0,5,3.7,0,
+2024-04-12,202404120GSW,GSW,Q4,Klay Thompson,https://www.basketball-reference.com/boxscores/202404120GSW.html,12.0,1,6,.167,1,4,.250,4,4,1,1,2,0,0,2,1,0,7,4.6,+8,1.000
+2024-04-12,202404120GSW,GSW,Q4,Draymond Green,https://www.basketball-reference.com/boxscores/202404120GSW.html,11.22,0,0,,0,0,,0,0,1,3,4,3,1,0,0,2,0,3.9,+5,
+2024-04-12,202404120GSW,GSW,Q4,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202404120GSW.html,8.73,1,2,.500,0,0,,2,2,0,1,1,0,0,0,0,1,4,2.9,+1,1.000
+2024-04-12,202404120GSW,GSW,Q4,Stephen Curry,https://www.basketball-reference.com/boxscores/202404120GSW.html,7.95,6,8,.750,4,6,.667,0,0,0,2,2,1,0,0,2,0,16,12.1,-2,
+2024-04-12,202404120GSW,GSW,Q4,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202404120GSW.html,3.6,0,0,,0,0,,0,1,0,2,2,0,1,0,1,1,0,-0.2,+8,.000
+2024-04-12,202404120GSW,GSW,Q4,Chris Paul,https://www.basketball-reference.com/boxscores/202404120GSW.html,12.0,1,2,.500,1,1,1.000,0,0,0,1,1,2,0,0,0,0,3,3.7,+8,
+2024-04-12,202404120GSW,GSW,Q4,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202404120GSW.html,0.45,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2024-04-12,202404120GSW,GSW,Q4,Moses Moody,https://www.basketball-reference.com/boxscores/202404120GSW.html,4.05,2,3,.667,0,0,,0,0,2,0,2,1,0,0,0,0,4,4.8,+10,

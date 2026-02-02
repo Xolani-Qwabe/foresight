@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-29,202103290UTA,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202103290UTA.html,35:35,.563,.563,.250,.000,2.6,12.5,7.1,37.0,1.4,0.0,15.8,25.6,97,124,1.2
+2021-03-29,202103290UTA,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202103290UTA.html,35:21,.495,.444,.278,.278,2.6,6.3,4.3,15.0,2.9,0.0,4.7,28.8,97,122,1.6
+2021-03-29,202103290UTA,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202103290UTA.html,33:59,.700,.700,.600,.000,2.7,13.1,7.4,11.4,0.0,6.9,0.0,7.1,144,123,-1.6
+2021-03-29,202103290UTA,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202103290UTA.html,27:47,.223,.111,.667,.556,0.0,12.1,5.5,0.0,0.0,0.0,8.2,21.1,43,128,-18.7
+2021-03-29,202103290UTA,CLE,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202103290UTA.html,26:13,.282,.313,.375,.250,7.0,51.1,27.0,50.6,0.0,4.5,10.1,18.1,81,114,1.9
+2021-03-29,202103290UTA,CLE,Brodric Thomas,https://www.basketball-reference.com/boxscores/202103290UTA.html,26:49,.370,.200,.600,.800,0.0,16.7,7.5,0.0,1.9,0.0,12.9,13.9,67,122,-11.9
+2021-03-29,202103290UTA,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202103290UTA.html,20:48,.357,.357,.429,.000,0.0,10.7,4.9,0.0,2.5,11.3,12.5,18.5,59,115,-4.3
+2021-03-29,202103290UTA,CLE,Taurean Prince,https://www.basketball-reference.com/boxscores/202103290UTA.html,18:26,.278,.278,.444,.000,0.0,0.0,0.0,10.9,0.0,0.0,10.0,26.0,53,131,-14.4
+2021-03-29,202103290UTA,CLE,Damyean Dotson,https://www.basketball-reference.com/boxscores/202103290UTA.html,15:02,.417,.417,.500,.000,6.1,22.3,13.4,0.0,0.0,0.0,14.3,22.3,73,125,-8.0
+2021-03-29,202103290UTA,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202103290UTA.html,27:47,.726,.625,.000,1.250,16.1,43.2,30.9,0.0,3.7,14.1,0.0,20.6,162,60,17.2
+2021-03-29,202103290UTA,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202103290UTA.html,25:49,.804,.722,.556,.556,0.0,14.3,7.8,32.4,0.0,0.0,8.2,21.8,158,86,11.7
+2021-03-29,202103290UTA,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202103290UTA.html,24:55,.638,.643,.500,.143,9.0,0.0,4.1,31.4,2.1,3.9,16.8,33.1,112,82,10.2
+2021-03-29,202103290UTA,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202103290UTA.html,23:54,.300,.300,.400,.000,0.0,7.7,4.2,27.9,0.0,0.0,16.7,11.6,95,87,-4.5
+2021-03-29,202103290UTA,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202103290UTA.html,23:08,.833,.833,.667,.000,0.0,16.0,8.7,12.3,0.0,0.0,0.0,6.0,175,85,3.3
+2021-03-29,202103290UTA,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202103290UTA.html,19:26,.302,.250,.500,.143,0.0,28.5,15.6,8.1,0.0,0.0,6.3,37.7,65,83,-17.5
+2021-03-29,202103290UTA,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202103290UTA.html,18:28,.902,1.000,1.000,.667,0.0,10.0,5.5,31.7,2.8,0.0,34.0,14.7,125,81,6.7
+2021-03-29,202103290UTA,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202103290UTA.html,16:29,.900,.900,1.000,.000,0.0,16.8,9.2,10.0,0.0,0.0,16.7,16.8,127,86,9.5
+2021-03-29,202103290UTA,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202103290UTA.html,12:00,.000,.000,.000,.000,0.0,0.0,0.0,31.6,0.0,0.0,50.0,7.7,79,89,-6.5
+2021-03-29,202103290UTA,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202103290UTA.html,12:00,1.000,1.000,1.000,.000,0.0,30.8,16.8,0.0,4.3,0.0,25.0,15.4,107,73,11.3
+2021-03-29,202103290UTA,UTA,Derrick Favors,https://www.basketball-reference.com/boxscores/202103290UTA.html,10:11,.600,.600,.000,.000,21.9,27.2,24.8,19.8,0.0,0.0,0.0,22.6,141,83,5.9
+2021-03-29,202103290UTA,UTA,Matt Thomas,https://www.basketball-reference.com/boxscores/202103290UTA.html,9:15,.625,.625,.750,.000,0.0,39.9,21.8,37.6,5.6,0.0,0.0,19.9,141,67,17.3
+2021-03-29,202103290UTA,UTA,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202103290UTA.html,6:36,.410,.250,.250,.500,16.9,14.0,15.3,23.7,0.0,0.0,0.0,34.1,112,85,-4.9
+2021-03-29,202103290UTA,UTA,Ersan İlyasova,https://www.basketball-reference.com/boxscores/202103290UTA.html,6:25,.333,.333,.667,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.6,67,89,-16.2
+2021-03-29,202103290UTA,UTA,Elijah Hughes,https://www.basketball-reference.com/boxscores/202103290UTA.html,3:37,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,25.5,58,90,10.6

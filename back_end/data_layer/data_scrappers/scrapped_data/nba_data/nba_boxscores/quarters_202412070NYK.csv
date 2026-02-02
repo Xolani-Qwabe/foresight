@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-12-07,202412070NYK,DET,Q1,Cade Cunningham,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.02,2,5,.400,1,3,.333,0,0,0,3,3,6,1,0,0,1,5,8.0,+11,
+2024-12-07,202412070NYK,DET,Q1,Tobias Harris,https://www.basketball-reference.com/boxscores/202412070NYK.html,8.23,3,5,.600,1,3,.333,0,0,0,1,1,0,0,0,0,0,7,5.0,+7,
+2024-12-07,202412070NYK,DET,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.58,2,4,.500,1,3,.333,0,0,0,0,0,0,0,0,0,0,5,3.0,+5,
+2024-12-07,202412070NYK,DET,Q1,Jaden Ivey,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.28,3,4,.750,0,1,.000,0,0,1,2,3,3,1,0,2,1,6,6.4,+17,
+2024-12-07,202412070NYK,DET,Q1,Jalen Duren,https://www.basketball-reference.com/boxscores/202412070NYK.html,6.22,0,0,,0,0,,0,0,0,0,0,0,1,0,0,2,0,0.2,+9,
+2024-12-07,202412070NYK,DET,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.78,4,5,.800,4,5,.800,0,0,0,0,0,1,0,0,0,0,12,10.8,+7,
+2024-12-07,202412070NYK,DET,Q1,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.78,2,2,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,4,3.7,+7,
+2024-12-07,202412070NYK,DET,Q1,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202412070NYK.html,4.42,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,1,0,-0.1,+11,
+2024-12-07,202412070NYK,DET,Q1,Ron Holland,https://www.basketball-reference.com/boxscores/202412070NYK.html,3.68,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+6,
+2024-12-07,202412070NYK,DET,Q2,Cade Cunningham,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.02,5,6,.833,4,4,1.000,2,3,2,0,2,3,0,0,0,2,16,16.1,+2,.667
+2024-12-07,202412070NYK,DET,Q2,Tobias Harris,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.03,0,0,,0,0,,2,2,0,1,1,0,0,0,0,0,2,2.3,+2,1.000
+2024-12-07,202412070NYK,DET,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.03,1,2,.500,0,1,.000,0,0,0,2,2,0,0,0,1,1,2,0.2,+2,
+2024-12-07,202412070NYK,DET,Q2,Jaden Ivey,https://www.basketball-reference.com/boxscores/202412070NYK.html,4.12,0,3,.000,0,1,.000,0,0,0,0,0,1,0,0,1,0,0,-2.4,-4,
+2024-12-07,202412070NYK,DET,Q2,Jalen Duren,https://www.basketball-reference.com/boxscores/202412070NYK.html,6.55,1,2,.500,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.0,+4,
+2024-12-07,202412070NYK,DET,Q2,Malik Beasley,https://www.basketball-reference.com/boxscores/202412070NYK.html,6.78,1,3,.333,1,1,1.000,0,0,0,2,2,0,0,0,2,0,3,-0.1,-5,
+2024-12-07,202412070NYK,DET,Q2,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.45,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,2,0,-1.9,-9,
+2024-12-07,202412070NYK,DET,Q2,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202412070NYK.html,2.97,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,-7,
+2024-12-07,202412070NYK,DET,Q2,Ron Holland,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.05,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,1,1,2,1.3,-10,
+2024-12-07,202412070NYK,DET,Q3,Cade Cunningham,https://www.basketball-reference.com/boxscores/202412070NYK.html,8.2,1,2,.500,0,1,.000,4,4,0,4,4,2,0,0,2,1,6,5.2,0,1.000
+2024-12-07,202412070NYK,DET,Q3,Tobias Harris,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.28,1,2,.500,0,1,.000,2,2,1,5,6,0,0,0,2,1,4,2.8,+1,1.000
+2024-12-07,202412070NYK,DET,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202412070NYK.html,8.2,0,1,.000,0,1,.000,2,2,0,1,1,0,0,0,0,0,2,1.6,0,1.000
+2024-12-07,202412070NYK,DET,Q3,Jaden Ivey,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.48,1,7,.143,0,2,.000,1,2,1,0,1,0,0,0,1,1,3,-2.6,-7,.500
+2024-12-07,202412070NYK,DET,Q3,Jalen Duren,https://www.basketball-reference.com/boxscores/202412070NYK.html,4.75,1,3,.333,0,0,,0,0,2,0,2,0,0,0,0,1,2,1.3,-4,
+2024-12-07,202412070NYK,DET,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202412070NYK.html,6.32,0,3,.000,0,2,.000,1,1,0,1,1,0,0,0,0,0,1,-0.8,-7,1.000
+2024-12-07,202412070NYK,DET,Q3,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.25,1,1,1.000,0,0,,0,0,1,2,3,1,1,0,0,0,2,4.7,-3,
+2024-12-07,202412070NYK,DET,Q3,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202412070NYK.html,3.8,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-7,
+2024-12-07,202412070NYK,DET,Q3,Ron Holland,https://www.basketball-reference.com/boxscores/202412070NYK.html,2.72,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-8,
+2024-12-07,202412070NYK,DET,Q4,Cade Cunningham,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.25,1,4,.250,0,0,,0,0,0,1,1,4,0,0,1,0,2,1.7,+3,
+2024-12-07,202412070NYK,DET,Q4,Tobias Harris,https://www.basketball-reference.com/boxscores/202412070NYK.html,6.98,0,1,.000,0,0,,0,0,0,1,1,1,0,0,0,0,0,0.3,-5,
+2024-12-07,202412070NYK,DET,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.82,1,2,.500,0,0,,0,0,0,0,0,0,1,0,0,1,2,1.6,-7,
+2024-12-07,202412070NYK,DET,Q4,Jaden Ivey,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.83,2,2,1.000,2,2,1.000,1,2,0,0,0,0,0,0,2,1,7,3.6,-4,.500
+2024-12-07,202412070NYK,DET,Q4,Jalen Duren,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.68,4,4,1.000,0,0,,0,0,1,0,1,0,0,0,1,1,8,6.1,+9,
+2024-12-07,202412070NYK,DET,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.33,2,2,1.000,2,2,1.000,1,1,0,1,1,0,1,0,0,1,7,7.3,+11,1.000
+2024-12-07,202412070NYK,DET,Q4,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202412070NYK.html,4.32,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-4,
+2024-12-07,202412070NYK,DET,Q4,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.77,1,1,1.000,1,1,1.000,0,0,0,1,1,2,0,0,0,0,3,4.4,+12,
+2024-12-07,202412070NYK,DET,Q4,Ron Holland,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.02,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,1,1,2,1.3,+10,
+2024-12-07,202412070NYK,NYK,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/202412070NYK.html,11.92,4,6,.667,1,2,.500,0,2,0,2,2,2,0,0,2,0,9,5.6,-13,.000
+2024-12-07,202412070NYK,NYK,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202412070NYK.html,8.45,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-5,
+2024-12-07,202412070NYK,NYK,Q1,OG Anunoby,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.8,1,4,.250,1,3,.333,3,4,0,1,1,0,1,0,1,0,6,3.5,-15,.750
+2024-12-07,202412070NYK,NYK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202412070NYK.html,12.0,1,4,.250,1,1,1.000,1,2,0,2,2,1,0,0,1,0,4,1.5,-16,.500
+2024-12-07,202412070NYK,NYK,Q1,Jericho Sims,https://www.basketball-reference.com/boxscores/202412070NYK.html,6.22,0,0,,0,0,,0,0,0,0,0,1,0,0,1,0,0,-0.3,-9,
+2024-12-07,202412070NYK,NYK,Q1,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202412070NYK.html,2.28,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-4,
+2024-12-07,202412070NYK,NYK,Q1,Miles McBride,https://www.basketball-reference.com/boxscores/202412070NYK.html,4.42,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,1,2,0.3,-11,
+2024-12-07,202412070NYK,NYK,Q1,Ariel Hukporti,https://www.basketball-reference.com/boxscores/202412070NYK.html,4.92,1,1,1.000,0,0,,0,0,0,1,1,2,0,0,0,0,2,3.4,-7,
+2024-12-07,202412070NYK,NYK,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.88,3,4,.750,2,2,1.000,3,3,0,0,0,0,0,0,2,1,11,7.0,+1,1.000
+2024-12-07,202412070NYK,NYK,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202412070NYK.html,12.0,4,4,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,9,8.8,+5,
+2024-12-07,202412070NYK,NYK,Q2,OG Anunoby,https://www.basketball-reference.com/boxscores/202412070NYK.html,7.9,0,2,.000,0,1,.000,0,0,0,0,0,1,1,1,0,0,0,1.0,+1,
+2024-12-07,202412070NYK,NYK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.23,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,+7,
+2024-12-07,202412070NYK,NYK,Q2,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202412070NYK.html,8.18,1,1,1.000,0,0,,2,4,1,4,5,1,0,0,0,1,4,5.1,+7,.500
+2024-12-07,202412070NYK,NYK,Q2,Miles McBride,https://www.basketball-reference.com/boxscores/202412070NYK.html,10.88,2,4,.500,1,3,.333,0,0,0,1,1,1,0,0,0,0,5,4.0,+2,
+2024-12-07,202412070NYK,NYK,Q2,Ariel Hukporti,https://www.basketball-reference.com/boxscores/202412070NYK.html,3.82,1,1,1.000,0,0,,1,2,0,1,1,0,0,0,0,0,3,2.6,-2,.500
+2024-12-07,202412070NYK,NYK,Q2,Tyler Kolek,https://www.basketball-reference.com/boxscores/202412070NYK.html,4.1,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,0,0,0,3,3.7,+4,
+2024-12-07,202412070NYK,NYK,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/202412070NYK.html,12.0,2,7,.286,0,2,.000,0,0,0,1,1,4,1,0,0,1,4,3.6,+7,
+2024-12-07,202412070NYK,NYK,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.28,0,2,.000,0,1,.000,2,2,0,0,0,1,0,0,0,3,2,0.1,-1,1.000
+2024-12-07,202412070NYK,NYK,Q3,OG Anunoby,https://www.basketball-reference.com/boxscores/202412070NYK.html,12.0,4,7,.571,0,2,.000,0,0,1,2,3,0,2,1,0,2,8,7.9,+7,
+2024-12-07,202412070NYK,NYK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202412070NYK.html,12.0,4,6,.667,1,3,.333,0,0,0,0,0,1,2,1,0,0,9,9.8,+7,
+2024-12-07,202412070NYK,NYK,Q3,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202412070NYK.html,10.28,1,2,.500,0,0,,0,1,0,4,4,2,1,1,0,0,2,4.9,+1,.000
+2024-12-07,202412070NYK,NYK,Q3,Miles McBride,https://www.basketball-reference.com/boxscores/202412070NYK.html,2.72,0,1,.000,0,1,.000,0,0,0,1,1,1,0,1,1,0,0,0.0,+8,
+2024-12-07,202412070NYK,NYK,Q3,Ariel Hukporti,https://www.basketball-reference.com/boxscores/202412070NYK.html,1.72,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,+6,
+2024-12-07,202412070NYK,NYK,Q4,Jalen Brunson,https://www.basketball-reference.com/boxscores/202412070NYK.html,12.0,2,4,.500,0,1,.000,3,4,0,1,1,4,0,0,1,0,7,6.7,-5,.750
+2024-12-07,202412070NYK,NYK,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.23,3,4,.750,0,1,.000,0,1,1,3,4,1,1,0,0,0,6,7.3,-2,.000
+2024-12-07,202412070NYK,NYK,Q4,OG Anunoby,https://www.basketball-reference.com/boxscores/202412070NYK.html,9.25,1,2,.500,1,2,.500,0,0,0,0,0,1,0,0,2,2,3,-0.1,-3,
+2024-12-07,202412070NYK,NYK,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202412070NYK.html,8.58,3,5,.600,1,3,.333,0,0,1,0,1,0,0,0,0,0,7,5.4,+3,
+2024-12-07,202412070NYK,NYK,Q4,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202412070NYK.html,6.98,0,0,,0,0,,0,0,0,1,1,1,0,0,0,0,0,1.0,+5,
+2024-12-07,202412070NYK,NYK,Q4,Miles McBride,https://www.basketball-reference.com/boxscores/202412070NYK.html,8.93,0,1,.000,0,1,.000,1,2,0,0,0,0,1,0,1,1,1,-0.5,-13,.500
+2024-12-07,202412070NYK,NYK,Q4,Ariel Hukporti,https://www.basketball-reference.com/boxscores/202412070NYK.html,5.02,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.7,-10,

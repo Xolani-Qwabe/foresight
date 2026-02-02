@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-04-22,202204220NOP,PHO,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.37,0,2,.000,0,1,.000,0,0,0,0,0,2,0,0,0,0,0,0.0,+5,
+2022-04-22,202204220NOP,PHO,Q1,Chris Paul,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.08,2,3,.667,1,1,1.000,0,0,0,0,0,5,0,0,0,0,5,7.2,+5,
+2022-04-22,202204220NOP,PHO,Q1,Deandre Ayton,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.08,6,7,.857,1,1,1.000,0,0,0,4,4,0,1,1,0,1,13,13.0,+5,
+2022-04-22,202204220NOP,PHO,Q1,Jae Crowder,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.8,0,4,.000,0,3,.000,0,0,0,1,1,1,1,0,0,1,0,-1.2,+3,
+2022-04-22,202204220NOP,PHO,Q1,Cameron Johnson,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.33,2,3,.667,1,2,.500,0,0,0,1,1,0,0,0,1,2,5,2.2,-4,
+2022-04-22,202204220NOP,PHO,Q1,Landry Shamet,https://www.basketball-reference.com/boxscores/202204220NOP.html,5.87,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,
+2022-04-22,202204220NOP,PHO,Q1,Cameron Payne,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.92,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-6,
+2022-04-22,202204220NOP,PHO,Q1,JaVale McGee,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.92,2,2,1.000,0,0,,1,2,1,0,1,0,0,0,0,0,5,4.7,-6,.500
+2022-04-22,202204220NOP,PHO,Q1,Torrey Craig,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.63,0,2,.000,0,1,.000,0,0,0,0,0,0,0,1,0,0,0,-0.7,-6,
+2022-04-22,202204220NOP,PHO,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,1,2,.500,0,0,,2,2,0,2,2,0,0,1,1,0,4,3.3,+12,1.000
+2022-04-22,202204220NOP,PHO,Q2,Chris Paul,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,0,2,.000,0,2,.000,2,2,0,1,1,3,1,0,0,2,2,3.2,+12,1.000
+2022-04-22,202204220NOP,PHO,Q2,Deandre Ayton,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.13,4,7,.571,0,0,,0,0,1,2,3,1,1,0,0,1,8,7.3,+14,
+2022-04-22,202204220NOP,PHO,Q2,Jae Crowder,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.47,2,3,.667,0,1,.000,2,2,1,0,1,1,0,0,0,1,6,5.7,+14,1.000
+2022-04-22,202204220NOP,PHO,Q2,Cameron Johnson,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.53,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,1,0,-1.1,-2,
+2022-04-22,202204220NOP,PHO,Q2,Landry Shamet,https://www.basketball-reference.com/boxscores/202204220NOP.html,7.27,2,4,.500,0,2,.000,1,1,1,1,2,2,0,0,0,0,5,5.4,+1,1.000
+2022-04-22,202204220NOP,PHO,Q2,Cameron Payne,https://www.basketball-reference.com/boxscores/202204220NOP.html,4.73,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,1,2,2.3,+11,
+2022-04-22,202204220NOP,PHO,Q2,JaVale McGee,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.53,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,-2,
+2022-04-22,202204220NOP,PHO,Q2,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202204220NOP.html,0.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2022-04-22,202204220NOP,PHO,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.45,2,4,.500,0,0,,1,1,0,0,0,0,1,0,0,3,5,2.8,-10,1.000
+2022-04-22,202204220NOP,PHO,Q3,Chris Paul,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.32,1,3,.333,0,1,.000,0,0,0,0,0,4,0,0,0,0,2,3.1,-10,
+2022-04-22,202204220NOP,PHO,Q3,Deandre Ayton,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.32,3,4,.750,0,0,,1,1,0,4,4,0,1,0,1,0,7,6.6,-10,1.000
+2022-04-22,202204220NOP,PHO,Q3,Jae Crowder,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.32,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-0.8,-10,
+2022-04-22,202204220NOP,PHO,Q3,Cameron Johnson,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.68,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+1,
+2022-04-22,202204220NOP,PHO,Q3,Landry Shamet,https://www.basketball-reference.com/boxscores/202204220NOP.html,10.87,0,3,.000,0,3,.000,0,0,1,0,1,1,0,0,1,1,0,-2.1,-9,
+2022-04-22,202204220NOP,PHO,Q3,Cameron Payne,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.68,0,0,,0,0,,1,2,0,0,0,2,0,0,0,1,1,1.6,+1,.500
+2022-04-22,202204220NOP,PHO,Q3,JaVale McGee,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.68,2,3,.667,0,0,,0,0,0,1,1,0,1,0,0,0,4,4.0,+1,
+2022-04-22,202204220NOP,PHO,Q3,Torrey Craig,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.68,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+1,
+2022-04-22,202204220NOP,PHO,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202204220NOP.html,10.52,1,1,1.000,0,0,,6,6,0,0,0,0,0,0,0,0,8,7.7,+3,1.000
+2022-04-22,202204220NOP,PHO,Q4,Chris Paul,https://www.basketball-reference.com/boxscores/202204220NOP.html,10.52,7,10,.700,0,2,.000,5,6,2,1,3,2,0,0,0,0,19,17.5,+3,.833
+2022-04-22,202204220NOP,PHO,Q4,Deandre Ayton,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.27,0,2,.000,0,0,,0,0,1,5,6,0,0,0,0,0,0,0.8,+9,
+2022-04-22,202204220NOP,PHO,Q4,Jae Crowder,https://www.basketball-reference.com/boxscores/202204220NOP.html,6.53,2,2,1.000,0,0,,0,0,1,0,1,1,0,0,0,2,4,4.0,+3,
+2022-04-22,202204220NOP,PHO,Q4,Cameron Johnson,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,0,1,.000,0,1,.000,0,2,0,0,0,0,0,0,0,0,0,-1.5,+1,.000
+2022-04-22,202204220NOP,PHO,Q4,Landry Shamet,https://www.basketball-reference.com/boxscores/202204220NOP.html,5.5,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,0,
+2022-04-22,202204220NOP,PHO,Q4,Cameron Payne,https://www.basketball-reference.com/boxscores/202204220NOP.html,1.48,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,-2,
+2022-04-22,202204220NOP,PHO,Q4,JaVale McGee,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.92,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,2,2.0,-2,
+2022-04-22,202204220NOP,PHO,Q4,Torrey Craig,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.27,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-10,
+2022-04-22,202204220NOP,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.37,3,7,.429,1,2,.500,0,0,0,0,0,2,1,0,0,1,7,5.3,-5,
+2022-04-22,202204220NOP,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.8,2,2,1.000,0,0,,0,0,1,0,1,1,0,0,1,1,4,3.4,-3,
+2022-04-22,202204220NOP,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,3,7,.429,1,1,1.000,2,2,0,3,3,1,0,0,0,0,9,6.9,+1,1.000
+2022-04-22,202204220NOP,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.37,0,1,.000,0,0,,2,2,0,0,0,1,0,1,1,0,2,1.7,-5,1.000
+2022-04-22,202204220NOP,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202204220NOP.html,7.18,1,1,1.000,0,0,,0,0,0,5,5,0,0,0,1,0,2,2.2,-1,
+2022-04-22,202204220NOP,NOP,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.63,0,1,.000,0,1,.000,0,0,1,0,1,0,0,0,0,0,0,0.0,+6,
+2022-04-22,202204220NOP,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202204220NOP.html,4.82,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,+2,
+2022-04-22,202204220NOP,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.63,1,1,1.000,1,1,1.000,2,2,0,2,2,1,0,0,0,0,5,6.0,+6,1.000
+2022-04-22,202204220NOP,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.2,0,0,,0,0,,0,0,0,0,0,1,0,0,0,2,0,-0.1,+4,
+2022-04-22,202204220NOP,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,1,5,.200,0,4,.000,3,4,0,0,0,1,1,0,2,1,5,0.8,-12,.750
+2022-04-22,202204220NOP,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.47,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,-14,
+2022-04-22,202204220NOP,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202204220NOP.html,6.17,1,3,.333,0,2,.000,2,3,0,2,2,0,0,0,1,0,4,1.5,-9,.667
+2022-04-22,202204220NOP,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202204220NOP.html,7.0,1,4,.250,0,0,,0,0,4,2,6,0,0,0,1,1,2,1.6,-8,
+2022-04-22,202204220NOP,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.78,0,0,,0,0,,2,2,0,1,1,0,0,0,0,2,2,1.5,-4,1.000
+2022-04-22,202204220NOP,NOP,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202204220NOP.html,6.47,0,2,.000,0,0,,0,0,2,0,2,0,0,1,1,0,0,-0.3,-4,
+2022-04-22,202204220NOP,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.53,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+2,
+2022-04-22,202204220NOP,NOP,Q2,Jose Alvarado,https://www.basketball-reference.com/boxscores/202204220NOP.html,5.42,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,2,3,0,-3.9,-9,
+2022-04-22,202204220NOP,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202204220NOP.html,5.63,2,4,.500,2,4,.500,0,0,1,2,3,0,0,0,0,1,6,4.9,-4,
+2022-04-22,202204220NOP,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.53,0,0,,0,0,,0,0,0,0,0,2,0,0,0,0,0,1.4,+2,
+2022-04-22,202204220NOP,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.32,3,4,.750,2,2,1.000,1,4,0,2,2,1,0,0,0,0,9,7.5,+10,.250
+2022-04-22,202204220NOP,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.32,3,4,.750,0,0,,1,1,0,0,0,0,1,0,0,0,7,6.4,+10,1.000
+2022-04-22,202204220NOP,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,4,5,.800,0,0,,2,2,0,2,2,1,0,1,1,1,10,8.7,+9,1.000
+2022-04-22,202204220NOP,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202204220NOP.html,8.73,0,0,,0,0,,2,2,1,4,5,0,1,0,1,1,2,3.5,+12,1.000
+2022-04-22,202204220NOP,NOP,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.27,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.8,-3,
+2022-04-22,202204220NOP,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-0.1,+9,
+2022-04-22,202204220NOP,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.68,0,1,.000,0,1,.000,1,2,0,0,0,0,0,0,1,0,1,-1.1,-1,.500
+2022-04-22,202204220NOP,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.68,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,-1,
+2022-04-22,202204220NOP,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,4,7,.571,1,3,.333,0,0,0,2,2,3,0,1,0,0,9,9.1,-1,
+2022-04-22,202204220NOP,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202204220NOP.html,12.0,0,1,.000,0,1,.000,1,2,0,1,1,0,0,0,0,1,1,-0.2,-1,.500
+2022-04-22,202204220NOP,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202204220NOP.html,6.53,3,4,.750,2,3,.667,3,3,0,0,0,0,0,0,0,1,11,9.0,-3,1.000
+2022-04-22,202204220NOP,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202204220NOP.html,1.93,0,0,,0,0,,0,0,0,0,0,0,0,0,1,1,0,-1.4,-3,
+2022-04-22,202204220NOP,NOP,Q4,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202204220NOP.html,9.97,1,4,.250,0,3,.000,0,0,0,0,0,1,0,1,0,5,2,-1.0,-1,
+2022-04-22,202204220NOP,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202204220NOP.html,3.33,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+8,
+2022-04-22,202204220NOP,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202204220NOP.html,11.32,4,5,.800,1,1,1.000,0,0,0,1,1,1,0,0,0,1,9,7.7,-6,
+2022-04-22,202204220NOP,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202204220NOP.html,2.92,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,+2,

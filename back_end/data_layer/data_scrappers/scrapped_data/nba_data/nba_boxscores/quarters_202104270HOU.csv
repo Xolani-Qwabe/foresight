@@ -1,0 +1,71 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-04-27,202104270HOU,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.05,3,8,.375,1,4,.250,0,0,0,2,2,0,0,0,0,0,7,3.2,+3,
+2021-04-27,202104270HOU,MIN,Q1,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.0,3,7,.429,1,2,.500,2,2,1,0,1,1,0,0,2,1,9,4.3,+1,1.000
+2021-04-27,202104270HOU,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+1,
+2021-04-27,202104270HOU,MIN,Q1,Ricky Rubio,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.27,0,0,,0,0,,0,0,0,1,1,2,0,0,0,0,0,1.7,+3,
+2021-04-27,202104270HOU,MIN,Q1,Josh Okogie,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.0,0,0,,0,0,,0,0,2,3,5,1,0,0,0,0,0,3.0,+1,
+2021-04-27,202104270HOU,MIN,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.73,1,4,.250,0,1,.000,0,0,0,0,0,2,0,0,0,0,2,1.0,+2,
+2021-04-27,202104270HOU,MIN,Q1,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.0,2,2,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,0,5,5.0,+4,
+2021-04-27,202104270HOU,MIN,Q1,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.0,1,1,1.000,0,0,,0,0,1,1,2,0,1,0,0,2,2,2.9,+4,
+2021-04-27,202104270HOU,MIN,Q1,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.95,0,1,.000,0,1,.000,0,0,1,0,1,1,0,0,0,0,0,0.7,+2,
+2021-04-27,202104270HOU,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.0,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+4,
+2021-04-27,202104270HOU,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202104270HOU.html,9.63,1,4,.250,0,2,.000,0,0,0,2,2,1,2,1,1,0,2,2.6,+3,
+2021-04-27,202104270HOU,MIN,Q2,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.23,2,2,1.000,0,0,,0,0,0,1,1,2,0,0,1,0,4,4.1,+6,
+2021-04-27,202104270HOU,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.32,2,3,.667,1,1,1.000,0,0,0,1,1,0,0,0,0,0,5,4.0,+2,
+2021-04-27,202104270HOU,MIN,Q2,Ricky Rubio,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.1,1,2,.500,1,2,.500,0,0,0,1,1,1,0,0,0,0,3,3.0,+1,
+2021-04-27,202104270HOU,MIN,Q2,Josh Okogie,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.53,0,0,,0,0,,2,2,0,1,1,0,0,0,0,0,2,2.3,+2,1.000
+2021-04-27,202104270HOU,MIN,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.9,0,4,.000,0,1,.000,0,0,0,0,0,4,1,0,0,0,0,1.0,+3,
+2021-04-27,202104270HOU,MIN,Q2,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.47,4,5,.800,2,3,.667,1,3,0,1,1,0,0,0,0,0,11,8.6,+2,.333
+2021-04-27,202104270HOU,MIN,Q2,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202104270HOU.html,3.68,0,0,,0,0,,0,0,1,2,3,1,0,0,0,1,0,1.6,+2,
+2021-04-27,202104270HOU,MIN,Q2,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202104270HOU.html,2.37,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,0,0,2,2.7,+1,
+2021-04-27,202104270HOU,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.77,1,3,.333,0,0,,0,0,0,0,0,0,0,2,1,1,2,0.3,-2,
+2021-04-27,202104270HOU,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.98,1,3,.333,0,1,.000,0,0,0,0,0,0,1,0,1,0,2,0.3,-12,
+2021-04-27,202104270HOU,MIN,Q3,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.97,3,8,.375,1,4,.250,1,2,1,0,1,1,0,0,0,2,8,3.8,-12,.500
+2021-04-27,202104270HOU,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202104270HOU.html,9.43,0,1,.000,0,1,.000,0,0,0,2,2,0,1,0,0,0,0,0.9,-13,
+2021-04-27,202104270HOU,MIN,Q3,Ricky Rubio,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.98,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,1,2,0,-1.8,-12,
+2021-04-27,202104270HOU,MIN,Q3,Josh Okogie,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.35,0,0,,0,0,,0,0,1,1,2,1,0,0,0,0,0,1.7,-6,
+2021-04-27,202104270HOU,MIN,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.65,3,6,.500,1,4,.250,0,0,0,2,2,1,0,0,1,0,7,4.3,-4,
+2021-04-27,202104270HOU,MIN,Q3,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.02,1,3,.333,0,1,.000,0,0,0,2,2,0,0,1,0,0,2,1.6,+2,
+2021-04-27,202104270HOU,MIN,Q3,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202104270HOU.html,2.57,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+3,
+2021-04-27,202104270HOU,MIN,Q3,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.02,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,+2,
+2021-04-27,202104270HOU,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.03,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,2,2,0,-3.5,+2,
+2021-04-27,202104270HOU,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202104270HOU.html,9.4,4,7,.571,0,1,.000,0,3,2,3,5,1,0,1,1,1,8,5.8,+8,.000
+2021-04-27,202104270HOU,MIN,Q4,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.28,4,5,.800,0,1,.000,2,3,1,3,4,1,1,0,2,3,10,7.8,+1,.667
+2021-04-27,202104270HOU,MIN,Q4,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.97,1,3,.333,0,2,.000,4,5,0,1,1,0,0,0,1,1,6,2.8,0,.800
+2021-04-27,202104270HOU,MIN,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202104270HOU.html,12.0,1,2,.500,0,1,.000,2,5,0,2,2,1,0,1,0,1,4,3.4,+8,.400
+2021-04-27,202104270HOU,MIN,Q4,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202104270HOU.html,12.0,3,3,1.000,0,0,,0,0,1,0,1,1,2,0,0,1,6,8.1,+8,
+2021-04-27,202104270HOU,MIN,Q4,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.63,1,1,1.000,0,0,,0,0,0,1,1,3,0,0,0,0,2,4.1,+8,
+2021-04-27,202104270HOU,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202104270HOU.html,3.72,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+7,
+2021-04-27,202104270HOU,HOU,Q1,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.18,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,2,2,1.2,-1,
+2021-04-27,202104270HOU,HOU,Q1,Christian Wood,https://www.basketball-reference.com/boxscores/202104270HOU.html,11.47,4,6,.667,0,1,.000,2,4,0,4,4,2,0,0,1,0,10,8.2,-7,.500
+2021-04-27,202104270HOU,HOU,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202104270HOU.html,10.58,0,5,.000,0,3,.000,0,0,0,0,0,1,1,0,0,1,0,-2.2,-7,
+2021-04-27,202104270HOU,HOU,Q1,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.58,3,4,.750,0,1,.000,0,0,0,1,1,1,0,0,0,1,6,5.0,-1,
+2021-04-27,202104270HOU,HOU,Q1,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.77,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,1.0,-3,
+2021-04-27,202104270HOU,HOU,Q1,Avery Bradley,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.23,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,2,0,3,0.7,-2,
+2021-04-27,202104270HOU,HOU,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.23,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-04-27,202104270HOU,HOU,Q1,Armoni Brooks,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.95,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-04-27,202104270HOU,HOU,Q2,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202104270HOU.html,12.0,3,4,.750,0,0,,1,2,2,3,5,3,1,0,0,0,7,10.4,-4,.500
+2021-04-27,202104270HOU,HOU,Q2,Christian Wood,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.28,1,3,.333,1,1,1.000,0,0,1,2,3,1,0,0,0,0,3,3.3,-4,
+2021-04-27,202104270HOU,HOU,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.28,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,2,1,0,-1.4,-4,
+2021-04-27,202104270HOU,HOU,Q2,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.08,3,5,.600,0,1,.000,2,2,0,3,3,1,1,0,1,0,8,7.3,-5,1.000
+2021-04-27,202104270HOU,HOU,Q2,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202104270HOU.html,9.63,0,1,.000,0,1,.000,0,0,0,2,2,1,0,2,1,1,0,0.6,-3,
+2021-04-27,202104270HOU,HOU,Q2,Avery Bradley,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.72,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,2,0,-2.2,0,
+2021-04-27,202104270HOU,HOU,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.33,2,4,.500,0,1,.000,0,0,0,0,0,0,1,0,1,0,4,2.0,-5,
+2021-04-27,202104270HOU,HOU,Q2,D.J. Wilson,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.3,2,4,.500,1,2,.500,0,0,0,1,1,0,0,0,0,1,5,2.9,+6,
+2021-04-27,202104270HOU,HOU,Q2,Armoni Brooks,https://www.basketball-reference.com/boxscores/202104270HOU.html,2.37,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-1,
+2021-04-27,202104270HOU,HOU,Q3,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202104270HOU.html,9.77,5,6,.833,1,1,1.000,0,0,0,1,1,0,1,0,0,0,11,10.1,+9,
+2021-04-27,202104270HOU,HOU,Q3,Christian Wood,https://www.basketball-reference.com/boxscores/202104270HOU.html,12.0,2,4,.500,1,3,.333,0,0,0,5,5,2,0,1,0,1,5,6.2,+10,
+2021-04-27,202104270HOU,HOU,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202104270HOU.html,10.0,0,2,.000,0,1,.000,2,2,1,1,2,2,0,0,2,2,2,0.2,+13,1.000
+2021-04-27,202104270HOU,HOU,Q3,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202104270HOU.html,6.98,3,3,1.000,0,0,,0,0,0,2,2,1,0,0,0,0,6,6.4,+12,
+2021-04-27,202104270HOU,HOU,Q3,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.35,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+6,
+2021-04-27,202104270HOU,HOU,Q3,Avery Bradley,https://www.basketball-reference.com/boxscores/202104270HOU.html,7.65,0,2,.000,0,2,.000,0,0,0,0,0,1,2,0,1,1,0,-0.1,+4,
+2021-04-27,202104270HOU,HOU,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.02,1,3,.333,0,1,.000,3,4,1,1,2,0,0,1,0,0,5,4.6,-2,.750
+2021-04-27,202104270HOU,HOU,Q3,D.J. Wilson,https://www.basketball-reference.com/boxscores/202104270HOU.html,4.23,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,-2,
+2021-04-27,202104270HOU,HOU,Q4,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202104270HOU.html,10.12,0,1,.000,0,0,,0,0,0,0,0,1,0,0,1,2,0,-1.8,-4,
+2021-04-27,202104270HOU,HOU,Q4,Christian Wood,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.15,2,3,.667,0,0,,2,3,1,5,6,0,0,0,1,0,6,5.5,-2,.667
+2021-04-27,202104270HOU,HOU,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.15,2,4,.500,2,3,.667,2,2,1,0,1,0,0,0,1,0,8,5.7,-2,1.000
+2021-04-27,202104270HOU,HOU,Q4,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202104270HOU.html,10.12,3,5,.600,0,2,.000,2,3,0,3,3,2,1,0,2,4,8,5.0,-4,.667
+2021-04-27,202104270HOU,HOU,Q4,Avery Bradley,https://www.basketball-reference.com/boxscores/202104270HOU.html,8.15,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2021-04-27,202104270HOU,HOU,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.73,3,5,.600,0,0,,0,0,1,0,1,0,1,0,0,1,6,5.0,-10,
+2021-04-27,202104270HOU,HOU,Q4,D.J. Wilson,https://www.basketball-reference.com/boxscores/202104270HOU.html,5.73,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,-10,
+2021-04-27,202104270HOU,HOU,Q4,Armoni Brooks,https://www.basketball-reference.com/boxscores/202104270HOU.html,3.85,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.8,-6,

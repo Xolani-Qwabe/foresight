@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-31,202303310GSW,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202303310GSW.html,31:54,.548,.500,.412,.412,0.0,3.3,1.7,19.1,1.5,0.0,4.7,27.8,121,136,-1.3
+2023-03-31,202303310GSW,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202303310GSW.html,30:11,.571,.500,.286,.571,3.5,3.5,3.5,25.6,1.6,0.0,10.2,13.6,135,136,-3.2
+2023-03-31,202303310GSW,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202303310GSW.html,29:13,.523,.500,.167,.083,25.6,14.3,19.9,20.4,1.7,3.7,7.4,19.3,132,130,1.0
+2023-03-31,202303310GSW,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202303310GSW.html,28:16,.452,.452,.333,.000,0.0,25.8,13.1,12.0,1.7,0.0,8.7,34.2,91,128,-10.5
+2023-03-31,202303310GSW,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202303310GSW.html,27:38,.799,.786,.429,.571,3.9,22.7,13.4,5.2,1.8,3.9,31.3,19.4,106,127,-2.2
+2023-03-31,202303310GSW,SAS,Devonte' Graham,https://www.basketball-reference.com/boxscores/202303310GSW.html,23:16,.484,.375,1.000,1.250,0.0,4.5,2.3,15.5,0.0,0.0,0.0,11.2,129,139,-9.4
+2023-03-31,202303310GSW,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202303310GSW.html,21:31,.509,.500,.333,.333,0.0,0.0,0.0,25.3,2.3,0.0,12.7,15.4,113,135,-5.3
+2023-03-31,202303310GSW,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202303310GSW.html,19:36,.500,.500,.750,.000,16.3,10.6,13.5,7.1,5.0,0.0,0.0,17.2,128,125,0.5
+2023-03-31,202303310GSW,SAS,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202303310GSW.html,17:23,1.000,1.000,.714,.000,0.0,60.0,30.3,19.6,0.0,0.0,30.0,24.2,120,120,10.2
+2023-03-31,202303310GSW,SAS,Dominick Barlow,https://www.basketball-reference.com/boxscores/202303310GSW.html,11:02,.500,.500,.000,.000,19.3,0.0,9.6,0.0,0.0,19.8,0.0,7.6,141,131,-2.1
+2023-03-31,202303310GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202303310GSW.html,34:17,.821,.806,.778,.111,0.0,6.2,3.1,8.9,1.4,0.0,5.0,23.9,150,120,9.1
+2023-03-31,202303310GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202303310GSW.html,32:43,.725,.690,.524,.190,3.2,3.3,3.2,23.8,0.0,0.0,4.2,30.0,147,125,10.1
+2023-03-31,202303310GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202303310GSW.html,29:27,.410,.250,.250,.500,7.1,14.5,10.7,39.5,0.0,3.1,55.1,15.3,96,118,-5.7
+2023-03-31,202303310GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202303310GSW.html,27:12,.690,.727,.091,.273,7.7,23.5,15.5,10.7,0.0,0.0,14.0,21.7,121,117,-3.2
+2023-03-31,202303310GSW,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202303310GSW.html,20:25,.102,.000,1.000,.500,0.0,5.2,2.6,25.0,2.4,0.0,17.0,11.9,77,118,-9.7
+2023-03-31,202303310GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202303310GSW.html,27:23,.687,.647,.765,.353,3.8,3.9,3.9,31.9,1.8,3.3,13.3,34.1,130,118,8.1
+2023-03-31,202303310GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202303310GSW.html,23:35,.551,.600,.000,.200,8.8,31.7,20.1,14.9,2.1,0.0,0.0,9.5,147,109,-0.2
+2023-03-31,202303310GSW,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202303310GSW.html,22:47,.200,.200,.400,.000,9.2,18.7,13.9,4.7,0.0,4.0,0.0,9.1,88,117,-10.1
+2023-03-31,202303310GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202303310GSW.html,17:47,.643,.700,.400,.200,23.5,24.0,23.7,6.9,2.7,5.1,0.0,12.6,157,107,5.2
+2023-03-31,202303310GSW,GSW,Patrick Baldwin Jr.,https://www.basketball-reference.com/boxscores/202303310GSW.html,1:28,,,,,0.0,0.0,0.0,69.6,0.0,0.0,,0.0,245,126,18.8
+2023-03-31,202303310GSW,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202303310GSW.html,1:28,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.2,200,126,15.8
+2023-03-31,202303310GSW,GSW,Lester Quiñones,https://www.basketball-reference.com/boxscores/202303310GSW.html,1:28,.000,.000,.500,.000,0.0,72.7,36.0,0.0,0.0,0.0,0.0,56.3,0,99,-68.0

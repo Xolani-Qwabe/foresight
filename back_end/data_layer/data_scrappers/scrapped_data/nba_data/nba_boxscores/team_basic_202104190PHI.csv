@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-04-19,202104190PHI,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202104190PHI.html,41.58,6,11,.545,1,2,.500,3,5,.600,0,10,10,2,0,2,2,2,16,12.9,+3
+2021-04-19,202104190PHI,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202104190PHI.html,36.92,14,28,.500,10,17,.588,11,12,.917,0,3,3,5,0,0,6,2,49,32.2,+11
+2021-04-19,202104190PHI,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202104190PHI.html,33.68,2,4,.500,0,0,,1,2,.500,4,11,15,1,0,0,3,5,5,4.4,+1
+2021-04-19,202104190PHI,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202104190PHI.html,30.88,4,8,.500,0,3,.000,0,0,,0,6,6,6,2,0,1,5,8,9.0,+15
+2021-04-19,202104190PHI,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202104190PHI.html,14.18,0,5,.000,0,2,.000,2,2,1.000,0,2,2,0,0,0,0,0,2,-0.9,-7
+2021-04-19,202104190PHI,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202104190PHI.html,31.52,5,6,.833,2,2,1.000,0,0,,1,5,6,1,0,1,2,1,12,11.0,+16
+2021-04-19,202104190PHI,GSW,Kelly Oubre Jr.,https://www.basketball-reference.com/boxscores/202104190PHI.html,21.92,2,6,.333,0,1,.000,5,7,.714,1,1,2,0,0,0,2,2,9,3.0,+8
+2021-04-19,202104190PHI,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202104190PHI.html,17.35,1,7,.143,1,4,.250,3,4,.750,0,1,1,0,0,2,0,1,6,2.4,+9
+2021-04-19,202104190PHI,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202104190PHI.html,11.22,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+1
+2021-04-19,202104190PHI,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202104190PHI.html,0.3,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2021-04-19,202104190PHI,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202104190PHI.html,0.3,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2021-04-19,202104190PHI,GSW,Nico Mannion,https://www.basketball-reference.com/boxscores/202104190PHI.html,0.15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2021-04-19,202104190PHI,PHI,Seth Curry,https://www.basketball-reference.com/boxscores/202104190PHI.html,35.17,6,15,.400,3,7,.429,0,0,,0,0,0,5,1,0,1,3,15,9.2,-4
+2021-04-19,202104190PHI,PHI,Danny Green,https://www.basketball-reference.com/boxscores/202104190PHI.html,32.68,4,8,.500,4,7,.571,0,0,,2,5,7,2,3,0,1,4,12,12.7,-3
+2021-04-19,202104190PHI,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202104190PHI.html,32.47,8,21,.381,1,3,.333,11,14,.786,2,11,13,8,1,1,4,3,28,22.1,-6
+2021-04-19,202104190PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202104190PHI.html,25.18,4,11,.364,2,7,.286,0,0,,0,0,0,2,1,0,1,2,10,4.5,+6
+2021-04-19,202104190PHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202104190PHI.html,14.02,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+11
+2021-04-19,202104190PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202104190PHI.html,31.22,6,11,.545,1,4,.250,0,0,,1,6,7,1,3,1,0,1,13,14.2,-17
+2021-04-19,202104190PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202104190PHI.html,19.87,1,7,.143,1,2,.500,2,2,1.000,0,1,1,3,0,0,3,1,5,-0.5,-15
+2021-04-19,202104190PHI,PHI,George Hill,https://www.basketball-reference.com/boxscores/202104190PHI.html,17.5,1,5,.200,0,1,.000,0,0,,1,1,2,2,0,2,2,0,2,0.7,-13
+2021-04-19,202104190PHI,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202104190PHI.html,16.18,5,9,.556,0,1,.000,0,0,,0,2,2,0,0,0,0,2,10,5.5,-9
+2021-04-19,202104190PHI,PHI,Dwight Howard,https://www.basketball-reference.com/boxscores/202104190PHI.html,14.75,0,1,.000,0,0,,0,0,,4,6,10,3,0,2,1,4,0,4.8,-5
+2021-04-19,202104190PHI,PHI,Rayjon Tucker,https://www.basketball-reference.com/boxscores/202104190PHI.html,0.48,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,0
+2021-04-19,202104190PHI,PHI,Isaiah Joe,https://www.basketball-reference.com/boxscores/202104190PHI.html,0.48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-07,202203070DEN,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202203070DEN.html,36:28,.585,.543,.522,.261,3.1,6.8,4.8,4.1,1.3,0.0,10.5,33.6,106,130,-3.1
+2022-03-07,202203070DEN,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202203070DEN.html,34:09,.805,.789,.632,.105,0.0,10.8,5.1,33.3,1.4,0.0,20.1,31.2,127,128,9.5
+2022-03-07,202203070DEN,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202203070DEN.html,29:13,.611,.625,.000,.750,22.9,21.1,22.0,17.9,1.6,0.0,8.6,17.1,143,126,2.1
+2022-03-07,202203070DEN,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202203070DEN.html,26:08,.481,.429,.429,.429,0.0,28.3,13.4,4.7,1.8,0.0,0.0,13.6,106,125,-6.4
+2022-03-07,202203070DEN,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202203070DEN.html,21:35,.735,.800,.600,.200,5.2,22.8,13.6,11.6,0.0,0.0,0.0,10.8,155,130,0.2
+2022-03-07,202203070DEN,GSW,Chris Chiozza,https://www.basketball-reference.com/boxscores/202203070DEN.html,29:20,.333,.333,.500,.000,3.8,4.2,4.0,31.4,1.6,0.0,25.0,11.7,104,129,-4.9
+2022-03-07,202203070DEN,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202203070DEN.html,29:12,.775,.722,.444,.333,0.0,16.9,8.0,0.0,0.0,0.0,0.0,15.1,154,130,-1.8
+2022-03-07,202203070DEN,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202203070DEN.html,18:12,.167,.167,.333,.000,0.0,33.8,16.1,31.1,0.0,0.0,33.3,21.2,58,128,-13.8
+2022-03-07,202203070DEN,GSW,Quinndary Weatherspoon,https://www.basketball-reference.com/boxscores/202203070DEN.html,15:43,.935,.900,.200,.400,0.0,15.7,7.4,9.3,0.0,0.0,0.0,16.0,189,130,3.3
+2022-03-07,202203070DEN,DEN,Austin Rivers,https://www.basketball-reference.com/boxscores/202203070DEN.html,34:57,.603,.583,.500,.083,0.0,6.4,3.3,14.5,4.0,0.0,7.4,16.6,115,119,-1.6
+2022-03-07,202203070DEN,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202203070DEN.html,34:44,.691,.706,.000,.824,10.6,38.6,25.3,61.1,0.0,2.9,11.5,32.6,139,120,14.4
+2022-03-07,202203070DEN,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202203070DEN.html,32:27,.682,.636,.273,.455,3.8,13.8,9.0,4.1,0.0,3.1,13.2,20.2,117,125,-6.1
+2022-03-07,202203070DEN,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202203070DEN.html,31:59,.705,.636,.545,.364,0.0,17.5,9.2,28.4,1.5,0.0,0.0,17.2,153,123,4.5
+2022-03-07,202203070DEN,DEN,Aaron Gordon,https://www.basketball-reference.com/boxscores/202203070DEN.html,27:54,.645,.500,.250,1.250,0.0,0.0,0.0,20.2,0.0,3.6,13.9,11.2,134,127,-4.5
+2022-03-07,202203070DEN,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202203070DEN.html,19:32,1.063,1.063,.875,.000,0.0,17.1,9.0,7.9,0.0,5.1,0.0,17.7,180,123,14.7
+2022-03-07,202203070DEN,DEN,JaMychal Green,https://www.basketball-reference.com/boxscores/202203070DEN.html,15:52,1.000,1.000,.000,.000,0.0,21.1,11.1,0.0,0.0,0.0,33.3,8.2,99,126,-10.5
+2022-03-07,202203070DEN,DEN,Bryn Forbes,https://www.basketball-reference.com/boxscores/202203070DEN.html,13:31,.347,.000,1.000,1.000,0.0,0.0,0.0,0.0,3.5,0.0,25.8,12.4,56,122,-16.0
+2022-03-07,202203070DEN,DEN,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202203070DEN.html,13:03,.514,.450,.200,.600,28.3,25.7,26.9,35.3,3.6,7.7,0.0,41.9,125,111,7.9
+2022-03-07,202203070DEN,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202203070DEN.html,10:23,.410,.250,.500,.500,0.0,21.5,11.3,44.7,4.5,0.0,0.0,20.3,120,115,2.5
+2022-03-07,202203070DEN,DEN,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202203070DEN.html,5:38,.000,.000,1.000,.667,0.0,0.0,0.0,18.5,8.4,0.0,0.0,29.8,19,109,-34.6

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-06,202201060PHO,LAC,Eric Bledsoe,https://www.basketball-reference.com/boxscores/202201060PHO.html,35:45,.375,.333,.250,.250,0.0,10.8,6.0,15.7,0.0,0.0,23.1,21.3,63,114,-11.8
+2022-01-06,202201060PHO,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202201060PHO.html,35:34,.647,.559,.353,.412,8.1,10.9,9.6,20.0,0.0,0.0,0.0,24.9,137,114,11.3
+2022-01-06,202201060PHO,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202201060PHO.html,33:06,.592,.600,.200,.800,0.0,9.4,5.2,21.8,1.5,0.0,12.9,10.3,113,111,-1.3
+2022-01-06,202201060PHO,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202201060PHO.html,31:24,.450,.375,.500,.250,0.0,19.7,10.9,19.6,0.0,0.0,22.0,31.9,74,108,-9.5
+2022-01-06,202201060PHO,LAC,Serge Ibaka,https://www.basketball-reference.com/boxscores/202201060PHO.html,19:44,.500,.500,.250,.000,9.7,15.7,13.0,11.4,0.0,3.2,0.0,17.9,109,109,2.2
+2022-01-06,202201060PHO,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202201060PHO.html,26:55,.538,.500,.571,.143,0.0,5.8,3.2,7.0,0.0,0.0,0.0,12.2,109,117,-6.5
+2022-01-06,202201060PHO,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202201060PHO.html,19:56,.388,.333,.083,.167,4.8,7.8,6.5,11.3,4.9,3.2,7.2,30.7,78,103,1.4
+2022-01-06,202201060PHO,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202201060PHO.html,17:36,.129,.000,1.000,.667,0.0,30.8,17.0,17.6,0.0,7.2,0.0,9.7,49,97,-1.7
+2022-01-06,202201060PHO,LAC,Justise Winslow,https://www.basketball-reference.com/boxscores/202201060PHO.html,13:42,.000,.000,.000,.000,0.0,22.6,12.5,22.6,7.2,9.2,50.0,6.4,38,85,6.9
+2022-01-06,202201060PHO,LAC,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202201060PHO.html,2:06,.000,.000,.000,.000,91.4,0.0,40.8,0.0,0.0,30.1,0.0,41.9,56,101,-19.0
+2022-01-06,202201060PHO,LAC,Keon Johnson,https://www.basketball-reference.com/boxscores/202201060PHO.html,2:06,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.9,0,121,-39.9
+2022-01-06,202201060PHO,LAC,Jay Scrubb,https://www.basketball-reference.com/boxscores/202201060PHO.html,2:06,.532,.000,.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.4,119,121,2.4
+2022-01-06,202201060PHO,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202201060PHO.html,39:30,.333,.333,.333,.000,3.9,4.9,4.3,0.0,1.2,0.0,0.0,12.2,85,96,-6.7
+2022-01-06,202201060PHO,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202201060PHO.html,35:28,.806,.786,.500,.143,2.2,16.2,8.5,4.3,1.4,4.7,6.3,18.0,156,89,13.9
+2022-01-06,202201060PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202201060PHO.html,34:21,.470,.429,.357,.143,6.8,27.9,16.2,37.8,2.9,2.4,6.3,18.6,125,84,10.7
+2022-01-06,202201060PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202201060PHO.html,33:28,.240,.227,.318,.091,6.9,20.1,12.8,15.6,0.0,0.0,8.0,29.9,67,95,-11.4
+2022-01-06,202201060PHO,PHO,Jalen Smith,https://www.basketball-reference.com/boxscores/202201060PHO.html,32:47,.545,.559,.118,.059,18.9,17.6,18.3,4.8,0.0,0.0,5.4,22.6,123,95,1.9
+2022-01-06,202201060PHO,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202201060PHO.html,17:46,.530,.500,.111,.111,4.4,21.6,12.1,32.6,2.8,4.7,24.1,28.1,97,85,6.9
+2022-01-06,202201060PHO,PHO,Elfrid Payton,https://www.basketball-reference.com/boxscores/202201060PHO.html,14:32,.429,.429,.000,.000,0.0,13.2,5.9,9.7,0.0,0.0,0.0,19.4,102,97,-4.2
+2022-01-06,202201060PHO,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202201060PHO.html,13:17,.000,.000,.000,.000,5.8,14.5,9.7,0.0,0.0,18.7,0.0,6.1,34,82,-3.9
+2022-01-06,202201060PHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202201060PHO.html,11:04,.500,.500,.250,.000,7.0,0.0,3.9,12.3,0.0,0.0,0.0,14.5,125,100,0.0
+2022-01-06,202201060PHO,PHO,Justin Jackson,https://www.basketball-reference.com/boxscores/202201060PHO.html,5:51,1.000,1.000,.750,.000,0.0,32.8,14.7,0.0,0.0,0.0,0.0,27.5,184,91,33.7
+2022-01-06,202201060PHO,PHO,Paris Bass,https://www.basketball-reference.com/boxscores/202201060PHO.html,1:56,.347,.000,.500,1.000,40.0,49.7,44.3,0.0,0.0,0.0,0.0,59.9,104,86,-9.9

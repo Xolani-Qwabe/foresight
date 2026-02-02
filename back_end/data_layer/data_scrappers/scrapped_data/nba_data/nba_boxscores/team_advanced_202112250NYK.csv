@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-12-25,202112250NYK,ATL,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202112250NYK.html,35:43,.300,.250,.667,.250,0.0,14.3,7.0,17.7,1.5,0.0,13.1,19.6,66,113,-9.6
+2021-12-25,202112250NYK,ATL,Cam Reddish,https://www.basketball-reference.com/boxscores/202112250NYK.html,34:18,.324,.300,.533,.067,0.0,17.9,8.7,15.3,3.0,0.0,11.5,23.2,66,108,-8.2
+2021-12-25,202112250NYK,ATL,Delon Wright,https://www.basketball-reference.com/boxscores/202112250NYK.html,33:57,.769,.769,.385,.000,5.8,6.0,5.9,13.0,4.6,4.0,7.1,18.8,135,105,13.5
+2021-12-25,202112250NYK,ATL,John Collins,https://www.basketball-reference.com/boxscores/202112250NYK.html,32:47,.506,.472,.278,.222,6.0,18.7,12.2,19.3,0.0,8.4,4.8,28.9,103,110,4.4
+2021-12-25,202112250NYK,ATL,Clint Capela,https://www.basketball-reference.com/boxscores/202112250NYK.html,27:46,.311,.286,.000,.857,14.1,18.4,16.2,5.9,0.0,9.9,9.4,17.5,79,108,-9.7
+2021-12-25,202112250NYK,ATL,Skylar Mays,https://www.basketball-reference.com/boxscores/202112250NYK.html,22:33,.500,.500,.545,.000,0.0,0.0,0.0,19.0,4.6,0.0,0.0,22.3,102,109,2.8
+2021-12-25,202112250NYK,ATL,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202112250NYK.html,20:14,.500,.500,.667,.000,0.0,20.2,9.9,42.0,0.0,0.0,14.3,15.8,106,114,5.2
+2021-12-25,202112250NYK,ATL,Jalen Johnson,https://www.basketball-reference.com/boxscores/202112250NYK.html,15:13,.667,.667,.333,.000,0.0,47.0,23.0,0.0,0.0,0.0,40.0,15.0,65,106,-10.0
+2021-12-25,202112250NYK,ATL,Lance Stephenson,https://www.basketball-reference.com/boxscores/202112250NYK.html,13:37,.500,.500,.500,.000,0.0,22.5,11.0,23.9,0.0,0.0,33.3,10.1,86,113,-7.2
+2021-12-25,202112250NYK,ATL,Cat Barber,https://www.basketball-reference.com/boxscores/202112250NYK.html,1:56,,,,,0.0,0.0,0.0,75.2,0.0,0.0,100.0,23.6,42,121,-19.9
+2021-12-25,202112250NYK,ATL,Malcolm Hill,https://www.basketball-reference.com/boxscores/202112250NYK.html,1:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-12.0
+2021-12-25,202112250NYK,NYK,Kemba Walker,https://www.basketball-reference.com/boxscores/202112250NYK.html,40:21,.388,.333,.750,.167,7.6,17.0,12.4,41.5,0.0,0.0,7.2,16.5,124,99,1.0
+2021-12-25,202112250NYK,NYK,Julius Randle,https://www.basketball-reference.com/boxscores/202112250NYK.html,34:19,.746,.800,.600,.267,3.0,31.4,17.5,16.5,1.5,0.0,15.2,27.6,116,91,9.6
+2021-12-25,202112250NYK,NYK,Evan Fournier,https://www.basketball-reference.com/boxscores/202112250NYK.html,31:10,.625,.625,.500,.000,0.0,15.7,8.0,16.1,1.7,0.0,14.3,21.5,107,96,1.4
+2021-12-25,202112250NYK,NYK,Mitchell Robinson,https://www.basketball-reference.com/boxscores/202112250NYK.html,30:25,.694,1.000,.000,1.000,6.7,19.3,13.2,4.5,0.0,16.1,25.8,6.1,116,85,0.0
+2021-12-25,202112250NYK,NYK,RJ Barrett,https://www.basketball-reference.com/boxscores/202112250NYK.html,25:38,.283,.300,.533,.133,0.0,11.5,5.9,24.6,0.0,3.8,0.0,29.7,75,97,-9.4
+2021-12-25,202112250NYK,NYK,Quentin Grimes,https://www.basketball-reference.com/boxscores/202112250NYK.html,25:29,.536,.536,.857,.000,0.0,7.7,3.9,13.2,4.1,0.0,6.7,28.2,99,91,1.9
+2021-12-25,202112250NYK,NYK,Taj Gibson,https://www.basketball-reference.com/boxscores/202112250NYK.html,17:35,1.250,1.250,.500,.000,5.8,11.1,8.5,0.0,2.9,0.0,0.0,5.4,249,94,4.8
+2021-12-25,202112250NYK,NYK,Alec Burks,https://www.basketball-reference.com/boxscores/202112250NYK.html,17:30,.625,.625,.500,.000,11.7,5.6,8.6,16.9,0.0,0.0,20.0,13.7,125,102,-1.6
+2021-12-25,202112250NYK,NYK,Obi Toppin,https://www.basketball-reference.com/boxscores/202112250NYK.html,13:41,.732,.688,.250,.250,0.0,28.6,14.6,17.1,0.0,0.0,0.0,31.1,145,96,14.2
+2021-12-25,202112250NYK,NYK,Tyler Hall,https://www.basketball-reference.com/boxscores/202112250NYK.html,1:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,104,-8.5
+2021-12-25,202112250NYK,NYK,Matt Mooney,https://www.basketball-reference.com/boxscores/202112250NYK.html,1:56,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,26.8,0.0,50.0,49.5,0,43,-22.3

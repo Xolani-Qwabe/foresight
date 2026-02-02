@@ -1,0 +1,71 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-01-25,202201250HOU,SAS,Q1,Keldon Johnson,https://www.basketball-reference.com/boxscores/202201250HOU.html,10.72,3,4,.750,1,2,.500,0,0,1,3,4,1,0,0,1,0,7,6.7,+4,
+2022-01-25,202201250HOU,SAS,Q1,Doug McDermott,https://www.basketball-reference.com/boxscores/202201250HOU.html,6.03,1,2,.500,1,2,.500,0,0,0,0,0,1,0,0,0,1,3,2.3,+4,
+2022-01-25,202201250HOU,SAS,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201250HOU.html,9.17,2,4,.500,1,3,.333,2,2,0,4,4,2,1,0,1,0,7,7.6,-1,1.000
+2022-01-25,202201250HOU,SAS,Q1,Derrick White,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.9,2,3,.667,0,1,.000,0,0,0,0,0,1,0,0,0,0,4,3.4,0,
+2022-01-25,202201250HOU,SAS,Q1,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.58,3,4,.750,0,0,,0,0,0,2,2,2,0,1,0,1,6,6.7,+9,
+2022-01-25,202201250HOU,SAS,Q1,Devin Vassell,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.25,0,2,.000,0,0,,0,0,0,1,1,2,0,0,0,1,0,-0.1,+14,
+2022-01-25,202201250HOU,SAS,Q1,Tre Jones,https://www.basketball-reference.com/boxscores/202201250HOU.html,2.83,1,1,1.000,0,0,,2,2,0,0,0,0,1,0,0,0,4,4.7,+12,1.000
+2022-01-25,202201250HOU,SAS,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201250HOU.html,6.1,0,2,.000,0,2,.000,0,0,0,0,0,2,1,0,0,1,0,0.6,+11,
+2022-01-25,202201250HOU,SAS,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.42,1,3,.333,0,0,,1,1,3,0,3,1,0,0,1,0,3,3.1,+2,1.000
+2022-01-25,202201250HOU,SAS,Q2,Keldon Johnson,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.4,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+1,
+2022-01-25,202201250HOU,SAS,Q2,Doug McDermott,https://www.basketball-reference.com/boxscores/202201250HOU.html,6.5,3,4,.750,1,1,1.000,0,0,1,0,1,0,0,1,0,0,7,6.8,-1,
+2022-01-25,202201250HOU,SAS,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.8,2,5,.400,0,0,,0,0,0,0,0,2,1,0,0,1,4,3.3,-2,
+2022-01-25,202201250HOU,SAS,Q2,Derrick White,https://www.basketball-reference.com/boxscores/202201250HOU.html,8.23,0,1,.000,0,1,.000,1,1,0,1,1,2,0,0,0,1,1,1.6,+7,1.000
+2022-01-25,202201250HOU,SAS,Q2,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201250HOU.html,8.48,4,6,.667,0,0,,0,0,1,3,4,0,0,1,1,0,8,6.7,+9,
+2022-01-25,202201250HOU,SAS,Q2,Devin Vassell,https://www.basketball-reference.com/boxscores/202201250HOU.html,8.18,2,3,.667,2,2,1.000,0,0,0,1,1,2,0,1,0,0,6,7.1,0,
+2022-01-25,202201250HOU,SAS,Q2,Tre Jones,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.28,2,2,1.000,0,0,,0,0,0,1,1,2,0,0,1,0,4,4.1,+8,
+2022-01-25,202201250HOU,SAS,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.6,1,2,.500,0,1,.000,0,0,0,1,1,1,0,0,0,0,2,2.0,+3,
+2022-01-25,202201250HOU,SAS,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201250HOU.html,3.52,0,1,.000,0,0,,0,0,0,1,1,0,0,1,0,1,0,-0.1,-5,
+2022-01-25,202201250HOU,SAS,Q3,Keldon Johnson,https://www.basketball-reference.com/boxscores/202201250HOU.html,9.2,4,6,.667,1,3,.333,0,0,0,0,0,0,2,0,0,2,9,7.6,+12,
+2022-01-25,202201250HOU,SAS,Q3,Doug McDermott,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.58,1,3,.333,1,1,1.000,0,0,0,1,1,0,0,0,0,1,3,1.2,+8,
+2022-01-25,202201250HOU,SAS,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202201250HOU.html,9.2,4,6,.667,0,2,.000,0,0,0,1,1,6,1,0,1,3,8,8.7,+12,
+2022-01-25,202201250HOU,SAS,Q3,Derrick White,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.4,0,1,.000,0,1,.000,0,0,0,1,1,3,0,0,0,0,0,1.7,+10,
+2022-01-25,202201250HOU,SAS,Q3,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.78,2,3,.667,0,0,,0,0,1,2,3,1,0,0,0,0,4,4.7,+4,
+2022-01-25,202201250HOU,SAS,Q3,Devin Vassell,https://www.basketball-reference.com/boxscores/202201250HOU.html,6.05,1,1,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,3,3.7,+10,
+2022-01-25,202201250HOU,SAS,Q3,Tre Jones,https://www.basketball-reference.com/boxscores/202201250HOU.html,2.8,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+4,
+2022-01-25,202201250HOU,SAS,Q3,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.77,1,4,.250,0,1,.000,0,0,0,0,0,0,0,0,0,0,2,-0.4,+8,
+2022-01-25,202201250HOU,SAS,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.22,5,5,1.000,0,0,,0,0,2,3,5,1,0,0,1,2,10,9.7,+12,
+2022-01-25,202201250HOU,SAS,Q4,Doug McDermott,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.75,1,2,.500,0,1,.000,0,0,1,1,2,1,0,0,1,2,2,0.9,-6,
+2022-01-25,202201250HOU,SAS,Q4,Derrick White,https://www.basketball-reference.com/boxscores/202201250HOU.html,1.72,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-1,
+2022-01-25,202201250HOU,SAS,Q4,Devin Vassell,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.25,1,4,.250,1,2,.500,0,0,0,1,1,1,0,0,0,1,3,1.2,+5,
+2022-01-25,202201250HOU,SAS,Q4,Tre Jones,https://www.basketball-reference.com/boxscores/202201250HOU.html,12.0,3,4,.750,0,1,.000,0,0,0,1,1,2,0,0,0,0,6,6.1,-1,
+2022-01-25,202201250HOU,SAS,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.75,0,2,.000,0,0,,0,0,0,1,1,0,0,0,1,0,0,-2.1,-6,
+2022-01-25,202201250HOU,SAS,Q4,Thaddeus Young,https://www.basketball-reference.com/boxscores/202201250HOU.html,12.0,6,8,.750,0,2,.000,0,0,1,2,3,1,1,0,1,2,12,10.0,-1,
+2022-01-25,202201250HOU,SAS,Q4,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202201250HOU.html,10.28,0,0,,0,0,,0,0,0,3,3,0,0,0,0,0,0,0.9,0,
+2022-01-25,202201250HOU,SAS,Q4,Jock Landale,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.25,2,2,1.000,2,2,1.000,0,0,0,2,2,0,0,0,2,1,6,3.6,+5,
+2022-01-25,202201250HOU,HOU,Q1,Jalen Green,https://www.basketball-reference.com/boxscores/202201250HOU.html,8.47,2,6,.333,1,3,.333,0,0,0,0,0,0,0,0,0,0,5,1.6,-1,
+2022-01-25,202201250HOU,HOU,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202201250HOU.html,10.72,2,4,.500,0,1,.000,2,2,1,2,3,5,0,0,1,2,6,7.0,-4,1.000
+2022-01-25,202201250HOU,HOU,Q1,Eric Gordon,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.97,2,3,.667,0,1,.000,0,0,1,1,2,0,0,0,1,0,4,2.7,-3,
+2022-01-25,202201250HOU,HOU,Q1,Christian Wood,https://www.basketball-reference.com/boxscores/202201250HOU.html,10.72,2,4,.500,0,1,.000,0,2,0,3,3,0,0,0,0,0,4,2.1,-4,.000
+2022-01-25,202201250HOU,HOU,Q1,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202201250HOU.html,6.68,1,2,.500,1,1,1.000,1,2,1,0,1,1,2,0,0,1,4,5.6,+4,.500
+2022-01-25,202201250HOU,HOU,Q1,KJ Martin,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.32,0,0,,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.7,-15,
+2022-01-25,202201250HOU,HOU,Q1,Garrison Mathews,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.32,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-15,
+2022-01-25,202201250HOU,HOU,Q1,Alperen Şengün,https://www.basketball-reference.com/boxscores/202201250HOU.html,1.28,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1,0,-2.4,-7,
+2022-01-25,202201250HOU,HOU,Q1,Armoni Brooks,https://www.basketball-reference.com/boxscores/202201250HOU.html,3.53,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-10,
+2022-01-25,202201250HOU,HOU,Q2,Jalen Green,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.42,0,2,.000,0,1,.000,0,0,1,0,1,0,0,0,1,0,0,-1.7,-3,
+2022-01-25,202201250HOU,HOU,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.5,2,3,.667,1,1,1.000,0,1,0,0,0,2,0,0,0,0,5,4.7,-5,.000
+2022-01-25,202201250HOU,HOU,Q2,Eric Gordon,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.93,0,3,.000,0,0,,3,3,2,1,3,1,0,0,0,0,3,3.3,-1,1.000
+2022-01-25,202201250HOU,HOU,Q2,Christian Wood,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.42,2,2,1.000,2,2,1.000,0,0,0,1,1,0,0,0,0,0,6,5.7,-3,
+2022-01-25,202201250HOU,HOU,Q2,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202201250HOU.html,6.15,1,4,.250,0,1,.000,2,2,2,1,3,0,1,0,0,1,4,3.9,+2,1.000
+2022-01-25,202201250HOU,HOU,Q2,KJ Martin,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.85,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-6,
+2022-01-25,202201250HOU,HOU,Q2,Garrison Mathews,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.58,0,2,.000,0,0,,0,0,0,2,2,0,0,0,1,0,0,-1.8,-1,
+2022-01-25,202201250HOU,HOU,Q2,Josh Christopher,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.58,1,3,.333,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,0.6,+2,
+2022-01-25,202201250HOU,HOU,Q2,Alperen Şengün,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.58,4,5,.800,0,0,,0,0,1,1,2,0,0,1,0,0,8,7.8,-1,
+2022-01-25,202201250HOU,HOU,Q2,Armoni Brooks,https://www.basketball-reference.com/boxscores/202201250HOU.html,2.98,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-4,
+2022-01-25,202201250HOU,HOU,Q3,Jalen Green,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.82,0,1,.000,0,0,,0,0,0,1,1,0,0,0,1,2,0,-2.2,-11,
+2022-01-25,202201250HOU,HOU,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202201250HOU.html,10.05,1,5,.200,1,2,.500,2,2,0,2,2,2,0,0,3,0,5,0.9,-10,1.000
+2022-01-25,202201250HOU,HOU,Q3,Eric Gordon,https://www.basketball-reference.com/boxscores/202201250HOU.html,8.18,0,2,.000,0,2,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-14,
+2022-01-25,202201250HOU,HOU,Q3,Christian Wood,https://www.basketball-reference.com/boxscores/202201250HOU.html,9.2,2,5,.400,0,2,.000,1,2,2,1,3,0,0,0,2,2,5,0.8,-12,.500
+2022-01-25,202201250HOU,HOU,Q3,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202201250HOU.html,6.23,3,5,.600,0,1,.000,0,0,1,1,2,1,0,0,1,2,6,3.6,-8,
+2022-01-25,202201250HOU,HOU,Q3,KJ Martin,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.77,1,1,1.000,0,0,,0,0,1,2,3,0,0,0,0,0,2,3.0,-8,
+2022-01-25,202201250HOU,HOU,Q3,Garrison Mathews,https://www.basketball-reference.com/boxscores/202201250HOU.html,5.77,0,1,.000,0,1,.000,2,2,0,0,0,0,0,0,0,0,2,1.3,-8,1.000
+2022-01-25,202201250HOU,HOU,Q3,Josh Christopher,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-5,
+2022-01-25,202201250HOU,HOU,Q3,Alperen Şengün,https://www.basketball-reference.com/boxscores/202201250HOU.html,2.8,1,2,.500,0,0,,1,2,0,0,0,0,0,1,0,0,3,2.3,-4,.500
+2022-01-25,202201250HOU,HOU,Q4,Jalen Green,https://www.basketball-reference.com/boxscores/202201250HOU.html,11.15,1,7,.143,0,4,.000,0,0,0,2,2,1,0,0,0,0,2,-1.2,+3,
+2022-01-25,202201250HOU,HOU,Q4,Eric Gordon,https://www.basketball-reference.com/boxscores/202201250HOU.html,0.85,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-2,
+2022-01-25,202201250HOU,HOU,Q4,KJ Martin,https://www.basketball-reference.com/boxscores/202201250HOU.html,12.0,5,5,1.000,1,1,1.000,0,1,1,3,4,2,2,0,0,0,11,14.1,+1,.000
+2022-01-25,202201250HOU,HOU,Q4,Garrison Mathews,https://www.basketball-reference.com/boxscores/202201250HOU.html,7.02,1,1,1.000,1,1,1.000,0,0,0,0,0,1,0,0,0,0,3,3.4,+1,
+2022-01-25,202201250HOU,HOU,Q4,Josh Christopher,https://www.basketball-reference.com/boxscores/202201250HOU.html,12.0,5,6,.833,1,2,.500,0,0,0,1,1,3,2,0,1,0,11,12.2,+1,
+2022-01-25,202201250HOU,HOU,Q4,Alperen Şengün,https://www.basketball-reference.com/boxscores/202201250HOU.html,12.0,0,6,.000,0,2,.000,3,4,2,1,3,1,1,1,1,0,3,1.5,+1,.750
+2022-01-25,202201250HOU,HOU,Q4,Armoni Brooks,https://www.basketball-reference.com/boxscores/202201250HOU.html,4.98,0,0,,0,0,,0,0,1,0,1,0,0,0,0,0,0,0.7,0,

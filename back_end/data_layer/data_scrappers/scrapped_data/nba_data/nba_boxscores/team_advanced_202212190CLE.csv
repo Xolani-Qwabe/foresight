@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-12-19,202212190CLE,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202212190CLE.html,32:10,.505,.452,.286,.190,2.7,6.2,3.7,0.0,1.5,0.0,11.6,32.8,94,127,-2.2
+2022-12-19,202212190CLE,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202212190CLE.html,31:54,.732,.708,.500,.833,2.7,31.3,11.3,5.9,3.1,0.0,10.9,23.6,133,122,10.4
+2022-12-19,202212190CLE,UTA,Mike Conley,https://www.basketball-reference.com/boxscores/202212190CLE.html,28:23,.438,.438,.375,.000,3.0,7.0,4.2,49.2,3.4,0.0,27.3,15.9,96,122,0.0
+2022-12-19,202212190CLE,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202212190CLE.html,25:29,.814,1.000,.000,.800,6.7,31.4,14.1,7.1,1.9,8.6,12.9,12.5,138,118,4.2
+2022-12-19,202212190CLE,UTA,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202212190CLE.html,23:51,.470,.429,.143,.143,10.8,25.2,15.1,0.0,0.0,0.0,28.7,17.9,78,129,-11.2
+2022-12-19,202212190CLE,UTA,Malik Beasley,https://www.basketball-reference.com/boxscores/202212190CLE.html,23:02,.150,.150,.900,.000,3.7,17.4,7.8,12.3,0.0,0.0,0.0,17.8,52,130,-13.4
+2022-12-19,202212190CLE,UTA,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202212190CLE.html,19:07,.286,.286,.143,.000,4.5,10.5,6.3,24.3,0.0,0.0,0.0,15.0,88,130,-8.5
+2022-12-19,202212190CLE,UTA,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202212190CLE.html,14:31,.381,.286,.286,.286,5.9,0.0,4.1,0.0,3.4,0.0,20.2,27.9,70,123,-11.1
+2022-12-19,202212190CLE,UTA,Rudy Gay,https://www.basketball-reference.com/boxscores/202212190CLE.html,12:29,.644,.500,.667,.667,6.9,16.0,9.6,12.0,0.0,0.0,0.0,12.7,154,130,4.1
+2022-12-19,202212190CLE,UTA,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202212190CLE.html,10:19,.375,.375,.750,.000,0.0,0.0,0.0,0.0,4.7,0.0,0.0,15.9,83,120,-1.2
+2022-12-19,202212190CLE,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202212190CLE.html,6:15,.000,.000,.500,.000,0.0,0.0,0.0,21.3,0.0,0.0,0.0,13.1,29,131,-15.7
+2022-12-19,202212190CLE,UTA,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202212190CLE.html,6:15,.667,.667,.000,.000,27.4,64.0,38.4,37.2,0.0,0.0,0.0,19.7,156,127,13.5
+2022-12-19,202212190CLE,UTA,Leandro Bolmaro,https://www.basketball-reference.com/boxscores/202212190CLE.html,6:15,.250,.250,.000,.000,13.7,0.0,9.6,0.0,7.8,0.0,0.0,26.2,69,113,-3.5
+2022-12-19,202212190CLE,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202212190CLE.html,30:39,.694,.667,.167,1.000,0.0,22.4,15.7,12.8,0.0,0.0,10.4,14.7,138,100,3.2
+2022-12-19,202212190CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202212190CLE.html,30:06,.743,.727,.364,.091,0.0,2.8,2.0,40.1,0.0,0.0,34.4,27.1,114,109,-2.3
+2022-12-19,202212190CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202212190CLE.html,30:05,.733,.636,.000,.545,13.3,25.6,21.9,10.0,3.2,8.1,18.0,25.9,131,86,8.0
+2022-12-19,202212190CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202212190CLE.html,30:03,.615,.563,.500,.500,6.7,2.9,4.0,17.5,1.6,0.0,9.3,16.8,134,105,3.1
+2022-12-19,202212190CLE,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202212190CLE.html,22:38,.863,.833,.417,.250,0.0,7.6,5.3,8.1,0.0,0.0,7.0,29.6,153,106,8.7
+2022-12-19,202212190CLE,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202212190CLE.html,31:13,.666,.625,.375,.500,6.4,8.2,7.7,4.2,0.0,0.0,17.0,17.7,117,107,-1.9
+2022-12-19,202212190CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202212190CLE.html,24:15,1.011,1.050,.600,.200,0.0,7.1,4.9,7.3,2.0,0.0,15.5,24.9,150,103,16.1
+2022-12-19,202212190CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202212190CLE.html,24:05,.500,.500,1.000,.000,0.0,35.6,24.9,14.6,0.0,3.4,40.0,9.7,90,92,3.4
+2022-12-19,202212190CLE,CLE,Raul Neto,https://www.basketball-reference.com/boxscores/202212190CLE.html,12:00,,,,,0.0,14.3,10.0,9.3,4.1,0.0,100.0,7.8,35,94,-6.7
+2022-12-19,202212190CLE,CLE,Robin Lopez,https://www.basketball-reference.com/boxscores/202212190CLE.html,4:56,.000,.000,.000,.000,0.0,52.1,36.5,0.0,0.0,0.0,50.0,19.0,0,86,-21.2

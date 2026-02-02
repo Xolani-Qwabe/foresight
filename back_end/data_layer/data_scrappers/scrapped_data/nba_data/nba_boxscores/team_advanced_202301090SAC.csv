@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-09,202301090SAC,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202301090SAC.html,32:15,.585,.545,.636,.727,0.0,27.7,13.4,17.7,4.4,0.0,6.4,20.7,121,127,4.6
+2023-01-09,202301090SAC,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202301090SAC.html,29:07,.667,.667,.417,.000,0.0,7.7,3.7,5.6,0.0,0.0,7.7,19.2,118,142,-5.7
+2023-01-09,202301090SAC,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202301090SAC.html,28:06,.800,.800,.000,.000,3.7,4.0,3.8,31.2,0.0,3.3,16.7,18.3,140,141,1.8
+2023-01-09,202301090SAC,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202301090SAC.html,26:53,.582,.583,.333,.167,7.8,20.8,14.0,17.7,0.0,10.5,13.4,23.8,111,132,0.9
+2023-01-09,202301090SAC,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202301090SAC.html,23:51,.667,.667,.667,.000,4.4,4.7,4.5,5.8,4.0,0.0,25.0,14.4,101,133,-3.3
+2023-01-09,202301090SAC,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202301090SAC.html,28:37,.288,.231,.385,.154,3.6,23.4,13.2,14.0,1.7,3.3,6.7,22.3,73,132,-12.2
+2023-01-09,202301090SAC,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202301090SAC.html,24:09,.595,.500,.700,.400,8.6,9.2,8.9,24.1,0.0,0.0,14.5,24.5,120,142,-0.8
+2023-01-09,202301090SAC,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202301090SAC.html,17:36,.761,.786,.857,.286,5.9,31.7,18.4,18.1,2.7,0.0,20.2,24.1,121,130,3.2
+2023-01-09,202301090SAC,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202301090SAC.html,13:22,.500,.500,.667,.000,0.0,8.4,4.0,0.0,0.0,0.0,0.0,9.6,100,142,-8.6
+2023-01-09,202301090SAC,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202301090SAC.html,9:32,.205,.000,.750,.500,0.0,0.0,0.0,0.0,0.0,19.7,0.0,22.0,48,130,-17.1
+2023-01-09,202301090SAC,ORL,Caleb Houstan,https://www.basketball-reference.com/boxscores/202301090SAC.html,6:32,.000,.000,.500,.000,16.0,17.1,16.5,17.9,0.0,0.0,0.0,13.1,63,140,-12.3
+2023-01-09,202301090SAC,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202301090SAC.html,31:47,.466,.458,.083,.167,7.0,26.3,17.0,27.2,0.0,0.0,18.9,21.2,110,110,-1.5
+2023-01-09,202301090SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202301090SAC.html,30:28,1.047,1.077,.538,.231,0.0,3.4,1.8,4.5,0.0,0.0,6.5,21.3,175,116,13.5
+2023-01-09,202301090SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202301090SAC.html,28:34,.393,.393,.500,.000,3.9,3.7,3.8,34.7,0.0,0.0,12.5,23.7,107,116,-7.7
+2023-01-09,202301090SAC,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202301090SAC.html,26:15,1.071,1.071,.857,.000,4.3,8.0,6.2,12.8,1.8,0.0,0.0,11.3,205,110,13.7
+2023-01-09,202301090SAC,SAC,Kevin Huerter,https://www.basketball-reference.com/boxscores/202301090SAC.html,21:50,.583,.583,.667,.000,0.0,14.3,7.4,21.4,2.2,0.0,14.3,27.2,110,108,-1.6
+2023-01-09,202301090SAC,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202301090SAC.html,26:19,.589,.545,.364,.182,4.2,23.8,14.3,26.7,0.0,4.0,7.8,20.7,135,108,1.1
+2023-01-09,202301090SAC,SAC,Trey Lyles,https://www.basketball-reference.com/boxscores/202301090SAC.html,16:12,.717,.688,.625,.500,0.0,32.2,16.6,14.8,0.0,0.0,0.0,25.5,151,109,9.9
+2023-01-09,202301090SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202301090SAC.html,15:49,.833,.833,.667,.000,7.1,19.8,13.6,6.6,3.0,0.0,0.0,8.0,179,105,4.7
+2023-01-09,202301090SAC,SAC,Chimezie Metu,https://www.basketball-reference.com/boxscores/202301090SAC.html,14:07,.739,.714,.000,.143,23.7,44.4,34.4,19.4,0.0,0.0,11.8,25.3,149,105,4.9
+2023-01-09,202301090SAC,SAC,KZ Okpala,https://www.basketball-reference.com/boxscores/202301090SAC.html,10:42,.625,.625,.750,.000,10.4,0.0,5.0,10.4,0.0,0.0,0.0,15.8,145,116,-0.2
+2023-01-09,202301090SAC,SAC,Terence Davis,https://www.basketball-reference.com/boxscores/202301090SAC.html,6:10,.250,.250,.250,.000,18.1,16.9,17.5,17.6,7.7,0.0,20.0,34.4,71,95,-12.8
+2023-01-09,202301090SAC,SAC,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202301090SAC.html,4:53,1.500,1.500,1.000,.000,0.0,0.0,0.0,23.3,0.0,0.0,0.0,8.7,277,117,16.7
+2023-01-09,202301090SAC,SAC,PJ Dozier,https://www.basketball-reference.com/boxscores/202301090SAC.html,4:46,.000,.000,1.000,.000,0.0,21.9,11.3,0.0,0.0,0.0,0.0,8.9,0,111,-15.3
+2023-01-09,202301090SAC,SAC,Richaun Holmes,https://www.basketball-reference.com/boxscores/202301090SAC.html,2:06,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-7.0

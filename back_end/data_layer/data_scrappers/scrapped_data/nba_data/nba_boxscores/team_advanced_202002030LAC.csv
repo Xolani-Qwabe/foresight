@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-03,202002030LAC,SAS,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202002030LAC.html,34:13,.507,.478,.000,.261,0.0,15.6,7.2,11.4,2.8,0.0,10.5,37.2,91,107,-0.9
+2020-02-03,202002030LAC,SAS,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202002030LAC.html,33:39,.672,.588,.294,.412,0.0,28.5,13.2,26.3,0.0,5.0,4.7,27.8,134,107,12.7
+2020-02-03,202002030LAC,SAS,Trey Lyles,https://www.basketball-reference.com/boxscores/202002030LAC.html,25:50,.625,.625,.750,.000,7.1,12.4,9.6,0.0,0.0,3.3,0.0,13.8,128,110,-0.3
+2020-02-03,202002030LAC,SAS,Dejounte Murray,https://www.basketball-reference.com/boxscores/202002030LAC.html,24:35,.143,.143,.143,.000,3.8,17.4,10.1,0.0,3.9,0.0,12.5,14.5,35,104,-11.6
+2020-02-03,202002030LAC,SAS,Bryn Forbes,https://www.basketball-reference.com/boxscores/202002030LAC.html,23:25,.450,.375,.875,.250,0.0,4.6,2.1,11.4,0.0,0.0,0.0,16.8,99,114,-5.6
+2020-02-03,202002030LAC,SAS,Patty Mills,https://www.basketball-reference.com/boxscores/202002030LAC.html,24:44,.692,.692,1.000,.000,0.0,8.6,4.0,13.7,1.9,0.0,0.0,23.4,132,110,11.3
+2020-02-03,202002030LAC,SAS,Derrick White,https://www.basketball-reference.com/boxscores/202002030LAC.html,23:25,.286,.286,.429,.000,0.0,36.4,16.9,34.3,0.0,7.2,0.0,13.3,91,104,2.4
+2020-02-03,202002030LAC,SAS,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202002030LAC.html,20:49,.250,.250,.000,.000,0.0,10.2,4.8,0.0,0.0,4.0,0.0,8.5,50,110,-8.6
+2020-02-03,202002030LAC,SAS,Rudy Gay,https://www.basketball-reference.com/boxscores/202002030LAC.html,15:00,.400,.400,.400,.000,0.0,21.3,9.9,19.0,0.0,0.0,0.0,14.8,94,112,-4.3
+2020-02-03,202002030LAC,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202002030LAC.html,14:20,.581,.667,.000,.333,19.3,22.3,20.7,20.1,0.0,17.6,22.5,13.8,125,95,7.6
+2020-02-03,202002030LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202002030LAC.html,31:44,.586,.529,.176,.235,3.4,14.5,9.4,39.4,1.5,5.2,13.8,30.9,110,99,10.0
+2020-02-03,202002030LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202002030LAC.html,31:12,.591,.500,.385,.538,0.0,35.5,19.0,41.3,0.0,0.0,11.1,26.1,119,104,6.7
+2020-02-03,202002030LAC,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/202002030LAC.html,26:15,.750,.750,.875,.000,0.0,14.1,7.5,28.9,0.0,0.0,20.0,17.2,118,107,6.6
+2020-02-03,202002030LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202002030LAC.html,23:02,.666,.600,.000,.800,9.3,24.0,17.2,0.0,0.0,0.0,12.9,15.2,124,105,-2.8
+2020-02-03,202002030LAC,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/202002030LAC.html,21:28,.875,.875,.250,.000,5.0,12.9,9.2,6.9,2.2,0.0,20.0,10.5,132,102,4.5
+2020-02-03,202002030LAC,LAC,Landry Shamet,https://www.basketball-reference.com/boxscores/202002030LAC.html,28:24,.333,.333,.667,.000,0.0,3.3,1.7,9.1,1.7,0.0,0.0,4.8,92,106,-2.9
+2020-02-03,202002030LAC,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202002030LAC.html,24:45,.636,.636,.000,.000,0.0,11.2,6.0,7.6,0.0,0.0,15.4,23.7,96,108,-3.3
+2020-02-03,202002030LAC,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/202002030LAC.html,23:05,.398,.250,.083,.583,0.0,4.0,2.1,25.4,0.0,0.0,6.2,31.4,88,109,-7.5
+2020-02-03,202002030LAC,LAC,JaMychal Green,https://www.basketball-reference.com/boxscores/202002030LAC.html,17:17,.455,.500,.778,.222,6.2,32.0,20.0,0.0,0.0,0.0,0.0,25.7,87,104,-1.2
+2020-02-03,202002030LAC,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/202002030LAC.html,12:48,.500,.500,.500,.000,0.0,36.1,19.3,0.0,0.0,0.0,0.0,7.0,93,103,-2.7

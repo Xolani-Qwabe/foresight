@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-06-14,202106140LAC,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202106140LAC.html,39.67,9,26,.346,6,15,.400,13,15,.867,1,4,5,5,1,0,5,5,37,21.0,-15
+2021-06-14,202106140LAC,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202106140LAC.html,38.92,6,12,.500,2,5,.400,4,5,.800,0,3,3,5,2,0,1,5,18,15.0,-8
+2021-06-14,202106140LAC,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202106140LAC.html,36.97,3,6,.500,2,4,.500,0,0,,0,8,8,2,0,0,2,4,8,5.2,-12
+2021-06-14,202106140LAC,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202106140LAC.html,31.52,4,4,1.000,0,0,,3,4,.750,2,6,8,0,0,1,0,5,11,11.3,-1
+2021-06-14,202106140LAC,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202106140LAC.html,27.43,7,9,.778,5,7,.714,0,0,,0,3,3,3,1,0,0,4,19,17.9,+4
+2021-06-14,202106140LAC,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202106140LAC.html,30.18,3,12,.250,2,8,.250,0,0,,1,4,5,2,0,0,3,2,8,0.3,-16
+2021-06-14,202106140LAC,UTA,Derrick Favors,https://www.basketball-reference.com/boxscores/202106140LAC.html,15.33,1,4,.250,0,0,,0,0,,4,0,4,0,0,2,0,3,2,2.6,-14
+2021-06-14,202106140LAC,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202106140LAC.html,12.87,0,2,.000,0,2,.000,0,0,,0,2,2,2,0,0,0,4,0,-1.0,-13
+2021-06-14,202106140LAC,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202106140LAC.html,2.52,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1
+2021-06-14,202106140LAC,UTA,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.15,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,+1
+2021-06-14,202106140LAC,UTA,Udoka Azubuike,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.15,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1
+2021-06-14,202106140LAC,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.15,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1
+2021-06-14,202106140LAC,UTA,Matt Thomas,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+2021-06-14,202106140LAC,LAC,Paul George,https://www.basketball-reference.com/boxscores/202106140LAC.html,40.23,9,20,.450,4,10,.400,9,10,.900,2,7,9,4,1,0,4,5,31,21.5,+4
+2021-06-14,202106140LAC,LAC,Marcus Morris,https://www.basketball-reference.com/boxscores/202106140LAC.html,34.83,6,11,.545,5,6,.833,7,8,.875,1,5,6,1,1,0,0,3,24,21.0,+11
+2021-06-14,202106140LAC,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202106140LAC.html,34.3,9,19,.474,3,7,.429,10,13,.769,2,5,7,3,2,1,2,3,31,24.6,+14
+2021-06-14,202106140LAC,LAC,Nicolas Batum,https://www.basketball-reference.com/boxscores/202106140LAC.html,32.18,2,8,.250,1,6,.167,2,2,1.000,2,5,7,4,3,1,0,1,7,11.2,+11
+2021-06-14,202106140LAC,LAC,Reggie Jackson,https://www.basketball-reference.com/boxscores/202106140LAC.html,28.53,2,4,.500,0,2,.000,0,0,,0,1,1,3,0,0,0,3,4,3.2,+9
+2021-06-14,202106140LAC,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/202106140LAC.html,20.33,1,1,1.000,0,0,,0,0,,0,3,3,3,1,4,1,1,2,7.1,+3
+2021-06-14,202106140LAC,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/202106140LAC.html,17.73,3,3,1.000,0,0,,2,4,.500,2,3,5,1,0,1,3,5,8,5.0,0
+2021-06-14,202106140LAC,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202106140LAC.html,15.22,1,5,.200,0,2,.000,1,1,1.000,1,3,4,0,0,0,0,2,3,0.7,+15
+2021-06-14,202106140LAC,LAC,Luke Kennard,https://www.basketball-reference.com/boxscores/202106140LAC.html,12.12,3,5,.600,2,4,.500,0,0,,0,1,1,0,0,0,0,1,8,5.6,+6
+2021-06-14,202106140LAC,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2021-06-14,202106140LAC,LAC,Yogi Ferrell,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.15,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1
+2021-06-14,202106140LAC,LAC,Daniel Oturu,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.15,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1
+2021-06-14,202106140LAC,LAC,Jay Scrubb,https://www.basketball-reference.com/boxscores/202106140LAC.html,1.07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0

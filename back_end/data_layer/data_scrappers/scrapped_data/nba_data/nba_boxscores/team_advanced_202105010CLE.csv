@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-05-01,202105010CLE,MIA,Kendrick Nunn,https://www.basketball-reference.com/boxscores/202105010CLE.html,36:17,.786,.786,.429,.000,3.3,3.7,3.5,15.1,3.0,0.0,12.5,20.8,140,122,3.8
+2021-05-01,202105010CLE,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202105010CLE.html,33:00,.468,.462,.000,.154,7.3,32.3,19.1,22.8,6.5,0.0,0.0,19.9,127,106,3.6
+2021-05-01,202105010CLE,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202105010CLE.html,29:30,.555,.400,.200,.800,4.1,13.6,8.6,16.1,3.6,0.0,6.9,23.3,128,118,-1.7
+2021-05-01,202105010CLE,MIA,Trevor Ariza,https://www.basketball-reference.com/boxscores/202105010CLE.html,23:41,.827,.800,.500,.200,5.1,5.6,5.3,12.4,2.3,6.0,15.5,25.7,139,120,7.1
+2021-05-01,202105010CLE,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202105010CLE.html,21:14,1.000,1.000,.900,.000,0.0,0.0,0.0,7.3,0.0,0.0,0.0,22.2,184,130,14.5
+2021-05-01,202105010CLE,MIA,Goran Dragić,https://www.basketball-reference.com/boxscores/202105010CLE.html,29:24,.450,.450,.300,.000,4.1,18.1,10.7,28.2,0.0,0.0,23.1,20.9,102,126,-9.8
+2021-05-01,202105010CLE,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202105010CLE.html,25:52,.632,.654,.692,.077,4.6,15.5,9.8,10.9,4.1,0.0,0.0,24.5,134,116,4.3
+2021-05-01,202105010CLE,MIA,Andre Iguodala,https://www.basketball-reference.com/boxscores/202105010CLE.html,22:42,.820,.750,.500,.500,5.3,23.5,13.9,14.8,2.4,0.0,0.0,10.2,186,119,6.2
+2021-05-01,202105010CLE,MIA,Dewayne Dedmon,https://www.basketball-reference.com/boxscores/202105010CLE.html,13:20,.333,.333,.000,.000,18.0,20.0,18.9,8.3,0.0,0.0,0.0,10.6,125,125,-10.2
+2021-05-01,202105010CLE,MIA,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202105010CLE.html,1:40,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-9.4
+2021-05-01,202105010CLE,MIA,KZ Okpala,https://www.basketball-reference.com/boxscores/202105010CLE.html,1:40,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-8.2
+2021-05-01,202105010CLE,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202105010CLE.html,1:40,,,,,0.0,80.0,37.9,0.0,0.0,0.0,,0.0,0,107,-29.4
+2021-05-01,202105010CLE,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202105010CLE.html,38:50,.531,.500,.300,.400,10.3,3.1,6.5,36.5,2.8,2.4,7.8,31.7,123,135,1.1
+2021-05-01,202105010CLE,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202105010CLE.html,37:57,.558,.538,.538,.077,7.0,15.8,11.6,47.3,1.4,0.0,27.1,23.4,116,137,-1.4
+2021-05-01,202105010CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202105010CLE.html,35:42,.773,.667,.000,.667,11.2,37.0,24.8,7.8,0.0,2.6,43.6,9.3,114,134,-6.1
+2021-05-01,202105010CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202105010CLE.html,29:06,.893,.893,.714,.000,0.0,24.7,13.0,22.3,0.0,0.0,17.6,28.2,128,139,9.3
+2021-05-01,202105010CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202105010CLE.html,28:33,.637,.500,.167,1.000,0.0,12.6,6.6,5.3,0.0,0.0,10.4,16.3,124,141,-11.5
+2021-05-01,202105010CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202105010CLE.html,30:28,.900,.900,1.000,.000,0.0,7.9,4.1,5.7,0.0,0.0,0.0,15.8,162,143,5.2
+2021-05-01,202105010CLE,CLE,Damyean Dotson,https://www.basketball-reference.com/boxscores/202105010CLE.html,16:25,.500,.500,.800,.000,0.0,14.6,7.7,18.8,0.0,0.0,16.7,17.6,100,141,-10.1
+2021-05-01,202105010CLE,CLE,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202105010CLE.html,12:18,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,7.7,0.0,3.9,0,138,-14.5
+2021-05-01,202105010CLE,CLE,Brodric Thomas,https://www.basketball-reference.com/boxscores/202105010CLE.html,10:41,.500,.500,.500,.000,12.5,0.0,5.9,27.6,0.0,8.8,60.0,22.6,71,137,-14.2

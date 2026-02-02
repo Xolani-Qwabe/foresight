@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-11-27,202211270MIL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202211270MIL.html,38.03,5,9,.556,2,6,.333,1,1,1.000,4,0,4,3,3,0,0,2,13,15.8,-15
+2022-11-27,202211270MIL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202211270MIL.html,35.08,10,20,.500,3,7,.429,4,9,.444,0,5,5,12,0,0,6,2,27,18.1,-10
+2022-11-27,202211270MIL,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202211270MIL.html,31.17,8,13,.615,3,6,.500,3,3,1.000,0,3,3,2,0,0,1,2,22,16.6,-16
+2022-11-27,202211270MIL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202211270MIL.html,20.97,2,8,.250,2,6,.333,0,0,,0,0,0,0,0,0,1,0,6,0.2,-14
+2022-11-27,202211270MIL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202211270MIL.html,7.73,1,1,1.000,0,0,,2,4,.500,0,0,0,0,0,1,0,0,4,3.6,-4
+2022-11-27,202211270MIL,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202211270MIL.html,32.08,8,17,.471,2,6,.333,3,4,.750,0,7,7,2,1,0,1,4,21,13.8,+5
+2022-11-27,202211270MIL,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202211270MIL.html,24.28,2,3,.667,2,3,.667,0,0,,2,2,4,3,0,1,1,2,6,7.7,0
+2022-11-27,202211270MIL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202211270MIL.html,19.97,2,3,.667,1,2,.500,3,4,.750,0,4,4,0,1,0,1,2,8,6.7,+5
+2022-11-27,202211270MIL,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202211270MIL.html,16.85,1,3,.333,1,3,.333,0,0,,0,2,2,1,0,0,0,2,3,1.8,-1
+2022-11-27,202211270MIL,DAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202211270MIL.html,3.53,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,2,0.6,-10
+2022-11-27,202211270MIL,DAL,Facundo Campazzo,https://www.basketball-reference.com/boxscores/202211270MIL.html,3.43,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+5
+2022-11-27,202211270MIL,DAL,Frank Ntilikina,https://www.basketball-reference.com/boxscores/202211270MIL.html,3.43,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,+5
+2022-11-27,202211270MIL,DAL,Theo Pinson,https://www.basketball-reference.com/boxscores/202211270MIL.html,3.43,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,0,0,-1.1,+5
+2022-11-27,202211270MIL,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202211270MIL.html,34.45,7,16,.438,2,6,.333,0,0,,1,0,1,6,3,0,3,2,16,11.7,+17
+2022-11-27,202211270MIL,MIL,Grayson Allen,https://www.basketball-reference.com/boxscores/202211270MIL.html,31.9,8,10,.800,7,8,.875,2,4,.500,0,2,2,5,2,1,0,2,25,26.4,+20
+2022-11-27,202211270MIL,MIL,Jevon Carter,https://www.basketball-reference.com/boxscores/202211270MIL.html,30.78,6,11,.545,2,5,.400,0,0,,0,3,3,6,1,0,2,1,14,12.4,+20
+2022-11-27,202211270MIL,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202211270MIL.html,29.4,11,19,.579,0,2,.000,8,10,.800,3,8,11,4,1,0,3,5,30,23.6,+16
+2022-11-27,202211270MIL,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202211270MIL.html,23.42,5,7,.714,2,3,.667,1,1,1.000,0,4,4,2,1,4,2,5,13,12.5,-1
+2022-11-27,202211270MIL,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202211270MIL.html,31.63,7,12,.583,1,5,.200,0,0,,1,9,10,1,0,0,0,3,15,12.3,+10
+2022-11-27,202211270MIL,MIL,George Hill,https://www.basketball-reference.com/boxscores/202211270MIL.html,15.37,2,2,1.000,1,1,1.000,0,0,,0,2,2,2,0,0,1,2,5,4.6,0
+2022-11-27,202211270MIL,MIL,Jordan Nwora,https://www.basketball-reference.com/boxscores/202211270MIL.html,11.03,1,3,.333,1,2,.500,0,0,,2,1,3,2,0,0,0,0,3,4.4,-7
+2022-11-27,202211270MIL,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202211270MIL.html,10.87,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,0,0,3,1.6,-9
+2022-11-27,202211270MIL,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/202211270MIL.html,8.88,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,2,0,-0.8,+1
+2022-11-27,202211270MIL,MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202211270MIL.html,7.2,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,1,1,0,-1.5,-9
+2022-11-27,202211270MIL,MIL,MarJon Beauchamp,https://www.basketball-reference.com/boxscores/202211270MIL.html,1.97,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-5
+2022-11-27,202211270MIL,MIL,A.J. Green,https://www.basketball-reference.com/boxscores/202211270MIL.html,1.97,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-5
+2022-11-27,202211270MIL,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202211270MIL.html,1.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3

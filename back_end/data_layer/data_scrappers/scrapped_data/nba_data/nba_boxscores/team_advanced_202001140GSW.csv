@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-14,202001140GSW,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202001140GSW.html,27:01,.444,.474,.474,.421,4.0,27.6,16.0,10.2,1.8,0.0,11.8,40.4,89,97,-6.8
+2020-01-14,202001140GSW,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202001140GSW.html,26:54,.387,.250,.833,.667,0.0,4.0,2.0,11.3,0.0,0.0,0.0,12.3,113,106,-4.2
+2020-01-14,202001140GSW,DAL,Maxi Kleber,https://www.basketball-reference.com/boxscores/202001140GSW.html,24:19,.935,.900,.800,.400,4.5,26.3,15.5,4.6,0.0,0.0,0.0,10.3,201,102,9.4
+2020-01-14,202001140GSW,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202001140GSW.html,24:08,1.063,1.056,.111,.222,9.0,17.7,13.4,12.8,2.1,0.0,9.2,19.3,192,99,18.2
+2020-01-14,202001140GSW,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202001140GSW.html,23:48,.545,.545,.727,.000,4.6,9.0,6.8,20.7,2.1,0.0,8.3,21.6,125,100,3.2
+2020-01-14,202001140GSW,DAL,Delon Wright,https://www.basketball-reference.com/boxscores/202001140GSW.html,20:24,.438,.438,.125,.000,16.0,10.5,13.2,16.8,0.0,8.6,0.0,16.8,132,97,5.8
+2020-01-14,202001140GSW,DAL,Boban Marjanović,https://www.basketball-reference.com/boxscores/202001140GSW.html,20:16,.437,.429,.000,.143,21.5,36.8,29.3,0.0,2.5,0.0,11.8,35.6,96,94,-9.1
+2020-01-14,202001140GSW,DAL,Justin Jackson,https://www.basketball-reference.com/boxscores/202001140GSW.html,19:16,.615,.500,.250,.500,0.0,5.5,2.8,0.0,0.0,0.0,0.0,10.8,139,105,-6.1
+2020-01-14,202001140GSW,DAL,Seth Curry,https://www.basketball-reference.com/boxscores/202001140GSW.html,16:00,.533,.500,.375,.125,13.6,0.0,6.7,16.2,3.1,0.0,0.0,22.6,137,100,6.0
+2020-01-14,202001140GSW,DAL,Jalen Brunson,https://www.basketball-reference.com/boxscores/202001140GSW.html,13:29,1.000,1.000,.000,.000,0.0,31.6,16.0,46.5,0.0,0.0,0.0,9.5,210,101,12.4
+2020-01-14,202001140GSW,DAL,J.J. Barea,https://www.basketball-reference.com/boxscores/202001140GSW.html,8:12,.917,.917,.667,.000,13.3,13.0,13.2,22.9,0.0,0.0,0.0,31.3,189,104,35.2
+2020-01-14,202001140GSW,DAL,Courtney Lee,https://www.basketball-reference.com/boxscores/202001140GSW.html,8:12,.000,.000,.000,.000,0.0,26.0,13.2,0.0,0.0,0.0,0.0,5.2,0,102,-10.3
+2020-01-14,202001140GSW,DAL,Antonius Cleveland,https://www.basketball-reference.com/boxscores/202001140GSW.html,8:01,.500,.500,.500,.000,0.0,13.3,6.7,0.0,0.0,0.0,0.0,10.7,111,104,-4.8
+2020-01-14,202001140GSW,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202001140GSW.html,34:10,.346,.294,.353,.235,0.0,9.6,4.7,35.1,0.0,0.0,24.2,32.6,68,133,-14.9
+2020-01-14,202001140GSW,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202001140GSW.html,31:37,.650,.650,.400,.000,6.7,17.3,11.9,10.2,1.6,0.0,9.1,15.6,121,127,2.0
+2020-01-14,202001140GSW,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/202001140GSW.html,29:15,.385,.385,.462,.000,3.6,18.6,11.1,25.3,0.0,0.0,7.1,21.5,88,130,-4.9
+2020-01-14,202001140GSW,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/202001140GSW.html,27:25,.506,.444,.333,.222,3.9,11.9,7.9,0.0,0.0,0.0,0.0,16.2,106,133,-6.1
+2020-01-14,202001140GSW,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202001140GSW.html,27:17,.417,.417,.500,.000,0.0,12.0,5.9,19.8,1.8,0.0,25.0,13.2,79,128,-7.3
+2020-01-14,202001140GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202001140GSW.html,28:01,.618,.625,.583,.333,0.0,7.8,3.9,29.8,0.0,0.0,6.8,23.7,119,134,4.8
+2020-01-14,202001140GSW,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202001140GSW.html,25:19,.727,.727,.182,.000,4.2,8.6,6.4,0.0,0.0,0.0,15.4,23.1,108,132,-2.7
+2020-01-14,202001140GSW,GSW,Willie Cauley-Stein,https://www.basketball-reference.com/boxscores/202001140GSW.html,17:38,.680,.600,.000,.400,6.0,30.9,18.4,0.0,5.7,4.6,0.0,15.0,141,109,5.4
+2020-01-14,202001140GSW,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202001140GSW.html,11:58,.727,.667,.333,.333,8.9,0.0,4.5,38.8,0.0,0.0,22.5,16.7,133,135,2.8
+2020-01-14,202001140GSW,GSW,Jacob Evans,https://www.basketball-reference.com/boxscores/202001140GSW.html,7:20,.000,.000,.000,.000,0.0,14.9,7.4,0.0,0.0,0.0,0.0,6.1,0,130,-15.7

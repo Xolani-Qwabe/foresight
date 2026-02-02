@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-02,202412020CHI,BRK,Tyrese Martin,https://www.basketball-reference.com/boxscores/202412020CHI.html,33:10,.582,.542,.667,.167,5.5,10.3,7.6,9.4,2.8,0.0,0.0,16.3,127,123,0.0
+2024-12-02,202412020CHI,BRK,Keon Johnson,https://www.basketball-reference.com/boxscores/202412020CHI.html,30:23,.400,.400,.600,.000,3.0,7.5,5.0,14.2,1.5,3.5,9.1,15.2,88,125,-6.3
+2024-12-02,202412020CHI,BRK,Dennis Schröder,https://www.basketball-reference.com/boxscores/202412020CHI.html,29:26,.504,.467,.400,.133,0.0,7.8,3.4,61.3,0.0,0.0,0.0,22.6,126,130,-0.5
+2024-12-02,202412020CHI,BRK,Jalen Wilson,https://www.basketball-reference.com/boxscores/202412020CHI.html,25:52,.200,.200,.600,.000,0.0,26.5,11.7,0.0,0.0,0.0,16.7,9.7,34,126,-19.3
+2024-12-02,202412020CHI,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202412020CHI.html,24:16,.506,.500,.000,.200,7.5,28.3,16.7,0.0,1.9,4.4,8.4,20.5,97,119,-5.7
+2024-12-02,202412020CHI,BRK,Shake Milton,https://www.basketball-reference.com/boxscores/202412020CHI.html,34:41,.412,.412,.235,.000,7.8,9.9,8.7,23.3,1.3,3.1,15.0,24.2,87,125,-6.0
+2024-12-02,202412020CHI,BRK,Dariq Whitehead,https://www.basketball-reference.com/boxscores/202412020CHI.html,23:52,.818,.818,.909,.000,0.0,9.6,4.2,7.8,3.9,4.5,8.3,21.1,133,119,13.0
+2024-12-02,202412020CHI,BRK,Trendon Watford,https://www.basketball-reference.com/boxscores/202412020CHI.html,16:36,.652,.643,.286,.714,5.5,27.5,15.2,10.9,2.8,0.0,17.9,28.3,108,119,-1.0
+2024-12-02,202412020CHI,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202412020CHI.html,16:05,.532,.000,.000,2.000,5.6,7.1,6.3,15.7,2.9,6.6,21.0,12.4,113,120,-2.8
+2024-12-02,202412020CHI,BRK,Cui Yongxi,https://www.basketball-reference.com/boxscores/202412020CHI.html,5:39,.167,.167,.500,.000,0.0,40.5,17.9,0.0,0.0,0.0,0.0,44.5,36,123,-33.2
+2024-12-02,202412020CHI,CHI,Josh Giddey,https://www.basketball-reference.com/boxscores/202412020CHI.html,31:54,.546,.559,.471,.176,3.6,34.1,20.6,48.0,1.5,2.8,21.4,29.9,108,93,3.7
+2024-12-02,202412020CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202412020CHI.html,29:41,.595,.577,.385,.077,3.9,3.1,3.4,26.5,1.6,3.1,6.9,19.9,131,102,3.2
+2024-12-02,202412020CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202412020CHI.html,28:09,.884,.864,.455,.182,8.1,25.7,17.9,14.9,1.6,0.0,14.4,20.2,151,97,10.2
+2024-12-02,202412020CHI,CHI,Julian Phillips,https://www.basketball-reference.com/boxscores/202412020CHI.html,26:12,.317,.286,.571,.286,8.7,10.4,9.6,8.3,1.8,3.5,0.0,12.3,99,99,-4.7
+2024-12-02,202412020CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202412020CHI.html,25:59,.670,.654,.538,.077,0.0,0.0,0.0,21.1,1.8,0.0,0.0,21.2,145,105,6.3
+2024-12-02,202412020CHI,CHI,Matas Buzelis,https://www.basketball-reference.com/boxscores/202412020CHI.html,21:48,.919,.900,.500,.200,5.2,16.6,11.6,6.8,0.0,8.3,0.0,20.4,180,98,16.3
+2024-12-02,202412020CHI,CHI,Dalen Terry,https://www.basketball-reference.com/boxscores/202412020CHI.html,17:31,1.000,1.000,.000,.000,0.0,5.2,2.9,6.1,0.0,0.0,50.0,4.7,99,107,-9.8
+2024-12-02,202412020CHI,CHI,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202412020CHI.html,17:17,.590,.500,.625,.375,6.6,15.7,11.7,14.0,2.7,0.0,17.7,26.8,111,98,-2.6
+2024-12-02,202412020CHI,CHI,Jalen Smith,https://www.basketball-reference.com/boxscores/202412020CHI.html,15:25,.633,.500,.400,.600,14.8,17.6,16.4,0.0,3.0,0.0,24.0,22.1,109,97,-4.1
+2024-12-02,202412020CHI,CHI,Lonzo Ball,https://www.basketball-reference.com/boxscores/202412020CHI.html,13:21,.500,.500,.800,.000,0.0,20.4,11.4,17.6,3.5,0.0,0.0,15.3,122,95,2.3
+2024-12-02,202412020CHI,CHI,Chris Duarte,https://www.basketball-reference.com/boxscores/202412020CHI.html,4:26,.000,.000,1.000,.000,25.8,61.3,45.6,22.6,0.0,0.0,50.0,18.5,62,90,-14.6
+2024-12-02,202412020CHI,CHI,E.J. Liddell,https://www.basketball-reference.com/boxscores/202412020CHI.html,4:26,1.136,,,,0.0,20.4,11.4,0.0,0.0,0.0,53.2,17.3,107,103,-6.9
+2024-12-02,202412020CHI,CHI,Jevon Carter,https://www.basketball-reference.com/boxscores/202412020CHI.html,3:51,.000,.000,1.000,.000,0.0,23.5,13.1,0.0,0.0,0.0,50.0,21.2,0,102,-29.8

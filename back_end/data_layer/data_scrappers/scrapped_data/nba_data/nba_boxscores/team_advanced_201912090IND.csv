@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-09,201912090IND,LAC,Patrick Beverley,https://www.basketball-reference.com/boxscores/201912090IND.html,39:20,.786,.786,.286,.000,2.3,22.8,13.1,18.0,3.5,0.0,30.0,10.3,119,88,5.0
+2019-12-09,201912090IND,LAC,Paul George,https://www.basketball-reference.com/boxscores/201912090IND.html,35:45,.584,.519,.615,.423,0.0,20.5,10.8,25.3,2.6,2.2,8.9,38.2,114,89,15.6
+2019-12-09,201912090IND,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/201912090IND.html,34:47,.410,.375,.250,.500,13.0,21.1,17.2,0.0,0.0,2.2,0.0,11.3,109,95,-0.9
+2019-12-09,201912090IND,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/201912090IND.html,20:51,.781,.714,.000,.429,13.0,19.5,16.4,16.2,0.0,3.7,0.0,16.1,171,95,14.1
+2019-12-09,201912090IND,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/201912090IND.html,14:52,.425,.300,.800,.400,0.0,0.0,0.0,0.0,3.1,0.0,0.0,16.0,94,99,-2.4
+2019-12-09,201912090IND,LAC,Lou Williams,https://www.basketball-reference.com/boxscores/201912090IND.html,32:32,.151,.105,.263,.105,0.0,2.5,1.3,23.9,0.0,2.4,4.8,25.9,49,103,-14.6
+2019-12-09,201912090IND,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/201912090IND.html,29:44,.560,.571,.000,.238,6.1,13.7,10.1,7.8,0.0,7.8,4.1,32.9,111,95,7.2
+2019-12-09,201912090IND,LAC,Derrick Walton,https://www.basketball-reference.com/boxscores/201912090IND.html,18:56,.750,.750,1.000,.000,0.0,8.6,4.5,0.0,2.4,0.0,0.0,4.3,147,97,-0.2
+2019-12-09,201912090IND,LAC,Jerome Robinson,https://www.basketball-reference.com/boxscores/201912090IND.html,13:13,.500,.500,.500,.000,0.0,18.5,9.7,0.0,0.0,0.0,50.0,12.2,45,97,-12.4
+2019-12-09,201912090IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/201912090IND.html,35:50,.436,.389,.111,.333,9.1,45.5,26.3,21.8,1.3,2.1,4.6,23.7,102,95,6.9
+2019-12-09,201912090IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/201912090IND.html,30:19,.597,.533,.400,.267,0.0,0.0,0.0,13.8,3.0,0.0,15.2,25.6,106,107,4.0
+2019-12-09,201912090IND,IND,T.J. Warren,https://www.basketball-reference.com/boxscores/201912090IND.html,28:37,.502,.250,.250,1.125,0.0,25.3,12.0,0.0,1.6,0.0,14.3,19.1,94,102,-4.8
+2019-12-09,201912090IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/201912090IND.html,25:25,.278,.278,.444,.000,9.6,7.1,8.4,18.7,0.0,2.9,25.0,18.5,65,109,-6.3
+2019-12-09,201912090IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/201912090IND.html,23:38,.423,.458,.333,.417,6.9,7.7,7.3,0.0,1.9,0.0,12.3,26.9,79,107,-3.9
+2019-12-09,201912090IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/201912090IND.html,29:32,.944,.944,.889,.000,2.8,15.3,8.7,0.0,0.0,0.0,10.0,13.3,159,108,7.7
+2019-12-09,201912090IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/201912090IND.html,23:36,.405,.333,.000,.222,3.4,7.7,5.4,7.3,0.0,3.1,9.2,18.1,86,109,-3.4
+2019-12-09,201912090IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/201912090IND.html,22:44,.167,.167,.667,.000,10.7,8.0,9.4,13.2,2.0,0.0,0.0,15.5,65,106,-4.8
+2019-12-09,201912090IND,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/201912090IND.html,12:31,.254,.143,.429,.286,0.0,21.7,10.3,25.4,3.6,0.0,0.0,24.7,70,99,-3.0
+2019-12-09,201912090IND,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/201912090IND.html,5:38,.000,.000,.000,.000,0.0,0.0,0.0,50.1,0.0,0.0,0.0,7.0,77,114,-0.6
+2019-12-09,201912090IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/201912090IND.html,2:10,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,114,-5.9

@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2019-11-04,201911040MIN,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/201911040MIN.html,27.05,9,15,.600,4,7,.571,4,4,1.000,0,3,3,4,2,0,2,2,26,22.0,+18
+2019-11-04,201911040MIN,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/201911040MIN.html,26.7,14,19,.737,0,3,.000,6,11,.545,4,11,15,6,0,0,3,4,34,30.0,+28
+2019-11-04,201911040MIN,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/201911040MIN.html,25.67,4,6,.667,1,3,.333,0,0,,1,1,2,2,1,3,0,3,9,10.7,+18
+2019-11-04,201911040MIN,MIL,Eric Bledsoe,https://www.basketball-reference.com/boxscores/201911040MIN.html,23.62,8,14,.571,1,4,.250,5,6,.833,1,8,9,6,1,0,3,4,22,18.7,+13
+2019-11-04,201911040MIN,MIL,Wesley Matthews,https://www.basketball-reference.com/boxscores/201911040MIN.html,21.83,3,6,.500,2,4,.500,0,0,,1,1,2,0,2,0,1,1,8,6.6,+29
+2019-11-04,201911040MIN,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/201911040MIN.html,20.25,6,11,.545,3,4,.750,2,4,.500,1,6,7,1,1,1,2,0,17,13.8,+12
+2019-11-04,201911040MIN,MIL,Robin Lopez,https://www.basketball-reference.com/boxscores/201911040MIN.html,18.55,0,2,.000,0,1,.000,1,2,.500,2,1,3,2,0,1,1,2,1,1.2,+6
+2019-11-04,201911040MIN,MIL,Kyle Korver,https://www.basketball-reference.com/boxscores/201911040MIN.html,17.15,1,5,.200,1,4,.250,0,1,.000,0,2,2,0,0,0,1,0,3,-0.9,+13
+2019-11-04,201911040MIN,MIL,George Hill,https://www.basketball-reference.com/boxscores/201911040MIN.html,16.93,2,4,.500,1,1,1.000,2,2,1.000,0,1,1,1,0,0,1,1,7,4.6,+7
+2019-11-04,201911040MIN,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/201911040MIN.html,16.03,0,2,.000,0,2,.000,0,0,,0,6,6,1,0,0,1,1,0,-0.3,-5
+2019-11-04,201911040MIN,MIL,Ersan İlyasova,https://www.basketball-reference.com/boxscores/201911040MIN.html,15.95,2,6,.333,1,4,.250,0,0,,1,3,4,0,1,1,1,2,5,3.1,-1
+2019-11-04,201911040MIN,MIL,D.J. Wilson,https://www.basketball-reference.com/boxscores/201911040MIN.html,6.63,1,3,.333,0,2,.000,0,0,,0,2,2,1,0,0,1,0,2,0.6,+3
+2019-11-04,201911040MIN,MIL,Sterling Brown,https://www.basketball-reference.com/boxscores/201911040MIN.html,3.63,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1
+2019-11-04,201911040MIN,MIN,Andrew Wiggins,https://www.basketball-reference.com/boxscores/201911040MIN.html,30.63,10,21,.476,4,7,.571,1,2,.500,1,2,3,0,0,2,2,3,25,13.4,-17
+2019-11-04,201911040MIN,MIN,Robert Covington,https://www.basketball-reference.com/boxscores/201911040MIN.html,23.07,5,9,.556,3,6,.500,2,2,1.000,0,4,4,2,1,0,2,3,15,11.1,-20
+2019-11-04,201911040MIN,MIN,Treveon Graham,https://www.basketball-reference.com/boxscores/201911040MIN.html,22.95,1,5,.200,1,4,.250,0,0,,1,1,2,2,2,0,0,1,3,3.9,-27
+2019-11-04,201911040MIN,MIN,Jeff Teague,https://www.basketball-reference.com/boxscores/201911040MIN.html,18.08,3,7,.429,0,0,,4,4,1.000,0,2,2,3,1,1,2,5,10,6.7,-25
+2019-11-04,201911040MIN,MIN,Gorgui Dieng,https://www.basketball-reference.com/boxscores/201911040MIN.html,17.35,3,9,.333,0,3,.000,4,4,1.000,4,2,6,4,0,1,0,1,10,11.4,-29
+2019-11-04,201911040MIN,MIN,Jake Layman,https://www.basketball-reference.com/boxscores/201911040MIN.html,26.45,2,10,.200,0,3,.000,1,1,1.000,2,2,4,0,2,0,1,4,5,0.2,-21
+2019-11-04,201911040MIN,MIN,Shabazz Napier,https://www.basketball-reference.com/boxscores/201911040MIN.html,24.6,4,12,.333,2,8,.250,0,0,,0,3,3,4,4,0,2,1,10,8.5,+5
+2019-11-04,201911040MIN,MIN,Jarrett Culver,https://www.basketball-reference.com/boxscores/201911040MIN.html,24.13,3,11,.273,2,5,.400,0,0,,1,3,4,1,1,0,2,3,8,1.6,-7
+2019-11-04,201911040MIN,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/201911040MIN.html,22.08,1,6,.167,0,2,.000,1,3,.333,1,6,7,0,1,0,2,0,3,-0.1,0
+2019-11-04,201911040MIN,MIN,Noah Vonleh,https://www.basketball-reference.com/boxscores/201911040MIN.html,16.13,1,7,.143,1,4,.250,2,2,1.000,1,5,6,1,0,0,0,1,5,3.0,+3
+2019-11-04,201911040MIN,MIN,Jordan Bell,https://www.basketball-reference.com/boxscores/201911040MIN.html,14.52,4,6,.667,0,1,.000,4,4,1.000,2,4,6,3,0,0,2,1,12,11.7,-2

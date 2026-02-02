@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-30,202104300MEM,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202104300MEM.html,30:35,.350,.318,.273,.091,0.0,8.0,4.2,28.2,4.8,0.0,30.4,22.5,57,91,-5.4
+2021-04-30,202104300MEM,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202104300MEM.html,29:03,.536,.536,.214,.000,3.1,14.0,8.8,21.4,0.0,0.0,17.6,24.5,88,99,-1.3
+2021-04-30,202104300MEM,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202104300MEM.html,27:44,.259,.000,.429,.857,3.2,17.6,10.7,6.4,0.0,5.8,0.0,14.5,69,93,-4.6
+2021-04-30,202104300MEM,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202104300MEM.html,22:02,.325,.273,.182,.273,16.1,14.8,15.4,21.3,0.0,0.0,14.0,27.2,73,98,-4.3
+2021-04-30,202104300MEM,ORL,James Ennis III,https://www.basketball-reference.com/boxscores/202104300MEM.html,16:09,.387,.333,.667,.667,0.0,0.0,0.0,12.4,0.0,0.0,0.0,10.0,91,106,-6.5
+2021-04-30,202104300MEM,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202104300MEM.html,32:12,.201,.167,.083,.083,2.8,5.1,4.0,6.2,1.5,0.0,7.4,17.5,47,100,-8.9
+2021-04-30,202104300MEM,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202104300MEM.html,23:14,.759,.778,.333,.222,7.7,31.5,20.1,14.1,0.0,13.8,23.3,23.2,106,80,14.4
+2021-04-30,202104300MEM,ORL,R.J. Hampton,https://www.basketball-reference.com/boxscores/202104300MEM.html,22:51,.564,.438,.500,.500,3.9,10.7,7.4,10.1,0.0,0.0,33.9,27.0,77,101,-6.6
+2021-04-30,202104300MEM,ORL,Chasson Randle,https://www.basketball-reference.com/boxscores/202104300MEM.html,18:57,.188,.188,.625,.000,0.0,12.9,6.7,20.7,0.0,0.0,11.1,19.9,45,99,-9.5
+2021-04-30,202104300MEM,ORL,Donta Hall,https://www.basketball-reference.com/boxscores/202104300MEM.html,17:13,.291,.333,.000,.333,10.3,42.5,27.1,11.5,0.0,0.0,0.0,8.4,86,83,-1.5
+2021-04-30,202104300MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202104300MEM.html,33:43,.506,.472,.500,.222,2.4,2.6,2.5,11.8,1.5,0.0,16.8,29.7,87,86,-2.6
+2021-04-30,202104300MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202104300MEM.html,32:45,.311,.292,.333,.167,2.5,10.9,6.5,29.7,4.5,0.0,7.2,17.8,82,75,-1.4
+2021-04-30,202104300MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202104300MEM.html,28:27,.464,.464,.286,.000,0.0,18.7,9.0,14.1,1.7,8.4,12.5,23.7,83,73,1.7
+2021-04-30,202104300MEM,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202104300MEM.html,26:46,.717,.688,.125,.500,12.2,36.5,23.8,14.3,1.8,3.0,0.0,15.3,157,67,10.1
+2021-04-30,202104300MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202104300MEM.html,20:05,.350,.350,.700,.000,8.1,13.3,10.6,8.9,0.0,0.0,9.1,23.1,76,84,-9.7
+2021-04-30,202104300MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202104300MEM.html,21:10,.237,.188,.625,.125,0.0,21.0,10.0,7.1,0.0,11.3,0.0,16.8,60,73,-3.9
+2021-04-30,202104300MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202104300MEM.html,19:30,.667,.667,.500,.000,8.3,27.4,17.4,18.5,5.0,4.1,0.0,13.0,145,64,14.9
+2021-04-30,202104300MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202104300MEM.html,17:49,.699,.667,.167,.167,9.1,5.0,7.2,23.2,5.5,0.0,0.0,15.2,153,76,12.2
+2021-04-30,202104300MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202104300MEM.html,16:19,.317,.214,.286,.286,5.0,10.9,7.8,47.4,0.0,0.0,0.0,20.3,100,85,0.0
+2021-04-30,202104300MEM,MEM,Justise Winslow,https://www.basketball-reference.com/boxscores/202104300MEM.html,10:43,.254,.143,.286,.286,0.0,16.6,7.9,0.0,0.0,0.0,0.0,30.9,60,82,-17.3
+2021-04-30,202104300MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202104300MEM.html,7:31,.000,.000,.500,.000,21.6,0.0,11.3,37.6,0.0,0.0,0.0,11.2,82,90,-2.8
+2021-04-30,202104300MEM,MEM,Sean McDermott,https://www.basketball-reference.com/boxscores/202104300MEM.html,1:44,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,90,-9.4
+2021-04-30,202104300MEM,MEM,Jontay Porter,https://www.basketball-reference.com/boxscores/202104300MEM.html,1:44,.000,.000,.000,.000,0.0,51.3,24.5,0.0,0.0,0.0,0.0,24.3,0,67,-22.9
+2021-04-30,202104300MEM,MEM,Killian Tillie,https://www.basketball-reference.com/boxscores/202104300MEM.html,1:44,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,90,-9.3

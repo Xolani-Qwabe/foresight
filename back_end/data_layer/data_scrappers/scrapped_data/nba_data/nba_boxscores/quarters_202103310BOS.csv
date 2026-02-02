@@ -1,0 +1,65 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-03-31,202103310BOS,DAL,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202103310BOS.html,10.75,1,2,.500,1,2,.500,0,0,1,3,4,0,1,0,0,0,3,4.6,+4,
+2021-03-31,202103310BOS,DAL,Q1,Josh Richardson,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.87,1,2,.500,1,1,1.000,0,0,0,3,3,3,0,1,0,0,3,5.7,+10,
+2021-03-31,202103310BOS,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.15,4,4,1.000,2,2,1.000,1,2,0,1,1,1,0,0,2,0,11,8.4,+2,.500
+2021-03-31,202103310BOS,DAL,Q1,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103310BOS.html,10.37,3,7,.429,1,3,.333,2,2,1,2,3,1,1,1,0,0,9,9.0,+8,1.000
+2021-03-31,202103310BOS,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103310BOS.html,7.27,0,2,.000,0,1,.000,0,0,0,1,1,0,0,0,0,1,0,-1.5,+8,
+2021-03-31,202103310BOS,DAL,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.98,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,1,0,2,0.7,-2,
+2021-03-31,202103310BOS,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.98,1,4,.250,0,3,.000,0,0,0,0,0,0,0,0,0,1,2,-0.8,-2,
+2021-03-31,202103310BOS,DAL,Q1,Nicolò Melli,https://www.basketball-reference.com/boxscores/202103310BOS.html,1.63,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,
+2021-03-31,202103310BOS,DAL,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.98,1,2,.500,1,1,1.000,0,0,1,1,2,0,0,0,0,0,3,3.0,+15,
+2021-03-31,202103310BOS,DAL,Q2,Josh Richardson,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.02,2,3,.667,1,2,.500,0,0,0,0,0,0,0,0,1,1,5,2.3,+10,
+2021-03-31,202103310BOS,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.05,4,5,.800,3,4,.750,2,2,0,3,3,2,0,0,0,1,13,13.0,+13,1.000
+2021-03-31,202103310BOS,DAL,Q2,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.02,0,2,.000,0,0,,0,0,0,4,4,1,0,0,1,1,0,-0.9,+10,
+2021-03-31,202103310BOS,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103310BOS.html,2.02,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-1,
+2021-03-31,202103310BOS,DAL,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.32,3,3,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,1,7,6.3,+10,
+2021-03-31,202103310BOS,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.25,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+1,
+2021-03-31,202103310BOS,DAL,Q2,Nicolò Melli,https://www.basketball-reference.com/boxscores/202103310BOS.html,3.98,1,3,.333,1,1,1.000,0,0,0,1,1,1,0,0,0,1,3,1.9,+4,
+2021-03-31,202103310BOS,DAL,Q2,Trey Burke,https://www.basketball-reference.com/boxscores/202103310BOS.html,2.68,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+4,
+2021-03-31,202103310BOS,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202103310BOS.html,2.68,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+4,
+2021-03-31,202103310BOS,DAL,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202103310BOS.html,12.0,1,2,.500,0,1,.000,0,0,0,2,2,0,1,0,0,1,2,2.2,-2,
+2021-03-31,202103310BOS,DAL,Q3,Josh Richardson,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.35,0,2,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-1.1,-3,
+2021-03-31,202103310BOS,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.98,2,3,.667,1,2,.500,2,4,0,1,1,0,0,0,3,0,7,2.2,-4,.500
+2021-03-31,202103310BOS,DAL,Q3,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103310BOS.html,11.45,3,6,.500,2,4,.500,2,4,0,1,1,0,1,1,1,1,10,6.8,-3,.500
+2021-03-31,202103310BOS,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103310BOS.html,6.23,0,1,.000,0,1,.000,2,2,0,0,0,1,1,0,1,1,2,1.6,-2,1.000
+2021-03-31,202103310BOS,DAL,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.67,1,1,1.000,0,0,,0,0,0,1,1,1,1,0,0,0,2,3.7,+3,
+2021-03-31,202103310BOS,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103310BOS.html,6.32,1,1,1.000,1,1,1.000,0,0,0,2,2,1,0,0,0,0,3,4.0,+1,
+2021-03-31,202103310BOS,DAL,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202103310BOS.html,6.78,1,1,1.000,1,1,1.000,0,0,1,0,1,0,0,0,1,2,3,1.6,-4,
+2021-03-31,202103310BOS,DAL,Q4,Josh Richardson,https://www.basketball-reference.com/boxscores/202103310BOS.html,12.0,0,2,.000,0,0,,0,0,0,3,3,0,0,0,2,0,0,-2.5,-12,
+2021-03-31,202103310BOS,DAL,Q4,Luka Dončić,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.48,1,3,.333,1,3,.333,2,3,0,3,3,2,0,0,3,2,5,1.4,-13,.667
+2021-03-31,202103310BOS,DAL,Q4,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202103310BOS.html,2.25,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,0,
+2021-03-31,202103310BOS,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.83,1,2,.500,0,1,.000,1,2,0,2,2,0,0,0,0,1,3,1.8,-10,.500
+2021-03-31,202103310BOS,DAL,Q4,Jalen Brunson,https://www.basketball-reference.com/boxscores/202103310BOS.html,12.0,3,5,.600,0,0,,4,4,0,2,2,2,0,0,0,0,10,9.7,-12,1.000
+2021-03-31,202103310BOS,DAL,Q4,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202103310BOS.html,7.65,1,4,.250,0,2,.000,0,0,0,1,1,0,0,0,0,2,2,-0.9,-9,
+2021-03-31,202103310BOS,BOS,Q1,Jayson Tatum,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.45,1,4,.250,0,2,.000,0,0,0,0,0,0,0,0,0,0,2,-0.4,-8,
+2021-03-31,202103310BOS,BOS,Q1,Kemba Walker,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.57,1,5,.200,0,1,.000,0,0,0,1,1,1,0,0,0,0,2,-0.1,-4,
+2021-03-31,202103310BOS,BOS,Q1,Jaylen Brown,https://www.basketball-reference.com/boxscores/202103310BOS.html,12.0,4,7,.571,1,3,.333,0,0,1,0,1,1,2,0,1,1,9,7.7,-5,
+2021-03-31,202103310BOS,BOS,Q1,Marcus Smart,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.57,2,5,.400,1,3,.333,0,0,1,0,1,1,0,1,0,0,5,4.4,-4,
+2021-03-31,202103310BOS,BOS,Q1,Moritz Wagner,https://www.basketball-reference.com/boxscores/202103310BOS.html,7.32,0,0,,0,0,,0,0,1,2,3,2,0,0,2,1,0,0.3,-3,
+2021-03-31,202103310BOS,BOS,Q1,Evan Fournier,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.98,1,2,.500,0,0,,0,0,0,3,3,1,1,0,0,0,2,3.6,+2,
+2021-03-31,202103310BOS,BOS,Q1,Payton Pritchard,https://www.basketball-reference.com/boxscores/202103310BOS.html,3.43,1,2,.500,1,2,.500,2,2,0,1,1,0,0,0,0,0,5,4.3,-1,1.000
+2021-03-31,202103310BOS,BOS,Q1,Grant Williams,https://www.basketball-reference.com/boxscores/202103310BOS.html,4.68,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,2,0,-1.5,-2,
+2021-03-31,202103310BOS,BOS,Q2,Jayson Tatum,https://www.basketball-reference.com/boxscores/202103310BOS.html,9.75,2,5,.400,1,2,.500,2,2,0,2,2,1,0,0,0,0,7,5.6,-15,1.000
+2021-03-31,202103310BOS,BOS,Q2,Kemba Walker,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.02,1,4,.250,0,3,.000,0,0,0,2,2,0,0,0,0,0,2,0.2,-10,
+2021-03-31,202103310BOS,BOS,Q2,Jaylen Brown,https://www.basketball-reference.com/boxscores/202103310BOS.html,6.32,1,2,.500,0,1,.000,1,2,0,0,0,0,0,0,0,0,3,1.6,-8,.500
+2021-03-31,202103310BOS,BOS,Q2,Marcus Smart,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.02,0,3,.000,0,2,.000,4,4,0,2,2,2,0,0,0,0,4,3.9,-10,1.000
+2021-03-31,202103310BOS,BOS,Q2,Evan Fournier,https://www.basketball-reference.com/boxscores/202103310BOS.html,7.93,1,2,.500,0,1,.000,0,0,0,0,0,0,0,0,0,1,2,0.6,-5,
+2021-03-31,202103310BOS,BOS,Q2,Luke Kornet,https://www.basketball-reference.com/boxscores/202103310BOS.html,7.23,1,3,.333,0,1,.000,0,0,1,0,1,0,0,1,0,1,2,1.3,-13,
+2021-03-31,202103310BOS,BOS,Q2,Payton Pritchard,https://www.basketball-reference.com/boxscores/202103310BOS.html,3.98,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,-4,
+2021-03-31,202103310BOS,BOS,Q2,Grant Williams,https://www.basketball-reference.com/boxscores/202103310BOS.html,4.77,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-1,
+2021-03-31,202103310BOS,BOS,Q2,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202103310BOS.html,3.98,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-4,
+2021-03-31,202103310BOS,BOS,Q3,Jayson Tatum,https://www.basketball-reference.com/boxscores/202103310BOS.html,12.0,4,8,.500,0,3,.000,2,2,2,4,6,2,1,0,1,0,10,10.0,+2,1.000
+2021-03-31,202103310BOS,BOS,Q3,Kemba Walker,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.65,2,4,.500,1,2,.500,2,2,0,1,1,2,0,0,1,1,7,5.3,+3,1.000
+2021-03-31,202103310BOS,BOS,Q3,Jaylen Brown,https://www.basketball-reference.com/boxscores/202103310BOS.html,11.45,3,5,.600,2,4,.500,1,2,0,1,1,0,2,0,2,0,9,6.6,+3,.500
+2021-03-31,202103310BOS,BOS,Q3,Marcus Smart,https://www.basketball-reference.com/boxscores/202103310BOS.html,7.37,0,0,,0,0,,0,0,0,1,1,1,1,0,0,2,0,1.2,+3,
+2021-03-31,202103310BOS,BOS,Q3,Moritz Wagner,https://www.basketball-reference.com/boxscores/202103310BOS.html,8.65,1,4,.250,0,1,.000,0,0,1,0,1,0,0,0,0,2,2,-0.5,+3,
+2021-03-31,202103310BOS,BOS,Q3,Evan Fournier,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.18,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-2,
+2021-03-31,202103310BOS,BOS,Q3,Luke Kornet,https://www.basketball-reference.com/boxscores/202103310BOS.html,3.35,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2021-03-31,202103310BOS,BOS,Q3,Payton Pritchard,https://www.basketball-reference.com/boxscores/202103310BOS.html,3.35,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-1,
+2021-03-31,202103310BOS,BOS,Q4,Jayson Tatum,https://www.basketball-reference.com/boxscores/202103310BOS.html,6.87,3,7,.429,0,1,.000,0,0,0,1,1,0,2,0,2,2,6,1.8,+2,
+2021-03-31,202103310BOS,BOS,Q4,Kemba Walker,https://www.basketball-reference.com/boxscores/202103310BOS.html,12.0,3,6,.500,1,3,.333,4,4,0,1,1,3,1,0,0,2,11,10.6,+12,1.000
+2021-03-31,202103310BOS,BOS,Q4,Jaylen Brown,https://www.basketball-reference.com/boxscores/202103310BOS.html,6.87,1,3,.333,1,3,.333,0,0,0,2,2,0,0,0,0,1,3,1.5,+2,
+2021-03-31,202103310BOS,BOS,Q4,Marcus Smart,https://www.basketball-reference.com/boxscores/202103310BOS.html,12.0,3,4,.750,1,2,.500,1,2,1,0,1,3,1,0,0,0,8,9.8,+12,.500
+2021-03-31,202103310BOS,BOS,Q4,Evan Fournier,https://www.basketball-reference.com/boxscores/202103310BOS.html,11.58,1,2,.500,0,1,.000,0,1,0,0,0,0,0,0,0,1,2,0.2,+10,.000
+2021-03-31,202103310BOS,BOS,Q4,Luke Kornet,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.55,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,2,2.0,+12,
+2021-03-31,202103310BOS,BOS,Q4,Payton Pritchard,https://www.basketball-reference.com/boxscores/202103310BOS.html,5.13,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+10,

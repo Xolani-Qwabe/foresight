@@ -1,0 +1,19 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-03,202001030HOU,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202001030HOU.html,42:12,.628,.650,.000,.350,14.2,19.0,16.4,46.0,3.4,8.4,11.5,26.0,126,107,16.1
+2020-01-03,202001030HOU,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202001030HOU.html,41:30,.581,.500,.222,.333,0.0,5.5,2.6,7.1,0.0,2.1,0.0,20.9,121,122,-0.6
+2020-01-03,202001030HOU,PHI,Josh Richardson,https://www.basketball-reference.com/boxscores/202001030HOU.html,38:32,.322,.300,.600,.200,0.0,0.0,0.0,25.2,1.2,0.0,21.6,15.2,74,122,-7.7
+2020-01-03,202001030HOU,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202001030HOU.html,34:04,.438,.438,.500,.000,5.9,20.1,12.5,7.5,0.0,0.0,0.0,9.9,106,121,-5.2
+2020-01-03,202001030HOU,PHI,Joel Embiid,https://www.basketball-reference.com/boxscores/202001030HOU.html,32:55,.509,.412,.176,.353,3.0,38.2,19.4,13.8,2.9,2.7,13.3,29.0,96,109,-0.3
+2020-01-03,202001030HOU,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202001030HOU.html,18:30,.581,.583,.667,.333,0.0,6.2,2.9,7.6,2.6,0.0,0.0,15.7,117,118,1.2
+2020-01-03,202001030HOU,PHI,Trey Burke,https://www.basketball-reference.com/boxscores/202001030HOU.html,16:17,.698,.714,.143,.286,0.0,21.1,9.8,32.4,0.0,0.0,11.3,23.0,123,120,1.1
+2020-01-03,202001030HOU,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202001030HOU.html,12:01,.000,.000,1.000,.000,0.0,38.0,17.8,9.5,0.0,0.0,0.0,14.0,15,117,-18.0
+2020-01-03,202001030HOU,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202001030HOU.html,3:59,.500,.500,.500,.000,25.1,0.0,13.4,40.2,0.0,0.0,33.3,31.7,88,124,-9.1
+2020-01-03,202001030HOU,HOU,James Harden,https://www.basketball-reference.com/boxscores/202001030HOU.html,40:49,.751,.667,.500,.500,2.8,24.5,14.4,50.3,1.2,1.8,14.6,36.3,139,104,19.9
+2020-01-03,202001030HOU,HOU,Clint Capela,https://www.basketball-reference.com/boxscores/202001030HOU.html,36:54,.768,.750,.000,.500,9.3,29.8,20.2,15.4,2.6,2.0,0.0,22.9,163,100,15.1
+2020-01-03,202001030HOU,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202001030HOU.html,36:53,.000,.000,1.000,.000,3.1,10.8,7.2,0.0,0.0,2.0,0.0,1.2,73,110,-4.5
+2020-01-03,202001030HOU,HOU,Russell Westbrook,https://www.basketball-reference.com/boxscores/202001030HOU.html,35:20,.413,.432,.091,.227,3.2,17.0,10.6,18.9,4.0,0.0,14.2,34.5,80,101,-5.3
+2020-01-03,202001030HOU,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202001030HOU.html,29:10,.500,.500,1.000,.000,0.0,13.7,7.3,4.2,0.0,0.0,0.0,4.4,113,110,-4.0
+2020-01-03,202001030HOU,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202001030HOU.html,29:57,.395,.308,.769,.385,3.8,3.3,3.6,8.9,0.0,0.0,6.2,23.4,89,113,-8.1
+2020-01-03,202001030HOU,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202001030HOU.html,13:21,.500,.500,1.000,.000,8.6,0.0,4.0,0.0,0.0,0.0,25.0,12.9,86,113,-10.1
+2020-01-03,202001030HOU,HOU,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202001030HOU.html,11:06,.000,.000,.000,.000,0.0,18.0,9.6,10.5,0.0,0.0,0.0,7.8,33,109,-10.5
+2020-01-03,202001030HOU,HOU,Austin Rivers,https://www.basketball-reference.com/boxscores/202001030HOU.html,6:30,1.042,1.250,.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.1,193,114,16.8

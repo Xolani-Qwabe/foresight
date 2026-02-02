@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-11-27,202411270SAS,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202411270SAS.html,35:07,.620,.571,.143,.214,14.4,29.7,22.8,25.8,1.5,0.0,6.1,20.8,145,104,8.4
+2024-11-27,202411270SAS,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202411270SAS.html,33:05,.444,.444,.111,.000,11.5,22.1,17.3,43.9,1.5,3.2,21.7,31.1,102,105,0.7
+2024-11-27,202411270SAS,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202411270SAS.html,31:27,.591,.591,.545,.000,0.0,6.6,3.6,7.6,0.0,0.0,21.4,19.9,95,116,-8.0
+2024-11-27,202411270SAS,LAL,Dalton Knecht,https://www.basketball-reference.com/boxscores/202411270SAS.html,30:31,.667,.667,.667,.000,0.0,27.4,15.0,4.4,3.3,0.0,6.3,23.4,124,100,4.9
+2024-11-27,202411270SAS,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202411270SAS.html,25:51,.743,.667,.444,.444,9.8,12.1,11.1,9.6,0.0,4.1,0.0,18.6,167,111,6.8
+2024-11-27,202411270SAS,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202411270SAS.html,25:38,.773,.773,.545,.000,0.0,4.1,2.2,26.8,2.0,0.0,0.0,19.2,166,112,10.6
+2024-11-27,202411270SAS,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202411270SAS.html,21:44,.820,.750,.500,.500,0.0,19.2,10.5,11.3,0.0,4.9,12.0,17.1,151,108,6.8
+2024-11-27,202411270SAS,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202411270SAS.html,17:11,.000,.000,1.000,.000,0.0,0.0,0.0,5.8,3.0,0.0,66.7,7.8,22,111,-10.9
+2024-11-27,202411270SAS,LAL,Christian Koloko,https://www.basketball-reference.com/boxscores/202411270SAS.html,7:52,.667,.667,.000,.000,16.1,0.0,7.3,0.0,6.5,0.0,0.0,17.0,146,102,-0.2
+2024-11-27,202411270SAS,LAL,Gabe Vincent,https://www.basketball-reference.com/boxscores/202411270SAS.html,5:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-10.2
+2024-11-27,202411270SAS,LAL,Armel Traoré,https://www.basketball-reference.com/boxscores/202411270SAS.html,2:49,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,18.1,0.0,0.0,15.9,200,75,27.9
+2024-11-27,202411270SAS,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202411270SAS.html,2:49,.000,.000,.000,.000,44.8,0.0,20.3,0.0,0.0,0.0,0.0,15.9,75,118,-16.2
+2024-11-27,202411270SAS,SAS,Victor Wembanyama,https://www.basketball-reference.com/boxscores/202411270SAS.html,33:24,.500,.500,.450,.000,9.4,26.5,17.1,12.5,3.1,7.7,16.7,32.2,89,116,-0.3
+2024-11-27,202411270SAS,SAS,Harrison Barnes,https://www.basketball-reference.com/boxscores/202411270SAS.html,32:52,.873,.850,.600,.200,0.0,7.7,3.5,0.0,0.0,0.0,21.6,18.9,116,133,-0.2
+2024-11-27,202411270SAS,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202411270SAS.html,30:37,.676,.625,.583,.250,3.4,16.5,9.3,5.9,1.7,2.8,7.0,21.0,127,125,4.7
+2024-11-27,202411270SAS,SAS,Stephon Castle,https://www.basketball-reference.com/boxscores/202411270SAS.html,29:44,.465,.389,.444,.444,10.5,4.2,7.7,36.3,1.7,0.0,15.7,19.2,113,130,-1.3
+2024-11-27,202411270SAS,SAS,Chris Paul,https://www.basketball-reference.com/boxscores/202411270SAS.html,24:35,.342,.167,.667,.500,0.0,10.3,4.6,34.4,2.1,0.0,0.0,13.4,113,128,-5.1
+2024-11-27,202411270SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202411270SAS.html,22:25,.340,.200,.200,.400,0.0,22.5,10.2,12.6,0.0,0.0,14.5,13.8,78,129,-10.5
+2024-11-27,202411270SAS,SAS,Devin Vassell,https://www.basketball-reference.com/boxscores/202411270SAS.html,21:01,.643,.600,.300,.200,5.0,12.0,8.2,9.3,4.9,0.0,21.6,29.6,99,121,0.1
+2024-11-27,202411270SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202411270SAS.html,13:38,.333,.333,.333,.000,0.0,9.3,4.2,54.2,0.0,0.0,0.0,9.9,130,133,-1.0
+2024-11-27,202411270SAS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202411270SAS.html,11:03,1.000,1.000,.000,.000,9.4,11.4,10.3,15.9,0.0,0.0,0.0,8.1,212,132,4.8
+2024-11-27,202411270SAS,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202411270SAS.html,6:29,.000,.000,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,25.0,27.7,0,135,-36.8
+2024-11-27,202411270SAS,SAS,Charles Bassey,https://www.basketball-reference.com/boxscores/202411270SAS.html,3:33,1.000,1.000,.000,.000,29.4,35.6,32.2,0.0,0.0,0.0,0.0,12.6,214,126,8.8
+2024-11-27,202411270SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202411270SAS.html,3:33,.000,.000,1.000,.000,29.4,35.6,32.2,0.0,0.0,0.0,0.0,12.6,63,126,-13.3
+2024-11-27,202411270SAS,SAS,Sidy Cissoko,https://www.basketball-reference.com/boxscores/202411270SAS.html,3:33,.000,.000,1.000,.000,0.0,0.0,0.0,37.6,0.0,0.0,0.0,12.6,58,135,-9.4
+2024-11-27,202411270SAS,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202411270SAS.html,3:33,.750,.750,1.000,.000,0.0,35.6,16.1,0.0,0.0,0.0,0.0,25.3,132,126,12.7

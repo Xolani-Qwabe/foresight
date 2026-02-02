@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-27,202102270ORL,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202102270ORL.html,35:22,.688,.658,.421,.421,3.4,8.3,6.1,25.9,0.0,0.0,11.8,32.2,132,119,6.7
+2021-02-27,202102270ORL,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202102270ORL.html,32:02,.583,.583,.667,.000,15.0,18.3,16.8,14.8,0.0,0.0,14.3,9.8,142,117,1.7
+2021-02-27,202102270ORL,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202102270ORL.html,31:04,.654,.654,.615,.000,0.0,6.3,3.5,31.6,1.6,2.5,7.1,20.1,139,113,6.7
+2021-02-27,202102270ORL,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202102270ORL.html,30:16,.773,1.000,.000,.667,4.0,48.5,28.5,13.4,1.7,5.1,27.9,15.9,109,101,6.4
+2021-02-27,202102270ORL,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202102270ORL.html,27:44,.490,.313,.750,.625,4.3,7.1,5.8,8.3,0.0,0.0,8.9,18.0,112,119,-6.8
+2021-02-27,202102270ORL,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202102270ORL.html,28:26,.533,.500,.563,.125,0.0,20.7,11.4,25.4,0.0,0.0,10.6,29.6,111,116,-2.6
+2021-02-27,202102270ORL,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202102270ORL.html,20:16,.813,.813,.625,.000,0.0,9.7,5.3,7.1,0.0,0.0,0.0,17.6,158,119,6.8
+2021-02-27,202102270ORL,UTA,Derrick Favors,https://www.basketball-reference.com/boxscores/202102270ORL.html,16:27,.806,.750,.000,1.250,7.3,29.8,19.7,0.0,0.0,0.0,13.9,19.5,144,114,-1.5
+2021-02-27,202102270ORL,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202102270ORL.html,14:32,.750,.750,1.000,.000,16.5,6.7,11.1,0.0,0.0,0.0,0.0,12.3,162,119,1.8
+2021-02-27,202102270ORL,UTA,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202102270ORL.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-7.4
+2021-02-27,202102270ORL,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202102270ORL.html,1:17,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-7.6
+2021-02-27,202102270ORL,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/202102270ORL.html,1:17,.000,.000,1.000,.000,0.0,0.0,0.0,83.1,0.0,0.0,0.0,34.8,68,120,-25.3
+2021-02-27,202102270ORL,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/202102270ORL.html,34:38,.643,.635,.269,.038,2.8,24.3,12.5,22.5,1.5,3.5,3.6,37.1,122,126,11.9
+2021-02-27,202102270ORL,ORL,Evan Fournier,https://www.basketball-reference.com/boxscores/202102270ORL.html,33:54,.391,.375,.350,.050,0.0,24.8,11.1,16.6,3.0,3.5,0.0,28.2,87,123,-4.6
+2021-02-27,202102270ORL,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202102270ORL.html,29:10,.732,.688,.375,.250,0.0,12.3,5.5,0.0,0.0,0.0,0.0,14.3,142,135,-3.3
+2021-02-27,202102270ORL,ORL,Michael Carter-Williams,https://www.basketball-reference.com/boxscores/202102270ORL.html,25:30,.512,.500,.000,.500,0.0,9.4,4.2,32.7,0.0,0.0,17.0,10.8,122,134,-6.6
+2021-02-27,202102270ORL,ORL,Al-Farouq Aminu,https://www.basketball-reference.com/boxscores/202102270ORL.html,22:16,.583,.583,.333,.000,17.6,10.8,14.5,0.0,2.3,0.0,0.0,12.6,139,130,-2.3
+2021-02-27,202102270ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202102270ORL.html,31:39,.296,.250,.375,.125,3.1,11.4,6.8,12.0,1.6,0.0,0.0,25.0,75,131,-13.3
+2021-02-27,202102270ORL,ORL,Chasson Randle,https://www.basketball-reference.com/boxscores/202102270ORL.html,22:30,.571,.571,.714,.000,0.0,5.3,2.4,39.7,2.2,0.0,0.0,14.6,140,131,4.1
+2021-02-27,202102270ORL,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202102270ORL.html,22:22,.833,.833,.333,.000,4.4,5.4,4.8,10.8,0.0,0.0,0.0,6.3,177,136,-2.2
+2021-02-27,202102270ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202102270ORL.html,13:22,.917,.917,.500,.000,0.0,35.9,16.1,0.0,0.0,9.0,14.3,24.5,127,124,10.7
+2021-02-27,202102270ORL,ORL,Gary Clark,https://www.basketball-reference.com/boxscores/202102270ORL.html,4:39,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,136,-14.3

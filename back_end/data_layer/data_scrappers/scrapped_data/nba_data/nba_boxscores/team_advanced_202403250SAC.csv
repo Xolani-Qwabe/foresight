@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-03-25,202403250SAC,PHI,Tyrese Maxey,https://www.basketball-reference.com/boxscores/202403250SAC.html,34:30,.778,.781,.438,.375,0.0,9.7,4.8,13.9,0.0,0.0,9.7,27.1,143,125,11.4
+2024-03-25,202403250SAC,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202403250SAC.html,25:42,.378,.333,.133,.133,0.0,34.7,17.2,0.0,0.0,0.0,11.2,31.6,76,117,-12.7
+2024-03-25,202403250SAC,PHI,Kyle Lowry,https://www.basketball-reference.com/boxscores/202403250SAC.html,25:23,.375,.375,1.000,.000,4.3,4.4,4.3,5.9,2.1,0.0,33.3,10.7,68,122,-8.9
+2024-03-25,202403250SAC,PHI,Nicolas Batum,https://www.basketball-reference.com/boxscores/202403250SAC.html,20:59,.000,.000,.667,.000,10.4,5.3,7.9,0.0,0.0,0.0,25.0,8.6,31,126,-12.1
+2024-03-25,202403250SAC,PHI,Mo Bamba,https://www.basketball-reference.com/boxscores/202403250SAC.html,12:09,.579,.333,.333,1.000,44.9,9.2,27.2,0.0,0.0,0.0,0.0,16.1,162,124,-3.5
+2024-03-25,202403250SAC,PHI,Buddy Hield,https://www.basketball-reference.com/boxscores/202403250SAC.html,32:05,.371,.333,.667,.111,3.4,13.9,8.6,15.2,0.0,0.0,0.0,13.3,107,123,-3.8
+2024-03-25,202403250SAC,PHI,Cameron Payne,https://www.basketball-reference.com/boxscores/202403250SAC.html,24:43,.400,.400,.500,.000,4.4,9.0,6.7,41.4,0.0,0.0,16.7,22.0,99,125,-4.2
+2024-03-25,202403250SAC,PHI,Paul Reed,https://www.basketball-reference.com/boxscores/202403250SAC.html,22:33,.680,.600,.000,.400,4.8,34.7,19.6,15.4,2.4,4.4,40.5,19.9,89,109,0.8
+2024-03-25,202403250SAC,PHI,KJ Martin,https://www.basketball-reference.com/boxscores/202403250SAC.html,18:59,.333,.333,.333,.000,11.5,17.6,14.5,8.7,0.0,5.3,25.0,19.1,71,119,-11.7
+2024-03-25,202403250SAC,PHI,D.J. Wilson,https://www.basketball-reference.com/boxscores/202403250SAC.html,13:57,.833,.833,.333,.000,7.8,8.0,7.9,34.0,0.0,14.3,0.0,19.5,180,117,26.1
+2024-03-25,202403250SAC,PHI,Ricky Council IV,https://www.basketball-reference.com/boxscores/202403250SAC.html,9:00,.654,.500,.600,1.200,12.1,12.4,12.3,22.9,0.0,0.0,0.0,38.5,156,124,19.3
+2024-03-25,202403250SAC,SAC,Keegan Murray,https://www.basketball-reference.com/boxscores/202403250SAC.html,37:35,.539,.525,.550,.150,0.0,8.7,4.4,19.3,1.4,2.7,0.0,25.9,118,110,4.6
+2024-03-25,202403250SAC,SAC,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202403250SAC.html,36:48,.557,.500,.333,.333,6.1,17.8,12.0,23.7,2.9,2.7,0.0,25.6,130,102,9.6
+2024-03-25,202403250SAC,SAC,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202403250SAC.html,33:22,.646,.600,.000,1.600,16.7,26.2,21.5,42.7,0.0,3.0,26.0,15.7,133,105,8.1
+2024-03-25,202403250SAC,SAC,Harrison Barnes,https://www.basketball-reference.com/boxscores/202403250SAC.html,26:21,.355,.313,.500,.125,0.0,12.4,6.3,5.3,0.0,0.0,10.6,16.3,73,113,-11.3
+2024-03-25,202403250SAC,SAC,Keon Ellis,https://www.basketball-reference.com/boxscores/202403250SAC.html,23:56,.500,.500,.600,.000,4.7,4.6,4.6,5.9,0.0,4.2,0.0,9.5,119,115,-4.9
+2024-03-25,202403250SAC,SAC,Malik Monk,https://www.basketball-reference.com/boxscores/202403250SAC.html,26:29,.446,.364,.455,.273,4.2,12.4,8.3,23.6,2.0,0.0,7.5,22.9,104,108,-2.2
+2024-03-25,202403250SAC,SAC,Davion Mitchell,https://www.basketball-reference.com/boxscores/202403250SAC.html,24:47,.836,.833,.444,.444,4.5,4.4,4.5,0.0,0.0,0.0,0.0,19.8,165,117,8.4
+2024-03-25,202403250SAC,SAC,Chris Duarte,https://www.basketball-reference.com/boxscores/202403250SAC.html,12:49,.340,.200,.800,.400,0.0,0.0,0.0,0.0,4.2,0.0,0.0,20.9,79,109,-10.2
+2024-03-25,202403250SAC,SAC,Alex Len,https://www.basketball-reference.com/boxscores/202403250SAC.html,10:32,1.017,1.000,.000,.333,10.6,41.4,26.2,0.0,0.0,19.0,22.5,19.2,145,90,15.1
+2024-03-25,202403250SAC,SAC,Kessler Edwards,https://www.basketball-reference.com/boxscores/202403250SAC.html,2:27,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,37.2,0,119,-47.0
+2024-03-25,202403250SAC,SAC,Colby Jones,https://www.basketball-reference.com/boxscores/202403250SAC.html,2:27,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-7.3
+2024-03-25,202403250SAC,SAC,JaVale McGee,https://www.basketball-reference.com/boxscores/202403250SAC.html,1:28,.000,.000,.000,.000,0.0,0.0,0.0,0.0,36.7,0.0,0.0,31.1,0,33,-0.5
+2024-03-25,202403250SAC,SAC,Jalen Slawson,https://www.basketball-reference.com/boxscores/202403250SAC.html,0:59,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,-28.0

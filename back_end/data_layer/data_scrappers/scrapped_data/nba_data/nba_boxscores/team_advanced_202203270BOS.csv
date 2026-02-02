@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-03-27,202203270BOS,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202203270BOS.html,37:11,.730,.719,.563,.063,0.0,17.9,8.6,23.2,1.3,0.0,23.3,26.8,112,138,2.5
+2022-03-27,202203270BOS,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202203270BOS.html,34:46,.567,.567,.200,.267,0.0,15.3,7.4,20.3,1.4,0.0,15.2,26.4,103,138,-3.1
+2022-03-27,202203270BOS,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202203270BOS.html,30:39,.291,.167,.500,.333,0.0,4.4,2.1,21.6,3.2,0.0,22.5,13.5,81,136,-8.6
+2022-03-27,202203270BOS,MIN,Patrick Beverley,https://www.basketball-reference.com/boxscores/202203270BOS.html,23:56,.500,.500,.571,.000,0.0,22.3,10.7,5.1,2.1,0.0,12.5,15.5,88,135,-7.0
+2022-03-27,202203270BOS,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202203270BOS.html,18:16,.698,.714,.000,.286,13.5,14.6,14.0,0.0,0.0,0.0,0.0,20.0,143,141,-1.6
+2022-03-27,202203270BOS,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202203270BOS.html,26:51,.770,.750,.375,.125,0.0,9.9,4.8,9.9,0.0,3.7,0.0,14.6,153,140,3.4
+2022-03-27,202203270BOS,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202203270BOS.html,25:26,.500,.500,.600,.000,0.0,21.0,10.1,0.0,1.9,3.9,0.0,18.3,94,133,-2.8
+2022-03-27,202203270BOS,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202203270BOS.html,16:47,.750,.750,.000,.000,0.0,0.0,0.0,15.7,2.9,6.0,20.0,13.8,125,134,1.4
+2022-03-27,202203270BOS,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202203270BOS.html,8:56,.773,.833,.333,.667,13.8,29.9,21.5,15.7,0.0,0.0,20.5,25.4,129,138,-1.8
+2022-03-27,202203270BOS,MIN,Leandro Bolmaro,https://www.basketball-reference.com/boxscores/202203270BOS.html,4:18,1.000,1.000,.000,.000,0.0,31.0,14.9,66.0,0.0,0.0,0.0,10.8,213,138,22.1
+2022-03-27,202203270BOS,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202203270BOS.html,4:18,1.250,1.250,.500,.000,28.6,31.0,29.8,0.0,0.0,0.0,0.0,21.6,242,138,29.0
+2022-03-27,202203270BOS,MIN,Jake Layman,https://www.basketball-reference.com/boxscores/202203270BOS.html,4:18,.333,.333,.333,.000,0.0,0.0,0.0,33.0,0.0,0.0,25.0,43.2,63,144,-26.1
+2022-03-27,202203270BOS,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202203270BOS.html,4:18,.750,.750,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.6,131,144,5.0
+2022-03-27,202203270BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202203270BOS.html,34:40,.712,.675,.250,.200,3.8,32.0,18.5,8.6,0.0,0.0,4.4,28.8,145,119,6.3
+2022-03-27,202203270BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202203270BOS.html,33:43,.733,.690,.524,.238,0.0,18.3,9.5,26.8,1.5,2.7,11.5,34.1,140,114,13.2
+2022-03-27,202203270BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202203270BOS.html,28:19,.595,.500,.600,.400,0.0,13.0,6.8,0.0,0.0,3.3,0.0,9.1,131,116,-3.9
+2022-03-27,202203270BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202203270BOS.html,27:28,.389,.389,.667,.000,0.0,13.4,7.0,28.0,3.6,0.0,30.8,20.8,87,112,-7.0
+2022-03-27,202203270BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202203270BOS.html,23:47,.874,.857,.000,.143,33.6,20.7,26.9,0.0,2.1,3.9,0.0,13.7,194,111,8.0
+2022-03-27,202203270BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202203270BOS.html,30:14,.915,.833,.667,.833,0.0,8.1,4.2,22.3,1.6,0.0,32.8,17.7,136,117,5.3
+2022-03-27,202203270BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202203270BOS.html,21:01,.786,.786,.714,.000,6.3,5.9,6.1,28.6,0.0,4.4,0.0,14.6,182,116,14.6
+2022-03-27,202203270BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202203270BOS.html,17:33,.400,.400,.200,.000,15.2,28.1,21.9,0.0,2.8,0.0,16.7,15.0,92,112,-11.3
+2022-03-27,202203270BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202203270BOS.html,15:37,.521,.500,.500,1.000,0.0,31.5,16.4,7.2,3.1,5.9,0.0,16.2,120,105,1.0
+2022-03-27,202203270BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202203270BOS.html,3:49,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,300,121,45.0
+2022-03-27,202203270BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202203270BOS.html,3:49,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.5,0,121,-17.9

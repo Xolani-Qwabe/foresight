@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-29,202001290IND,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202001290IND.html,44:23,.390,.326,.478,.261,0.0,11.7,6.0,29.3,1.2,0.0,13.5,32.3,84,117,-7.4
+2020-01-29,202001290IND,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202001290IND.html,35:53,.673,.682,.364,.182,0.0,7.2,3.7,8.5,1.5,0.0,20.2,20.1,103,117,-2.8
+2020-01-29,202001290IND,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202001290IND.html,35:40,.688,.688,.375,.000,0.0,14.5,7.4,15.8,2.9,0.0,20.0,13.6,114,112,1.0
+2020-01-29,202001290IND,CHI,Luke Kornet,https://www.basketball-reference.com/boxscores/202001290IND.html,20:12,.750,.750,.250,.000,13.5,12.8,13.1,0.0,0.0,4.2,20.0,12.0,124,116,-1.8
+2020-01-29,202001290IND,CHI,Kris Dunn,https://www.basketball-reference.com/boxscores/202001290IND.html,16:21,1.000,1.000,.000,.000,0.0,31.6,16.2,27.6,3.2,0.0,25.0,11.8,152,107,8.2
+2020-01-29,202001290IND,CHI,Cristiano Felício,https://www.basketball-reference.com/boxscores/202001290IND.html,29:51,.764,.800,.000,1.000,13.7,21.7,17.8,4.7,0.0,0.0,12.2,13.3,144,116,-1.1
+2020-01-29,202001290IND,CHI,Chandler Hutchison,https://www.basketball-reference.com/boxscores/202001290IND.html,27:37,.706,.714,.214,.143,0.0,14.0,7.2,14.9,1.9,3.1,6.3,27.8,128,113,9.1
+2020-01-29,202001290IND,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202001290IND.html,21:49,.222,.222,.556,.000,0.0,11.9,6.1,12.1,9.6,0.0,25.0,26.6,43,98,-11.3
+2020-01-29,202001290IND,CHI,Coby White,https://www.basketball-reference.com/boxscores/202001290IND.html,19:36,.750,.750,.833,.000,6.9,0.0,3.4,0.0,0.0,0.0,14.3,17.3,119,122,-1.2
+2020-01-29,202001290IND,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202001290IND.html,13:38,.500,.500,.500,.000,0.0,19.0,9.7,28.4,0.0,6.3,33.3,10.6,98,113,0.7
+2020-01-29,202001290IND,IND,T.J. Warren,https://www.basketball-reference.com/boxscores/202001290IND.html,41:02,.746,.733,.200,.267,6.3,6.6,6.5,3.9,2.5,0.0,10.7,20.9,137,104,5.5
+2020-01-29,202001290IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202001290IND.html,37:53,.483,.417,.083,.667,10.2,28.7,19.2,17.9,0.0,0.0,6.1,20.0,118,107,-0.5
+2020-01-29,202001290IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202001290IND.html,35:53,.631,.682,.364,.182,7.2,22.7,14.8,37.3,4.4,0.0,20.2,19.0,122,99,10.1
+2020-01-29,202001290IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202001290IND.html,32:03,.455,.455,.273,.000,0.0,21.2,10.3,0.0,3.3,0.0,8.3,17.2,88,101,-4.5
+2020-01-29,202001290IND,IND,JaKarr Sampson,https://www.basketball-reference.com/boxscores/202001290IND.html,19:29,.600,.600,.200,.000,19.9,14.0,17.0,0.0,0.0,5.2,0.0,11.8,143,105,1.4
+2020-01-29,202001290IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202001290IND.html,28:36,.945,.917,.667,.333,9.0,9.5,9.3,14.4,1.8,0.0,12.7,12.6,171,105,12.0
+2020-01-29,202001290IND,IND,Victor Oladipo,https://www.basketball-reference.com/boxscores/202001290IND.html,20:57,.461,.313,.875,.500,0.0,13.0,6.3,24.7,0.0,0.0,17.0,25.7,101,109,-3.6
+2020-01-29,202001290IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202001290IND.html,17:07,.500,.500,.000,.000,0.0,0.0,0.0,23.3,0.0,0.0,33.3,16.1,86,110,-10.9
+2020-01-29,202001290IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202001290IND.html,16:53,.450,.375,.375,.250,7.7,16.1,11.8,8.6,0.0,0.0,18.4,29.5,88,109,-9.4
+2020-01-29,202001290IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202001290IND.html,15:07,.556,.556,.111,.000,0.0,36.0,17.5,0.0,0.0,6.7,25.0,36.4,77,101,-10.6

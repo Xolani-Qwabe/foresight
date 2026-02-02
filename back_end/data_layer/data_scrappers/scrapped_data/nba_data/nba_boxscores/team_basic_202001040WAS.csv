@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-01-04,202001040WAS,DEN,Jamal Murray,https://www.basketball-reference.com/boxscores/202001040WAS.html,34.53,13,19,.684,3,7,.429,10,10,1.000,0,1,1,4,2,1,2,2,39,33.9,+1
+2020-01-04,202001040WAS,DEN,Gary Harris,https://www.basketball-reference.com/boxscores/202001040WAS.html,31.88,3,12,.250,0,4,.000,1,1,1.000,1,4,5,1,1,0,0,3,7,2.2,0
+2020-01-04,202001040WAS,DEN,Will Barton,https://www.basketball-reference.com/boxscores/202001040WAS.html,30.87,3,8,.375,0,3,.000,4,4,1.000,1,2,3,1,0,0,0,2,10,6.8,+2
+2020-01-04,202001040WAS,DEN,Nikola Jokić,https://www.basketball-reference.com/boxscores/202001040WAS.html,30.33,4,10,.400,1,3,.333,5,7,.714,2,8,10,4,1,0,2,0,14,13.4,0
+2020-01-04,202001040WAS,DEN,Paul Millsap,https://www.basketball-reference.com/boxscores/202001040WAS.html,22.77,3,9,.333,0,2,.000,6,7,.857,2,3,5,1,0,0,2,5,12,5.5,+5
+2020-01-04,202001040WAS,DEN,Malik Beasley,https://www.basketball-reference.com/boxscores/202001040WAS.html,16.4,3,6,.500,2,5,.400,0,0,,0,0,0,0,1,0,0,1,8,5.6,-6
+2020-01-04,202001040WAS,DEN,Jerami Grant,https://www.basketball-reference.com/boxscores/202001040WAS.html,15.85,3,6,.500,0,2,.000,1,1,1.000,0,0,0,1,0,0,2,3,7,1.5,-25
+2020-01-04,202001040WAS,DEN,Monte Morris,https://www.basketball-reference.com/boxscores/202001040WAS.html,15.18,3,7,.429,0,1,.000,0,0,,0,1,1,3,1,0,1,2,6,3.9,-12
+2020-01-04,202001040WAS,DEN,Mason Plumlee,https://www.basketball-reference.com/boxscores/202001040WAS.html,15.08,2,5,.400,0,0,,0,2,.000,2,3,5,1,0,0,0,1,4,3.1,-14
+2020-01-04,202001040WAS,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202001040WAS.html,12.15,3,5,.600,0,2,.000,1,2,.500,1,1,2,0,0,1,3,2,7,2.2,-16
+2020-01-04,202001040WAS,DEN,Torrey Craig,https://www.basketball-reference.com/boxscores/202001040WAS.html,6.98,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-4
+2020-01-04,202001040WAS,DEN,Juancho Hernangómez,https://www.basketball-reference.com/boxscores/202001040WAS.html,5.38,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-1
+2020-01-04,202001040WAS,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202001040WAS.html,2.58,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,0
+2020-01-04,202001040WAS,WAS,Johnathan Williams,https://www.basketball-reference.com/boxscores/202001040WAS.html,30.97,6,8,.750,0,0,,0,0,,2,6,8,1,0,3,0,3,12,13.6,+16
+2020-01-04,202001040WAS,WAS,Jordan McRae,https://www.basketball-reference.com/boxscores/202001040WAS.html,28.8,3,15,.200,1,4,.250,4,4,1.000,2,2,4,2,0,1,4,3,11,0.6,-10
+2020-01-04,202001040WAS,WAS,Ian Mahinmi,https://www.basketball-reference.com/boxscores/202001040WAS.html,18.85,2,3,.667,0,0,,0,0,,3,2,5,1,1,0,2,3,4,3.9,-17
+2020-01-04,202001040WAS,WAS,Isaiah Thomas,https://www.basketball-reference.com/boxscores/202001040WAS.html,16.72,2,9,.222,1,2,.500,4,4,1.000,0,0,0,2,0,0,3,4,9,0.3,-12
+2020-01-04,202001040WAS,WAS,Gary Payton II,https://www.basketball-reference.com/boxscores/202001040WAS.html,10.88,0,0,,0,0,,0,0,,0,2,2,2,0,0,0,2,0,1.2,-11
+2020-01-04,202001040WAS,WAS,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202001040WAS.html,35.7,10,12,.833,2,3,.667,3,3,1.000,2,12,14,3,1,0,1,2,25,26.9,+23
+2020-01-04,202001040WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/202001040WAS.html,34.07,15,24,.625,1,2,.500,1,2,.500,0,3,3,8,3,0,0,2,32,29.5,+18
+2020-01-04,202001040WAS,WAS,Anžejs Pasečņiks,https://www.basketball-reference.com/boxscores/202001040WAS.html,22.18,6,8,.750,0,0,,1,2,.500,3,5,8,1,0,1,1,5,13,11.4,+26
+2020-01-04,202001040WAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/202001040WAS.html,21.22,5,6,.833,0,0,,5,7,.714,2,2,4,0,0,1,0,1,15,14.3,+11
+2020-01-04,202001040WAS,WAS,Garrison Mathews,https://www.basketball-reference.com/boxscores/202001040WAS.html,20.62,1,6,.167,1,5,.200,4,5,.800,0,1,1,0,0,0,0,3,7,1.9,+26

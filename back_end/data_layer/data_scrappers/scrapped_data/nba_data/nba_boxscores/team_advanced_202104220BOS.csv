@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-22,202104220BOS,PHO,Mikal Bridges,https://www.basketball-reference.com/boxscores/202104220BOS.html,44:44,.469,.469,.563,.000,4.5,0.0,2.5,15.1,1.1,0.0,0.0,15.8,109,112,1.4
+2021-04-22,202104220BOS,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202104220BOS.html,38:06,.635,.594,.438,.188,0.0,26.5,11.7,38.9,2.6,0.0,18.8,24.7,113,100,8.4
+2021-04-22,202104220BOS,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202104220BOS.html,33:47,.625,.625,.000,.000,8.9,22.4,14.9,4.9,1.5,3.8,0.0,10.4,137,102,3.3
+2021-04-22,202104220BOS,PHO,Cameron Johnson,https://www.basketball-reference.com/boxscores/202104220BOS.html,33:41,.337,.273,.545,.182,3.0,18.8,9.9,4.5,1.5,3.9,7.8,16.8,73,103,-3.8
+2021-04-22,202104220BOS,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202104220BOS.html,25:33,.508,.462,.154,.308,7.8,9.9,8.7,15.2,0.0,0.0,25.3,34.1,82,111,-8.3
+2021-04-22,202104220BOS,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202104220BOS.html,22:00,.438,.438,.500,.000,4.5,23.0,12.7,0.0,0.0,0.0,20.0,20.0,73,107,-8.3
+2021-04-22,202104220BOS,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202104220BOS.html,17:43,.389,.389,.444,.000,5.6,14.3,9.5,9.7,2.8,0.0,10.0,24.9,79,103,-0.1
+2021-04-22,202104220BOS,PHO,Dario Šarić,https://www.basketball-reference.com/boxscores/202104220BOS.html,11:03,.200,.200,.400,.000,0.0,0.0,0.0,0.0,9.1,0.0,28.6,27.9,29,93,-13.4
+2021-04-22,202104220BOS,PHO,Jevon Carter,https://www.basketball-reference.com/boxscores/202104220BOS.html,9:57,.000,.000,1.000,.000,0.0,12.7,5.6,13.4,0.0,0.0,50.0,8.9,23,110,-12.0
+2021-04-22,202104220BOS,PHO,Langston Galloway,https://www.basketball-reference.com/boxscores/202104220BOS.html,3:26,.000,.000,.000,.000,0.0,0.0,0.0,0.0,29.2,0.0,50.0,25.7,0,45,6.2
+2021-04-22,202104220BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202104220BOS.html,36:54,.815,.794,.647,.353,0.0,10.8,6.1,27.8,0.0,2.5,16.9,28.6,134,93,13.8
+2021-04-22,202104220BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202104220BOS.html,35:32,.446,.409,.455,.273,10.7,11.3,11.0,24.5,1.4,0.0,0.0,15.5,123,92,3.2
+2021-04-22,202104220BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202104220BOS.html,33:58,.365,.206,.471,.471,0.0,32.4,18.1,29.5,1.5,0.0,19.6,33.5,79,86,-4.8
+2021-04-22,202104220BOS,BOS,Tristan Thompson,https://www.basketball-reference.com/boxscores/202104220BOS.html,33:46,.541,.429,.000,.429,18.7,20.7,19.8,4.9,1.5,0.0,32.5,16.3,94,89,-2.9
+2021-04-22,202104220BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202104220BOS.html,31:48,.250,.250,.500,.000,4.0,0.0,1.8,0.0,0.0,2.8,0.0,5.6,71,96,-4.8
+2021-04-22,202104220BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202104220BOS.html,20:41,.563,.500,.875,.250,0.0,19.3,10.8,0.0,2.4,0.0,0.0,19.2,121,87,4.9
+2021-04-22,202104220BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202104220BOS.html,17:11,.512,.500,.500,.500,7.4,5.8,6.5,0.0,5.8,0.0,38.1,20.5,66,84,-5.2
+2021-04-22,202104220BOS,BOS,Jabari Parker,https://www.basketball-reference.com/boxscores/202104220BOS.html,15:20,.600,.600,.200,.000,0.0,26.1,14.6,53.0,3.3,0.0,28.6,20.4,105,84,9.9
+2021-04-22,202104220BOS,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202104220BOS.html,8:58,1.000,1.000,1.000,.000,0.0,11.2,6.2,0.0,0.0,0.0,25.0,19.9,115,95,6.9
+2021-04-22,202104220BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202104220BOS.html,5:52,1.500,1.500,1.000,.000,0.0,34.1,19.0,0.0,0.0,0.0,50.0,15.2,83,88,9.3

@@ -1,0 +1,69 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-12-02,202412020ATL,NOP,Q1,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412020ATL.html,12.0,2,5,.400,1,2,.500,0,0,0,4,4,3,3,1,2,0,5,7.3,+2,
+2024-12-02,202412020ATL,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412020ATL.html,10.05,1,3,.333,0,1,.000,0,0,0,0,0,2,1,0,0,0,2,2.7,+3,
+2024-12-02,202412020ATL,NOP,Q1,Yves Missi,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.05,3,4,.750,0,0,,0,0,1,0,1,0,0,0,0,0,6,5.1,-5,
+2024-12-02,202412020ATL,NOP,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.87,2,3,.667,0,1,.000,1,2,0,1,1,0,0,0,1,2,5,1.8,-4,.500
+2024-12-02,202412020ATL,NOP,Q1,Javonte Green,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.78,0,0,,0,0,,0,0,1,0,1,1,0,0,1,0,0,0.4,-3,
+2024-12-02,202412020ATL,NOP,Q1,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.22,2,3,.667,0,1,.000,0,0,0,0,0,0,0,0,1,0,4,1.7,+5,
+2024-12-02,202412020ATL,NOP,Q1,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.22,1,2,.500,1,1,1.000,0,0,0,0,0,0,1,0,1,0,3,2.0,+5,
+2024-12-02,202412020ATL,NOP,Q1,Daniel Theis,https://www.basketball-reference.com/boxscores/202412020ATL.html,4.82,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,1,0,3,2.0,+7,
+2024-12-02,202412020ATL,NOP,Q2,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.93,0,2,.000,0,2,.000,2,2,0,0,0,2,0,0,0,0,2,2.0,-4,1.000
+2024-12-02,202412020ATL,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.88,1,3,.333,0,2,.000,1,1,0,0,0,0,1,0,0,2,3,1.5,-4,1.000
+2024-12-02,202412020ATL,NOP,Q2,Yves Missi,https://www.basketball-reference.com/boxscores/202412020ATL.html,8.97,2,3,.667,0,0,,1,3,1,2,3,0,0,0,1,2,5,2.4,0,.333
+2024-12-02,202412020ATL,NOP,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.37,4,8,.500,0,2,.000,1,2,0,1,1,0,0,0,0,0,9,4.9,-3,.500
+2024-12-02,202412020ATL,NOP,Q2,Javonte Green,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.22,0,2,.000,0,0,,0,0,0,0,0,1,1,0,0,1,0,-0.1,+4,
+2024-12-02,202412020ATL,NOP,Q2,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.75,3,6,.500,2,3,.667,2,2,0,2,2,0,0,0,0,0,10,7.6,+5,1.000
+2024-12-02,202412020ATL,NOP,Q2,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.78,1,1,1.000,0,0,,0,0,1,1,2,1,1,0,0,0,2,4.4,-5,
+2024-12-02,202412020ATL,NOP,Q2,Daniel Theis,https://www.basketball-reference.com/boxscores/202412020ATL.html,3.03,0,0,,0,0,,0,0,1,2,3,0,0,0,0,1,0,0.9,-1,
+2024-12-02,202412020ATL,NOP,Q2,Elfrid Payton,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.07,0,1,.000,0,0,,0,0,0,0,0,1,1,0,1,0,0,0.0,+3,
+2024-12-02,202412020ATL,NOP,Q3,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412020ATL.html,10.47,0,4,.000,0,2,.000,0,0,0,0,0,2,0,0,1,0,0,-2.4,-7,
+2024-12-02,202412020ATL,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412020ATL.html,12.0,1,2,.500,1,2,.500,0,0,0,1,1,3,0,1,1,2,3,3.3,-8,
+2024-12-02,202412020ATL,NOP,Q3,Yves Missi,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.22,3,4,.750,0,0,,0,1,3,2,5,0,1,1,2,2,6,5.6,+1,.000
+2024-12-02,202412020ATL,NOP,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.33,2,7,.286,2,4,.500,0,0,1,1,2,1,0,0,0,0,6,3.6,+1,
+2024-12-02,202412020ATL,NOP,Q3,Javonte Green,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.68,2,4,.500,0,2,.000,0,0,2,2,4,0,0,1,0,1,4,4.3,+1,
+2024-12-02,202412020ATL,NOP,Q3,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.7,2,4,.500,1,1,1.000,0,0,0,1,1,0,1,0,1,1,5,2.9,-9,
+2024-12-02,202412020ATL,NOP,Q3,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.82,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,-10,
+2024-12-02,202412020ATL,NOP,Q3,Daniel Theis,https://www.basketball-reference.com/boxscores/202412020ATL.html,4.78,0,1,.000,0,1,.000,0,0,0,0,0,0,1,0,0,1,0,-0.1,-9,
+2024-12-02,202412020ATL,NOP,Q4,Dejounte Murray,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.72,0,4,.000,0,1,.000,0,0,0,1,1,3,2,0,1,0,0,0.6,-6,
+2024-12-02,202412020ATL,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202412020ATL.html,8.1,2,4,.500,2,4,.500,0,0,0,0,0,0,0,0,0,1,6,3.6,-6,
+2024-12-02,202412020ATL,NOP,Q4,Yves Missi,https://www.basketball-reference.com/boxscores/202412020ATL.html,12.0,3,3,1.000,0,0,,0,0,2,1,3,0,0,0,1,0,6,5.8,-5,
+2024-12-02,202412020ATL,NOP,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202412020ATL.html,10.05,4,8,.500,1,4,.250,0,0,1,1,2,1,1,0,0,2,9,6.9,-1,
+2024-12-02,202412020ATL,NOP,Q4,Javonte Green,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.27,1,3,.333,1,2,.500,3,4,1,0,1,0,0,1,0,0,6,5.3,-8,.750
+2024-12-02,202412020ATL,NOP,Q4,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202412020ATL.html,8.13,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,0,0,0,-1.1,-2,
+2024-12-02,202412020ATL,NOP,Q4,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202412020ATL.html,2.73,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,+3,
+2024-12-02,202412020ATL,ATL,Q1,Trae Young,https://www.basketball-reference.com/boxscores/202412020ATL.html,8.27,2,4,.500,0,1,.000,0,0,0,2,2,3,0,0,0,0,4,4.7,+5,
+2024-12-02,202412020ATL,ATL,Q1,Dyson Daniels,https://www.basketball-reference.com/boxscores/202412020ATL.html,8.27,1,2,.500,0,1,.000,0,0,0,0,0,1,2,0,2,0,2,1.7,+5,
+2024-12-02,202412020ATL,ATL,Q1,Jalen Johnson,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.52,3,3,1.000,1,1,1.000,0,0,0,2,2,2,0,0,1,0,7,7.1,-4,
+2024-12-02,202412020ATL,ATL,Q1,Clint Capela,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.78,0,0,,0,0,,0,0,0,2,2,0,0,0,1,0,0,-0.4,+3,
+2024-12-02,202412020ATL,ATL,Q1,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.05,2,3,.667,1,2,.500,0,0,0,0,0,0,1,0,1,2,5,2.9,+5,
+2024-12-02,202412020ATL,ATL,Q1,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.22,1,4,.250,0,2,.000,0,0,0,1,1,0,0,0,1,0,2,-1.1,-5,
+2024-12-02,202412020ATL,ATL,Q1,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202412020ATL.html,4.95,1,1,1.000,1,1,1.000,0,0,0,0,0,0,1,0,0,1,3,3.3,-7,
+2024-12-02,202412020ATL,ATL,Q1,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.22,0,1,.000,0,0,,1,2,0,0,0,0,1,0,1,0,1,-0.1,-5,.500
+2024-12-02,202412020ATL,ATL,Q1,Kobe Bufkin,https://www.basketball-reference.com/boxscores/202412020ATL.html,3.73,0,0,,0,0,,2,2,0,0,0,0,0,0,0,0,2,2.0,-7,1.000
+2024-12-02,202412020ATL,ATL,Q2,Trae Young,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.07,0,3,.000,0,2,.000,0,0,1,1,2,6,0,0,3,1,0,-0.3,-1,
+2024-12-02,202412020ATL,ATL,Q2,Dyson Daniels,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.07,4,6,.667,1,3,.333,0,0,1,1,2,1,0,1,0,1,9,8.4,-1,
+2024-12-02,202412020ATL,ATL,Q2,Jalen Johnson,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.18,0,4,.000,0,3,.000,0,0,0,2,2,0,0,1,0,1,0,-1.9,+8,
+2024-12-02,202412020ATL,ATL,Q2,Clint Capela,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.82,2,2,1.000,0,0,,0,0,1,4,5,1,1,1,0,0,4,7.7,-2,
+2024-12-02,202412020ATL,ATL,Q2,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.12,1,2,.500,0,1,.000,1,2,0,0,0,1,0,0,0,0,3,2.3,-3,.500
+2024-12-02,202412020ATL,ATL,Q2,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.88,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,0,2,3,1.2,+4,
+2024-12-02,202412020ATL,ATL,Q2,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.75,0,4,.000,0,4,.000,2,2,0,2,2,0,0,0,1,1,2,-1.6,-5,1.000
+2024-12-02,202412020ATL,ATL,Q2,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.18,2,2,1.000,0,0,,3,3,0,1,1,0,0,0,0,0,7,6.7,+3,1.000
+2024-12-02,202412020ATL,ATL,Q2,Kobe Bufkin,https://www.basketball-reference.com/boxscores/202412020ATL.html,2.93,2,2,1.000,0,0,,0,0,1,0,1,0,0,0,0,0,4,4.1,+2,
+2024-12-02,202412020ATL,ATL,Q3,Trae Young,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.23,2,5,.400,1,3,.333,0,0,0,3,3,0,0,0,1,0,5,2.2,+8,
+2024-12-02,202412020ATL,ATL,Q3,Dyson Daniels,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.23,2,7,.286,0,1,.000,0,0,1,2,3,0,2,0,0,0,4,3.2,+8,
+2024-12-02,202412020ATL,ATL,Q3,Jalen Johnson,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.22,1,2,.500,0,0,,0,0,0,2,2,2,1,0,1,0,2,3.0,-1,
+2024-12-02,202412020ATL,ATL,Q3,Clint Capela,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.68,2,3,.667,0,0,,1,1,3,2,5,0,1,0,0,1,5,7.0,-1,1.000
+2024-12-02,202412020ATL,ATL,Q3,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.83,0,3,.000,0,1,.000,1,2,0,0,0,0,0,1,0,0,1,-0.8,0,.500
+2024-12-02,202412020ATL,ATL,Q3,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.55,2,3,.667,2,2,1.000,2,2,1,0,1,0,0,0,0,1,8,7.0,+9,1.000
+2024-12-02,202412020ATL,ATL,Q3,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.17,0,2,.000,0,1,.000,1,1,0,1,1,2,1,0,0,1,1,1.9,+8,1.000
+2024-12-02,202412020ATL,ATL,Q3,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.32,2,2,1.000,0,0,,0,0,1,2,3,0,0,0,0,0,4,4.7,+9,
+2024-12-02,202412020ATL,ATL,Q3,Kobe Bufkin,https://www.basketball-reference.com/boxscores/202412020ATL.html,2.77,2,2,1.000,0,0,,0,1,0,0,0,1,0,0,1,0,4,2.7,0,.000
+2024-12-02,202412020ATL,ATL,Q4,Trae Young,https://www.basketball-reference.com/boxscores/202412020ATL.html,9.27,1,4,.250,1,3,.333,0,0,0,1,1,6,1,0,1,2,3,4.3,+8,
+2024-12-02,202412020ATL,ATL,Q4,Dyson Daniels,https://www.basketball-reference.com/boxscores/202412020ATL.html,8.1,1,1,1.000,0,0,,2,2,0,1,1,0,0,0,0,0,4,4.0,+6,1.000
+2024-12-02,202412020ATL,ATL,Q4,Jalen Johnson,https://www.basketball-reference.com/boxscores/202412020ATL.html,7.77,5,5,1.000,0,0,,0,0,0,1,1,1,0,0,2,0,10,7.5,+2,
+2024-12-02,202412020ATL,ATL,Q4,Clint Capela,https://www.basketball-reference.com/boxscores/202412020ATL.html,10.48,0,1,.000,0,0,,0,0,1,4,5,1,0,0,0,0,0,1.9,+8,
+2024-12-02,202412020ATL,ATL,Q4,Zaccharie Risacher,https://www.basketball-reference.com/boxscores/202412020ATL.html,5.4,2,3,.667,0,1,.000,0,0,0,1,1,0,0,0,0,0,4,3.0,+5,
+2024-12-02,202412020ATL,ATL,Q4,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202412020ATL.html,8.02,4,5,.800,1,2,.500,0,0,0,0,0,0,0,0,0,0,9,7.1,+1,
+2024-12-02,202412020ATL,ATL,Q4,Bogdan Bogdanović,https://www.basketball-reference.com/boxscores/202412020ATL.html,6.72,1,3,.333,0,2,.000,0,0,0,1,1,1,0,0,0,1,2,0.9,+1,
+2024-12-02,202412020ATL,ATL,Q4,Onyeka Okongwu,https://www.basketball-reference.com/boxscores/202412020ATL.html,1.52,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-3,
+2024-12-02,202412020ATL,ATL,Q4,Kobe Bufkin,https://www.basketball-reference.com/boxscores/202412020ATL.html,2.73,0,0,,0,0,,0,0,0,1,1,0,0,0,1,0,0,-0.7,-3,

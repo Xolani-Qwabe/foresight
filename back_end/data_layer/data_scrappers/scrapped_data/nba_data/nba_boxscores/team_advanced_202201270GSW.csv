@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-27,202201270GSW,MIN,Anthony Edwards,https://www.basketball-reference.com/boxscores/202201270GSW.html,37:20,.615,.500,.611,.500,5.5,12.5,8.8,24.3,1.3,5.6,12.0,27.7,123,123,6.7
+2022-01-27,202201270GSW,MIN,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202201270GSW.html,35:53,.629,.591,.273,.273,11.4,26.1,18.2,30.9,1.3,0.0,7.5,30.8,130,124,10.2
+2022-01-27,202201270GSW,MIN,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202201270GSW.html,32:59,.788,.813,.625,.250,3.1,10.6,6.6,4.2,1.4,3.2,10.1,12.4,140,125,3.5
+2022-01-27,202201270GSW,MIN,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202201270GSW.html,30:08,.781,.750,.000,1.000,3.4,27.2,14.5,4.3,4.7,0.0,0.0,7.9,168,115,3.2
+2022-01-27,202201270GSW,MIN,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202201270GSW.html,19:49,.368,.400,.700,.200,0.0,23.6,11.0,34.9,2.4,0.0,8.4,24.8,87,122,-3.3
+2022-01-27,202201270GSW,MIN,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202201270GSW.html,28:50,.313,.313,.313,.000,7.1,4.1,5.7,9.9,5.0,0.0,0.0,23.0,80,120,-6.8
+2022-01-27,202201270GSW,MIN,Malik Beasley,https://www.basketball-reference.com/boxscores/202201270GSW.html,20:03,.182,.182,.727,.000,0.0,0.0,0.0,6.4,0.0,5.2,8.3,24.8,41,130,-19.7
+2022-01-27,202201270GSW,MIN,Taurean Prince,https://www.basketball-reference.com/boxscores/202201270GSW.html,16:11,.525,.333,.333,1.333,0.0,21.7,10.1,0.0,0.0,0.0,0.0,12.2,115,128,-8.6
+2022-01-27,202201270GSW,MIN,Naz Reid,https://www.basketball-reference.com/boxscores/202201270GSW.html,11:04,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,11.2,112,133,-5.9
+2022-01-27,202201270GSW,MIN,Josh Okogie,https://www.basketball-reference.com/boxscores/202201270GSW.html,6:35,1.500,1.500,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.3,300,133,7.2
+2022-01-27,202201270GSW,MIN,Nathan Knight,https://www.basketball-reference.com/boxscores/202201270GSW.html,0:33,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,133,-10.4
+2022-01-27,202201270GSW,MIN,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202201270GSW.html,0:33,,,,,0.0,100.0,99.2,0.0,0.0,0.0,,0.0,0,87,-1.4
+2022-01-27,202201270GSW,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202201270GSW.html,38:21,.680,.650,.500,.150,0.0,21.3,11.4,23.9,3.7,0.0,15.8,29.0,121,109,6.6
+2022-01-27,202201270GSW,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202201270GSW.html,35:57,.738,.792,.667,.167,0.0,14.2,7.6,15.4,1.3,5.2,0.0,15.7,151,113,9.6
+2022-01-27,202201270GSW,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202201270GSW.html,26:59,.719,.719,.563,.000,4.3,15.1,10.1,25.4,0.0,3.5,20.0,32.6,115,117,5.2
+2022-01-27,202201270GSW,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202201270GSW.html,26:28,.698,.643,.286,.286,4.4,11.6,8.2,9.9,3.6,0.0,11.3,14.7,137,112,1.6
+2022-01-27,202201270GSW,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202201270GSW.html,24:10,.518,.400,.000,.800,14.5,12.7,13.5,5.0,2.0,0.0,22.8,15.9,107,115,-9.7
+2022-01-27,202201270GSW,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202201270GSW.html,24:03,.752,.650,.400,.600,9.7,4.2,6.8,29.3,2.0,0.0,13.7,26.7,149,117,8.5
+2022-01-27,202201270GSW,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202201270GSW.html,17:44,.340,.400,.200,.400,6.6,17.3,12.3,0.0,0.0,0.0,25.4,19.5,57,118,-18.2
+2022-01-27,202201270GSW,GSW,Nemanja Bjelica,https://www.basketball-reference.com/boxscores/202201270GSW.html,16:04,.868,1.000,.000,1.000,0.0,6.4,3.4,47.1,0.0,0.0,25.8,10.6,167,120,6.3
+2022-01-27,202201270GSW,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202201270GSW.html,14:34,1.000,1.000,.000,.000,16.1,42.1,30.0,8.8,0.0,0.0,33.3,9.0,151,112,1.9
+2022-01-27,202201270GSW,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202201270GSW.html,13:47,.500,.500,.667,.000,0.0,22.2,11.9,8.6,0.0,0.0,0.0,9.6,120,117,-1.8
+2022-01-27,202201270GSW,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202201270GSW.html,1:51,,,,,0.0,0.0,0.0,59.0,0.0,0.0,100.0,23.8,59,123,-11.4

@@ -1,0 +1,66 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2024-05-28,202405280DAL,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405280DAL.html,12.0,4,7,.571,1,2,.500,5,8,.625,1,3,4,0,0,0,2,1,14,8.7,+7
+2024-05-28,202405280DAL,MIN,Q1,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.17,1,1,1.000,0,0,,1,2,.500,0,5,5,1,0,1,1,1,3,3.8,+8
+2024-05-28,202405280DAL,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.72,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,1,0,0,2,1.7,+6
+2024-05-28,202405280DAL,MIN,Q1,Mike Conley,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.48,1,2,.500,0,1,.000,0,0,,0,0,0,2,3,0,0,0,2,5.4,+7
+2024-05-28,202405280DAL,MIN,Q1,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.77,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,2,2,4,0.9,+8
+2024-05-28,202405280DAL,MIN,Q1,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.52,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,0
+2024-05-28,202405280DAL,MIN,Q1,Naz Reid,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.52,1,2,.500,0,0,,0,0,,0,3,3,0,0,0,0,1,2,1.5,0
+2024-05-28,202405280DAL,MIN,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405280DAL.html,2.83,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1
+2024-05-28,202405280DAL,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405280DAL.html,6.13,1,4,.250,1,2,.500,0,0,,0,0,0,0,0,0,0,2,3,-0.2,-5
+2024-05-28,202405280DAL,MIN,Q2,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405280DAL.html,8.45,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,1,2,2,0.5,-6
+2024-05-28,202405280DAL,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.22,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,2,0,-2.2,-1
+2024-05-28,202405280DAL,MIN,Q2,Mike Conley,https://www.basketball-reference.com/boxscores/202405280DAL.html,11.08,4,6,.667,1,2,.500,2,2,1.000,1,2,3,1,0,0,0,1,11,10.0,-7
+2024-05-28,202405280DAL,MIN,Q2,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405280DAL.html,5.32,0,1,.000,0,0,,1,1,1.000,0,0,0,0,0,0,0,1,1,-0.1,0
+2024-05-28,202405280DAL,MIN,Q2,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405280DAL.html,6.37,1,3,.333,0,0,,0,0,,2,0,2,1,0,0,0,0,2,2.4,-4
+2024-05-28,202405280DAL,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.57,0,2,.000,0,1,.000,0,0,,1,1,2,1,0,0,1,0,0,-0.7,-10
+2024-05-28,202405280DAL,MIN,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405280DAL.html,5.87,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,1,1,0,3,2.0,-2
+2024-05-28,202405280DAL,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405280DAL.html,12.0,3,7,.429,0,1,.000,0,0,,0,1,1,6,0,0,2,1,6,4.4,+5
+2024-05-28,202405280DAL,MIN,Q3,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.83,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+4
+2024-05-28,202405280DAL,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405280DAL.html,12.0,3,4,.750,2,2,1.000,0,0,,0,1,1,0,1,0,0,0,8,7.7,+5
+2024-05-28,202405280DAL,MIN,Q3,Mike Conley,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.82,0,1,.000,0,1,.000,0,0,,0,0,0,3,1,0,0,0,0,2.4,+2
+2024-05-28,202405280DAL,MIN,Q3,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.02,4,4,1.000,1,1,1.000,1,1,1.000,0,4,4,0,0,0,2,2,10,7.2,+3
+2024-05-28,202405280DAL,MIN,Q3,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.18,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,1,0,0.9,+3
+2024-05-28,202405280DAL,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.98,1,1,1.000,0,0,,0,1,.000,0,0,0,0,0,0,0,0,2,1.3,+2
+2024-05-28,202405280DAL,MIN,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405280DAL.html,2.17,1,2,.500,1,2,.500,0,0,,0,0,0,0,1,0,0,0,3,3.0,+1
+2024-05-28,202405280DAL,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202405280DAL.html,10.3,3,7,.429,0,0,,0,0,,0,5,5,3,0,0,2,1,6,3.5,0
+2024-05-28,202405280DAL,MIN,Q4,Rudy Gobert,https://www.basketball-reference.com/boxscores/202405280DAL.html,11.8,3,4,.750,0,0,,2,5,.400,0,3,3,0,0,0,0,1,8,5.7,-2
+2024-05-28,202405280DAL,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.92,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4
+2024-05-28,202405280DAL,MIN,Q4,Mike Conley,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.82,0,0,,0,0,,1,2,.500,0,0,0,1,0,0,0,0,1,1.3,-5
+2024-05-28,202405280DAL,MIN,Q4,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.48,3,6,.500,3,4,.750,1,1,1.000,0,0,0,1,0,0,0,1,10,7.3,+4
+2024-05-28,202405280DAL,MIN,Q4,Kyle Anderson,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.9,0,0,,0,0,,0,0,,1,0,1,2,2,0,0,1,0,3.7,+1
+2024-05-28,202405280DAL,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202405280DAL.html,2.78,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,2,2.4,-2
+2024-05-28,202405280DAL,MIN,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202405280DAL.html,2.0,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0
+2024-05-28,202405280DAL,DAL,Q1,Kyrie Irving,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.12,1,5,.200,0,2,.000,0,0,,0,0,0,1,1,0,1,0,2,-0.4,-2
+2024-05-28,202405280DAL,DAL,Q1,P.J. Washington,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.17,0,3,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-2.2,-8
+2024-05-28,202405280DAL,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/202405280DAL.html,10.37,3,8,.375,2,4,.500,2,2,1.000,0,4,4,0,0,0,1,0,10,5.8,-12
+2024-05-28,202405280DAL,DAL,Q1,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202405280DAL.html,8.35,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,1,1,0,-0.4,+1
+2024-05-28,202405280DAL,DAL,Q1,Daniel Gafford,https://www.basketball-reference.com/boxscores/202405280DAL.html,6.03,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,-4
+2024-05-28,202405280DAL,DAL,Q1,Josh Green,https://www.basketball-reference.com/boxscores/202405280DAL.html,6.48,1,1,1.000,1,1,1.000,2,2,1.000,0,0,0,0,1,0,0,1,5,5.3,-7
+2024-05-28,202405280DAL,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/202405280DAL.html,2.83,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,+1
+2024-05-28,202405280DAL,DAL,Q1,Jaden Hardy,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.52,1,3,.333,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,1.3,0
+2024-05-28,202405280DAL,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/202405280DAL.html,3.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-4
+2024-05-28,202405280DAL,DAL,Q2,Kyrie Irving,https://www.basketball-reference.com/boxscores/202405280DAL.html,11.53,1,3,.333,0,1,.000,2,2,1.000,0,0,0,2,0,0,1,2,4,1.9,+4
+2024-05-28,202405280DAL,DAL,Q2,P.J. Washington,https://www.basketball-reference.com/boxscores/202405280DAL.html,11.12,0,1,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,0,1,2,1.6,+4
+2024-05-28,202405280DAL,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/202405280DAL.html,8.7,1,5,.200,1,2,.500,4,4,1.000,1,3,4,3,0,0,1,1,7,6.2,+3
+2024-05-28,202405280DAL,DAL,Q2,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.57,2,2,1.000,2,2,1.000,1,2,.500,1,0,1,1,0,0,0,1,7,7.0,+6
+2024-05-28,202405280DAL,DAL,Q2,Daniel Gafford,https://www.basketball-reference.com/boxscores/202405280DAL.html,7.62,1,1,1.000,0,0,,0,0,,0,1,1,0,0,1,0,0,2,2.7,-2
+2024-05-28,202405280DAL,DAL,Q2,Josh Green,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.65,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,+10
+2024-05-28,202405280DAL,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.38,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,+9
+2024-05-28,202405280DAL,DAL,Q2,Dante Exum,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.43,2,3,.667,1,2,.500,0,0,,0,0,0,0,1,0,0,0,5,4.7,+1
+2024-05-28,202405280DAL,DAL,Q3,Kyrie Irving,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.33,1,3,.333,1,1,1.000,1,1,1.000,1,0,1,0,0,0,1,0,4,2.0,-4
+2024-05-28,202405280DAL,DAL,Q3,P.J. Washington,https://www.basketball-reference.com/boxscores/202405280DAL.html,12.0,1,3,.333,1,2,.500,0,0,,0,1,1,2,0,0,0,1,3,2.6,-5
+2024-05-28,202405280DAL,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.68,2,3,.667,0,1,.000,0,0,,0,2,2,3,0,0,1,0,4,4.4,-4
+2024-05-28,202405280DAL,DAL,Q3,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202405280DAL.html,6.35,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-4
+2024-05-28,202405280DAL,DAL,Q3,Daniel Gafford,https://www.basketball-reference.com/boxscores/202405280DAL.html,6.87,3,3,1.000,0,0,,0,0,,1,3,4,0,0,0,0,1,6,6.3,+3
+2024-05-28,202405280DAL,DAL,Q3,Josh Green,https://www.basketball-reference.com/boxscores/202405280DAL.html,5.65,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-1
+2024-05-28,202405280DAL,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/202405280DAL.html,5.13,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-8
+2024-05-28,202405280DAL,DAL,Q3,Jaden Hardy,https://www.basketball-reference.com/boxscores/202405280DAL.html,4.98,3,4,.750,1,2,.500,0,0,,0,1,1,0,0,0,1,1,7,4.3,-2
+2024-05-28,202405280DAL,DAL,Q4,Kyrie Irving,https://www.basketball-reference.com/boxscores/202405280DAL.html,12.0,3,7,.429,0,2,.000,0,0,,1,0,1,1,0,0,1,0,6,2.7,0
+2024-05-28,202405280DAL,DAL,Q4,P.J. Washington,https://www.basketball-reference.com/boxscores/202405280DAL.html,9.42,2,6,.333,1,4,.250,0,0,,1,1,2,0,0,1,1,0,5,2.3,-4
+2024-05-28,202405280DAL,DAL,Q4,Luka Dončić,https://www.basketball-reference.com/boxscores/202405280DAL.html,12.0,1,5,.200,1,4,.250,4,6,.667,1,4,5,4,1,0,0,3,7,7.6,0
+2024-05-28,202405280DAL,DAL,Q4,Derrick Jones Jr.,https://www.basketball-reference.com/boxscores/202405280DAL.html,12.0,1,2,.500,0,1,.000,0,0,,0,2,2,2,1,0,1,0,2,3.0,0
+2024-05-28,202405280DAL,DAL,Q4,Daniel Gafford,https://www.basketball-reference.com/boxscores/202405280DAL.html,10.83,2,2,1.000,0,0,,0,0,,1,2,3,1,0,2,0,1,4,6.4,+2
+2024-05-28,202405280DAL,DAL,Q4,Josh Green,https://www.basketball-reference.com/boxscores/202405280DAL.html,0.03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2
+2024-05-28,202405280DAL,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/202405280DAL.html,1.13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0
+2024-05-28,202405280DAL,DAL,Q4,Jaden Hardy,https://www.basketball-reference.com/boxscores/202405280DAL.html,2.58,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+4

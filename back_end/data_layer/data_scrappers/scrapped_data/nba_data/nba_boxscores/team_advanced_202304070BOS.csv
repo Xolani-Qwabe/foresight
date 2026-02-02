@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-04-07,202304070BOS,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/202304070BOS.html,31:06,.470,.364,.545,.364,0.0,0.0,0.0,34.9,3.3,0.0,13.6,21.2,105,130,-1.2
+2023-04-07,202304070BOS,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/202304070BOS.html,30:40,.350,.350,.400,.000,3.0,4.3,3.6,4.4,1.7,0.0,0.0,14.6,84,133,-8.1
+2023-04-07,202304070BOS,TOR,Scottie Barnes,https://www.basketball-reference.com/boxscores/202304070BOS.html,29:48,.353,.300,.200,.300,0.0,8.9,3.7,13.7,0.0,4.4,15.0,20.0,73,134,-11.5
+2023-04-07,202304070BOS,TOR,Pascal Siakam,https://www.basketball-reference.com/boxscores/202304070BOS.html,29:44,.598,.567,.200,.133,3.1,9.0,5.5,11.9,6.9,0.0,5.9,25.4,119,120,7.1
+2023-04-07,202304070BOS,TOR,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202304070BOS.html,21:23,.387,.333,.000,.667,8.6,31.2,17.9,0.0,2.4,0.0,0.0,8.1,106,124,-9.4
+2023-04-07,202304070BOS,TOR,Precious Achiuwa,https://www.basketball-reference.com/boxscores/202304070BOS.html,23:32,.707,.650,.300,.300,7.8,28.3,16.2,0.0,2.2,0.0,0.0,21.5,149,125,4.9
+2023-04-07,202304070BOS,TOR,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202304070BOS.html,21:22,.414,.400,.400,.200,4.3,12.5,7.7,21.7,2.4,0.0,8.4,24.8,92,129,-4.8
+2023-04-07,202304070BOS,TOR,Will Barton,https://www.basketball-reference.com/boxscores/202304070BOS.html,15:56,.389,.389,.444,.000,5.8,25.1,13.7,0.0,6.4,0.0,0.0,25.2,87,117,-1.8
+2023-04-07,202304070BOS,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/202304070BOS.html,15:43,.357,.357,.286,.000,17.6,8.5,13.9,0.0,0.0,8.3,12.5,22.7,84,133,-10.4
+2023-04-07,202304070BOS,TOR,Malachi Flynn,https://www.basketball-reference.com/boxscores/202304070BOS.html,6:23,1.000,1.000,.000,.000,0.0,0.0,0.0,30.1,0.0,0.0,0.0,14.0,203,138,7.6
+2023-04-07,202304070BOS,TOR,Christian Koloko,https://www.basketball-reference.com/boxscores/202304070BOS.html,6:23,1.000,1.000,.000,.000,14.5,0.0,8.5,46.3,0.0,0.0,0.0,7.0,210,138,16.1
+2023-04-07,202304070BOS,TOR,Dalano Banton,https://www.basketball-reference.com/boxscores/202304070BOS.html,3:32,1.126,1.250,.500,.250,0.0,75.5,30.9,0.0,0.0,0.0,0.0,56.1,225,118,83.8
+2023-04-07,202304070BOS,TOR,Ron Harper Jr.,https://www.basketball-reference.com/boxscores/202304070BOS.html,3:32,.000,.000,1.000,.000,0.0,0.0,0.0,34.0,0.0,0.0,0.0,12.6,51,138,-8.6
+2023-04-07,202304070BOS,TOR,Joe Wieskamp,https://www.basketball-reference.com/boxscores/202304070BOS.html,0:56,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,138,-9.3
+2023-04-07,202304070BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202304070BOS.html,36:47,.813,.813,.750,.000,0.0,12.5,7.4,8.2,0.0,0.0,15.8,22.7,126,113,4.3
+2023-04-07,202304070BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202304070BOS.html,27:56,.652,.571,.286,.714,4.8,16.5,11.7,45.1,1.8,0.0,39.5,23.9,110,108,1.2
+2023-04-07,202304070BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202304070BOS.html,27:34,.688,.688,.875,.000,0.0,16.7,9.9,13.7,0.0,8.4,11.1,14.3,133,105,6.0
+2023-04-07,202304070BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202304070BOS.html,25:02,.735,.800,.000,.200,10.7,25.8,19.6,10.3,4.1,9.3,26.9,13.1,115,92,6.3
+2023-04-07,202304070BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202304070BOS.html,19:56,.658,.583,.417,.750,6.7,9.3,8.2,34.2,0.0,0.0,15.8,41.8,125,114,1.1
+2023-04-07,202304070BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202304070BOS.html,24:08,.786,.786,.571,.000,11.0,7.6,9.0,36.7,0.0,0.0,6.7,27.3,155,115,13.7
+2023-04-07,202304070BOS,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202304070BOS.html,22:11,.619,.563,.625,.250,18.0,16.6,17.2,6.0,0.0,0.0,0.0,17.6,151,112,0.9
+2023-04-07,202304070BOS,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202304070BOS.html,19:21,.750,.750,1.000,.000,6.9,9.5,8.5,29.2,2.6,4.0,0.0,4.5,201,105,10.6
+2023-04-07,202304070BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202304070BOS.html,17:44,.260,.000,.750,1.000,15.0,26.0,21.5,12.0,0.0,0.0,34.2,21.7,69,109,-15.2
+2023-04-07,202304070BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202304070BOS.html,8:45,.500,.500,.000,.000,15.2,21.1,18.7,16.1,0.0,0.0,0.0,20.1,131,110,-3.3
+2023-04-07,202304070BOS,BOS,Justin Champagnie,https://www.basketball-reference.com/boxscores/202304070BOS.html,3:32,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-10.6
+2023-04-07,202304070BOS,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202304070BOS.html,3:32,,,,,0.0,0.0,0.0,60.4,0.0,0.0,,0.0,233,118,13.3
+2023-04-07,202304070BOS,BOS,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202304070BOS.html,3:32,.000,.000,.000,.000,0.0,26.1,15.4,0.0,0.0,0.0,0.0,12.4,0,109,-18.4

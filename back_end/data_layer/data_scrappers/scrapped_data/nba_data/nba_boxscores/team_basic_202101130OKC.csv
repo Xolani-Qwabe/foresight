@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-01-13,202101130OKC,LAL,Dennis Schröder,https://www.basketball-reference.com/boxscores/202101130OKC.html,31.95,4,12,.333,1,3,.333,5,6,.833,1,4,5,5,1,0,1,4,14,10.6,+22
+2021-01-13,202101130OKC,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202101130OKC.html,27.48,9,20,.450,5,8,.625,3,4,.750,0,6,6,7,0,0,2,2,26,19.1,+14
+2021-01-13,202101130OKC,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202101130OKC.html,24.62,8,13,.615,0,1,.000,2,2,1.000,3,4,7,1,0,0,0,0,18,16.1,+16
+2021-01-13,202101130OKC,LAL,Marc Gasol,https://www.basketball-reference.com/boxscores/202101130OKC.html,23.02,1,2,.500,1,1,1.000,0,0,,1,4,5,1,2,4,1,4,3,6.8,+16
+2021-01-13,202101130OKC,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202101130OKC.html,19.9,4,6,.667,2,4,.500,0,0,,0,3,3,1,1,0,0,2,10,9.2,+24
+2021-01-13,202101130OKC,LAL,Montrezl Harrell,https://www.basketball-reference.com/boxscores/202101130OKC.html,24.92,8,12,.667,0,1,.000,5,8,.625,2,4,6,0,0,1,1,2,21,16.1,+13
+2021-01-13,202101130OKC,LAL,Markieff Morris,https://www.basketball-reference.com/boxscores/202101130OKC.html,23.45,4,9,.444,3,8,.375,0,0,,0,7,7,2,0,0,0,0,11,9.8,+13
+2021-01-13,202101130OKC,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202101130OKC.html,22.12,2,2,1.000,2,2,1.000,0,0,,0,1,1,2,0,0,2,1,6,4.7,-2
+2021-01-13,202101130OKC,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202101130OKC.html,18.0,3,8,.375,1,4,.250,0,0,,3,3,6,2,1,1,1,0,7,7.7,+8
+2021-01-13,202101130OKC,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202101130OKC.html,13.4,1,5,.200,0,3,.000,2,2,1.000,1,1,2,4,0,0,1,1,4,3.3,+10
+2021-01-13,202101130OKC,LAL,Quinn Cook,https://www.basketball-reference.com/boxscores/202101130OKC.html,5.98,1,3,.333,1,1,1.000,0,0,,0,1,1,1,1,0,0,0,3,3.3,+7
+2021-01-13,202101130OKC,LAL,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202101130OKC.html,5.17,2,3,.667,1,1,1.000,0,0,,1,0,1,0,0,0,0,0,5,4.4,+4
+2021-01-13,202101130OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202101130OKC.html,27.27,5,12,.417,1,3,.333,6,7,.857,0,2,2,1,0,0,2,1,17,9.1,-22
+2021-01-13,202101130OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202101130OKC.html,24.65,3,8,.375,3,6,.500,0,0,,0,1,1,1,0,0,1,2,9,3.8,-29
+2021-01-13,202101130OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202101130OKC.html,24.58,1,5,.200,0,3,.000,1,2,.500,1,4,5,0,1,0,1,2,3,0.6,-19
+2021-01-13,202101130OKC,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202101130OKC.html,24.15,4,7,.571,0,0,,3,4,.750,2,7,9,4,0,0,2,2,11,10.8,-9
+2021-01-13,202101130OKC,OKC,George Hill,https://www.basketball-reference.com/boxscores/202101130OKC.html,21.58,4,8,.500,0,1,.000,2,2,1.000,0,2,2,2,2,0,0,0,10,10.0,-21
+2021-01-13,202101130OKC,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202101130OKC.html,25.78,3,9,.333,1,2,.500,0,0,,2,0,2,4,0,0,1,1,7,4.7,-8
+2021-01-13,202101130OKC,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202101130OKC.html,20.73,4,9,.444,2,4,.500,0,0,,1,3,4,2,0,3,0,2,10,9.6,-7
+2021-01-13,202101130OKC,OKC,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202101130OKC.html,20.28,4,6,.667,1,1,1.000,0,0,,0,5,5,1,0,1,3,4,9,4.7,-7
+2021-01-13,202101130OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202101130OKC.html,18.07,3,9,.333,1,6,.167,0,0,,1,3,4,1,0,0,1,3,7,2.0,-15
+2021-01-13,202101130OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202101130OKC.html,14.6,4,5,.800,1,2,.500,0,0,,1,4,5,4,1,1,0,2,9,12.7,+6
+2021-01-13,202101130OKC,OKC,Josh Hall,https://www.basketball-reference.com/boxscores/202101130OKC.html,7.15,0,3,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,-0.7,-3
+2021-01-13,202101130OKC,OKC,Moses Brown,https://www.basketball-reference.com/boxscores/202101130OKC.html,5.98,2,3,.667,0,0,,2,2,1.000,1,2,3,1,0,1,0,2,6,6.6,-7
+2021-01-13,202101130OKC,OKC,Justin Jackson,https://www.basketball-reference.com/boxscores/202101130OKC.html,5.17,0,2,.000,0,2,.000,1,2,.500,0,0,0,0,0,0,0,0,1,-0.8,-4

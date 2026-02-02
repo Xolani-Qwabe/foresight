@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-12-07,202412070CHO,CLE,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202412070CHO.html,36:08,.699,.708,.833,.167,3.2,21.6,12.7,31.2,0.0,0.0,18.9,19.8,131,115,3.7
+2024-12-07,202412070CHO,CLE,Evan Mobley,https://www.basketball-reference.com/boxscores/202412070CHO.html,34:16,.828,.826,.348,.174,10.2,22.8,16.7,14.3,1.5,8.9,10.8,36.5,145,105,19.7
+2024-12-07,202412070CHO,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202412070CHO.html,32:59,.564,.500,.000,.500,10.6,23.7,17.3,12.1,0.0,3.1,0.0,13.3,146,112,0.9
+2024-12-07,202412070CHO,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202412070CHO.html,32:59,.520,.469,.438,.188,3.5,3.4,3.5,22.9,0.0,3.1,10.4,26.4,116,118,-5.6
+2024-12-07,202412070CHO,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202412070CHO.html,23:51,.394,.375,.750,.250,9.8,9.4,9.6,15.9,6.6,0.0,0.0,16.8,119,103,3.6
+2024-12-07,202412070CHO,CLE,Caris LeVert,https://www.basketball-reference.com/boxscores/202412070CHO.html,23:57,.735,.667,.333,1.333,0.0,14.0,7.2,21.1,2.2,4.3,29.6,12.7,123,109,1.7
+2024-12-07,202412070CHO,CLE,Sam Merrill,https://www.basketball-reference.com/boxscores/202412070CHO.html,20:14,.436,.333,.500,.333,5.8,0.0,2.8,0.0,2.6,0.0,0.0,15.3,111,115,-9.9
+2024-12-07,202412070CHO,CLE,Georges Niang,https://www.basketball-reference.com/boxscores/202412070CHO.html,18:20,.521,.500,.500,1.000,0.0,36.5,18.7,19.9,0.0,0.0,25.8,9.5,110,110,-3.4
+2024-12-07,202412070CHO,CLE,Ty Jerome,https://www.basketball-reference.com/boxscores/202412070CHO.html,12:24,.460,.400,.200,.200,28.3,0.0,13.8,0.0,0.0,0.0,0.0,19.8,129,121,-9.7
+2024-12-07,202412070CHO,CLE,Jaylon Tyson,https://www.basketball-reference.com/boxscores/202412070CHO.html,4:52,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.3,0,121,-22.0
+2024-12-07,202412070CHO,CHO,Josh Green,https://www.basketball-reference.com/boxscores/202412070CHO.html,38:55,.576,.577,.538,.154,2.9,3.0,2.9,12.5,2.7,2.7,0.0,16.2,127,127,2.3
+2024-12-07,202412070CHO,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202412070CHO.html,35:40,.222,.222,.556,.000,0.0,29.5,14.4,15.7,1.5,5.9,18.2,14.1,58,119,-8.6
+2024-12-07,202412070CHO,CHO,Vasilije Micić,https://www.basketball-reference.com/boxscores/202412070CHO.html,35:29,.623,.600,.400,.100,3.1,13.2,8.1,31.3,0.0,0.0,16.1,16.0,124,131,-1.1
+2024-12-07,202412070CHO,CHO,Brandon Miller,https://www.basketball-reference.com/boxscores/202412070CHO.html,34:19,.510,.405,.619,.381,3.3,10.2,6.7,5.1,0.0,3.0,7.5,35.2,103,131,-5.5
+2024-12-07,202412070CHO,CHO,Taj Gibson,https://www.basketball-reference.com/boxscores/202412070CHO.html,16:58,.000,.000,.000,.000,0.0,6.9,3.4,22.9,0.0,0.0,0.0,5.4,74,134,-4.3
+2024-12-07,202412070CHO,CHO,DaQuan Jeffries,https://www.basketball-reference.com/boxscores/202412070CHO.html,25:14,.773,.773,.455,.000,4.4,23.2,13.6,8.0,0.0,0.0,8.3,21.7,137,128,5.4
+2024-12-07,202412070CHO,CHO,Nick Smith Jr.,https://www.basketball-reference.com/boxscores/202412070CHO.html,14:47,.333,.333,.500,.000,0.0,0.0,0.0,0.0,3.6,7.1,0.0,18.5,71,124,-13.1
+2024-12-07,202412070CHO,CHO,KJ Simpson,https://www.basketball-reference.com/boxscores/202412070CHO.html,12:21,.250,.250,.250,.000,9.0,0.0,4.6,0.0,4.3,0.0,20.0,18.4,55,126,-17.8
+2024-12-07,202412070CHO,CHO,Isaiah Wong,https://www.basketball-reference.com/boxscores/202412070CHO.html,10:47,.625,.400,.200,1.000,20.7,0.0,10.6,0.0,4.9,0.0,12.2,34.6,126,125,3.0
+2024-12-07,202412070CHO,CHO,Mark Williams,https://www.basketball-reference.com/boxscores/202412070CHO.html,10:36,.949,1.000,.000,.600,31.6,22.1,27.0,63.1,0.0,0.0,13.7,31.5,169,128,25.3
+2024-12-07,202412070CHO,CHO,Seth Curry,https://www.basketball-reference.com/boxscores/202412070CHO.html,4:54,,,,,0.0,47.8,23.3,0.0,0.0,0.0,,0.0,0,119,-12.3

@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2023-02-01,202302010BOS,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202302010BOS.html,31.02,9,18,.500,1,7,.143,1,1,1.000,0,4,4,4,0,1,3,2,20,11.9,-31
+2023-02-01,202302010BOS,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202302010BOS.html,26.52,2,9,.222,1,7,.143,2,2,1.000,0,6,6,4,1,0,0,1,7,6.7,-29
+2023-02-01,202302010BOS,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202302010BOS.html,26.08,3,5,.600,0,0,,3,4,.750,3,3,6,2,1,0,0,2,9,10.9,-27
+2023-02-01,202302010BOS,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202302010BOS.html,24.65,3,9,.333,1,5,.200,0,0,,0,0,0,1,1,0,0,2,7,2.8,-24
+2023-02-01,202302010BOS,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202302010BOS.html,23.72,4,9,.444,4,7,.571,0,0,,0,2,2,2,0,0,0,0,12,9.3,-23
+2023-02-01,202302010BOS,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202302010BOS.html,26.8,4,7,.571,0,0,,1,2,.500,2,5,7,0,1,0,1,3,9,7.0,-26
+2023-02-01,202302010BOS,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202302010BOS.html,24.28,7,16,.438,1,6,.167,4,5,.800,0,1,1,2,1,0,0,0,19,12.9,-20
+2023-02-01,202302010BOS,BRK,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202302010BOS.html,19.45,1,4,.250,0,2,.000,4,4,1.000,0,1,1,1,1,0,0,1,6,5.2,-12
+2023-02-01,202302010BOS,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202302010BOS.html,17.9,2,6,.333,0,3,.000,0,0,,0,0,0,2,1,0,0,1,4,2.6,-12
+2023-02-01,202302010BOS,BRK,Edmond Sumner,https://www.basketball-reference.com/boxscores/202302010BOS.html,12.43,1,4,.250,1,2,.500,0,0,,0,2,2,0,0,0,0,0,3,1.2,-1
+2023-02-01,202302010BOS,BRK,Markieff Morris,https://www.basketball-reference.com/boxscores/202302010BOS.html,7.15,0,1,.000,0,0,,0,0,,0,3,3,1,1,0,1,0,0,0.9,-10
+2023-02-01,202302010BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202302010BOS.html,31.85,8,16,.500,7,12,.583,3,5,.600,0,3,3,3,0,0,2,0,26,18.2,+35
+2023-02-01,202302010BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202302010BOS.html,31.52,6,11,.545,2,6,.333,0,0,,0,10,10,5,0,0,0,0,14,15.2,+34
+2023-02-01,202302010BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202302010BOS.html,29.32,12,19,.632,7,12,.583,0,0,,1,8,9,4,2,1,1,1,31,29.7,+46
+2023-02-01,202302010BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202302010BOS.html,24.63,3,6,.500,3,4,.750,0,0,,1,4,5,3,0,0,0,1,9,9.6,+37
+2023-02-01,202302010BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202302010BOS.html,19.43,7,8,.875,0,0,,2,2,1.000,5,4,9,0,0,1,0,3,16,17.4,+22
+2023-02-01,202302010BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202302010BOS.html,21.5,4,6,.667,2,3,.667,0,0,,0,2,2,4,1,0,2,1,10,9.4,+13
+2023-02-01,202302010BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202302010BOS.html,18.8,5,6,.833,0,0,,2,3,.667,2,2,4,4,1,1,2,2,12,13.1,+10
+2023-02-01,202302010BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202302010BOS.html,17.48,2,5,.400,2,5,.400,0,0,,0,2,2,0,0,1,0,2,6,3.8,+6
+2023-02-01,202302010BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202302010BOS.html,16.15,2,5,.400,1,4,.250,0,0,,2,0,2,2,0,0,1,1,5,3.7,+8
+2023-02-01,202302010BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202302010BOS.html,12.0,3,7,.429,2,6,.333,0,0,,0,5,5,1,0,0,1,1,8,5.1,+5
+2023-02-01,202302010BOS,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202302010BOS.html,9.17,0,1,.000,0,1,.000,0,0,,0,3,3,1,0,0,1,1,0,-0.5,0
+2023-02-01,202302010BOS,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202302010BOS.html,8.15,1,2,.500,0,1,.000,0,0,,0,3,3,1,0,0,0,0,2,2.6,-1

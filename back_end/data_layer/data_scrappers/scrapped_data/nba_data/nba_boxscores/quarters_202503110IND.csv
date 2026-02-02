@@ -1,0 +1,74 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2025-03-11,202503110IND,MIL,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202503110IND.html,8.45,1,2,.500,0,0,0,0,0,0,0,4,0,0,1,0,2,2.8,-1,,
+2025-03-11,202503110IND,MIL,Q1,Brook Lopez,https://www.basketball-reference.com/boxscores/202503110IND.html,9.22,2,4,.500,0,2,0,0,0,0,0,1,0,0,0,0,4,2.7,-2,.000,
+2025-03-11,202503110IND,MIL,Q1,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202503110IND.html,9.22,3,4,.750,0,0,0,0,1,6,7,1,0,0,1,0,6,6.6,-2,,
+2025-03-11,202503110IND,MIL,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202503110IND.html,9.22,3,7,.429,3,5,0,0,1,1,2,0,0,0,0,0,9,6.3,-2,.600,
+2025-03-11,202503110IND,MIL,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202503110IND.html,8.45,2,4,.500,0,1,0,0,0,2,2,1,0,0,1,0,4,2.3,-1,.000,
+2025-03-11,202503110IND,MIL,Q1,A.J. Green,https://www.basketball-reference.com/boxscores/202503110IND.html,6.33,0,0,,0,0,0,0,0,0,0,1,0,0,0,2,0,-0.1,-5,,
+2025-03-11,202503110IND,MIL,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202503110IND.html,6.33,0,1,.000,0,0,1,2,0,1,1,2,0,0,1,1,1,0.2,-5,,.500
+2025-03-11,202503110IND,MIL,Q1,Jericho Sims,https://www.basketball-reference.com/boxscores/202503110IND.html,2.78,1,1,1.000,0,0,0,0,0,0,0,0,1,0,0,1,2,2.3,-2,,
+2025-03-11,202503110IND,MIL,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202503110IND.html,8.85,0,3,.000,0,2,0,0,0,2,2,3,0,0,1,1,0,-0.8,0,.000,
+2025-03-11,202503110IND,MIL,Q2,Brook Lopez,https://www.basketball-reference.com/boxscores/202503110IND.html,7.45,1,1,1.000,0,0,3,3,0,0,0,0,1,0,1,0,5,4.7,+9,,1.000
+2025-03-11,202503110IND,MIL,Q2,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202503110IND.html,7.83,3,3,1.000,0,0,0,2,0,2,2,3,0,0,0,1,6,6.6,+6,,.000
+2025-03-11,202503110IND,MIL,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202503110IND.html,9.03,2,5,.400,1,2,0,0,0,3,3,0,1,0,2,0,5,2.2,+3,.500,
+2025-03-11,202503110IND,MIL,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202503110IND.html,8.6,0,2,.000,0,1,0,0,0,1,1,1,0,0,1,0,0,-1.4,-7,.000,
+2025-03-11,202503110IND,MIL,Q2,A.J. Green,https://www.basketball-reference.com/boxscores/202503110IND.html,2.97,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,-1,1.000,
+2025-03-11,202503110IND,MIL,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202503110IND.html,7.57,1,2,.500,1,2,0,0,0,1,1,0,1,0,0,1,3,2.9,+5,.500,
+2025-03-11,202503110IND,MIL,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202503110IND.html,3.15,0,0,,0,0,3,3,0,0,0,0,0,0,0,0,3,3.0,+2,,1.000
+2025-03-11,202503110IND,MIL,Q2,Jericho Sims,https://www.basketball-reference.com/boxscores/202503110IND.html,4.55,1,1,1.000,0,0,0,0,0,1,1,0,0,1,0,0,2,2.7,-7,,
+2025-03-11,202503110IND,MIL,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202503110IND.html,9.52,3,7,.429,2,4,3,4,0,0,0,3,0,0,1,0,11,8.0,+5,.500,.750
+2025-03-11,202503110IND,MIL,Q3,Brook Lopez,https://www.basketball-reference.com/boxscores/202503110IND.html,10.3,1,1,1.000,1,1,0,0,1,3,4,0,0,0,0,1,3,3.9,+4,1.000,
+2025-03-11,202503110IND,MIL,Q3,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202503110IND.html,8.77,3,6,.500,0,0,1,1,1,2,3,0,0,0,1,1,7,3.9,-1,,1.000
+2025-03-11,202503110IND,MIL,Q3,Taurean Prince,https://www.basketball-reference.com/boxscores/202503110IND.html,8.77,1,2,.500,0,1,0,0,0,1,1,1,0,0,0,1,2,1.6,-1,.000,
+2025-03-11,202503110IND,MIL,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202503110IND.html,9.73,2,3,.667,0,1,1,2,0,1,1,0,0,0,1,0,5,2.6,+2,.000,.500
+2025-03-11,202503110IND,MIL,Q3,A.J. Green,https://www.basketball-reference.com/boxscores/202503110IND.html,5.5,0,0,,0,0,0,0,0,1,1,1,0,0,0,1,0,0.6,+3,,
+2025-03-11,202503110IND,MIL,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202503110IND.html,5.72,2,4,.500,1,2,0,0,0,1,1,2,0,0,0,2,5,3.9,0,.500,
+2025-03-11,202503110IND,MIL,Q3,Jericho Sims,https://www.basketball-reference.com/boxscores/202503110IND.html,1.7,0,0,,0,0,0,0,1,1,2,0,0,0,0,0,0,1.0,-2,,
+2025-03-11,202503110IND,MIL,Q4,Damian Lillard,https://www.basketball-reference.com/boxscores/202503110IND.html,10.65,0,2,.000,0,1,2,2,0,1,1,1,0,0,0,0,2,1.6,+6,.000,1.000
+2025-03-11,202503110IND,MIL,Q4,Brook Lopez,https://www.basketball-reference.com/boxscores/202503110IND.html,9.08,5,5,1.000,1,1,0,0,1,2,3,0,0,0,0,0,11,10.8,+5,1.000,
+2025-03-11,202503110IND,MIL,Q4,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202503110IND.html,8.28,0,1,.000,0,1,0,0,0,5,5,3,0,1,1,1,0,2.2,+7,.000,
+2025-03-11,202503110IND,MIL,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202503110IND.html,6.6,1,2,.500,0,0,0,0,0,0,0,2,0,0,0,1,2,2.0,+4,,
+2025-03-11,202503110IND,MIL,Q4,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202503110IND.html,3.77,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-12,,
+2025-03-11,202503110IND,MIL,Q4,A.J. Green,https://www.basketball-reference.com/boxscores/202503110IND.html,5.4,1,4,.250,1,4,0,0,0,0,0,2,0,0,0,0,3,2.0,-5,.250,
+2025-03-11,202503110IND,MIL,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202503110IND.html,11.95,2,5,.400,2,4,0,0,0,0,0,0,0,0,0,3,6,2.1,-1,.500,
+2025-03-11,202503110IND,MIL,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/202503110IND.html,1.35,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.0,-3,,
+2025-03-11,202503110IND,MIL,Q4,Jericho Sims,https://www.basketball-reference.com/boxscores/202503110IND.html,2.92,1,1,1.000,0,0,0,0,0,0,0,0,0,0,1,0,2,0.7,-6,,
+2025-03-11,202503110IND,IND,Q1,Pascal Siakam,https://www.basketball-reference.com/boxscores/202503110IND.html,10.18,3,3,1.000,1,1,2,3,1,6,7,1,0,0,0,0,9,10.9,+7,1.000,.667
+2025-03-11,202503110IND,IND,Q1,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202503110IND.html,9.02,1,3,.333,0,2,0,0,0,0,0,4,1,0,0,0,2,4.1,+2,.000,
+2025-03-11,202503110IND,IND,Q1,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202503110IND.html,6.9,2,4,.500,0,0,0,0,0,1,1,0,0,0,0,0,4,2.3,-1,,
+2025-03-11,202503110IND,IND,Q1,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202503110IND.html,7.1,2,2,1.000,0,0,1,1,1,0,1,0,0,0,0,0,5,5.1,-1,,1.000
+2025-03-11,202503110IND,IND,Q1,Myles Turner,https://www.basketball-reference.com/boxscores/202503110IND.html,5.67,1,3,.333,1,3,0,0,0,0,0,2,0,0,0,1,3,2.3,-1,.333,
+2025-03-11,202503110IND,IND,Q1,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202503110IND.html,5.1,1,4,.250,1,1,0,0,0,1,1,0,0,0,1,0,3,-0.1,+5,1.000,
+2025-03-11,202503110IND,IND,Q1,T.J. McConnell,https://www.basketball-reference.com/boxscores/202503110IND.html,5.1,2,3,.667,0,0,0,0,0,0,0,2,2,0,0,0,4,6.1,+5,,
+2025-03-11,202503110IND,IND,Q1,Thomas Bryant,https://www.basketball-reference.com/boxscores/202503110IND.html,6.33,1,2,.500,0,1,0,0,0,1,1,0,0,0,0,1,2,0.9,+5,.000,
+2025-03-11,202503110IND,IND,Q1,Ben Sheppard,https://www.basketball-reference.com/boxscores/202503110IND.html,2.78,0,0,,0,0,0,0,0,0,0,0,0,0,1,1,0,-1.4,+2,,
+2025-03-11,202503110IND,IND,Q1,Obi Toppin,https://www.basketball-reference.com/boxscores/202503110IND.html,1.82,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,,
+2025-03-11,202503110IND,IND,Q2,Pascal Siakam,https://www.basketball-reference.com/boxscores/202503110IND.html,8.6,3,4,.750,1,2,0,0,1,2,3,2,0,0,2,1,7,5.7,+7,.500,
+2025-03-11,202503110IND,IND,Q2,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202503110IND.html,6.55,0,2,.000,0,1,0,0,0,0,0,2,0,0,0,0,0,0.0,-4,.000,
+2025-03-11,202503110IND,IND,Q2,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202503110IND.html,7.83,1,3,.333,1,2,0,0,0,1,1,0,0,0,0,2,3,0.8,-6,.500,
+2025-03-11,202503110IND,IND,Q2,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202503110IND.html,7.83,0,1,.000,0,1,0,0,0,0,0,1,1,0,0,1,0,0.6,-6,.000,
+2025-03-11,202503110IND,IND,Q2,Myles Turner,https://www.basketball-reference.com/boxscores/202503110IND.html,7.83,1,3,.333,0,2,0,0,0,2,2,0,0,1,1,1,2,0.2,-6,.000,
+2025-03-11,202503110IND,IND,Q2,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202503110IND.html,7.57,3,5,.600,2,3,0,0,0,1,1,0,0,0,0,1,8,5.6,-5,.667,
+2025-03-11,202503110IND,IND,Q2,T.J. McConnell,https://www.basketball-reference.com/boxscores/202503110IND.html,5.38,1,2,.500,0,0,0,0,0,1,1,2,1,0,0,0,2,3.7,+2,,
+2025-03-11,202503110IND,IND,Q2,Thomas Bryant,https://www.basketball-reference.com/boxscores/202503110IND.html,4.17,1,1,1.000,1,1,0,0,0,1,1,0,0,0,0,0,3,3.0,+4,1.000,
+2025-03-11,202503110IND,IND,Q2,Ben Sheppard,https://www.basketball-reference.com/boxscores/202503110IND.html,4.23,0,1,.000,0,1,0,0,0,1,1,1,1,0,1,0,0,0.3,+4,.000,
+2025-03-11,202503110IND,IND,Q2,Tony Bradley,https://www.basketball-reference.com/boxscores/202503110IND.html,0.0,0,0,,0,0,0,0,0,1,1,0,0,0,0,0,0,0.3,0,,
+2025-03-11,202503110IND,IND,Q3,Pascal Siakam,https://www.basketball-reference.com/boxscores/202503110IND.html,8.28,1,4,.250,0,3,0,0,0,0,0,0,1,0,0,1,2,0.2,-7,.000,
+2025-03-11,202503110IND,IND,Q3,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202503110IND.html,8.77,1,2,.500,1,1,1,1,1,1,2,3,0,0,0,0,4,6.1,+1,1.000,1.000
+2025-03-11,202503110IND,IND,Q3,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202503110IND.html,7.63,1,2,.500,0,0,0,0,0,1,1,0,1,0,1,0,2,1.3,-1,,
+2025-03-11,202503110IND,IND,Q3,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202503110IND.html,6.28,1,1,1.000,1,1,0,0,0,0,0,1,0,0,0,0,3,3.4,-2,1.000,
+2025-03-11,202503110IND,IND,Q3,Myles Turner,https://www.basketball-reference.com/boxscores/202503110IND.html,6.0,1,2,.500,0,1,2,2,0,1,1,0,0,1,0,1,4,3.6,0,.000,1.000
+2025-03-11,202503110IND,IND,Q3,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202503110IND.html,4.37,0,2,.000,0,1,4,4,0,2,2,1,0,0,0,0,4,3.9,-1,.000,1.000
+2025-03-11,202503110IND,IND,Q3,T.J. McConnell,https://www.basketball-reference.com/boxscores/202503110IND.html,5.72,2,3,.667,0,0,0,0,0,1,1,2,0,1,0,0,4,5.1,0,,
+2025-03-11,202503110IND,IND,Q3,Thomas Bryant,https://www.basketball-reference.com/boxscores/202503110IND.html,6.0,2,3,.667,0,1,1,2,0,1,1,0,1,0,0,2,5,3.8,-2,.000,.500
+2025-03-11,202503110IND,IND,Q3,Ben Sheppard,https://www.basketball-reference.com/boxscores/202503110IND.html,3.23,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,,
+2025-03-11,202503110IND,IND,Q3,Obi Toppin,https://www.basketball-reference.com/boxscores/202503110IND.html,3.72,1,2,.500,0,1,1,1,0,0,0,0,0,0,0,1,3,1.6,+5,.000,1.000
+2025-03-11,202503110IND,IND,Q4,Pascal Siakam,https://www.basketball-reference.com/boxscores/202503110IND.html,10.32,3,4,.750,1,1,0,0,0,2,2,2,0,0,1,1,7,6.0,+2,1.000,
+2025-03-11,202503110IND,IND,Q4,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202503110IND.html,7.35,3,5,.600,1,2,1,1,0,1,1,1,1,0,1,0,8,6.7,-2,.500,1.000
+2025-03-11,202503110IND,IND,Q4,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202503110IND.html,9.08,0,2,.000,0,2,0,0,0,1,1,1,0,0,0,1,0,-0.8,-5,.000,
+2025-03-11,202503110IND,IND,Q4,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202503110IND.html,7.4,1,2,.500,1,2,1,2,0,1,1,1,0,0,0,0,4,3.6,-4,.500,.500
+2025-03-11,202503110IND,IND,Q4,Myles Turner,https://www.basketball-reference.com/boxscores/202503110IND.html,8.97,2,4,.500,0,2,0,1,1,2,3,0,0,0,0,1,4,2.5,+6,.000,.000
+2025-03-11,202503110IND,IND,Q4,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202503110IND.html,4.6,1,1,1.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1.7,+5,,
+2025-03-11,202503110IND,IND,Q4,T.J. McConnell,https://www.basketball-reference.com/boxscores/202503110IND.html,4.65,1,1,1.000,0,0,0,0,0,0,0,1,1,0,0,1,2,3.0,+3,,
+2025-03-11,202503110IND,IND,Q4,Thomas Bryant,https://www.basketball-reference.com/boxscores/202503110IND.html,2.93,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-3,,
+2025-03-11,202503110IND,IND,Q4,Ben Sheppard,https://www.basketball-reference.com/boxscores/202503110IND.html,4.7,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.4,+3,,

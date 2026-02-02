@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-08,202303080PHO,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202303080PHO.html,21:36,.375,.292,.083,.250,14.2,20.2,17.1,42.2,4.4,0.0,18.4,32.0,85,123,-3.3
+2023-03-08,202303080PHO,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202303080PHO.html,20:24,.354,.278,.556,.222,0.0,0.0,0.0,0.0,0.0,0.0,16.8,24.7,59,140,-20.1
+2023-03-08,202303080PHO,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202303080PHO.html,19:16,.322,.188,.625,.375,5.3,0.0,2.7,8.2,2.5,0.0,9.7,22.7,72,134,-11.8
+2023-03-08,202303080PHO,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202303080PHO.html,18:03,.375,.375,.250,.000,0.0,6.0,2.9,0.0,2.6,0.0,20.0,23.5,56,132,-15.4
+2023-03-08,202303080PHO,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202303080PHO.html,17:40,.347,.000,1.000,1.000,0.0,18.5,9.0,24.7,0.0,0.0,25.8,9.3,86,134,-8.6
+2023-03-08,202303080PHO,OKC,Lindy Waters III,https://www.basketball-reference.com/boxscores/202303080PHO.html,30:42,.751,.714,.857,.214,0.0,14.2,6.9,14.2,0.0,0.0,0.0,21.2,143,135,7.7
+2023-03-08,202303080PHO,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202303080PHO.html,28:22,.462,.462,.462,.000,0.0,26.9,13.0,13.8,1.7,0.0,13.3,22.4,80,127,-7.2
+2023-03-08,202303080PHO,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202303080PHO.html,27:36,.625,.556,.556,.556,0.0,15.8,7.6,26.7,1.7,3.4,21.1,21.8,105,129,0.1
+2023-03-08,202303080PHO,OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/boxscores/202303080PHO.html,24:24,.680,.600,.200,.400,12.6,17.9,15.1,14.5,0.0,0.0,0.0,10.2,160,134,0.0
+2023-03-08,202303080PHO,OKC,Jared Butler,https://www.basketball-reference.com/boxscores/202303080PHO.html,15:36,.833,.833,.667,.000,0.0,0.0,0.0,45.8,9.1,0.0,40.0,13.6,113,118,4.8
+2023-03-08,202303080PHO,OKC,Olivier Sarr,https://www.basketball-reference.com/boxscores/202303080PHO.html,10:49,.727,.667,.333,.333,0.0,20.2,9.8,0.0,0.0,8.7,0.0,13.5,141,129,0.9
+2023-03-08,202303080PHO,OKC,Dario Šarić,https://www.basketball-reference.com/boxscores/202303080PHO.html,5:32,.750,.750,.500,.000,0.0,19.7,9.5,0.0,0.0,0.0,0.0,15.3,127,134,2.0
+2023-03-08,202303080PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202303080PHO.html,27:31,.873,.870,.435,.217,0.0,11.1,5.8,36.1,0.0,3.9,10.6,42.8,151,106,21.1
+2023-03-08,202303080PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202303080PHO.html,24:05,1.014,1.000,.625,.250,0.0,17.0,8.8,48.4,7.9,0.0,10.1,17.1,195,88,25.1
+2023-03-08,202303080PHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202303080PHO.html,24:04,.607,.556,.000,.222,4.5,29.7,17.5,10.2,0.0,4.4,0.0,17.1,144,101,1.2
+2023-03-08,202303080PHO,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202303080PHO.html,21:31,.500,.500,.667,.000,0.0,19.0,9.8,9.5,0.0,9.9,25.0,7.8,101,99,-1.2
+2023-03-08,202303080PHO,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202303080PHO.html,20:55,.417,.417,.500,.000,15.6,4.9,10.1,15.5,0.0,5.1,14.3,14.0,119,106,-2.1
+2023-03-08,202303080PHO,PHO,Terrence Ross,https://www.basketball-reference.com/boxscores/202303080PHO.html,23:23,.865,.846,.769,.154,4.7,4.4,4.5,12.6,4.1,0.0,0.0,24.8,178,100,18.7
+2023-03-08,202303080PHO,PHO,Jock Landale,https://www.basketball-reference.com/boxscores/202303080PHO.html,17:41,.500,.500,.000,.000,6.2,17.3,11.9,0.0,0.0,6.0,33.3,14.2,74,102,-13.8
+2023-03-08,202303080PHO,PHO,Cameron Payne,https://www.basketball-reference.com/boxscores/202303080PHO.html,17:41,.400,.400,.500,.000,0.0,17.3,8.9,49.8,5.4,0.0,23.1,30.7,96,94,-5.3
+2023-03-08,202303080PHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202303080PHO.html,16:56,.000,.000,1.000,.000,19.3,30.2,24.9,0.0,2.8,6.3,25.0,9.9,59,92,-7.8
+2023-03-08,202303080PHO,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202303080PHO.html,16:09,.615,.583,.167,.500,13.5,25.3,19.6,7.4,2.9,0.0,12.0,21.5,127,98,0.8
+2023-03-08,202303080PHO,PHO,Darius Bazley,https://www.basketball-reference.com/boxscores/202303080PHO.html,10:10,.300,.300,.600,.000,10.7,20.1,15.6,10.7,0.0,0.0,16.7,24.6,78,106,-15.9
+2023-03-08,202303080PHO,PHO,T.J. Warren,https://www.basketball-reference.com/boxscores/202303080PHO.html,7:26,,,,,14.7,41.2,28.4,0.0,0.0,0.0,,0.0,239,101,-4.3
+2023-03-08,202303080PHO,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202303080PHO.html,6:14,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-7.5
+2023-03-08,202303080PHO,PHO,Saben Lee,https://www.basketball-reference.com/boxscores/202303080PHO.html,6:14,.205,.000,.250,.500,17.5,0.0,8.5,0.0,0.0,0.0,0.0,32.7,71,111,-27.0

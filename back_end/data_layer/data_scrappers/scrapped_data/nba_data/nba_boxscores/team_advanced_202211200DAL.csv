@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-11-20,202211200DAL,DEN,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202211200DAL.html,38:03,.353,.227,.455,.364,0.0,11.0,6.3,11.0,1.3,0.0,23.9,20.9,64,109,-11.8
+2022-11-20,202211200DAL,DEN,Bruce Brown,https://www.basketball-reference.com/boxscores/202211200DAL.html,35:47,.432,.385,.231,.154,3.9,8.7,6.7,35.4,1.4,3.7,12.6,21.0,99,106,-1.1
+2022-11-20,202211200DAL,DEN,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202211200DAL.html,33:49,.735,.800,.000,.200,8.3,46.3,30.2,4.5,1.5,0.0,15.5,9.0,130,102,0.3
+2022-11-20,202211200DAL,DEN,Michael Porter Jr.,https://www.basketball-reference.com/boxscores/202211200DAL.html,30:57,.549,.591,.455,.364,0.0,16.9,9.7,0.0,3.3,4.3,13.6,22.6,87,100,-3.1
+2022-11-20,202211200DAL,DEN,Jeff Green,https://www.basketball-reference.com/boxscores/202211200DAL.html,5:03,1.064,1.000,.000,2.000,0.0,20.7,11.9,0.0,0.0,0.0,0.0,17.6,228,109,8.8
+2022-11-20,202211200DAL,DEN,Bones Hyland,https://www.basketball-reference.com/boxscores/202211200DAL.html,35:02,.613,.548,.381,.286,4.0,6.0,5.1,35.3,1.5,3.8,4.1,33.3,126,107,9.8
+2022-11-20,202211200DAL,DEN,Davon Reed,https://www.basketball-reference.com/boxscores/202211200DAL.html,18:13,.625,.625,.750,.000,0.0,11.5,6.6,24.9,2.8,7.3,20.0,13.0,112,101,7.6
+2022-11-20,202211200DAL,DEN,Christian Braun,https://www.basketball-reference.com/boxscores/202211200DAL.html,16:14,.500,.500,.200,.000,0.0,25.7,14.8,0.0,3.1,0.0,0.0,14.6,95,100,-4.0
+2022-11-20,202211200DAL,DEN,Zeke Nnaji,https://www.basketball-reference.com/boxscores/202211200DAL.html,15:45,.625,.625,.250,.000,0.0,0.0,0.0,9.9,0.0,8.5,20.0,15.0,98,107,-4.4
+2022-11-20,202211200DAL,DEN,Vlatko Čančar,https://www.basketball-reference.com/boxscores/202211200DAL.html,11:07,1.167,1.167,.333,.000,0.0,37.5,21.6,0.0,9.2,0.0,50.0,25.6,76,82,3.4
+2022-11-20,202211200DAL,DAL,Luka Dončić,https://www.basketball-reference.com/boxscores/202211200DAL.html,35:39,.539,.500,.500,.625,0.0,35.6,15.1,42.1,1.4,0.0,16.4,33.1,103,103,2.7
+2022-11-20,202211200DAL,DAL,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202211200DAL.html,35:36,.300,.300,.800,.000,0.0,11.9,5.1,4.0,1.4,2.6,0.0,6.8,70,103,-4.7
+2022-11-20,202211200DAL,DAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202211200DAL.html,29:36,.367,.367,.533,.000,0.0,4.8,2.0,48.2,0.0,3.2,21.1,31.0,78,106,-8.9
+2022-11-20,202211200DAL,DAL,Reggie Bullock,https://www.basketball-reference.com/boxscores/202211200DAL.html,25:33,.300,.300,1.000,.000,4.1,16.6,9.4,0.0,2.0,0.0,0.0,9.5,72,104,-6.5
+2022-11-20,202211200DAL,DAL,Dwight Powell,https://www.basketball-reference.com/boxscores/202211200DAL.html,20:17,.709,.833,.000,.667,15.4,13.9,14.8,10.2,2.5,0.0,11.4,20.9,130,102,2.6
+2022-11-20,202211200DAL,DAL,Josh Green,https://www.basketball-reference.com/boxscores/202211200DAL.html,30:04,1.164,1.222,.778,.222,0.0,9.4,4.0,0.0,0.0,0.0,9.2,17.5,174,109,12.5
+2022-11-20,202211200DAL,DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/202211200DAL.html,20:41,.101,.000,.556,.222,5.0,13.7,8.7,13.3,2.5,0.0,9.2,25.4,40,103,-18.5
+2022-11-20,202211200DAL,DAL,Christian Wood,https://www.basketball-reference.com/boxscores/202211200DAL.html,17:25,.644,.667,.000,.667,6.0,48.6,24.1,18.7,0.0,0.0,0.0,10.8,151,105,2.9
+2022-11-20,202211200DAL,DAL,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202211200DAL.html,14:25,1.008,1.000,.714,.143,0.0,9.8,4.2,36.3,0.0,0.0,11.8,28.3,153,108,19.5
+2022-11-20,202211200DAL,DAL,JaVale McGee,https://www.basketball-reference.com/boxscores/202211200DAL.html,10:44,.333,.333,.000,.000,0.0,13.2,5.6,0.0,0.0,8.8,0.0,13.5,65,100,-7.6

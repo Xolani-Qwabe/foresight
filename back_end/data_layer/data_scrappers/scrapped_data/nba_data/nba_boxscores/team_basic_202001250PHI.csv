@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-01-25,202001250PHI,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202001250PHI.html,38.63,13,22,.591,2,5,.400,3,4,.750,0,7,7,2,2,1,5,3,31,20.4,-10
+2020-01-25,202001250PHI,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202001250PHI.html,35.35,9,18,.500,1,6,.167,10,13,.769,0,7,7,8,1,0,8,3,29,18.3,-22
+2020-01-25,202001250PHI,LAL,Danny Green,https://www.basketball-reference.com/boxscores/202001250PHI.html,31.07,1,7,.143,0,5,.000,0,0,,2,3,5,1,2,0,3,3,2,-1.7,-12
+2020-01-25,202001250PHI,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202001250PHI.html,17.6,3,4,.750,1,2,.500,0,0,,0,1,1,1,0,0,0,3,7,5.2,-20
+2020-01-25,202001250PHI,LAL,Dwight Howard,https://www.basketball-reference.com/boxscores/202001250PHI.html,16.12,1,1,1.000,0,0,,0,4,.000,3,2,5,0,0,0,0,2,2,2.0,-12
+2020-01-25,202001250PHI,LAL,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202001250PHI.html,32.68,3,4,.750,1,2,.500,0,0,,0,2,2,2,1,0,1,1,7,7.0,-3
+2020-01-25,202001250PHI,LAL,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202001250PHI.html,26.65,2,6,.333,0,3,.000,0,0,,0,5,5,2,0,0,1,2,4,1.7,-4
+2020-01-25,202001250PHI,LAL,Alex Caruso,https://www.basketball-reference.com/boxscores/202001250PHI.html,19.9,1,6,.167,0,3,.000,2,2,1.000,0,1,1,3,6,0,1,0,4,7.6,-1
+2020-01-25,202001250PHI,LAL,Rajon Rondo,https://www.basketball-reference.com/boxscores/202001250PHI.html,14.65,1,6,.167,0,3,.000,0,0,,1,0,1,4,0,0,2,0,2,-0.3,+1
+2020-01-25,202001250PHI,LAL,Jared Dudley,https://www.basketball-reference.com/boxscores/202001250PHI.html,7.35,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,1,3,1.9,-2
+2020-01-25,202001250PHI,PHI,Ben Simmons,https://www.basketball-reference.com/boxscores/202001250PHI.html,41.23,12,15,.800,0,0,,4,6,.667,3,7,10,8,4,0,5,3,28,29.1,+15
+2020-01-25,202001250PHI,PHI,Tobias Harris,https://www.basketball-reference.com/boxscores/202001250PHI.html,38.27,10,20,.500,3,8,.375,6,7,.857,1,7,8,1,0,1,3,3,29,18.6,+6
+2020-01-25,202001250PHI,PHI,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202001250PHI.html,35.58,2,6,.333,2,6,.333,0,0,,1,0,1,1,5,1,2,0,6,7.7,+13
+2020-01-25,202001250PHI,PHI,Al Horford,https://www.basketball-reference.com/boxscores/202001250PHI.html,34.87,6,9,.667,2,5,.400,2,2,1.000,0,6,6,1,1,0,2,1,16,13.2,+11
+2020-01-25,202001250PHI,PHI,Shake Milton,https://www.basketball-reference.com/boxscores/202001250PHI.html,25.0,3,5,.600,1,3,.333,0,2,.000,1,8,9,3,1,0,1,2,7,8.3,+12
+2020-01-25,202001250PHI,PHI,Furkan Korkmaz,https://www.basketball-reference.com/boxscores/202001250PHI.html,23.0,3,11,.273,3,9,.333,0,0,,0,0,0,1,0,0,3,2,9,-0.6,+5
+2020-01-25,202001250PHI,PHI,Raul Neto,https://www.basketball-reference.com/boxscores/202001250PHI.html,18.98,3,5,.600,2,3,.667,1,2,.500,1,1,2,3,1,1,3,4,9,6.5,+6
+2020-01-25,202001250PHI,PHI,Mike Scott,https://www.basketball-reference.com/boxscores/202001250PHI.html,9.73,1,3,.333,0,2,.000,0,0,,1,3,4,0,0,0,1,2,2,0.1,+11
+2020-01-25,202001250PHI,PHI,James Ennis III,https://www.basketball-reference.com/boxscores/202001250PHI.html,8.53,1,4,.250,0,1,.000,0,0,,0,1,1,0,0,0,1,1,2,-1.5,-1
+2020-01-25,202001250PHI,PHI,Zhaire Smith,https://www.basketball-reference.com/boxscores/202001250PHI.html,2.97,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+3
+2020-01-25,202001250PHI,PHI,Jonah Bolden,https://www.basketball-reference.com/boxscores/202001250PHI.html,0.92,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2
+2020-01-25,202001250PHI,PHI,Trey Burke,https://www.basketball-reference.com/boxscores/202001250PHI.html,0.92,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2

@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-06,202201060MEM,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202201060MEM.html,32:26,.159,.167,.889,.111,0.0,9.4,4.4,4.6,2.9,0.0,0.0,12.1,39,114,-10.6
+2022-01-06,202201060MEM,DET,Cade Cunningham,https://www.basketball-reference.com/boxscores/202201060MEM.html,31:22,.316,.316,.526,.000,2.9,13.0,7.7,34.8,0.0,0.0,5.0,26.4,75,118,-5.8
+2022-01-06,202201060MEM,DET,Killian Hayes,https://www.basketball-reference.com/boxscores/202201060MEM.html,29:50,.250,.250,.500,.000,0.0,6.8,3.2,10.5,0.0,2.4,28.6,19.5,41,119,-16.5
+2022-01-06,202201060MEM,DET,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202201060MEM.html,25:12,.450,.417,.250,.250,7.2,16.2,11.4,7.8,0.0,0.0,7.0,23.6,91,117,-5.2
+2022-01-06,202201060MEM,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202201060MEM.html,20:10,.500,.500,.000,.000,18.0,20.3,19.0,0.0,0.0,7.2,0.0,12.3,118,111,-3.5
+2022-01-06,202201060MEM,DET,Trey Lyles,https://www.basketball-reference.com/boxscores/202201060MEM.html,25:36,.512,.438,.625,.500,3.5,19.9,11.3,6.6,1.8,0.0,9.3,17.4,100,111,-4.0
+2022-01-06,202201060MEM,DET,Luka Garza,https://www.basketball-reference.com/boxscores/202201060MEM.html,18:07,.474,.438,.500,.125,5.0,16.9,10.6,30.5,0.0,0.0,0.0,19.3,111,117,3.0
+2022-01-06,202201060MEM,DET,Rodney McGruder,https://www.basketball-reference.com/boxscores/202201060MEM.html,17:26,.500,.500,.286,.000,5.2,0.0,2.8,10.7,2.7,0.0,0.0,16.7,106,117,-1.0
+2022-01-06,202201060MEM,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202201060MEM.html,15:54,.364,.364,.364,.000,0.0,12.8,6.0,0.0,2.9,0.0,8.3,31.3,64,112,-9.7
+2022-01-06,202201060MEM,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202201060MEM.html,15:33,.799,.714,.286,.571,0.0,13.1,6.2,71.3,6.0,0.0,25.5,31.4,125,106,21.0
+2022-01-06,202201060MEM,DET,Justin Robinson,https://www.basketball-reference.com/boxscores/202201060MEM.html,8:24,.750,.750,.500,.000,0.0,0.0,0.0,60.6,0.0,0.0,0.0,9.9,172,124,9.3
+2022-01-06,202201060MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202201060MEM.html,26:41,.423,.423,.308,.000,7.7,13.6,10.8,0.0,1.8,6.5,7.1,20.3,95,85,-4.7
+2022-01-06,202201060MEM,MEM,Ziaire Williams,https://www.basketball-reference.com/boxscores/202201060MEM.html,25:22,.788,.750,.500,.250,0.0,0.0,0.0,0.0,3.7,0.0,10.1,15.0,143,90,5.8
+2022-01-06,202201060MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202201060MEM.html,24:36,.553,.526,.158,.105,12.5,22.1,17.6,41.1,0.0,3.5,20.1,39.0,106,88,5.0
+2022-01-06,202201060MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202201060MEM.html,24:30,.516,.500,.235,.059,8.3,3.7,5.9,30.3,5.7,7.1,5.4,29.1,123,80,14.2
+2022-01-06,202201060MEM,MEM,Steven Adams,https://www.basketball-reference.com/boxscores/202201060MEM.html,22:01,.216,.000,.000,3.000,23.2,37.0,30.5,18.2,0.0,4.0,17.7,9.9,100,83,1.1
+2022-01-06,202201060MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202201060MEM.html,21:39,.557,.556,.000,.222,4.7,12.5,8.9,12.0,0.0,4.0,23.3,23.0,94,91,-6.2
+2022-01-06,202201060MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202201060MEM.html,20:56,.269,.214,.857,.143,4.9,30.3,18.3,30.1,2.2,8.3,35.0,21.1,71,77,-2.8
+2022-01-06,202201060MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202201060MEM.html,20:24,1.000,1.000,.286,.000,0.0,17.8,9.4,27.8,0.0,0.0,12.5,15.1,172,92,11.8
+2022-01-06,202201060MEM,MEM,Killian Tillie,https://www.basketball-reference.com/boxscores/202201060MEM.html,19:24,.417,.417,.667,.000,15.8,9.3,12.4,0.0,2.4,0.0,0.0,11.9,118,90,-2.4
+2022-01-06,202201060MEM,MEM,Santi Aldama,https://www.basketball-reference.com/boxscores/202201060MEM.html,18:06,.565,.500,.500,1.250,5.6,10.0,8.0,6.2,0.0,0.0,13.9,15.4,114,95,-5.6
+2022-01-06,202201060MEM,MEM,Jarrett Culver,https://www.basketball-reference.com/boxscores/202201060MEM.html,5:34,.333,.333,.333,.000,0.0,16.3,8.6,43.8,0.0,0.0,0.0,20.8,111,93,-3.3
+2022-01-06,202201060MEM,MEM,DaQuan Jeffries,https://www.basketball-reference.com/boxscores/202201060MEM.html,4:20,1.000,1.000,.000,.000,0.0,20.9,11.1,0.0,0.0,0.0,0.0,8.9,200,91,3.9
+2022-01-06,202201060MEM,MEM,Dakota Mathias,https://www.basketball-reference.com/boxscores/202201060MEM.html,3:14,1.500,1.500,1.000,.000,0.0,56.0,29.7,0.0,0.0,0.0,0.0,23.9,300,78,53.4
+2022-01-06,202201060MEM,MEM,Jon Teske,https://www.basketball-reference.com/boxscores/202201060MEM.html,3:13,,,,,0.0,28.2,14.9,31.1,0.0,0.0,,0.0,221,89,10.4

@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-30,202301300OKC,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202301300OKC.html,36:49,.640,.619,.667,.095,0.0,19.8,10.5,11.9,1.2,0.0,8.4,27.4,111,113,1.2
+2023-01-30,202301300OKC,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202301300OKC.html,36:36,.839,.800,.700,.300,3.2,20.0,12.1,52.0,0.0,1.9,15.0,30.7,147,114,19.0
+2023-01-30,202301300OKC,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202301300OKC.html,32:15,.577,.577,.308,.000,0.0,12.9,6.8,4.2,1.4,4.3,7.1,18.3,100,110,-3.6
+2023-01-30,202301300OKC,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202301300OKC.html,31:23,.717,.750,.250,.500,3.7,26.6,15.8,44.3,2.9,0.0,38.1,10.6,140,109,7.3
+2023-01-30,202301300OKC,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202301300OKC.html,30:54,.483,.417,.500,.667,0.0,0.0,0.0,15.6,2.9,0.0,11.4,23.9,97,113,-5.8
+2023-01-30,202301300OKC,GSW,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202301300OKC.html,26:10,.500,.500,.625,.000,0.0,16.0,8.4,13.6,5.1,0.0,20.0,16.1,88,105,-1.7
+2023-01-30,202301300OKC,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202301300OKC.html,22:31,.680,.600,.000,.400,20.8,9.3,14.7,0.0,0.0,3.1,0.0,11.0,161,115,-2.4
+2023-01-30,202301300OKC,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202301300OKC.html,12:06,.400,.400,.400,.000,0.0,25.9,13.7,10.4,0.0,0.0,0.0,17.4,88,115,-12.1
+2023-01-30,202301300OKC,GSW,Anthony Lamb,https://www.basketball-reference.com/boxscores/202301300OKC.html,11:12,1.250,1.250,.500,.000,0.0,28.0,14.8,11.5,0.0,0.0,33.3,11.3,133,115,2.0
+2023-01-30,202301300OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202301300OKC.html,36:31,.546,.438,.083,.417,0.0,12.8,6.0,28.0,0.0,9.2,15.0,37.3,104,120,0.4
+2023-01-30,202301300OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202301300OKC.html,33:09,.354,.333,.222,.222,6.3,21.2,13.3,7.0,4.1,0.0,16.8,14.6,78,115,-5.0
+2023-01-30,202301300OKC,OKC,Jalen Williams,https://www.basketball-reference.com/boxscores/202301300OKC.html,30:58,.638,.607,.214,.143,3.4,11.3,7.1,9.2,1.4,3.6,6.3,20.9,125,120,2.5
+2023-01-30,202301300OKC,OKC,Josh Giddey,https://www.basketball-reference.com/boxscores/202301300OKC.html,29:22,.531,.528,.167,.222,7.1,23.9,15.0,31.3,4.6,0.0,20.2,34.4,97,114,2.0
+2023-01-30,202301300OKC,OKC,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202301300OKC.html,22:47,.750,.750,.500,.000,4.6,5.1,4.8,0.0,0.0,0.0,0.0,3.6,159,127,-4.9
+2023-01-30,202301300OKC,OKC,Isaiah Joe,https://www.basketball-reference.com/boxscores/202301300OKC.html,25:26,.714,.714,.714,.000,0.0,13.8,6.5,0.0,0.0,0.0,0.0,11.2,138,126,-3.6
+2023-01-30,202301300OKC,OKC,Jaylin Williams,https://www.basketball-reference.com/boxscores/202301300OKC.html,17:48,.667,.667,.333,.000,11.7,39.5,24.8,24.9,2.5,0.0,0.0,20.6,148,117,13.6
+2023-01-30,202301300OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202301300OKC.html,14:04,1.031,1.000,.667,.667,0.0,16.6,7.8,8.7,3.2,0.0,0.0,11.2,206,118,11.1
+2023-01-30,202301300OKC,OKC,Tre Mann,https://www.basketball-reference.com/boxscores/202301300OKC.html,12:57,.625,.625,.500,.000,0.0,9.0,4.3,0.0,3.5,0.0,33.3,18.9,75,118,-8.0
+2023-01-30,202301300OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202301300OKC.html,9:56,1.000,1.000,.000,.000,0.0,23.6,11.1,23.5,0.0,0.0,50.0,8.2,118,125,1.0
+2023-01-30,202301300OKC,OKC,Ousmane Dieng,https://www.basketball-reference.com/boxscores/202301300OKC.html,6:58,.500,.500,.500,.000,0.0,16.8,7.9,0.0,0.0,0.0,0.0,11.7,100,125,-8.8

@@ -1,0 +1,80 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2024-03-16,202403160IND,BRK,Q1,Cam Thomas,https://www.basketball-reference.com/boxscores/202403160IND.html,8.93,2,4,.500,0,1,.000,0,0,0,1,1,0,0,0,2,2,4,-0.5,-1,
+2024-03-16,202403160IND,BRK,Q1,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403160IND.html,7.02,0,2,.000,0,1,.000,0,0,0,1,1,2,1,0,2,0,0,-0.7,+4,
+2024-03-16,202403160IND,BRK,Q1,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403160IND.html,8.0,0,2,.000,0,0,,2,2,1,0,1,2,0,0,0,0,2,2.7,+2,1.000
+2024-03-16,202403160IND,BRK,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,6.1,3,3,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,1,7,6.0,+4,
+2024-03-16,202403160IND,BRK,Q1,Nic Claxton,https://www.basketball-reference.com/boxscores/202403160IND.html,8.87,3,4,.750,0,0,,0,1,1,4,5,1,0,1,0,1,6,6.9,+2,.000
+2024-03-16,202403160IND,BRK,Q1,Cameron Johnson,https://www.basketball-reference.com/boxscores/202403160IND.html,8.05,2,2,1.000,2,2,1.000,0,0,0,1,1,1,0,0,2,0,6,4.4,+7,
+2024-03-16,202403160IND,BRK,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202403160IND.html,5.9,0,0,,0,0,,3,4,0,0,0,0,0,1,0,0,3,3.3,+1,.750
+2024-03-16,202403160IND,BRK,Q1,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403160IND.html,3.13,0,0,,0,0,,0,0,1,2,3,1,0,0,0,0,0,2.0,+3,
+2024-03-16,202403160IND,BRK,Q1,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403160IND.html,4.0,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,0,2,1.3,+3,
+2024-03-16,202403160IND,BRK,Q2,Cam Thomas,https://www.basketball-reference.com/boxscores/202403160IND.html,6.7,1,3,.333,0,1,.000,2,2,0,0,0,0,0,0,0,0,4,2.3,+2,1.000
+2024-03-16,202403160IND,BRK,Q2,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403160IND.html,8.63,2,5,.400,2,2,1.000,3,4,0,1,1,2,0,0,0,1,9,7.2,-6,.750
+2024-03-16,202403160IND,BRK,Q2,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403160IND.html,5.9,0,2,.000,0,2,.000,0,0,1,1,2,1,0,0,1,0,0,-0.7,-7,
+2024-03-16,202403160IND,BRK,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,9.07,1,1,1.000,1,1,1.000,0,0,0,1,1,0,1,0,0,1,3,3.6,-8,
+2024-03-16,202403160IND,BRK,Q2,Nic Claxton,https://www.basketball-reference.com/boxscores/202403160IND.html,6.63,0,1,.000,0,0,,0,0,1,2,3,0,0,0,0,1,0,0.2,0,
+2024-03-16,202403160IND,BRK,Q2,Cameron Johnson,https://www.basketball-reference.com/boxscores/202403160IND.html,8.3,1,4,.250,0,2,.000,2,2,1,1,2,1,2,0,0,0,4,5.3,-6,1.000
+2024-03-16,202403160IND,BRK,Q2,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403160IND.html,5.37,1,1,1.000,0,0,,1,3,2,1,3,0,0,0,3,2,3,-0.2,-7,.333
+2024-03-16,202403160IND,BRK,Q2,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403160IND.html,2.85,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2024-03-16,202403160IND,BRK,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403160IND.html,6.55,2,3,.667,0,1,.000,0,0,0,0,0,0,0,0,0,2,4,1.9,-2,
+2024-03-16,202403160IND,BRK,Q3,Cam Thomas,https://www.basketball-reference.com/boxscores/202403160IND.html,8.28,1,4,.250,1,2,.500,4,4,1,4,5,2,0,0,2,1,7,5.5,+5,1.000
+2024-03-16,202403160IND,BRK,Q3,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403160IND.html,9.93,0,3,.000,0,1,.000,0,0,0,0,0,1,0,0,1,0,0,-2.4,-10,
+2024-03-16,202403160IND,BRK,Q3,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403160IND.html,10.68,1,4,.250,1,2,.500,2,2,1,3,4,1,0,0,0,0,5,4.9,-6,1.000
+2024-03-16,202403160IND,BRK,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,6.12,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,-3,
+2024-03-16,202403160IND,BRK,Q3,Nic Claxton,https://www.basketball-reference.com/boxscores/202403160IND.html,9.67,1,1,1.000,0,0,,1,2,0,2,2,0,1,1,0,0,3,4.6,-10,.500
+2024-03-16,202403160IND,BRK,Q3,Cameron Johnson,https://www.basketball-reference.com/boxscores/202403160IND.html,5.03,0,3,.000,0,1,.000,1,2,0,0,0,0,0,0,0,0,1,-1.5,-11,.500
+2024-03-16,202403160IND,BRK,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202403160IND.html,5.88,1,1,1.000,0,0,,1,1,0,0,0,0,1,0,1,0,3,2.7,-3,1.000
+2024-03-16,202403160IND,BRK,Q3,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403160IND.html,2.33,0,0,,0,0,,0,0,0,1,1,0,1,0,1,0,0,0.3,+4,
+2024-03-16,202403160IND,BRK,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403160IND.html,2.07,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,1,0,-0.4,+4,
+2024-03-16,202403160IND,BRK,Q4,Cam Thomas,https://www.basketball-reference.com/boxscores/202403160IND.html,8.07,3,5,.600,1,2,.500,0,0,1,1,2,0,0,0,1,0,7,4.7,-10,
+2024-03-16,202403160IND,BRK,Q4,Dennis Schröder,https://www.basketball-reference.com/boxscores/202403160IND.html,5.1,2,3,.667,0,0,,0,0,0,0,0,0,0,0,0,0,4,2.7,-2,
+2024-03-16,202403160IND,BRK,Q4,Mikal Bridges,https://www.basketball-reference.com/boxscores/202403160IND.html,4.68,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2024-03-16,202403160IND,BRK,Q4,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,4.68,0,0,,0,0,,0,0,1,0,1,0,0,0,0,1,0,0.3,0,
+2024-03-16,202403160IND,BRK,Q4,Cameron Johnson,https://www.basketball-reference.com/boxscores/202403160IND.html,5.27,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,1,0,3,1.3,-4,
+2024-03-16,202403160IND,BRK,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202403160IND.html,7.32,2,5,.400,0,0,,2,2,0,0,0,1,1,0,0,1,6,4.6,-13,1.000
+2024-03-16,202403160IND,BRK,Q4,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202403160IND.html,2.8,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2024-03-16,202403160IND,BRK,Q4,Lonnie Walker IV,https://www.basketball-reference.com/boxscores/202403160IND.html,6.73,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-9,
+2024-03-16,202403160IND,BRK,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202403160IND.html,2.8,0,0,,0,0,,0,0,0,0,0,1,0,0,1,0,0,-0.3,-6,
+2024-03-16,202403160IND,BRK,Q4,Jalen Wilson,https://www.basketball-reference.com/boxscores/202403160IND.html,4.52,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,1,2,0.6,-7,
+2024-03-16,202403160IND,BRK,Q4,Noah Clowney,https://www.basketball-reference.com/boxscores/202403160IND.html,4.1,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,2,0,0,-2.4,-5,
+2024-03-16,202403160IND,BRK,Q4,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202403160IND.html,3.93,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,-3,
+2024-03-16,202403160IND,IND,Q1,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202403160IND.html,6.1,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-4,
+2024-03-16,202403160IND,IND,Q1,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202403160IND.html,9.73,0,5,.000,0,3,.000,0,0,0,1,1,1,0,0,1,0,0,-3.5,-4,
+2024-03-16,202403160IND,IND,Q1,Pascal Siakam,https://www.basketball-reference.com/boxscores/202403160IND.html,6.1,2,4,.500,0,0,,0,0,0,2,2,0,2,0,1,2,4,2.8,-4,
+2024-03-16,202403160IND,IND,Q1,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202403160IND.html,9.17,2,2,1.000,0,0,,4,4,0,0,0,1,0,0,0,0,8,8.1,-2,1.000
+2024-03-16,202403160IND,IND,Q1,Myles Turner,https://www.basketball-reference.com/boxscores/202403160IND.html,8.0,1,2,.500,0,0,,0,0,1,1,2,0,1,0,0,1,2,2.6,-2,
+2024-03-16,202403160IND,IND,Q1,Ben Sheppard,https://www.basketball-reference.com/boxscores/202403160IND.html,3.13,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,-3,
+2024-03-16,202403160IND,IND,Q1,T.J. McConnell,https://www.basketball-reference.com/boxscores/202403160IND.html,5.9,3,6,.500,0,0,,0,0,0,2,2,1,1,0,0,1,6,4.9,-1,
+2024-03-16,202403160IND,IND,Q1,Jalen Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,4.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-3,
+2024-03-16,202403160IND,IND,Q1,Obi Toppin,https://www.basketball-reference.com/boxscores/202403160IND.html,5.6,1,2,.500,0,1,.000,0,0,1,0,1,2,0,0,0,0,2,3.1,-1,
+2024-03-16,202403160IND,IND,Q1,Jarace Walker,https://www.basketball-reference.com/boxscores/202403160IND.html,2.27,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,-1,
+2024-03-16,202403160IND,IND,Q2,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202403160IND.html,6.65,1,1,1.000,0,0,,0,1,0,0,0,1,0,0,0,3,2,0.8,+1,.000
+2024-03-16,202403160IND,IND,Q2,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202403160IND.html,7.22,1,4,.250,0,3,.000,0,0,0,2,2,0,1,0,1,0,2,0.2,+7,
+2024-03-16,202403160IND,IND,Q2,Pascal Siakam,https://www.basketball-reference.com/boxscores/202403160IND.html,8.13,3,7,.429,0,0,,4,4,2,3,5,2,0,0,1,0,10,9.0,+16,1.000
+2024-03-16,202403160IND,IND,Q2,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202403160IND.html,7.22,2,4,.500,1,2,.500,1,1,1,1,2,0,2,0,0,1,6,6.6,+7,1.000
+2024-03-16,202403160IND,IND,Q2,Myles Turner,https://www.basketball-reference.com/boxscores/202403160IND.html,7.22,1,3,.333,0,0,,0,0,1,2,3,1,0,0,0,1,2,1.9,+7,
+2024-03-16,202403160IND,IND,Q2,Ben Sheppard,https://www.basketball-reference.com/boxscores/202403160IND.html,6.58,0,0,,0,0,,1,1,0,0,0,0,0,0,0,0,1,1.0,+3,1.000
+2024-03-16,202403160IND,IND,Q2,T.J. McConnell,https://www.basketball-reference.com/boxscores/202403160IND.html,4.78,1,2,.500,0,0,,0,0,1,2,3,0,0,0,1,1,2,0.9,0,
+2024-03-16,202403160IND,IND,Q2,Jalen Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,4.78,3,4,.750,1,2,.500,0,0,2,0,2,0,0,0,0,1,7,6.4,0,
+2024-03-16,202403160IND,IND,Q2,Obi Toppin,https://www.basketball-reference.com/boxscores/202403160IND.html,3.87,1,2,.500,0,1,.000,0,0,1,0,1,0,0,0,0,0,2,1.7,-9,
+2024-03-16,202403160IND,IND,Q2,Jarace Walker,https://www.basketball-reference.com/boxscores/202403160IND.html,3.55,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,1,0,-2.1,+3,
+2024-03-16,202403160IND,IND,Q3,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202403160IND.html,10.68,1,3,.333,1,3,.333,0,0,0,0,0,0,0,0,1,0,3,0.3,+6,
+2024-03-16,202403160IND,IND,Q3,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202403160IND.html,10.82,4,7,.571,0,2,.000,1,1,0,4,4,2,1,0,0,0,9,9.3,+11,1.000
+2024-03-16,202403160IND,IND,Q3,Pascal Siakam,https://www.basketball-reference.com/boxscores/202403160IND.html,6.97,2,5,.400,0,1,.000,0,0,1,1,2,2,0,0,0,1,4,3.3,-5,
+2024-03-16,202403160IND,IND,Q3,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202403160IND.html,9.5,1,2,.500,0,0,,0,0,1,1,2,2,0,2,0,2,2,4.0,+11,
+2024-03-16,202403160IND,IND,Q3,Myles Turner,https://www.basketball-reference.com/boxscores/202403160IND.html,9.5,3,5,.600,0,2,.000,1,1,1,1,2,0,0,0,0,1,7,5.3,+11,1.000
+2024-03-16,202403160IND,IND,Q3,Ben Sheppard,https://www.basketball-reference.com/boxscores/202403160IND.html,2.5,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-1.7,-5,
+2024-03-16,202403160IND,IND,Q3,T.J. McConnell,https://www.basketball-reference.com/boxscores/202403160IND.html,2.5,0,2,.000,0,0,,0,0,0,0,0,0,0,0,1,1,0,-2.8,-5,
+2024-03-16,202403160IND,IND,Q3,Jalen Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,2.5,0,2,.000,0,1,.000,0,0,1,0,1,0,0,0,0,1,0,-1.1,-5,
+2024-03-16,202403160IND,IND,Q3,Obi Toppin,https://www.basketball-reference.com/boxscores/202403160IND.html,5.03,1,1,1.000,0,0,,0,0,0,1,1,0,1,0,0,1,2,2.6,+11,
+2024-03-16,202403160IND,IND,Q4,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202403160IND.html,8.7,1,1,1.000,0,0,,0,0,0,1,1,2,1,0,0,0,2,4.4,+13,
+2024-03-16,202403160IND,IND,Q4,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202403160IND.html,2.97,1,2,.500,1,1,1.000,0,0,0,0,0,1,0,1,0,0,3,3.4,+5,
+2024-03-16,202403160IND,IND,Q4,Pascal Siakam,https://www.basketball-reference.com/boxscores/202403160IND.html,6.55,4,6,.667,0,0,,2,2,1,1,2,0,1,0,0,0,10,9.4,+15,1.000
+2024-03-16,202403160IND,IND,Q4,Ben Sheppard,https://www.basketball-reference.com/boxscores/202403160IND.html,12.0,3,4,.750,0,1,.000,1,1,0,1,1,2,1,0,0,0,7,8.1,+13,1.000
+2024-03-16,202403160IND,IND,Q4,T.J. McConnell,https://www.basketball-reference.com/boxscores/202403160IND.html,7.22,2,4,.500,1,1,1.000,0,0,0,0,0,0,1,0,0,1,5,3.6,+14,
+2024-03-16,202403160IND,IND,Q4,Jalen Smith,https://www.basketball-reference.com/boxscores/202403160IND.html,7.48,1,2,.500,0,0,,0,0,1,1,2,0,0,0,0,0,2,2.0,+6,
+2024-03-16,202403160IND,IND,Q4,Obi Toppin,https://www.basketball-reference.com/boxscores/202403160IND.html,3.17,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,+5,
+2024-03-16,202403160IND,IND,Q4,Jarace Walker,https://www.basketball-reference.com/boxscores/202403160IND.html,3.5,0,2,.000,0,1,.000,0,0,0,1,1,0,0,1,0,1,0,-0.8,0,
+2024-03-16,202403160IND,IND,Q4,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202403160IND.html,3.3,2,2,1.000,0,0,,0,0,1,2,3,0,0,0,0,0,4,4.7,0,
+2024-03-16,202403160IND,IND,Q4,Kendall Brown,https://www.basketball-reference.com/boxscores/202403160IND.html,3.3,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,1,0,2,1.4,0,
+2024-03-16,202403160IND,IND,Q4,Quenton Jackson,https://www.basketball-reference.com/boxscores/202403160IND.html,1.82,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-6,

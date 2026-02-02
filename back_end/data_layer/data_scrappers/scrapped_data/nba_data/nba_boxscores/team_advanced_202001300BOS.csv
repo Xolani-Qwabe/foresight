@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-01-30,202001300BOS,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202001300BOS.html,31:58,.799,.750,.500,.333,0.0,25.6,13.0,11.1,1.5,0.0,22.5,12.6,118,116,-3.3
+2020-01-30,202001300BOS,GSW,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202001300BOS.html,28:20,.573,.500,.647,.294,4.2,8.3,6.3,40.1,5.0,0.0,17.2,37.0,100,113,4.1
+2020-01-30,202001300BOS,GSW,Glenn Robinson III,https://www.basketball-reference.com/boxscores/202001300BOS.html,27:51,.506,.450,.600,.200,0.0,4.2,2.1,19.8,0.0,3.3,8.4,19.3,98,125,-5.5
+2020-01-30,202001300BOS,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202001300BOS.html,27:20,.461,.438,.250,.500,4.4,12.8,8.7,44.3,1.7,0.0,23.5,21.1,94,120,-4.0
+2020-01-30,202001300BOS,GSW,Marquese Chriss,https://www.basketball-reference.com/boxscores/202001300BOS.html,23:00,.654,.667,.000,.333,5.2,10.2,7.7,8.5,4.1,3.9,0.0,13.5,133,113,2.3
+2020-01-30,202001300BOS,GSW,Alec Burks,https://www.basketball-reference.com/boxscores/202001300BOS.html,24:23,.712,.650,.600,.600,0.0,19.2,9.7,0.0,1.9,0.0,13.7,27.1,111,117,2.1
+2020-01-30,202001300BOS,GSW,Eric Paschall,https://www.basketball-reference.com/boxscores/202001300BOS.html,23:13,.340,.200,.200,.400,0.0,5.0,2.6,13.4,0.0,0.0,14.5,13.4,72,126,-12.7
+2020-01-30,202001300BOS,GSW,Omari Spellman,https://www.basketball-reference.com/boxscores/202001300BOS.html,21:37,.509,.417,.667,.333,0.0,16.2,8.2,23.3,4.4,8.4,22.5,18.6,89,108,2.8
+2020-01-30,202001300BOS,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202001300BOS.html,18:53,.342,.167,.667,.500,0.0,18.6,9.4,8.3,0.0,4.8,12.0,19.9,68,119,-13.6
+2020-01-30,202001300BOS,GSW,Jacob Evans,https://www.basketball-reference.com/boxscores/202001300BOS.html,13:25,1.031,1.000,.667,.667,0.0,8.7,4.4,0.0,3.5,6.8,0.0,13.1,186,113,13.9
+2020-01-30,202001300BOS,BOS,Gordon Hayward,https://www.basketball-reference.com/boxscores/202001300BOS.html,32:37,.709,.633,.333,.400,10.8,18.4,14.5,14.6,1.4,3.9,10.2,24.2,144,103,10.5
+2020-01-30,202001300BOS,BOS,Kemba Walker,https://www.basketball-reference.com/boxscores/202001300BOS.html,31:00,.468,.462,.385,.154,0.0,15.5,7.6,22.6,3.0,0.0,12.6,20.5,104,103,-2.5
+2020-01-30,202001300BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202001300BOS.html,26:39,.610,.538,.308,.308,8.8,22.5,15.6,11.5,1.8,4.7,25.3,29.7,101,101,-3.7
+2020-01-30,202001300BOS,BOS,Daniel Theis,https://www.basketball-reference.com/boxscores/202001300BOS.html,25:43,.833,.833,.333,.000,22.8,14.0,18.4,14.6,3.7,0.0,50.0,9.4,117,101,2.0
+2020-01-30,202001300BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202001300BOS.html,23:52,.601,.536,.357,.429,4.9,25.1,14.9,14.4,2.0,5.3,10.7,31.3,120,100,4.2
+2020-01-30,202001300BOS,BOS,Semi Ojeleye,https://www.basketball-reference.com/boxscores/202001300BOS.html,29:24,.765,.700,.600,.400,4.0,12.2,8.1,4.4,3.2,0.0,0.0,8.0,172,103,4.5
+2020-01-30,202001300BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202001300BOS.html,27:25,.656,.656,.625,.000,0.0,13.1,6.5,37.5,1.7,4.6,20.0,29.3,116,103,7.6
+2020-01-30,202001300BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202001300BOS.html,16:43,.400,.400,.200,.000,14.0,21.5,17.7,23.8,5.6,0.0,16.7,14.4,109,96,2.6
+2020-01-30,202001300BOS,BOS,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202001300BOS.html,14:35,.000,.000,.000,.000,0.0,24.7,12.2,15.7,0.0,0.0,33.3,8.3,45,109,-12.1
+2020-01-30,202001300BOS,BOS,Vincent Poirier,https://www.basketball-reference.com/boxscores/202001300BOS.html,5:34,1.136,,,,0.0,64.7,31.9,0.0,0.0,0.0,53.2,13.5,107,105,-10.7
+2020-01-30,202001300BOS,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202001300BOS.html,3:29,.500,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,34.5,61,111,-20.4
+2020-01-30,202001300BOS,BOS,Carsen Edwards,https://www.basketball-reference.com/boxscores/202001300BOS.html,2:59,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-5.1

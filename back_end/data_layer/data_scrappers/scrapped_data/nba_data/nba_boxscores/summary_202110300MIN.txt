@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202110300MIN.html
+Scraped: 2025-12-14 22:41:26
+
+line_scores: 2 rows (nba_boxscores/line_scores_202110300MIN.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202110300MIN.csv)
+team_basic: 22 rows (nba_boxscores/team_basic_202110300MIN.csv)
+team_advanced: 22 rows (nba_boxscores/team_advanced_202110300MIN.csv)
+quarters: 77 rows (nba_boxscores/quarters_202110300MIN.csv)

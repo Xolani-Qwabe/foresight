@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-03-08,202303080BOS,POR,Cam Reddish,https://www.basketball-reference.com/boxscores/202303080BOS.html,34:32,.536,.438,.375,.375,3.0,15.1,9.1,10.8,1.4,0.0,17.7,14.5,97,115,-2.8
+2023-03-08,202303080BOS,POR,Jerami Grant,https://www.basketball-reference.com/boxscores/202303080BOS.html,32:39,.542,.542,.583,.000,3.2,16.0,9.6,0.0,0.0,0.0,14.3,18.9,88,118,-4.4
+2023-03-08,202303080BOS,POR,Damian Lillard,https://www.basketball-reference.com/boxscores/202303080BOS.html,29:50,.648,.500,.500,.688,0.0,17.5,8.7,68.7,1.6,0.0,19.3,38.2,115,114,10.8
+2023-03-08,202303080BOS,POR,Matisse Thybulle,https://www.basketball-reference.com/boxscores/202303080BOS.html,19:41,.167,.167,.667,.000,0.0,5.3,2.7,8.8,2.4,0.0,0.0,13.4,43,114,-8.3
+2023-03-08,202303080BOS,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202303080BOS.html,17:28,.322,.333,.500,.667,0.0,35.8,17.9,22.4,0.0,0.0,20.5,24.6,59,115,-10.5
+2023-03-08,202303080BOS,POR,Shaedon Sharpe,https://www.basketball-reference.com/boxscores/202303080BOS.html,25:26,.644,.688,.750,.375,0.0,4.1,2.1,8.4,1.9,0.0,9.7,17.9,108,115,2.6
+2023-03-08,202303080BOS,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202303080BOS.html,25:12,.403,.357,.071,.143,4.1,37.3,20.7,0.0,0.0,0.0,0.0,26.0,84,115,-5.7
+2023-03-08,202303080BOS,POR,Nassir Little,https://www.basketball-reference.com/boxscores/202303080BOS.html,23:30,.300,.300,.800,.000,0.0,13.3,6.7,0.0,0.0,5.2,28.6,13.1,41,114,-12.3
+2023-03-08,202303080BOS,POR,Drew Eubanks,https://www.basketball-reference.com/boxscores/202303080BOS.html,14:21,1.000,1.000,.000,.000,21.8,21.8,21.8,12.5,0.0,0.0,0.0,3.1,219,117,1.4
+2023-03-08,202303080BOS,POR,Keon Johnson,https://www.basketball-reference.com/boxscores/202303080BOS.html,5:47,.532,.000,.500,2.000,0.0,18.0,9.0,55.3,0.0,21.3,0.0,28.7,131,102,17.7
+2023-03-08,202303080BOS,POR,Kevin Knox,https://www.basketball-reference.com/boxscores/202303080BOS.html,5:47,.000,.000,.000,.000,0.0,18.0,9.0,0.0,8.3,0.0,0.0,15.2,0,98,-8.2
+2023-03-08,202303080BOS,POR,Jabari Walker,https://www.basketball-reference.com/boxscores/202303080BOS.html,5:47,.750,.750,1.000,.000,0.0,18.0,9.0,38.2,0.0,0.0,33.3,22.9,100,118,6.7
+2023-03-08,202303080BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202303080BOS.html,35:41,.763,.708,.417,.333,2.9,11.7,7.3,30.1,0.0,0.0,12.7,19.9,146,99,6.4
+2023-03-08,202303080BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202303080BOS.html,30:44,.800,.824,.588,.235,3.4,20.4,11.9,12.6,1.6,0.0,13.8,31.8,125,94,14.6
+2023-03-08,202303080BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202303080BOS.html,25:14,.486,.400,.300,.300,0.0,12.4,6.2,16.6,1.9,0.0,15.0,23.7,93,94,-4.5
+2023-03-08,202303080BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202303080BOS.html,24:01,.773,.773,.455,.000,0.0,26.1,13.0,35.7,0.0,0.0,8.3,22.5,144,96,14.2
+2023-03-08,202303080BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202303080BOS.html,21:31,.868,1.000,.500,1.000,0.0,0.0,0.0,6.3,4.4,0.0,14.8,14.1,136,91,4.2
+2023-03-08,202303080BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202303080BOS.html,32:10,.557,.500,1.000,.222,0.0,3.2,1.6,0.0,1.5,6.9,9.2,15.2,96,93,-0.6
+2023-03-08,202303080BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202303080BOS.html,27:57,.180,.192,.538,.154,3.7,29.9,16.8,8.9,0.0,0.0,0.0,22.3,52,95,-14.5
+2023-03-08,202303080BOS,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202303080BOS.html,18:12,.000,.000,1.000,.000,5.7,28.7,17.2,18.8,5.2,0.0,0.0,2.5,141,83,3.8
+2023-03-08,202303080BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202303080BOS.html,12:00,.474,.500,.875,.125,0.0,43.5,21.7,0.0,4.0,0.0,0.0,31.6,86,83,1.2
+2023-03-08,202303080BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202303080BOS.html,5:47,,,,,0.0,0.0,0.0,19.8,0.0,0.0,,0.0,243,102,2.2
+2023-03-08,202303080BOS,BOS,JD Davison,https://www.basketball-reference.com/boxscores/202303080BOS.html,4:13,.333,.333,.000,.000,24.7,49.5,37.1,74.4,11.3,0.0,0.0,32.0,114,64,14.1
+2023-03-08,202303080BOS,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202303080BOS.html,2:30,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,102,-5.4

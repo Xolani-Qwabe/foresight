@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-14,201912140CHI,LAC,Paul George,https://www.basketball-reference.com/boxscores/201912140CHI.html,30:43,.585,.525,.300,.350,0.0,14.2,6.9,44.8,3.2,0.0,20.6,41.0,99,109,4.5
+2019-12-14,201912140CHI,LAC,Maurice Harkless,https://www.basketball-reference.com/boxscores/201912140CHI.html,25:25,.307,.250,.250,.500,4.1,21.5,12.6,5.7,3.8,0.0,29.1,11.7,60,105,-6.0
+2019-12-14,201912140CHI,LAC,Landry Shamet,https://www.basketball-reference.com/boxscores/201912140CHI.html,20:58,1.100,1.100,.800,.000,5.0,15.6,10.2,0.0,0.0,0.0,16.7,12.4,158,116,5.3
+2019-12-14,201912140CHI,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/201912140CHI.html,16:15,.644,.667,.000,.667,0.0,6.7,3.3,20.3,0.0,0.0,0.0,10.3,142,119,-2.4
+2019-12-14,201912140CHI,LAC,Ivica Zubac,https://www.basketball-reference.com/boxscores/201912140CHI.html,15:08,.291,.333,.000,.333,0.0,21.6,10.6,0.0,0.0,0.0,12.7,22.5,50,114,-19.6
+2019-12-14,201912140CHI,LAC,Montrezl Harrell,https://www.basketball-reference.com/boxscores/201912140CHI.html,32:52,.497,.375,.042,.583,12.7,10.0,11.4,0.0,3.0,8.1,6.2,42.4,103,106,0.8
+2019-12-14,201912140CHI,LAC,Derrick Walton,https://www.basketball-reference.com/boxscores/201912140CHI.html,29:48,.500,.500,.600,.000,0.0,7.3,3.6,20.3,1.6,0.0,16.7,8.7,104,115,-3.4
+2019-12-14,201912140CHI,LAC,Rodney McGruder,https://www.basketball-reference.com/boxscores/201912140CHI.html,24:08,.410,.250,.500,.500,0.0,18.1,8.8,12.1,4.0,3.7,0.0,8.8,104,103,2.7
+2019-12-14,201912140CHI,LAC,Jerome Robinson,https://www.basketball-reference.com/boxscores/201912140CHI.html,23:04,.551,.500,.400,.200,0.0,14.2,6.9,33.7,0.0,0.0,26.9,14.0,102,116,-2.7
+2019-12-14,201912140CHI,LAC,Patrick Patterson,https://www.basketball-reference.com/boxscores/201912140CHI.html,21:39,.828,1.000,.750,1.500,9.6,20.2,14.8,0.0,0.0,0.0,0.0,13.3,164,115,6.2
+2019-12-14,201912140CHI,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/201912140CHI.html,39:35,.732,.688,.750,.250,5.5,39.5,22.9,13.8,1.2,2.1,25.3,13.1,125,105,2.3
+2019-12-14,201912140CHI,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/201912140CHI.html,36:14,.643,.600,.000,.200,9.0,11.5,10.3,4.1,2.7,9.1,8.4,14.3,133,102,0.9
+2019-12-14,201912140CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/201912140CHI.html,36:06,.656,.619,.333,.286,9.1,2.9,5.9,10.5,2.7,0.0,11.3,32.2,125,112,5.8
+2019-12-14,201912140CHI,CHI,Kris Dunn,https://www.basketball-reference.com/boxscores/201912140CHI.html,28:56,.643,.643,.143,.000,3.8,28.9,16.6,19.9,3.4,8.6,12.5,12.1,134,98,7.1
+2019-12-14,201912140CHI,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/201912140CHI.html,27:54,.400,.286,.143,.571,7.8,3.7,5.7,23.5,3.5,3.0,18.6,16.8,101,108,-2.0
+2019-12-14,201912140CHI,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/201912140CHI.html,25:32,.673,.636,.636,.182,0.0,16.3,8.4,6.1,1.9,0.0,14.4,23.7,118,111,0.2
+2019-12-14,201912140CHI,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/201912140CHI.html,20:13,.660,.667,.417,.167,5.4,15.5,10.6,30.5,2.4,0.0,18.9,34.3,113,109,2.3
+2019-12-14,201912140CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/201912140CHI.html,13:01,.167,.167,.500,.000,0.0,16.0,8.2,10.2,3.7,0.0,25.0,26.8,36,107,-21.8
+2019-12-14,201912140CHI,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/201912140CHI.html,11:54,.000,.000,.333,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0,118,-21.0
+2019-12-14,201912140CHI,CHI,Shaquille Harrison,https://www.basketball-reference.com/boxscores/201912140CHI.html,0:35,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-9.6

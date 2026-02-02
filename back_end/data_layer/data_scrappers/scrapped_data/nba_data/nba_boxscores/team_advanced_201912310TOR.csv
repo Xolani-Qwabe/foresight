@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2019-12-31,201912310TOR,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/201912310TOR.html,34:13,.545,.545,.636,.000,0.0,3.3,1.6,18.7,1.5,0.0,8.3,15.6,109,126,-2.2
+2019-12-31,201912310TOR,CLE,Tristan Thompson,https://www.basketball-reference.com/boxscores/201912310TOR.html,31:54,.854,.833,.000,.833,14.0,24.5,19.2,0.0,0.0,0.0,19.6,14.2,143,124,-0.7
+2019-12-31,201912310TOR,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/201912310TOR.html,31:33,.640,.567,.267,.333,0.0,3.5,1.8,6.1,1.6,0.0,10.4,27.0,115,126,0.9
+2019-12-31,201912310TOR,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/201912310TOR.html,30:18,.437,.409,.636,.091,7.4,33.2,20.3,10.3,0.0,7.0,20.8,21.2,81,117,-5.4
+2019-12-31,201912310TOR,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/201912310TOR.html,24:54,.583,.583,.667,.000,4.5,13.4,9.0,28.2,0.0,4.3,0.0,21.4,128,124,8.1
+2019-12-31,201912310TOR,CLE,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201912310TOR.html,28:19,.382,.382,.353,.000,3.9,11.8,7.9,25.3,0.0,0.0,10.5,29.8,81,127,-9.9
+2019-12-31,201912310TOR,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201912310TOR.html,19:54,.400,.400,.200,.000,0.0,39.3,19.6,15.0,2.5,0.0,28.6,15.6,68,114,-6.6
+2019-12-31,201912310TOR,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201912310TOR.html,15:17,.375,.375,.750,.000,0.0,7.3,3.7,18.6,3.3,0.0,20.0,14.5,77,120,-7.3
+2019-12-31,201912310TOR,CLE,Dante Exum,https://www.basketball-reference.com/boxscores/201912310TOR.html,14:57,.403,.250,.500,1.250,0.0,7.5,3.7,9.5,0.0,0.0,13.9,21.4,80,128,-11.6
+2019-12-31,201912310TOR,CLE,John Henson,https://www.basketball-reference.com/boxscores/201912310TOR.html,5:54,.000,.000,.000,.000,0.0,0.0,0.0,22.0,8.5,18.1,0.0,15.1,29,99,1.6
+2019-12-31,201912310TOR,CLE,Ante Žižić,https://www.basketball-reference.com/boxscores/201912310TOR.html,2:47,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,131,-9.1
+2019-12-31,201912310TOR,TOR,Kyle Lowry,https://www.basketball-reference.com/boxscores/201912310TOR.html,35:54,.644,.563,.750,.375,0.0,3.1,1.6,34.9,0.0,2.7,5.1,24.8,140,107,5.8
+2019-12-31,201912310TOR,TOR,Serge Ibaka,https://www.basketball-reference.com/boxscores/201912310TOR.html,33:28,.842,.818,.273,.182,6.7,26.7,16.7,10.1,1.5,2.9,20.2,20.1,131,98,5.5
+2019-12-31,201912310TOR,TOR,Fred VanVleet,https://www.basketball-reference.com/boxscores/201912310TOR.html,29:43,.403,.393,.571,.143,3.8,11.3,7.5,33.7,0.0,13.2,21.2,28.8,87,98,-4.3
+2019-12-31,201912310TOR,TOR,Rondae Hollis-Jefferson,https://www.basketball-reference.com/boxscores/201912310TOR.html,27:38,.625,.556,.000,.556,4.0,16.2,10.1,11.1,0.0,0.0,8.2,20.0,127,106,-1.5
+2019-12-31,201912310TOR,TOR,Patrick McCaw,https://www.basketball-reference.com/boxscores/201912310TOR.html,22:04,.510,.500,.400,.400,0.0,20.2,10.1,24.4,2.3,0.0,0.0,12.1,132,100,2.0
+2019-12-31,201912310TOR,TOR,OG Anunoby,https://www.basketball-reference.com/boxscores/201912310TOR.html,30:26,.750,.750,.375,.000,3.7,22.0,12.8,19.6,1.6,0.0,11.1,13.4,143,101,5.1
+2019-12-31,201912310TOR,TOR,Terence Davis,https://www.basketball-reference.com/boxscores/201912310TOR.html,24:34,.738,.750,.583,.167,0.0,18.2,9.1,7.4,0.0,0.0,7.2,25.6,125,105,4.8
+2019-12-31,201912310TOR,TOR,Chris Boucher,https://www.basketball-reference.com/boxscores/201912310TOR.html,15:50,.200,.200,.200,.000,21.2,21.2,21.2,0.0,6.3,6.2,0.0,14.3,86,86,-4.9
+2019-12-31,201912310TOR,TOR,Oshae Brissett,https://www.basketball-reference.com/boxscores/201912310TOR.html,14:32,.129,.000,.667,.667,15.4,15.4,15.4,0.0,0.0,0.0,0.0,12.1,70,106,-15.5
+2019-12-31,201912310TOR,TOR,Stanley Johnson,https://www.basketball-reference.com/boxscores/201912310TOR.html,1:57,1.136,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4,250,110,15.6
+2019-12-31,201912310TOR,TOR,Malcolm Miller,https://www.basketball-reference.com/boxscores/201912310TOR.html,1:57,,,,,0.0,0.0,0.0,61.5,0.0,0.0,,0.0,243,110,12.3
+2019-12-31,201912310TOR,TOR,Shamorie Ponds,https://www.basketball-reference.com/boxscores/201912310TOR.html,1:57,1.330,1.500,1.000,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.7,262,110,68.8

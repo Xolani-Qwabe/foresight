@@ -1,0 +1,71 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2019-11-22,201911220DAL,CLE,Q1,Darius Garland,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.17,1,3,.333,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,1.3,-1,
+2019-11-22,201911220DAL,CLE,Q1,Collin Sexton,https://www.basketball-reference.com/boxscores/201911220DAL.html,10.23,2,4,.500,0,1,.000,0,0,0,1,1,1,0,0,1,1,4,1.6,-2,
+2019-11-22,201911220DAL,CLE,Q1,Cedi Osman,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.17,2,3,.667,1,2,.500,0,0,0,1,1,0,0,0,0,1,5,3.6,+3,
+2019-11-22,201911220DAL,CLE,Q1,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911220DAL.html,10.23,3,4,.750,0,0,,0,1,1,1,2,2,0,0,0,0,6,6.4,-2,.000
+2019-11-22,201911220DAL,CLE,Q1,Kevin Love,https://www.basketball-reference.com/boxscores/201911220DAL.html,9.63,2,4,.500,0,1,.000,2,2,0,4,4,1,0,0,1,0,6,4.9,0,1.000
+2019-11-22,201911220DAL,CLE,Q1,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.83,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,-6,
+2019-11-22,201911220DAL,CLE,Q1,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,4.13,0,0,,0,0,,0,0,0,0,0,0,1,0,0,0,0,1.0,-4,
+2019-11-22,201911220DAL,CLE,Q1,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911220DAL.html,4.83,0,1,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,0.0,-2,
+2019-11-22,201911220DAL,CLE,Q1,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911220DAL.html,1.77,0,0,,0,0,,0,0,0,0,0,1,0,0,0,1,0,0.3,-1,
+2019-11-22,201911220DAL,CLE,Q2,Darius Garland,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.6,1,3,.333,1,2,.500,0,0,0,0,0,2,0,0,1,0,3,1.7,-9,
+2019-11-22,201911220DAL,CLE,Q2,Collin Sexton,https://www.basketball-reference.com/boxscores/201911220DAL.html,6.43,0,3,.000,0,1,.000,0,0,0,0,0,0,0,0,1,0,0,-3.1,-9,
+2019-11-22,201911220DAL,CLE,Q2,Cedi Osman,https://www.basketball-reference.com/boxscores/201911220DAL.html,10.08,2,3,.667,2,2,1.000,0,0,0,1,1,1,0,1,1,0,6,5.4,-13,
+2019-11-22,201911220DAL,CLE,Q2,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911220DAL.html,10.08,1,4,.250,0,0,,0,0,2,4,6,2,0,0,0,1,2,3.2,-13,
+2019-11-22,201911220DAL,CLE,Q2,Kevin Love,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.15,0,2,.000,0,1,.000,0,0,1,2,3,0,0,0,2,0,0,-2.1,-16,
+2019-11-22,201911220DAL,CLE,Q2,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,1.92,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-8,
+2019-11-22,201911220DAL,CLE,Q2,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,6.77,2,3,.667,1,2,.500,0,0,0,0,0,0,0,0,0,0,5,3.7,-13,
+2019-11-22,201911220DAL,CLE,Q2,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.05,0,3,.000,0,0,,0,0,1,0,1,0,0,0,0,1,0,-1.8,-16,
+2019-11-22,201911220DAL,CLE,Q2,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/201911220DAL.html,1.92,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-1.1,-8,
+2019-11-22,201911220DAL,CLE,Q3,Darius Garland,https://www.basketball-reference.com/boxscores/201911220DAL.html,5.75,3,3,1.000,2,2,1.000,0,0,0,1,1,0,0,0,0,0,8,7.4,-5,
+2019-11-22,201911220DAL,CLE,Q3,Collin Sexton,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.87,1,2,.500,0,1,.000,4,4,0,1,1,1,0,0,0,0,6,6.0,-10,1.000
+2019-11-22,201911220DAL,CLE,Q3,Cedi Osman,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.87,2,4,.500,1,2,.500,2,2,1,1,2,2,0,0,0,1,7,7.0,-5,1.000
+2019-11-22,201911220DAL,CLE,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/201911220DAL.html,5.75,1,3,.333,0,0,,0,0,0,0,0,0,0,1,0,0,2,1.0,-5,
+2019-11-22,201911220DAL,CLE,Q3,Kevin Love,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.65,0,2,.000,0,1,.000,2,2,0,0,0,0,0,0,0,2,2,-0.2,-18,1.000
+2019-11-22,201911220DAL,CLE,Q3,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,4.13,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-0.7,-11,
+2019-11-22,201911220DAL,CLE,Q3,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,9.6,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,2,3,1.9,-9,
+2019-11-22,201911220DAL,CLE,Q3,Jordan Clarkson,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.13,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-6,
+2019-11-22,201911220DAL,CLE,Q3,Brandon Knight,https://www.basketball-reference.com/boxscores/201911220DAL.html,6.25,0,2,.000,0,2,.000,1,2,0,0,0,1,0,0,1,0,1,-1.1,-11,.500
+2019-11-22,201911220DAL,CLE,Q4,Darius Garland,https://www.basketball-reference.com/boxscores/201911220DAL.html,12.0,4,7,.571,1,2,.500,0,0,0,0,0,2,0,0,1,0,9,6.1,-2,
+2019-11-22,201911220DAL,CLE,Q4,Collin Sexton,https://www.basketball-reference.com/boxscores/201911220DAL.html,6.08,1,3,.333,0,0,,2,2,0,0,0,3,0,0,1,1,4,3.0,+3,1.000
+2019-11-22,201911220DAL,CLE,Q4,Kevin Porter Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,12.0,3,7,.429,0,1,.000,1,1,0,3,3,2,1,0,0,0,7,6.6,-2,1.000
+2019-11-22,201911220DAL,CLE,Q4,Ante Žižić,https://www.basketball-reference.com/boxscores/201911220DAL.html,12.0,3,5,.600,0,0,,1,1,1,2,3,0,1,0,0,1,7,6.6,-2,1.000
+2019-11-22,201911220DAL,CLE,Q4,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/201911220DAL.html,12.0,0,2,.000,0,1,.000,0,0,1,1,2,1,0,1,0,1,0,0.6,-2,
+2019-11-22,201911220DAL,CLE,Q4,Dean Wade,https://www.basketball-reference.com/boxscores/201911220DAL.html,5.92,1,1,1.000,1,1,1.000,0,0,0,2,2,0,0,0,0,0,3,3.3,-5,
+2019-11-22,201911220DAL,DAL,Q1,Luka Dončić,https://www.basketball-reference.com/boxscores/201911220DAL.html,11.1,4,7,.571,1,2,.500,0,0,0,4,4,4,0,0,2,1,9,7.3,-2,
+2019-11-22,201911220DAL,DAL,Q1,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.23,0,4,.000,0,1,.000,0,0,0,2,2,0,0,1,0,1,0,-1.9,-3,
+2019-11-22,201911220DAL,DAL,Q1,Dwight Powell,https://www.basketball-reference.com/boxscores/201911220DAL.html,11.1,1,1,1.000,0,0,,0,0,1,0,1,1,0,0,0,1,2,2.7,-2,
+2019-11-22,201911220DAL,DAL,Q1,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201911220DAL.html,10.23,2,3,.667,1,2,.500,0,0,0,1,1,0,1,0,0,0,5,5.0,+2,
+2019-11-22,201911220DAL,DAL,Q1,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.17,2,3,.667,2,3,.667,0,0,0,0,0,1,1,0,0,0,6,6.4,-3,
+2019-11-22,201911220DAL,DAL,Q1,Justin Jackson,https://www.basketball-reference.com/boxscores/201911220DAL.html,1.77,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,0,3,2.7,+1,
+2019-11-22,201911220DAL,DAL,Q1,Delon Wright,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.83,1,2,.500,0,0,,0,0,1,1,2,0,0,0,0,0,2,2.0,+6,
+2019-11-22,201911220DAL,DAL,Q1,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.83,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,+6,
+2019-11-22,201911220DAL,DAL,Q1,Boban Marjanović,https://www.basketball-reference.com/boxscores/201911220DAL.html,0.82,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,1,2,1.3,+5,
+2019-11-22,201911220DAL,DAL,Q1,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911220DAL.html,0.9,0,0,,0,0,,0,0,0,0,0,2,0,0,0,0,0,1.4,+5,
+2019-11-22,201911220DAL,DAL,Q2,Luka Dončić,https://www.basketball-reference.com/boxscores/201911220DAL.html,6.43,2,4,.500,1,2,.500,0,0,0,0,0,3,0,0,0,0,5,5.1,+9,
+2019-11-22,201911220DAL,DAL,Q2,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.43,1,4,.250,0,1,.000,0,0,0,2,2,0,1,2,0,0,2,2.6,+11,
+2019-11-22,201911220DAL,DAL,Q2,Dwight Powell,https://www.basketball-reference.com/boxscores/201911220DAL.html,4.85,2,2,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,4,3.4,+5,
+2019-11-22,201911220DAL,DAL,Q2,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201911220DAL.html,4.85,1,1,1.000,0,0,,0,0,2,2,4,0,0,0,0,0,2,3.7,+5,
+2019-11-22,201911220DAL,DAL,Q2,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,6.43,3,3,1.000,1,1,1.000,0,0,0,1,1,2,0,0,0,1,7,7.4,+9,
+2019-11-22,201911220DAL,DAL,Q2,Justin Jackson,https://www.basketball-reference.com/boxscores/201911220DAL.html,5.57,2,3,.667,1,1,1.000,1,1,1,1,2,0,1,0,0,1,6,6.3,+12,1.000
+2019-11-22,201911220DAL,DAL,Q2,Delon Wright,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.15,1,5,.200,0,1,.000,1,2,2,0,2,2,1,0,0,0,3,3.3,+16,.500
+2019-11-22,201911220DAL,DAL,Q2,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.15,1,2,.500,0,1,.000,0,0,0,3,3,0,0,0,0,1,2,1.5,+16,
+2019-11-22,201911220DAL,DAL,Q2,Boban Marjanović,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.57,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,+10,
+2019-11-22,201911220DAL,DAL,Q2,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911220DAL.html,5.57,2,4,.500,0,0,,0,0,0,2,2,0,0,0,0,0,4,2.6,+12,
+2019-11-22,201911220DAL,DAL,Q3,Luka Dončić,https://www.basketball-reference.com/boxscores/201911220DAL.html,10.95,5,7,.714,2,4,.500,4,4,0,3,3,7,0,0,0,1,16,18.5,+14,1.000
+2019-11-22,201911220DAL,DAL,Q3,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/201911220DAL.html,10.9,6,6,1.000,3,3,1.000,0,0,1,2,3,0,0,1,1,0,15,14.2,+15,
+2019-11-22,201911220DAL,DAL,Q3,Dwight Powell,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.87,0,1,.000,0,1,.000,0,0,0,0,0,2,0,0,0,1,0,0.3,+5,
+2019-11-22,201911220DAL,DAL,Q3,Dorian Finney-Smith,https://www.basketball-reference.com/boxscores/201911220DAL.html,7.87,1,2,.500,1,2,.500,0,0,0,1,1,0,0,0,0,0,3,2.3,+5,
+2019-11-22,201911220DAL,DAL,Q3,Tim Hardaway Jr.,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.42,1,2,.500,1,1,1.000,0,0,0,0,0,1,0,0,0,1,3,2.3,+5,
+2019-11-22,201911220DAL,DAL,Q3,Justin Jackson,https://www.basketball-reference.com/boxscores/201911220DAL.html,4.13,0,0,,0,0,,0,0,0,3,3,0,0,0,0,1,0,0.5,+11,
+2019-11-22,201911220DAL,DAL,Q3,Delon Wright,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.58,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,1,0,2,5,4.3,+11,
+2019-11-22,201911220DAL,DAL,Q3,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911220DAL.html,4.13,1,1,1.000,0,0,,0,0,0,0,0,0,1,1,0,0,2,3.4,+11,
+2019-11-22,201911220DAL,DAL,Q3,Boban Marjanović,https://www.basketball-reference.com/boxscores/201911220DAL.html,1.1,0,1,.000,0,1,.000,1,2,0,0,0,0,0,0,0,0,1,-0.1,+1,.500
+2019-11-22,201911220DAL,DAL,Q3,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911220DAL.html,1.05,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2019-11-22,201911220DAL,DAL,Q4,Justin Jackson,https://www.basketball-reference.com/boxscores/201911220DAL.html,12.0,4,7,.571,2,4,.500,0,0,0,1,1,0,0,0,0,1,10,6.6,+2,
+2019-11-22,201911220DAL,DAL,Q4,Maxi Kleber,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.53,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-6,
+2019-11-22,201911220DAL,DAL,Q4,Boban Marjanović,https://www.basketball-reference.com/boxscores/201911220DAL.html,12.0,2,4,.500,0,0,,0,0,2,4,6,1,1,0,0,1,4,5.9,+2,
+2019-11-22,201911220DAL,DAL,Q4,J.J. Barea,https://www.basketball-reference.com/boxscores/201911220DAL.html,12.0,5,8,.625,2,3,.667,0,0,0,1,1,2,1,1,2,0,12,9.8,+2,
+2019-11-22,201911220DAL,DAL,Q4,Jalen Brunson,https://www.basketball-reference.com/boxscores/201911220DAL.html,3.53,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,1,2,1.6,-6,
+2019-11-22,201911220DAL,DAL,Q4,Courtney Lee,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.47,2,3,.667,0,0,,0,0,0,1,1,2,0,0,0,2,4,3.6,+8,
+2019-11-22,201911220DAL,DAL,Q4,Ryan Broekhoff,https://www.basketball-reference.com/boxscores/201911220DAL.html,8.47,0,2,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,-0.4,+8,

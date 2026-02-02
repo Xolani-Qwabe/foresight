@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-03-02,202003020ATL,MEM,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202003020ATL.html,24:55,.952,.929,.143,.286,32.9,24.9,28.1,11.2,0.0,0.0,11.3,14.3,181,87,10.9
+2020-03-02,202003020ATL,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202003020ATL.html,24:27,.346,.324,.412,.235,9.6,9.5,9.5,0.0,1.9,3.1,5.1,32.4,82,90,-13.5
+2020-03-02,202003020ATL,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202003020ATL.html,24:06,.574,.600,.000,.300,4.9,9.6,7.7,29.2,0.0,3.1,0.0,18.8,140,94,1.9
+2020-03-02,202003020ATL,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202003020ATL.html,23:35,.539,.438,.250,.625,9.9,6.6,7.9,20.4,4.0,0.0,22.7,22.5,109,88,-0.4
+2020-03-02,202003020ATL,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202003020ATL.html,20:43,.190,.143,.429,.286,5.7,22.4,15.7,10.6,2.3,3.6,27.6,21.1,50,81,-13.3
+2020-03-02,202003020ATL,MEM,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202003020ATL.html,26:02,.767,.750,.125,.875,4.5,26.8,17.9,5.3,1.8,2.9,21.3,21.7,121,80,2.2
+2020-03-02,202003020ATL,MEM,Josh Jackson,https://www.basketball-reference.com/boxscores/202003020ATL.html,24:28,.606,.545,.636,.455,0.0,9.5,5.7,20.6,3.8,9.2,0.0,21.6,147,82,15.4
+2020-03-02,202003020ATL,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202003020ATL.html,19:55,.714,.714,.286,.000,0.0,27.2,16.4,6.6,0.0,3.8,0.0,14.1,151,83,6.4
+2020-03-02,202003020ATL,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202003020ATL.html,18:59,.663,.650,.400,.300,0.0,4.1,2.5,73.8,9.8,0.0,8.1,26.0,151,77,24.2
+2020-03-02,202003020ATL,MEM,Anthony Tolliver,https://www.basketball-reference.com/boxscores/202003020ATL.html,18:55,1.200,1.200,1.000,.000,0.0,12.3,7.4,0.0,0.0,0.0,16.7,12.7,162,94,8.2
+2020-03-02,202003020ATL,MEM,Marko Gudurić,https://www.basketball-reference.com/boxscores/202003020ATL.html,5:25,1.000,1.000,.000,.000,0.0,14.3,8.6,23.9,8.6,0.0,50.0,14.8,100,73,6.7
+2020-03-02,202003020ATL,MEM,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202003020ATL.html,5:25,.000,.000,.000,.000,0.0,0.0,0.0,19.3,0.0,0.0,0.0,7.4,69,101,-7.5
+2020-03-02,202003020ATL,MEM,Jarrod Uthoff,https://www.basketball-reference.com/boxscores/202003020ATL.html,3:05,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,101,-5.9
+2020-03-02,202003020ATL,ATL,Kevin Huerter,https://www.basketball-reference.com/boxscores/202003020ATL.html,32:48,.464,.464,.571,.000,4.7,10.7,7.1,23.7,2.8,2.4,0.0,16.7,110,121,3.8
+2020-03-02,202003020ATL,ATL,John Collins,https://www.basketball-reference.com/boxscores/202003020ATL.html,31:07,.505,.455,.364,.182,5.0,3.8,4.5,6.0,1.5,2.6,29.6,21.2,75,127,-9.8
+2020-03-02,202003020ATL,ATL,De'Andre Hunter,https://www.basketball-reference.com/boxscores/202003020ATL.html,30:27,.273,.273,.364,.000,2.5,23.1,10.7,17.3,1.5,5.3,0.0,14.1,74,119,-5.5
+2020-03-02,202003020ATL,ATL,Trae Young,https://www.basketball-reference.com/boxscores/202003020ATL.html,29:13,.453,.294,.235,.529,0.0,4.0,1.6,13.8,1.6,2.7,25.0,37.3,74,127,-9.0
+2020-03-02,202003020ATL,ATL,Bruno Fernando,https://www.basketball-reference.com/boxscores/202003020ATL.html,22:59,.125,.125,.250,.000,10.1,15.3,12.2,20.9,0.0,0.0,0.0,13.6,60,127,-11.7
+2020-03-02,202003020ATL,ATL,Treveon Graham,https://www.basketball-reference.com/boxscores/202003020ATL.html,22:57,.357,.357,.286,.000,6.7,10.2,8.1,15.0,2.0,0.0,12.5,13.6,82,124,-7.5
+2020-03-02,202003020ATL,ATL,Damian Jones,https://www.basketball-reference.com/boxscores/202003020ATL.html,19:27,.600,.600,.200,.000,11.9,24.1,16.8,20.1,0.0,8.2,0.0,10.0,142,120,1.2
+2020-03-02,202003020ATL,ATL,Brandon Goodwin,https://www.basketball-reference.com/boxscores/202003020ATL.html,19:06,.518,.400,.200,.800,0.0,24.5,9.8,9.3,0.0,0.0,12.9,15.8,99,125,-6.6
+2020-03-02,202003020ATL,ATL,Jeff Teague,https://www.basketball-reference.com/boxscores/202003020ATL.html,16:44,.482,.458,.167,.083,4.6,14.0,8.4,16.2,0.0,4.8,19.4,36.0,79,126,-3.3
+2020-03-02,202003020ATL,ATL,Vince Carter,https://www.basketball-reference.com/boxscores/202003020ATL.html,15:12,.333,.333,.778,.000,10.2,7.7,9.2,12.3,0.0,0.0,0.0,23.1,85,130,-5.5

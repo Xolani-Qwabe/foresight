@@ -1,0 +1,67 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2020-08-24,202008240POR,LAL,Q1,LeBron James,https://www.basketball-reference.com/boxscores/202008240POR.html,8.85,2,2,1.000,1,1,1.000,3,4,.750,0,2,2,3,0,0,0,0,8,9.7,+14
+2020-08-24,202008240POR,LAL,Q1,Danny Green,https://www.basketball-reference.com/boxscores/202008240POR.html,7.5,1,1,1.000,1,1,1.000,1,2,.500,0,0,0,1,0,1,1,0,4,3.7,+18
+2020-08-24,202008240POR,LAL,Q1,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,4,5,.800,2,2,1.000,0,1,.000,0,1,1,0,0,0,0,0,10,8.0,+18
+2020-08-24,202008240POR,LAL,Q1,Anthony Davis,https://www.basketball-reference.com/boxscores/202008240POR.html,10.73,4,5,.800,0,0,,8,9,.889,0,3,3,3,1,2,0,2,16,18.3,+21
+2020-08-24,202008240POR,LAL,Q1,JaVale McGee,https://www.basketball-reference.com/boxscores/202008240POR.html,6.65,1,3,.333,0,0,,0,0,,1,3,4,0,0,0,0,0,2,1.9,+16
+2020-08-24,202008240POR,LAL,Q1,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202008240POR.html,5.35,1,2,.500,1,2,.500,0,0,,0,1,1,1,0,0,1,1,3,1.6,+2
+2020-08-24,202008240POR,LAL,Q1,Alex Caruso,https://www.basketball-reference.com/boxscores/202008240POR.html,3.15,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,2,0,0.2,+4
+2020-08-24,202008240POR,LAL,Q1,Markieff Morris,https://www.basketball-reference.com/boxscores/202008240POR.html,4.5,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,0
+2020-08-24,202008240POR,LAL,Q1,J.R. Smith,https://www.basketball-reference.com/boxscores/202008240POR.html,1.27,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-3
+2020-08-24,202008240POR,LAL,Q2,LeBron James,https://www.basketball-reference.com/boxscores/202008240POR.html,9.22,6,7,.857,2,3,.667,0,0,,0,1,1,4,0,1,0,0,14,15.3,+9
+2020-08-24,202008240POR,LAL,Q2,Danny Green,https://www.basketball-reference.com/boxscores/202008240POR.html,5.7,2,3,.667,1,1,1.000,0,0,,2,0,2,0,1,1,0,0,5,6.8,+9
+2020-08-24,202008240POR,LAL,Q2,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202008240POR.html,2.92,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+7
+2020-08-24,202008240POR,LAL,Q2,Anthony Davis,https://www.basketball-reference.com/boxscores/202008240POR.html,4.22,1,2,.500,0,0,,0,1,.000,1,0,1,1,0,0,0,0,2,2.0,+7
+2020-08-24,202008240POR,LAL,Q2,Dwight Howard,https://www.basketball-reference.com/boxscores/202008240POR.html,9.08,1,1,1.000,0,0,,1,2,.500,0,2,2,0,0,0,0,4,3,1.3,+4
+2020-08-24,202008240POR,LAL,Q2,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202008240POR.html,6.33,1,2,.500,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.0,+1
+2020-08-24,202008240POR,LAL,Q2,Alex Caruso,https://www.basketball-reference.com/boxscores/202008240POR.html,8.17,2,5,.400,1,2,.500,0,0,,0,0,0,0,0,0,1,1,5,0.9,+10
+2020-08-24,202008240POR,LAL,Q2,Markieff Morris,https://www.basketball-reference.com/boxscores/202008240POR.html,7.78,2,4,.500,1,3,.333,0,0,,0,1,1,2,1,0,0,1,5,5.3,+4
+2020-08-24,202008240POR,LAL,Q2,J.R. Smith,https://www.basketball-reference.com/boxscores/202008240POR.html,6.58,0,2,.000,0,2,.000,0,0,,0,0,0,0,1,0,1,0,0,-1.4,+4
+2020-08-24,202008240POR,LAL,Q3,LeBron James,https://www.basketball-reference.com/boxscores/202008240POR.html,10.23,2,3,.667,1,1,1.000,3,4,.750,1,2,3,3,0,0,2,2,8,6.9,-6
+2020-08-24,202008240POR,LAL,Q3,Danny Green,https://www.basketball-reference.com/boxscores/202008240POR.html,9.05,2,4,.500,1,2,.500,0,1,.000,2,0,2,0,0,0,1,2,5,2.2,-2
+2020-08-24,202008240POR,LAL,Q3,Kentavious Caldwell-Pope,https://www.basketball-reference.com/boxscores/202008240POR.html,8.48,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,1,2,-0.1,-3
+2020-08-24,202008240POR,LAL,Q3,Anthony Davis,https://www.basketball-reference.com/boxscores/202008240POR.html,2.65,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,+9
+2020-08-24,202008240POR,LAL,Q3,JaVale McGee,https://www.basketball-reference.com/boxscores/202008240POR.html,7.42,3,3,1.000,0,0,,0,0,,1,3,4,0,0,4,1,4,6,6.9,-2
+2020-08-24,202008240POR,LAL,Q3,Dwight Howard,https://www.basketball-reference.com/boxscores/202008240POR.html,3.18,1,2,.500,0,0,,1,2,.500,2,0,2,1,0,0,0,0,3,3.7,-3
+2020-08-24,202008240POR,LAL,Q3,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202008240POR.html,4.58,2,3,.667,1,1,1.000,1,1,1.000,0,0,0,0,0,0,0,0,6,4.7,-2
+2020-08-24,202008240POR,LAL,Q3,Alex Caruso,https://www.basketball-reference.com/boxscores/202008240POR.html,6.47,0,2,.000,0,2,.000,0,0,,0,2,2,1,0,0,0,0,0,-0.1,-3
+2020-08-24,202008240POR,LAL,Q3,Markieff Morris,https://www.basketball-reference.com/boxscores/202008240POR.html,6.17,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,3,0,-2.2,-10
+2020-08-24,202008240POR,LAL,Q3,Dion Waiters,https://www.basketball-reference.com/boxscores/202008240POR.html,1.77,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+2
+2020-08-24,202008240POR,LAL,Q4,Danny Green,https://www.basketball-reference.com/boxscores/202008240POR.html,3.08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4
+2020-08-24,202008240POR,LAL,Q4,Dwight Howard,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,3,4,.750,0,1,.000,1,2,.500,2,2,4,1,0,0,1,1,7,6.3,-5
+2020-08-24,202008240POR,LAL,Q4,Kyle Kuzma,https://www.basketball-reference.com/boxscores/202008240POR.html,5.32,2,5,.400,2,5,.400,0,0,,0,0,0,0,0,0,0,0,6,3.3,+1
+2020-08-24,202008240POR,LAL,Q4,Alex Caruso,https://www.basketball-reference.com/boxscores/202008240POR.html,3.08,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+4
+2020-08-24,202008240POR,LAL,Q4,J.R. Smith,https://www.basketball-reference.com/boxscores/202008240POR.html,8.92,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,1,1,3,-0.1,-9
+2020-08-24,202008240POR,LAL,Q4,Dion Waiters,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,1,4,.250,0,1,.000,0,0,,0,1,1,1,0,0,1,1,2,-0.8,-5
+2020-08-24,202008240POR,LAL,Q4,Quinn Cook,https://www.basketball-reference.com/boxscores/202008240POR.html,8.92,2,4,.500,0,1,.000,1,1,1.000,0,1,1,1,0,0,1,1,5,2.6,-9
+2020-08-24,202008240POR,LAL,Q4,Jared Dudley,https://www.basketball-reference.com/boxscores/202008240POR.html,6.68,0,0,,0,0,,0,0,,0,0,0,0,3,0,1,0,0,2.0,-6
+2020-08-24,202008240POR,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202008240POR.html,8.72,1,4,.250,0,0,,0,0,,0,2,2,0,0,0,0,2,2,-0.6,-18
+2020-08-24,202008240POR,POR,Q1,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202008240POR.html,7.93,0,4,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,2,0,-4.6,-17
+2020-08-24,202008240POR,POR,Q1,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202008240POR.html,8.72,5,6,.833,0,0,,0,0,,3,1,4,0,1,0,2,1,10,8.8,-18
+2020-08-24,202008240POR,POR,Q1,Damian Lillard,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,1,4,.250,1,1,1.000,2,2,1.000,0,1,1,3,0,0,0,1,5,4.6,-18
+2020-08-24,202008240POR,POR,Q1,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202008240POR.html,8.12,2,3,.667,0,0,,0,2,.000,0,1,1,1,0,0,1,2,4,1.1,-14
+2020-08-24,202008240POR,POR,Q1,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202008240POR.html,7.17,1,3,.333,1,2,.500,0,0,,0,0,0,0,1,0,0,1,3,1.9,-4
+2020-08-24,202008240POR,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/202008240POR.html,3.28,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,0
+2020-08-24,202008240POR,POR,Q1,Mario Hezonja,https://www.basketball-reference.com/boxscores/202008240POR.html,4.07,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,1,1,0.2,-1
+2020-08-24,202008240POR,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,2,3,.667,1,1,1.000,1,2,.500,0,1,1,0,0,1,0,0,6,5.3,-11
+2020-08-24,202008240POR,POR,Q2,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,3,5,.600,0,1,.000,2,2,1.000,0,1,1,1,0,0,1,1,8,5.3,-11
+2020-08-24,202008240POR,POR,Q2,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202008240POR.html,9.72,1,2,.500,0,0,,3,4,.750,2,2,4,1,0,0,2,1,5,3.9,-11
+2020-08-24,202008240POR,POR,Q2,Damian Lillard,https://www.basketball-reference.com/boxscores/202008240POR.html,7.88,2,3,.667,0,0,,0,0,,0,0,0,1,0,0,2,0,4,1.4,-8
+2020-08-24,202008240POR,POR,Q2,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202008240POR.html,2.28,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,1,0,0.3,0
+2020-08-24,202008240POR,POR,Q2,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,1,3,1.6,-11
+2020-08-24,202008240POR,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/202008240POR.html,4.12,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.8,-3
+2020-08-24,202008240POR,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,2,6,.333,1,2,.500,5,6,.833,1,1,2,2,2,0,1,0,10,9.6,+4
+2020-08-24,202008240POR,POR,Q3,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202008240POR.html,8.82,3,6,.500,1,3,.333,1,1,1.000,0,1,1,0,0,0,0,1,8,4.9,+1
+2020-08-24,202008240POR,POR,Q3,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202008240POR.html,8.82,1,2,.500,0,1,.000,3,4,.750,3,2,5,3,0,0,0,2,5,7.6,+1
+2020-08-24,202008240POR,POR,Q3,Damian Lillard,https://www.basketball-reference.com/boxscores/202008240POR.html,6.7,0,2,.000,0,1,.000,2,2,1.000,0,0,0,0,1,0,1,1,2,0.2,+1
+2020-08-24,202008240POR,POR,Q3,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202008240POR.html,3.18,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,+3
+2020-08-24,202008240POR,POR,Q3,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,2,6,.333,1,2,.500,2,2,1.000,1,0,1,0,0,0,0,1,7,3.9,+4
+2020-08-24,202008240POR,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/202008240POR.html,5.3,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3
+2020-08-24,202008240POR,POR,Q3,Mario Hezonja,https://www.basketball-reference.com/boxscores/202008240POR.html,3.18,1,1,1.000,0,0,,0,0,,1,0,1,0,1,0,0,0,2,3.4,+3
+2020-08-24,202008240POR,POR,Q4,Hassan Whiteside,https://www.basketball-reference.com/boxscores/202008240POR.html,3.08,2,3,.667,1,1,1.000,0,0,,1,0,1,0,0,0,0,0,5,4.4,-4
+2020-08-24,202008240POR,POR,Q4,Gary Trent Jr.,https://www.basketball-reference.com/boxscores/202008240POR.html,3.08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4
+2020-08-24,202008240POR,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,1,5,.200,1,3,.333,0,0,,0,2,2,5,0,0,1,1,3,2.6,+5
+2020-08-24,202008240POR,POR,Q4,Mario Hezonja,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,3,5,.600,2,2,1.000,0,0,,0,5,5,2,0,0,1,1,8,7.2,+5
+2020-08-24,202008240POR,POR,Q4,Wenyen Gabriel,https://www.basketball-reference.com/boxscores/202008240POR.html,12.0,4,5,.800,1,1,1.000,1,2,.500,2,0,2,0,2,0,2,3,10,7.9,+5
+2020-08-24,202008240POR,POR,Q4,Jaylen Hoard,https://www.basketball-reference.com/boxscores/202008240POR.html,8.92,1,2,.500,0,0,,0,0,,2,1,3,0,0,0,2,2,2,-0.1,+9
+2020-08-24,202008240POR,POR,Q4,Jaylen Adams,https://www.basketball-reference.com/boxscores/202008240POR.html,8.92,0,3,.000,0,2,.000,0,0,,1,0,1,0,1,0,0,0,0,-0.4,+9

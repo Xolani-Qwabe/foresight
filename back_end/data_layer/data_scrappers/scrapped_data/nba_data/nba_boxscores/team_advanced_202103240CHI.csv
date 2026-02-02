@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-24,202103240CHI,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202103240CHI.html,36:45,.527,.500,.300,.100,2.8,8.9,5.7,37.3,1.4,0.0,12.6,29.3,109,106,-0.1
+2021-03-24,202103240CHI,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202103240CHI.html,34:32,.738,.750,.000,.167,8.9,19.0,13.7,4.7,3.0,7.6,18.9,20.7,118,94,4.4
+2021-03-24,202103240CHI,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202103240CHI.html,34:29,.589,.545,.364,.182,14.8,28.5,21.4,19.9,3.0,2.5,0.0,15.5,147,95,10.2
+2021-03-24,202103240CHI,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202103240CHI.html,29:02,.806,.786,.286,.143,0.0,11.3,5.5,9.8,3.6,3.0,11.8,13.1,140,99,6.8
+2021-03-24,202103240CHI,CLE,Cedi Osman,https://www.basketball-reference.com/boxscores/202103240CHI.html,21:28,.286,.286,.357,.000,0.0,10.2,4.9,13.5,2.4,0.0,0.0,29.4,70,104,-13.4
+2021-03-24,202103240CHI,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202103240CHI.html,24:12,.727,.667,.500,.333,0.0,22.5,10.9,16.5,0.0,3.6,12.7,14.7,135,103,3.3
+2021-03-24,202103240CHI,CLE,Damyean Dotson,https://www.basketball-reference.com/boxscores/202103240CHI.html,20:54,.214,.214,.571,.000,0.0,10.4,5.0,5.8,0.0,0.0,0.0,15.1,57,109,-16.0
+2021-03-24,202103240CHI,CLE,Dylan Windler,https://www.basketball-reference.com/boxscores/202103240CHI.html,11:42,.225,.250,.750,.250,0.0,18.6,9.0,0.0,0.0,0.0,31.1,24.8,31,107,-26.6
+2021-03-24,202103240CHI,CLE,Quinn Cook,https://www.basketball-reference.com/boxscores/202103240CHI.html,11:12,.600,.600,.000,.000,0.0,9.7,4.7,44.1,0.0,0.0,0.0,20.1,139,109,3.3
+2021-03-24,202103240CHI,CLE,Brodric Thomas,https://www.basketball-reference.com/boxscores/202103240CHI.html,10:37,.500,.500,.400,.000,9.6,10.3,9.9,27.4,0.0,8.2,0.0,21.2,125,103,9.3
+2021-03-24,202103240CHI,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202103240CHI.html,5:07,1.000,1.000,.000,.000,39.9,0.0,20.6,0.0,0.0,0.0,0.0,8.8,213,112,5.8
+2021-03-24,202103240CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202103240CHI.html,34:15,.527,.500,.450,.100,0.0,8.9,4.6,21.7,0.0,2.2,19.3,34.8,90,116,-3.7
+2021-03-24,202103240CHI,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202103240CHI.html,31:59,.363,.333,.167,.333,3.4,12.8,8.2,4.4,1.6,0.0,12.7,11.4,78,113,-7.8
+2021-03-24,202103240CHI,CHI,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202103240CHI.html,29:11,.535,.500,.333,.133,7.5,10.5,9.0,12.9,1.8,0.0,0.0,25.1,120,113,2.6
+2021-03-24,202103240CHI,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202103240CHI.html,25:31,.619,.563,.375,.250,0.0,8.0,4.1,25.5,0.0,0.0,18.4,19.6,112,118,-4.0
+2021-03-24,202103240CHI,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202103240CHI.html,21:05,.667,.667,.000,.000,5.2,19.4,12.5,8.2,2.5,10.8,40.0,21.9,78,100,-0.3
+2021-03-24,202103240CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202103240CHI.html,26:27,.427,.375,.417,.167,4.1,7.7,6.0,18.3,3.9,0.0,7.2,24.2,96,109,-0.7
+2021-03-24,202103240CHI,CHI,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202103240CHI.html,22:23,.595,.600,.000,.400,9.7,31.9,21.2,7.0,0.0,0.0,14.5,14.2,114,110,-3.7
+2021-03-24,202103240CHI,CHI,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202103240CHI.html,16:18,.600,.600,.400,.000,13.4,18.8,16.2,10.5,3.2,0.0,16.7,17.0,113,107,1.8
+2021-03-24,202103240CHI,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202103240CHI.html,15:09,.644,.500,.667,.667,0.0,13.5,7.0,28.1,0.0,0.0,0.0,11.8,156,116,3.5
+2021-03-24,202103240CHI,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202103240CHI.html,13:10,.000,.000,.500,.000,8.3,15.5,12.0,9.9,0.0,0.0,0.0,7.0,57,115,-10.7
+2021-03-24,202103240CHI,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202103240CHI.html,4:32,1.000,1.000,.000,.000,0.0,67.6,34.9,0.0,0.0,0.0,0.0,10.2,200,98,7.7

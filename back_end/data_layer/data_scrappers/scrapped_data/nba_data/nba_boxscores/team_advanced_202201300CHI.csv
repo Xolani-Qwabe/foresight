@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-30,202201300CHI,POR,CJ McCollum,https://www.basketball-reference.com/boxscores/202201300CHI.html,35:34,.619,.609,.304,.043,3.3,13.8,8.4,21.2,0.0,0.0,4.1,32.3,124,139,-1.3
+2022-01-30,202201300CHI,POR,Norman Powell,https://www.basketball-reference.com/boxscores/202201300CHI.html,34:09,.935,.950,.600,.400,3.4,10.8,7.0,4.2,0.0,0.0,20.3,20.3,139,139,1.1
+2022-01-30,202201300CHI,POR,Anfernee Simons,https://www.basketball-reference.com/boxscores/202201300CHI.html,32:34,.543,.528,.556,.167,0.0,11.3,5.5,27.1,1.5,0.0,9.4,30.8,109,136,-1.6
+2022-01-30,202201300CHI,POR,Robert Covington,https://www.basketball-reference.com/boxscores/202201300CHI.html,32:02,1.127,1.125,1.000,.500,0.0,26.9,13.1,7.8,3.1,0.0,0.0,7.2,220,130,6.5
+2022-01-30,202201300CHI,POR,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202201300CHI.html,26:05,.720,.700,.200,1.200,4.5,14.2,9.2,4.9,0.0,0.0,34.4,21.0,99,139,-10.5
+2022-01-30,202201300CHI,POR,Trendon Watford,https://www.basketball-reference.com/boxscores/202201300CHI.html,21:55,.833,.833,.167,.000,0.0,11.2,5.5,13.7,0.0,11.3,0.0,12.9,171,129,4.5
+2022-01-30,202201300CHI,POR,Ben McLemore,https://www.basketball-reference.com/boxscores/202201300CHI.html,18:58,.364,.364,.818,.000,6.2,13.0,9.5,7.1,2.6,0.0,0.0,27.3,84,133,-12.4
+2022-01-30,202201300CHI,POR,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202201300CHI.html,15:26,.000,.000,.000,.000,7.6,31.9,19.4,36.2,0.0,0.0,0.0,6.1,127,136,-4.8
+2022-01-30,202201300CHI,POR,Tony Snell,https://www.basketball-reference.com/boxscores/202201300CHI.html,15:13,.000,.000,.500,.000,0.0,24.3,11.8,0.0,0.0,0.0,0.0,6.2,0,137,-14.7
+2022-01-30,202201300CHI,POR,Keljin Blevins,https://www.basketball-reference.com/boxscores/202201300CHI.html,4:02,,,,,0.0,0.0,0.0,27.7,0.0,0.0,100.0,23.3,32,141,-22.9
+2022-01-30,202201300CHI,POR,Greg Brown III,https://www.basketball-reference.com/boxscores/202201300CHI.html,4:02,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.3,200,141,9.1
+2022-01-30,202201300CHI,CHI,DeMar DeRozan,https://www.basketball-reference.com/boxscores/202201300CHI.html,34:19,.779,.731,.077,.308,0.0,13.6,7.0,37.4,2.9,0.0,6.3,21.0,161,121,10.3
+2022-01-30,202201300CHI,CHI,Ayo Dosunmu,https://www.basketball-reference.com/boxscores/202201300CHI.html,33:38,.902,.833,.333,.667,0.0,20.9,10.7,33.3,3.0,0.0,43.6,9.4,138,120,3.2
+2022-01-30,202201300CHI,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202201300CHI.html,32:44,.506,.472,.500,.222,0.0,7.2,3.7,14.8,1.5,3.3,0.0,27.6,112,122,-4.9
+2022-01-30,202201300CHI,CHI,Nikola Vučević,https://www.basketball-reference.com/boxscores/202201300CHI.html,32:01,.777,.767,.133,.067,3.8,47.5,26.2,13.4,1.6,3.4,6.1,23.5,145,117,6.9
+2022-01-30,202201300CHI,CHI,Javonte Green,https://www.basketball-reference.com/boxscores/202201300CHI.html,23:33,.810,.778,.556,.222,5.2,9.9,7.6,5.4,2.1,4.6,0.0,19.2,162,119,4.7
+2022-01-30,202201300CHI,CHI,Coby White,https://www.basketball-reference.com/boxscores/202201300CHI.html,30:49,.634,.542,.583,.417,4.0,7.6,5.8,22.1,0.0,0.0,6.6,22.6,137,128,-0.8
+2022-01-30,202201300CHI,CHI,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202201300CHI.html,17:41,.500,.500,.667,.000,7.0,13.2,10.2,5.7,2.8,0.0,25.0,10.3,98,120,-9.5
+2022-01-30,202201300CHI,CHI,Matt Thomas,https://www.basketball-reference.com/boxscores/202201300CHI.html,16:56,.563,.563,.500,.000,7.3,6.9,7.1,0.0,0.0,0.0,0.0,21.6,115,128,-10.8
+2022-01-30,202201300CHI,CHI,Tony Bradley,https://www.basketball-reference.com/boxscores/202201300CHI.html,15:59,.714,.714,.000,.000,23.1,22.0,22.5,0.0,6.3,0.0,0.0,20.0,154,112,4.2
+2022-01-30,202201300CHI,CHI,Malcolm Hill,https://www.basketball-reference.com/boxscores/202201300CHI.html,1:10,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.2,0,129,-53.9
+2022-01-30,202201300CHI,CHI,Alfonzo McKinnie,https://www.basketball-reference.com/boxscores/202201300CHI.html,1:10,.000,.000,.000,.000,0.0,100.0,51.4,0.0,0.0,0.0,0.0,39.2,0,118,-47.8

@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-05,202401050BOS,UTA,Kris Dunn,https://www.basketball-reference.com/boxscores/202401050BOS.html,25:49,.143,.143,.143,.000,5.9,11.2,8.2,28.9,5.2,4.5,12.5,11.7,63,109,-2.6
+2024-01-05,202401050BOS,UTA,Simone Fontecchio,https://www.basketball-reference.com/boxscores/202401050BOS.html,24:49,.444,.429,.714,.286,3.1,11.6,6.8,19.3,1.8,0.0,20.2,15.1,84,119,-3.1
+2024-01-05,202401050BOS,UTA,Lauri Markkanen,https://www.basketball-reference.com/boxscores/202401050BOS.html,23:24,.504,.500,.438,.125,13.0,4.1,9.1,52.2,0.0,0.0,0.0,27.3,118,126,10.7
+2024-01-05,202401050BOS,UTA,John Collins,https://www.basketball-reference.com/boxscores/202401050BOS.html,21:55,.644,.625,.125,.375,0.0,48.2,21.3,19.0,0.0,5.3,17.7,19.5,105,111,1.3
+2024-01-05,202401050BOS,UTA,Collin Sexton,https://www.basketball-reference.com/boxscores/202401050BOS.html,20:28,.488,.417,.250,.250,0.0,4.7,2.1,31.6,6.5,0.0,18.4,30.1,86,110,2.6
+2024-01-05,202401050BOS,UTA,Ochai Agbaji,https://www.basketball-reference.com/boxscores/202401050BOS.html,21:49,.460,.400,.600,.200,3.5,13.2,7.8,7.4,0.0,0.0,26.9,12.9,76,123,-10.8
+2024-01-05,202401050BOS,UTA,Keyonte George,https://www.basketball-reference.com/boxscores/202401050BOS.html,20:21,.551,.500,.700,.200,3.7,14.2,8.3,9.6,0.0,0.0,8.4,22.1,106,123,0.6
+2024-01-05,202401050BOS,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202401050BOS.html,17:22,.143,.143,.286,.000,4.4,5.5,4.9,17.7,2.6,0.0,36.4,23.9,31,119,-18.8
+2024-01-05,202401050BOS,UTA,Walker Kessler,https://www.basketball-reference.com/boxscores/202401050BOS.html,14:05,.667,.667,.000,.000,5.4,40.9,21.1,0.0,0.0,0.0,0.0,8.1,138,116,-3.0
+2024-01-05,202401050BOS,UTA,Kelly Olynyk,https://www.basketball-reference.com/boxscores/202401050BOS.html,13:58,.543,.000,.500,4.000,0.0,6.9,3.0,10.1,3.2,0.0,0.0,14.9,129,117,-1.8
+2024-01-05,202401050BOS,UTA,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202401050BOS.html,12:00,.435,.400,.100,.600,0.0,8.0,3.5,0.0,7.4,0.0,0.0,39.8,91,107,5.7
+2024-01-05,202401050BOS,UTA,Luka Šamanić,https://www.basketball-reference.com/boxscores/202401050BOS.html,12:00,.577,.333,.333,1.667,12.7,24.0,17.7,0.0,0.0,0.0,27.8,22.7,95,121,-5.6
+2024-01-05,202401050BOS,UTA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202401050BOS.html,12:00,.000,.000,.500,.500,19.0,32.0,24.8,0.0,0.0,0.0,17.0,18.5,27,119,-21.1
+2024-01-05,202401050BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202401050BOS.html,26:54,.505,.500,.333,.167,0.0,8.5,4.7,29.7,1.7,3.0,18.9,24.0,93,92,0.1
+2024-01-05,202401050BOS,BOS,Kristaps Porziņģis,https://www.basketball-reference.com/boxscores/202401050BOS.html,26:54,.774,.643,.429,1.714,0.0,14.2,7.9,11.2,0.0,3.0,7.5,20.1,152,93,6.6
+2024-01-05,202401050BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202401050BOS.html,26:12,.506,.444,.778,.222,0.0,20.4,11.3,16.4,1.7,3.1,0.0,15.4,116,87,3.0
+2024-01-05,202401050BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202401050BOS.html,24:38,.826,.708,.667,1.167,0.0,27.8,15.5,35.7,1.8,3.2,5.2,31.7,166,83,28.0
+2024-01-05,202401050BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202401050BOS.html,23:32,.875,.875,.375,.000,4.1,16.2,10.8,7.6,0.0,6.8,20.0,17.3,128,90,8.4
+2024-01-05,202401050BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202401050BOS.html,23:29,.650,.650,.700,.000,4.1,13.0,9.0,7.1,1.9,0.0,0.0,17.3,131,91,6.4
+2024-01-05,202401050BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202401050BOS.html,23:10,.350,.350,.700,.000,4.1,3.3,3.7,25.3,1.9,0.0,23.1,22.9,74,95,-9.2
+2024-01-05,202401050BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202401050BOS.html,17:15,.510,.400,.400,.400,5.6,8.8,7.4,16.6,5.2,0.0,0.0,13.9,128,86,4.2
+2024-01-05,202401050BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202401050BOS.html,14:50,.214,.214,.857,.000,0.0,15.4,8.6,0.0,0.0,0.0,0.0,19.2,46,94,-16.1
+2024-01-05,202401050BOS,BOS,Lamar Stevens,https://www.basketball-reference.com/boxscores/202401050BOS.html,12:00,.500,.500,.250,.000,8.0,25.4,17.7,0.0,3.7,6.7,20.0,17.0,87,78,0.6
+2024-01-05,202401050BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202401050BOS.html,11:28,.333,.333,.000,.000,33.5,19.9,25.9,0.0,3.9,7.0,25.0,14.2,104,80,-1.6
+2024-01-05,202401050BOS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202401050BOS.html,5:53,.665,.500,.500,2.000,0.0,13.0,7.2,26.5,0.0,0.0,0.0,26.0,150,94,6.1
+2024-01-05,202401050BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202401050BOS.html,3:45,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.9,0,98,-24.7

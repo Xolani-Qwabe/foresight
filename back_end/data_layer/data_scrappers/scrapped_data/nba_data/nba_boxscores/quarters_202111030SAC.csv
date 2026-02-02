@@ -1,0 +1,75 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-11-03,202111030SAC,NOP,Q1,Garrett Temple,https://www.basketball-reference.com/boxscores/202111030SAC.html,6.7,1,4,.250,1,3,.333,0,0,0,1,1,2,0,0,0,0,3,2.3,+3,
+2021-11-03,202111030SAC,NOP,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111030SAC.html,8.28,0,2,.000,0,1,.000,0,0,0,0,0,1,1,0,0,0,0,0.3,-3,
+2021-11-03,202111030SAC,NOP,Q1,Josh Hart,https://www.basketball-reference.com/boxscores/202111030SAC.html,8.28,0,1,.000,0,0,,0,0,0,2,2,0,0,0,1,0,0,-1.1,-3,
+2021-11-03,202111030SAC,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111030SAC.html,8.28,3,4,.750,2,3,.667,0,0,0,0,0,3,0,0,0,1,8,8.1,-3,
+2021-11-03,202111030SAC,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.55,2,3,.667,1,1,1.000,0,0,1,4,5,0,0,0,0,0,5,5.6,+6,
+2021-11-03,202111030SAC,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202111030SAC.html,3.72,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,+2,
+2021-11-03,202111030SAC,NOP,Q1,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111030SAC.html,5.3,3,4,.750,1,2,.500,0,0,0,0,0,0,0,0,0,0,7,5.4,-4,
+2021-11-03,202111030SAC,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202111030SAC.html,3.72,0,0,,0,0,,0,0,0,1,1,0,0,0,1,0,0,-0.7,+2,
+2021-11-03,202111030SAC,NOP,Q1,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111030SAC.html,3.72,1,2,.500,0,0,,1,1,0,0,0,1,0,0,0,0,3,2.7,+2,1.000
+2021-11-03,202111030SAC,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.45,0,2,.000,0,1,.000,0,0,0,0,0,0,0,1,0,0,0,-0.7,-7,
+2021-11-03,202111030SAC,NOP,Q2,Garrett Temple,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.8,0,2,.000,0,1,.000,2,2,0,0,0,0,0,0,0,0,2,0.6,-4,1.000
+2021-11-03,202111030SAC,NOP,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.58,3,5,.600,1,3,.333,0,0,0,1,1,1,0,0,0,1,7,5.3,+1,
+2021-11-03,202111030SAC,NOP,Q2,Josh Hart,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.3,2,5,.400,0,2,.000,0,0,0,1,1,1,0,0,0,0,4,2.3,+1,
+2021-11-03,202111030SAC,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.03,2,4,.500,2,4,.500,0,0,1,0,1,2,0,0,1,1,6,4.7,0,
+2021-11-03,202111030SAC,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.08,0,2,.000,0,0,,0,0,0,2,2,0,0,0,2,0,0,-2.8,-3,
+2021-11-03,202111030SAC,NOP,Q2,Naji Marshall,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.7,1,1,1.000,1,1,1.000,0,0,1,1,2,0,0,0,0,0,3,3.7,-4,
+2021-11-03,202111030SAC,NOP,Q2,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111030SAC.html,2.2,0,0,,0,0,,0,0,0,2,2,0,0,0,0,0,0,0.6,+1,
+2021-11-03,202111030SAC,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.42,0,1,.000,0,1,.000,0,0,0,1,1,2,0,0,0,0,0,1.0,-4,
+2021-11-03,202111030SAC,NOP,Q2,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111030SAC.html,2.97,0,1,.000,0,0,,0,0,0,0,0,0,0,0,1,1,0,-2.1,-3,
+2021-11-03,202111030SAC,NOP,Q2,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.92,1,1,1.000,0,0,,2,2,0,2,2,0,0,0,0,2,4,3.5,0,1.000
+2021-11-03,202111030SAC,NOP,Q3,Garrett Temple,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.62,1,2,.500,0,0,,0,0,2,1,3,0,0,1,0,0,2,3.4,+7,
+2021-11-03,202111030SAC,NOP,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.18,4,6,.667,0,0,,0,0,0,0,0,2,0,0,2,3,8,3.6,+4,
+2021-11-03,202111030SAC,NOP,Q3,Josh Hart,https://www.basketball-reference.com/boxscores/202111030SAC.html,10.3,2,4,.500,1,1,1.000,0,0,0,0,0,1,0,0,0,1,5,3.3,+2,
+2021-11-03,202111030SAC,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.62,0,0,,0,0,,2,2,0,0,0,1,0,0,1,1,2,1.3,+7,1.000
+2021-11-03,202111030SAC,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111030SAC.html,6.17,3,4,.750,1,1,1.000,0,0,0,3,3,1,0,0,0,1,7,6.6,+10,
+2021-11-03,202111030SAC,NOP,Q3,Naji Marshall,https://www.basketball-reference.com/boxscores/202111030SAC.html,2.82,0,1,.000,0,0,,0,0,0,1,1,0,0,0,1,0,0,-1.4,-5,
+2021-11-03,202111030SAC,NOP,Q3,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.38,2,2,1.000,1,1,1.000,0,0,0,0,0,0,0,0,0,1,5,4.0,-8,
+2021-11-03,202111030SAC,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202111030SAC.html,1.7,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-3,
+2021-11-03,202111030SAC,NOP,Q3,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.38,1,2,.500,0,0,,0,0,0,0,0,1,0,0,1,0,2,0.7,-8,
+2021-11-03,202111030SAC,NOP,Q3,Willy Hernangómez,https://www.basketball-reference.com/boxscores/202111030SAC.html,5.83,1,1,1.000,0,0,,2,2,0,0,0,1,0,0,0,0,4,4.4,-11,1.000
+2021-11-03,202111030SAC,NOP,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/202111030SAC.html,10.13,2,3,.667,0,1,.000,1,2,2,3,5,0,0,1,1,1,5,4.9,-10,.500
+2021-11-03,202111030SAC,NOP,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.85,0,3,.000,0,2,.000,1,2,0,2,2,0,0,0,1,0,1,-1.9,-8,.500
+2021-11-03,202111030SAC,NOP,Q4,Josh Hart,https://www.basketball-reference.com/boxscores/202111030SAC.html,5.98,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,-6,
+2021-11-03,202111030SAC,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202111030SAC.html,5.98,0,2,.000,0,1,.000,0,0,0,0,0,1,0,0,0,0,0,-0.7,-6,
+2021-11-03,202111030SAC,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202111030SAC.html,8.37,0,4,.000,0,1,.000,2,2,0,1,1,1,0,0,0,0,2,0.2,-9,1.000
+2021-11-03,202111030SAC,NOP,Q4,Naji Marshall,https://www.basketball-reference.com/boxscores/202111030SAC.html,8.6,1,2,.500,0,1,.000,0,0,1,1,2,0,0,0,0,0,2,2.0,-2,
+2021-11-03,202111030SAC,NOP,Q4,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.97,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1,2,-3.1,-3,
+2021-11-03,202111030SAC,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.15,0,1,.000,0,0,,0,0,0,2,2,0,0,0,0,0,0,-0.1,0,
+2021-11-03,202111030SAC,NOP,Q4,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202111030SAC.html,1.87,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,
+2021-11-03,202111030SAC,NOP,Q4,Jose Alvarado,https://www.basketball-reference.com/boxscores/202111030SAC.html,1.05,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+1,
+2021-11-03,202111030SAC,NOP,Q4,Didi Louzada,https://www.basketball-reference.com/boxscores/202111030SAC.html,1.05,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,+1,
+2021-11-03,202111030SAC,SAC,Q1,Harrison Barnes,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.9,1,1,1.000,1,1,1.000,2,2,1,1,2,1,0,0,1,1,5,5.0,+4,1.000
+2021-11-03,202111030SAC,SAC,Q1,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.9,3,4,.750,1,1,1.000,0,0,0,0,0,2,1,0,0,1,7,7.4,+4,
+2021-11-03,202111030SAC,SAC,Q1,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.55,0,2,.000,0,2,.000,0,0,0,1,1,2,0,1,0,1,0,0.6,-6,
+2021-11-03,202111030SAC,SAC,Q1,Maurice Harkless,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.55,0,1,.000,0,1,.000,0,0,0,0,0,0,0,1,1,0,0,-1.0,-6,
+2021-11-03,202111030SAC,SAC,Q1,Richaun Holmes,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.17,3,5,.600,0,0,,0,0,1,3,4,1,0,0,0,1,6,5.6,-6,
+2021-11-03,202111030SAC,SAC,Q1,Davion Mitchell,https://www.basketball-reference.com/boxscores/202111030SAC.html,6.55,1,3,.333,0,1,.000,0,0,0,2,2,3,0,0,0,0,2,3.0,+4,
+2021-11-03,202111030SAC,SAC,Q1,Buddy Hield,https://www.basketball-reference.com/boxscores/202111030SAC.html,6.55,1,3,.333,1,2,.500,0,0,0,1,1,0,0,0,0,0,3,1.6,+4,
+2021-11-03,202111030SAC,SAC,Q1,Alex Len,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.83,2,3,.667,0,0,,0,0,0,2,2,1,0,1,0,0,4,4.7,+7,
+2021-11-03,202111030SAC,SAC,Q2,Harrison Barnes,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.03,1,3,.333,0,1,.000,3,4,0,1,1,1,0,0,0,0,5,3.9,0,.750
+2021-11-03,202111030SAC,SAC,Q2,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.03,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,1,2,0.9,0,
+2021-11-03,202111030SAC,SAC,Q2,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.25,2,4,.500,0,0,,3,3,0,0,0,1,3,0,0,0,7,8.7,+6,1.000
+2021-11-03,202111030SAC,SAC,Q2,Maurice Harkless,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.88,1,2,.500,1,2,.500,0,0,0,0,0,0,0,0,0,0,3,2.0,+3,
+2021-11-03,202111030SAC,SAC,Q2,Richaun Holmes,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.05,3,4,.750,0,1,.000,0,0,0,2,2,0,0,0,0,1,6,4.6,-1,
+2021-11-03,202111030SAC,SAC,Q2,Davion Mitchell,https://www.basketball-reference.com/boxscores/202111030SAC.html,5.78,1,3,.333,0,1,.000,0,0,0,0,0,3,0,0,0,1,2,2.0,0,
+2021-11-03,202111030SAC,SAC,Q2,Buddy Hield,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.08,1,4,.250,0,3,.000,0,0,2,2,4,0,0,0,0,0,2,1.6,+3,
+2021-11-03,202111030SAC,SAC,Q2,Alex Len,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.88,1,1,1.000,0,0,,0,0,0,1,1,0,0,1,0,1,2,2.3,+4,
+2021-11-03,202111030SAC,SAC,Q3,Harrison Barnes,https://www.basketball-reference.com/boxscores/202111030SAC.html,12.0,3,3,1.000,3,3,1.000,4,4,0,2,2,1,1,0,1,2,13,12.6,+1,1.000
+2021-11-03,202111030SAC,SAC,Q3,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.18,2,4,.500,0,0,,1,2,0,0,0,2,0,0,0,0,5,4.0,-4,.500
+2021-11-03,202111030SAC,SAC,Q3,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.8,1,1,1.000,0,0,,2,2,0,3,3,2,0,0,0,0,4,6.0,-1,1.000
+2021-11-03,202111030SAC,SAC,Q3,Maurice Harkless,https://www.basketball-reference.com/boxscores/202111030SAC.html,4.98,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.7,-6,
+2021-11-03,202111030SAC,SAC,Q3,Richaun Holmes,https://www.basketball-reference.com/boxscores/202111030SAC.html,2.18,0,0,,0,0,,0,0,0,0,0,0,0,0,1,2,0,-1.8,-2,
+2021-11-03,202111030SAC,SAC,Q3,Davion Mitchell,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.02,3,3,1.000,0,0,,0,0,0,0,0,1,0,0,0,1,6,5.4,+7,
+2021-11-03,202111030SAC,SAC,Q3,Buddy Hield,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.02,2,3,.667,1,2,.500,1,2,0,0,0,0,1,0,0,0,6,5.3,+7,.500
+2021-11-03,202111030SAC,SAC,Q3,Alex Len,https://www.basketball-reference.com/boxscores/202111030SAC.html,2.8,1,3,.333,0,1,.000,0,0,0,0,0,1,0,0,1,1,2,-0.4,-4,
+2021-11-03,202111030SAC,SAC,Q3,Tristan Thompson,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.02,0,0,,0,0,,0,0,0,0,0,0,0,1,0,0,0,0.7,+7,
+2021-11-03,202111030SAC,SAC,Q4,Harrison Barnes,https://www.basketball-reference.com/boxscores/202111030SAC.html,7.85,0,1,.000,0,1,.000,0,0,0,3,3,0,0,0,1,1,0,-1.2,+8,
+2021-11-03,202111030SAC,SAC,Q4,De'Aaron Fox,https://www.basketball-reference.com/boxscores/202111030SAC.html,9.7,2,4,.500,1,1,1.000,0,0,0,1,1,1,0,0,1,0,5,3.0,+10,
+2021-11-03,202111030SAC,SAC,Q4,Tyrese Haliburton,https://www.basketball-reference.com/boxscores/202111030SAC.html,12.0,3,4,.750,1,1,1.000,2,3,0,0,0,2,1,1,0,0,9,10.1,+8,.667
+2021-11-03,202111030SAC,SAC,Q4,Maurice Harkless,https://www.basketball-reference.com/boxscores/202111030SAC.html,12.0,0,1,.000,0,1,.000,0,0,0,5,5,0,1,0,0,2,0,1.0,+8,
+2021-11-03,202111030SAC,SAC,Q4,Davion Mitchell,https://www.basketball-reference.com/boxscores/202111030SAC.html,6.72,1,3,.333,0,0,,0,0,0,0,0,1,0,0,0,0,2,1.0,+1,
+2021-11-03,202111030SAC,SAC,Q4,Buddy Hield,https://www.basketball-reference.com/boxscores/202111030SAC.html,2.3,0,3,.000,0,3,.000,0,0,0,0,0,0,0,0,0,0,0,-2.1,-2,
+2021-11-03,202111030SAC,SAC,Q4,Alex Len,https://www.basketball-reference.com/boxscores/202111030SAC.html,8.13,2,2,1.000,0,0,,0,0,0,2,2,0,0,1,1,3,4,2.5,+9,
+2021-11-03,202111030SAC,SAC,Q4,Tristan Thompson,https://www.basketball-reference.com/boxscores/202111030SAC.html,1.3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,

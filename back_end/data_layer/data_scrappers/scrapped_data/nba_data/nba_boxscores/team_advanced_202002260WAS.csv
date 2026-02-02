@@ -1,0 +1,21 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2020-02-26,202002260WAS,BRK,Caris LeVert,https://www.basketball-reference.com/boxscores/202002260WAS.html,34:09,.684,.625,.400,.550,6.2,11.2,8.9,44.8,5.5,0.0,3.9,30.2,154,100,25.5
+2020-02-26,202002260WAS,BRK,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202002260WAS.html,33:25,.580,.542,.333,.667,3.2,14.4,9.1,15.7,0.0,0.0,27.9,25.7,93,112,-6.7
+2020-02-26,202002260WAS,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202002260WAS.html,29:06,.304,.278,.222,.222,3.7,19.8,12.2,10.1,0.0,0.0,16.8,16.3,71,111,-7.2
+2020-02-26,202002260WAS,BRK,Taurean Prince,https://www.basketball-reference.com/boxscores/202002260WAS.html,25:22,.523,.500,.667,.083,4.2,11.4,8.0,0.0,1.9,0.0,24.3,25.8,85,109,-4.4
+2020-02-26,202002260WAS,BRK,Jarrett Allen,https://www.basketball-reference.com/boxscores/202002260WAS.html,18:23,.539,.500,.000,3.000,17.4,26.1,22.0,7.8,0.0,0.0,30.1,14.4,97,109,-7.9
+2020-02-26,202002260WAS,BRK,Garrett Temple,https://www.basketball-reference.com/boxscores/202002260WAS.html,33:37,.311,.292,.750,.167,3.2,2.9,3.0,9.0,0.0,2.5,0.0,15.3,87,113,-5.4
+2020-02-26,202002260WAS,BRK,DeAndre Jordan,https://www.basketball-reference.com/boxscores/202002260WAS.html,29:37,.784,.750,.000,.625,21.6,32.4,27.3,0.0,0.0,0.0,8.9,15.1,157,108,5.9
+2020-02-26,202002260WAS,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202002260WAS.html,18:52,.333,.333,.333,.000,0.0,5.1,2.7,0.0,0.0,0.0,10.0,21.1,69,114,-14.9
+2020-02-26,202002260WAS,BRK,Rodions Kurucs,https://www.basketball-reference.com/boxscores/202002260WAS.html,17:29,.000,.000,.667,.000,0.0,32.9,17.3,0.0,5.4,0.0,25.0,9.1,0,95,-6.1
+2020-02-26,202002260WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202002260WAS.html,38:50,.582,.542,.375,.167,0.0,13.7,6.5,22.6,3.6,0.0,7.2,30.1,115,101,8.8
+2020-02-26,202002260WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202002260WAS.html,26:59,.697,.700,.200,.500,3.6,11.9,7.5,0.0,0.0,0.0,14.1,22.2,116,110,-0.5
+2020-02-26,202002260WAS,WAS,Shabazz Napier,https://www.basketball-reference.com/boxscores/202002260WAS.html,24:02,.300,.300,.400,.000,4.0,0.0,2.1,30.3,3.9,0.0,11.8,29.8,73,106,-7.7
+2020-02-26,202002260WAS,WAS,Ian Mahinmi,https://www.basketball-reference.com/boxscores/202002260WAS.html,19:55,.450,.500,.000,.250,9.6,5.4,7.6,6.7,4.7,0.0,0.0,9.4,117,102,0.0
+2020-02-26,202002260WAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/202002260WAS.html,16:40,.500,.500,.667,.000,11.5,25.6,18.2,7.6,0.0,5.6,25.0,10.1,104,102,-0.9
+2020-02-26,202002260WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202002260WAS.html,29:36,.538,.538,.846,.000,0.0,10.8,5.1,9.9,1.6,0.0,7.1,19.9,103,107,1.6
+2020-02-26,202002260WAS,WAS,Ish Smith,https://www.basketball-reference.com/boxscores/202002260WAS.html,23:13,.278,.278,.333,.000,0.0,4.6,2.2,28.0,0.0,0.0,18.2,19.9,69,113,-10.2
+2020-02-26,202002260WAS,WAS,Jerome Robinson,https://www.basketball-reference.com/boxscores/202002260WAS.html,19:59,.507,.438,.500,.250,0.0,16.0,7.6,14.2,2.4,4.7,0.0,18.7,114,101,5.1
+2020-02-26,202002260WAS,WAS,Thomas Bryant,https://www.basketball-reference.com/boxscores/202002260WAS.html,14:54,.680,.600,.200,.400,12.9,35.8,23.7,0.0,0.0,0.0,14.5,19.4,126,99,-2.6
+2020-02-26,202002260WAS,WAS,Moritz Wagner,https://www.basketball-reference.com/boxscores/202002260WAS.html,13:03,1.064,1.000,.000,2.000,7.4,16.3,11.6,0.0,0.0,0.0,0.0,6.1,228,106,-5.2
+2020-02-26,202002260WAS,WAS,Troy Brown Jr.,https://www.basketball-reference.com/boxscores/202002260WAS.html,12:49,.875,.875,.250,.000,0.0,25.0,11.8,12.6,0.0,0.0,0.0,13.1,173,104,5.5

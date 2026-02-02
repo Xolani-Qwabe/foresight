@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-03-18,202103180WAS,UTA,Donovan Mitchell,https://www.basketball-reference.com/boxscores/202103180WAS.html,38:34,.635,.600,.400,.233,2.6,8.7,5.5,31.0,2.3,0.0,10.8,37.1,124,121,9.1
+2021-03-18,202103180WAS,UTA,Royce O'Neale,https://www.basketball-reference.com/boxscores/202103180WAS.html,33:07,.935,.900,1.000,.400,9.3,13.5,11.3,11.0,0.0,0.0,25.4,9.2,154,126,3.4
+2021-03-18,202103180WAS,UTA,Rudy Gobert,https://www.basketball-reference.com/boxscores/202103180WAS.html,33:04,.403,.500,.125,1.250,15.4,27.0,21.0,0.0,2.7,4.2,0.0,14.5,102,114,-2.8
+2021-03-18,202103180WAS,UTA,Joe Ingles,https://www.basketball-reference.com/boxscores/202103180WAS.html,32:58,.928,.941,.588,.176,3.1,13.5,8.1,11.0,2.7,0.0,0.0,21.5,187,120,21.1
+2021-03-18,202103180WAS,UTA,Bojan Bogdanović,https://www.basketball-reference.com/boxscores/202103180WAS.html,30:33,.233,.167,.500,.167,0.0,18.3,8.7,0.0,4.3,0.0,13.4,18.8,45,116,-13.4
+2021-03-18,202103180WAS,UTA,Jordan Clarkson,https://www.basketball-reference.com/boxscores/202103180WAS.html,24:38,.284,.227,.727,.273,0.0,18.1,8.7,29.2,0.0,0.0,28.9,27.1,64,125,-15.3
+2021-03-18,202103180WAS,UTA,Georges Niang,https://www.basketball-reference.com/boxscores/202103180WAS.html,16:30,.214,.214,.571,.000,6.2,20.3,12.9,7.1,0.0,0.0,22.2,21.1,51,125,-17.8
+2021-03-18,202103180WAS,UTA,Derrick Favors,https://www.basketball-reference.com/boxscores/202103180WAS.html,13:59,.820,1.000,.000,.500,0.0,23.9,11.4,9.2,3.2,5.0,29.1,9.5,114,113,1.7
+2021-03-18,202103180WAS,UTA,Miye Oni,https://www.basketball-reference.com/boxscores/202103180WAS.html,12:49,.625,.625,.500,.000,0.0,8.7,4.2,0.0,0.0,0.0,0.0,12.0,128,126,-3.3
+2021-03-18,202103180WAS,UTA,Jarrell Brantley,https://www.basketball-reference.com/boxscores/202103180WAS.html,0:57,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-7.6
+2021-03-18,202103180WAS,UTA,Trent Forrest,https://www.basketball-reference.com/boxscores/202103180WAS.html,0:57,,,,,0.0,100.0,56.1,0.0,0.0,0.0,,0.0,0,114,-1.6
+2021-03-18,202103180WAS,UTA,Elijah Hughes,https://www.basketball-reference.com/boxscores/202103180WAS.html,0:57,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-6.4
+2021-03-18,202103180WAS,UTA,Juwan Morgan,https://www.basketball-reference.com/boxscores/202103180WAS.html,0:57,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-5.8
+2021-03-18,202103180WAS,WAS,Bradley Beal,https://www.basketball-reference.com/boxscores/202103180WAS.html,39:21,.781,.750,.250,.333,0.0,5.2,2.7,22.2,0.0,0.0,9.8,32.2,142,118,10.2
+2021-03-18,202103180WAS,WAS,Rui Hachimura,https://www.basketball-reference.com/boxscores/202103180WAS.html,39:09,.530,.500,.000,.300,0.0,18.3,9.5,0.0,0.0,0.0,20.9,15.2,81,115,-6.9
+2021-03-18,202103180WAS,WAS,Russell Westbrook,https://www.basketball-reference.com/boxscores/202103180WAS.html,37:40,.629,.565,.217,.478,3.0,38.0,21.2,52.2,2.3,2.7,15.2,36.2,122,103,14.8
+2021-03-18,202103180WAS,WAS,Garrison Mathews,https://www.basketball-reference.com/boxscores/202103180WAS.html,20:15,.931,1.250,.500,2.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.7,180,118,-1.0
+2021-03-18,202103180WAS,WAS,Alex Len,https://www.basketball-reference.com/boxscores/202103180WAS.html,18:11,.666,.600,.000,.800,0.0,33.7,17.6,6.8,0.0,0.0,22.8,20.0,105,110,-3.3
+2021-03-18,202103180WAS,WAS,Robin Lopez,https://www.basketball-reference.com/boxscores/202103180WAS.html,27:36,.431,.364,.000,.364,12.1,7.4,9.7,0.0,1.6,0.0,0.0,19.2,104,114,-6.1
+2021-03-18,202103180WAS,WAS,Deni Avdija,https://www.basketball-reference.com/boxscores/202103180WAS.html,20:23,.258,.000,1.000,.667,0.0,20.0,10.5,5.0,0.0,0.0,0.0,7.9,71,114,-6.7
+2021-03-18,202103180WAS,WAS,Isaac Bonga,https://www.basketball-reference.com/boxscores/202103180WAS.html,18:48,.400,.400,.400,.000,17.8,5.4,11.3,12.2,2.3,0.0,0.0,11.0,124,111,-1.1
+2021-03-18,202103180WAS,WAS,Raul Neto,https://www.basketball-reference.com/boxscores/202103180WAS.html,14:57,1.042,1.000,.000,1.000,0.0,0.0,0.0,7.9,5.9,0.0,0.0,8.0,217,104,6.3
+2021-03-18,202103180WAS,WAS,Dāvis Bertāns,https://www.basketball-reference.com/boxscores/202103180WAS.html,3:40,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,27.3,0.0,11.3,200,103,13.0

@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2023-05-29,202305290BOS,MIA,Caleb Martin,https://www.basketball-reference.com/boxscores/202305290BOS.html,44.82,11,16,.688,4,6,.667,0,0,3,7,10,3,1,0,1,0,26,25.5,+14,
+2023-05-29,202305290BOS,MIA,Jimmy Butler,https://www.basketball-reference.com/boxscores/202305290BOS.html,43.28,12,28,.429,3,7,.429,1,2,1,6,7,6,3,0,1,2,28,20.7,+11,.500
+2023-05-29,202305290BOS,MIA,Bam Adebayo,https://www.basketball-reference.com/boxscores/202305290BOS.html,42.73,4,10,.400,0,0,,4,4,1,9,10,7,0,1,4,3,12,10.4,+22,1.000
+2023-05-29,202305290BOS,MIA,Max Strus,https://www.basketball-reference.com/boxscores/202305290BOS.html,28.0,3,8,.375,2,6,.333,0,0,1,4,5,0,0,0,0,3,8,4.3,+4,
+2023-05-29,202305290BOS,MIA,Gabe Vincent,https://www.basketball-reference.com/boxscores/202305290BOS.html,26.4,4,10,.400,2,3,.667,0,0,1,0,1,4,0,0,1,3,10,5.9,-2,
+2023-05-29,202305290BOS,MIA,Kyle Lowry,https://www.basketball-reference.com/boxscores/202305290BOS.html,24.3,3,6,.500,1,2,.500,0,0,0,7,7,5,0,0,2,2,7,6.8,+26,
+2023-05-29,202305290BOS,MIA,Duncan Robinson,https://www.basketball-reference.com/boxscores/202305290BOS.html,20.15,4,6,.667,2,3,.667,0,0,0,1,1,1,2,1,3,1,10,7.7,+17,
+2023-05-29,202305290BOS,MIA,Haywood Highsmith,https://www.basketball-reference.com/boxscores/202305290BOS.html,9.35,1,2,.500,0,1,.000,0,0,0,1,1,0,1,0,0,1,2,1.9,+3,
+2023-05-29,202305290BOS,MIA,Nikola Jović,https://www.basketball-reference.com/boxscores/202305290BOS.html,0.48,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-05-29,202305290BOS,MIA,Omer Yurtseven,https://www.basketball-reference.com/boxscores/202305290BOS.html,0.48,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2023-05-29,202305290BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202305290BOS.html,43.08,8,23,.348,1,9,.111,2,2,0,8,8,5,1,2,8,5,19,4.4,-17,1.000
+2023-05-29,202305290BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202305290BOS.html,41.6,5,13,.385,1,4,.250,3,4,2,9,11,4,1,0,2,2,14,11.6,-12,.750
+2023-05-29,202305290BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202305290BOS.html,36.27,5,12,.417,2,9,.222,6,7,1,1,2,1,1,0,2,0,18,11.9,-7,.857
+2023-05-29,202305290BOS,BOS,Marcus Smart,https://www.basketball-reference.com/boxscores/202305290BOS.html,35.4,4,10,.400,1,6,.167,0,0,0,2,2,4,1,0,2,1,9,5.6,-10,
+2023-05-29,202305290BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202305290BOS.html,34.27,3,8,.375,2,5,.400,0,0,1,7,8,2,1,0,0,3,8,7.6,-10,
+2023-05-29,202305290BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202305290BOS.html,16.2,1,3,.333,1,3,.333,0,0,1,0,1,1,1,0,1,0,3,2.7,-19,
+2023-05-29,202305290BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202305290BOS.html,13.98,4,5,.800,0,0,,0,0,3,3,6,1,0,1,0,1,8,10.1,-9,
+2023-05-29,202305290BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202305290BOS.html,7.08,0,3,.000,0,2,.000,0,0,0,0,0,0,0,1,0,1,0,-1.8,-15,
+2023-05-29,202305290BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202305290BOS.html,3.93,1,3,.333,0,2,.000,0,0,1,0,1,0,0,0,0,0,2,1.0,-1,
+2023-05-29,202305290BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202305290BOS.html,3.75,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-1,
+2023-05-29,202305290BOS,BOS,Mike Muscala,https://www.basketball-reference.com/boxscores/202305290BOS.html,2.22,1,1,1.000,1,1,1.000,0,0,1,0,1,0,0,0,0,0,3,3.4,+3,
+2023-05-29,202305290BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202305290BOS.html,2.22,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,+3,

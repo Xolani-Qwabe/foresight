@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-17,202301170SAS,BRK,Ben Simmons,https://www.basketball-reference.com/boxscores/202301170SAS.html,34:17,.460,.400,.000,.200,2.7,24.2,13.6,49.0,5.2,4.4,39.1,20.9,77,87,3.8
+2023-01-17,202301170SAS,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202301170SAS.html,31:25,.462,.406,.438,.188,9.0,11.8,10.4,11.0,1.4,0.0,14.8,26.0,88,103,-5.2
+2023-01-17,202301170SAS,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202301170SAS.html,28:18,.656,.636,.000,.091,10.0,26.1,18.1,27.0,1.6,10.8,20.8,20.5,112,91,7.0
+2023-01-17,202301170SAS,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202301170SAS.html,21:08,.313,.313,.500,.000,0.0,8.7,4.4,0.0,0.0,0.0,20.0,19.0,50,107,-15.8
+2023-01-17,202301170SAS,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202301170SAS.html,17:27,.000,.000,1.000,.000,0.0,0.0,0.0,0.0,5.1,0.0,25.0,9.2,0,99,-10.8
+2023-01-17,202301170SAS,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202301170SAS.html,29:53,.545,.500,.333,.333,0.0,6.2,3.1,5.9,1.5,2.5,6.8,19.8,104,103,-1.8
+2023-01-17,202301170SAS,BRK,T.J. Warren,https://www.basketball-reference.com/boxscores/202301170SAS.html,23:38,.607,.538,.154,.462,0.0,19.5,9.9,0.0,1.9,0.0,6.0,28.3,114,99,3.1
+2023-01-17,202301170SAS,BRK,Edmond Sumner,https://www.basketball-reference.com/boxscores/202301170SAS.html,18:00,.838,.750,.167,.667,0.0,20.5,10.4,10.1,0.0,0.0,11.4,19.5,147,103,6.4
+2023-01-17,202301170SAS,BRK,Markieff Morris,https://www.basketball-reference.com/boxscores/202301170SAS.html,13:05,.340,.200,.400,.400,7.2,14.1,10.7,22.0,0.0,0.0,14.5,21.1,79,105,-9.2
+2023-01-17,202301170SAS,BRK,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202301170SAS.html,12:18,.000,.000,.000,.000,7.7,0.0,3.8,0.0,0.0,0.0,0.0,6.5,32,111,-11.7
+2023-01-17,202301170SAS,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202301170SAS.html,5:56,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.5,0,111,-19.3
+2023-01-17,202301170SAS,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202301170SAS.html,4:34,.568,,,,20.6,60.6,40.8,28.4,0.0,16.7,53.2,16.5,87,78,8.9
+2023-01-17,202301170SAS,SAS,Keldon Johnson,https://www.basketball-reference.com/boxscores/202301170SAS.html,37:41,.575,.481,.423,.462,2.4,25.0,13.6,5.5,4.7,0.0,3.1,33.1,120,84,11.9
+2023-01-17,202301170SAS,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202301170SAS.html,33:09,.412,.321,.429,.286,2.8,8.5,5.6,23.2,0.0,0.0,11.3,20.7,91,99,-6.2
+2023-01-17,202301170SAS,SAS,Jeremy Sochan,https://www.basketball-reference.com/boxscores/202301170SAS.html,26:12,.621,.583,.250,.167,7.0,7.2,7.1,14.1,3.4,0.0,13.4,21.9,114,92,4.2
+2023-01-17,202301170SAS,SAS,Jakob Poeltl,https://www.basketball-reference.com/boxscores/202301170SAS.html,21:43,.685,.714,.000,.571,8.5,21.7,15.0,25.6,2.1,6.8,18.6,19.1,118,86,7.0
+2023-01-17,202301170SAS,SAS,Romeo Langford,https://www.basketball-reference.com/boxscores/202301170SAS.html,17:21,.167,.167,.333,.000,10.6,16.3,13.4,16.2,0.0,0.0,14.3,15.6,59,97,-10.4
+2023-01-17,202301170SAS,SAS,Josh Richardson,https://www.basketball-reference.com/boxscores/202301170SAS.html,26:35,.500,.500,.444,.000,6.9,7.1,7.0,6.1,1.7,5.6,10.0,14.5,100,91,1.1
+2023-01-17,202301170SAS,SAS,Zach Collins,https://www.basketball-reference.com/boxscores/202301170SAS.html,23:55,.510,.400,.200,.400,3.9,23.6,13.6,12.2,1.9,0.0,40.5,15.9,71,91,-8.5
+2023-01-17,202301170SAS,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202301170SAS.html,21:19,.286,.286,.286,.000,4.3,13.2,8.7,20.8,2.1,0.0,12.5,14.5,73,93,-6.0
+2023-01-17,202301170SAS,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202301170SAS.html,19:35,.200,.200,.500,.000,0.0,19.2,9.5,15.3,2.3,0.0,0.0,19.7,55,91,-10.5
+2023-01-17,202301170SAS,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202301170SAS.html,6:46,1.136,,,,0.0,27.8,13.8,0.0,0.0,0.0,0.0,5.0,250,94,-2.0
+2023-01-17,202301170SAS,SAS,Stanley Johnson,https://www.basketball-reference.com/boxscores/202301170SAS.html,5:42,.532,.000,.000,2.000,16.2,16.5,16.4,45.5,7.8,0.0,34.7,19.5,105,80,10.2

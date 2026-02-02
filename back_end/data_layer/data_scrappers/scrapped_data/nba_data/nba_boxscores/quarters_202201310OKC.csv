@@ -1,0 +1,78 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2022-01-31,202201310OKC,POR,Q1,CJ McCollum,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.92,4,4,1.000,1,1,1.000,0,0,0,1,1,1,0,0,0,0,9,8.8,+10,
+2022-01-31,202201310OKC,POR,Q1,Norman Powell,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.38,1,3,.333,1,2,.500,0,0,0,0,0,1,0,0,0,1,3,1.6,+9,
+2022-01-31,202201310OKC,POR,Q1,Robert Covington,https://www.basketball-reference.com/boxscores/202201310OKC.html,10.57,0,1,.000,0,1,.000,0,0,0,2,2,2,1,1,1,2,0,1.2,+12,
+2022-01-31,202201310OKC,POR,Q1,Anfernee Simons,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.38,1,3,.333,1,3,.333,0,0,0,2,2,1,0,0,0,0,3,2.6,+9,
+2022-01-31,202201310OKC,POR,Q1,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.3,4,6,.667,0,0,,0,0,2,2,4,0,0,0,1,2,8,5.6,+7,
+2022-01-31,202201310OKC,POR,Q1,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.62,0,0,,0,0,,0,0,0,2,2,1,0,0,1,0,0,0.3,+3,
+2022-01-31,202201310OKC,POR,Q1,Tony Snell,https://www.basketball-reference.com/boxscores/202201310OKC.html,1.43,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,0,
+2022-01-31,202201310OKC,POR,Q1,Ben McLemore,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.7,1,3,.333,1,3,.333,0,0,0,0,0,0,0,0,0,0,3,1.3,+5,
+2022-01-31,202201310OKC,POR,Q1,Greg Brown III,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.08,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,0,
+2022-01-31,202201310OKC,POR,Q1,Trendon Watford,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.62,2,2,1.000,0,0,,1,1,0,0,0,0,1,0,0,0,5,5.4,+5,1.000
+2022-01-31,202201310OKC,POR,Q2,CJ McCollum,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.65,2,5,.400,0,2,.000,0,0,0,0,0,2,0,0,0,0,4,2.7,-2,
+2022-01-31,202201310OKC,POR,Q2,Norman Powell,https://www.basketball-reference.com/boxscores/202201310OKC.html,8.93,2,6,.333,0,3,.000,1,1,0,3,3,0,0,1,0,0,5,3.2,0,1.000
+2022-01-31,202201310OKC,POR,Q2,Robert Covington,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.37,0,2,.000,0,2,.000,0,0,0,0,0,0,0,0,1,1,0,-2.8,-8,
+2022-01-31,202201310OKC,POR,Q2,Anfernee Simons,https://www.basketball-reference.com/boxscores/202201310OKC.html,8.22,1,4,.250,1,3,.333,0,0,0,2,2,0,0,0,0,2,3,0.4,-10,
+2022-01-31,202201310OKC,POR,Q2,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.6,1,3,.333,0,0,,0,0,1,1,2,1,0,1,1,0,2,1.7,-8,
+2022-01-31,202201310OKC,POR,Q2,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.13,1,1,1.000,0,0,,0,0,0,2,2,0,0,0,1,2,2,0.5,+4,
+2022-01-31,202201310OKC,POR,Q2,Tony Snell,https://www.basketball-reference.com/boxscores/202201310OKC.html,5.63,0,0,,0,0,,0,0,0,1,1,0,1,0,0,0,0,1.3,+4,
+2022-01-31,202201310OKC,POR,Q2,Ben McLemore,https://www.basketball-reference.com/boxscores/202201310OKC.html,3.07,0,1,.000,0,1,.000,0,0,0,1,1,0,0,0,0,0,0,-0.4,-4,
+2022-01-31,202201310OKC,POR,Q2,Greg Brown III,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.4,0,1,.000,0,0,,0,0,2,2,4,0,0,0,0,1,0,0.9,+4,
+2022-01-31,202201310OKC,POR,Q3,CJ McCollum,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.97,2,5,.400,0,2,.000,0,0,0,1,1,3,0,0,1,1,4,2.3,-7,
+2022-01-31,202201310OKC,POR,Q3,Norman Powell,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.72,1,3,.333,1,2,.500,0,0,0,2,2,0,0,0,1,1,3,0.5,-10,
+2022-01-31,202201310OKC,POR,Q3,Robert Covington,https://www.basketball-reference.com/boxscores/202201310OKC.html,10.62,0,2,.000,0,2,.000,0,0,0,1,1,0,2,1,2,1,0,-0.8,-10,
+2022-01-31,202201310OKC,POR,Q3,Anfernee Simons,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.72,1,6,.167,0,4,.000,0,0,0,1,1,0,0,0,0,0,2,-1.5,-10,
+2022-01-31,202201310OKC,POR,Q3,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202201310OKC.html,8.82,1,1,1.000,0,0,,0,0,1,1,2,0,1,0,0,0,2,3.7,-7,
+2022-01-31,202201310OKC,POR,Q3,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.28,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-2,
+2022-01-31,202201310OKC,POR,Q3,Tony Snell,https://www.basketball-reference.com/boxscores/202201310OKC.html,1.38,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,-2,
+2022-01-31,202201310OKC,POR,Q3,Ben McLemore,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.32,0,0,,0,0,,1,2,0,0,0,0,0,0,0,0,1,0.6,-7,.500
+2022-01-31,202201310OKC,POR,Q3,Trendon Watford,https://www.basketball-reference.com/boxscores/202201310OKC.html,3.18,0,1,.000,0,1,.000,0,0,0,2,2,0,0,0,0,0,0,-0.1,-5,
+2022-01-31,202201310OKC,POR,Q4,CJ McCollum,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.3,2,3,.667,0,1,.000,0,0,0,1,1,1,0,0,1,0,4,2.7,-13,
+2022-01-31,202201310OKC,POR,Q4,Norman Powell,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.3,2,3,.667,1,1,1.000,1,2,0,0,0,1,0,0,0,0,6,5.0,-13,.500
+2022-01-31,202201310OKC,POR,Q4,Robert Covington,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.83,0,0,,0,0,,2,2,0,1,1,1,0,1,0,1,2,3.3,-7,1.000
+2022-01-31,202201310OKC,POR,Q4,Anfernee Simons,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.83,0,3,.000,0,2,.000,0,0,0,0,0,1,0,0,2,0,0,-3.4,-7,
+2022-01-31,202201310OKC,POR,Q4,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.1,1,2,.500,0,0,,0,0,0,1,1,0,0,0,0,1,2,0.9,-14,
+2022-01-31,202201310OKC,POR,Q4,Dennis Smith Jr.,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.37,1,2,.500,0,0,,0,0,0,1,1,0,0,1,1,1,2,0.6,-5,
+2022-01-31,202201310OKC,POR,Q4,Tony Snell,https://www.basketball-reference.com/boxscores/202201310OKC.html,5.17,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.7,-6,
+2022-01-31,202201310OKC,POR,Q4,Greg Brown III,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.7,1,2,.500,0,1,.000,0,0,0,1,1,0,0,0,0,0,2,1.3,0,
+2022-01-31,202201310OKC,POR,Q4,Trendon Watford,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.7,0,0,,0,0,,0,0,0,1,1,2,0,0,0,1,0,1.3,0,
+2022-01-31,202201310OKC,POR,Q4,Keljin Blevins,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.7,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,
+2022-01-31,202201310OKC,OKC,Q1,Luguentz Dort,https://www.basketball-reference.com/boxscores/202201310OKC.html,10.57,2,4,.500,1,1,1.000,0,0,0,1,1,1,0,0,0,0,5,4.0,-12,
+2022-01-31,202201310OKC,OKC,Q1,Josh Giddey,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.38,0,4,.000,0,2,.000,2,2,0,2,2,1,0,0,2,1,2,-1.9,-9,1.000
+2022-01-31,202201310OKC,OKC,Q1,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202201310OKC.html,8.18,1,2,.500,0,0,,0,0,0,0,0,0,0,0,0,0,2,1.0,-8,
+2022-01-31,202201310OKC,OKC,Q1,Tre Mann,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.3,1,2,.500,1,2,.500,0,0,0,1,1,1,0,0,0,0,3,3.0,-7,
+2022-01-31,202201310OKC,OKC,Q1,Derrick Favors,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.3,0,1,.000,0,0,,0,0,0,2,2,0,0,1,0,1,0,0.2,-7,
+2022-01-31,202201310OKC,OKC,Q1,Darius Bazley,https://www.basketball-reference.com/boxscores/202201310OKC.html,3.82,1,1,1.000,0,0,,0,0,0,1,1,1,0,0,1,0,2,1.7,-4,
+2022-01-31,202201310OKC,OKC,Q1,Kenrich Williams,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.7,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,0,0,2,2.4,-5,
+2022-01-31,202201310OKC,OKC,Q1,Ty Jerome,https://www.basketball-reference.com/boxscores/202201310OKC.html,2.62,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,-3,
+2022-01-31,202201310OKC,OKC,Q1,Mike Muscala,https://www.basketball-reference.com/boxscores/202201310OKC.html,1.43,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,
+2022-01-31,202201310OKC,OKC,Q1,Mamadi Diakite,https://www.basketball-reference.com/boxscores/202201310OKC.html,3.27,1,1,1.000,0,0,,1,2,0,0,0,0,0,0,0,1,3,1.9,-5,.500
+2022-01-31,202201310OKC,OKC,Q1,Théo Maledon,https://www.basketball-reference.com/boxscores/202201310OKC.html,1.43,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,0,1,0,-1.1,0,
+2022-01-31,202201310OKC,OKC,Q2,Luguentz Dort,https://www.basketball-reference.com/boxscores/202201310OKC.html,5.87,0,2,.000,0,2,.000,2,2,0,2,2,1,0,0,0,0,2,1.9,+8,1.000
+2022-01-31,202201310OKC,OKC,Q2,Josh Giddey,https://www.basketball-reference.com/boxscores/202201310OKC.html,5.87,1,1,1.000,0,0,,2,2,0,2,2,0,0,0,0,0,4,4.3,+8,1.000
+2022-01-31,202201310OKC,OKC,Q2,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202201310OKC.html,8.22,1,4,.250,1,3,.333,0,0,2,2,4,1,0,0,0,0,3,3.3,+10,
+2022-01-31,202201310OKC,OKC,Q2,Tre Mann,https://www.basketball-reference.com/boxscores/202201310OKC.html,5.73,1,4,.250,0,2,.000,2,2,0,0,0,0,2,0,2,0,4,1.6,+8,1.000
+2022-01-31,202201310OKC,OKC,Q2,Derrick Favors,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.37,1,1,1.000,0,0,,0,0,0,3,3,0,0,0,0,1,2,2.2,+8,
+2022-01-31,202201310OKC,OKC,Q2,Darius Bazley,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.13,2,4,.500,1,2,.500,0,0,0,1,1,0,0,0,0,0,5,3.3,-4,
+2022-01-31,202201310OKC,OKC,Q2,Kenrich Williams,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.27,0,2,.000,0,1,.000,0,0,2,0,2,0,0,0,1,0,0,-1.0,-4,
+2022-01-31,202201310OKC,OKC,Q2,Ty Jerome,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.13,0,3,.000,0,2,.000,0,0,0,0,0,2,0,0,0,1,0,-1.1,-4,
+2022-01-31,202201310OKC,OKC,Q2,Mike Muscala,https://www.basketball-reference.com/boxscores/202201310OKC.html,5.63,0,1,.000,0,1,.000,0,0,0,1,1,0,0,1,0,0,0,0.3,-4,
+2022-01-31,202201310OKC,OKC,Q2,Théo Maledon,https://www.basketball-reference.com/boxscores/202201310OKC.html,3.78,0,1,.000,0,0,,0,0,0,1,1,0,0,0,0,0,0,-0.4,-6,
+2022-01-31,202201310OKC,OKC,Q3,Luguentz Dort,https://www.basketball-reference.com/boxscores/202201310OKC.html,12.0,3,8,.375,1,4,.250,0,0,2,1,3,1,1,0,3,0,7,3.0,+12,
+2022-01-31,202201310OKC,OKC,Q3,Josh Giddey,https://www.basketball-reference.com/boxscores/202201310OKC.html,8.05,1,2,.500,0,0,,0,0,1,5,6,2,0,0,2,0,2,2.6,+5,
+2022-01-31,202201310OKC,OKC,Q3,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.68,1,1,1.000,0,0,,0,0,1,2,3,0,0,0,0,0,2,3.0,+5,
+2022-01-31,202201310OKC,OKC,Q3,Tre Mann,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.68,1,2,.500,0,1,.000,1,1,0,0,0,0,0,0,0,0,3,2.0,+5,1.000
+2022-01-31,202201310OKC,OKC,Q3,Derrick Favors,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.68,1,4,.250,0,1,.000,2,2,0,2,2,0,0,0,0,1,4,1.8,+5,1.000
+2022-01-31,202201310OKC,OKC,Q3,Darius Bazley,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.32,1,1,1.000,1,1,1.000,2,2,0,0,0,1,0,0,0,0,5,5.4,+7,1.000
+2022-01-31,202201310OKC,OKC,Q3,Kenrich Williams,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.32,0,2,.000,0,2,.000,0,0,0,1,1,0,0,0,0,1,0,-1.5,+7,
+2022-01-31,202201310OKC,OKC,Q3,Ty Jerome,https://www.basketball-reference.com/boxscores/202201310OKC.html,3.95,1,2,.500,1,2,.500,0,0,0,0,0,1,0,0,0,0,3,2.7,+7,
+2022-01-31,202201310OKC,OKC,Q3,Mamadi Diakite,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.32,0,0,,0,0,,0,0,1,1,2,0,0,0,0,1,0,0.6,+7,
+2022-01-31,202201310OKC,OKC,Q4,Luguentz Dort,https://www.basketball-reference.com/boxscores/202201310OKC.html,5.62,1,2,.500,0,1,.000,2,2,0,0,0,0,2,0,0,0,4,5.0,+3,1.000
+2022-01-31,202201310OKC,OKC,Q4,Josh Giddey,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.38,3,5,.600,0,0,,0,0,0,2,2,1,0,1,0,1,6,5.3,+11,
+2022-01-31,202201310OKC,OKC,Q4,Aaron Wiggins,https://www.basketball-reference.com/boxscores/202201310OKC.html,4.02,0,1,.000,0,1,.000,0,0,0,1,1,1,0,0,0,0,0,0.3,+1,
+2022-01-31,202201310OKC,OKC,Q4,Tre Mann,https://www.basketball-reference.com/boxscores/202201310OKC.html,3.63,1,2,.500,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,2.3,+2,
+2022-01-31,202201310OKC,OKC,Q4,Darius Bazley,https://www.basketball-reference.com/boxscores/202201310OKC.html,12.0,1,1,1.000,1,1,1.000,0,0,1,2,3,1,0,0,0,0,3,4.7,+13,
+2022-01-31,202201310OKC,OKC,Q4,Kenrich Williams,https://www.basketball-reference.com/boxscores/202201310OKC.html,9.38,3,4,.750,0,1,.000,0,0,1,0,1,1,0,0,0,1,6,5.4,+11,
+2022-01-31,202201310OKC,OKC,Q4,Ty Jerome,https://www.basketball-reference.com/boxscores/202201310OKC.html,7.98,2,4,.500,2,3,.667,0,0,0,0,0,3,0,0,1,0,6,5.1,+12,
+2022-01-31,202201310OKC,OKC,Q4,Mike Muscala,https://www.basketball-reference.com/boxscores/202201310OKC.html,6.7,2,3,.667,1,1,1.000,0,0,0,2,2,1,1,0,0,2,5,5.2,+13,
+2022-01-31,202201310OKC,OKC,Q4,Mamadi Diakite,https://www.basketball-reference.com/boxscores/202201310OKC.html,1.28,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,

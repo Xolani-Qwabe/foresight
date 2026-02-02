@@ -1,0 +1,8 @@
+Game: https://www.basketball-reference.com/boxscores/202009040LAL.html
+Scraped: 2025-12-14 18:12:01
+
+line_scores: 2 rows (nba_boxscores/line_scores_202009040LAL.csv)
+four_factors: 2 rows (nba_boxscores/four_factors_202009040LAL.csv)
+team_basic: 22 rows (nba_boxscores/team_basic_202009040LAL.csv)
+team_advanced: 22 rows (nba_boxscores/team_advanced_202009040LAL.csv)
+quarters: 71 rows (nba_boxscores/quarters_202009040LAL.csv)

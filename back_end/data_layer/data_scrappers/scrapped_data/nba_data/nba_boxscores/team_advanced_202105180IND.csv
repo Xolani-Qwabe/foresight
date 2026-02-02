@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg
+2021-05-18,202105180IND,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202105180IND.html,36:35,.681,.688,.313,.125,5.4,19.2,11.7,17.6,1.2,1.9,10.6,20.8,125,129
+2021-05-18,202105180IND,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202105180IND.html,34:49,.383,.350,.450,.100,0.0,26.9,12.3,24.8,1.2,2.0,4.6,25.3,87,127
+2021-05-18,202105180IND,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202105180IND.html,30:30,.400,.400,.500,.000,9.6,15.4,12.2,4.1,0.0,4.5,0.0,13.2,99,131
+2021-05-18,202105180IND,CHO,LaMelo Ball,https://www.basketball-reference.com/boxscores/202105180IND.html,27:00,.421,.357,.429,.429,3.6,0.0,2.0,19.8,0.0,0.0,19.4,30.8,79,137
+2021-05-18,202105180IND,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202105180IND.html,3:20,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,137
+2021-05-18,202105180IND,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/202105180IND.html,28:13,1.022,1.000,.000,.429,0.0,12.4,5.7,10.9,3.1,0.0,19.4,14.8,159,127
+2021-05-18,202105180IND,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/202105180IND.html,20:12,.225,.188,.875,.250,0.0,11.6,5.3,23.4,2.1,0.0,0.0,17.7,70,130
+2021-05-18,202105180IND,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/202105180IND.html,19:06,.650,.650,.500,.000,0.0,6.1,2.8,16.5,0.0,0.0,9.1,23.2,114,136
+2021-05-18,202105180IND,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202105180IND.html,15:45,.753,.500,.000,1.500,0.0,7.4,3.4,0.0,5.5,4.4,37.6,13.6,93,120
+2021-05-18,202105180IND,CHO,Vernon Carey Jr.,https://www.basketball-reference.com/boxscores/202105180IND.html,5:45,,,,,0.0,20.4,9.3,0.0,0.0,11.9,100.0,14.0,0,124
+2021-05-18,202105180IND,CHO,Caleb Martin,https://www.basketball-reference.com/boxscores/202105180IND.html,5:45,1.000,1.000,.750,.000,0.0,0.0,0.0,46.5,7.5,0.0,0.0,28.1,176,120
+2021-05-18,202105180IND,CHO,Nate Darling,https://www.basketball-reference.com/boxscores/202105180IND.html,4:20,1.000,1.000,.000,.000,22.6,54.0,36.9,34.7,0.0,0.0,0.0,9.3,212,125
+2021-05-18,202105180IND,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202105180IND.html,4:20,.602,.500,.000,1.500,0.0,27.0,12.3,0.0,0.0,0.0,0.0,30.9,124,131
+2021-05-18,202105180IND,CHO,Grant Riller,https://www.basketball-reference.com/boxscores/202105180IND.html,4:20,.852,,,,0.0,0.0,0.0,25.8,0.0,0.0,0.0,16.4,193,137
+2021-05-18,202105180IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202105180IND.html,33:01,.821,.821,.429,.000,0.0,14.8,8.1,6.7,0.0,0.0,0.0,16.0,167,110
+2021-05-18,202105180IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202105180IND.html,32:35,.467,.467,.133,.000,3.6,60.1,34.4,27.8,1.3,2.7,25.0,23.1,97,98
+2021-05-18,202105180IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202105180IND.html,25:51,.872,.917,.833,.333,0.0,7.6,4.1,18.4,0.0,0.0,22.5,12.9,141,111
+2021-05-18,202105180IND,IND,Doug McDermott,https://www.basketball-reference.com/boxscores/202105180IND.html,25:47,1.017,1.000,.667,.333,9.1,3.8,6.2,8.3,0.0,0.0,16.2,18.0,166,112
+2021-05-18,202105180IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202105180IND.html,21:20,.766,.750,.500,.100,0.0,0.0,0.0,40.4,0.0,0.0,16.1,21.9,147,113
+2021-05-18,202105180IND,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202105180IND.html,25:02,.683,.667,.083,.083,9.4,11.7,10.7,13.5,6.9,0.0,13.9,21.7,129,95
+2021-05-18,202105180IND,IND,Kelan Martin,https://www.basketball-reference.com/boxscores/202105180IND.html,20:22,.500,.500,.286,.000,0.0,9.6,5.2,0.0,0.0,4.4,0.0,25.9,106,108
+2021-05-18,202105180IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202105180IND.html,18:42,.608,.500,.000,1.000,37.6,21.0,28.5,5.4,2.3,14.3,0.0,23.2,153,93
+2021-05-18,202105180IND,IND,Aaron Holiday,https://www.basketball-reference.com/boxscores/202105180IND.html,16:16,.143,.143,.429,.000,0.0,18.1,9.8,26.8,0.0,0.0,12.5,18.5,70,109
+2021-05-18,202105180IND,IND,JaKarr Sampson,https://www.basketball-reference.com/boxscores/202105180IND.html,7:26,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112
+2021-05-18,202105180IND,IND,Edmond Sumner,https://www.basketball-reference.com/boxscores/202105180IND.html,6:52,.583,.583,.333,.000,0.0,28.5,15.5,0.0,0.0,0.0,14.3,38.3,94,108
+2021-05-18,202105180IND,IND,Cassius Stanley,https://www.basketball-reference.com/boxscores/202105180IND.html,4:55,.500,.500,.250,.000,23.8,0.0,10.8,0.0,8.8,0.0,20.0,38.3,89,92
+2021-05-18,202105180IND,IND,Amida Brimah,https://www.basketball-reference.com/boxscores/202105180IND.html,1:51,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111

@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-05-01,202205010MEM,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202205010MEM.html,37:06,.551,.525,.600,.200,0.0,7.5,4.0,14.9,0.0,2.4,4.4,24.6,122,122,0.1
+2022-05-01,202205010MEM,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202205010MEM.html,34:22,.498,.464,.357,.500,9.1,13.4,11.4,3.8,0.0,0.0,5.5,21.1,112,121,-5.5
+2022-05-01,202205010MEM,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202205010MEM.html,30:34,.377,.395,.526,.105,0.0,3.0,1.6,13.2,3.1,2.9,0.0,26.1,95,117,-3.7
+2022-05-01,202205010MEM,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202205010MEM.html,23:11,.800,.800,.000,.000,18.0,11.9,14.8,16.9,2.1,3.8,44.4,15.6,104,115,0.6
+2022-05-01,202205010MEM,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202205010MEM.html,17:01,.694,.667,.000,1.000,6.1,16.3,11.5,21.5,8.4,5.1,53.6,21.9,77,98,3.3
+2022-05-01,202205010MEM,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202205010MEM.html,37:30,.742,.725,.500,.100,8.3,12.3,10.4,38.9,0.0,4.7,16.1,26.6,138,119,14.0
+2022-05-01,202205010MEM,GSW,Otto Porter Jr.,https://www.basketball-reference.com/boxscores/202205010MEM.html,22:32,.250,.250,.250,.000,9.3,24.6,17.4,19.9,4.2,0.0,0.0,7.1,123,106,3.4
+2022-05-01,202205010MEM,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202205010MEM.html,18:44,.800,.800,.000,.000,11.1,19.7,15.7,14.7,2.5,0.0,16.7,12.8,144,112,5.8
+2022-05-01,202205010MEM,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202205010MEM.html,15:28,.773,.667,.000,.667,6.7,29.8,19.0,8.0,3.1,0.0,20.5,12.6,136,106,2.5
+2022-05-01,202205010MEM,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202205010MEM.html,3:29,,,,,0.0,26.5,14.1,30.6,0.0,0.0,100.0,11.5,47,115,-7.1
+2022-05-01,202205010MEM,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202205010MEM.html,0:03,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-7.8
+2022-05-01,202205010MEM,MEM,Ja Morant,https://www.basketball-reference.com/boxscores/202205010MEM.html,38:29,.526,.516,.355,.097,0.0,24.4,11.5,53.0,3.7,0.0,8.5,36.8,114,109,9.9
+2022-05-01,202205010MEM,MEM,Desmond Bane,https://www.basketball-reference.com/boxscores/202205010MEM.html,32:28,.398,.350,.500,.300,2.8,0.0,1.5,4.0,2.9,0.0,8.1,15.2,89,120,-6.6
+2022-05-01,202205010MEM,MEM,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202205010MEM.html,30:49,.751,.722,.500,.500,18.0,13.5,15.9,6.1,0.0,2.8,12.0,32.5,138,120,12.6
+2022-05-01,202205010MEM,MEM,Dillon Brooks,https://www.basketball-reference.com/boxscores/202205010MEM.html,30:18,.308,.308,.615,.000,0.0,6.9,3.2,13.1,1.6,0.0,7.1,18.5,77,120,-11.2
+2022-05-01,202205010MEM,MEM,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202205010MEM.html,13:05,.500,.500,.000,.000,7.1,8.0,7.5,19.7,3.6,0.0,0.0,6.1,151,116,3.6
+2022-05-01,202205010MEM,MEM,Brandon Clarke,https://www.basketball-reference.com/boxscores/202205010MEM.html,30:35,.694,.667,.000,1.000,9.1,17.1,12.8,9.0,0.0,5.7,31.6,16.6,106,118,-2.4
+2022-05-01,202205010MEM,MEM,De'Anthony Melton,https://www.basketball-reference.com/boxscores/202205010MEM.html,25:00,.829,.813,.750,.125,7.4,20.9,13.7,6.1,5.7,3.5,10.6,15.2,150,105,15.7
+2022-05-01,202205010MEM,MEM,Kyle Anderson,https://www.basketball-reference.com/boxscores/202205010MEM.html,18:31,.258,.000,.000,.667,10.0,11.3,10.6,6.3,0.0,4.7,20.5,10.6,80,120,-8.5
+2022-05-01,202205010MEM,MEM,Tyus Jones,https://www.basketball-reference.com/boxscores/202205010MEM.html,12:00,.250,.250,.250,.000,0.0,0.0,0.0,32.4,4.0,0.0,0.0,13.4,96,118,-2.9
+2022-05-01,202205010MEM,MEM,John Konchar,https://www.basketball-reference.com/boxscores/202205010MEM.html,8:45,,,,,10.5,23.9,16.8,26.8,0.0,10.0,,0.0,237,112,6.2

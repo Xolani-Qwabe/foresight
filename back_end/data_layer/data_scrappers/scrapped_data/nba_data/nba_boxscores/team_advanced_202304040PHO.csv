@@ -1,0 +1,25 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-04-04,202304040PHO,SAS,Malaki Branham,https://www.basketball-reference.com/boxscores/202304040PHO.html,29:34,.587,.559,.412,.118,0.0,11.1,5.1,14.8,1.7,0.0,0.0,26.8,116,121,4.8
+2023-04-04,202304040PHO,SAS,Tre Jones,https://www.basketball-reference.com/boxscores/202304040PHO.html,29:04,.727,.667,.250,.333,3.2,7.5,5.2,63.4,1.7,0.0,17.9,25.6,132,122,9.8
+2023-04-04,202304040PHO,SAS,Sandro Mamukelashvili,https://www.basketball-reference.com/boxscores/202304040PHO.html,28:30,.752,.750,.500,1.000,6.6,23.0,14.2,11.9,0.0,0.0,31.6,19.7,105,120,-3.1
+2023-04-04,202304040PHO,SAS,Devonte' Graham,https://www.basketball-reference.com/boxscores/202304040PHO.html,27:04,.507,.500,.625,.250,0.0,4.0,1.9,12.0,3.7,0.0,18.4,17.8,85,119,-5.4
+2023-04-04,202304040PHO,SAS,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202304040PHO.html,25:59,.500,.500,.538,.000,0.0,16.8,7.8,21.5,1.9,3.3,7.1,23.9,96,116,2.0
+2023-04-04,202304040PHO,SAS,Julian Champagnie,https://www.basketball-reference.com/boxscores/202304040PHO.html,27:33,.455,.455,.636,.000,3.4,19.8,11.0,6.2,0.0,3.1,0.0,17.7,96,120,-4.2
+2023-04-04,202304040PHO,SAS,Blake Wesley,https://www.basketball-reference.com/boxscores/202304040PHO.html,24:32,.000,.000,.125,.000,0.0,8.9,4.1,11.2,2.0,0.0,11.1,16.3,14,121,-19.4
+2023-04-04,202304040PHO,SAS,Gorgui Dieng,https://www.basketball-reference.com/boxscores/202304040PHO.html,21:08,.333,.333,.500,.000,0.0,20.6,9.6,14.9,0.0,4.1,0.0,12.6,82,118,-8.3
+2023-04-04,202304040PHO,SAS,Dominick Barlow,https://www.basketball-reference.com/boxscores/202304040PHO.html,20:37,.500,.500,.000,.000,18.3,5.3,12.3,14.3,2.4,8.3,33.3,6.5,125,117,-0.6
+2023-04-04,202304040PHO,SAS,Doug McDermott,https://www.basketball-reference.com/boxscores/202304040PHO.html,5:59,.143,.143,.571,.000,15.7,18.2,16.9,0.0,0.0,0.0,0.0,51.9,40,122,-31.4
+2023-04-04,202304040PHO,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202304040PHO.html,33:36,.541,.500,.286,.429,3.2,11.2,7.5,8.3,0.0,2.9,15.3,24.7,103,103,-3.8
+2023-04-04,202304040PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202304040PHO.html,32:53,.551,.476,.476,.381,0.0,20.0,10.8,14.7,4.5,0.0,7.5,34.1,117,91,5.3
+2023-04-04,202304040PHO,PHO,Chris Paul,https://www.basketball-reference.com/boxscores/202304040PHO.html,32:33,.786,.786,.429,.000,3.4,2.9,3.1,14.9,1.5,0.0,12.5,20.8,140,104,6.7
+2023-04-04,202304040PHO,PHO,Deandre Ayton,https://www.basketball-reference.com/boxscores/202304040PHO.html,28:40,.786,.667,.000,.778,15.2,23.0,19.4,5.1,1.7,3.3,19.9,22.3,137,95,4.7
+2023-04-04,202304040PHO,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202304040PHO.html,20:14,.174,.000,.500,1.000,5.4,14.0,10.0,16.6,0.0,0.0,0.0,6.0,106,104,-5.2
+2023-04-04,202304040PHO,PHO,Torrey Craig,https://www.basketball-reference.com/boxscores/202304040PHO.html,24:50,.794,.833,.333,.111,17.6,22.7,20.3,19.7,2.0,0.0,17.5,19.5,139,97,10.6
+2023-04-04,202304040PHO,PHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202304040PHO.html,16:24,.714,.714,.000,.000,0.0,5.7,3.1,10.3,0.0,23.4,0.0,18.1,149,89,12.9
+2023-04-04,202304040PHO,PHO,Landry Shamet,https://www.basketball-reference.com/boxscores/202304040PHO.html,12:31,.000,.000,.500,.000,17.4,7.5,12.1,26.8,0.0,0.0,20.0,16.9,62,106,-15.9
+2023-04-04,202304040PHO,PHO,Terrence Ross,https://www.basketball-reference.com/boxscores/202304040PHO.html,12:11,.000,.000,1.000,.000,9.0,38.6,24.9,27.5,0.0,7.9,0.0,10.4,79,91,0.1
+2023-04-04,202304040PHO,PHO,T.J. Warren,https://www.basketball-reference.com/boxscores/202304040PHO.html,11:12,.000,.000,1.000,.000,0.0,25.2,13.5,10.0,0.0,0.0,0.0,3.8,63,100,-6.1
+2023-04-04,202304040PHO,PHO,Ish Wainright,https://www.basketball-reference.com/boxscores/202304040PHO.html,6:08,.000,.000,1.000,.000,0.0,15.3,8.2,18.2,0.0,0.0,0.0,13.8,37,104,-13.2
+2023-04-04,202304040PHO,PHO,Jock Landale,https://www.basketball-reference.com/boxscores/202304040PHO.html,2:56,,,,,0.0,32.1,17.2,38.1,0.0,0.0,,0.0,223,98,11.7
+2023-04-04,202304040PHO,PHO,Damion Lee,https://www.basketball-reference.com/boxscores/202304040PHO.html,2:56,.500,.500,.333,.000,37.2,32.1,34.4,0.0,0.0,0.0,0.0,43.3,122,98,9.7
+2023-04-04,202304040PHO,PHO,Saben Lee,https://www.basketball-reference.com/boxscores/202304040PHO.html,2:56,.000,,,,0.0,32.1,17.2,0.0,17.0,0.0,0.0,12.7,0,59,3.3

@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2022-01-12,202201120IND,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202201120IND.html,37.03,11,19,.579,4,9,.444,7,8,.875,0,7,7,4,2,2,4,1,33,27.6,+19
+2022-01-12,202201120IND,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202201120IND.html,35.18,11,19,.579,7,11,.636,5,5,1.000,0,5,5,3,0,0,3,4,34,24.1,+14
+2022-01-12,202201120IND,BOS,Dennis Schröder,https://www.basketball-reference.com/boxscores/202201120IND.html,34.2,7,11,.636,4,5,.800,5,6,.833,0,2,2,3,1,0,2,3,23,18.2,+15
+2022-01-12,202201120IND,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202201120IND.html,27.58,4,8,.500,0,3,.000,0,0,,1,3,4,4,0,0,0,1,8,8.0,+17
+2022-01-12,202201120IND,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202201120IND.html,22.82,2,3,.667,0,0,,1,2,.500,3,6,9,2,0,1,0,4,5,7.7,+21
+2022-01-12,202201120IND,BOS,Josh Richardson,https://www.basketball-reference.com/boxscores/202201120IND.html,29.37,2,7,.286,1,4,.250,0,0,,0,3,3,4,0,1,1,1,5,3.9,-2
+2022-01-12,202201120IND,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202201120IND.html,22.85,1,2,.500,0,1,.000,1,2,.500,0,1,1,0,2,1,0,4,3,3.0,+4
+2022-01-12,202201120IND,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202201120IND.html,11.45,1,5,.200,1,2,.500,0,0,,0,1,1,1,0,0,0,1,3,0.5,+6
+2022-01-12,202201120IND,BOS,Enes Freedom,https://www.basketball-reference.com/boxscores/202201120IND.html,7.12,0,0,,0,0,,0,0,,2,1,3,0,0,0,0,1,0,1.3,+5
+2022-01-12,202201120IND,BOS,Romeo Langford,https://www.basketball-reference.com/boxscores/202201120IND.html,3.1,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,0,1,3,3.3,-1
+2022-01-12,202201120IND,BOS,Bruno Fernando,https://www.basketball-reference.com/boxscores/202201120IND.html,3.1,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,1,0,2,1.3,-1
+2022-01-12,202201120IND,BOS,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202201120IND.html,3.1,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1
+2022-01-12,202201120IND,BOS,Brodric Thomas,https://www.basketball-reference.com/boxscores/202201120IND.html,3.1,0,3,.000,0,2,.000,0,0,,1,0,1,2,0,0,0,1,0,-0.4,-1
+2022-01-12,202201120IND,IND,Domantas Sabonis,https://www.basketball-reference.com/boxscores/202201120IND.html,31.88,7,11,.636,0,2,.000,3,5,.600,2,4,6,6,2,0,1,3,17,17.9,-20
+2022-01-12,202201120IND,IND,Caris LeVert,https://www.basketball-reference.com/boxscores/202201120IND.html,28.88,6,9,.667,1,2,.500,3,5,.600,0,1,1,4,0,1,1,1,16,13.7,-28
+2022-01-12,202201120IND,IND,Justin Holiday,https://www.basketball-reference.com/boxscores/202201120IND.html,26.45,5,11,.455,3,9,.333,0,0,,1,2,3,2,0,1,0,2,13,9.9,-15
+2022-01-12,202201120IND,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202201120IND.html,23.58,8,14,.571,0,5,.000,2,2,1.000,2,2,4,1,0,1,0,4,18,13.2,-22
+2022-01-12,202201120IND,IND,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202201120IND.html,17.05,3,7,.429,0,0,,0,0,,0,1,1,2,0,0,1,1,6,2.6,-16
+2022-01-12,202201120IND,IND,Torrey Craig,https://www.basketball-reference.com/boxscores/202201120IND.html,27.08,0,4,.000,0,3,.000,0,0,,2,1,3,3,0,0,0,1,0,0.6,-10
+2022-01-12,202201120IND,IND,Oshae Brissett,https://www.basketball-reference.com/boxscores/202201120IND.html,25.3,3,7,.429,1,4,.250,1,2,.500,3,6,9,0,1,1,1,3,8,7.3,-2
+2022-01-12,202201120IND,IND,Lance Stephenson,https://www.basketball-reference.com/boxscores/202201120IND.html,20.87,3,11,.273,0,4,.000,0,0,,1,4,5,6,2,0,3,4,6,3.0,-2
+2022-01-12,202201120IND,IND,Duane Washington Jr.,https://www.basketball-reference.com/boxscores/202201120IND.html,14.12,1,5,.200,1,3,.333,1,2,.500,0,2,2,2,0,0,2,2,4,-0.3,+8
+2022-01-12,202201120IND,IND,Jeremy Lamb,https://www.basketball-reference.com/boxscores/202201120IND.html,6.12,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,2,2,3,-1.5,0
+2022-01-12,202201120IND,IND,Goga Bitadze,https://www.basketball-reference.com/boxscores/202201120IND.html,4.67,1,2,.500,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,1,4,2.6,+3
+2022-01-12,202201120IND,IND,Isaiah Jackson,https://www.basketball-reference.com/boxscores/202201120IND.html,4.67,1,1,1.000,0,0,,1,2,.500,0,2,2,0,0,1,0,0,3,3.6,+3
+2022-01-12,202201120IND,IND,Keifer Sykes,https://www.basketball-reference.com/boxscores/202201120IND.html,4.67,1,1,1.000,0,0,,0,0,,0,0,0,1,1,0,0,0,2,3.4,+3
+2022-01-12,202201120IND,IND,Terry Taylor,https://www.basketball-reference.com/boxscores/202201120IND.html,4.67,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3

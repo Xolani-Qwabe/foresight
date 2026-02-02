@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-02-06,202102060ORL,CHI,Denzel Valentine,https://www.basketball-reference.com/boxscores/202102060ORL.html,36:36,.588,.588,.588,.000,6.1,2.6,4.2,14.4,1.4,0.0,0.0,20.9,134,107,2.0
+2021-02-06,202102060ORL,CHI,Patrick Williams,https://www.basketball-reference.com/boxscores/202102060ORL.html,33:27,.595,.577,.154,.077,3.3,25.3,15.3,3.9,0.0,2.1,13.0,20.8,108,97,-4.6
+2021-02-06,202102060ORL,CHI,Zach LaVine,https://www.basketball-reference.com/boxscores/202102060ORL.html,33:11,.717,.740,.240,.200,6.7,14.2,10.8,24.3,0.0,0.0,6.8,39.6,135,104,12.5
+2021-02-06,202102060ORL,CHI,Coby White,https://www.basketball-reference.com/boxscores/202102060ORL.html,27:22,.523,.500,.500,.083,0.0,24.1,13.1,13.8,1.9,0.0,7.4,22.1,110,95,-3.8
+2021-02-06,202102060ORL,CHI,Daniel Gafford,https://www.basketball-reference.com/boxscores/202102060ORL.html,12:48,.333,.333,.000,.000,8.7,29.4,19.9,8.7,0.0,16.5,25.0,14.1,80,86,-6.0
+2021-02-06,202102060ORL,CHI,Tomáš Satoranský,https://www.basketball-reference.com/boxscores/202102060ORL.html,27:01,.827,.800,.400,.200,8.3,10.5,9.5,25.6,1.9,5.2,0.0,9.1,191,98,11.8
+2021-02-06,202102060ORL,CHI,Thaddeus Young,https://www.basketball-reference.com/boxscores/202102060ORL.html,25:44,.527,.500,.000,.100,8.7,3.7,6.0,19.8,2.0,5.5,16.1,21.7,111,101,0.8
+2021-02-06,202102060ORL,CHI,Garrett Temple,https://www.basketball-reference.com/boxscores/202102060ORL.html,20:11,.444,.300,.800,.800,0.0,14.0,7.6,5.3,2.5,7.0,12.9,17.3,91,94,-2.9
+2021-02-06,202102060ORL,CHI,Ryan Arcidiacono,https://www.basketball-reference.com/boxscores/202102060ORL.html,12:43,,,,,0.0,22.2,12.0,16.1,4.0,0.0,,0.0,232,91,2.3
+2021-02-06,202102060ORL,CHI,Cristiano Felício,https://www.basketball-reference.com/boxscores/202102060ORL.html,9:28,1.000,1.000,.000,.000,11.8,0.0,5.4,24.2,0.0,0.0,50.0,9.5,134,111,-0.9
+2021-02-06,202102060ORL,CHI,Luke Kornet,https://www.basketball-reference.com/boxscores/202102060ORL.html,1:29,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-8.4
+2021-02-06,202102060ORL,ORL,Dwayne Bacon,https://www.basketball-reference.com/boxscores/202102060ORL.html,30:33,.538,.500,.214,.143,3.1,7.3,5.0,0.0,1.7,0.0,0.0,21.0,120,129,-2.8
+2021-02-06,202102060ORL,ORL,Gary Clark,https://www.basketball-reference.com/boxscores/202102060ORL.html,30:08,.300,.300,1.000,.000,0.0,11.1,5.1,0.0,0.0,0.0,0.0,7.2,71,132,-12.9
+2021-02-06,202102060ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202102060ORL.html,29:19,.344,.344,.188,.000,6.4,3.8,5.2,28.4,3.5,5.4,11.1,26.5,83,122,-1.8
+2021-02-06,202102060ORL,ORL,James Ennis III,https://www.basketball-reference.com/boxscores/202102060ORL.html,29:19,.387,.167,.333,.667,9.6,15.2,12.2,4.6,0.0,0.0,11.4,12.9,96,131,-12.7
+2021-02-06,202102060ORL,ORL,Nikola Vučević,https://www.basketball-reference.com/boxscores/202102060ORL.html,24:20,.475,.441,.294,.118,7.7,27.5,16.8,8.5,2.1,6.5,14.4,37.0,91,118,-0.3
+2021-02-06,202102060ORL,ORL,Frank Mason III,https://www.basketball-reference.com/boxscores/202102060ORL.html,26:13,.460,.400,.100,.200,3.6,12.8,7.8,24.7,0.0,0.0,0.0,17.9,117,132,-4.6
+2021-02-06,202102060ORL,ORL,Chuma Okeke,https://www.basketball-reference.com/boxscores/202102060ORL.html,22:03,.200,.200,.400,.000,4.3,20.3,11.6,18.8,2.3,7.1,16.7,11.7,65,119,-4.1
+2021-02-06,202102060ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202102060ORL.html,20:07,.468,.423,.385,.154,0.0,11.1,5.1,9.5,0.0,0.0,17.8,36.2,83,132,-12.3
+2021-02-06,202102060ORL,ORL,Khem Birch,https://www.basketball-reference.com/boxscores/202102060ORL.html,15:58,.000,.000,.000,.000,11.8,21.0,16.0,8.1,0.0,4.9,50.0,5.4,60,126,-10.4
+2021-02-06,202102060ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202102060ORL.html,12:00,.875,.875,.125,.000,23.5,37.2,29.8,44.4,0.0,19.7,0.0,28.8,178,110,35.2

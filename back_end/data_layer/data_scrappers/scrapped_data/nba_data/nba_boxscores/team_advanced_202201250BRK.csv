@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2022-01-25,202201250BRK,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202201250BRK.html,34:27,.739,.714,.381,.143,0.0,21.2,11.2,37.2,4.4,4.6,0.0,30.7,151,93,23.7
+2022-01-25,202201250BRK,LAL,Russell Westbrook,https://www.basketball-reference.com/boxscores/202201250BRK.html,32:44,.519,.500,.143,.071,0.0,19.1,10.1,18.5,1.6,0.0,25.7,28.1,82,102,-10.1
+2022-01-25,202201250BRK,LAL,Stanley Johnson,https://www.basketball-reference.com/boxscores/202201250BRK.html,28:50,.400,.400,.200,.000,0.0,7.2,3.8,4.3,1.8,0.0,0.0,8.2,87,108,-8.3
+2022-01-25,202201250BRK,LAL,Anthony Davis,https://www.basketball-reference.com/boxscores/202201250BRK.html,24:47,.450,.375,.125,.250,4.7,4.2,4.5,10.7,2.1,12.7,10.1,18.9,96,103,-3.1
+2022-01-25,202201250BRK,LAL,Avery Bradley,https://www.basketball-reference.com/boxscores/202201250BRK.html,23:51,.563,.563,.375,.000,0.0,8.8,4.6,5.9,4.3,0.0,0.0,15.9,112,101,-1.3
+2022-01-25,202201250BRK,LAL,Malik Monk,https://www.basketball-reference.com/boxscores/202201250BRK.html,27:48,.793,.769,.923,.154,0.0,18.8,9.9,11.5,1.8,0.0,0.0,23.6,152,102,12.8
+2022-01-25,202201250BRK,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202201250BRK.html,24:47,.333,.333,.667,.000,18.9,4.2,11.1,29.0,2.1,3.2,0.0,5.7,156,108,5.7
+2022-01-25,202201250BRK,LAL,Carmelo Anthony,https://www.basketball-reference.com/boxscores/202201250BRK.html,22:40,.597,.550,.700,.200,0.0,13.8,7.3,6.3,4.5,3.5,15.5,26.9,98,97,2.0
+2022-01-25,202201250BRK,LAL,Talen Horton-Tucker,https://www.basketball-reference.com/boxscores/202201250BRK.html,18:30,.000,.000,.333,.000,0.0,5.6,3.0,0.0,0.0,4.3,0.0,15.4,0,111,-21.4
+2022-01-25,202201250BRK,LAL,Kent Bazemore,https://www.basketball-reference.com/boxscores/202201250BRK.html,1:36,.000,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.6,0,116,-36.6
+2022-01-25,202201250BRK,BRK,James Harden,https://www.basketball-reference.com/boxscores/202201250BRK.html,38:22,.590,.500,.292,.375,8.2,27.5,17.3,59.2,2.7,2.5,17.7,36.7,120,106,16.7
+2022-01-25,202201250BRK,BRK,Kessler Edwards,https://www.basketball-reference.com/boxscores/202201250BRK.html,32:43,.363,.333,.500,.333,0.0,21.5,10.1,4.3,1.6,2.9,12.7,10.0,79,109,-4.7
+2022-01-25,202201250BRK,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202201250BRK.html,30:22,.536,.536,.643,.000,0.0,0.0,0.0,11.5,1.7,0.0,6.7,20.5,117,114,0.3
+2022-01-25,202201250BRK,BRK,DeAndre' Bembry,https://www.basketball-reference.com/boxscores/202201250BRK.html,30:02,.676,.688,.250,.250,10.4,3.9,7.3,5.5,0.0,0.0,18.4,15.0,119,118,-1.3
+2022-01-25,202201250BRK,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202201250BRK.html,10:58,.500,.500,.000,.000,28.5,53.4,40.2,0.0,0.0,0.0,20.0,18.9,101,111,-4.5
+2022-01-25,202201250BRK,BRK,James Johnson,https://www.basketball-reference.com/boxscores/202201250BRK.html,24:22,.515,.583,.167,.667,17.1,0.0,9.1,12.7,0.0,0.0,20.5,16.6,101,118,-2.5
+2022-01-25,202201250BRK,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202201250BRK.html,21:21,.333,.333,.000,.000,4.9,21.9,12.9,13.8,0.0,0.0,14.3,13.6,84,115,-7.8
+2022-01-25,202201250BRK,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202201250BRK.html,19:46,.483,.375,.125,.375,10.6,23.7,16.7,0.0,2.6,0.0,17.7,23.8,96,109,-4.3
+2022-01-25,202201250BRK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202201250BRK.html,17:16,.510,.600,.000,.400,12.1,27.1,19.2,0.0,0.0,0.0,14.5,16.5,94,115,-4.8
+2022-01-25,202201250BRK,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202201250BRK.html,9:23,.000,.000,.600,.000,0.0,37.4,17.6,13.8,0.0,0.0,0.0,22.1,16,113,-20.8
+2022-01-25,202201250BRK,BRK,Jevon Carter,https://www.basketball-reference.com/boxscores/202201250BRK.html,5:25,.000,.000,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,23.0,0,118,-33.8

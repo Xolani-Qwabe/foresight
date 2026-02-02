@@ -1,0 +1,23 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-01-13,202101130DET,MIL,Jrue Holiday,https://www.basketball-reference.com/boxscores/202101130DET.html,36:51,.733,.731,.385,.231,3.0,12.8,8.2,21.3,4.0,2.3,6.5,19.0,145,100,8.9
+2021-01-13,202101130DET,MIL,Giannis Antetokounmpo,https://www.basketball-reference.com/boxscores/202101130DET.html,33:28,.567,.533,.333,.667,6.5,22.5,15.1,46.3,2.9,7.5,20.5,33.3,113,95,9.7
+2021-01-13,202101130DET,MIL,Khris Middleton,https://www.basketball-reference.com/boxscores/202101130DET.html,31:19,.482,.458,.417,.083,3.5,3.0,3.2,27.6,1.6,2.7,13.9,21.0,107,109,-4.3
+2021-01-13,202101130DET,MIL,Brook Lopez,https://www.basketball-reference.com/boxscores/202101130DET.html,29:30,.563,.563,.875,.000,3.7,31.9,18.8,4.5,0.0,11.4,20.0,15.5,92,96,0.0
+2021-01-13,202101130DET,MIL,Donte DiVincenzo,https://www.basketball-reference.com/boxscores/202101130DET.html,25:36,.389,.389,.556,.000,4.3,33.1,19.7,15.9,0.0,0.0,0.0,16.0,104,102,-5.2
+2021-01-13,202101130DET,MIL,Bobby Portis,https://www.basketball-reference.com/boxscores/202101130DET.html,22:52,.611,.611,.444,.000,0.0,20.6,11.0,0.0,4.3,0.0,0.0,18.0,115,97,-2.0
+2021-01-13,202101130DET,MIL,D.J. Augustin,https://www.basketball-reference.com/boxscores/202101130DET.html,20:51,.750,.750,.750,.000,5.2,0.0,2.4,25.3,0.0,0.0,42.9,15.3,104,116,-4.3
+2021-01-13,202101130DET,MIL,Bryn Forbes,https://www.basketball-reference.com/boxscores/202101130DET.html,19:38,.813,.813,.500,.000,0.0,0.0,0.0,8.5,0.0,0.0,11.1,20.9,127,116,2.2
+2021-01-13,202101130DET,MIL,Pat Connaughton,https://www.basketball-reference.com/boxscores/202101130DET.html,15:43,.643,.643,.714,.000,20.8,0.0,9.6,9.6,3.1,0.0,0.0,20.3,144,108,5.6
+2021-01-13,202101130DET,MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/boxscores/202101130DET.html,4:12,,,,,0.0,0.0,0.0,0.0,11.7,0.0,,0.0,0,90,5.1
+2021-01-13,202101130DET,DET,Jerami Grant,https://www.basketball-reference.com/boxscores/202101130DET.html,35:22,.508,.447,.316,.316,0.0,12.3,5.7,5.1,2.8,3.2,12.2,28.4,93,110,-0.7
+2021-01-13,202101130DET,DET,Delon Wright,https://www.basketball-reference.com/boxscores/202101130DET.html,32:24,.150,.150,.300,.000,5.8,20.2,12.5,30.0,1.5,3.5,0.0,12.6,80,111,-2.7
+2021-01-13,202101130DET,DET,Blake Griffin,https://www.basketball-reference.com/boxscores/202101130DET.html,32:08,.607,.611,.667,.222,0.0,23.8,11.0,29.9,1.5,0.0,28.8,17.6,97,112,1.2
+2021-01-13,202101130DET,DET,Mason Plumlee,https://www.basketball-reference.com/boxscores/202101130DET.html,21:46,.295,.273,.091,.182,25.9,35.1,30.2,37.5,4.5,0.0,14.4,26.0,89,102,2.1
+2021-01-13,202101130DET,DET,Wayne Ellington,https://www.basketball-reference.com/boxscores/202101130DET.html,14:24,.417,.417,.667,.000,6.5,0.0,3.5,11.4,0.0,0.0,14.3,19.8,84,123,-7.7
+2021-01-13,202101130DET,DET,Josh Jackson,https://www.basketball-reference.com/boxscores/202101130DET.html,24:30,.619,.625,.375,.250,0.0,4.5,2.1,20.9,2.0,0.0,25.3,19.8,95,116,-0.3
+2021-01-13,202101130DET,DET,Saddiq Bey,https://www.basketball-reference.com/boxscores/202101130DET.html,19:36,.536,.500,.750,.375,0.0,11.1,5.2,0.0,0.0,0.0,17.7,23.6,86,120,-6.3
+2021-01-13,202101130DET,DET,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202101130DET.html,18:00,.804,.778,.444,.556,0.0,6.1,2.8,0.0,0.0,6.3,0.0,25.4,158,117,16.7
+2021-01-13,202101130DET,DET,Isaiah Stewart,https://www.basketball-reference.com/boxscores/202101130DET.html,17:10,.571,.571,.143,.286,21.9,19.1,20.6,11.3,0.0,0.0,0.0,18.7,134,117,3.5
+2021-01-13,202101130DET,DET,Saben Lee,https://www.basketball-reference.com/boxscores/202101130DET.html,13:06,.500,.500,.000,.000,0.0,0.0,0.0,0.0,3.7,0.0,0.0,12.5,100,113,-4.0
+2021-01-13,202101130DET,DET,Jahlil Okafor,https://www.basketball-reference.com/boxscores/202101130DET.html,9:04,,,,,0.0,36.1,16.7,0.0,0.0,0.0,,0.0,0,113,-6.1
+2021-01-13,202101130DET,DET,Frank Jackson,https://www.basketball-reference.com/boxscores/202101130DET.html,2:30,.000,.000,1.000,.000,0.0,0.0,0.0,53.3,0.0,0.0,50.0,32.6,27,119,-41.1

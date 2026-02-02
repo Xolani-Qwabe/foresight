@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-27,202401270BOS,LAC,Kawhi Leonard,https://www.basketball-reference.com/boxscores/202401270BOS.html,29:01,.797,.767,.333,.200,3.4,16.3,10.5,11.6,3.4,5.5,10.9,25.9,141,92,19.6
+2024-01-27,202401270BOS,LAC,James Harden,https://www.basketball-reference.com/boxscores/202401270BOS.html,26:48,.330,.182,.545,.545,3.7,20.6,13.0,30.3,0.0,0.0,6.8,22.4,96,100,-5.2
+2024-01-27,202401270BOS,LAC,Terance Mann,https://www.basketball-reference.com/boxscores/202401270BOS.html,24:00,.543,.542,.250,.167,12.2,9.8,10.9,18.2,0.0,0.0,0.0,22.0,130,107,4.1
+2024-01-27,202401270BOS,LAC,Paul George,https://www.basketball-reference.com/boxscores/202401270BOS.html,22:29,.666,.591,.545,.364,4.4,17.5,11.6,6.2,4.4,0.0,7.3,25.1,133,92,11.2
+2024-01-27,202401270BOS,LAC,Mason Plumlee,https://www.basketball-reference.com/boxscores/202401270BOS.html,21:09,1.000,1.000,.000,.000,9.3,18.6,14.4,0.0,0.0,3.8,0.0,7.8,204,99,3.5
+2024-01-27,202401270BOS,LAC,Amir Coffey,https://www.basketball-reference.com/boxscores/202401270BOS.html,26:28,.506,.444,.444,.222,3.7,5.9,4.9,4.8,0.0,6.0,0.0,15.3,119,106,0.7
+2024-01-27,202401270BOS,LAC,Daniel Theis,https://www.basketball-reference.com/boxscores/202401270BOS.html,26:09,.953,1.000,.333,.111,3.7,18.1,11.7,12.1,1.9,6.1,0.0,14.8,187,94,17.2
+2024-01-27,202401270BOS,LAC,Norman Powell,https://www.basketball-reference.com/boxscores/202401270BOS.html,17:24,.286,.286,.286,.000,0.0,18.1,10.0,14.0,2.8,0.0,0.0,16.5,80,95,-6.3
+2024-01-27,202401270BOS,LAC,Russell Westbrook,https://www.basketball-reference.com/boxscores/202401270BOS.html,15:11,.222,.222,.222,.000,6.5,15.5,11.5,40.9,0.0,0.0,10.0,27.0,76,103,-7.1
+2024-01-27,202401270BOS,LAC,Brandon Boston Jr.,https://www.basketball-reference.com/boxscores/202401270BOS.html,10:27,.300,.300,.200,.000,18.7,0.0,8.4,0.0,0.0,7.7,0.0,19.6,92,108,-5.7
+2024-01-27,202401270BOS,LAC,Kobe Brown,https://www.basketball-reference.com/boxscores/202401270BOS.html,10:27,.000,.000,1.000,.000,18.7,7.5,12.5,10.2,0.0,0.0,33.3,11.8,57,108,-14.4
+2024-01-27,202401270BOS,LAC,Bones Hyland,https://www.basketball-reference.com/boxscores/202401270BOS.html,10:27,.125,.125,.750,.000,0.0,7.5,4.2,45.5,9.4,0.0,11.1,35.4,52,86,-11.8
+2024-01-27,202401270BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202401270BOS.html,30:02,.543,.500,.222,.167,7.9,26.1,16.0,6.9,0.0,2.6,13.4,30.2,102,115,2.6
+2024-01-27,202401270BOS,BOS,Jrue Holiday,https://www.basketball-reference.com/boxscores/202401270BOS.html,27:37,.295,.227,.636,.182,0.0,10.6,4.7,21.4,1.8,0.0,14.4,20.4,69,119,-8.1
+2024-01-27,202401270BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202401270BOS.html,24:29,.113,.000,.500,.250,0.0,8.0,3.6,10.9,0.0,9.5,10.1,16.4,36,118,-11.7
+2024-01-27,202401270BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202401270BOS.html,24:10,.288,.231,.154,.154,16.3,4.1,10.8,13.2,0.0,3.2,6.7,25.0,81,123,-7.8
+2024-01-27,202401270BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202401270BOS.html,19:13,.000,.000,.800,.000,0.0,10.2,4.5,6.9,0.0,0.0,16.7,12.7,10,123,-18.6
+2024-01-27,202401270BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202401270BOS.html,21:01,.711,.688,.875,.125,0.0,18.6,8.3,17.0,0.0,0.0,0.0,16.3,152,120,7.5
+2024-01-27,202401270BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202401270BOS.html,19:55,.600,.600,.800,.000,0.0,14.8,6.6,7.7,0.0,3.9,0.0,10.2,131,119,1.7
+2024-01-27,202401270BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202401270BOS.html,17:34,.527,.500,.000,.100,17.9,5.6,12.4,0.0,0.0,4.4,0.0,24.2,122,122,1.4
+2024-01-27,202401270BOS,BOS,Oshae Brissett,https://www.basketball-reference.com/boxscores/202401270BOS.html,16:13,.425,.400,.200,.400,4.9,24.2,13.5,19.7,0.0,0.0,14.5,17.3,91,117,-2.6
+2024-01-27,202401270BOS,BOS,Neemias Queta,https://www.basketball-reference.com/boxscores/202401270BOS.html,12:14,1.000,1.000,.000,.000,12.9,24.0,17.8,19.3,0.0,12.7,0.0,13.3,206,110,20.9
+2024-01-27,202401270BOS,BOS,Dalano Banton,https://www.basketball-reference.com/boxscores/202401270BOS.html,12:00,.250,.250,.500,.000,0.0,0.0,0.0,37.5,0.0,0.0,20.0,16.9,68,127,-7.7
+2024-01-27,202401270BOS,BOS,Svi Mykhailiuk,https://www.basketball-reference.com/boxscores/202401270BOS.html,7:46,.600,.600,1.000,.000,0.0,12.6,5.6,26.1,6.3,0.0,0.0,26.2,131,108,20.9
+2024-01-27,202401270BOS,BOS,Lamar Stevens,https://www.basketball-reference.com/boxscores/202401270BOS.html,7:46,.752,.750,.000,.750,30.4,25.2,28.1,35.4,0.0,0.0,15.8,33.1,136,117,19.8

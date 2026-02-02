@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus
+2021-04-15,202104150CLE,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202104150CLE.html,34.58,12,25,.480,4,13,.308,5,5,1.000,0,4,4,5,0,2,4,3,33,21.2,+5
+2021-04-15,202104150CLE,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202104150CLE.html,34.43,9,16,.563,5,8,.625,0,0,,0,6,6,6,0,0,1,4,23,18.8,+20
+2021-04-15,202104150CLE,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202104150CLE.html,32.3,2,8,.250,1,4,.250,0,0,,0,10,10,8,3,2,6,2,5,6.4,-1
+2021-04-15,202104150CLE,GSW,Kevon Looney,https://www.basketball-reference.com/boxscores/202104150CLE.html,27.97,4,7,.571,0,1,.000,0,0,,4,6,10,2,0,0,1,3,8,8.5,+24
+2021-04-15,202104150CLE,GSW,Kent Bazemore,https://www.basketball-reference.com/boxscores/202104150CLE.html,23.88,2,4,.500,1,2,.500,0,0,,1,3,4,3,0,0,2,3,5,3.5,+2
+2021-04-15,202104150CLE,GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/boxscores/202104150CLE.html,30.53,8,9,.889,3,4,.750,1,2,.500,2,5,7,3,1,1,1,0,20,22.2,+21
+2021-04-15,202104150CLE,GSW,Jordan Poole,https://www.basketball-reference.com/boxscores/202104150CLE.html,23.3,5,12,.417,2,8,.250,2,3,.667,0,0,0,4,3,0,0,3,14,11.8,+21
+2021-04-15,202104150CLE,GSW,Damion Lee,https://www.basketball-reference.com/boxscores/202104150CLE.html,23.13,5,8,.625,1,4,.250,0,0,,1,4,5,1,1,0,0,4,11,9.4,+16
+2021-04-15,202104150CLE,GSW,Mychal Mulder,https://www.basketball-reference.com/boxscores/202104150CLE.html,5.97,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-9
+2021-04-15,202104150CLE,GSW,Nico Mannion,https://www.basketball-reference.com/boxscores/202104150CLE.html,1.3,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-3
+2021-04-15,202104150CLE,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202104150CLE.html,1.3,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-0.8,-3
+2021-04-15,202104150CLE,GSW,Alen Smailagić,https://www.basketball-reference.com/boxscores/202104150CLE.html,1.3,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-3
+2021-04-15,202104150CLE,CLE,Darius Garland,https://www.basketball-reference.com/boxscores/202104150CLE.html,34.77,7,20,.350,2,7,.286,4,5,.800,1,3,4,7,1,0,1,5,20,12.9,-2
+2021-04-15,202104150CLE,CLE,Jarrett Allen,https://www.basketball-reference.com/boxscores/202104150CLE.html,34.73,6,7,.857,0,0,,5,6,.833,2,12,14,1,2,0,5,4,17,15.2,-1
+2021-04-15,202104150CLE,CLE,Collin Sexton,https://www.basketball-reference.com/boxscores/202104150CLE.html,34.33,10,19,.526,3,5,.600,7,10,.700,2,2,4,2,0,0,0,4,30,21.3,-29
+2021-04-15,202104150CLE,CLE,Isaac Okoro,https://www.basketball-reference.com/boxscores/202104150CLE.html,33.6,3,8,.375,0,2,.000,0,0,,1,0,1,2,3,0,1,2,6,4.9,+3
+2021-04-15,202104150CLE,CLE,Kevin Love,https://www.basketball-reference.com/boxscores/202104150CLE.html,21.78,2,10,.200,1,7,.143,0,0,,0,6,6,2,1,0,1,0,5,2.0,-10
+2021-04-15,202104150CLE,CLE,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202104150CLE.html,23.75,1,3,.333,1,2,.500,0,0,,1,4,5,1,2,0,2,1,3,3.5,-7
+2021-04-15,202104150CLE,CLE,Taurean Prince,https://www.basketball-reference.com/boxscores/202104150CLE.html,19.42,5,10,.500,2,4,.500,0,0,,0,2,2,1,2,0,1,1,12,8.9,-18
+2021-04-15,202104150CLE,CLE,Dean Wade,https://www.basketball-reference.com/boxscores/202104150CLE.html,16.88,1,3,.333,1,3,.333,0,0,,0,0,0,1,0,2,0,1,3,3.0,-17
+2021-04-15,202104150CLE,CLE,Matthew Dellavedova,https://www.basketball-reference.com/boxscores/202104150CLE.html,13.23,0,1,.000,0,1,.000,2,2,1.000,1,0,1,3,0,0,0,1,2,3.7,-16
+2021-04-15,202104150CLE,CLE,Isaiah Hartenstein,https://www.basketball-reference.com/boxscores/202104150CLE.html,3.6,0,0,,0,0,,1,2,.500,0,2,2,0,0,0,1,1,1,-0.2,-2
+2021-04-15,202104150CLE,CLE,Lamar Stevens,https://www.basketball-reference.com/boxscores/202104150CLE.html,1.3,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,+3
+2021-04-15,202104150CLE,CLE,Mfiondu Kabengele,https://www.basketball-reference.com/boxscores/202104150CLE.html,1.3,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3
+2021-04-15,202104150CLE,CLE,Brodric Thomas,https://www.basketball-reference.com/boxscores/202104150CLE.html,1.3,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,+3

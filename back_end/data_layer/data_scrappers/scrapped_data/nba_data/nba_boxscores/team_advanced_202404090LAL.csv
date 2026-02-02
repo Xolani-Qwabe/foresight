@@ -1,0 +1,28 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-04-09,202404090LAL,GSW,Klay Thompson,https://www.basketball-reference.com/boxscores/202404090LAL.html,33:00,.800,.781,.625,.125,0.0,0.0,0.0,13.4,1.5,2.4,10.6,26.3,133,123,3.2
+2024-04-09,202404090LAL,GSW,Stephen Curry,https://www.basketball-reference.com/boxscores/202404090LAL.html,32:19,1.069,1.111,.667,.444,0.0,21.7,12.7,32.5,1.5,4.9,8.5,16.8,193,116,17.7
+2024-04-09,202404090LAL,GSW,Draymond Green,https://www.basketball-reference.com/boxscores/202404090LAL.html,32:10,.952,1.071,1.000,.286,0.0,18.7,10.9,37.7,0.0,2.4,33.7,17.0,138,122,8.4
+2024-04-09,202404090LAL,GSW,Andrew Wiggins,https://www.basketball-reference.com/boxscores/202404090LAL.html,28:32,.708,.708,.417,.000,4.9,10.5,8.2,0.0,0.0,8.3,0.0,19.4,130,119,0.1
+2024-04-09,202404090LAL,GSW,Trayce Jackson-Davis,https://www.basketball-reference.com/boxscores/202404090LAL.html,24:44,.486,.400,.000,1.000,11.4,20.2,16.6,0.0,0.0,9.5,12.2,15.3,104,116,-7.9
+2024-04-09,202404090LAL,GSW,Chris Paul,https://www.basketball-reference.com/boxscores/202404090LAL.html,24:57,.550,.550,.400,.000,0.0,24.0,14.1,46.3,0.0,0.0,23.1,24.0,119,122,-7.2
+2024-04-09,202404090LAL,GSW,Jonathan Kuminga,https://www.basketball-reference.com/boxscores/202404090LAL.html,21:25,.410,.313,.375,.500,0.0,28.0,16.4,15.8,2.2,0.0,0.0,21.0,105,116,-9.0
+2024-04-09,202404090LAL,GSW,Brandin Podziemski,https://www.basketball-reference.com/boxscores/202404090LAL.html,20:21,1.083,1.083,.500,.000,6.9,9.8,8.6,13.4,0.0,0.0,14.3,15.8,170,126,8.0
+2024-04-09,202404090LAL,GSW,Gary Payton II,https://www.basketball-reference.com/boxscores/202404090LAL.html,13:37,.654,.667,.500,.333,0.0,7.3,4.3,9.7,0.0,5.8,12.7,26.6,107,122,-4.7
+2024-04-09,202404090LAL,GSW,Usman Garuba,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,,,,,0.0,0.0,0.0,0.0,0.0,44.1,100.0,25.8,0,93,-10.2
+2024-04-09,202404090LAL,GSW,Moses Moody,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,,,,,0.0,56.1,32.8,57.3,0.0,0.0,100.0,25.8,68,114,-7.6
+2024-04-09,202404090LAL,GSW,Lester Quiñones,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,1.136,,,,0.0,56.1,32.8,0.0,0.0,0.0,0.0,22.7,250,114,15.3
+2024-04-09,202404090LAL,GSW,Gui Santos,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.8,200,129,7.7
+2024-04-09,202404090LAL,GSW,Pat Spencer,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,128,-18.2
+2024-04-09,202404090LAL,LAL,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202404090LAL.html,37:01,.513,.364,.636,.545,0.0,7.6,3.2,22.6,0.0,0.0,0.0,15.6,127,140,-5.3
+2024-04-09,202404090LAL,LAL,LeBron James,https://www.basketball-reference.com/boxscores/202404090LAL.html,35:32,.682,.659,.136,.227,2.8,23.8,11.5,59.2,2.7,0.0,14.2,33.5,127,132,12.2
+2024-04-09,202404090LAL,LAL,Austin Reaves,https://www.basketball-reference.com/boxscores/202404090LAL.html,34:54,.674,.667,.467,.200,8.6,16.2,11.7,25.0,0.0,0.0,0.0,19.8,148,139,4.7
+2024-04-09,202404090LAL,LAL,Rui Hachimura,https://www.basketball-reference.com/boxscores/202404090LAL.html,30:52,.439,.381,.333,.190,6.5,41.2,20.9,9.4,1.6,8.0,0.0,31.2,100,128,-1.8
+2024-04-09,202404090LAL,LAL,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202404090LAL.html,28:19,.799,.833,.000,.333,10.6,15.0,12.4,4.8,1.7,4.3,22.5,13.3,127,131,-3.9
+2024-04-09,202404090LAL,LAL,Spencer Dinwiddie,https://www.basketball-reference.com/boxscores/202404090LAL.html,22:23,.806,.786,.714,.143,0.0,25.2,10.5,0.0,0.0,0.0,0.0,14.0,150,139,0.1
+2024-04-09,202404090LAL,LAL,Taurean Prince,https://www.basketball-reference.com/boxscores/202404090LAL.html,18:48,.167,.167,.500,.000,0.0,7.5,3.1,0.0,2.5,0.0,0.0,13.5,37,134,-17.0
+2024-04-09,202404090LAL,LAL,Gabe Vincent,https://www.basketball-reference.com/boxscores/202404090LAL.html,15:29,.000,.000,1.000,.000,0.0,9.1,3.8,7.0,6.2,0.0,25.0,10.9,16,124,-12.3
+2024-04-09,202404090LAL,LAL,Cam Reddish,https://www.basketball-reference.com/boxscores/202404090LAL.html,9:34,.000,.000,.000,.000,0.0,0.0,0.0,11.4,0.0,0.0,0.0,8.8,31,140,-17.2
+2024-04-09,202404090LAL,LAL,Colin Castleton,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,.500,.500,.000,.000,56.1,0.0,32.8,0.0,26.9,0.0,0.0,47.4,121,74,26.2
+2024-04-09,202404090LAL,LAL,Max Christie,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,1.000,1.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.7,200,141,12.6
+2024-04-09,202404090LAL,LAL,Maxwell Lewis,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,.758,,,,0.0,0.0,0.0,61.2,0.0,0.0,0.0,31.3,176,136,14.4
+2024-04-09,202404090LAL,LAL,Skylar Mays,https://www.basketball-reference.com/boxscores/202404090LAL.html,1:47,,,,,0.0,0.0,0.0,61.2,0.0,0.0,,0.0,227,141,4.8

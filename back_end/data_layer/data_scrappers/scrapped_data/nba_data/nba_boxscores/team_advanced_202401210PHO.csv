@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2024-01-21,202401210PHO,IND,Buddy Hield,https://www.basketball-reference.com/boxscores/202401210PHO.html,31:24,.827,.850,.800,.200,2.9,14.3,7.3,14.4,1.6,0.0,0.0,14.4,166,121,9.7
+2024-01-21,202401210PHO,IND,Pascal Siakam,https://www.basketball-reference.com/boxscores/202401210PHO.html,30:06,.504,.464,.214,.143,6.1,10.0,7.6,35.5,0.0,0.0,16.8,24.8,106,125,-3.3
+2024-01-21,202401210PHO,IND,Aaron Nesmith,https://www.basketball-reference.com/boxscores/202401210PHO.html,25:49,.361,.357,.714,.429,3.6,11.6,6.6,5.0,1.9,0.0,0.0,13.4,90,120,-9.0
+2024-01-21,202401210PHO,IND,Myles Turner,https://www.basketball-reference.com/boxscores/202401210PHO.html,18:34,.505,.500,.182,.182,5.0,8.1,6.2,9.2,0.0,9.1,7.8,28.9,99,117,-1.4
+2024-01-21,202401210PHO,IND,T.J. McConnell,https://www.basketball-reference.com/boxscores/202401210PHO.html,11:50,.250,.250,.000,.000,0.0,12.7,4.8,37.0,8.2,0.0,11.1,31.7,67,107,-5.4
+2024-01-21,202401210PHO,IND,Obi Toppin,https://www.basketball-reference.com/boxscores/202401210PHO.html,25:55,.505,.500,.167,.167,7.1,23.2,13.2,6.2,0.0,0.0,0.0,20.7,113,123,-3.9
+2024-01-21,202401210PHO,IND,Andrew Nembhard,https://www.basketball-reference.com/boxscores/202401210PHO.html,25:26,.418,.333,.000,.444,0.0,0.0,0.0,32.0,1.9,0.0,27.1,24.2,82,122,-11.0
+2024-01-21,202401210PHO,IND,Ben Sheppard,https://www.basketball-reference.com/boxscores/202401210PHO.html,19:43,.410,.250,.250,.500,9.4,15.2,11.6,25.3,4.9,0.0,0.0,10.3,135,113,3.5
+2024-01-21,202401210PHO,IND,Jalen Smith,https://www.basketball-reference.com/boxscores/202401210PHO.html,18:47,1.109,1.300,.600,.800,9.8,16.0,12.2,9.1,2.6,9.0,12.9,17.2,168,111,21.2
+2024-01-21,202401210PHO,IND,Jarace Walker,https://www.basketball-reference.com/boxscores/202401210PHO.html,18:24,.833,.833,.500,.000,15.1,48.9,28.0,8.5,2.6,0.0,14.3,15.9,144,115,11.1
+2024-01-21,202401210PHO,IND,Bennedict Mathurin,https://www.basketball-reference.com/boxscores/202401210PHO.html,14:02,.225,.188,.500,.250,0.0,32.1,12.2,0.0,0.0,0.0,0.0,26.4,53,123,-18.4
+2024-01-21,202401210PHO,PHO,Kevin Durant,https://www.basketball-reference.com/boxscores/202401210PHO.html,40:18,.800,.800,.280,.000,3.7,18.3,12.8,9.3,0.0,5.7,7.4,30.4,143,110,12.4
+2024-01-21,202401210PHO,PHO,Bradley Beal,https://www.basketball-reference.com/boxscores/202401210PHO.html,38:07,.722,.688,.063,.188,3.9,7.3,6.0,11.4,1.3,0.0,10.4,23.0,134,116,0.9
+2024-01-21,202401210PHO,PHO,Devin Booker,https://www.basketball-reference.com/boxscores/202401210PHO.html,35:48,.465,.396,.292,.375,4.2,12.9,9.6,30.7,2.7,0.0,6.7,37.9,106,111,-1.3
+2024-01-21,202401210PHO,PHO,Grayson Allen,https://www.basketball-reference.com/boxscores/202401210PHO.html,32:15,.929,.929,.571,.000,4.7,2.9,3.5,7.5,1.5,0.0,0.0,9.8,185,117,6.4
+2024-01-21,202401210PHO,PHO,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202401210PHO.html,18:54,1.000,1.000,.000,.000,0.0,63.5,39.3,24.2,0.0,4.0,75.0,19.2,64,93,-4.5
+2024-01-21,202401210PHO,PHO,Eric Gordon,https://www.basketball-reference.com/boxscores/202401210PHO.html,29:45,.291,.167,.833,.333,0.0,9.3,5.8,7.1,0.0,2.6,22.5,13.5,61,116,-10.9
+2024-01-21,202401210PHO,PHO,Josh Okogie,https://www.basketball-reference.com/boxscores/202401210PHO.html,14:56,.000,.000,1.000,.000,10.0,6.2,7.7,13.7,3.3,0.0,0.0,3.0,122,112,2.7
+2024-01-21,202401210PHO,PHO,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202401210PHO.html,12:19,,,,,12.2,7.5,9.3,8.3,4.0,0.0,100.0,3.7,91,110,0.3
+2024-01-21,202401210PHO,PHO,Drew Eubanks,https://www.basketball-reference.com/boxscores/202401210PHO.html,10:34,.798,1.000,.000,2.000,0.0,17.5,10.8,0.0,0.0,0.0,34.7,12.4,94,114,-8.2
+2024-01-21,202401210PHO,PHO,Chimezie Metu,https://www.basketball-reference.com/boxscores/202401210PHO.html,7:04,1.136,,,,0.0,13.1,8.1,14.5,6.9,0.0,0.0,5.6,241,100,10.4

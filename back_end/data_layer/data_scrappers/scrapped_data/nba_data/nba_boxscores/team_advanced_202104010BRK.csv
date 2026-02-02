@@ -1,0 +1,27 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2021-04-01,202104010BRK,CHO,Gordon Hayward,https://www.basketball-reference.com/boxscores/202104010BRK.html,28:48,.547,.500,.364,.182,6.2,7.4,6.7,7.7,0.0,0.0,0.0,18.8,118,129,-4.6
+2021-04-01,202104010BRK,CHO,Terry Rozier,https://www.basketball-reference.com/boxscores/202104010BRK.html,26:30,.470,.455,.545,.364,0.0,20.1,9.1,23.9,0.0,0.0,19.0,27.1,81,125,-9.6
+2021-04-01,202104010BRK,CHO,P.J. Washington,https://www.basketball-reference.com/boxscores/202104010BRK.html,26:07,.350,.318,.364,.091,0.0,32.7,14.9,7.5,2.0,8.0,14.9,23.4,63,111,-9.4
+2021-04-01,202104010BRK,CHO,Devonte' Graham,https://www.basketball-reference.com/boxscores/202104010BRK.html,20:31,.580,.444,.667,.556,4.3,20.8,11.8,0.0,2.5,5.1,8.2,27.1,111,115,4.3
+2021-04-01,202104010BRK,CHO,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202104010BRK.html,10:31,.225,.250,.000,.250,16.9,10.1,13.8,17.9,0.0,0.0,31.1,27.9,53,128,-23.0
+2021-04-01,202104010BRK,CHO,Miles Bridges,https://www.basketball-reference.com/boxscores/202104010BRK.html,29:39,.506,.444,.556,.222,9.0,7.2,8.2,19.3,1.7,7.0,0.0,15.2,124,121,3.1
+2021-04-01,202104010BRK,CHO,Malik Monk,https://www.basketball-reference.com/boxscores/202104010BRK.html,21:42,.500,.500,.455,.000,4.1,9.8,6.7,41.8,2.4,0.0,15.4,27.3,95,122,0.4
+2021-04-01,202104010BRK,CHO,Cody Zeller,https://www.basketball-reference.com/boxscores/202104010BRK.html,20:36,.773,.667,.333,.667,4.3,20.7,11.8,18.4,5.0,0.0,0.0,8.6,174,112,5.0
+2021-04-01,202104010BRK,CHO,Cody Martin,https://www.basketball-reference.com/boxscores/202104010BRK.html,18:22,.214,.214,.429,.000,4.8,5.8,5.3,28.6,8.5,0.0,0.0,17.4,73,109,-0.8
+2021-04-01,202104010BRK,CHO,Brad Wanamaker,https://www.basketball-reference.com/boxscores/202104010BRK.html,14:18,.765,.700,.400,.400,0.0,0.0,0.0,50.5,0.0,0.0,14.5,21.9,137,132,1.8
+2021-04-01,202104010BRK,CHO,Caleb Martin,https://www.basketball-reference.com/boxscores/202104010BRK.html,11:44,.000,.000,.333,.000,0.0,27.3,12.4,13.6,4.4,0.0,0.0,11.6,19,111,-11.2
+2021-04-01,202104010BRK,CHO,Jalen McDaniels,https://www.basketball-reference.com/boxscores/202104010BRK.html,4:52,.500,.500,.500,.000,0.0,0.0,0.0,0.0,10.6,0.0,0.0,18.7,94,106,2.9
+2021-04-01,202104010BRK,CHO,Nick Richards,https://www.basketball-reference.com/boxscores/202104010BRK.html,4:15,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-12.5
+2021-04-01,202104010BRK,CHO,Nate Darling,https://www.basketball-reference.com/boxscores/202104010BRK.html,2:05,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,132,-13.3
+2021-04-01,202104010BRK,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202104010BRK.html,33:31,.441,.441,.235,.000,9.5,21.2,15.9,33.7,1.5,6.0,19.0,27.9,100,92,-0.7
+2021-04-01,202104010BRK,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202104010BRK.html,33:09,.450,.450,.900,.000,3.2,8.0,5.9,21.9,0.0,0.0,0.0,13.4,129,105,-1.7
+2021-04-01,202104010BRK,BRK,Jeff Green,https://www.basketball-reference.com/boxscores/202104010BRK.html,30:40,.618,.618,.706,.000,0.0,23.2,12.6,9.9,3.4,0.0,5.6,26.1,117,90,6.2
+2021-04-01,202104010BRK,BRK,LaMarcus Aldridge,https://www.basketball-reference.com/boxscores/202104010BRK.html,29:30,.506,.450,.100,.200,0.0,27.1,14.8,26.0,3.5,3.4,0.0,16.4,135,86,8.2
+2021-04-01,202104010BRK,BRK,Bruce Brown,https://www.basketball-reference.com/boxscores/202104010BRK.html,29:11,.700,.700,.000,.000,11.0,9.1,10.0,0.0,3.5,3.4,9.1,16.8,130,94,2.2
+2021-04-01,202104010BRK,BRK,Tyler Johnson,https://www.basketball-reference.com/boxscores/202104010BRK.html,21:43,1.071,1.071,1.000,.000,0.0,12.3,6.7,6.7,0.0,0.0,22.2,18.5,128,103,10.0
+2021-04-01,202104010BRK,BRK,Landry Shamet,https://www.basketball-reference.com/boxscores/202104010BRK.html,21:15,.850,.850,.700,.000,0.0,4.2,2.3,14.8,0.0,0.0,23.1,27.3,112,107,4.7
+2021-04-01,202104010BRK,BRK,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/boxscores/202104010BRK.html,15:06,.000,.000,1.000,.000,0.0,5.9,3.2,28.9,3.4,0.0,0.0,5.9,110,98,-1.6
+2021-04-01,202104010BRK,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202104010BRK.html,13:38,.521,.500,.000,1.000,31.3,19.6,24.9,26.1,0.0,0.0,41.0,15.9,117,100,-3.3
+2021-04-01,202104010BRK,BRK,Chris Chiozza,https://www.basketball-reference.com/boxscores/202104010BRK.html,4:15,.000,.000,1.000,.000,0.0,0.0,0.0,51.3,0.0,0.0,50.0,21.0,61,109,-18.1
+2021-04-01,202104010BRK,BRK,Alize Johnson,https://www.basketball-reference.com/boxscores/202104010BRK.html,4:01,1.000,1.000,.000,.000,26.6,88.5,60.4,0.0,0.0,0.0,0.0,11.1,216,69,13.4
+2021-04-01,202104010BRK,BRK,Reggie Perry,https://www.basketball-reference.com/boxscores/202104010BRK.html,4:01,.500,.500,.500,.000,26.6,0.0,12.1,0.0,0.0,24.9,20.0,55.4,85,92,-21.1

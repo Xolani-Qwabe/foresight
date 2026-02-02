@@ -1,0 +1,26 @@
+game_date,game_id,team,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-02-01,202102010OKC,HOU,P.J. Tucker,https://www.basketball-reference.com/boxscores/202102010OKC.html,26.95,2,4,.500,2,4,.500,0,0,1,4,5,2,2,0,1,2,6,7.5,+29,
+2021-02-01,202102010OKC,HOU,Christian Wood,https://www.basketball-reference.com/boxscores/202102010OKC.html,26.03,8,13,.615,2,3,.667,0,1,3,8,11,1,1,2,0,1,18,18.9,+16,.000
+2021-02-01,202102010OKC,HOU,Victor Oladipo,https://www.basketball-reference.com/boxscores/202102010OKC.html,24.75,6,16,.375,3,5,.600,0,0,0,3,3,7,0,1,2,3,15,9.5,+21,
+2021-02-01,202102010OKC,HOU,Jae'Sean Tate,https://www.basketball-reference.com/boxscores/202102010OKC.html,22.98,5,6,.833,1,2,.500,0,0,1,6,7,4,0,1,2,1,11,12.4,+25,
+2021-02-01,202102010OKC,HOU,John Wall,https://www.basketball-reference.com/boxscores/202102010OKC.html,21.7,7,12,.583,4,5,.800,0,0,1,5,6,5,2,1,3,1,18,17.4,+9,
+2021-02-01,202102010OKC,HOU,Danuel House Jr.,https://www.basketball-reference.com/boxscores/202102010OKC.html,25.85,4,8,.500,4,6,.667,1,1,0,4,4,1,1,1,0,0,13,12.6,+12,1.000
+2021-02-01,202102010OKC,HOU,Eric Gordon,https://www.basketball-reference.com/boxscores/202102010OKC.html,21.8,8,12,.667,5,9,.556,4,4,0,0,0,2,0,0,1,0,25,20.2,+18,1.000
+2021-02-01,202102010OKC,HOU,DeMarcus Cousins,https://www.basketball-reference.com/boxscores/202102010OKC.html,20.88,5,14,.357,5,9,.556,2,2,4,4,8,3,1,0,0,4,17,14.7,+19,1.000
+2021-02-01,202102010OKC,HOU,Sterling Brown,https://www.basketball-reference.com/boxscores/202102010OKC.html,18.2,0,4,.000,0,2,.000,0,0,0,0,0,1,1,0,1,3,0,-3.3,+7,
+2021-02-01,202102010OKC,HOU,Ben McLemore,https://www.basketball-reference.com/boxscores/202102010OKC.html,17.12,2,8,.250,1,5,.200,3,3,0,3,3,1,0,0,1,4,8,2.2,-7,1.000
+2021-02-01,202102010OKC,HOU,Mason Jones,https://www.basketball-reference.com/boxscores/202102010OKC.html,8.68,2,3,.667,1,1,1.000,0,0,0,3,3,3,0,0,0,1,5,6.3,-1,
+2021-02-01,202102010OKC,HOU,Rodions Kurucs,https://www.basketball-reference.com/boxscores/202102010OKC.html,5.05,0,2,.000,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,-1.4,+2,
+2021-02-01,202102010OKC,OKC,Darius Bazley,https://www.basketball-reference.com/boxscores/202102010OKC.html,30.13,6,13,.462,1,4,.250,2,4,1,5,6,1,0,0,2,1,15,8.0,-19,.500
+2021-02-01,202102010OKC,OKC,Shai Gilgeous-Alexander,https://www.basketball-reference.com/boxscores/202102010OKC.html,28.97,8,15,.533,2,5,.400,1,2,0,2,2,5,1,2,5,1,19,12.4,-31,.500
+2021-02-01,202102010OKC,OKC,Théo Maledon,https://www.basketball-reference.com/boxscores/202102010OKC.html,28.38,3,7,.429,1,4,.250,4,4,0,1,1,1,2,0,2,2,11,7.5,-11,1.000
+2021-02-01,202102010OKC,OKC,Al Horford,https://www.basketball-reference.com/boxscores/202102010OKC.html,25.3,5,13,.385,2,3,.667,0,0,2,5,7,3,2,1,1,1,12,11.2,-18,
+2021-02-01,202102010OKC,OKC,Luguentz Dort,https://www.basketball-reference.com/boxscores/202102010OKC.html,23.85,2,8,.250,1,4,.250,2,2,0,3,3,1,0,0,1,0,7,2.8,-19,1.000
+2021-02-01,202102010OKC,OKC,Kenrich Williams,https://www.basketball-reference.com/boxscores/202102010OKC.html,20.28,3,7,.429,1,3,.333,0,0,1,3,4,2,0,0,0,1,7,5.9,-12,
+2021-02-01,202102010OKC,OKC,Aleksej Pokusevski,https://www.basketball-reference.com/boxscores/202102010OKC.html,20.07,1,4,.250,0,2,.000,0,0,0,3,3,1,0,1,1,1,2,0.5,-9,
+2021-02-01,202102010OKC,OKC,Hamidou Diallo,https://www.basketball-reference.com/boxscores/202102010OKC.html,15.37,6,7,.857,1,2,.500,2,3,0,2,2,4,1,0,0,3,15,15.3,-14,.667
+2021-02-01,202102010OKC,OKC,Mike Muscala,https://www.basketball-reference.com/boxscores/202102010OKC.html,12.82,2,5,.400,2,2,1.000,0,0,3,2,5,0,0,0,1,0,6,5.0,-1,
+2021-02-01,202102010OKC,OKC,Isaiah Roby,https://www.basketball-reference.com/boxscores/202102010OKC.html,11.7,0,3,.000,0,0,,2,2,0,3,3,0,2,2,1,0,2,3.2,-12,1.000
+2021-02-01,202102010OKC,OKC,Justin Jackson,https://www.basketball-reference.com/boxscores/202102010OKC.html,10.52,3,6,.500,2,5,.400,2,2,0,2,2,1,0,0,0,1,10,7.9,0,1.000
+2021-02-01,202102010OKC,OKC,Josh Hall,https://www.basketball-reference.com/boxscores/202102010OKC.html,7.57,0,0,,0,0,,0,0,0,3,3,2,0,0,1,1,0,0.9,-2,
+2021-02-01,202102010OKC,OKC,Moses Brown,https://www.basketball-reference.com/boxscores/202102010OKC.html,5.05,0,1,.000,0,0,,0,0,1,3,4,0,0,2,1,1,0,0.9,-2,

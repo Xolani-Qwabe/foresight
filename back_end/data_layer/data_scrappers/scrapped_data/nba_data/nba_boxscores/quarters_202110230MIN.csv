@@ -1,0 +1,72 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,fg3_pct,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,ft_pct
+2021-10-23,202110230MIN,NOP,Q1,Brandon Ingram,https://www.basketball-reference.com/boxscores/202110230MIN.html,9.35,1,4,.250,1,1,1.000,0,0,0,1,1,0,1,0,0,1,3,1.5,+5,
+2021-10-23,202110230MIN,NOP,Q1,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202110230MIN.html,9.72,2,3,.667,0,0,,2,2,1,4,5,0,1,0,0,1,6,7.2,-9,1.000
+2021-10-23,202110230MIN,NOP,Q1,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202110230MIN.html,12.0,4,9,.444,2,4,.500,0,0,5,2,7,1,2,0,2,0,10,10.1,-1,
+2021-10-23,202110230MIN,NOP,Q1,Devonte' Graham,https://www.basketball-reference.com/boxscores/202110230MIN.html,9.72,1,4,.250,1,2,.500,0,0,0,2,2,2,0,0,1,0,3,1.6,-9,
+2021-10-23,202110230MIN,NOP,Q1,Herbert Jones,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.6,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0,0,0.0,+2,
+2021-10-23,202110230MIN,NOP,Q1,Trey Murphy III,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.93,1,1,1.000,1,1,1.000,0,0,0,1,1,0,0,0,0,0,3,3.0,+2,
+2021-10-23,202110230MIN,NOP,Q1,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202110230MIN.html,2.28,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,1,1,2,1.0,+8,
+2021-10-23,202110230MIN,NOP,Q1,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202110230MIN.html,2.28,0,1,.000,0,1,.000,0,0,0,0,0,2,0,0,0,0,0,0.7,+8,
+2021-10-23,202110230MIN,NOP,Q1,Naji Marshall,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.12,0,1,.000,0,1,.000,0,0,1,0,1,1,0,0,3,2,0,-3.1,-11,
+2021-10-23,202110230MIN,NOP,Q2,Brandon Ingram,https://www.basketball-reference.com/boxscores/202110230MIN.html,10.12,3,7,.429,1,3,.333,0,0,2,1,3,1,0,0,3,1,7,2.3,-7,
+2021-10-23,202110230MIN,NOP,Q2,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.13,1,2,.500,0,0,,0,0,1,3,4,0,1,0,1,1,2,2.2,-7,
+2021-10-23,202110230MIN,NOP,Q2,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202110230MIN.html,8.5,0,5,.000,0,3,.000,0,0,0,1,1,0,0,0,2,1,0,-5.6,-9,
+2021-10-23,202110230MIN,NOP,Q2,Devonte' Graham,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.13,0,3,.000,0,3,.000,2,2,0,0,0,0,0,0,0,0,2,-0.1,-7,1.000
+2021-10-23,202110230MIN,NOP,Q2,Herbert Jones,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.82,0,1,.000,0,0,,0,0,1,0,1,0,0,1,0,0,0,0.7,-11,
+2021-10-23,202110230MIN,NOP,Q2,Trey Murphy III,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.18,0,0,,0,0,,0,0,0,0,0,0,1,0,0,2,0,0.2,-1,
+2021-10-23,202110230MIN,NOP,Q2,Garrett Temple,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.75,1,1,1.000,1,1,1.000,0,0,1,2,3,0,0,1,0,1,3,4.3,-10,
+2021-10-23,202110230MIN,NOP,Q2,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.87,0,0,,0,0,,0,0,0,0,0,0,1,0,0,1,0,0.6,-5,
+2021-10-23,202110230MIN,NOP,Q2,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202110230MIN.html,3.5,0,1,.000,0,1,.000,0,0,0,0,0,0,0,0,3,0,0,-3.7,-3,
+2021-10-23,202110230MIN,NOP,Q3,Brandon Ingram,https://www.basketball-reference.com/boxscores/202110230MIN.html,10.52,4,7,.571,0,1,.000,0,1,0,0,0,1,0,0,2,1,8,2.6,+5,.000
+2021-10-23,202110230MIN,NOP,Q3,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202110230MIN.html,9.17,1,2,.500,0,0,,4,4,1,3,4,0,1,1,0,1,6,7.9,+11,1.000
+2021-10-23,202110230MIN,NOP,Q3,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202110230MIN.html,8.3,2,6,.333,0,2,.000,0,0,1,2,3,0,0,0,0,0,4,1.9,+13,
+2021-10-23,202110230MIN,NOP,Q3,Devonte' Graham,https://www.basketball-reference.com/boxscores/202110230MIN.html,8.3,1,4,.250,0,3,.000,2,3,0,0,0,0,2,0,2,1,4,0.8,+13,.667
+2021-10-23,202110230MIN,NOP,Q3,Herbert Jones,https://www.basketball-reference.com/boxscores/202110230MIN.html,8.48,0,0,,0,0,,0,0,4,2,6,1,0,0,2,0,0,2.1,+13,
+2021-10-23,202110230MIN,NOP,Q3,Trey Murphy III,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.18,1,4,.250,1,4,.250,0,0,0,3,3,0,0,0,0,0,3,1.5,+4,
+2021-10-23,202110230MIN,NOP,Q3,Garrett Temple,https://www.basketball-reference.com/boxscores/202110230MIN.html,3.52,0,0,,0,0,,0,0,1,0,1,0,0,1,1,0,0,0.4,-2,
+2021-10-23,202110230MIN,NOP,Q3,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202110230MIN.html,2.83,0,0,,0,0,,1,2,0,2,2,0,0,0,0,0,1,1.2,0,.500
+2021-10-23,202110230MIN,NOP,Q3,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202110230MIN.html,3.7,0,0,,0,0,,0,0,0,0,0,0,0,0,1,0,0,-1.0,-2,
+2021-10-23,202110230MIN,NOP,Q4,Brandon Ingram,https://www.basketball-reference.com/boxscores/202110230MIN.html,10.28,4,5,.800,1,2,.500,3,4,1,1,2,2,0,0,2,1,12,9.7,-1,.750
+2021-10-23,202110230MIN,NOP,Q4,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202110230MIN.html,9.88,2,3,.667,0,0,,2,2,0,4,4,2,0,0,0,2,6,6.5,-1,1.000
+2021-10-23,202110230MIN,NOP,Q4,Nickeil Alexander-Walker,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.73,0,4,.000,0,4,.000,0,0,0,3,3,1,0,0,1,0,0,-2.2,-8,
+2021-10-23,202110230MIN,NOP,Q4,Devonte' Graham,https://www.basketball-reference.com/boxscores/202110230MIN.html,10.28,0,3,.000,0,2,.000,2,3,0,1,1,0,0,0,0,1,2,-0.6,-1,.667
+2021-10-23,202110230MIN,NOP,Q4,Herbert Jones,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.95,1,4,.250,0,1,.000,0,0,1,0,1,0,0,0,1,2,2,-1.5,+3,
+2021-10-23,202110230MIN,NOP,Q4,Trey Murphy III,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.67,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,-1,
+2021-10-23,202110230MIN,NOP,Q4,Garrett Temple,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.77,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-8,
+2021-10-23,202110230MIN,NOP,Q4,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202110230MIN.html,1.72,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,0,0,-1.4,-4,
+2021-10-23,202110230MIN,NOP,Q4,Kira Lewis Jr.,https://www.basketball-reference.com/boxscores/202110230MIN.html,1.72,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0.0,-4,
+2021-10-23,202110230MIN,MIN,Q1,Anthony Edwards,https://www.basketball-reference.com/boxscores/202110230MIN.html,9.72,3,7,.429,1,3,.333,0,0,2,1,3,3,0,1,1,1,7,6.4,+9,
+2021-10-23,202110230MIN,MIN,Q1,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.07,0,2,.000,0,1,.000,0,0,1,2,3,1,0,0,2,0,0,-1.4,+3,
+2021-10-23,202110230MIN,MIN,Q1,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202110230MIN.html,12.0,6,10,.600,2,2,1.000,1,1,0,0,0,0,0,1,1,0,15,10.1,+1,1.000
+2021-10-23,202110230MIN,MIN,Q1,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.88,0,2,.000,0,1,.000,0,0,0,1,1,0,0,1,0,1,0,-0.8,+2,
+2021-10-23,202110230MIN,MIN,Q1,Josh Okogie,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.25,0,0,,0,0,,0,2,1,2,3,3,2,0,0,0,0,4.6,+3,.000
+2021-10-23,202110230MIN,MIN,Q1,Patrick Beverley,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.93,1,1,1.000,1,1,1.000,0,0,0,1,1,2,0,0,0,0,3,4.4,-2,
+2021-10-23,202110230MIN,MIN,Q1,Malik Beasley,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.75,0,1,.000,0,0,,0,0,0,0,0,1,0,0,1,0,0,-1.0,-2,
+2021-10-23,202110230MIN,MIN,Q1,Taurean Prince,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.12,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,1,1,3,0.6,-1,
+2021-10-23,202110230MIN,MIN,Q1,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202110230MIN.html,2.28,0,0,,0,0,,0,0,0,1,1,0,0,0,0,0,0,0.3,-8,
+2021-10-23,202110230MIN,MIN,Q2,Anthony Edwards,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.13,3,6,.500,1,2,.500,0,0,1,1,2,1,0,0,0,0,7,5.7,+7,
+2021-10-23,202110230MIN,MIN,Q2,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.98,2,5,.400,0,2,.000,0,0,0,0,0,0,0,0,3,1,4,-2.1,+12,
+2021-10-23,202110230MIN,MIN,Q2,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.22,0,1,.000,0,0,,0,0,1,1,2,2,0,0,2,1,0,-0.7,+3,
+2021-10-23,202110230MIN,MIN,Q2,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.13,2,3,.667,0,0,,0,0,1,1,2,0,0,0,0,1,4,3.3,+7,
+2021-10-23,202110230MIN,MIN,Q2,Josh Okogie,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.9,0,1,.000,0,0,,0,0,0,2,2,0,0,0,0,2,0,-0.9,+7,
+2021-10-23,202110230MIN,MIN,Q2,Patrick Beverley,https://www.basketball-reference.com/boxscores/202110230MIN.html,8.88,1,3,.333,0,2,.000,0,0,1,0,1,2,1,1,0,1,2,3.7,+5,
+2021-10-23,202110230MIN,MIN,Q2,Naz Reid,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.78,2,4,.500,1,2,.500,0,0,0,0,0,0,1,0,0,1,5,3.6,+9,
+2021-10-23,202110230MIN,MIN,Q2,Taurean Prince,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.87,0,1,.000,0,1,.000,0,0,0,1,1,1,1,0,0,0,0,1.3,+5,
+2021-10-23,202110230MIN,MIN,Q2,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.1,2,3,.667,0,0,,0,0,2,3,5,0,2,0,0,0,4,7.0,+5,
+2021-10-23,202110230MIN,MIN,Q3,Anthony Edwards,https://www.basketball-reference.com/boxscores/202110230MIN.html,8.1,1,4,.250,0,0,,0,0,0,1,1,0,1,0,0,0,2,0.9,-11,
+2021-10-23,202110230MIN,MIN,Q3,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202110230MIN.html,8.65,0,3,.000,0,2,.000,0,0,0,0,0,0,0,0,2,0,0,-4.1,-6,
+2021-10-23,202110230MIN,MIN,Q3,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.0,3,6,.500,1,3,.333,0,0,0,1,1,0,0,2,1,3,7,3.5,-5,
+2021-10-23,202110230MIN,MIN,Q3,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.82,0,2,.000,0,1,.000,0,0,2,0,2,0,0,1,1,1,0,-0.7,-7,
+2021-10-23,202110230MIN,MIN,Q3,Josh Okogie,https://www.basketball-reference.com/boxscores/202110230MIN.html,4.2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,1,0,-0.4,-2,
+2021-10-23,202110230MIN,MIN,Q3,Patrick Beverley,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.8,0,2,.000,0,2,.000,0,0,0,1,1,2,0,0,1,1,0,-1.1,-9,
+2021-10-23,202110230MIN,MIN,Q3,Naz Reid,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.0,1,3,.333,0,1,.000,2,2,1,0,1,0,1,0,1,2,4,2.2,-6,1.000
+2021-10-23,202110230MIN,MIN,Q3,Malik Beasley,https://www.basketball-reference.com/boxscores/202110230MIN.html,7.25,1,1,1.000,0,0,,0,0,0,1,1,0,0,0,0,0,2,2.0,-5,
+2021-10-23,202110230MIN,MIN,Q3,Jarred Vanderbilt,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.18,0,0,,0,0,,0,0,0,2,2,1,1,0,1,1,0,0.9,-4,
+2021-10-23,202110230MIN,MIN,Q4,Anthony Edwards,https://www.basketball-reference.com/boxscores/202110230MIN.html,12.0,1,5,.200,1,3,.333,0,0,0,3,3,1,0,0,0,0,3,1.5,+5,
+2021-10-23,202110230MIN,MIN,Q4,D'Angelo Russell,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.48,3,4,.750,2,2,1.000,0,0,0,0,0,0,0,0,0,0,8,6.4,0,
+2021-10-23,202110230MIN,MIN,Q4,Karl-Anthony Towns,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.4,1,3,.333,0,1,.000,1,1,0,1,1,0,0,0,1,2,3,-0.2,+6,1.000
+2021-10-23,202110230MIN,MIN,Q4,Jaden McDaniels,https://www.basketball-reference.com/boxscores/202110230MIN.html,5.48,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1,0,-0.1,0,
+2021-10-23,202110230MIN,MIN,Q4,Naz Reid,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.6,1,5,.200,1,3,.333,0,0,0,2,2,0,1,1,0,2,3,1.4,-1,
+2021-10-23,202110230MIN,MIN,Q4,Malik Beasley,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.52,2,3,.667,0,1,.000,0,0,0,2,2,1,0,0,0,0,4,4.0,+5,
+2021-10-23,202110230MIN,MIN,Q4,Taurean Prince,https://www.basketball-reference.com/boxscores/202110230MIN.html,6.52,0,0,,0,0,,0,2,0,0,0,0,0,0,0,1,0,-1.2,+5,.000
+2021-10-23,202110230MIN,MIN,Q4,Jordan McLaughlin,https://www.basketball-reference.com/boxscores/202110230MIN.html,12.0,2,3,.667,0,1,.000,2,2,0,2,2,1,2,0,0,0,6,8.0,+5,1.000

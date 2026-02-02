@@ -1,0 +1,24 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-02-01,202302010BOS,BRK,Kyrie Irving,https://www.basketball-reference.com/boxscores/202302010BOS.html,31:01,.542,.528,.389,.056,0.0,16.3,7.0,28.0,0.0,4.1,14.0,32.9,94,149,-3.6
+2023-02-01,202302010BOS,BRK,Royce O'Neale,https://www.basketball-reference.com/boxscores/202302010BOS.html,26:31,.354,.278,.778,.222,0.0,28.6,12.2,22.4,1.9,0.0,0.0,17.7,87,144,-4.7
+2023-02-01,202302010BOS,BRK,Nic Claxton,https://www.basketball-reference.com/boxscores/202302010BOS.html,26:05,.666,.600,.000,.800,10.8,14.5,12.4,12.1,2.0,0.0,0.0,12.3,153,147,-1.0
+2023-02-01,202302010BOS,BRK,Seth Curry,https://www.basketball-reference.com/boxscores/202302010BOS.html,24:39,.389,.389,.556,.000,0.0,0.0,0.0,6.5,2.1,0.0,0.0,17.4,79,150,-10.9
+2023-02-01,202302010BOS,BRK,Joe Harris,https://www.basketball-reference.com/boxscores/202302010BOS.html,23:43,.667,.667,.778,.000,0.0,10.7,4.5,14.5,0.0,0.0,0.0,18.0,128,153,2.5
+2023-02-01,202302010BOS,BRK,Day'Ron Sharpe,https://www.basketball-reference.com/boxscores/202302010BOS.html,26:48,.571,.571,.000,.286,7.0,23.6,14.1,0.0,1.9,0.0,11.3,15.8,107,145,-8.5
+2023-02-01,202302010BOS,BRK,Cam Thomas,https://www.basketball-reference.com/boxscores/202302010BOS.html,24:17,.522,.469,.375,.313,0.0,5.2,2.2,17.8,2.1,0.0,0.0,35.6,106,149,1.2
+2023-02-01,202302010BOS,BRK,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202302010BOS.html,19:27,.521,.250,.500,1.000,0.0,6.5,2.8,7.4,2.6,0.0,0.0,14.1,115,147,-5.5
+2023-02-01,202302010BOS,BRK,Patty Mills,https://www.basketball-reference.com/boxscores/202302010BOS.html,17:54,.333,.333,.500,.000,0.0,0.0,0.0,17.5,2.8,0.0,0.0,15.9,78,148,-9.4
+2023-02-01,202302010BOS,BRK,Edmond Sumner,https://www.basketball-reference.com/boxscores/202302010BOS.html,12:26,.375,.375,.500,.000,0.0,20.3,8.7,0.0,0.0,0.0,0.0,15.3,72,151,-12.0
+2023-02-01,202302010BOS,BRK,Markieff Morris,https://www.basketball-reference.com/boxscores/202302010BOS.html,7:09,.000,.000,.000,.000,0.0,53.0,22.6,18.6,7.1,0.0,50.0,13.3,24,126,-7.0
+2023-02-01,202302010BOS,BOS,Jaylen Brown,https://www.basketball-reference.com/boxscores/202302010BOS.html,31:51,.714,.719,.750,.313,0.0,8.9,5.1,11.0,0.0,0.0,9.9,28.6,136,107,5.0
+2023-02-01,202302010BOS,BOS,Derrick White,https://www.basketball-reference.com/boxscores/202302010BOS.html,31:31,.636,.636,.545,.000,0.0,29.9,17.1,17.4,0.0,0.0,0.0,15.7,154,103,4.1
+2023-02-01,202302010BOS,BOS,Jayson Tatum,https://www.basketball-reference.com/boxscores/202302010BOS.html,29:19,.816,.816,.632,.000,4.3,25.7,16.6,19.6,3.5,3.3,5.0,30.8,163,93,23.0
+2023-02-01,202302010BOS,BOS,Al Horford,https://www.basketball-reference.com/boxscores/202302010BOS.html,24:38,.750,.750,.667,.000,5.1,15.3,10.9,12.4,0.0,0.0,0.0,11.0,178,106,6.5
+2023-02-01,202302010BOS,BOS,Robert Williams,https://www.basketball-reference.com/boxscores/202302010BOS.html,19:26,.901,.875,.000,.250,32.5,19.4,25.0,0.0,0.0,5.0,0.0,20.6,199,100,8.9
+2023-02-01,202302010BOS,BOS,Malcolm Brogdon,https://www.basketball-reference.com/boxscores/202302010BOS.html,21:30,.833,.833,.500,.000,0.0,8.8,5.0,20.3,2.4,0.0,25.0,16.8,140,101,5.6
+2023-02-01,202302010BOS,BOS,Luke Kornet,https://www.basketball-reference.com/boxscores/202302010BOS.html,18:48,.820,.833,.000,.500,13.4,10.0,11.5,25.4,2.7,5.2,21.5,22.4,151,96,11.9
+2023-02-01,202302010BOS,BOS,Grant Williams,https://www.basketball-reference.com/boxscores/202302010BOS.html,17:29,.600,.600,1.000,.000,0.0,10.8,6.2,0.0,0.0,5.6,0.0,12.9,127,101,-1.8
+2023-02-01,202302010BOS,BOS,Payton Pritchard,https://www.basketball-reference.com/boxscores/202302010BOS.html,16:09,.500,.500,.800,.000,15.6,0.0,6.7,12.6,0.0,0.0,16.7,16.8,124,108,-4.3
+2023-02-01,202302010BOS,BOS,Sam Hauser,https://www.basketball-reference.com/boxscores/202302010BOS.html,12:00,.571,.571,.857,.000,0.0,39.2,22.5,9.8,0.0,0.0,12.5,30.1,109,102,-3.9
+2023-02-01,202302010BOS,BOS,Blake Griffin,https://www.basketball-reference.com/boxscores/202302010BOS.html,9:10,.000,.000,1.000,.000,0.0,30.8,17.7,9.9,0.0,0.0,50.0,9.8,41,103,-10.5
+2023-02-01,202302010BOS,BOS,Justin Jackson,https://www.basketball-reference.com/boxscores/202302010BOS.html,8:09,.500,.500,.500,.000,0.0,34.6,19.9,12.5,0.0,0.0,0.0,11.1,134,102,0.8

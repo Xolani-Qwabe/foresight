@@ -1,0 +1,22 @@
+game_date,game_id,team,player,url,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,off_rtg,def_rtg,bpm
+2023-01-20,202301200ORL,NOP,Trey Murphy III,https://www.basketball-reference.com/boxscores/202301200ORL.html,39:33,.911,.889,.444,.222,0.0,22.1,9.0,7.5,0.0,2.7,16.8,12.9,141,130,0.4
+2023-01-20,202301200ORL,NOP,CJ McCollum,https://www.basketball-reference.com/boxscores/202301200ORL.html,35:45,.453,.333,.524,.476,5.6,12.2,8.3,28.5,4.1,0.0,10.6,34.2,100,123,-1.4
+2023-01-20,202301200ORL,NOP,Dyson Daniels,https://www.basketball-reference.com/boxscores/202301200ORL.html,31:07,.000,.000,.333,.000,3.2,14.0,7.6,30.1,1.6,3.4,33.3,12.4,53,127,-8.5
+2023-01-20,202301200ORL,NOP,Jonas Valančiūnas,https://www.basketball-reference.com/boxscores/202301200ORL.html,28:05,.503,.500,.053,.105,10.7,36.3,21.1,6.7,0.0,3.8,0.0,30.5,109,127,-4.3
+2023-01-20,202301200ORL,NOP,Herbert Jones,https://www.basketball-reference.com/boxscores/202301200ORL.html,18:51,.740,.900,.200,.800,5.3,0.0,3.1,24.8,5.2,5.7,0.0,15.4,152,117,8.8
+2023-01-20,202301200ORL,NOP,Jose Alvarado,https://www.basketball-reference.com/boxscores/202301200ORL.html,29:30,.535,.500,.733,.133,0.0,19.7,8.0,20.8,1.7,0.0,5.9,24.6,109,128,-1.5
+2023-01-20,202301200ORL,NOP,Larry Nance Jr.,https://www.basketball-reference.com/boxscores/202301200ORL.html,27:05,.563,.500,.000,.250,7.4,5.4,6.6,9.5,3.6,3.9,18.4,8.6,117,122,-2.4
+2023-01-20,202301200ORL,NOP,Jaxson Hayes,https://www.basketball-reference.com/boxscores/202301200ORL.html,17:28,.751,.750,.250,.375,11.5,33.3,20.4,11.2,0.0,0.0,0.0,23.0,155,131,5.0
+2023-01-20,202301200ORL,NOP,Devonte' Graham,https://www.basketball-reference.com/boxscores/202301200ORL.html,12:36,.375,.375,.750,.000,0.0,0.0,0.0,10.2,0.0,0.0,0.0,13.7,89,135,-10.1
+2023-01-20,202301200ORL,ORL,Franz Wagner,https://www.basketball-reference.com/boxscores/202301200ORL.html,32:22,.824,.781,.438,.313,4.5,15.4,11.0,55.2,0.0,0.0,9.9,28.8,157,115,15.8
+2023-01-20,202301200ORL,ORL,Gary Harris,https://www.basketball-reference.com/boxscores/202301200ORL.html,26:58,.845,.875,.750,.250,0.0,7.4,4.4,5.9,0.0,0.0,10.1,16.9,133,117,2.8
+2023-01-20,202301200ORL,ORL,Paolo Banchero,https://www.basketball-reference.com/boxscores/202301200ORL.html,24:38,.523,.286,.286,1.143,5.9,20.3,14.4,11.1,2.0,0.0,22.2,25.3,97,109,-6.9
+2023-01-20,202301200ORL,ORL,Wendell Carter Jr.,https://www.basketball-reference.com/boxscores/202301200ORL.html,24:21,.125,.125,.250,.000,6.0,32.9,21.9,10.6,0.0,0.0,11.1,17.1,50,110,-16.0
+2023-01-20,202301200ORL,ORL,Markelle Fultz,https://www.basketball-reference.com/boxscores/202301200ORL.html,23:43,.461,.375,.000,.500,0.0,8.4,5.0,18.4,0.0,3.6,17.0,22.9,91,115,-8.2
+2023-01-20,202301200ORL,ORL,Cole Anthony,https://www.basketball-reference.com/boxscores/202301200ORL.html,26:19,.879,.778,.444,.889,0.0,11.4,6.8,26.0,0.0,0.0,13.8,25.5,156,116,8.9
+2023-01-20,202301200ORL,ORL,Terrence Ross,https://www.basketball-reference.com/boxscores/202301200ORL.html,22:24,1.333,1.333,.667,.000,0.0,4.5,2.6,13.2,0.0,3.8,0.0,6.2,258,115,9.9
+2023-01-20,202301200ORL,ORL,Bol Bol,https://www.basketball-reference.com/boxscores/202301200ORL.html,20:07,.721,.714,.143,.429,7.2,19.9,14.7,8.8,2.4,8.5,19.4,23.7,116,102,4.0
+2023-01-20,202301200ORL,ORL,Moritz Wagner,https://www.basketball-reference.com/boxscores/202301200ORL.html,16:22,.579,.333,.667,1.000,0.0,24.4,14.5,16.3,0.0,0.0,0.0,12.2,141,112,-1.5
+2023-01-20,202301200ORL,ORL,Jalen Suggs,https://www.basketball-reference.com/boxscores/202301200ORL.html,14:51,.676,.625,.500,.250,9.8,20.2,16.0,9.9,0.0,0.0,18.4,16.9,121,113,-3.2
+2023-01-20,202301200ORL,ORL,Mo Bamba,https://www.basketball-reference.com/boxscores/202301200ORL.html,7:00,.750,.750,1.000,.000,0.0,0.0,0.0,21.3,0.0,12.2,0.0,13.2,154,110,7.9
+2023-01-20,202301200ORL,ORL,R.J. Hampton,https://www.basketball-reference.com/boxscores/202301200ORL.html,0:55,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,-6.4

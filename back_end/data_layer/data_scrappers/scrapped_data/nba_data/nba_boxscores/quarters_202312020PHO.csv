@@ -1,0 +1,75 @@
+game_date,game_id,team,quarter,player,url,mp,fg,fga,fg_pct,fg3,fg3a,ft,fta,orb,drb,trb,ast,stl,blk,tov,pf,pts,game_score,plus_minus,fg3_pct,ft_pct
+2023-12-02,202312020PHO,MEM,Q1,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.23,2,2,1.000,0,0,0,0,0,2,2,0,0,0,1,2,4,2.2,+1,,
+2023-12-02,202312020PHO,MEM,Q1,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.25,0,2,.000,0,1,0,0,0,1,1,0,0,0,0,0,0,-1.1,-4,.000,
+2023-12-02,202312020PHO,MEM,Q1,David Roddy,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.08,1,2,.500,1,1,0,0,0,0,0,0,0,0,0,0,3,2.0,-2,1.000,
+2023-12-02,202312020PHO,MEM,Q1,Desmond Bane,https://www.basketball-reference.com/boxscores/202312020PHO.html,10.77,3,5,.600,1,3,0,0,0,2,2,4,0,1,1,1,7,7.4,+4,.333,
+2023-12-02,202312020PHO,MEM,Q1,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.08,1,3,.333,0,0,0,0,1,1,2,0,0,0,0,1,2,0.9,-2,,
+2023-12-02,202312020PHO,MEM,Q1,Santi Aldama,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.77,2,5,.400,1,3,0,0,0,1,1,0,1,0,0,1,5,3.2,-1,.333,
+2023-12-02,202312020PHO,MEM,Q1,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.92,1,1,1.000,0,0,0,0,0,3,3,0,0,0,0,1,2,2.2,+2,,
+2023-12-02,202312020PHO,MEM,Q1,John Konchar,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.98,0,3,.000,0,2,2,2,2,0,2,0,0,0,0,0,2,1.3,0,.000,1.000
+2023-12-02,202312020PHO,MEM,Q1,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.92,1,2,.500,0,1,0,0,0,0,0,0,0,1,0,0,2,1.7,+2,.000,
+2023-12-02,202312020PHO,MEM,Q2,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.55,4,4,1.000,1,1,2,2,0,3,3,1,0,1,1,0,11,11.1,0,1.000,1.000
+2023-12-02,202312020PHO,MEM,Q2,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.82,1,5,.200,0,1,0,0,0,0,0,1,1,0,1,0,2,-0.4,+4,.000,
+2023-12-02,202312020PHO,MEM,Q2,David Roddy,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.23,1,2,.500,1,1,0,0,0,0,0,0,1,0,0,0,3,3.0,0,1.000,
+2023-12-02,202312020PHO,MEM,Q2,Desmond Bane,https://www.basketball-reference.com/boxscores/202312020PHO.html,0.45,0,0,,0,0,0,0,0,0,0,0,0,0,1,2,0,-1.8,0,,
+2023-12-02,202312020PHO,MEM,Q2,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.77,0,1,.000,0,0,0,0,1,2,3,1,0,2,1,1,0,1.3,+1,,
+2023-12-02,202312020PHO,MEM,Q2,Santi Aldama,https://www.basketball-reference.com/boxscores/202312020PHO.html,5.85,0,2,.000,0,1,0,0,0,2,2,1,1,1,1,2,0,-0.2,+3,.000,
+2023-12-02,202312020PHO,MEM,Q2,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,11.55,1,3,.333,1,3,3,3,0,1,1,0,0,0,0,0,6,4.6,+1,.333,1.000
+2023-12-02,202312020PHO,MEM,Q2,John Konchar,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.95,1,1,1.000,0,0,0,0,0,2,2,0,0,1,2,0,2,1.0,-2,,
+2023-12-02,202312020PHO,MEM,Q2,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,3.83,0,2,.000,0,1,0,0,0,0,0,0,0,0,0,0,0,-1.4,-2,.000,
+2023-12-02,202312020PHO,MEM,Q3,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,12.0,4,9,.444,1,3,2,2,1,0,1,0,1,0,2,1,11,5.6,-13,.333,1.000
+2023-12-02,202312020PHO,MEM,Q3,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202312020PHO.html,11.3,1,3,.333,0,2,2,2,0,0,0,1,0,0,0,3,4,1.8,-14,.000,1.000
+2023-12-02,202312020PHO,MEM,Q3,David Roddy,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.05,1,3,.333,0,1,0,0,1,3,4,0,0,0,0,0,2,1.9,-13,.000,
+2023-12-02,202312020PHO,MEM,Q3,Desmond Bane,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.75,0,2,.000,0,0,0,0,0,0,0,0,0,0,0,1,0,-1.8,-12,,
+2023-12-02,202312020PHO,MEM,Q3,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202312020PHO.html,3.07,0,1,.000,0,0,0,0,0,0,0,0,0,1,1,2,0,-1.8,-1,,
+2023-12-02,202312020PHO,MEM,Q3,Santi Aldama,https://www.basketball-reference.com/boxscores/202312020PHO.html,5.28,0,1,.000,0,1,0,0,0,0,0,0,0,0,0,1,0,-1.1,-12,.000,
+2023-12-02,202312020PHO,MEM,Q3,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,5.95,0,0,,0,0,2,2,0,1,1,1,0,0,1,1,2,1.6,0,,1.000
+2023-12-02,202312020PHO,MEM,Q3,John Konchar,https://www.basketball-reference.com/boxscores/202312020PHO.html,5.95,1,1,1.000,0,0,0,0,0,0,0,0,1,0,0,0,2,2.7,0,,
+2023-12-02,202312020PHO,MEM,Q3,Xavier Tillman Sr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,3.65,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.0,0,,
+2023-12-02,202312020PHO,MEM,Q4,Jaren Jackson Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.67,3,6,.500,0,1,5,6,0,3,3,1,0,0,0,1,11,8.8,+5,.000,.833
+2023-12-02,202312020PHO,MEM,Q4,Jaylen Nowell,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.93,1,2,.500,0,0,0,0,0,0,0,0,0,0,0,2,2,0.2,+7,,
+2023-12-02,202312020PHO,MEM,Q4,David Roddy,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.67,0,0,,0,0,0,0,1,1,2,1,0,0,1,2,0,-0.1,+5,,
+2023-12-02,202312020PHO,MEM,Q4,Desmond Bane,https://www.basketball-reference.com/boxscores/202312020PHO.html,12.0,7,10,.700,2,3,4,5,1,0,1,1,2,0,0,1,20,18.4,+5,.667,.800
+2023-12-02,202312020PHO,MEM,Q4,Bismack Biyombo,https://www.basketball-reference.com/boxscores/202312020PHO.html,2.4,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2023-12-02,202312020PHO,MEM,Q4,Santi Aldama,https://www.basketball-reference.com/boxscores/202312020PHO.html,12.0,1,2,.500,0,1,0,0,0,4,4,0,1,0,0,1,2,2.8,+5,.000,
+2023-12-02,202312020PHO,MEM,Q4,Vince Williams Jr.,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.33,1,1,1.000,0,0,0,0,0,0,0,1,0,0,0,4,2,0.8,-1,,
+2023-12-02,202312020PHO,PHO,Q1,Devin Booker,https://www.basketball-reference.com/boxscores/202312020PHO.html,8.68,2,4,.500,1,2,3,3,0,2,2,3,0,0,0,1,8,8.3,+2,.500,1.000
+2023-12-02,202312020PHO,PHO,Q1,Kevin Durant,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.15,3,5,.600,0,1,2,4,0,0,0,0,0,0,0,0,8,4.9,+1,.000,.500
+2023-12-02,202312020PHO,PHO,Q1,Grayson Allen,https://www.basketball-reference.com/boxscores/202312020PHO.html,8.83,0,1,.000,0,0,0,0,0,1,1,1,0,0,1,0,0,-0.7,+1,,
+2023-12-02,202312020PHO,PHO,Q1,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202312020PHO.html,10.77,2,6,.333,0,2,0,0,1,2,3,2,1,0,1,0,4,3.3,-4,.000,
+2023-12-02,202312020PHO,PHO,Q1,Josh Okogie,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.15,1,1,1.000,0,0,0,2,0,1,1,0,1,0,0,0,2,2.2,+1,,.000
+2023-12-02,202312020PHO,PHO,Q1,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.17,1,3,.333,0,1,0,0,1,1,2,1,0,0,0,1,2,1.6,-3,.000,
+2023-12-02,202312020PHO,PHO,Q1,Drew Eubanks,https://www.basketball-reference.com/boxscores/202312020PHO.html,1.23,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+4,,
+2023-12-02,202312020PHO,PHO,Q1,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202312020PHO.html,2.37,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,-4,,
+2023-12-02,202312020PHO,PHO,Q1,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202312020PHO.html,0.48,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,+3,1.000,
+2023-12-02,202312020PHO,PHO,Q1,Nassir Little,https://www.basketball-reference.com/boxscores/202312020PHO.html,3.17,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2023-12-02,202312020PHO,PHO,Q2,Devin Booker,https://www.basketball-reference.com/boxscores/202312020PHO.html,8.7,3,6,.500,1,4,0,0,0,2,2,2,1,0,0,0,7,7.0,0,.250,
+2023-12-02,202312020PHO,PHO,Q2,Kevin Durant,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.15,1,2,.500,1,1,0,0,0,2,2,2,0,1,0,0,3,4.7,0,1.000,
+2023-12-02,202312020PHO,PHO,Q2,Grayson Allen,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.15,1,2,.500,1,1,0,0,0,0,0,1,0,0,0,0,3,2.7,0,1.000,
+2023-12-02,202312020PHO,PHO,Q2,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.5,1,5,.200,0,1,0,0,0,2,2,1,1,0,1,1,2,-0.2,+2,.000,
+2023-12-02,202312020PHO,PHO,Q2,Josh Okogie,https://www.basketball-reference.com/boxscores/202312020PHO.html,3.52,0,0,,0,0,1,4,2,0,2,0,1,0,1,2,1,0.4,+1,,.250
+2023-12-02,202312020PHO,PHO,Q2,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202312020PHO.html,3.3,1,1,1.000,1,1,0,0,0,0,0,0,0,0,0,0,3,2.7,-1,1.000,
+2023-12-02,202312020PHO,PHO,Q2,Drew Eubanks,https://www.basketball-reference.com/boxscores/202312020PHO.html,5.5,1,2,.500,0,0,0,0,0,1,1,0,0,1,1,1,2,0.6,-3,,
+2023-12-02,202312020PHO,PHO,Q2,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.85,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-1,,
+2023-12-02,202312020PHO,PHO,Q2,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202312020PHO.html,8.48,0,0,,0,0,0,0,1,0,1,0,1,0,2,2,0,-1.1,-2,,
+2023-12-02,202312020PHO,PHO,Q2,Nassir Little,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.85,1,4,.250,0,2,0,0,0,1,1,1,0,0,1,0,2,-0.4,-1,.000,
+2023-12-02,202312020PHO,PHO,Q3,Devin Booker,https://www.basketball-reference.com/boxscores/202312020PHO.html,10.1,3,7,.429,0,0,6,6,1,4,5,1,0,0,0,0,12,10.9,+14,,1.000
+2023-12-02,202312020PHO,PHO,Q3,Kevin Durant,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.55,3,4,.750,1,1,1,1,0,0,0,1,0,0,1,1,8,5.7,+11,1.000,1.000
+2023-12-02,202312020PHO,PHO,Q3,Grayson Allen,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.55,0,1,.000,0,1,2,2,0,0,0,2,1,0,1,0,2,2.7,+11,.000,1.000
+2023-12-02,202312020PHO,PHO,Q3,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.65,3,6,.500,0,0,2,2,2,2,4,0,0,1,1,3,8,5.5,+12,,1.000
+2023-12-02,202312020PHO,PHO,Q3,Josh Okogie,https://www.basketball-reference.com/boxscores/202312020PHO.html,8.35,0,1,.000,0,1,0,0,1,3,4,1,1,1,0,0,0,3.3,+13,.000,
+2023-12-02,202312020PHO,PHO,Q3,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.35,0,0,,0,0,0,0,0,0,0,0,0,0,1,2,0,-1.8,+1,,
+2023-12-02,202312020PHO,PHO,Q3,Drew Eubanks,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.35,0,1,.000,0,0,2,2,0,1,1,0,0,0,0,1,2,1.2,+1,,1.000
+2023-12-02,202312020PHO,PHO,Q3,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202312020PHO.html,2.03,0,0,,0,0,0,0,0,0,0,0,1,0,0,0,0,1.0,0,,
+2023-12-02,202312020PHO,PHO,Q3,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202312020PHO.html,0.42,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,+2,,
+2023-12-02,202312020PHO,PHO,Q3,Nassir Little,https://www.basketball-reference.com/boxscores/202312020PHO.html,3.65,0,0,,0,0,2,2,0,0,0,1,0,0,0,0,2,2.7,0,,1.000
+2023-12-02,202312020PHO,PHO,Q4,Devin Booker,https://www.basketball-reference.com/boxscores/202312020PHO.html,9.65,1,4,.250,1,2,4,4,0,1,1,1,0,0,2,1,7,3.2,-7,.500,1.000
+2023-12-02,202312020PHO,PHO,Q4,Kevin Durant,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.07,3,3,1.000,0,0,2,2,0,0,0,2,1,0,1,0,8,8.5,-4,,1.000
+2023-12-02,202312020PHO,PHO,Q4,Grayson Allen,https://www.basketball-reference.com/boxscores/202312020PHO.html,7.13,0,0,,0,0,4,4,1,0,1,0,0,0,0,1,4,4.3,-4,,1.000
+2023-12-02,202312020PHO,PHO,Q4,Jusuf Nurkić,https://www.basketball-reference.com/boxscores/202312020PHO.html,1.57,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,2,0,-1.5,0,,
+2023-12-02,202312020PHO,PHO,Q4,Josh Okogie,https://www.basketball-reference.com/boxscores/202312020PHO.html,4.9,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,-3,,
+2023-12-02,202312020PHO,PHO,Q4,Jordan Goodwin,https://www.basketball-reference.com/boxscores/202312020PHO.html,5.47,0,2,.000,0,1,2,2,0,2,2,0,0,0,0,0,2,1.2,-2,.000,1.000
+2023-12-02,202312020PHO,PHO,Q4,Drew Eubanks,https://www.basketball-reference.com/boxscores/202312020PHO.html,6.75,1,2,.500,0,0,0,0,1,0,1,1,0,1,0,1,2,2.7,-1,,
+2023-12-02,202312020PHO,PHO,Q4,Keita Bates-Diop,https://www.basketball-reference.com/boxscores/202312020PHO.html,8.55,3,5,.600,1,2,1,1,0,3,3,0,0,0,1,0,8,5.6,-5,.500,1.000
+2023-12-02,202312020PHO,PHO,Q4,Yuta Watanabe,https://www.basketball-reference.com/boxscores/202312020PHO.html,5.93,0,1,.000,0,1,1,2,0,1,1,0,0,0,0,1,1,-0.2,0,.000,.500
+2023-12-02,202312020PHO,PHO,Q4,Nassir Little,https://www.basketball-reference.com/boxscores/202312020PHO.html,2.98,0,1,.000,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,+1,,
