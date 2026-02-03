@@ -31,15 +31,15 @@ class UserService:
 
     
     def login_user(self, login_data: UserLogin) -> UserWithToken:
-        
-        user = self.user_repository.get_user_by_email(email=login_data.username)
+        print("Attempting to log in user:", login_data.username)
+        user = self.user_repository.get_user_by_username(username=login_data.username)
         
         if not user or not HashHelper.verify_password(login_data.password, user.hashed_password):
             raise HTTPException(
                 status_code=status.HTTP_401_UNAUTHORIZED,
                 detail="Invalid email or password."
             )
-        
+        print("User authenticated successfully:", user.email)
         token = AuthHandler.sign_jwt(user_id = user.id)
         if not token:
             raise HTTPException(
@@ -47,13 +47,10 @@ class UserService:
                 detail="Token generation failed."
             )
         return UserWithToken(
-            user = UserOutPut(
-                user_id = user.id,
-                email = user.email,
-                role = user.role    
-        ), 
+             user=UserOutPut.model_validate(user, from_attributes=True),
             token = token
         )
+        
     def get_user_by_id(self, user_id: int):
         user = self.user_repository.get_user_by_id(user_id=user_id)
         if not user:

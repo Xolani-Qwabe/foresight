@@ -8,27 +8,25 @@ class Role(str, Enum):
     normal = "user"
     paid = "paid_user"
     owner = "owner"
-
-
+    
 class UserCreate(BaseModel):
     email : EmailStr
-    password : str
+    password  : str
     username : Union[str, None] = None
     role : str
     
 class UserOutPut(BaseModel):
-    user_id : int
-    email : EmailStr
-    username : Union[str, None] = None
-    role : str
+    id: int
+    email: EmailStr
+    username: str | None
+    role: str 
     
 class UserUpdate(BaseModel):
-    user_id : int
+    id : int
     email : Union[EmailStr, None] = None
     role : Union[str, None] = None
     password : Union[str, None] = None
-    
-    
+      
 class UserLogin(BaseModel):
     username : str
     password : str
@@ -36,3 +34,4 @@ class UserLogin(BaseModel):
 class UserWithToken(BaseModel):
     user : UserOutPut
     token : str
+    

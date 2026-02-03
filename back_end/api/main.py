@@ -1,9 +1,9 @@
 from fastapi import FastAPI, Depends, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
-
+from app.utils.protect_route import get_current_user
 from app.utils.init_db import create_tables
 from app.routers.auth import auth_router
-
+from app.db.schema.user import UserOutPut
 
 from contextlib import asynccontextmanager
 
@@ -38,4 +38,9 @@ async def health_check():
 @app.get("/")
 async def root():
     return {"message": "Welcome To Foresight"}
+
+@app.get("/protected-route")
+async def read_protected_route(current_user: UserOutPut = Depends(get_current_user)):
+    return {"status": "Application is running", "user": current_user.username }
+
 

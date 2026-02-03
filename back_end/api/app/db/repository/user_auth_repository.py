@@ -20,6 +20,9 @@ class UserRepository(BaseAuthRepository):
     def get_user_by_email(self, email: str) -> User | None:
         user = self.session.query(User).filter_by(email=email).first() 
         return user
+    def get_user_by_username(self, username: str) -> User | None:
+        user = self.session.query(User).filter_by(username=username).first() 
+        return user
     
     def get_user_by_id(self, user_id: int) ->User | None:
         user = self.session.query(User).filter_by(id=user_id).first() 
