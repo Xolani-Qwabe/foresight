@@ -1,0 +1,7 @@
+user
+  user_id (PK)
+  profile
+->
+  profile
+    profile_id (PK)
+    user_id (FK → users.id, UNIQUE)
