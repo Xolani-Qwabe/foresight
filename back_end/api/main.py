@@ -1,25 +1,30 @@
 from fastapi import FastAPI, Depends, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
-from app.utils.protect_route import get_current_user
-from app.utils.init_db import create_tables
-from app.routers.auth import auth_router
-from app.db.schema.user import UserOutPut
+
+from app.routes.auth import auth as auth_router
+
+
+from app.utils.db import DBUtility
+from dotenv import load_dotenv
+import os
 
 from contextlib import asynccontextmanager
 
-
+load_dotenv()
+POSTGRES_CONNECTION_STRING = os.getenv("POSTGRES_CONNECTION_STRING")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Startup code
     # Initialize db at start
     print("Creating tables...")
-    create_tables()
+    DBUtility(engine_url=POSTGRES_CONNECTION_STRING, echo=True, async_mode=False).create_tables()
     yield
     # Shutdown code
 
 
 app = FastAPI(lifespan=lifespan)
+app.include_router(auth_router.router)
 
 app.add_middleware(
     CORSMiddleware,
@@ -29,7 +34,7 @@ app.add_middleware(
     allow_headers=["*"],  
 )
 
-app.include_router(router=auth_router, tags=["Authentication"])
+
 
 @app.get("/health")
 async def health_check():
@@ -38,9 +43,4 @@ async def health_check():
 @app.get("/")
 async def root():
     return {"message": "Welcome To Foresight"}
-
-@app.get("/protected-route")
-async def read_protected_route(current_user: UserOutPut = Depends(get_current_user)):
-    return {"status": "Application is running", "user": current_user.username }
-
 

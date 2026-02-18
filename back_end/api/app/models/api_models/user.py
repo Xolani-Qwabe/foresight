@@ -1,7 +1,6 @@
 from datetime import datetime
 from typing import Optional
 from sqlmodel import SQLModel
-from .profile import SubscriptionTier
 
 # registration schema
 class UserCreate(SQLModel):
@@ -24,3 +23,10 @@ class UserOutput(SQLModel):
     is_active: bool
     created_at: datetime
     updated_at: datetime
+
+# public user with token schema
+class UserWithToken(SQLModel):
+    access_token: str
+    refresh_token: str
+    token_type: str = "bearer"
+    user: UserOutput
