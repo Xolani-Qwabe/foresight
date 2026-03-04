@@ -1,118 +1,210 @@
-from typing import Optional
-from fastapi import HTTPException
-from sqlalchemy.ext.asyncio import AsyncSession
+from typing import Optional, Tuple
+from fastapi import HTTPException, status
+from sqlalchemy.orm import Session
 from sqlmodel import select
+from app.models.db_models.user import Role
 
 from app.utils.auth import AuthUtility
 from app.models.db_models.user import User
-from app.models.api_models.user import UserCreate, UserLogin, UserOutput, UserWithToken
+from app.models.api_models.user import UserCreate, UserLogin, UserOutput
 
 
 class AuthService:
-    """
-    AuthService contains authentication business logic using SQLModel.
-    Returns UserWithToken objects for login/register.
-    """
 
     def __init__(self, auth_util: AuthUtility):
         self.auth_util = auth_util
 
-    # --- Registration ---
-    async def register(self, user_create: UserCreate, db: AsyncSession) -> UserWithToken:
-  
-        query = select(User).where(User.email == user_create.email)
-        result = db.execute(query)
-        existing_user = result.scalar_one_or_none()
-        if existing_user:
-            raise HTTPException(status_code=400, detail="Email already registered")
 
-    
+    # Register
+    def register(
+        self,
+        user_create: UserCreate,
+        db: Session
+    ) -> Tuple[UserOutput, str, str]:
+
+        existing_user = db.exec(
+            select(User).where(
+                (User.email == user_create.email) |
+                (User.username == user_create.username)
+            )
+        ).first()
+
+        if existing_user:
+            if existing_user.email == user_create.email:
+                raise HTTPException(
+                    status_code=status.HTTP_400_BAD_REQUEST,
+                    detail="Email already registered"
+                )
+            else:
+                raise HTTPException(
+                    status_code=status.HTTP_400_BAD_REQUEST,
+                    detail="Username already taken"
+                )
+
         hashed_password = self.auth_util.hash_password(user_create.password)
 
-   
         new_user = User(
             email=user_create.email,
             username=user_create.username,
-            hashed_password=hashed_password
+            hashed_password=hashed_password,
+            role=Role.normal,
         )
 
         db.add(new_user)
         db.commit()
         db.refresh(new_user)
 
-    
-        access_token = self.auth_util.create_access_token({"sub": new_user.username})
-        refresh_token = self.auth_util.create_refresh_token({"sub": new_user.username})
-
-        return UserWithToken(
-            access_token=access_token,
-            refresh_token=refresh_token,
-            token_type="bearer",
-            user=UserOutput(
-                id=new_user.id,
-                email=new_user.email,
-                username=new_user.username,
-                role=new_user.role.value,
-                email_verified=new_user.email_verified,
-                is_active=new_user.is_active,
-                created_at=new_user.created_at,
-                updated_at=new_user.updated_at
-            )
+        access_token = self.auth_util.create_access_token(
+            {"sub": str(new_user.id)}
         )
 
-    # --- Login ---
-    async def login(self, user_login: UserLogin, db: AsyncSession) -> UserWithToken:
-        
-        query = select(User).where(User.username == user_login.username)
-        result = await db.execute(query)
-        db_user: Optional[User] = result.scalar_one_or_none()
-
-        if not db_user or not self.auth_util.verify_password(user_login.password, db_user.hashed_password):
-            raise HTTPException(status_code=401, detail="Invalid credentials")
-
-      
-        access_token = self.auth_util.create_access_token({"sub": db_user.username})
-        refresh_token = self.auth_util.create_refresh_token({"sub": db_user.username})
-
-        return UserWithToken(
-            access_token=access_token,
-            refresh_token=refresh_token,
-            token_type="bearer",
-            user=UserOutput(
-                id=db_user.id,
-                email=db_user.email,
-                username=db_user.username,
-                role=db_user.role.value,
-                email_verified=db_user.email_verified,
-                is_active=db_user.is_active,
-                created_at=db_user.created_at,
-                updated_at=db_user.updated_at
-            )
+        refresh_token = self.auth_util.create_refresh_token(
+            {"sub": str(new_user.id)}
         )
 
-    # Get current user from token (used in protected routes)
-    async def get_current_user(self, token: str, db: AsyncSession) -> UserOutput:
+        return (
+            self._build_user_output(new_user),
+            access_token,
+            refresh_token
+        )
+
+
+    # Login
+    def login(
+        self,
+        user_login: UserLogin,
+        db: Session
+    ) -> Tuple[UserOutput, str, str]:
+        db_user: Optional[User] = db.exec(
+            select(User).where((User.email == user_login.email) & (User.is_active == True))
+        ).first()
+
+
+        if not db_user:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid credentials"
+            )
+
+        if not self.auth_util.verify_password(
+            user_login.password,
+            db_user.hashed_password
+        ):
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid credentials"
+            )
+
+        if not db_user.is_active:
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Inactive account"
+            )
+
+        access_token = self.auth_util.create_access_token(
+            {"sub": str(db_user.id)}
+        )
+
+        refresh_token = self.auth_util.create_refresh_token(
+            {"sub": str(db_user.id)}
+        )
+
+        return (
+            self._build_user_output(db_user),
+            access_token,
+            refresh_token
+        )
+
+
+    # Refresh Access Token
+    def refresh_access_token(
+        self,
+        refresh_token: str,
+        db: Session
+    ) -> str:
+
         try:
-            payload = self.auth_util.decode_token(token)
-            username = payload.get("sub")
-            if not username:
-                raise HTTPException(status_code=401, detail="Invalid token")
-        except ValueError as e:
-            raise HTTPException(status_code=401, detail=str(e))
+            payload = self.auth_util.decode_token(
+                refresh_token
+              
+            )
+        except ValueError:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid refresh token"
+            )
 
-        query = select(User).where(User.username == username)
-        result = await db.execute(query)
-        db_user: Optional[User] = result.scalar_one_or_none()
+        user_id = payload.get("sub")
+        if not user_id:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid token payload"
+            )
+
+        db_user = db.exec(
+            select(User).where(User.id == int(user_id))
+        ).first()
+
+
         if not db_user or not db_user.is_active:
-            raise HTTPException(status_code=401, detail="Inactive user")
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="User not found or inactive"
+            )
 
+        return self.auth_util.create_access_token(
+            {"sub": str(db_user.id)}
+        )
+
+ 
+    # Get Current User
+    def get_current_user(
+        self,
+        token: str,
+        db: Session
+    ) -> UserOutput:
+
+        try:
+            payload = self.auth_util.decode_token(
+                token
+         
+            )
+        except ValueError:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid or expired token"
+            )
+
+        user_id = payload.get("sub")
+        if not user_id:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Invalid token payload"
+            )
+
+        db_user = db.exec(
+            select(User).where(User.id == int(user_id))
+        ).first()
+
+
+        if not db_user or not db_user.is_active:
+            raise HTTPException(
+                status_code=status.HTTP_401_UNAUTHORIZED,
+                detail="Inactive user"
+            )
+
+        return self._build_user_output(db_user)
+
+
+    # Mapper
+    def _build_user_output(self, user: User) -> UserOutput:
         return UserOutput(
-            id=db_user.id,
-            email=db_user.email,
-            username=db_user.username,
-            role=db_user.role.value,
-            email_verified=db_user.email_verified,
-            is_active=db_user.is_active,
-            created_at=db_user.created_at,
-            updated_at=db_user.updated_at
+            id=user.id,
+            email=user.email,
+            username=user.username,
+            role=user.role.value,
+            email_verified=user.email_verified,
+            is_active=user.is_active,
+            created_at=user.created_at,
+            updated_at=user.updated_at
         )

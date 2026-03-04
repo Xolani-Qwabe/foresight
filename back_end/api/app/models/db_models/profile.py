@@ -67,7 +67,7 @@ class Profile(SQLModel, table=True):
     )
     # One-to-one ownership
     user_id: int = Field(
-        foreign_key="users.id",
+        foreign_key="public.users.id",
         unique=True,
         nullable=False,
         index=True,

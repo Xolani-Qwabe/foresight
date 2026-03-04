@@ -1,32 +1,42 @@
 from datetime import datetime
 from typing import Optional
-from sqlmodel import SQLModel
+from enum import Enum
+from sqlmodel import SQLModel, Field
+from pydantic import EmailStr
 
-# registration schema
+
+# Role Enum
+class Role(str, Enum):
+    admin = "admin"
+    normal = "normal"
+    paid = "paid"
+    owner = "owner"
+
+
+# Registration Schema
 class UserCreate(SQLModel):
-    email: str
-    password: str
-    username: Optional[str] = None
+    email: EmailStr
+    password: str = Field(min_length=8, max_length=128)
+    username: Optional[str] = Field(default=None, min_length=3, max_length=30)
 
-# login schema
+
+# Login Schema
 class UserLogin(SQLModel):
-    username: str
-    password: str
+    email: EmailStr
+    password: str = Field(min_length=8, max_length=128)
 
-# public user schema
+
+# Public User Schema
 class UserOutput(SQLModel):
     id: int
-    email: str
+    email: EmailStr
     username: Optional[str]
-    role: str
+    role: Role  # Use the Enum here instead of str
     email_verified: bool
     is_active: bool
     created_at: datetime
     updated_at: datetime
 
-# public user with token schema
-class UserWithToken(SQLModel):
-    access_token: str
-    refresh_token: str
-    token_type: str = "bearer"
-    user: UserOutput
+    model_config = {
+        "from_attributes": True
+    }

@@ -18,7 +18,7 @@ async def lifespan(app: FastAPI):
     # Startup code
     # Initialize db at start
     print("Creating tables...")
-    DBUtility(engine_url=POSTGRES_CONNECTION_STRING, echo=True, async_mode=False).create_tables()
+    DBUtility(engine_url=POSTGRES_CONNECTION_STRING, echo=True).create_tables()
     yield
     # Shutdown code
 
@@ -28,10 +28,10 @@ app.include_router(auth_router.router)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  
+    allow_origins=["http://localhost:3000"],  
     allow_credentials=True,
-    allow_methods=["*"],  
-    allow_headers=["*"],  
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 

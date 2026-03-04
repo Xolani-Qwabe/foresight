@@ -25,14 +25,14 @@ class AuthUtility:
         self.refresh_exp_days = refresh_exp_days
         self.pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
-    # Password hashing & verification
+
     def hash_password(self, password: str) -> str:
         return self.pwd_context.hash(password)
 
     def verify_password(self, plain_password: str, hashed_password: str) -> bool:
         return self.pwd_context.verify(plain_password, hashed_password)
 
-    # JWT Token generation & verification
+
     def create_access_token(self, data: dict, expires_delta: Optional[timedelta] = None) -> str:
         to_encode = data.copy()
         expire = datetime.now(timezone.utc) + (expires_delta or timedelta(minutes=self.access_exp_minutes))
