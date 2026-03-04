@@ -1,5 +1,5 @@
 // MyButton.tsx - Simplified version
-import { Button } from "@base-ui/react/button";
+import { Button , ButtonProps } from "@base-ui/react/button";
 import { ReactNode } from "react";
 
 type MyButtonProps = {
@@ -8,13 +8,15 @@ type MyButtonProps = {
   text: string;
   icon: ReactNode;
   rounded: string;
-  type?: "button" | "submit" | "reset"; 
-};
+  type?: "button" | "submit" | "reset";
+  onClick?: () => void;
+} & Partial<ButtonProps>;
 
-const MyButton = ({ name, color, text, icon, rounded, type = "button" }: MyButtonProps) => {
+const MyButton = ({ name, color, text, icon, rounded, type = "button",onClick }: MyButtonProps) => {
   return (
     <Button
       type={type}
+      onClick={onClick} 
       className={`
         inline-flex
         gap-2
@@ -32,6 +34,7 @@ const MyButton = ({ name, color, text, icon, rounded, type = "button" }: MyButto
         bg-linear-to-right
         px-4
         py-2
+        mx-1
         ${rounded}
         cursor-pointer
         bg-gradient-to-br

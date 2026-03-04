@@ -1,11 +1,9 @@
-import Image from "next/image";
-import MyButton from "./my-components/MyButton";
+"use client";
+import * as React from "react";
 
 
-import LoginForm from "@/my-components/LoginForm";
-import DemoPage from "./payments/page";
 
-export default function Home() {
+export default function App() {
   return (
     <main
       className=" 
@@ -18,13 +16,7 @@ export default function Home() {
     bg-background-layer-0 
     "
     >
- 
-      {/* <SignUpForm/> */}
-      {/* <LoginForm/> */}
-      
-      <DemoPage/>
+      <div>Home</div>
     </main>
   );
 }
-
-

@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Toaster } from "react-hot-toast";
-import MyNavigation from "@/my-components/MyNavigation"
+import NavWrapper from "@/my-components/NavWrapper";
+import { Providers } from "@/app/providers";
+import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import "@/app/globals.css";
 
 const geistSans = Geist({
@@ -29,9 +31,16 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased root`}
       >
-        <MyNavigation/>
-        {children}
-        <Toaster position="top-right" />
+        <Providers>
+          <NavWrapper />
+          {children}
+          <Toaster position="top-right" />
+          <ReactQueryDevtools
+            initialIsOpen={false}
+            buttonPosition="top-left"
+            position="left"
+          />
+        </Providers>
       </body>
     </html>
   );
